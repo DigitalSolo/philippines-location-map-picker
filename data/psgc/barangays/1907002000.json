@@ -1,0 +1,737 @@
+[
+  {
+    "id": "1907002027",
+    "code": "1907002027",
+    "name": "Bongao Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907002000",
+      "code": "1907002000",
+      "name": "Bongao"
+    }
+  },
+  {
+    "id": "1907002005",
+    "code": "1907002005",
+    "name": "Ipil",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907002000",
+      "code": "1907002000",
+      "name": "Bongao"
+    }
+  },
+  {
+    "id": "1907002006",
+    "code": "1907002006",
+    "name": "Kamagong",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907002000",
+      "code": "1907002000",
+      "name": "Bongao"
+    }
+  },
+  {
+    "id": "1907002007",
+    "code": "1907002007",
+    "name": "Karungdong",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907002000",
+      "code": "1907002000",
+      "name": "Bongao"
+    }
+  },
+  {
+    "id": "1907002044",
+    "code": "1907002044",
+    "name": "Lagasan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907002000",
+      "code": "1907002000",
+      "name": "Bongao"
+    }
+  },
+  {
+    "id": "1907002009",
+    "code": "1907002009",
+    "name": "Lakit Lakit",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907002000",
+      "code": "1907002000",
+      "name": "Bongao"
+    }
+  },
+  {
+    "id": "1907002010",
+    "code": "1907002010",
+    "name": "Lamion",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907002000",
+      "code": "1907002000",
+      "name": "Bongao"
+    }
+  },
+  {
+    "id": "1907002012",
+    "code": "1907002012",
+    "name": "Lapid Lapid",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907002000",
+      "code": "1907002000",
+      "name": "Bongao"
+    }
+  },
+  {
+    "id": "1907002013",
+    "code": "1907002013",
+    "name": "Lato Lato",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907002000",
+      "code": "1907002000",
+      "name": "Bongao"
+    }
+  },
+  {
+    "id": "1907002014",
+    "code": "1907002014",
+    "name": "Luuk Pandan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907002000",
+      "code": "1907002000",
+      "name": "Bongao"
+    }
+  },
+  {
+    "id": "1907002015",
+    "code": "1907002015",
+    "name": "Luuk Tulay",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907002000",
+      "code": "1907002000",
+      "name": "Bongao"
+    }
+  },
+  {
+    "id": "1907002016",
+    "code": "1907002016",
+    "name": "Malassa",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907002000",
+      "code": "1907002000",
+      "name": "Bongao"
+    }
+  },
+  {
+    "id": "1907002017",
+    "code": "1907002017",
+    "name": "Mandulan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907002000",
+      "code": "1907002000",
+      "name": "Bongao"
+    }
+  },
+  {
+    "id": "1907002018",
+    "code": "1907002018",
+    "name": "Masantong",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907002000",
+      "code": "1907002000",
+      "name": "Bongao"
+    }
+  },
+  {
+    "id": "1907002019",
+    "code": "1907002019",
+    "name": "Montay Montay",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907002000",
+      "code": "1907002000",
+      "name": "Bongao"
+    }
+  },
+  {
+    "id": "1907002045",
+    "code": "1907002045",
+    "name": "Nalil",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907002000",
+      "code": "1907002000",
+      "name": "Bongao"
+    }
+  },
+  {
+    "id": "1907002021",
+    "code": "1907002021",
+    "name": "Pababag",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907002000",
+      "code": "1907002000",
+      "name": "Bongao"
+    }
+  },
+  {
+    "id": "1907002047",
+    "code": "1907002047",
+    "name": "Pag-asa",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907002000",
+      "code": "1907002000",
+      "name": "Bongao"
+    }
+  },
+  {
+    "id": "1907002022",
+    "code": "1907002022",
+    "name": "Pagasinan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907002000",
+      "code": "1907002000",
+      "name": "Bongao"
+    }
+  },
+  {
+    "id": "1907002046",
+    "code": "1907002046",
+    "name": "Pagatpat",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907002000",
+      "code": "1907002000",
+      "name": "Bongao"
+    }
+  },
+  {
+    "id": "1907002023",
+    "code": "1907002023",
+    "name": "Pahut",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907002000",
+      "code": "1907002000",
+      "name": "Bongao"
+    }
+  },
+  {
+    "id": "1907002024",
+    "code": "1907002024",
+    "name": "Pakias",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907002000",
+      "code": "1907002000",
+      "name": "Bongao"
+    }
+  },
+  {
+    "id": "1907002025",
+    "code": "1907002025",
+    "name": "Paniongan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907002000",
+      "code": "1907002000",
+      "name": "Bongao"
+    }
+  },
+  {
+    "id": "1907002026",
+    "code": "1907002026",
+    "name": "Pasiagan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907002000",
+      "code": "1907002000",
+      "name": "Bongao"
+    }
+  },
+  {
+    "id": "1907002030",
+    "code": "1907002030",
+    "name": "Sanga-sanga",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907002000",
+      "code": "1907002000",
+      "name": "Bongao"
+    }
+  },
+  {
+    "id": "1907002031",
+    "code": "1907002031",
+    "name": "Silubog",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907002000",
+      "code": "1907002000",
+      "name": "Bongao"
+    }
+  },
+  {
+    "id": "1907002033",
+    "code": "1907002033",
+    "name": "Simandagit",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907002000",
+      "code": "1907002000",
+      "name": "Bongao"
+    }
+  },
+  {
+    "id": "1907002034",
+    "code": "1907002034",
+    "name": "Sumangat",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907002000",
+      "code": "1907002000",
+      "name": "Bongao"
+    }
+  },
+  {
+    "id": "1907002037",
+    "code": "1907002037",
+    "name": "Tarawakan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907002000",
+      "code": "1907002000",
+      "name": "Bongao"
+    }
+  },
+  {
+    "id": "1907002040",
+    "code": "1907002040",
+    "name": "Tongsinah",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907002000",
+      "code": "1907002000",
+      "name": "Bongao"
+    }
+  },
+  {
+    "id": "1907002042",
+    "code": "1907002042",
+    "name": "Tubig Basag",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907002000",
+      "code": "1907002000",
+      "name": "Bongao"
+    }
+  },
+  {
+    "id": "1907002048",
+    "code": "1907002048",
+    "name": "Tubig Tanah",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907002000",
+      "code": "1907002000",
+      "name": "Bongao"
+    }
+  },
+  {
+    "id": "1907002049",
+    "code": "1907002049",
+    "name": "Tubig-Boh",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907002000",
+      "code": "1907002000",
+      "name": "Bongao"
+    }
+  },
+  {
+    "id": "1907002050",
+    "code": "1907002050",
+    "name": "Tubig-Mampallam",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907002000",
+      "code": "1907002000",
+      "name": "Bongao"
+    }
+  },
+  {
+    "id": "1907002043",
+    "code": "1907002043",
+    "name": "Ungus-ungus",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907002000",
+      "code": "1907002000",
+      "name": "Bongao"
+    }
+  }
+]

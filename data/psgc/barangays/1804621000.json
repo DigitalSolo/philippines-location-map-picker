@@ -1,0 +1,506 @@
+[
+  {
+    "id": "1804621001",
+    "code": "1804621001",
+    "name": "Azagra",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804621000",
+      "code": "1804621000",
+      "name": "City of Tanjay"
+    }
+  },
+  {
+    "id": "1804621002",
+    "code": "1804621002",
+    "name": "Bahi-an",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804621000",
+      "code": "1804621000",
+      "name": "City of Tanjay"
+    }
+  },
+  {
+    "id": "1804621003",
+    "code": "1804621003",
+    "name": "Luca",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804621000",
+      "code": "1804621000",
+      "name": "City of Tanjay"
+    }
+  },
+  {
+    "id": "1804621004",
+    "code": "1804621004",
+    "name": "Manipis",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804621000",
+      "code": "1804621000",
+      "name": "City of Tanjay"
+    }
+  },
+  {
+    "id": "1804621005",
+    "code": "1804621005",
+    "name": "Novallas",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804621000",
+      "code": "1804621000",
+      "name": "City of Tanjay"
+    }
+  },
+  {
+    "id": "1804621006",
+    "code": "1804621006",
+    "name": "Obogon",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804621000",
+      "code": "1804621000",
+      "name": "City of Tanjay"
+    }
+  },
+  {
+    "id": "1804621007",
+    "code": "1804621007",
+    "name": "Pal-ew",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804621000",
+      "code": "1804621000",
+      "name": "City of Tanjay"
+    }
+  },
+  {
+    "id": "1804621008",
+    "code": "1804621008",
+    "name": "Poblacion I",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804621000",
+      "code": "1804621000",
+      "name": "City of Tanjay"
+    }
+  },
+  {
+    "id": "1804621009",
+    "code": "1804621009",
+    "name": "Poblacion II",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804621000",
+      "code": "1804621000",
+      "name": "City of Tanjay"
+    }
+  },
+  {
+    "id": "1804621010",
+    "code": "1804621010",
+    "name": "Poblacion III",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804621000",
+      "code": "1804621000",
+      "name": "City of Tanjay"
+    }
+  },
+  {
+    "id": "1804621011",
+    "code": "1804621011",
+    "name": "Poblacion IV",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804621000",
+      "code": "1804621000",
+      "name": "City of Tanjay"
+    }
+  },
+  {
+    "id": "1804621016",
+    "code": "1804621016",
+    "name": "Poblacion IX",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804621000",
+      "code": "1804621000",
+      "name": "City of Tanjay"
+    }
+  },
+  {
+    "id": "1804621012",
+    "code": "1804621012",
+    "name": "Poblacion V",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804621000",
+      "code": "1804621000",
+      "name": "City of Tanjay"
+    }
+  },
+  {
+    "id": "1804621013",
+    "code": "1804621013",
+    "name": "Poblacion VI",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804621000",
+      "code": "1804621000",
+      "name": "City of Tanjay"
+    }
+  },
+  {
+    "id": "1804621014",
+    "code": "1804621014",
+    "name": "Poblacion VII",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804621000",
+      "code": "1804621000",
+      "name": "City of Tanjay"
+    }
+  },
+  {
+    "id": "1804621015",
+    "code": "1804621015",
+    "name": "Poblacion VIII",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804621000",
+      "code": "1804621000",
+      "name": "City of Tanjay"
+    }
+  },
+  {
+    "id": "1804621017",
+    "code": "1804621017",
+    "name": "Polo",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804621000",
+      "code": "1804621000",
+      "name": "City of Tanjay"
+    }
+  },
+  {
+    "id": "1804621018",
+    "code": "1804621018",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804621000",
+      "code": "1804621000",
+      "name": "City of Tanjay"
+    }
+  },
+  {
+    "id": "1804621019",
+    "code": "1804621019",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804621000",
+      "code": "1804621000",
+      "name": "City of Tanjay"
+    }
+  },
+  {
+    "id": "1804621020",
+    "code": "1804621020",
+    "name": "San Miguel",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804621000",
+      "code": "1804621000",
+      "name": "City of Tanjay"
+    }
+  },
+  {
+    "id": "1804621021",
+    "code": "1804621021",
+    "name": "Santa Cruz Nuevo",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804621000",
+      "code": "1804621000",
+      "name": "City of Tanjay"
+    }
+  },
+  {
+    "id": "1804621022",
+    "code": "1804621022",
+    "name": "Santa Cruz Viejo",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804621000",
+      "code": "1804621000",
+      "name": "City of Tanjay"
+    }
+  },
+  {
+    "id": "1804621023",
+    "code": "1804621023",
+    "name": "Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804621000",
+      "code": "1804621000",
+      "name": "City of Tanjay"
+    }
+  },
+  {
+    "id": "1804621025",
+    "code": "1804621025",
+    "name": "Tugas",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804621000",
+      "code": "1804621000",
+      "name": "City of Tanjay"
+    }
+  }
+]

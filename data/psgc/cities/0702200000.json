@@ -1,0 +1,802 @@
+[
+  {
+    "id": "0702201000",
+    "code": "0702201000",
+    "name": "Alcantara",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702202000",
+    "code": "0702202000",
+    "name": "Alcoy",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702203000",
+    "code": "0702203000",
+    "name": "Alegria",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702204000",
+    "code": "0702204000",
+    "name": "Aloguinsan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702205000",
+    "code": "0702205000",
+    "name": "Argao",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702206000",
+    "code": "0702206000",
+    "name": "Asturias",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702207000",
+    "code": "0702207000",
+    "name": "Badian",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702208000",
+    "code": "0702208000",
+    "name": "Balamban",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702209000",
+    "code": "0702209000",
+    "name": "Bantayan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702210000",
+    "code": "0702210000",
+    "name": "Barili",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702212000",
+    "code": "0702212000",
+    "name": "Boljoon",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702213000",
+    "code": "0702213000",
+    "name": "Borbon",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702215000",
+    "code": "0702215000",
+    "name": "Carmen",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702216000",
+    "code": "0702216000",
+    "name": "Catmon",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702211000",
+    "code": "0702211000",
+    "name": "City of Bogo",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702214000",
+    "code": "0702214000",
+    "name": "City of Carcar",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702234000",
+    "code": "0702234000",
+    "name": "City of Naga",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702250000",
+    "code": "0702250000",
+    "name": "City of Talisay",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702251000",
+    "code": "0702251000",
+    "name": "City of Toledo",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702218000",
+    "code": "0702218000",
+    "name": "Compostela",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702219000",
+    "code": "0702219000",
+    "name": "Consolacion",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702220000",
+    "code": "0702220000",
+    "name": "Cordova",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702221000",
+    "code": "0702221000",
+    "name": "Daanbantayan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702222000",
+    "code": "0702222000",
+    "name": "Dalaguete",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702223000",
+    "code": "0702223000",
+    "name": "Danao City",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702224000",
+    "code": "0702224000",
+    "name": "Dumanjug",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702225000",
+    "code": "0702225000",
+    "name": "Ginatilan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702227000",
+    "code": "0702227000",
+    "name": "Liloan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702228000",
+    "code": "0702228000",
+    "name": "Madridejos",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702229000",
+    "code": "0702229000",
+    "name": "Malabuyoc",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702231000",
+    "code": "0702231000",
+    "name": "Medellin",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702232000",
+    "code": "0702232000",
+    "name": "Minglanilla",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702233000",
+    "code": "0702233000",
+    "name": "Moalboal",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702235000",
+    "code": "0702235000",
+    "name": "Oslob",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702236000",
+    "code": "0702236000",
+    "name": "Pilar",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702237000",
+    "code": "0702237000",
+    "name": "Pinamungajan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702238000",
+    "code": "0702238000",
+    "name": "Poro",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702239000",
+    "code": "0702239000",
+    "name": "Ronda",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702240000",
+    "code": "0702240000",
+    "name": "Samboan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702241000",
+    "code": "0702241000",
+    "name": "San Fernando",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702242000",
+    "code": "0702242000",
+    "name": "San Francisco",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702243000",
+    "code": "0702243000",
+    "name": "San Remigio",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702244000",
+    "code": "0702244000",
+    "name": "Santa Fe",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702245000",
+    "code": "0702245000",
+    "name": "Santander",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702246000",
+    "code": "0702246000",
+    "name": "Sibonga",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702247000",
+    "code": "0702247000",
+    "name": "Sogod",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702248000",
+    "code": "0702248000",
+    "name": "Tabogon",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702249000",
+    "code": "0702249000",
+    "name": "Tabuelan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702252000",
+    "code": "0702252000",
+    "name": "Tuburan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  },
+  {
+    "id": "0702253000",
+    "code": "0702253000",
+    "name": "Tudela",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    }
+  }
+]

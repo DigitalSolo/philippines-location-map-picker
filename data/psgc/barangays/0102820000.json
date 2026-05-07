@@ -1,0 +1,506 @@
+[
+  {
+    "id": "0102820003",
+    "code": "0102820003",
+    "name": "San Agustin",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102820000",
+      "code": "0102820000",
+      "name": "San Nicolas"
+    }
+  },
+  {
+    "id": "0102820004",
+    "code": "0102820004",
+    "name": "San Baltazar",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102820000",
+      "code": "0102820000",
+      "name": "San Nicolas"
+    }
+  },
+  {
+    "id": "0102820005",
+    "code": "0102820005",
+    "name": "San Bartolome",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102820000",
+      "code": "0102820000",
+      "name": "San Nicolas"
+    }
+  },
+  {
+    "id": "0102820006",
+    "code": "0102820006",
+    "name": "San Cayetano",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102820000",
+      "code": "0102820000",
+      "name": "San Nicolas"
+    }
+  },
+  {
+    "id": "0102820007",
+    "code": "0102820007",
+    "name": "San Eugenio",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102820000",
+      "code": "0102820000",
+      "name": "San Nicolas"
+    }
+  },
+  {
+    "id": "0102820008",
+    "code": "0102820008",
+    "name": "San Fernando",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102820000",
+      "code": "0102820000",
+      "name": "San Nicolas"
+    }
+  },
+  {
+    "id": "0102820001",
+    "code": "0102820001",
+    "name": "San Francisco",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102820000",
+      "code": "0102820000",
+      "name": "San Nicolas"
+    }
+  },
+  {
+    "id": "0102820009",
+    "code": "0102820009",
+    "name": "San Gregorio",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102820000",
+      "code": "0102820000",
+      "name": "San Nicolas"
+    }
+  },
+  {
+    "id": "0102820010",
+    "code": "0102820010",
+    "name": "San Guillermo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102820000",
+      "code": "0102820000",
+      "name": "San Nicolas"
+    }
+  },
+  {
+    "id": "0102820002",
+    "code": "0102820002",
+    "name": "San Ildefonso",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102820000",
+      "code": "0102820000",
+      "name": "San Nicolas"
+    }
+  },
+  {
+    "id": "0102820011",
+    "code": "0102820011",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102820000",
+      "code": "0102820000",
+      "name": "San Nicolas"
+    }
+  },
+  {
+    "id": "0102820012",
+    "code": "0102820012",
+    "name": "San Juan Bautista",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102820000",
+      "code": "0102820000",
+      "name": "San Nicolas"
+    }
+  },
+  {
+    "id": "0102820013",
+    "code": "0102820013",
+    "name": "San Lorenzo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102820000",
+      "code": "0102820000",
+      "name": "San Nicolas"
+    }
+  },
+  {
+    "id": "0102820014",
+    "code": "0102820014",
+    "name": "San Lucas",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102820000",
+      "code": "0102820000",
+      "name": "San Nicolas"
+    }
+  },
+  {
+    "id": "0102820015",
+    "code": "0102820015",
+    "name": "San Marcos",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102820000",
+      "code": "0102820000",
+      "name": "San Nicolas"
+    }
+  },
+  {
+    "id": "0102820016",
+    "code": "0102820016",
+    "name": "San Miguel",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102820000",
+      "code": "0102820000",
+      "name": "San Nicolas"
+    }
+  },
+  {
+    "id": "0102820017",
+    "code": "0102820017",
+    "name": "San Pablo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102820000",
+      "code": "0102820000",
+      "name": "San Nicolas"
+    }
+  },
+  {
+    "id": "0102820018",
+    "code": "0102820018",
+    "name": "San Paulo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102820000",
+      "code": "0102820000",
+      "name": "San Nicolas"
+    }
+  },
+  {
+    "id": "0102820019",
+    "code": "0102820019",
+    "name": "San Pedro",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102820000",
+      "code": "0102820000",
+      "name": "San Nicolas"
+    }
+  },
+  {
+    "id": "0102820020",
+    "code": "0102820020",
+    "name": "San Rufino",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102820000",
+      "code": "0102820000",
+      "name": "San Nicolas"
+    }
+  },
+  {
+    "id": "0102820021",
+    "code": "0102820021",
+    "name": "San Silvestre",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102820000",
+      "code": "0102820000",
+      "name": "San Nicolas"
+    }
+  },
+  {
+    "id": "0102820022",
+    "code": "0102820022",
+    "name": "Santa Asuncion",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102820000",
+      "code": "0102820000",
+      "name": "San Nicolas"
+    }
+  },
+  {
+    "id": "0102820023",
+    "code": "0102820023",
+    "name": "Santa Cecilia",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102820000",
+      "code": "0102820000",
+      "name": "San Nicolas"
+    }
+  },
+  {
+    "id": "0102820024",
+    "code": "0102820024",
+    "name": "Santa Monica",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102820000",
+      "code": "0102820000",
+      "name": "San Nicolas"
+    }
+  }
+]

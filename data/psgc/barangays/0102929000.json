@@ -1,0 +1,149 @@
+[
+  {
+    "id": "0102929001",
+    "code": "0102929001",
+    "name": "Abaccan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102929000",
+      "code": "0102929000",
+      "name": "Sigay"
+    }
+  },
+  {
+    "id": "0102929002",
+    "code": "0102929002",
+    "name": "Mabileg",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102929000",
+      "code": "0102929000",
+      "name": "Sigay"
+    }
+  },
+  {
+    "id": "0102929003",
+    "code": "0102929003",
+    "name": "Matallucod",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102929000",
+      "code": "0102929000",
+      "name": "Sigay"
+    }
+  },
+  {
+    "id": "0102929004",
+    "code": "0102929004",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102929000",
+      "code": "0102929000",
+      "name": "Sigay"
+    }
+  },
+  {
+    "id": "0102929005",
+    "code": "0102929005",
+    "name": "San Elias",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102929000",
+      "code": "0102929000",
+      "name": "Sigay"
+    }
+  },
+  {
+    "id": "0102929006",
+    "code": "0102929006",
+    "name": "San Ramon",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102929000",
+      "code": "0102929000",
+      "name": "Sigay"
+    }
+  },
+  {
+    "id": "0102929007",
+    "code": "0102929007",
+    "name": "Santo Rosario",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102929000",
+      "code": "0102929000",
+      "name": "Sigay"
+    }
+  }
+]

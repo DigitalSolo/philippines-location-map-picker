@@ -1,0 +1,695 @@
+[
+  {
+    "id": "0802613001",
+    "code": "0802613001",
+    "name": "Antipolo",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802613000",
+      "code": "0802613000",
+      "name": "Llorente"
+    }
+  },
+  {
+    "id": "0802613002",
+    "code": "0802613002",
+    "name": "Babanikhon",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802613000",
+      "code": "0802613000",
+      "name": "Llorente"
+    }
+  },
+  {
+    "id": "0802613003",
+    "code": "0802613003",
+    "name": "Bacayawan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802613000",
+      "code": "0802613000",
+      "name": "Llorente"
+    }
+  },
+  {
+    "id": "0802613017",
+    "code": "0802613017",
+    "name": "Barangay 1",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802613000",
+      "code": "0802613000",
+      "name": "Llorente"
+    }
+  },
+  {
+    "id": "0802613026",
+    "code": "0802613026",
+    "name": "Barangay 10",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802613000",
+      "code": "0802613000",
+      "name": "Llorente"
+    }
+  },
+  {
+    "id": "0802613027",
+    "code": "0802613027",
+    "name": "Barangay 11",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802613000",
+      "code": "0802613000",
+      "name": "Llorente"
+    }
+  },
+  {
+    "id": "0802613028",
+    "code": "0802613028",
+    "name": "Barangay 12",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802613000",
+      "code": "0802613000",
+      "name": "Llorente"
+    }
+  },
+  {
+    "id": "0802613018",
+    "code": "0802613018",
+    "name": "Barangay 2",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802613000",
+      "code": "0802613000",
+      "name": "Llorente"
+    }
+  },
+  {
+    "id": "0802613019",
+    "code": "0802613019",
+    "name": "Barangay 3",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802613000",
+      "code": "0802613000",
+      "name": "Llorente"
+    }
+  },
+  {
+    "id": "0802613020",
+    "code": "0802613020",
+    "name": "Barangay 4",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802613000",
+      "code": "0802613000",
+      "name": "Llorente"
+    }
+  },
+  {
+    "id": "0802613021",
+    "code": "0802613021",
+    "name": "Barangay 5",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802613000",
+      "code": "0802613000",
+      "name": "Llorente"
+    }
+  },
+  {
+    "id": "0802613022",
+    "code": "0802613022",
+    "name": "Barangay 6",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802613000",
+      "code": "0802613000",
+      "name": "Llorente"
+    }
+  },
+  {
+    "id": "0802613023",
+    "code": "0802613023",
+    "name": "Barangay 7",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802613000",
+      "code": "0802613000",
+      "name": "Llorente"
+    }
+  },
+  {
+    "id": "0802613024",
+    "code": "0802613024",
+    "name": "Barangay 8",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802613000",
+      "code": "0802613000",
+      "name": "Llorente"
+    }
+  },
+  {
+    "id": "0802613025",
+    "code": "0802613025",
+    "name": "Barangay 9",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802613000",
+      "code": "0802613000",
+      "name": "Llorente"
+    }
+  },
+  {
+    "id": "0802613004",
+    "code": "0802613004",
+    "name": "Barobo",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802613000",
+      "code": "0802613000",
+      "name": "Llorente"
+    }
+  },
+  {
+    "id": "0802613005",
+    "code": "0802613005",
+    "name": "Burak",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802613000",
+      "code": "0802613000",
+      "name": "Llorente"
+    }
+  },
+  {
+    "id": "0802613006",
+    "code": "0802613006",
+    "name": "Can-ato",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802613000",
+      "code": "0802613000",
+      "name": "Llorente"
+    }
+  },
+  {
+    "id": "0802613007",
+    "code": "0802613007",
+    "name": "Candoros",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802613000",
+      "code": "0802613000",
+      "name": "Llorente"
+    }
+  },
+  {
+    "id": "0802613008",
+    "code": "0802613008",
+    "name": "Canliwag",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802613000",
+      "code": "0802613000",
+      "name": "Llorente"
+    }
+  },
+  {
+    "id": "0802613010",
+    "code": "0802613010",
+    "name": "Cantomco",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802613000",
+      "code": "0802613000",
+      "name": "Llorente"
+    }
+  },
+  {
+    "id": "0802613011",
+    "code": "0802613011",
+    "name": "Hugpa",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802613000",
+      "code": "0802613000",
+      "name": "Llorente"
+    }
+  },
+  {
+    "id": "0802613012",
+    "code": "0802613012",
+    "name": "Maca-anga",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802613000",
+      "code": "0802613000",
+      "name": "Llorente"
+    }
+  },
+  {
+    "id": "0802613013",
+    "code": "0802613013",
+    "name": "Magtino",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802613000",
+      "code": "0802613000",
+      "name": "Llorente"
+    }
+  },
+  {
+    "id": "0802613014",
+    "code": "0802613014",
+    "name": "Mina-anod",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802613000",
+      "code": "0802613000",
+      "name": "Llorente"
+    }
+  },
+  {
+    "id": "0802613015",
+    "code": "0802613015",
+    "name": "Naubay",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802613000",
+      "code": "0802613000",
+      "name": "Llorente"
+    }
+  },
+  {
+    "id": "0802613016",
+    "code": "0802613016",
+    "name": "Piliw",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802613000",
+      "code": "0802613000",
+      "name": "Llorente"
+    }
+  },
+  {
+    "id": "0802613029",
+    "code": "0802613029",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802613000",
+      "code": "0802613000",
+      "name": "Llorente"
+    }
+  },
+  {
+    "id": "0802613030",
+    "code": "0802613030",
+    "name": "San Miguel",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802613000",
+      "code": "0802613000",
+      "name": "Llorente"
+    }
+  },
+  {
+    "id": "0802613031",
+    "code": "0802613031",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802613000",
+      "code": "0802613000",
+      "name": "Llorente"
+    }
+  },
+  {
+    "id": "0802613032",
+    "code": "0802613032",
+    "name": "So-ong",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802613000",
+      "code": "0802613000",
+      "name": "Llorente"
+    }
+  },
+  {
+    "id": "0802613033",
+    "code": "0802613033",
+    "name": "Tabok",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802613000",
+      "code": "0802613000",
+      "name": "Llorente"
+    }
+  },
+  {
+    "id": "0802613034",
+    "code": "0802613034",
+    "name": "Waso",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802613000",
+      "code": "0802613000",
+      "name": "Llorente"
+    }
+  }
+]

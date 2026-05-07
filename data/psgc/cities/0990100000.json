@@ -1,0 +1,18 @@
+[
+  {
+    "id": "0990101000",
+    "code": "0990101000",
+    "name": "City of Isabela",
+    "type": "city_municipality",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0990100000",
+      "code": "0990100000",
+      "name": "City of Isabela (Not a Province)"
+    }
+  }
+]

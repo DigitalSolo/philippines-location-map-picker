@@ -1,0 +1,800 @@
+[
+  {
+    "id": "1204707001",
+    "code": "1204707001",
+    "name": "Batasan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204707000",
+      "code": "1204707000",
+      "name": "Makilala"
+    }
+  },
+  {
+    "id": "1204707002",
+    "code": "1204707002",
+    "name": "Bato",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204707000",
+      "code": "1204707000",
+      "name": "Makilala"
+    }
+  },
+  {
+    "id": "1204707003",
+    "code": "1204707003",
+    "name": "Biangan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204707000",
+      "code": "1204707000",
+      "name": "Makilala"
+    }
+  },
+  {
+    "id": "1204707004",
+    "code": "1204707004",
+    "name": "Buena Vida",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204707000",
+      "code": "1204707000",
+      "name": "Makilala"
+    }
+  },
+  {
+    "id": "1204707005",
+    "code": "1204707005",
+    "name": "Buhay",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204707000",
+      "code": "1204707000",
+      "name": "Makilala"
+    }
+  },
+  {
+    "id": "1204707006",
+    "code": "1204707006",
+    "name": "Bulakanon",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204707000",
+      "code": "1204707000",
+      "name": "Makilala"
+    }
+  },
+  {
+    "id": "1204707007",
+    "code": "1204707007",
+    "name": "Cabilao",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204707000",
+      "code": "1204707000",
+      "name": "Makilala"
+    }
+  },
+  {
+    "id": "1204707008",
+    "code": "1204707008",
+    "name": "Concepcion",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204707000",
+      "code": "1204707000",
+      "name": "Makilala"
+    }
+  },
+  {
+    "id": "1204707009",
+    "code": "1204707009",
+    "name": "Dagupan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204707000",
+      "code": "1204707000",
+      "name": "Makilala"
+    }
+  },
+  {
+    "id": "1204707010",
+    "code": "1204707010",
+    "name": "Garsika",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204707000",
+      "code": "1204707000",
+      "name": "Makilala"
+    }
+  },
+  {
+    "id": "1204707011",
+    "code": "1204707011",
+    "name": "Guangan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204707000",
+      "code": "1204707000",
+      "name": "Makilala"
+    }
+  },
+  {
+    "id": "1204707012",
+    "code": "1204707012",
+    "name": "Indangan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204707000",
+      "code": "1204707000",
+      "name": "Makilala"
+    }
+  },
+  {
+    "id": "1204707013",
+    "code": "1204707013",
+    "name": "Jose Rizal",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204707000",
+      "code": "1204707000",
+      "name": "Makilala"
+    }
+  },
+  {
+    "id": "1204707014",
+    "code": "1204707014",
+    "name": "Katipunan II",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204707000",
+      "code": "1204707000",
+      "name": "Makilala"
+    }
+  },
+  {
+    "id": "1204707015",
+    "code": "1204707015",
+    "name": "Kawayanon",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204707000",
+      "code": "1204707000",
+      "name": "Makilala"
+    }
+  },
+  {
+    "id": "1204707016",
+    "code": "1204707016",
+    "name": "Kisante",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204707000",
+      "code": "1204707000",
+      "name": "Makilala"
+    }
+  },
+  {
+    "id": "1204707017",
+    "code": "1204707017",
+    "name": "Leboce",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204707000",
+      "code": "1204707000",
+      "name": "Makilala"
+    }
+  },
+  {
+    "id": "1204707018",
+    "code": "1204707018",
+    "name": "Libertad",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204707000",
+      "code": "1204707000",
+      "name": "Makilala"
+    }
+  },
+  {
+    "id": "1204707019",
+    "code": "1204707019",
+    "name": "Luayon",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204707000",
+      "code": "1204707000",
+      "name": "Makilala"
+    }
+  },
+  {
+    "id": "1204707020",
+    "code": "1204707020",
+    "name": "Luna Norte",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204707000",
+      "code": "1204707000",
+      "name": "Makilala"
+    }
+  },
+  {
+    "id": "1204707021",
+    "code": "1204707021",
+    "name": "Luna Sur",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204707000",
+      "code": "1204707000",
+      "name": "Makilala"
+    }
+  },
+  {
+    "id": "1204707022",
+    "code": "1204707022",
+    "name": "Malabuan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204707000",
+      "code": "1204707000",
+      "name": "Makilala"
+    }
+  },
+  {
+    "id": "1204707023",
+    "code": "1204707023",
+    "name": "Malasila",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204707000",
+      "code": "1204707000",
+      "name": "Makilala"
+    }
+  },
+  {
+    "id": "1204707024",
+    "code": "1204707024",
+    "name": "Malungon",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204707000",
+      "code": "1204707000",
+      "name": "Makilala"
+    }
+  },
+  {
+    "id": "1204707025",
+    "code": "1204707025",
+    "name": "New Baguio",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204707000",
+      "code": "1204707000",
+      "name": "Makilala"
+    }
+  },
+  {
+    "id": "1204707026",
+    "code": "1204707026",
+    "name": "New Bulatukan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204707000",
+      "code": "1204707000",
+      "name": "Makilala"
+    }
+  },
+  {
+    "id": "1204707027",
+    "code": "1204707027",
+    "name": "New Cebu",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204707000",
+      "code": "1204707000",
+      "name": "Makilala"
+    }
+  },
+  {
+    "id": "1204707038",
+    "code": "1204707038",
+    "name": "New Israel",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204707000",
+      "code": "1204707000",
+      "name": "Makilala"
+    }
+  },
+  {
+    "id": "1204707028",
+    "code": "1204707028",
+    "name": "Old Bulatukan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204707000",
+      "code": "1204707000",
+      "name": "Makilala"
+    }
+  },
+  {
+    "id": "1204707029",
+    "code": "1204707029",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204707000",
+      "code": "1204707000",
+      "name": "Makilala"
+    }
+  },
+  {
+    "id": "1204707030",
+    "code": "1204707030",
+    "name": "Rodero",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204707000",
+      "code": "1204707000",
+      "name": "Makilala"
+    }
+  },
+  {
+    "id": "1204707031",
+    "code": "1204707031",
+    "name": "Saguing",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204707000",
+      "code": "1204707000",
+      "name": "Makilala"
+    }
+  },
+  {
+    "id": "1204707032",
+    "code": "1204707032",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204707000",
+      "code": "1204707000",
+      "name": "Makilala"
+    }
+  },
+  {
+    "id": "1204707033",
+    "code": "1204707033",
+    "name": "Santa Felomina",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204707000",
+      "code": "1204707000",
+      "name": "Makilala"
+    }
+  },
+  {
+    "id": "1204707034",
+    "code": "1204707034",
+    "name": "Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204707000",
+      "code": "1204707000",
+      "name": "Makilala"
+    }
+  },
+  {
+    "id": "1204707035",
+    "code": "1204707035",
+    "name": "Sinkatulan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204707000",
+      "code": "1204707000",
+      "name": "Makilala"
+    }
+  },
+  {
+    "id": "1204707036",
+    "code": "1204707036",
+    "name": "Taluntalunan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204707000",
+      "code": "1204707000",
+      "name": "Makilala"
+    }
+  },
+  {
+    "id": "1204707037",
+    "code": "1204707037",
+    "name": "Villaflores",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204707000",
+      "code": "1204707000",
+      "name": "Makilala"
+    }
+  }
+]

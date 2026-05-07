@@ -1,0 +1,422 @@
+[
+  {
+    "id": "1102303001",
+    "code": "1102303001",
+    "name": "Alejal",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102303000",
+      "code": "1102303000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "1102303002",
+    "code": "1102303002",
+    "name": "Anibongan",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102303000",
+      "code": "1102303000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "1102303003",
+    "code": "1102303003",
+    "name": "Asuncion",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102303000",
+      "code": "1102303000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "1102303005",
+    "code": "1102303005",
+    "name": "Cebulano",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102303000",
+      "code": "1102303000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "1102303006",
+    "code": "1102303006",
+    "name": "Guadalupe",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102303000",
+      "code": "1102303000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "1102303007",
+    "code": "1102303007",
+    "name": "Ising",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102303000",
+      "code": "1102303000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "1102303008",
+    "code": "1102303008",
+    "name": "La Paz",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102303000",
+      "code": "1102303000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "1102303010",
+    "code": "1102303010",
+    "name": "Mabaus",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102303000",
+      "code": "1102303000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "1102303011",
+    "code": "1102303011",
+    "name": "Mabuhay",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102303000",
+      "code": "1102303000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "1102303012",
+    "code": "1102303012",
+    "name": "Magsaysay",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102303000",
+      "code": "1102303000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "1102303014",
+    "code": "1102303014",
+    "name": "Mangalcal",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102303000",
+      "code": "1102303000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "1102303015",
+    "code": "1102303015",
+    "name": "Minda",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102303000",
+      "code": "1102303000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "1102303016",
+    "code": "1102303016",
+    "name": "New Camiling",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102303000",
+      "code": "1102303000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "1102303023",
+    "code": "1102303023",
+    "name": "Salvacion",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102303000",
+      "code": "1102303000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "1102303018",
+    "code": "1102303018",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102303000",
+      "code": "1102303000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "1102303019",
+    "code": "1102303019",
+    "name": "Sto. Niño",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102303000",
+      "code": "1102303000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "1102303024",
+    "code": "1102303024",
+    "name": "Taba",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102303000",
+      "code": "1102303000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "1102303020",
+    "code": "1102303020",
+    "name": "Tibulao",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102303000",
+      "code": "1102303000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "1102303021",
+    "code": "1102303021",
+    "name": "Tubod",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102303000",
+      "code": "1102303000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "1102303022",
+    "code": "1102303022",
+    "name": "Tuganay",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102303000",
+      "code": "1102303000",
+      "name": "Carmen"
+    }
+  }
+]

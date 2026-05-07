@@ -1,0 +1,653 @@
+[
+  {
+    "id": "1001317001",
+    "code": "1001317001",
+    "name": "Butong",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001317000",
+      "code": "1001317000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "1001317006",
+    "code": "1001317006",
+    "name": "C-Handumanan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001317000",
+      "code": "1001317000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "1001317007",
+    "code": "1001317007",
+    "name": "Cawayan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001317000",
+      "code": "1001317000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "1001317002",
+    "code": "1001317002",
+    "name": "Cebole",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001317000",
+      "code": "1001317000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "1001317003",
+    "code": "1001317003",
+    "name": "Delapa",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001317000",
+      "code": "1001317000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "1001317004",
+    "code": "1001317004",
+    "name": "Dumalama",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001317000",
+      "code": "1001317000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "1001317008",
+    "code": "1001317008",
+    "name": "Kiburiao",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001317000",
+      "code": "1001317000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "1001317009",
+    "code": "1001317009",
+    "name": "Kipaypayon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001317000",
+      "code": "1001317000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "1001317010",
+    "code": "1001317010",
+    "name": "Libertad",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001317000",
+      "code": "1001317000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "1001317012",
+    "code": "1001317012",
+    "name": "Linabo",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001317000",
+      "code": "1001317000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "1001317013",
+    "code": "1001317013",
+    "name": "Lipa",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001317000",
+      "code": "1001317000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "1001317014",
+    "code": "1001317014",
+    "name": "Lumintao",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001317000",
+      "code": "1001317000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "1001317016",
+    "code": "1001317016",
+    "name": "Magsaysay",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001317000",
+      "code": "1001317000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "1001317017",
+    "code": "1001317017",
+    "name": "Mahayag",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001317000",
+      "code": "1001317000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "1001317018",
+    "code": "1001317018",
+    "name": "Manuto",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001317000",
+      "code": "1001317000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "1001317019",
+    "code": "1001317019",
+    "name": "Merangerang",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001317000",
+      "code": "1001317000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "1001317020",
+    "code": "1001317020",
+    "name": "Mibantang",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001317000",
+      "code": "1001317000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "1001317021",
+    "code": "1001317021",
+    "name": "Minongan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001317000",
+      "code": "1001317000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "1001317036",
+    "code": "1001317036",
+    "name": "Minsalirak",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001317000",
+      "code": "1001317000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "1001317022",
+    "code": "1001317022",
+    "name": "Minsamongan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001317000",
+      "code": "1001317000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "1001317025",
+    "code": "1001317025",
+    "name": "Paitan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001317000",
+      "code": "1001317000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "1001317026",
+    "code": "1001317026",
+    "name": "Palacapao",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001317000",
+      "code": "1001317000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "1001317027",
+    "code": "1001317027",
+    "name": "Pinilayan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001317000",
+      "code": "1001317000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "1001317028",
+    "code": "1001317028",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001317000",
+      "code": "1001317000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "1001317029",
+    "code": "1001317029",
+    "name": "Puntian",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001317000",
+      "code": "1001317000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "1001317030",
+    "code": "1001317030",
+    "name": "Salawagan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001317000",
+      "code": "1001317000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "1001317031",
+    "code": "1001317031",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001317000",
+      "code": "1001317000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "1001317032",
+    "code": "1001317032",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001317000",
+      "code": "1001317000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "1001317033",
+    "code": "1001317033",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001317000",
+      "code": "1001317000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "1001317034",
+    "code": "1001317034",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001317000",
+      "code": "1001317000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "1001317035",
+    "code": "1001317035",
+    "name": "Santa Filomena",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001317000",
+      "code": "1001317000",
+      "name": "Quezon"
+    }
+  }
+]

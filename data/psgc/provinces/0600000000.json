@@ -1,0 +1,57 @@
+[
+  {
+    "id": "0600400000",
+    "code": "0600400000",
+    "name": "Aklan",
+    "type": "province",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    }
+  },
+  {
+    "id": "0600600000",
+    "code": "0600600000",
+    "name": "Antique",
+    "type": "province",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    }
+  },
+  {
+    "id": "0601900000",
+    "code": "0601900000",
+    "name": "Capiz",
+    "type": "province",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    }
+  },
+  {
+    "id": "0607900000",
+    "code": "0607900000",
+    "name": "Guimaras",
+    "type": "province",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    }
+  },
+  {
+    "id": "0603000000",
+    "code": "0603000000",
+    "name": "Iloilo",
+    "type": "province",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    }
+  }
+]

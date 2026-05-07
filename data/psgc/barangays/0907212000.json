@@ -1,0 +1,464 @@
+[
+  {
+    "id": "0907212020",
+    "code": "0907212020",
+    "name": "Balubohan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907212000",
+      "code": "0907212000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0907212001",
+    "code": "0907212001",
+    "name": "Birayan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907212000",
+      "code": "0907212000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0907212002",
+    "code": "0907212002",
+    "name": "Damasing",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907212000",
+      "code": "0907212000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0907212014",
+    "code": "0907212014",
+    "name": "East Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907212000",
+      "code": "0907212000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0907212003",
+    "code": "0907212003",
+    "name": "La Esperanza",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907212000",
+      "code": "0907212000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0907212004",
+    "code": "0907212004",
+    "name": "Mabuhay",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907212000",
+      "code": "0907212000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0907212005",
+    "code": "0907212005",
+    "name": "Mabunao",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907212000",
+      "code": "0907212000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0907212007",
+    "code": "0907212007",
+    "name": "Mitimos",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907212000",
+      "code": "0907212000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0907212008",
+    "code": "0907212008",
+    "name": "Nangca",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907212000",
+      "code": "0907212000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0907212009",
+    "code": "0907212009",
+    "name": "Nangcaan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907212000",
+      "code": "0907212000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0907212010",
+    "code": "0907212010",
+    "name": "Napilan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907212000",
+      "code": "0907212000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0907212011",
+    "code": "0907212011",
+    "name": "Nasipang",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907212000",
+      "code": "0907212000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0907212012",
+    "code": "0907212012",
+    "name": "New Dapitan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907212000",
+      "code": "0907212000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0907212013",
+    "code": "0907212013",
+    "name": "Nilabo",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907212000",
+      "code": "0907212000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0907212006",
+    "code": "0907212006",
+    "name": "North Mapang",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907212000",
+      "code": "0907212000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0907212015",
+    "code": "0907212015",
+    "name": "Rizalina",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907212000",
+      "code": "0907212000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0907212016",
+    "code": "0907212016",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907212000",
+      "code": "0907212000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0907212017",
+    "code": "0907212017",
+    "name": "Sebaca",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907212000",
+      "code": "0907212000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0907212018",
+    "code": "0907212018",
+    "name": "Sipaon",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907212000",
+      "code": "0907212000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0907212021",
+    "code": "0907212021",
+    "name": "South Mapang",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907212000",
+      "code": "0907212000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0907212019",
+    "code": "0907212019",
+    "name": "Tolon",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907212000",
+      "code": "0907212000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0907212022",
+    "code": "0907212022",
+    "name": "West Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907212000",
+      "code": "0907212000",
+      "name": "Rizal"
+    }
+  }
+]

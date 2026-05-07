@@ -1,0 +1,653 @@
+[
+  {
+    "id": "0907211001",
+    "code": "0907211001",
+    "name": "Balubo",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907211000",
+      "code": "0907211000",
+      "name": "Pres. Manuel A. Roxas"
+    }
+  },
+  {
+    "id": "0907211018",
+    "code": "0907211018",
+    "name": "Banbanan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907211000",
+      "code": "0907211000",
+      "name": "Pres. Manuel A. Roxas"
+    }
+  },
+  {
+    "id": "0907211002",
+    "code": "0907211002",
+    "name": "Canibongan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907211000",
+      "code": "0907211000",
+      "name": "Pres. Manuel A. Roxas"
+    }
+  },
+  {
+    "id": "0907211003",
+    "code": "0907211003",
+    "name": "Capase",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907211000",
+      "code": "0907211000",
+      "name": "Pres. Manuel A. Roxas"
+    }
+  },
+  {
+    "id": "0907211019",
+    "code": "0907211019",
+    "name": "Cape",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907211000",
+      "code": "0907211000",
+      "name": "Pres. Manuel A. Roxas"
+    }
+  },
+  {
+    "id": "0907211004",
+    "code": "0907211004",
+    "name": "Denoman",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907211000",
+      "code": "0907211000",
+      "name": "Pres. Manuel A. Roxas"
+    }
+  },
+  {
+    "id": "0907211005",
+    "code": "0907211005",
+    "name": "Dohinob",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907211000",
+      "code": "0907211000",
+      "name": "Pres. Manuel A. Roxas"
+    }
+  },
+  {
+    "id": "0907211020",
+    "code": "0907211020",
+    "name": "Galokso",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907211000",
+      "code": "0907211000",
+      "name": "Pres. Manuel A. Roxas"
+    }
+  },
+  {
+    "id": "0907211021",
+    "code": "0907211021",
+    "name": "Gubat",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907211000",
+      "code": "0907211000",
+      "name": "Pres. Manuel A. Roxas"
+    }
+  },
+  {
+    "id": "0907211022",
+    "code": "0907211022",
+    "name": "Irasan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907211000",
+      "code": "0907211000",
+      "name": "Pres. Manuel A. Roxas"
+    }
+  },
+  {
+    "id": "0907211023",
+    "code": "0907211023",
+    "name": "Labakid",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907211000",
+      "code": "0907211000",
+      "name": "Pres. Manuel A. Roxas"
+    }
+  },
+  {
+    "id": "0907211006",
+    "code": "0907211006",
+    "name": "Langatian",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907211000",
+      "code": "0907211000",
+      "name": "Pres. Manuel A. Roxas"
+    }
+  },
+  {
+    "id": "0907211007",
+    "code": "0907211007",
+    "name": "Lipakan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907211000",
+      "code": "0907211000",
+      "name": "Pres. Manuel A. Roxas"
+    }
+  },
+  {
+    "id": "0907211008",
+    "code": "0907211008",
+    "name": "Marupay",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907211000",
+      "code": "0907211000",
+      "name": "Pres. Manuel A. Roxas"
+    }
+  },
+  {
+    "id": "0907211009",
+    "code": "0907211009",
+    "name": "Moliton",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907211000",
+      "code": "0907211000",
+      "name": "Pres. Manuel A. Roxas"
+    }
+  },
+  {
+    "id": "0907211010",
+    "code": "0907211010",
+    "name": "Nabilid",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907211000",
+      "code": "0907211000",
+      "name": "Pres. Manuel A. Roxas"
+    }
+  },
+  {
+    "id": "0907211024",
+    "code": "0907211024",
+    "name": "Panampalay",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907211000",
+      "code": "0907211000",
+      "name": "Pres. Manuel A. Roxas"
+    }
+  },
+  {
+    "id": "0907211011",
+    "code": "0907211011",
+    "name": "Pangologon",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907211000",
+      "code": "0907211000",
+      "name": "Pres. Manuel A. Roxas"
+    }
+  },
+  {
+    "id": "0907211025",
+    "code": "0907211025",
+    "name": "Piao",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907211000",
+      "code": "0907211000",
+      "name": "Pres. Manuel A. Roxas"
+    }
+  },
+  {
+    "id": "0907211012",
+    "code": "0907211012",
+    "name": "Piñalan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907211000",
+      "code": "0907211000",
+      "name": "Pres. Manuel A. Roxas"
+    }
+  },
+  {
+    "id": "0907211013",
+    "code": "0907211013",
+    "name": "Piñamar",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907211000",
+      "code": "0907211000",
+      "name": "Pres. Manuel A. Roxas"
+    }
+  },
+  {
+    "id": "0907211026",
+    "code": "0907211026",
+    "name": "Pongolan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907211000",
+      "code": "0907211000",
+      "name": "Pres. Manuel A. Roxas"
+    }
+  },
+  {
+    "id": "0907211027",
+    "code": "0907211027",
+    "name": "Salisig",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907211000",
+      "code": "0907211000",
+      "name": "Pres. Manuel A. Roxas"
+    }
+  },
+  {
+    "id": "0907211014",
+    "code": "0907211014",
+    "name": "Sebod",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907211000",
+      "code": "0907211000",
+      "name": "Pres. Manuel A. Roxas"
+    }
+  },
+  {
+    "id": "0907211028",
+    "code": "0907211028",
+    "name": "Sibatog",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907211000",
+      "code": "0907211000",
+      "name": "Pres. Manuel A. Roxas"
+    }
+  },
+  {
+    "id": "0907211029",
+    "code": "0907211029",
+    "name": "Situbo",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907211000",
+      "code": "0907211000",
+      "name": "Pres. Manuel A. Roxas"
+    }
+  },
+  {
+    "id": "0907211015",
+    "code": "0907211015",
+    "name": "Tanayan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907211000",
+      "code": "0907211000",
+      "name": "Pres. Manuel A. Roxas"
+    }
+  },
+  {
+    "id": "0907211030",
+    "code": "0907211030",
+    "name": "Tantingon",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907211000",
+      "code": "0907211000",
+      "name": "Pres. Manuel A. Roxas"
+    }
+  },
+  {
+    "id": "0907211031",
+    "code": "0907211031",
+    "name": "Upper Irasan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907211000",
+      "code": "0907211000",
+      "name": "Pres. Manuel A. Roxas"
+    }
+  },
+  {
+    "id": "0907211032",
+    "code": "0907211032",
+    "name": "Upper Minang",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907211000",
+      "code": "0907211000",
+      "name": "Pres. Manuel A. Roxas"
+    }
+  },
+  {
+    "id": "0907211017",
+    "code": "0907211017",
+    "name": "Villahermoso",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907211000",
+      "code": "0907211000",
+      "name": "Pres. Manuel A. Roxas"
+    }
+  }
+]

@@ -1,0 +1,590 @@
+[
+  {
+    "id": "0201510001",
+    "code": "0201510001",
+    "name": "Abagao",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201510000",
+      "code": "0201510000",
+      "name": "Camalaniugan"
+    }
+  },
+  {
+    "id": "0201510002",
+    "code": "0201510002",
+    "name": "Afunan Cabayu",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201510000",
+      "code": "0201510000",
+      "name": "Camalaniugan"
+    }
+  },
+  {
+    "id": "0201510003",
+    "code": "0201510003",
+    "name": "Agusi",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201510000",
+      "code": "0201510000",
+      "name": "Camalaniugan"
+    }
+  },
+  {
+    "id": "0201510004",
+    "code": "0201510004",
+    "name": "Alilinu",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201510000",
+      "code": "0201510000",
+      "name": "Camalaniugan"
+    }
+  },
+  {
+    "id": "0201510005",
+    "code": "0201510005",
+    "name": "Baggao",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201510000",
+      "code": "0201510000",
+      "name": "Camalaniugan"
+    }
+  },
+  {
+    "id": "0201510006",
+    "code": "0201510006",
+    "name": "Bantay",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201510000",
+      "code": "0201510000",
+      "name": "Camalaniugan"
+    }
+  },
+  {
+    "id": "0201510007",
+    "code": "0201510007",
+    "name": "Bulala",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201510000",
+      "code": "0201510000",
+      "name": "Camalaniugan"
+    }
+  },
+  {
+    "id": "0201510009",
+    "code": "0201510009",
+    "name": "Casili Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201510000",
+      "code": "0201510000",
+      "name": "Camalaniugan"
+    }
+  },
+  {
+    "id": "0201510026",
+    "code": "0201510026",
+    "name": "Casili Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201510000",
+      "code": "0201510000",
+      "name": "Camalaniugan"
+    }
+  },
+  {
+    "id": "0201510010",
+    "code": "0201510010",
+    "name": "Catotoran Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201510000",
+      "code": "0201510000",
+      "name": "Camalaniugan"
+    }
+  },
+  {
+    "id": "0201510027",
+    "code": "0201510027",
+    "name": "Catotoran Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201510000",
+      "code": "0201510000",
+      "name": "Camalaniugan"
+    }
+  },
+  {
+    "id": "0201510011",
+    "code": "0201510011",
+    "name": "Centro Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201510000",
+      "code": "0201510000",
+      "name": "Camalaniugan"
+    }
+  },
+  {
+    "id": "0201510012",
+    "code": "0201510012",
+    "name": "Centro Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201510000",
+      "code": "0201510000",
+      "name": "Camalaniugan"
+    }
+  },
+  {
+    "id": "0201510013",
+    "code": "0201510013",
+    "name": "Cullit",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201510000",
+      "code": "0201510000",
+      "name": "Camalaniugan"
+    }
+  },
+  {
+    "id": "0201510014",
+    "code": "0201510014",
+    "name": "Dacalla-Fugu",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201510000",
+      "code": "0201510000",
+      "name": "Camalaniugan"
+    }
+  },
+  {
+    "id": "0201510015",
+    "code": "0201510015",
+    "name": "Dammang Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201510000",
+      "code": "0201510000",
+      "name": "Camalaniugan"
+    }
+  },
+  {
+    "id": "0201510028",
+    "code": "0201510028",
+    "name": "Dammang Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201510000",
+      "code": "0201510000",
+      "name": "Camalaniugan"
+    }
+  },
+  {
+    "id": "0201510016",
+    "code": "0201510016",
+    "name": "Dugo",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201510000",
+      "code": "0201510000",
+      "name": "Camalaniugan"
+    }
+  },
+  {
+    "id": "0201510017",
+    "code": "0201510017",
+    "name": "Fusina",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201510000",
+      "code": "0201510000",
+      "name": "Camalaniugan"
+    }
+  },
+  {
+    "id": "0201510018",
+    "code": "0201510018",
+    "name": "Gang-ngo",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201510000",
+      "code": "0201510000",
+      "name": "Camalaniugan"
+    }
+  },
+  {
+    "id": "0201510019",
+    "code": "0201510019",
+    "name": "Jurisdiccion",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201510000",
+      "code": "0201510000",
+      "name": "Camalaniugan"
+    }
+  },
+  {
+    "id": "0201510020",
+    "code": "0201510020",
+    "name": "Luec",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201510000",
+      "code": "0201510000",
+      "name": "Camalaniugan"
+    }
+  },
+  {
+    "id": "0201510021",
+    "code": "0201510021",
+    "name": "Minanga",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201510000",
+      "code": "0201510000",
+      "name": "Camalaniugan"
+    }
+  },
+  {
+    "id": "0201510022",
+    "code": "0201510022",
+    "name": "Paragat",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201510000",
+      "code": "0201510000",
+      "name": "Camalaniugan"
+    }
+  },
+  {
+    "id": "0201510029",
+    "code": "0201510029",
+    "name": "Sapping",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201510000",
+      "code": "0201510000",
+      "name": "Camalaniugan"
+    }
+  },
+  {
+    "id": "0201510023",
+    "code": "0201510023",
+    "name": "Tagum",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201510000",
+      "code": "0201510000",
+      "name": "Camalaniugan"
+    }
+  },
+  {
+    "id": "0201510024",
+    "code": "0201510024",
+    "name": "Tulutuging",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201510000",
+      "code": "0201510000",
+      "name": "Camalaniugan"
+    }
+  },
+  {
+    "id": "0201510025",
+    "code": "0201510025",
+    "name": "Ziminila",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201510000",
+      "code": "0201510000",
+      "name": "Camalaniugan"
+    }
+  }
+]

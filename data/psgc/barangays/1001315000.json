@@ -1,0 +1,422 @@
+[
+  {
+    "id": "1001315001",
+    "code": "1001315001",
+    "name": "Anahawon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001315000",
+      "code": "1001315000",
+      "name": "Maramag"
+    }
+  },
+  {
+    "id": "1001315019",
+    "code": "1001315019",
+    "name": "Bagongsilang",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001315000",
+      "code": "1001315000",
+      "name": "Maramag"
+    }
+  },
+  {
+    "id": "1001315002",
+    "code": "1001315002",
+    "name": "Base Camp",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001315000",
+      "code": "1001315000",
+      "name": "Maramag"
+    }
+  },
+  {
+    "id": "1001315003",
+    "code": "1001315003",
+    "name": "Bayabason",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001315000",
+      "code": "1001315000",
+      "name": "Maramag"
+    }
+  },
+  {
+    "id": "1001315004",
+    "code": "1001315004",
+    "name": "Camp I",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001315000",
+      "code": "1001315000",
+      "name": "Maramag"
+    }
+  },
+  {
+    "id": "1001315005",
+    "code": "1001315005",
+    "name": "Colambugan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001315000",
+      "code": "1001315000",
+      "name": "Maramag"
+    }
+  },
+  {
+    "id": "1001315006",
+    "code": "1001315006",
+    "name": "Dagumba-an",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001315000",
+      "code": "1001315000",
+      "name": "Maramag"
+    }
+  },
+  {
+    "id": "1001315007",
+    "code": "1001315007",
+    "name": "Danggawan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001315000",
+      "code": "1001315000",
+      "name": "Maramag"
+    }
+  },
+  {
+    "id": "1001315008",
+    "code": "1001315008",
+    "name": "Dologon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001315000",
+      "code": "1001315000",
+      "name": "Maramag"
+    }
+  },
+  {
+    "id": "1001315020",
+    "code": "1001315020",
+    "name": "Kiharong",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001315000",
+      "code": "1001315000",
+      "name": "Maramag"
+    }
+  },
+  {
+    "id": "1001315009",
+    "code": "1001315009",
+    "name": "Kisanday",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001315000",
+      "code": "1001315000",
+      "name": "Maramag"
+    }
+  },
+  {
+    "id": "1001315010",
+    "code": "1001315010",
+    "name": "Kuya",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001315000",
+      "code": "1001315000",
+      "name": "Maramag"
+    }
+  },
+  {
+    "id": "1001315011",
+    "code": "1001315011",
+    "name": "La Roxas",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001315000",
+      "code": "1001315000",
+      "name": "Maramag"
+    }
+  },
+  {
+    "id": "1001315014",
+    "code": "1001315014",
+    "name": "North Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001315000",
+      "code": "1001315000",
+      "name": "Maramag"
+    }
+  },
+  {
+    "id": "1001315012",
+    "code": "1001315012",
+    "name": "Panadtalan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001315000",
+      "code": "1001315000",
+      "name": "Maramag"
+    }
+  },
+  {
+    "id": "1001315013",
+    "code": "1001315013",
+    "name": "Panalsalan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001315000",
+      "code": "1001315000",
+      "name": "Maramag"
+    }
+  },
+  {
+    "id": "1001315016",
+    "code": "1001315016",
+    "name": "San Miguel",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001315000",
+      "code": "1001315000",
+      "name": "Maramag"
+    }
+  },
+  {
+    "id": "1001315017",
+    "code": "1001315017",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001315000",
+      "code": "1001315000",
+      "name": "Maramag"
+    }
+  },
+  {
+    "id": "1001315015",
+    "code": "1001315015",
+    "name": "South Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001315000",
+      "code": "1001315000",
+      "name": "Maramag"
+    }
+  },
+  {
+    "id": "1001315018",
+    "code": "1001315018",
+    "name": "Tubigon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001315000",
+      "code": "1001315000",
+      "name": "Maramag"
+    }
+  }
+]

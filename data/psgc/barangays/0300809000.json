@@ -1,0 +1,611 @@
+[
+  {
+    "id": "0300809025",
+    "code": "0300809025",
+    "name": "Apollo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300809000",
+      "code": "0300809000",
+      "name": "Orani"
+    }
+  },
+  {
+    "id": "0300809001",
+    "code": "0300809001",
+    "name": "Bagong Paraiso",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300809000",
+      "code": "0300809000",
+      "name": "Orani"
+    }
+  },
+  {
+    "id": "0300809002",
+    "code": "0300809002",
+    "name": "Balut",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300809000",
+      "code": "0300809000",
+      "name": "Orani"
+    }
+  },
+  {
+    "id": "0300809003",
+    "code": "0300809003",
+    "name": "Bayan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300809000",
+      "code": "0300809000",
+      "name": "Orani"
+    }
+  },
+  {
+    "id": "0300809004",
+    "code": "0300809004",
+    "name": "Calero",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300809000",
+      "code": "0300809000",
+      "name": "Orani"
+    }
+  },
+  {
+    "id": "0300809016",
+    "code": "0300809016",
+    "name": "Centro I",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300809000",
+      "code": "0300809000",
+      "name": "Orani"
+    }
+  },
+  {
+    "id": "0300809006",
+    "code": "0300809006",
+    "name": "Centro II",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300809000",
+      "code": "0300809000",
+      "name": "Orani"
+    }
+  },
+  {
+    "id": "0300809007",
+    "code": "0300809007",
+    "name": "Dona",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300809000",
+      "code": "0300809000",
+      "name": "Orani"
+    }
+  },
+  {
+    "id": "0300809026",
+    "code": "0300809026",
+    "name": "Kabalutan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300809000",
+      "code": "0300809000",
+      "name": "Orani"
+    }
+  },
+  {
+    "id": "0300809008",
+    "code": "0300809008",
+    "name": "Kaparangan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300809000",
+      "code": "0300809000",
+      "name": "Orani"
+    }
+  },
+  {
+    "id": "0300809027",
+    "code": "0300809027",
+    "name": "Maria Fe",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300809000",
+      "code": "0300809000",
+      "name": "Orani"
+    }
+  },
+  {
+    "id": "0300809009",
+    "code": "0300809009",
+    "name": "Masantol",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300809000",
+      "code": "0300809000",
+      "name": "Orani"
+    }
+  },
+  {
+    "id": "0300809010",
+    "code": "0300809010",
+    "name": "Mulawin",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300809000",
+      "code": "0300809000",
+      "name": "Orani"
+    }
+  },
+  {
+    "id": "0300809011",
+    "code": "0300809011",
+    "name": "Pag-asa",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300809000",
+      "code": "0300809000",
+      "name": "Orani"
+    }
+  },
+  {
+    "id": "0300809005",
+    "code": "0300809005",
+    "name": "Paking-Carbonero",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300809000",
+      "code": "0300809000",
+      "name": "Orani"
+    }
+  },
+  {
+    "id": "0300809012",
+    "code": "0300809012",
+    "name": "Palihan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300809000",
+      "code": "0300809000",
+      "name": "Orani"
+    }
+  },
+  {
+    "id": "0300809013",
+    "code": "0300809013",
+    "name": "Pantalan Bago",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300809000",
+      "code": "0300809000",
+      "name": "Orani"
+    }
+  },
+  {
+    "id": "0300809014",
+    "code": "0300809014",
+    "name": "Pantalan Luma",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300809000",
+      "code": "0300809000",
+      "name": "Orani"
+    }
+  },
+  {
+    "id": "0300809015",
+    "code": "0300809015",
+    "name": "Parang Parang",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300809000",
+      "code": "0300809000",
+      "name": "Orani"
+    }
+  },
+  {
+    "id": "0300809028",
+    "code": "0300809028",
+    "name": "Puksuan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300809000",
+      "code": "0300809000",
+      "name": "Orani"
+    }
+  },
+  {
+    "id": "0300809017",
+    "code": "0300809017",
+    "name": "Sibul",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300809000",
+      "code": "0300809000",
+      "name": "Orani"
+    }
+  },
+  {
+    "id": "0300809018",
+    "code": "0300809018",
+    "name": "Silahis",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300809000",
+      "code": "0300809000",
+      "name": "Orani"
+    }
+  },
+  {
+    "id": "0300809029",
+    "code": "0300809029",
+    "name": "Tagumpay",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300809000",
+      "code": "0300809000",
+      "name": "Orani"
+    }
+  },
+  {
+    "id": "0300809019",
+    "code": "0300809019",
+    "name": "Tala",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300809000",
+      "code": "0300809000",
+      "name": "Orani"
+    }
+  },
+  {
+    "id": "0300809020",
+    "code": "0300809020",
+    "name": "Talimundoc",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300809000",
+      "code": "0300809000",
+      "name": "Orani"
+    }
+  },
+  {
+    "id": "0300809021",
+    "code": "0300809021",
+    "name": "Tapulao",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300809000",
+      "code": "0300809000",
+      "name": "Orani"
+    }
+  },
+  {
+    "id": "0300809022",
+    "code": "0300809022",
+    "name": "Tenejero",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300809000",
+      "code": "0300809000",
+      "name": "Orani"
+    }
+  },
+  {
+    "id": "0300809023",
+    "code": "0300809023",
+    "name": "Tugatog",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300809000",
+      "code": "0300809000",
+      "name": "Orani"
+    }
+  },
+  {
+    "id": "0300809024",
+    "code": "0300809024",
+    "name": "Wawa",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300809000",
+      "code": "0300809000",
+      "name": "Orani"
+    }
+  }
+]

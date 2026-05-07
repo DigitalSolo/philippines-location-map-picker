@@ -1,0 +1,464 @@
+[
+  {
+    "id": "0702250019",
+    "code": "0702250019",
+    "name": "Biasong",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702250000",
+      "code": "0702250000",
+      "name": "City of Talisay"
+    }
+  },
+  {
+    "id": "0702250001",
+    "code": "0702250001",
+    "name": "Bulacao",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702250000",
+      "code": "0702250000",
+      "name": "City of Talisay"
+    }
+  },
+  {
+    "id": "0702250002",
+    "code": "0702250002",
+    "name": "Cadulawan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702250000",
+      "code": "0702250000",
+      "name": "City of Talisay"
+    }
+  },
+  {
+    "id": "0702250020",
+    "code": "0702250020",
+    "name": "Camp IV",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702250000",
+      "code": "0702250000",
+      "name": "City of Talisay"
+    }
+  },
+  {
+    "id": "0702250003",
+    "code": "0702250003",
+    "name": "Cansojong",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702250000",
+      "code": "0702250000",
+      "name": "City of Talisay"
+    }
+  },
+  {
+    "id": "0702250004",
+    "code": "0702250004",
+    "name": "Dumlog",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702250000",
+      "code": "0702250000",
+      "name": "City of Talisay"
+    }
+  },
+  {
+    "id": "0702250005",
+    "code": "0702250005",
+    "name": "Jaclupan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702250000",
+      "code": "0702250000",
+      "name": "City of Talisay"
+    }
+  },
+  {
+    "id": "0702250006",
+    "code": "0702250006",
+    "name": "Lagtang",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702250000",
+      "code": "0702250000",
+      "name": "City of Talisay"
+    }
+  },
+  {
+    "id": "0702250007",
+    "code": "0702250007",
+    "name": "Lawaan I",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702250000",
+      "code": "0702250000",
+      "name": "City of Talisay"
+    }
+  },
+  {
+    "id": "0702250021",
+    "code": "0702250021",
+    "name": "Lawaan II",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702250000",
+      "code": "0702250000",
+      "name": "City of Talisay"
+    }
+  },
+  {
+    "id": "0702250022",
+    "code": "0702250022",
+    "name": "Lawaan III",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702250000",
+      "code": "0702250000",
+      "name": "City of Talisay"
+    }
+  },
+  {
+    "id": "0702250008",
+    "code": "0702250008",
+    "name": "Linao",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702250000",
+      "code": "0702250000",
+      "name": "City of Talisay"
+    }
+  },
+  {
+    "id": "0702250009",
+    "code": "0702250009",
+    "name": "Maghaway",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702250000",
+      "code": "0702250000",
+      "name": "City of Talisay"
+    }
+  },
+  {
+    "id": "0702250010",
+    "code": "0702250010",
+    "name": "Manipis",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702250000",
+      "code": "0702250000",
+      "name": "City of Talisay"
+    }
+  },
+  {
+    "id": "0702250011",
+    "code": "0702250011",
+    "name": "Mohon",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702250000",
+      "code": "0702250000",
+      "name": "City of Talisay"
+    }
+  },
+  {
+    "id": "0702250012",
+    "code": "0702250012",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702250000",
+      "code": "0702250000",
+      "name": "City of Talisay"
+    }
+  },
+  {
+    "id": "0702250013",
+    "code": "0702250013",
+    "name": "Pooc",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702250000",
+      "code": "0702250000",
+      "name": "City of Talisay"
+    }
+  },
+  {
+    "id": "0702250014",
+    "code": "0702250014",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702250000",
+      "code": "0702250000",
+      "name": "City of Talisay"
+    }
+  },
+  {
+    "id": "0702250015",
+    "code": "0702250015",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702250000",
+      "code": "0702250000",
+      "name": "City of Talisay"
+    }
+  },
+  {
+    "id": "0702250016",
+    "code": "0702250016",
+    "name": "Tabunoc",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702250000",
+      "code": "0702250000",
+      "name": "City of Talisay"
+    }
+  },
+  {
+    "id": "0702250017",
+    "code": "0702250017",
+    "name": "Tangke",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702250000",
+      "code": "0702250000",
+      "name": "City of Talisay"
+    }
+  },
+  {
+    "id": "0702250018",
+    "code": "0702250018",
+    "name": "Tapul",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702250000",
+      "code": "0702250000",
+      "name": "City of Talisay"
+    }
+  }
+]

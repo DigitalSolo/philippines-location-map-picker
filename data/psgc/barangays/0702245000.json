@@ -1,0 +1,212 @@
+[
+  {
+    "id": "0702245001",
+    "code": "0702245001",
+    "name": "Bunlan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702245000",
+      "code": "0702245000",
+      "name": "Santander"
+    }
+  },
+  {
+    "id": "0702245002",
+    "code": "0702245002",
+    "name": "Cabutongan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702245000",
+      "code": "0702245000",
+      "name": "Santander"
+    }
+  },
+  {
+    "id": "0702245003",
+    "code": "0702245003",
+    "name": "Candamiang",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702245000",
+      "code": "0702245000",
+      "name": "Santander"
+    }
+  },
+  {
+    "id": "0702245010",
+    "code": "0702245010",
+    "name": "Canlumacad",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702245000",
+      "code": "0702245000",
+      "name": "Santander"
+    }
+  },
+  {
+    "id": "0702245004",
+    "code": "0702245004",
+    "name": "Liloan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702245000",
+      "code": "0702245000",
+      "name": "Santander"
+    }
+  },
+  {
+    "id": "0702245005",
+    "code": "0702245005",
+    "name": "Lip-tong",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702245000",
+      "code": "0702245000",
+      "name": "Santander"
+    }
+  },
+  {
+    "id": "0702245006",
+    "code": "0702245006",
+    "name": "Looc",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702245000",
+      "code": "0702245000",
+      "name": "Santander"
+    }
+  },
+  {
+    "id": "0702245007",
+    "code": "0702245007",
+    "name": "Pasil",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702245000",
+      "code": "0702245000",
+      "name": "Santander"
+    }
+  },
+  {
+    "id": "0702245008",
+    "code": "0702245008",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702245000",
+      "code": "0702245000",
+      "name": "Santander"
+    }
+  },
+  {
+    "id": "0702245009",
+    "code": "0702245009",
+    "name": "Talisay",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702245000",
+      "code": "0702245000",
+      "name": "Santander"
+    }
+  }
+]

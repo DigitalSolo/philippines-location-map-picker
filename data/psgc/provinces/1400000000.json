@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1400100000",
+    "code": "1400100000",
+    "name": "Abra",
+    "type": "province",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    }
+  },
+  {
+    "id": "1408100000",
+    "code": "1408100000",
+    "name": "Apayao",
+    "type": "province",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    }
+  },
+  {
+    "id": "1401100000",
+    "code": "1401100000",
+    "name": "Benguet",
+    "type": "province",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    }
+  },
+  {
+    "id": "1402700000",
+    "code": "1402700000",
+    "name": "Ifugao",
+    "type": "province",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    }
+  },
+  {
+    "id": "1403200000",
+    "code": "1403200000",
+    "name": "Kalinga",
+    "type": "province",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    }
+  },
+  {
+    "id": "1404400000",
+    "code": "1404400000",
+    "name": "Mountain Province",
+    "type": "province",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    }
+  }
+]

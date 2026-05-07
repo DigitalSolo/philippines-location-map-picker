@@ -1,0 +1,485 @@
+[
+  {
+    "id": "0500505025",
+    "code": "0500505025",
+    "name": "Aurora Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500505000",
+      "code": "0500505000",
+      "name": "Jovellar"
+    }
+  },
+  {
+    "id": "0500505003",
+    "code": "0500505003",
+    "name": "Bagacay",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500505000",
+      "code": "0500505000",
+      "name": "Jovellar"
+    }
+  },
+  {
+    "id": "0500505011",
+    "code": "0500505011",
+    "name": "Bautista",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500505000",
+      "code": "0500505000",
+      "name": "Jovellar"
+    }
+  },
+  {
+    "id": "0500505012",
+    "code": "0500505012",
+    "name": "Cabraran",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500505000",
+      "code": "0500505000",
+      "name": "Jovellar"
+    }
+  },
+  {
+    "id": "0500505008",
+    "code": "0500505008",
+    "name": "Calzada Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500505000",
+      "code": "0500505000",
+      "name": "Jovellar"
+    }
+  },
+  {
+    "id": "0500505013",
+    "code": "0500505013",
+    "name": "Del Rosario",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500505000",
+      "code": "0500505000",
+      "name": "Jovellar"
+    }
+  },
+  {
+    "id": "0500505014",
+    "code": "0500505014",
+    "name": "Estrella",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500505000",
+      "code": "0500505000",
+      "name": "Jovellar"
+    }
+  },
+  {
+    "id": "0500505015",
+    "code": "0500505015",
+    "name": "Florista",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500505000",
+      "code": "0500505000",
+      "name": "Jovellar"
+    }
+  },
+  {
+    "id": "0500505005",
+    "code": "0500505005",
+    "name": "Mabini Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500505000",
+      "code": "0500505000",
+      "name": "Jovellar"
+    }
+  },
+  {
+    "id": "0500505007",
+    "code": "0500505007",
+    "name": "Magsaysay Pob",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500505000",
+      "code": "0500505000",
+      "name": "Jovellar"
+    }
+  },
+  {
+    "id": "0500505016",
+    "code": "0500505016",
+    "name": "Mamlad",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500505000",
+      "code": "0500505000",
+      "name": "Jovellar"
+    }
+  },
+  {
+    "id": "0500505017",
+    "code": "0500505017",
+    "name": "Maogog",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500505000",
+      "code": "0500505000",
+      "name": "Jovellar"
+    }
+  },
+  {
+    "id": "0500505018",
+    "code": "0500505018",
+    "name": "Mercado Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500505000",
+      "code": "0500505000",
+      "name": "Jovellar"
+    }
+  },
+  {
+    "id": "0500505006",
+    "code": "0500505006",
+    "name": "Plaza Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500505000",
+      "code": "0500505000",
+      "name": "Jovellar"
+    }
+  },
+  {
+    "id": "0500505009",
+    "code": "0500505009",
+    "name": "Quitinday Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500505000",
+      "code": "0500505000",
+      "name": "Jovellar"
+    }
+  },
+  {
+    "id": "0500505004",
+    "code": "0500505004",
+    "name": "Rizal Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500505000",
+      "code": "0500505000",
+      "name": "Jovellar"
+    }
+  },
+  {
+    "id": "0500505019",
+    "code": "0500505019",
+    "name": "Salvacion",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500505000",
+      "code": "0500505000",
+      "name": "Jovellar"
+    }
+  },
+  {
+    "id": "0500505020",
+    "code": "0500505020",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500505000",
+      "code": "0500505000",
+      "name": "Jovellar"
+    }
+  },
+  {
+    "id": "0500505021",
+    "code": "0500505021",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500505000",
+      "code": "0500505000",
+      "name": "Jovellar"
+    }
+  },
+  {
+    "id": "0500505022",
+    "code": "0500505022",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500505000",
+      "code": "0500505000",
+      "name": "Jovellar"
+    }
+  },
+  {
+    "id": "0500505023",
+    "code": "0500505023",
+    "name": "Sinagaran",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500505000",
+      "code": "0500505000",
+      "name": "Jovellar"
+    }
+  },
+  {
+    "id": "0500505024",
+    "code": "0500505024",
+    "name": "Villa Paz",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500505000",
+      "code": "0500505000",
+      "name": "Jovellar"
+    }
+  },
+  {
+    "id": "0500505010",
+    "code": "0500505010",
+    "name": "White Deer Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500505000",
+      "code": "0500505000",
+      "name": "Jovellar"
+    }
+  }
+]

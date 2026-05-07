@@ -1,0 +1,233 @@
+[
+  {
+    "id": "1004326001",
+    "code": "1004326001",
+    "name": "Balacanas",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004326000",
+      "code": "1004326000",
+      "name": "Villanueva"
+    }
+  },
+  {
+    "id": "1004326003",
+    "code": "1004326003",
+    "name": "Dayawan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004326000",
+      "code": "1004326000",
+      "name": "Villanueva"
+    }
+  },
+  {
+    "id": "1004326010",
+    "code": "1004326010",
+    "name": "Imelda",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004326000",
+      "code": "1004326000",
+      "name": "Villanueva"
+    }
+  },
+  {
+    "id": "1004326004",
+    "code": "1004326004",
+    "name": "Katipunan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004326000",
+      "code": "1004326000",
+      "name": "Villanueva"
+    }
+  },
+  {
+    "id": "1004326005",
+    "code": "1004326005",
+    "name": "Kimaya",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004326000",
+      "code": "1004326000",
+      "name": "Villanueva"
+    }
+  },
+  {
+    "id": "1004326011",
+    "code": "1004326011",
+    "name": "Looc",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004326000",
+      "code": "1004326000",
+      "name": "Villanueva"
+    }
+  },
+  {
+    "id": "1004326007",
+    "code": "1004326007",
+    "name": "Poblacion 1",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004326000",
+      "code": "1004326000",
+      "name": "Villanueva"
+    }
+  },
+  {
+    "id": "1004326012",
+    "code": "1004326012",
+    "name": "Poblacion 2",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004326000",
+      "code": "1004326000",
+      "name": "Villanueva"
+    }
+  },
+  {
+    "id": "1004326013",
+    "code": "1004326013",
+    "name": "Poblacion 3",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004326000",
+      "code": "1004326000",
+      "name": "Villanueva"
+    }
+  },
+  {
+    "id": "1004326008",
+    "code": "1004326008",
+    "name": "San Martin",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004326000",
+      "code": "1004326000",
+      "name": "Villanueva"
+    }
+  },
+  {
+    "id": "1004326009",
+    "code": "1004326009",
+    "name": "Tambobong",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004326000",
+      "code": "1004326000",
+      "name": "Villanueva"
+    }
+  }
+]

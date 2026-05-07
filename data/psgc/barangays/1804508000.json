@@ -1,0 +1,485 @@
+[
+  {
+    "id": "1804508001",
+    "code": "1804508001",
+    "name": "Alacaygan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804508000",
+      "code": "1804508000",
+      "name": "Enrique B. Magalona"
+    }
+  },
+  {
+    "id": "1804508002",
+    "code": "1804508002",
+    "name": "Alicante",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804508000",
+      "code": "1804508000",
+      "name": "Enrique B. Magalona"
+    }
+  },
+  {
+    "id": "1804508006",
+    "code": "1804508006",
+    "name": "Batea",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804508000",
+      "code": "1804508000",
+      "name": "Enrique B. Magalona"
+    }
+  },
+  {
+    "id": "1804508011",
+    "code": "1804508011",
+    "name": "Canlusong",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804508000",
+      "code": "1804508000",
+      "name": "Enrique B. Magalona"
+    }
+  },
+  {
+    "id": "1804508007",
+    "code": "1804508007",
+    "name": "Consing",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804508000",
+      "code": "1804508000",
+      "name": "Enrique B. Magalona"
+    }
+  },
+  {
+    "id": "1804508008",
+    "code": "1804508008",
+    "name": "Cudangdang",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804508000",
+      "code": "1804508000",
+      "name": "Enrique B. Magalona"
+    }
+  },
+  {
+    "id": "1804508009",
+    "code": "1804508009",
+    "name": "Damgo",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804508000",
+      "code": "1804508000",
+      "name": "Enrique B. Magalona"
+    }
+  },
+  {
+    "id": "1804508010",
+    "code": "1804508010",
+    "name": "Gahit",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804508000",
+      "code": "1804508000",
+      "name": "Enrique B. Magalona"
+    }
+  },
+  {
+    "id": "1804508012",
+    "code": "1804508012",
+    "name": "Latasan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804508000",
+      "code": "1804508000",
+      "name": "Enrique B. Magalona"
+    }
+  },
+  {
+    "id": "1804508013",
+    "code": "1804508013",
+    "name": "Madalag",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804508000",
+      "code": "1804508000",
+      "name": "Enrique B. Magalona"
+    }
+  },
+  {
+    "id": "1804508014",
+    "code": "1804508014",
+    "name": "Manta-angan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804508000",
+      "code": "1804508000",
+      "name": "Enrique B. Magalona"
+    }
+  },
+  {
+    "id": "1804508015",
+    "code": "1804508015",
+    "name": "Nanca",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804508000",
+      "code": "1804508000",
+      "name": "Enrique B. Magalona"
+    }
+  },
+  {
+    "id": "1804508016",
+    "code": "1804508016",
+    "name": "Pasil",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804508000",
+      "code": "1804508000",
+      "name": "Enrique B. Magalona"
+    }
+  },
+  {
+    "id": "1804508003",
+    "code": "1804508003",
+    "name": "Poblacion I",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804508000",
+      "code": "1804508000",
+      "name": "Enrique B. Magalona"
+    }
+  },
+  {
+    "id": "1804508004",
+    "code": "1804508004",
+    "name": "Poblacion II",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804508000",
+      "code": "1804508000",
+      "name": "Enrique B. Magalona"
+    }
+  },
+  {
+    "id": "1804508005",
+    "code": "1804508005",
+    "name": "Poblacion III",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804508000",
+      "code": "1804508000",
+      "name": "Enrique B. Magalona"
+    }
+  },
+  {
+    "id": "1804508017",
+    "code": "1804508017",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804508000",
+      "code": "1804508000",
+      "name": "Enrique B. Magalona"
+    }
+  },
+  {
+    "id": "1804508018",
+    "code": "1804508018",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804508000",
+      "code": "1804508000",
+      "name": "Enrique B. Magalona"
+    }
+  },
+  {
+    "id": "1804508019",
+    "code": "1804508019",
+    "name": "Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804508000",
+      "code": "1804508000",
+      "name": "Enrique B. Magalona"
+    }
+  },
+  {
+    "id": "1804508020",
+    "code": "1804508020",
+    "name": "Tabigue",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804508000",
+      "code": "1804508000",
+      "name": "Enrique B. Magalona"
+    }
+  },
+  {
+    "id": "1804508021",
+    "code": "1804508021",
+    "name": "Tanza",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804508000",
+      "code": "1804508000",
+      "name": "Enrique B. Magalona"
+    }
+  },
+  {
+    "id": "1804508023",
+    "code": "1804508023",
+    "name": "Tomongtong",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804508000",
+      "code": "1804508000",
+      "name": "Enrique B. Magalona"
+    }
+  },
+  {
+    "id": "1804508022",
+    "code": "1804508022",
+    "name": "Tuburan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804508000",
+      "code": "1804508000",
+      "name": "Enrique B. Magalona"
+    }
+  }
+]

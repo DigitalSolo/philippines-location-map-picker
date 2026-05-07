@@ -1,0 +1,24 @@
+{
+  "generatedAt": "2026-05-07T05:19:36.567Z",
+  "psgcRoot": "data/psgc",
+  "geoRoot": "data/geo",
+  "counts": {
+    "psgcBarangays": 16,
+    "geometryBarangays": 16,
+    "exactMatches": 16,
+    "codeFormatMatches": 0,
+    "psgcWithoutGeometry": 0,
+    "geometryWithoutPsgc": 0,
+    "possibleRenamedOrStaleGeometry": 0,
+    "staleGeometryCodes": 0,
+    "geometryNameMismatches": 0,
+    "geometryComponentGaps": 0
+  },
+  "psgcWithoutGeometry": [],
+  "geometryWithoutPsgc": [],
+  "possibleRenamedOrStaleGeometry": [],
+  "staleGeometryCodes": [],
+  "codeFormatMatches": [],
+  "geometryNameMismatches": [],
+  "geometryComponentGaps": []
+}

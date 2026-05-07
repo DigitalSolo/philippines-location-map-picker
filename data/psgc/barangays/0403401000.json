@@ -1,0 +1,317 @@
+[
+  {
+    "id": "0403401003",
+    "code": "0403401003",
+    "name": "Barangay I",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403401000",
+      "code": "0403401000",
+      "name": "Alaminos"
+    }
+  },
+  {
+    "id": "0403401004",
+    "code": "0403401004",
+    "name": "Barangay II",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403401000",
+      "code": "0403401000",
+      "name": "Alaminos"
+    }
+  },
+  {
+    "id": "0403401005",
+    "code": "0403401005",
+    "name": "Barangay III",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403401000",
+      "code": "0403401000",
+      "name": "Alaminos"
+    }
+  },
+  {
+    "id": "0403401006",
+    "code": "0403401006",
+    "name": "Barangay IV",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403401000",
+      "code": "0403401000",
+      "name": "Alaminos"
+    }
+  },
+  {
+    "id": "0403401001",
+    "code": "0403401001",
+    "name": "Del Carmen",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403401000",
+      "code": "0403401000",
+      "name": "Alaminos"
+    }
+  },
+  {
+    "id": "0403401002",
+    "code": "0403401002",
+    "name": "Palma",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403401000",
+      "code": "0403401000",
+      "name": "Alaminos"
+    }
+  },
+  {
+    "id": "0403401007",
+    "code": "0403401007",
+    "name": "San Agustin",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403401000",
+      "code": "0403401000",
+      "name": "Alaminos"
+    }
+  },
+  {
+    "id": "0403401008",
+    "code": "0403401008",
+    "name": "San Andres",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403401000",
+      "code": "0403401000",
+      "name": "Alaminos"
+    }
+  },
+  {
+    "id": "0403401009",
+    "code": "0403401009",
+    "name": "San Benito",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403401000",
+      "code": "0403401000",
+      "name": "Alaminos"
+    }
+  },
+  {
+    "id": "0403401010",
+    "code": "0403401010",
+    "name": "San Gregorio",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403401000",
+      "code": "0403401000",
+      "name": "Alaminos"
+    }
+  },
+  {
+    "id": "0403401011",
+    "code": "0403401011",
+    "name": "San Ildefonso",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403401000",
+      "code": "0403401000",
+      "name": "Alaminos"
+    }
+  },
+  {
+    "id": "0403401012",
+    "code": "0403401012",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403401000",
+      "code": "0403401000",
+      "name": "Alaminos"
+    }
+  },
+  {
+    "id": "0403401013",
+    "code": "0403401013",
+    "name": "San Miguel",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403401000",
+      "code": "0403401000",
+      "name": "Alaminos"
+    }
+  },
+  {
+    "id": "0403401014",
+    "code": "0403401014",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403401000",
+      "code": "0403401000",
+      "name": "Alaminos"
+    }
+  },
+  {
+    "id": "0403401015",
+    "code": "0403401015",
+    "name": "Santa Rosa",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403401000",
+      "code": "0403401000",
+      "name": "Alaminos"
+    }
+  }
+]

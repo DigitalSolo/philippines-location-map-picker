@@ -1,0 +1,53 @@
+{
+  "generatedAt": "2026-05-07T10:04:15.164Z",
+  "strict": false,
+  "psgcRoot": "data/psgc",
+  "geoRoot": "data/geo",
+  "reports": {
+    "coverage": "data/geo/geometry-coverage-report.json",
+    "reconciliation": "data/geo/psgc-geometry-reconciliation-report.json",
+    "staticData": "data/static-data-report.json"
+  },
+  "commands": [
+    {
+      "script": "audit-geometry-coverage.js",
+      "command": "node tools/audit-geometry-coverage.js --psgc data/psgc --geo data/geo --out data/geo/geometry-coverage-report.json",
+      "status": 0,
+      "stdout": "PSGC barangays: 42010\nGeometry barangays: 13\nMissing geometry: 41997\nGeometry without PSGC: 0\nWrote data/geo/geometry-coverage-report.json",
+      "stderr": "",
+      "ok": true
+    },
+    {
+      "script": "reconcile-psgc-geometry.js",
+      "command": "node tools/reconcile-psgc-geometry.js --psgc data/psgc --geo data/geo --out data/geo/psgc-geometry-reconciliation-report.json",
+      "status": 0,
+      "stdout": "PSGC barangays: 42010\nGeometry barangays: 13\nExact matches: 3\nCode-format matches: 10\nPSGC without geometry: 41997\nGeometry without PSGC: 0\nPossible renamed/stale geometry: 0\nStale geometry codes: 0\nName mismatches: 0\nComponent gaps: 0\nWrote data/geo/psgc-geometry-reconciliation-report.json",
+      "stderr": "",
+      "ok": true
+    },
+    {
+      "script": "audit-static-data.js",
+      "command": "node tools/audit-static-data.js --psgc data/psgc --geo data/geo --out data/static-data-report.json",
+      "status": 0,
+      "stdout": "PSGC regions: 18\nPSGC cities: 1656\nPSGC barangays: 42010\nGeometry bounds rows: 22\nGeometry polygon files: 13\nCoverage level: production-hierarchy-limited-geometry\nProduction broad coverage: no\nWarnings: 0\nWrote data/static-data-report.json",
+      "stderr": "",
+      "ok": true
+    }
+  ],
+  "summary": {
+    "psgcBarangays": 42010,
+    "geometryBarangays": 13,
+    "missingGeometry": 41997,
+    "geometryWithoutPsgc": 0,
+    "geometryComponentGaps": 0,
+    "staticWarnings": 0,
+    "coverageLevel": "production-hierarchy-limited-geometry",
+    "productionReady": false,
+    "productionHierarchyReady": true,
+    "productionReverseFillReady": false,
+    "geometryPolicyRecommendation": "limited"
+  },
+  "warnings": [],
+  "failures": [],
+  "ok": true
+}

@@ -1,0 +1,611 @@
+[
+  {
+    "id": "0500510001",
+    "code": "0500510001",
+    "name": "Awang",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500510000",
+      "code": "0500510000",
+      "name": "Malinao"
+    }
+  },
+  {
+    "id": "0500510002",
+    "code": "0500510002",
+    "name": "Bagatangki",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500510000",
+      "code": "0500510000",
+      "name": "Malinao"
+    }
+  },
+  {
+    "id": "0500510022",
+    "code": "0500510022",
+    "name": "Bagumbayan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500510000",
+      "code": "0500510000",
+      "name": "Malinao"
+    }
+  },
+  {
+    "id": "0500510003",
+    "code": "0500510003",
+    "name": "Balading",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500510000",
+      "code": "0500510000",
+      "name": "Malinao"
+    }
+  },
+  {
+    "id": "0500510004",
+    "code": "0500510004",
+    "name": "Balza",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500510000",
+      "code": "0500510000",
+      "name": "Malinao"
+    }
+  },
+  {
+    "id": "0500510005",
+    "code": "0500510005",
+    "name": "Bariw",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500510000",
+      "code": "0500510000",
+      "name": "Malinao"
+    }
+  },
+  {
+    "id": "0500510006",
+    "code": "0500510006",
+    "name": "Baybay",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500510000",
+      "code": "0500510000",
+      "name": "Malinao"
+    }
+  },
+  {
+    "id": "0500510007",
+    "code": "0500510007",
+    "name": "Bulang",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500510000",
+      "code": "0500510000",
+      "name": "Malinao"
+    }
+  },
+  {
+    "id": "0500510008",
+    "code": "0500510008",
+    "name": "Burabod",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500510000",
+      "code": "0500510000",
+      "name": "Malinao"
+    }
+  },
+  {
+    "id": "0500510009",
+    "code": "0500510009",
+    "name": "Cabunturan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500510000",
+      "code": "0500510000",
+      "name": "Malinao"
+    }
+  },
+  {
+    "id": "0500510010",
+    "code": "0500510010",
+    "name": "Comun",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500510000",
+      "code": "0500510000",
+      "name": "Malinao"
+    }
+  },
+  {
+    "id": "0500510011",
+    "code": "0500510011",
+    "name": "Diaro",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500510000",
+      "code": "0500510000",
+      "name": "Malinao"
+    }
+  },
+  {
+    "id": "0500510012",
+    "code": "0500510012",
+    "name": "Estancia",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500510000",
+      "code": "0500510000",
+      "name": "Malinao"
+    }
+  },
+  {
+    "id": "0500510013",
+    "code": "0500510013",
+    "name": "Jonop",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500510000",
+      "code": "0500510000",
+      "name": "Malinao"
+    }
+  },
+  {
+    "id": "0500510014",
+    "code": "0500510014",
+    "name": "Labnig",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500510000",
+      "code": "0500510000",
+      "name": "Malinao"
+    }
+  },
+  {
+    "id": "0500510015",
+    "code": "0500510015",
+    "name": "Libod",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500510000",
+      "code": "0500510000",
+      "name": "Malinao"
+    }
+  },
+  {
+    "id": "0500510016",
+    "code": "0500510016",
+    "name": "Malolos",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500510000",
+      "code": "0500510000",
+      "name": "Malinao"
+    }
+  },
+  {
+    "id": "0500510017",
+    "code": "0500510017",
+    "name": "Matalipni",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500510000",
+      "code": "0500510000",
+      "name": "Malinao"
+    }
+  },
+  {
+    "id": "0500510018",
+    "code": "0500510018",
+    "name": "Ogob",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500510000",
+      "code": "0500510000",
+      "name": "Malinao"
+    }
+  },
+  {
+    "id": "0500510019",
+    "code": "0500510019",
+    "name": "Pawa",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500510000",
+      "code": "0500510000",
+      "name": "Malinao"
+    }
+  },
+  {
+    "id": "0500510020",
+    "code": "0500510020",
+    "name": "Payahan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500510000",
+      "code": "0500510000",
+      "name": "Malinao"
+    }
+  },
+  {
+    "id": "0500510021",
+    "code": "0500510021",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500510000",
+      "code": "0500510000",
+      "name": "Malinao"
+    }
+  },
+  {
+    "id": "0500510023",
+    "code": "0500510023",
+    "name": "Quinarabasahan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500510000",
+      "code": "0500510000",
+      "name": "Malinao"
+    }
+  },
+  {
+    "id": "0500510024",
+    "code": "0500510024",
+    "name": "Santa Elena",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500510000",
+      "code": "0500510000",
+      "name": "Malinao"
+    }
+  },
+  {
+    "id": "0500510025",
+    "code": "0500510025",
+    "name": "Soa",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500510000",
+      "code": "0500510000",
+      "name": "Malinao"
+    }
+  },
+  {
+    "id": "0500510026",
+    "code": "0500510026",
+    "name": "Sugcad",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500510000",
+      "code": "0500510000",
+      "name": "Malinao"
+    }
+  },
+  {
+    "id": "0500510027",
+    "code": "0500510027",
+    "name": "Tagoytoy",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500510000",
+      "code": "0500510000",
+      "name": "Malinao"
+    }
+  },
+  {
+    "id": "0500510028",
+    "code": "0500510028",
+    "name": "Tanawan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500510000",
+      "code": "0500510000",
+      "name": "Malinao"
+    }
+  },
+  {
+    "id": "0500510029",
+    "code": "0500510029",
+    "name": "Tuliw",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500510000",
+      "code": "0500510000",
+      "name": "Malinao"
+    }
+  }
+]

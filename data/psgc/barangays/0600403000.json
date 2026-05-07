@@ -1,0 +1,632 @@
+[
+  {
+    "id": "0600403001",
+    "code": "0600403001",
+    "name": "Agbanawan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600403000",
+      "code": "0600403000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "0600403002",
+    "code": "0600403002",
+    "name": "Bacan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600403000",
+      "code": "0600403000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "0600403003",
+    "code": "0600403003",
+    "name": "Badiangan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600403000",
+      "code": "0600403000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "0600403004",
+    "code": "0600403004",
+    "name": "Cerrudo",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600403000",
+      "code": "0600403000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "0600403005",
+    "code": "0600403005",
+    "name": "Cupang",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600403000",
+      "code": "0600403000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "0600403006",
+    "code": "0600403006",
+    "name": "Daguitan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600403000",
+      "code": "0600403000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "0600403007",
+    "code": "0600403007",
+    "name": "Daja Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600403000",
+      "code": "0600403000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "0600403008",
+    "code": "0600403008",
+    "name": "Daja Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600403000",
+      "code": "0600403000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "0600403009",
+    "code": "0600403009",
+    "name": "Dingle",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600403000",
+      "code": "0600403000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "0600403010",
+    "code": "0600403010",
+    "name": "Jumarap",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600403000",
+      "code": "0600403000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "0600403011",
+    "code": "0600403011",
+    "name": "Lapnag",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600403000",
+      "code": "0600403000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "0600403012",
+    "code": "0600403012",
+    "name": "Libas",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600403000",
+      "code": "0600403000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "0600403013",
+    "code": "0600403013",
+    "name": "Linabuan Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600403000",
+      "code": "0600403000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "0600403014",
+    "code": "0600403014",
+    "name": "Mambog",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600403000",
+      "code": "0600403000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "0600403015",
+    "code": "0600403015",
+    "name": "Mangan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600403000",
+      "code": "0600403000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "0600403016",
+    "code": "0600403016",
+    "name": "Muguing",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600403000",
+      "code": "0600403000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "0600403017",
+    "code": "0600403017",
+    "name": "Pagsanghan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600403000",
+      "code": "0600403000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "0600403018",
+    "code": "0600403018",
+    "name": "Palale",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600403000",
+      "code": "0600403000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "0600403019",
+    "code": "0600403019",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600403000",
+      "code": "0600403000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "0600403020",
+    "code": "0600403020",
+    "name": "Polo",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600403000",
+      "code": "0600403000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "0600403021",
+    "code": "0600403021",
+    "name": "Polocate",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600403000",
+      "code": "0600403000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "0600403022",
+    "code": "0600403022",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600403000",
+      "code": "0600403000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "0600403023",
+    "code": "0600403023",
+    "name": "Sibalew",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600403000",
+      "code": "0600403000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "0600403024",
+    "code": "0600403024",
+    "name": "Sigcay",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600403000",
+      "code": "0600403000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "0600403025",
+    "code": "0600403025",
+    "name": "Taba-ao",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600403000",
+      "code": "0600403000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "0600403026",
+    "code": "0600403026",
+    "name": "Tabayon",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600403000",
+      "code": "0600403000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "0600403027",
+    "code": "0600403027",
+    "name": "Tinapuay",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600403000",
+      "code": "0600403000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "0600403028",
+    "code": "0600403028",
+    "name": "Torralba",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600403000",
+      "code": "0600403000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "0600403029",
+    "code": "0600403029",
+    "name": "Ugsod",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600403000",
+      "code": "0600403000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "0600403030",
+    "code": "0600403030",
+    "name": "Venturanza",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600403000",
+      "code": "0600403000",
+      "name": "Banga"
+    }
+  }
+]

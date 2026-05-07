@@ -1,0 +1,170 @@
+[
+  {
+    "id": "0102932001",
+    "code": "0102932001",
+    "name": "Baringcucurong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102932000",
+      "code": "0102932000",
+      "name": "Suyo"
+    }
+  },
+  {
+    "id": "0102932002",
+    "code": "0102932002",
+    "name": "Cabugao",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102932000",
+      "code": "0102932000",
+      "name": "Suyo"
+    }
+  },
+  {
+    "id": "0102932003",
+    "code": "0102932003",
+    "name": "Man-atong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102932000",
+      "code": "0102932000",
+      "name": "Suyo"
+    }
+  },
+  {
+    "id": "0102932004",
+    "code": "0102932004",
+    "name": "Patoc-ao",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102932000",
+      "code": "0102932000",
+      "name": "Suyo"
+    }
+  },
+  {
+    "id": "0102932005",
+    "code": "0102932005",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102932000",
+      "code": "0102932000",
+      "name": "Suyo"
+    }
+  },
+  {
+    "id": "0102932007",
+    "code": "0102932007",
+    "name": "Suyo Proper",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102932000",
+      "code": "0102932000",
+      "name": "Suyo"
+    }
+  },
+  {
+    "id": "0102932008",
+    "code": "0102932008",
+    "name": "Urzadan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102932000",
+      "code": "0102932000",
+      "name": "Suyo"
+    }
+  },
+  {
+    "id": "0102932009",
+    "code": "0102932009",
+    "name": "Uso",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102932000",
+      "code": "0102932000",
+      "name": "Suyo"
+    }
+  }
+]

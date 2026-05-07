@@ -1,0 +1,506 @@
+[
+  {
+    "id": "1108205001",
+    "code": "1108205001",
+    "name": "Bagong Silang",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108205000",
+      "code": "1108205000",
+      "name": "Maragusan"
+    }
+  },
+  {
+    "id": "1108205006",
+    "code": "1108205006",
+    "name": "Bahi",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108205000",
+      "code": "1108205000",
+      "name": "Maragusan"
+    }
+  },
+  {
+    "id": "1108205007",
+    "code": "1108205007",
+    "name": "Cambagang",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108205000",
+      "code": "1108205000",
+      "name": "Maragusan"
+    }
+  },
+  {
+    "id": "1108205008",
+    "code": "1108205008",
+    "name": "Coronobe",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108205000",
+      "code": "1108205000",
+      "name": "Maragusan"
+    }
+  },
+  {
+    "id": "1108205009",
+    "code": "1108205009",
+    "name": "Katipunan",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108205000",
+      "code": "1108205000",
+      "name": "Maragusan"
+    }
+  },
+  {
+    "id": "1108205010",
+    "code": "1108205010",
+    "name": "Lahi",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108205000",
+      "code": "1108205000",
+      "name": "Maragusan"
+    }
+  },
+  {
+    "id": "1108205011",
+    "code": "1108205011",
+    "name": "Langgawisan",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108205000",
+      "code": "1108205000",
+      "name": "Maragusan"
+    }
+  },
+  {
+    "id": "1108205012",
+    "code": "1108205012",
+    "name": "Mabugnao",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108205000",
+      "code": "1108205000",
+      "name": "Maragusan"
+    }
+  },
+  {
+    "id": "1108205013",
+    "code": "1108205013",
+    "name": "Magcagong",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108205000",
+      "code": "1108205000",
+      "name": "Maragusan"
+    }
+  },
+  {
+    "id": "1108205014",
+    "code": "1108205014",
+    "name": "Mahayahay",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108205000",
+      "code": "1108205000",
+      "name": "Maragusan"
+    }
+  },
+  {
+    "id": "1108205002",
+    "code": "1108205002",
+    "name": "Mapawa",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108205000",
+      "code": "1108205000",
+      "name": "Maragusan"
+    }
+  },
+  {
+    "id": "1108205003",
+    "code": "1108205003",
+    "name": "Maragusan",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108205000",
+      "code": "1108205000",
+      "name": "Maragusan"
+    }
+  },
+  {
+    "id": "1108205015",
+    "code": "1108205015",
+    "name": "Mauswagon",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108205000",
+      "code": "1108205000",
+      "name": "Maragusan"
+    }
+  },
+  {
+    "id": "1108205004",
+    "code": "1108205004",
+    "name": "New Albay",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108205000",
+      "code": "1108205000",
+      "name": "Maragusan"
+    }
+  },
+  {
+    "id": "1108205016",
+    "code": "1108205016",
+    "name": "New Katipunan",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108205000",
+      "code": "1108205000",
+      "name": "Maragusan"
+    }
+  },
+  {
+    "id": "1108205017",
+    "code": "1108205017",
+    "name": "New Manay",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108205000",
+      "code": "1108205000",
+      "name": "Maragusan"
+    }
+  },
+  {
+    "id": "1108205018",
+    "code": "1108205018",
+    "name": "New Panay",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108205000",
+      "code": "1108205000",
+      "name": "Maragusan"
+    }
+  },
+  {
+    "id": "1108205019",
+    "code": "1108205019",
+    "name": "Paloc",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108205000",
+      "code": "1108205000",
+      "name": "Maragusan"
+    }
+  },
+  {
+    "id": "1108205020",
+    "code": "1108205020",
+    "name": "Pamintaran",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108205000",
+      "code": "1108205000",
+      "name": "Maragusan"
+    }
+  },
+  {
+    "id": "1108205021",
+    "code": "1108205021",
+    "name": "Parasanon",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108205000",
+      "code": "1108205000",
+      "name": "Maragusan"
+    }
+  },
+  {
+    "id": "1108205022",
+    "code": "1108205022",
+    "name": "Talian",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108205000",
+      "code": "1108205000",
+      "name": "Maragusan"
+    }
+  },
+  {
+    "id": "1108205023",
+    "code": "1108205023",
+    "name": "Tandik",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108205000",
+      "code": "1108205000",
+      "name": "Maragusan"
+    }
+  },
+  {
+    "id": "1108205024",
+    "code": "1108205024",
+    "name": "Tigbao",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108205000",
+      "code": "1108205000",
+      "name": "Maragusan"
+    }
+  },
+  {
+    "id": "1108205005",
+    "code": "1108205005",
+    "name": "Tupas",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108205000",
+      "code": "1108205000",
+      "name": "Maragusan"
+    }
+  }
+]

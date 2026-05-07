@@ -1,0 +1,386 @@
+[
+  {
+    "id": "0301401000",
+    "code": "0301401000",
+    "name": "Angat",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    }
+  },
+  {
+    "id": "0301402000",
+    "code": "0301402000",
+    "name": "Balagtas",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    }
+  },
+  {
+    "id": "0301404000",
+    "code": "0301404000",
+    "name": "Bocaue",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    }
+  },
+  {
+    "id": "0301405000",
+    "code": "0301405000",
+    "name": "Bulacan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    }
+  },
+  {
+    "id": "0301406000",
+    "code": "0301406000",
+    "name": "Bustos",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    }
+  },
+  {
+    "id": "0301407000",
+    "code": "0301407000",
+    "name": "Calumpit",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    }
+  },
+  {
+    "id": "0301403000",
+    "code": "0301403000",
+    "name": "City of Baliwag",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    }
+  },
+  {
+    "id": "0301410000",
+    "code": "0301410000",
+    "name": "City of Malolos",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    }
+  },
+  {
+    "id": "0301412000",
+    "code": "0301412000",
+    "name": "City of Meycauayan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    }
+  },
+  {
+    "id": "0301420000",
+    "code": "0301420000",
+    "name": "City of San Jose Del Monte",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    }
+  },
+  {
+    "id": "0301424000",
+    "code": "0301424000",
+    "name": "Doña Remedios Trinidad",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    }
+  },
+  {
+    "id": "0301408000",
+    "code": "0301408000",
+    "name": "Guiguinto",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    }
+  },
+  {
+    "id": "0301409000",
+    "code": "0301409000",
+    "name": "Hagonoy",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    }
+  },
+  {
+    "id": "0301411000",
+    "code": "0301411000",
+    "name": "Marilao",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    }
+  },
+  {
+    "id": "0301413000",
+    "code": "0301413000",
+    "name": "Norzagaray",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    }
+  },
+  {
+    "id": "0301414000",
+    "code": "0301414000",
+    "name": "Obando",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    }
+  },
+  {
+    "id": "0301415000",
+    "code": "0301415000",
+    "name": "Pandi",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    }
+  },
+  {
+    "id": "0301416000",
+    "code": "0301416000",
+    "name": "Paombong",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    }
+  },
+  {
+    "id": "0301417000",
+    "code": "0301417000",
+    "name": "Plaridel",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    }
+  },
+  {
+    "id": "0301418000",
+    "code": "0301418000",
+    "name": "Pulilan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    }
+  },
+  {
+    "id": "0301419000",
+    "code": "0301419000",
+    "name": "San Ildefonso",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    }
+  },
+  {
+    "id": "0301421000",
+    "code": "0301421000",
+    "name": "San Miguel",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    }
+  },
+  {
+    "id": "0301422000",
+    "code": "0301422000",
+    "name": "San Rafael",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    }
+  },
+  {
+    "id": "0301423000",
+    "code": "0301423000",
+    "name": "Santa Maria",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    }
+  }
+]

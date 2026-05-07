@@ -1,0 +1,401 @@
+[
+  {
+    "id": "0301418001",
+    "code": "0301418001",
+    "name": "Balatong A",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301418000",
+      "code": "0301418000",
+      "name": "Pulilan"
+    }
+  },
+  {
+    "id": "0301418002",
+    "code": "0301418002",
+    "name": "Balatong B",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301418000",
+      "code": "0301418000",
+      "name": "Pulilan"
+    }
+  },
+  {
+    "id": "0301418003",
+    "code": "0301418003",
+    "name": "Cutcot",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301418000",
+      "code": "0301418000",
+      "name": "Pulilan"
+    }
+  },
+  {
+    "id": "0301418005",
+    "code": "0301418005",
+    "name": "Dampol I",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301418000",
+      "code": "0301418000",
+      "name": "Pulilan"
+    }
+  },
+  {
+    "id": "0301418006",
+    "code": "0301418006",
+    "name": "Dampol II-A",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301418000",
+      "code": "0301418000",
+      "name": "Pulilan"
+    }
+  },
+  {
+    "id": "0301418007",
+    "code": "0301418007",
+    "name": "Dampol II-B",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301418000",
+      "code": "0301418000",
+      "name": "Pulilan"
+    }
+  },
+  {
+    "id": "0301418008",
+    "code": "0301418008",
+    "name": "Dulong Malabon",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301418000",
+      "code": "0301418000",
+      "name": "Pulilan"
+    }
+  },
+  {
+    "id": "0301418009",
+    "code": "0301418009",
+    "name": "Inaon",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301418000",
+      "code": "0301418000",
+      "name": "Pulilan"
+    }
+  },
+  {
+    "id": "0301418010",
+    "code": "0301418010",
+    "name": "Longos",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301418000",
+      "code": "0301418000",
+      "name": "Pulilan"
+    }
+  },
+  {
+    "id": "0301418011",
+    "code": "0301418011",
+    "name": "Lumbac",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301418000",
+      "code": "0301418000",
+      "name": "Pulilan"
+    }
+  },
+  {
+    "id": "0301418018",
+    "code": "0301418018",
+    "name": "Paltao",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301418000",
+      "code": "0301418000",
+      "name": "Pulilan"
+    }
+  },
+  {
+    "id": "0301418020",
+    "code": "0301418020",
+    "name": "Penabatan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301418000",
+      "code": "0301418000",
+      "name": "Pulilan"
+    }
+  },
+  {
+    "id": "0301418022",
+    "code": "0301418022",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301418000",
+      "code": "0301418000",
+      "name": "Pulilan"
+    }
+  },
+  {
+    "id": "0301418025",
+    "code": "0301418025",
+    "name": "Santa Peregrina",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301418000",
+      "code": "0301418000",
+      "name": "Pulilan"
+    }
+  },
+  {
+    "id": "0301418026",
+    "code": "0301418026",
+    "name": "Santo Cristo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301418000",
+      "code": "0301418000",
+      "name": "Pulilan"
+    }
+  },
+  {
+    "id": "0301418033",
+    "code": "0301418033",
+    "name": "Taal",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301418000",
+      "code": "0301418000",
+      "name": "Pulilan"
+    }
+  },
+  {
+    "id": "0301418034",
+    "code": "0301418034",
+    "name": "Tabon",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301418000",
+      "code": "0301418000",
+      "name": "Pulilan"
+    }
+  },
+  {
+    "id": "0301418035",
+    "code": "0301418035",
+    "name": "Tibag",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301418000",
+      "code": "0301418000",
+      "name": "Pulilan"
+    }
+  },
+  {
+    "id": "0301418037",
+    "code": "0301418037",
+    "name": "Tinejero",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301418000",
+      "code": "0301418000",
+      "name": "Pulilan"
+    }
+  }
+]

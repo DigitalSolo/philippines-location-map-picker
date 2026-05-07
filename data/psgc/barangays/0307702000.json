@@ -1,0 +1,506 @@
+[
+  {
+    "id": "0307702001",
+    "code": "0307702001",
+    "name": "Barangay 1",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307702000",
+      "code": "0307702000",
+      "name": "Casiguran"
+    }
+  },
+  {
+    "id": "0307702002",
+    "code": "0307702002",
+    "name": "Barangay 2",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307702000",
+      "code": "0307702000",
+      "name": "Casiguran"
+    }
+  },
+  {
+    "id": "0307702003",
+    "code": "0307702003",
+    "name": "Barangay 3",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307702000",
+      "code": "0307702000",
+      "name": "Casiguran"
+    }
+  },
+  {
+    "id": "0307702004",
+    "code": "0307702004",
+    "name": "Barangay 4",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307702000",
+      "code": "0307702000",
+      "name": "Casiguran"
+    }
+  },
+  {
+    "id": "0307702005",
+    "code": "0307702005",
+    "name": "Barangay 5",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307702000",
+      "code": "0307702000",
+      "name": "Casiguran"
+    }
+  },
+  {
+    "id": "0307702006",
+    "code": "0307702006",
+    "name": "Barangay 6",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307702000",
+      "code": "0307702000",
+      "name": "Casiguran"
+    }
+  },
+  {
+    "id": "0307702007",
+    "code": "0307702007",
+    "name": "Barangay 7",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307702000",
+      "code": "0307702000",
+      "name": "Casiguran"
+    }
+  },
+  {
+    "id": "0307702008",
+    "code": "0307702008",
+    "name": "Barangay 8",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307702000",
+      "code": "0307702000",
+      "name": "Casiguran"
+    }
+  },
+  {
+    "id": "0307702019",
+    "code": "0307702019",
+    "name": "Bianoan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307702000",
+      "code": "0307702000",
+      "name": "Casiguran"
+    }
+  },
+  {
+    "id": "0307702009",
+    "code": "0307702009",
+    "name": "Calabgan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307702000",
+      "code": "0307702000",
+      "name": "Casiguran"
+    }
+  },
+  {
+    "id": "0307702010",
+    "code": "0307702010",
+    "name": "Calangcuasan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307702000",
+      "code": "0307702000",
+      "name": "Casiguran"
+    }
+  },
+  {
+    "id": "0307702011",
+    "code": "0307702011",
+    "name": "Calantas",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307702000",
+      "code": "0307702000",
+      "name": "Casiguran"
+    }
+  },
+  {
+    "id": "0307702020",
+    "code": "0307702020",
+    "name": "Cozo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307702000",
+      "code": "0307702000",
+      "name": "Casiguran"
+    }
+  },
+  {
+    "id": "0307702012",
+    "code": "0307702012",
+    "name": "Culat",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307702000",
+      "code": "0307702000",
+      "name": "Casiguran"
+    }
+  },
+  {
+    "id": "0307702021",
+    "code": "0307702021",
+    "name": "Dibacong",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307702000",
+      "code": "0307702000",
+      "name": "Casiguran"
+    }
+  },
+  {
+    "id": "0307702013",
+    "code": "0307702013",
+    "name": "Dibet",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307702000",
+      "code": "0307702000",
+      "name": "Casiguran"
+    }
+  },
+  {
+    "id": "0307702022",
+    "code": "0307702022",
+    "name": "Ditinagyan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307702000",
+      "code": "0307702000",
+      "name": "Casiguran"
+    }
+  },
+  {
+    "id": "0307702014",
+    "code": "0307702014",
+    "name": "Esperanza",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307702000",
+      "code": "0307702000",
+      "name": "Casiguran"
+    }
+  },
+  {
+    "id": "0307702023",
+    "code": "0307702023",
+    "name": "Esteves",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307702000",
+      "code": "0307702000",
+      "name": "Casiguran"
+    }
+  },
+  {
+    "id": "0307702015",
+    "code": "0307702015",
+    "name": "Lual",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307702000",
+      "code": "0307702000",
+      "name": "Casiguran"
+    }
+  },
+  {
+    "id": "0307702016",
+    "code": "0307702016",
+    "name": "Marikit",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307702000",
+      "code": "0307702000",
+      "name": "Casiguran"
+    }
+  },
+  {
+    "id": "0307702024",
+    "code": "0307702024",
+    "name": "San Ildefonso",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307702000",
+      "code": "0307702000",
+      "name": "Casiguran"
+    }
+  },
+  {
+    "id": "0307702017",
+    "code": "0307702017",
+    "name": "Tabas",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307702000",
+      "code": "0307702000",
+      "name": "Casiguran"
+    }
+  },
+  {
+    "id": "0307702018",
+    "code": "0307702018",
+    "name": "Tinib",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307702000",
+      "code": "0307702000",
+      "name": "Casiguran"
+    }
+  }
+]

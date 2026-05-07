@@ -1,0 +1,464 @@
+[
+  {
+    "id": "0201512001",
+    "code": "0201512001",
+    "name": "Alibago",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201512000",
+      "code": "0201512000",
+      "name": "Enrile"
+    }
+  },
+  {
+    "id": "0201512002",
+    "code": "0201512002",
+    "name": "Barangay I",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201512000",
+      "code": "0201512000",
+      "name": "Enrile"
+    }
+  },
+  {
+    "id": "0201512003",
+    "code": "0201512003",
+    "name": "Barangay II",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201512000",
+      "code": "0201512000",
+      "name": "Enrile"
+    }
+  },
+  {
+    "id": "0201512006",
+    "code": "0201512006",
+    "name": "Barangay III",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201512000",
+      "code": "0201512000",
+      "name": "Enrile"
+    }
+  },
+  {
+    "id": "0201512021",
+    "code": "0201512021",
+    "name": "Barangay III-A",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201512000",
+      "code": "0201512000",
+      "name": "Enrile"
+    }
+  },
+  {
+    "id": "0201512019",
+    "code": "0201512019",
+    "name": "Barangay IV",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201512000",
+      "code": "0201512000",
+      "name": "Enrile"
+    }
+  },
+  {
+    "id": "0201512022",
+    "code": "0201512022",
+    "name": "Batu",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201512000",
+      "code": "0201512000",
+      "name": "Enrile"
+    }
+  },
+  {
+    "id": "0201512007",
+    "code": "0201512007",
+    "name": "Divisoria",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201512000",
+      "code": "0201512000",
+      "name": "Enrile"
+    }
+  },
+  {
+    "id": "0201512008",
+    "code": "0201512008",
+    "name": "Inga",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201512000",
+      "code": "0201512000",
+      "name": "Enrile"
+    }
+  },
+  {
+    "id": "0201512009",
+    "code": "0201512009",
+    "name": "Lanna",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201512000",
+      "code": "0201512000",
+      "name": "Enrile"
+    }
+  },
+  {
+    "id": "0201512010",
+    "code": "0201512010",
+    "name": "Lemu Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201512000",
+      "code": "0201512000",
+      "name": "Enrile"
+    }
+  },
+  {
+    "id": "0201512023",
+    "code": "0201512023",
+    "name": "Lemu Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201512000",
+      "code": "0201512000",
+      "name": "Enrile"
+    }
+  },
+  {
+    "id": "0201512011",
+    "code": "0201512011",
+    "name": "Liwan Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201512000",
+      "code": "0201512000",
+      "name": "Enrile"
+    }
+  },
+  {
+    "id": "0201512012",
+    "code": "0201512012",
+    "name": "Liwan Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201512000",
+      "code": "0201512000",
+      "name": "Enrile"
+    }
+  },
+  {
+    "id": "0201512013",
+    "code": "0201512013",
+    "name": "Maddarulug Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201512000",
+      "code": "0201512000",
+      "name": "Enrile"
+    }
+  },
+  {
+    "id": "0201512024",
+    "code": "0201512024",
+    "name": "Maddarulug Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201512000",
+      "code": "0201512000",
+      "name": "Enrile"
+    }
+  },
+  {
+    "id": "0201512014",
+    "code": "0201512014",
+    "name": "Magalalag East",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201512000",
+      "code": "0201512000",
+      "name": "Enrile"
+    }
+  },
+  {
+    "id": "0201512025",
+    "code": "0201512025",
+    "name": "Magalalag West",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201512000",
+      "code": "0201512000",
+      "name": "Enrile"
+    }
+  },
+  {
+    "id": "0201512015",
+    "code": "0201512015",
+    "name": "Marracuru",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201512000",
+      "code": "0201512000",
+      "name": "Enrile"
+    }
+  },
+  {
+    "id": "0201512020",
+    "code": "0201512020",
+    "name": "Roma Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201512000",
+      "code": "0201512000",
+      "name": "Enrile"
+    }
+  },
+  {
+    "id": "0201512026",
+    "code": "0201512026",
+    "name": "Roma Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201512000",
+      "code": "0201512000",
+      "name": "Enrile"
+    }
+  },
+  {
+    "id": "0201512027",
+    "code": "0201512027",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201512000",
+      "code": "0201512000",
+      "name": "Enrile"
+    }
+  }
+]

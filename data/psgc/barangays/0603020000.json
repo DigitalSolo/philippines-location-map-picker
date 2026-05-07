@@ -1,0 +1,695 @@
+[
+  {
+    "id": "0603020001",
+    "code": "0603020001",
+    "name": "Anono-o",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603020000",
+      "code": "0603020000",
+      "name": "Guimbal"
+    }
+  },
+  {
+    "id": "0603020002",
+    "code": "0603020002",
+    "name": "Bacong",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603020000",
+      "code": "0603020000",
+      "name": "Guimbal"
+    }
+  },
+  {
+    "id": "0603020003",
+    "code": "0603020003",
+    "name": "Bagumbayan Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603020000",
+      "code": "0603020000",
+      "name": "Guimbal"
+    }
+  },
+  {
+    "id": "0603020004",
+    "code": "0603020004",
+    "name": "Balantad-Carlos Fruto",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603020000",
+      "code": "0603020000",
+      "name": "Guimbal"
+    }
+  },
+  {
+    "id": "0603020005",
+    "code": "0603020005",
+    "name": "Baras",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603020000",
+      "code": "0603020000",
+      "name": "Guimbal"
+    }
+  },
+  {
+    "id": "0603020006",
+    "code": "0603020006",
+    "name": "Binanua-an",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603020000",
+      "code": "0603020000",
+      "name": "Guimbal"
+    }
+  },
+  {
+    "id": "0603020008",
+    "code": "0603020008",
+    "name": "Bongol San Miguel",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603020000",
+      "code": "0603020000",
+      "name": "Guimbal"
+    }
+  },
+  {
+    "id": "0603020009",
+    "code": "0603020009",
+    "name": "Bongol San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603020000",
+      "code": "0603020000",
+      "name": "Guimbal"
+    }
+  },
+  {
+    "id": "0603020010",
+    "code": "0603020010",
+    "name": "Bulad",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603020000",
+      "code": "0603020000",
+      "name": "Guimbal"
+    }
+  },
+  {
+    "id": "0603020011",
+    "code": "0603020011",
+    "name": "Buluangan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603020000",
+      "code": "0603020000",
+      "name": "Guimbal"
+    }
+  },
+  {
+    "id": "0603020012",
+    "code": "0603020012",
+    "name": "Burgos-Gengos",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603020000",
+      "code": "0603020000",
+      "name": "Guimbal"
+    }
+  },
+  {
+    "id": "0603020013",
+    "code": "0603020013",
+    "name": "Cabasi",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603020000",
+      "code": "0603020000",
+      "name": "Guimbal"
+    }
+  },
+  {
+    "id": "0603020014",
+    "code": "0603020014",
+    "name": "Cabubugan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603020000",
+      "code": "0603020000",
+      "name": "Guimbal"
+    }
+  },
+  {
+    "id": "0603020015",
+    "code": "0603020015",
+    "name": "Calampitao",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603020000",
+      "code": "0603020000",
+      "name": "Guimbal"
+    }
+  },
+  {
+    "id": "0603020016",
+    "code": "0603020016",
+    "name": "Camangahan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603020000",
+      "code": "0603020000",
+      "name": "Guimbal"
+    }
+  },
+  {
+    "id": "0603020017",
+    "code": "0603020017",
+    "name": "Generosa-Cristobal Colon",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603020000",
+      "code": "0603020000",
+      "name": "Guimbal"
+    }
+  },
+  {
+    "id": "0603020018",
+    "code": "0603020018",
+    "name": "Gerona-Gimeno",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603020000",
+      "code": "0603020000",
+      "name": "Guimbal"
+    }
+  },
+  {
+    "id": "0603020019",
+    "code": "0603020019",
+    "name": "Girado-Magsaysay",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603020000",
+      "code": "0603020000",
+      "name": "Guimbal"
+    }
+  },
+  {
+    "id": "0603020020",
+    "code": "0603020020",
+    "name": "Gotera",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603020000",
+      "code": "0603020000",
+      "name": "Guimbal"
+    }
+  },
+  {
+    "id": "0603020021",
+    "code": "0603020021",
+    "name": "Igcocolo",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603020000",
+      "code": "0603020000",
+      "name": "Guimbal"
+    }
+  },
+  {
+    "id": "0603020032",
+    "code": "0603020032",
+    "name": "Iyasan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603020000",
+      "code": "0603020000",
+      "name": "Guimbal"
+    }
+  },
+  {
+    "id": "0603020022",
+    "code": "0603020022",
+    "name": "Libo-on Gonzales",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603020000",
+      "code": "0603020000",
+      "name": "Guimbal"
+    }
+  },
+  {
+    "id": "0603020023",
+    "code": "0603020023",
+    "name": "Lubacan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603020000",
+      "code": "0603020000",
+      "name": "Guimbal"
+    }
+  },
+  {
+    "id": "0603020024",
+    "code": "0603020024",
+    "name": "Nahapay",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603020000",
+      "code": "0603020000",
+      "name": "Guimbal"
+    }
+  },
+  {
+    "id": "0603020025",
+    "code": "0603020025",
+    "name": "Nalundan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603020000",
+      "code": "0603020000",
+      "name": "Guimbal"
+    }
+  },
+  {
+    "id": "0603020026",
+    "code": "0603020026",
+    "name": "Nanga",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603020000",
+      "code": "0603020000",
+      "name": "Guimbal"
+    }
+  },
+  {
+    "id": "0603020027",
+    "code": "0603020027",
+    "name": "Nito-an Lupsag",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603020000",
+      "code": "0603020000",
+      "name": "Guimbal"
+    }
+  },
+  {
+    "id": "0603020028",
+    "code": "0603020028",
+    "name": "Particion",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603020000",
+      "code": "0603020000",
+      "name": "Guimbal"
+    }
+  },
+  {
+    "id": "0603020029",
+    "code": "0603020029",
+    "name": "Pescadores",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603020000",
+      "code": "0603020000",
+      "name": "Guimbal"
+    }
+  },
+  {
+    "id": "0603020030",
+    "code": "0603020030",
+    "name": "Rizal-Tuguisan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603020000",
+      "code": "0603020000",
+      "name": "Guimbal"
+    }
+  },
+  {
+    "id": "0603020033",
+    "code": "0603020033",
+    "name": "Santa Rosa-Laguna",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603020000",
+      "code": "0603020000",
+      "name": "Guimbal"
+    }
+  },
+  {
+    "id": "0603020031",
+    "code": "0603020031",
+    "name": "Sipitan-Badiang",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603020000",
+      "code": "0603020000",
+      "name": "Guimbal"
+    }
+  },
+  {
+    "id": "0603020007",
+    "code": "0603020007",
+    "name": "Torreblanca-Blumentritt",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603020000",
+      "code": "0603020000",
+      "name": "Guimbal"
+    }
+  }
+]

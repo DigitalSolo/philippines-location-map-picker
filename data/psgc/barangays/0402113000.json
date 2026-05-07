@@ -1,0 +1,569 @@
+[
+  {
+    "id": "0402113002",
+    "code": "0402113002",
+    "name": "Bucal I",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402113000",
+      "code": "0402113000",
+      "name": "Maragondon"
+    }
+  },
+  {
+    "id": "0402113003",
+    "code": "0402113003",
+    "name": "Bucal II",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402113000",
+      "code": "0402113000",
+      "name": "Maragondon"
+    }
+  },
+  {
+    "id": "0402113004",
+    "code": "0402113004",
+    "name": "Bucal III A",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402113000",
+      "code": "0402113000",
+      "name": "Maragondon"
+    }
+  },
+  {
+    "id": "0402113022",
+    "code": "0402113022",
+    "name": "Bucal III B",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402113000",
+      "code": "0402113000",
+      "name": "Maragondon"
+    }
+  },
+  {
+    "id": "0402113005",
+    "code": "0402113005",
+    "name": "Bucal IV A",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402113000",
+      "code": "0402113000",
+      "name": "Maragondon"
+    }
+  },
+  {
+    "id": "0402113023",
+    "code": "0402113023",
+    "name": "Bucal IV B",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402113000",
+      "code": "0402113000",
+      "name": "Maragondon"
+    }
+  },
+  {
+    "id": "0402113001",
+    "code": "0402113001",
+    "name": "Caingin Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402113000",
+      "code": "0402113000",
+      "name": "Maragondon"
+    }
+  },
+  {
+    "id": "0402113008",
+    "code": "0402113008",
+    "name": "Garita I A",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402113000",
+      "code": "0402113000",
+      "name": "Maragondon"
+    }
+  },
+  {
+    "id": "0402113024",
+    "code": "0402113024",
+    "name": "Garita I B",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402113000",
+      "code": "0402113000",
+      "name": "Maragondon"
+    }
+  },
+  {
+    "id": "0402113021",
+    "code": "0402113021",
+    "name": "Layong Mabilog",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402113000",
+      "code": "0402113000",
+      "name": "Maragondon"
+    }
+  },
+  {
+    "id": "0402113009",
+    "code": "0402113009",
+    "name": "Mabato",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402113000",
+      "code": "0402113000",
+      "name": "Maragondon"
+    }
+  },
+  {
+    "id": "0402113011",
+    "code": "0402113011",
+    "name": "Pantihan I",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402113000",
+      "code": "0402113000",
+      "name": "Maragondon"
+    }
+  },
+  {
+    "id": "0402113012",
+    "code": "0402113012",
+    "name": "Pantihan II",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402113000",
+      "code": "0402113000",
+      "name": "Maragondon"
+    }
+  },
+  {
+    "id": "0402113013",
+    "code": "0402113013",
+    "name": "Pantihan III",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402113000",
+      "code": "0402113000",
+      "name": "Maragondon"
+    }
+  },
+  {
+    "id": "0402113014",
+    "code": "0402113014",
+    "name": "Pantihan IV",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402113000",
+      "code": "0402113000",
+      "name": "Maragondon"
+    }
+  },
+  {
+    "id": "0402113015",
+    "code": "0402113015",
+    "name": "Patungan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402113000",
+      "code": "0402113000",
+      "name": "Maragondon"
+    }
+  },
+  {
+    "id": "0402113016",
+    "code": "0402113016",
+    "name": "Pinagsanhan I A",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402113000",
+      "code": "0402113000",
+      "name": "Maragondon"
+    }
+  },
+  {
+    "id": "0402113025",
+    "code": "0402113025",
+    "name": "Pinagsanhan I B",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402113000",
+      "code": "0402113000",
+      "name": "Maragondon"
+    }
+  },
+  {
+    "id": "0402113018",
+    "code": "0402113018",
+    "name": "Poblacion I A",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402113000",
+      "code": "0402113000",
+      "name": "Maragondon"
+    }
+  },
+  {
+    "id": "0402113026",
+    "code": "0402113026",
+    "name": "Poblacion I B",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402113000",
+      "code": "0402113000",
+      "name": "Maragondon"
+    }
+  },
+  {
+    "id": "0402113019",
+    "code": "0402113019",
+    "name": "Poblacion II A",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402113000",
+      "code": "0402113000",
+      "name": "Maragondon"
+    }
+  },
+  {
+    "id": "0402113027",
+    "code": "0402113027",
+    "name": "Poblacion II B",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402113000",
+      "code": "0402113000",
+      "name": "Maragondon"
+    }
+  },
+  {
+    "id": "0402113007",
+    "code": "0402113007",
+    "name": "San Miguel I A",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402113000",
+      "code": "0402113000",
+      "name": "Maragondon"
+    }
+  },
+  {
+    "id": "0402113028",
+    "code": "0402113028",
+    "name": "San Miguel I B",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402113000",
+      "code": "0402113000",
+      "name": "Maragondon"
+    }
+  },
+  {
+    "id": "0402113010",
+    "code": "0402113010",
+    "name": "Talipusngo",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402113000",
+      "code": "0402113000",
+      "name": "Maragondon"
+    }
+  },
+  {
+    "id": "0402113029",
+    "code": "0402113029",
+    "name": "Tulay Kanluran",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402113000",
+      "code": "0402113000",
+      "name": "Maragondon"
+    }
+  },
+  {
+    "id": "0402113020",
+    "code": "0402113020",
+    "name": "Tulay Silangan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402113000",
+      "code": "0402113000",
+      "name": "Maragondon"
+    }
+  }
+]

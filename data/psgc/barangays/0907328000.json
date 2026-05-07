@@ -1,0 +1,653 @@
+[
+  {
+    "id": "0907328001",
+    "code": "0907328001",
+    "name": "Alang-alang",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907328000",
+      "code": "0907328000",
+      "name": "Tambulig"
+    }
+  },
+  {
+    "id": "0907328042",
+    "code": "0907328042",
+    "name": "Angeles",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907328000",
+      "code": "0907328000",
+      "name": "Tambulig"
+    }
+  },
+  {
+    "id": "0907328002",
+    "code": "0907328002",
+    "name": "Bag-ong Kauswagan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907328000",
+      "code": "0907328000",
+      "name": "Tambulig"
+    }
+  },
+  {
+    "id": "0907328004",
+    "code": "0907328004",
+    "name": "Bag-ong Tabogon",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907328000",
+      "code": "0907328000",
+      "name": "Tambulig"
+    }
+  },
+  {
+    "id": "0907328005",
+    "code": "0907328005",
+    "name": "Balugo",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907328000",
+      "code": "0907328000",
+      "name": "Tambulig"
+    }
+  },
+  {
+    "id": "0907328007",
+    "code": "0907328007",
+    "name": "Cabgan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907328000",
+      "code": "0907328000",
+      "name": "Tambulig"
+    }
+  },
+  {
+    "id": "0907328008",
+    "code": "0907328008",
+    "name": "Calolot",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907328000",
+      "code": "0907328000",
+      "name": "Tambulig"
+    }
+  },
+  {
+    "id": "0907328010",
+    "code": "0907328010",
+    "name": "Dimalinao",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907328000",
+      "code": "0907328000",
+      "name": "Tambulig"
+    }
+  },
+  {
+    "id": "0907328006",
+    "code": "0907328006",
+    "name": "Fabian",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907328000",
+      "code": "0907328000",
+      "name": "Tambulig"
+    }
+  },
+  {
+    "id": "0907328012",
+    "code": "0907328012",
+    "name": "Gabunon",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907328000",
+      "code": "0907328000",
+      "name": "Tambulig"
+    }
+  },
+  {
+    "id": "0907328013",
+    "code": "0907328013",
+    "name": "Happy Valley",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907328000",
+      "code": "0907328000",
+      "name": "Tambulig"
+    }
+  },
+  {
+    "id": "0907328043",
+    "code": "0907328043",
+    "name": "Kapalaran",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907328000",
+      "code": "0907328000",
+      "name": "Tambulig"
+    }
+  },
+  {
+    "id": "0907328015",
+    "code": "0907328015",
+    "name": "Libato",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907328000",
+      "code": "0907328000",
+      "name": "Tambulig"
+    }
+  },
+  {
+    "id": "0907328016",
+    "code": "0907328016",
+    "name": "Limamawan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907328000",
+      "code": "0907328000",
+      "name": "Tambulig"
+    }
+  },
+  {
+    "id": "0907328019",
+    "code": "0907328019",
+    "name": "Lower Liasan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907328000",
+      "code": "0907328000",
+      "name": "Tambulig"
+    }
+  },
+  {
+    "id": "0907328020",
+    "code": "0907328020",
+    "name": "Lower Lodiong",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907328000",
+      "code": "0907328000",
+      "name": "Tambulig"
+    }
+  },
+  {
+    "id": "0907328021",
+    "code": "0907328021",
+    "name": "Lower Tiparak",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907328000",
+      "code": "0907328000",
+      "name": "Tambulig"
+    }
+  },
+  {
+    "id": "0907328022",
+    "code": "0907328022",
+    "name": "Lower Usogan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907328000",
+      "code": "0907328000",
+      "name": "Tambulig"
+    }
+  },
+  {
+    "id": "0907328024",
+    "code": "0907328024",
+    "name": "Maya-maya",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907328000",
+      "code": "0907328000",
+      "name": "Tambulig"
+    }
+  },
+  {
+    "id": "0907328027",
+    "code": "0907328027",
+    "name": "New Village",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907328000",
+      "code": "0907328000",
+      "name": "Tambulig"
+    }
+  },
+  {
+    "id": "0907328029",
+    "code": "0907328029",
+    "name": "Pelocoban",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907328000",
+      "code": "0907328000",
+      "name": "Tambulig"
+    }
+  },
+  {
+    "id": "0907328030",
+    "code": "0907328030",
+    "name": "Riverside",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907328000",
+      "code": "0907328000",
+      "name": "Tambulig"
+    }
+  },
+  {
+    "id": "0907328031",
+    "code": "0907328031",
+    "name": "Sagrada Familia",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907328000",
+      "code": "0907328000",
+      "name": "Tambulig"
+    }
+  },
+  {
+    "id": "0907328032",
+    "code": "0907328032",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907328000",
+      "code": "0907328000",
+      "name": "Tambulig"
+    }
+  },
+  {
+    "id": "0907328044",
+    "code": "0907328044",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907328000",
+      "code": "0907328000",
+      "name": "Tambulig"
+    }
+  },
+  {
+    "id": "0907328034",
+    "code": "0907328034",
+    "name": "Sumalig",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907328000",
+      "code": "0907328000",
+      "name": "Tambulig"
+    }
+  },
+  {
+    "id": "0907328036",
+    "code": "0907328036",
+    "name": "Tuluan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907328000",
+      "code": "0907328000",
+      "name": "Tambulig"
+    }
+  },
+  {
+    "id": "0907328037",
+    "code": "0907328037",
+    "name": "Tungawan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907328000",
+      "code": "0907328000",
+      "name": "Tambulig"
+    }
+  },
+  {
+    "id": "0907328039",
+    "code": "0907328039",
+    "name": "Upper Liason",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907328000",
+      "code": "0907328000",
+      "name": "Tambulig"
+    }
+  },
+  {
+    "id": "0907328040",
+    "code": "0907328040",
+    "name": "Upper Lodiong",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907328000",
+      "code": "0907328000",
+      "name": "Tambulig"
+    }
+  },
+  {
+    "id": "0907328041",
+    "code": "0907328041",
+    "name": "Upper Tiparak",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907328000",
+      "code": "0907328000",
+      "name": "Tambulig"
+    }
+  }
+]

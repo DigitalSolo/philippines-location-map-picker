@@ -1,0 +1,359 @@
+[
+  {
+    "id": "1804527001",
+    "code": "1804527001",
+    "name": "Barangay 1",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804527000",
+      "code": "1804527000",
+      "name": "City of Sipalay"
+    }
+  },
+  {
+    "id": "1804527002",
+    "code": "1804527002",
+    "name": "Barangay 2",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804527000",
+      "code": "1804527000",
+      "name": "City of Sipalay"
+    }
+  },
+  {
+    "id": "1804527003",
+    "code": "1804527003",
+    "name": "Barangay 3",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804527000",
+      "code": "1804527000",
+      "name": "City of Sipalay"
+    }
+  },
+  {
+    "id": "1804527004",
+    "code": "1804527004",
+    "name": "Barangay 4",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804527000",
+      "code": "1804527000",
+      "name": "City of Sipalay"
+    }
+  },
+  {
+    "id": "1804527005",
+    "code": "1804527005",
+    "name": "Barangay 5",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804527000",
+      "code": "1804527000",
+      "name": "City of Sipalay"
+    }
+  },
+  {
+    "id": "1804527006",
+    "code": "1804527006",
+    "name": "Cabadiangan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804527000",
+      "code": "1804527000",
+      "name": "City of Sipalay"
+    }
+  },
+  {
+    "id": "1804527007",
+    "code": "1804527007",
+    "name": "Camindangan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804527000",
+      "code": "1804527000",
+      "name": "City of Sipalay"
+    }
+  },
+  {
+    "id": "1804527008",
+    "code": "1804527008",
+    "name": "Canturay",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804527000",
+      "code": "1804527000",
+      "name": "City of Sipalay"
+    }
+  },
+  {
+    "id": "1804527009",
+    "code": "1804527009",
+    "name": "Cartagena",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804527000",
+      "code": "1804527000",
+      "name": "City of Sipalay"
+    }
+  },
+  {
+    "id": "1804527010",
+    "code": "1804527010",
+    "name": "Cayhagan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804527000",
+      "code": "1804527000",
+      "name": "City of Sipalay"
+    }
+  },
+  {
+    "id": "1804527011",
+    "code": "1804527011",
+    "name": "Gil Montilla",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804527000",
+      "code": "1804527000",
+      "name": "City of Sipalay"
+    }
+  },
+  {
+    "id": "1804527012",
+    "code": "1804527012",
+    "name": "Mambaroto",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804527000",
+      "code": "1804527000",
+      "name": "City of Sipalay"
+    }
+  },
+  {
+    "id": "1804527013",
+    "code": "1804527013",
+    "name": "Manlucahoc",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804527000",
+      "code": "1804527000",
+      "name": "City of Sipalay"
+    }
+  },
+  {
+    "id": "1804527014",
+    "code": "1804527014",
+    "name": "Maricalum",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804527000",
+      "code": "1804527000",
+      "name": "City of Sipalay"
+    }
+  },
+  {
+    "id": "1804527015",
+    "code": "1804527015",
+    "name": "Nabulao",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804527000",
+      "code": "1804527000",
+      "name": "City of Sipalay"
+    }
+  },
+  {
+    "id": "1804527016",
+    "code": "1804527016",
+    "name": "Nauhang",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804527000",
+      "code": "1804527000",
+      "name": "City of Sipalay"
+    }
+  },
+  {
+    "id": "1804527017",
+    "code": "1804527017",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804527000",
+      "code": "1804527000",
+      "name": "City of Sipalay"
+    }
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "id": "0205009002",
+    "code": "0205009002",
+    "name": "Alimit",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205009000",
+      "code": "0205009000",
+      "name": "Kasibu"
+    }
+  },
+  {
+    "id": "0205009029",
+    "code": "0205009029",
+    "name": "Alloy",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205009000",
+      "code": "0205009000",
+      "name": "Kasibu"
+    }
+  },
+  {
+    "id": "0205009001",
+    "code": "0205009001",
+    "name": "Antutot",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205009000",
+      "code": "0205009000",
+      "name": "Kasibu"
+    }
+  },
+  {
+    "id": "0205009004",
+    "code": "0205009004",
+    "name": "Belet",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205009000",
+      "code": "0205009000",
+      "name": "Kasibu"
+    }
+  },
+  {
+    "id": "0205009005",
+    "code": "0205009005",
+    "name": "Binogawan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205009000",
+      "code": "0205009000",
+      "name": "Kasibu"
+    }
+  },
+  {
+    "id": "0205009007",
+    "code": "0205009007",
+    "name": "Biyoy",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205009000",
+      "code": "0205009000",
+      "name": "Kasibu"
+    }
+  },
+  {
+    "id": "0205009006",
+    "code": "0205009006",
+    "name": "Bua",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205009000",
+      "code": "0205009000",
+      "name": "Kasibu"
+    }
+  },
+  {
+    "id": "0205009026",
+    "code": "0205009026",
+    "name": "Camamasi",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205009000",
+      "code": "0205009000",
+      "name": "Kasibu"
+    }
+  },
+  {
+    "id": "0205009008",
+    "code": "0205009008",
+    "name": "Capisaan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205009000",
+      "code": "0205009000",
+      "name": "Kasibu"
+    }
+  },
+  {
+    "id": "0205009027",
+    "code": "0205009027",
+    "name": "Catarawan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205009000",
+      "code": "0205009000",
+      "name": "Kasibu"
+    }
+  },
+  {
+    "id": "0205009009",
+    "code": "0205009009",
+    "name": "Cordon",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205009000",
+      "code": "0205009000",
+      "name": "Kasibu"
+    }
+  },
+  {
+    "id": "0205009010",
+    "code": "0205009010",
+    "name": "Didipio",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205009000",
+      "code": "0205009000",
+      "name": "Kasibu"
+    }
+  },
+  {
+    "id": "0205009011",
+    "code": "0205009011",
+    "name": "Dine",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205009000",
+      "code": "0205009000",
+      "name": "Kasibu"
+    }
+  },
+  {
+    "id": "0205009012",
+    "code": "0205009012",
+    "name": "Kakiduguen",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205009000",
+      "code": "0205009000",
+      "name": "Kasibu"
+    }
+  },
+  {
+    "id": "0205009030",
+    "code": "0205009030",
+    "name": "Kongkong",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205009000",
+      "code": "0205009000",
+      "name": "Kasibu"
+    }
+  },
+  {
+    "id": "0205009014",
+    "code": "0205009014",
+    "name": "Lupa",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205009000",
+      "code": "0205009000",
+      "name": "Kasibu"
+    }
+  },
+  {
+    "id": "0205009015",
+    "code": "0205009015",
+    "name": "Macalong",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205009000",
+      "code": "0205009000",
+      "name": "Kasibu"
+    }
+  },
+  {
+    "id": "0205009016",
+    "code": "0205009016",
+    "name": "Malabing",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205009000",
+      "code": "0205009000",
+      "name": "Kasibu"
+    }
+  },
+  {
+    "id": "0205009017",
+    "code": "0205009017",
+    "name": "Muta",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205009000",
+      "code": "0205009000",
+      "name": "Kasibu"
+    }
+  },
+  {
+    "id": "0205009028",
+    "code": "0205009028",
+    "name": "Nantawakan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205009000",
+      "code": "0205009000",
+      "name": "Kasibu"
+    }
+  },
+  {
+    "id": "0205009018",
+    "code": "0205009018",
+    "name": "Pao",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205009000",
+      "code": "0205009000",
+      "name": "Kasibu"
+    }
+  },
+  {
+    "id": "0205009019",
+    "code": "0205009019",
+    "name": "Papaya",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205009000",
+      "code": "0205009000",
+      "name": "Kasibu"
+    }
+  },
+  {
+    "id": "0205009031",
+    "code": "0205009031",
+    "name": "Paquet",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205009000",
+      "code": "0205009000",
+      "name": "Kasibu"
+    }
+  },
+  {
+    "id": "0205009003",
+    "code": "0205009003",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205009000",
+      "code": "0205009000",
+      "name": "Kasibu"
+    }
+  },
+  {
+    "id": "0205009020",
+    "code": "0205009020",
+    "name": "Pudi",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205009000",
+      "code": "0205009000",
+      "name": "Kasibu"
+    }
+  },
+  {
+    "id": "0205009022",
+    "code": "0205009022",
+    "name": "Siguem",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205009000",
+      "code": "0205009000",
+      "name": "Kasibu"
+    }
+  },
+  {
+    "id": "0205009023",
+    "code": "0205009023",
+    "name": "Tadji",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205009000",
+      "code": "0205009000",
+      "name": "Kasibu"
+    }
+  },
+  {
+    "id": "0205009021",
+    "code": "0205009021",
+    "name": "Tukod",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205009000",
+      "code": "0205009000",
+      "name": "Kasibu"
+    }
+  },
+  {
+    "id": "0205009024",
+    "code": "0205009024",
+    "name": "Wangal",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205009000",
+      "code": "0205009000",
+      "name": "Kasibu"
+    }
+  },
+  {
+    "id": "0205009025",
+    "code": "0205009025",
+    "name": "Watwat",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205009000",
+      "code": "0205009000",
+      "name": "Kasibu"
+    }
+  }
+]

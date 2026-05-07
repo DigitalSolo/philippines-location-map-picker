@@ -1,0 +1,642 @@
+[
+  {
+    "id": "0405601000",
+    "code": "0405601000",
+    "name": "Agdangan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0405602000",
+    "code": "0405602000",
+    "name": "Alabat",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0405603000",
+    "code": "0405603000",
+    "name": "Atimonan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0405605000",
+    "code": "0405605000",
+    "name": "Buenavista",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0405606000",
+    "code": "0405606000",
+    "name": "Burdeos",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0405607000",
+    "code": "0405607000",
+    "name": "Calauag",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0405608000",
+    "code": "0405608000",
+    "name": "Candelaria",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0405610000",
+    "code": "0405610000",
+    "name": "Catanauan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0405647000",
+    "code": "0405647000",
+    "name": "City of Tayabas",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0405615000",
+    "code": "0405615000",
+    "name": "Dolores",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0405616000",
+    "code": "0405616000",
+    "name": "General Luna",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0405617000",
+    "code": "0405617000",
+    "name": "General Nakar",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0405618000",
+    "code": "0405618000",
+    "name": "Guinayangan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0405619000",
+    "code": "0405619000",
+    "name": "Gumaca",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0405620000",
+    "code": "0405620000",
+    "name": "Infanta",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0405621000",
+    "code": "0405621000",
+    "name": "Jomalig",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0405622000",
+    "code": "0405622000",
+    "name": "Lopez",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0405623000",
+    "code": "0405623000",
+    "name": "Lucban",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0405625000",
+    "code": "0405625000",
+    "name": "Macalelon",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0405627000",
+    "code": "0405627000",
+    "name": "Mauban",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0405628000",
+    "code": "0405628000",
+    "name": "Mulanay",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0405629000",
+    "code": "0405629000",
+    "name": "Padre Burgos",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0405630000",
+    "code": "0405630000",
+    "name": "Pagbilao",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0405631000",
+    "code": "0405631000",
+    "name": "Panukulan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0405632000",
+    "code": "0405632000",
+    "name": "Patnanungan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0405633000",
+    "code": "0405633000",
+    "name": "Perez",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0405634000",
+    "code": "0405634000",
+    "name": "Pitogo",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0405635000",
+    "code": "0405635000",
+    "name": "Plaridel",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0405636000",
+    "code": "0405636000",
+    "name": "Polillo",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0405637000",
+    "code": "0405637000",
+    "name": "Quezon",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0405638000",
+    "code": "0405638000",
+    "name": "Real",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0405639000",
+    "code": "0405639000",
+    "name": "Sampaloc",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0405640000",
+    "code": "0405640000",
+    "name": "San Andres",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0405641000",
+    "code": "0405641000",
+    "name": "San Antonio",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0405642000",
+    "code": "0405642000",
+    "name": "San Francisco",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0405644000",
+    "code": "0405644000",
+    "name": "San Narciso",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0405645000",
+    "code": "0405645000",
+    "name": "Sariaya",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0405646000",
+    "code": "0405646000",
+    "name": "Tagkawayan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0405648000",
+    "code": "0405648000",
+    "name": "Tiaong",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0405649000",
+    "code": "0405649000",
+    "name": "Unisan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    }
+  }
+]

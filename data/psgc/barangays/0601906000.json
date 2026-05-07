@@ -1,0 +1,632 @@
+[
+  {
+    "id": "0601906001",
+    "code": "0601906001",
+    "name": "Agambulong",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601906000",
+      "code": "0601906000",
+      "name": "Jamindan"
+    }
+  },
+  {
+    "id": "0601906002",
+    "code": "0601906002",
+    "name": "Agbun-od",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601906000",
+      "code": "0601906000",
+      "name": "Jamindan"
+    }
+  },
+  {
+    "id": "0601906003",
+    "code": "0601906003",
+    "name": "Agcagay",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601906000",
+      "code": "0601906000",
+      "name": "Jamindan"
+    }
+  },
+  {
+    "id": "0601906004",
+    "code": "0601906004",
+    "name": "Aglibacao",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601906000",
+      "code": "0601906000",
+      "name": "Jamindan"
+    }
+  },
+  {
+    "id": "0601906005",
+    "code": "0601906005",
+    "name": "Agloloway",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601906000",
+      "code": "0601906000",
+      "name": "Jamindan"
+    }
+  },
+  {
+    "id": "0601906006",
+    "code": "0601906006",
+    "name": "Bayebaye",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601906000",
+      "code": "0601906000",
+      "name": "Jamindan"
+    }
+  },
+  {
+    "id": "0601906007",
+    "code": "0601906007",
+    "name": "Caridad",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601906000",
+      "code": "0601906000",
+      "name": "Jamindan"
+    }
+  },
+  {
+    "id": "0601906008",
+    "code": "0601906008",
+    "name": "Esperanza",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601906000",
+      "code": "0601906000",
+      "name": "Jamindan"
+    }
+  },
+  {
+    "id": "0601906009",
+    "code": "0601906009",
+    "name": "Fe",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601906000",
+      "code": "0601906000",
+      "name": "Jamindan"
+    }
+  },
+  {
+    "id": "0601906010",
+    "code": "0601906010",
+    "name": "Ganzon",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601906000",
+      "code": "0601906000",
+      "name": "Jamindan"
+    }
+  },
+  {
+    "id": "0601906011",
+    "code": "0601906011",
+    "name": "Guintas",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601906000",
+      "code": "0601906000",
+      "name": "Jamindan"
+    }
+  },
+  {
+    "id": "0601906012",
+    "code": "0601906012",
+    "name": "Igang",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601906000",
+      "code": "0601906000",
+      "name": "Jamindan"
+    }
+  },
+  {
+    "id": "0601906013",
+    "code": "0601906013",
+    "name": "Jaena Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601906000",
+      "code": "0601906000",
+      "name": "Jamindan"
+    }
+  },
+  {
+    "id": "0601906014",
+    "code": "0601906014",
+    "name": "Jaena Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601906000",
+      "code": "0601906000",
+      "name": "Jamindan"
+    }
+  },
+  {
+    "id": "0601906015",
+    "code": "0601906015",
+    "name": "Jagnaya",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601906000",
+      "code": "0601906000",
+      "name": "Jamindan"
+    }
+  },
+  {
+    "id": "0601906016",
+    "code": "0601906016",
+    "name": "Lapaz",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601906000",
+      "code": "0601906000",
+      "name": "Jamindan"
+    }
+  },
+  {
+    "id": "0601906017",
+    "code": "0601906017",
+    "name": "Linambasan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601906000",
+      "code": "0601906000",
+      "name": "Jamindan"
+    }
+  },
+  {
+    "id": "0601906018",
+    "code": "0601906018",
+    "name": "Lucero",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601906000",
+      "code": "0601906000",
+      "name": "Jamindan"
+    }
+  },
+  {
+    "id": "0601906019",
+    "code": "0601906019",
+    "name": "Maantol",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601906000",
+      "code": "0601906000",
+      "name": "Jamindan"
+    }
+  },
+  {
+    "id": "0601906020",
+    "code": "0601906020",
+    "name": "Masgrau",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601906000",
+      "code": "0601906000",
+      "name": "Jamindan"
+    }
+  },
+  {
+    "id": "0601906021",
+    "code": "0601906021",
+    "name": "Milan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601906000",
+      "code": "0601906000",
+      "name": "Jamindan"
+    }
+  },
+  {
+    "id": "0601906022",
+    "code": "0601906022",
+    "name": "Molet",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601906000",
+      "code": "0601906000",
+      "name": "Jamindan"
+    }
+  },
+  {
+    "id": "0601906023",
+    "code": "0601906023",
+    "name": "Pangabat",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601906000",
+      "code": "0601906000",
+      "name": "Jamindan"
+    }
+  },
+  {
+    "id": "0601906024",
+    "code": "0601906024",
+    "name": "Pangabuan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601906000",
+      "code": "0601906000",
+      "name": "Jamindan"
+    }
+  },
+  {
+    "id": "0601906025",
+    "code": "0601906025",
+    "name": "Pasol-o",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601906000",
+      "code": "0601906000",
+      "name": "Jamindan"
+    }
+  },
+  {
+    "id": "0601906026",
+    "code": "0601906026",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601906000",
+      "code": "0601906000",
+      "name": "Jamindan"
+    }
+  },
+  {
+    "id": "0601906027",
+    "code": "0601906027",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601906000",
+      "code": "0601906000",
+      "name": "Jamindan"
+    }
+  },
+  {
+    "id": "0601906028",
+    "code": "0601906028",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601906000",
+      "code": "0601906000",
+      "name": "Jamindan"
+    }
+  },
+  {
+    "id": "0601906029",
+    "code": "0601906029",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601906000",
+      "code": "0601906000",
+      "name": "Jamindan"
+    }
+  },
+  {
+    "id": "0601906030",
+    "code": "0601906030",
+    "name": "Santo Rosario",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601906000",
+      "code": "0601906000",
+      "name": "Jamindan"
+    }
+  }
+]

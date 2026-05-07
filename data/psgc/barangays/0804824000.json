@@ -1,0 +1,464 @@
+[
+  {
+    "id": "0804824001",
+    "code": "0804824001",
+    "name": "Bayho",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    },
+    "city_municipality": {
+      "id": "0804824000",
+      "code": "0804824000",
+      "name": "Lope De Vega"
+    }
+  },
+  {
+    "id": "0804824002",
+    "code": "0804824002",
+    "name": "Bonifacio",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    },
+    "city_municipality": {
+      "id": "0804824000",
+      "code": "0804824000",
+      "name": "Lope De Vega"
+    }
+  },
+  {
+    "id": "0804824004",
+    "code": "0804824004",
+    "name": "Cag-aguingay",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    },
+    "city_municipality": {
+      "id": "0804824000",
+      "code": "0804824000",
+      "name": "Lope De Vega"
+    }
+  },
+  {
+    "id": "0804824003",
+    "code": "0804824003",
+    "name": "Cagamesarag",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    },
+    "city_municipality": {
+      "id": "0804824000",
+      "code": "0804824000",
+      "name": "Lope De Vega"
+    }
+  },
+  {
+    "id": "0804824005",
+    "code": "0804824005",
+    "name": "Curry",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    },
+    "city_municipality": {
+      "id": "0804824000",
+      "code": "0804824000",
+      "name": "Lope De Vega"
+    }
+  },
+  {
+    "id": "0804824006",
+    "code": "0804824006",
+    "name": "Gebonawan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    },
+    "city_municipality": {
+      "id": "0804824000",
+      "code": "0804824000",
+      "name": "Lope De Vega"
+    }
+  },
+  {
+    "id": "0804824007",
+    "code": "0804824007",
+    "name": "Gen. Luna",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    },
+    "city_municipality": {
+      "id": "0804824000",
+      "code": "0804824000",
+      "name": "Lope De Vega"
+    }
+  },
+  {
+    "id": "0804824008",
+    "code": "0804824008",
+    "name": "Getigo",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    },
+    "city_municipality": {
+      "id": "0804824000",
+      "code": "0804824000",
+      "name": "Lope De Vega"
+    }
+  },
+  {
+    "id": "0804824009",
+    "code": "0804824009",
+    "name": "Henaronagan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    },
+    "city_municipality": {
+      "id": "0804824000",
+      "code": "0804824000",
+      "name": "Lope De Vega"
+    }
+  },
+  {
+    "id": "0804824010",
+    "code": "0804824010",
+    "name": "Lope De Vega",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    },
+    "city_municipality": {
+      "id": "0804824000",
+      "code": "0804824000",
+      "name": "Lope De Vega"
+    }
+  },
+  {
+    "id": "0804824011",
+    "code": "0804824011",
+    "name": "Lower Caynaga",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    },
+    "city_municipality": {
+      "id": "0804824000",
+      "code": "0804824000",
+      "name": "Lope De Vega"
+    }
+  },
+  {
+    "id": "0804824012",
+    "code": "0804824012",
+    "name": "Maghipid",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    },
+    "city_municipality": {
+      "id": "0804824000",
+      "code": "0804824000",
+      "name": "Lope De Vega"
+    }
+  },
+  {
+    "id": "0804824013",
+    "code": "0804824013",
+    "name": "Magsaysay",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    },
+    "city_municipality": {
+      "id": "0804824000",
+      "code": "0804824000",
+      "name": "Lope De Vega"
+    }
+  },
+  {
+    "id": "0804824014",
+    "code": "0804824014",
+    "name": "Osmeña",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    },
+    "city_municipality": {
+      "id": "0804824000",
+      "code": "0804824000",
+      "name": "Lope De Vega"
+    }
+  },
+  {
+    "id": "0804824015",
+    "code": "0804824015",
+    "name": "Paguite",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    },
+    "city_municipality": {
+      "id": "0804824000",
+      "code": "0804824000",
+      "name": "Lope De Vega"
+    }
+  },
+  {
+    "id": "0804824016",
+    "code": "0804824016",
+    "name": "Roxas",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    },
+    "city_municipality": {
+      "id": "0804824000",
+      "code": "0804824000",
+      "name": "Lope De Vega"
+    }
+  },
+  {
+    "id": "0804824017",
+    "code": "0804824017",
+    "name": "Sampaguita",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    },
+    "city_municipality": {
+      "id": "0804824000",
+      "code": "0804824000",
+      "name": "Lope De Vega"
+    }
+  },
+  {
+    "id": "0804824018",
+    "code": "0804824018",
+    "name": "San Francisco",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    },
+    "city_municipality": {
+      "id": "0804824000",
+      "code": "0804824000",
+      "name": "Lope De Vega"
+    }
+  },
+  {
+    "id": "0804824019",
+    "code": "0804824019",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    },
+    "city_municipality": {
+      "id": "0804824000",
+      "code": "0804824000",
+      "name": "Lope De Vega"
+    }
+  },
+  {
+    "id": "0804824020",
+    "code": "0804824020",
+    "name": "San Miguel",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    },
+    "city_municipality": {
+      "id": "0804824000",
+      "code": "0804824000",
+      "name": "Lope De Vega"
+    }
+  },
+  {
+    "id": "0804824021",
+    "code": "0804824021",
+    "name": "Somoroy",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    },
+    "city_municipality": {
+      "id": "0804824000",
+      "code": "0804824000",
+      "name": "Lope De Vega"
+    }
+  },
+  {
+    "id": "0804824022",
+    "code": "0804824022",
+    "name": "Upper Caynaga",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    },
+    "city_municipality": {
+      "id": "0804824000",
+      "code": "0804824000",
+      "name": "Lope De Vega"
+    }
+  }
+]

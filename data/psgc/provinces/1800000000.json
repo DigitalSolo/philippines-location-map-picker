@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1804500000",
+    "code": "1804500000",
+    "name": "Negros Occidental",
+    "type": "province",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    }
+  },
+  {
+    "id": "1804600000",
+    "code": "1804600000",
+    "name": "Negros Oriental",
+    "type": "province",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    }
+  },
+  {
+    "id": "1806100000",
+    "code": "1806100000",
+    "name": "Siquijor",
+    "type": "province",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    }
+  }
+]

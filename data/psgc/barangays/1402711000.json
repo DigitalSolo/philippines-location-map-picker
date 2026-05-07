@@ -1,0 +1,212 @@
+[
+  {
+    "id": "1402711001",
+    "code": "1402711001",
+    "name": "Amduntog",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1402700000",
+      "code": "1402700000",
+      "name": "Ifugao"
+    },
+    "city_municipality": {
+      "id": "1402711000",
+      "code": "1402711000",
+      "name": "Asipulo"
+    }
+  },
+  {
+    "id": "1402711002",
+    "code": "1402711002",
+    "name": "Antipolo",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1402700000",
+      "code": "1402700000",
+      "name": "Ifugao"
+    },
+    "city_municipality": {
+      "id": "1402711000",
+      "code": "1402711000",
+      "name": "Asipulo"
+    }
+  },
+  {
+    "id": "1402711003",
+    "code": "1402711003",
+    "name": "Camandag",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1402700000",
+      "code": "1402700000",
+      "name": "Ifugao"
+    },
+    "city_municipality": {
+      "id": "1402711000",
+      "code": "1402711000",
+      "name": "Asipulo"
+    }
+  },
+  {
+    "id": "1402711004",
+    "code": "1402711004",
+    "name": "Cawayan",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1402700000",
+      "code": "1402700000",
+      "name": "Ifugao"
+    },
+    "city_municipality": {
+      "id": "1402711000",
+      "code": "1402711000",
+      "name": "Asipulo"
+    }
+  },
+  {
+    "id": "1402711005",
+    "code": "1402711005",
+    "name": "Hallap",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1402700000",
+      "code": "1402700000",
+      "name": "Ifugao"
+    },
+    "city_municipality": {
+      "id": "1402711000",
+      "code": "1402711000",
+      "name": "Asipulo"
+    }
+  },
+  {
+    "id": "1402711010",
+    "code": "1402711010",
+    "name": "Liwon",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1402700000",
+      "code": "1402700000",
+      "name": "Ifugao"
+    },
+    "city_municipality": {
+      "id": "1402711000",
+      "code": "1402711000",
+      "name": "Asipulo"
+    }
+  },
+  {
+    "id": "1402711006",
+    "code": "1402711006",
+    "name": "Namal",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1402700000",
+      "code": "1402700000",
+      "name": "Ifugao"
+    },
+    "city_municipality": {
+      "id": "1402711000",
+      "code": "1402711000",
+      "name": "Asipulo"
+    }
+  },
+  {
+    "id": "1402711007",
+    "code": "1402711007",
+    "name": "Nungawa",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1402700000",
+      "code": "1402700000",
+      "name": "Ifugao"
+    },
+    "city_municipality": {
+      "id": "1402711000",
+      "code": "1402711000",
+      "name": "Asipulo"
+    }
+  },
+  {
+    "id": "1402711008",
+    "code": "1402711008",
+    "name": "Panubtuban",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1402700000",
+      "code": "1402700000",
+      "name": "Ifugao"
+    },
+    "city_municipality": {
+      "id": "1402711000",
+      "code": "1402711000",
+      "name": "Asipulo"
+    }
+  },
+  {
+    "id": "1402711009",
+    "code": "1402711009",
+    "name": "Pula",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1402700000",
+      "code": "1402700000",
+      "name": "Ifugao"
+    },
+    "city_municipality": {
+      "id": "1402711000",
+      "code": "1402711000",
+      "name": "Asipulo"
+    }
+  }
+]

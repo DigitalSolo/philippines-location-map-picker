@@ -1,0 +1,422 @@
+[
+  {
+    "id": "0701244001",
+    "code": "0701244001",
+    "name": "Banlasan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701244000",
+      "code": "0701244000",
+      "name": "Trinidad"
+    }
+  },
+  {
+    "id": "0701244002",
+    "code": "0701244002",
+    "name": "Bongbong",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701244000",
+      "code": "0701244000",
+      "name": "Trinidad"
+    }
+  },
+  {
+    "id": "0701244003",
+    "code": "0701244003",
+    "name": "Catoogan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701244000",
+      "code": "0701244000",
+      "name": "Trinidad"
+    }
+  },
+  {
+    "id": "0701244004",
+    "code": "0701244004",
+    "name": "Guinobatan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701244000",
+      "code": "0701244000",
+      "name": "Trinidad"
+    }
+  },
+  {
+    "id": "0701244005",
+    "code": "0701244005",
+    "name": "Hinlayagan Ilaud",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701244000",
+      "code": "0701244000",
+      "name": "Trinidad"
+    }
+  },
+  {
+    "id": "0701244006",
+    "code": "0701244006",
+    "name": "Hinlayagan Ilaya",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701244000",
+      "code": "0701244000",
+      "name": "Trinidad"
+    }
+  },
+  {
+    "id": "0701244007",
+    "code": "0701244007",
+    "name": "Kauswagan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701244000",
+      "code": "0701244000",
+      "name": "Trinidad"
+    }
+  },
+  {
+    "id": "0701244008",
+    "code": "0701244008",
+    "name": "Kinan-oan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701244000",
+      "code": "0701244000",
+      "name": "Trinidad"
+    }
+  },
+  {
+    "id": "0701244009",
+    "code": "0701244009",
+    "name": "La Union",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701244000",
+      "code": "0701244000",
+      "name": "Trinidad"
+    }
+  },
+  {
+    "id": "0701244010",
+    "code": "0701244010",
+    "name": "La Victoria",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701244000",
+      "code": "0701244000",
+      "name": "Trinidad"
+    }
+  },
+  {
+    "id": "0701244012",
+    "code": "0701244012",
+    "name": "Mabuhay Cabigohan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701244000",
+      "code": "0701244000",
+      "name": "Trinidad"
+    }
+  },
+  {
+    "id": "0701244013",
+    "code": "0701244013",
+    "name": "Mahagbu",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701244000",
+      "code": "0701244000",
+      "name": "Trinidad"
+    }
+  },
+  {
+    "id": "0701244014",
+    "code": "0701244014",
+    "name": "Manuel M. Roxas",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701244000",
+      "code": "0701244000",
+      "name": "Trinidad"
+    }
+  },
+  {
+    "id": "0701244015",
+    "code": "0701244015",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701244000",
+      "code": "0701244000",
+      "name": "Trinidad"
+    }
+  },
+  {
+    "id": "0701244016",
+    "code": "0701244016",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701244000",
+      "code": "0701244000",
+      "name": "Trinidad"
+    }
+  },
+  {
+    "id": "0701244017",
+    "code": "0701244017",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701244000",
+      "code": "0701244000",
+      "name": "Trinidad"
+    }
+  },
+  {
+    "id": "0701244018",
+    "code": "0701244018",
+    "name": "Santo Tomas",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701244000",
+      "code": "0701244000",
+      "name": "Trinidad"
+    }
+  },
+  {
+    "id": "0701244019",
+    "code": "0701244019",
+    "name": "Soom",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701244000",
+      "code": "0701244000",
+      "name": "Trinidad"
+    }
+  },
+  {
+    "id": "0701244020",
+    "code": "0701244020",
+    "name": "Tagum Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701244000",
+      "code": "0701244000",
+      "name": "Trinidad"
+    }
+  },
+  {
+    "id": "0701244021",
+    "code": "0701244021",
+    "name": "Tagum Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701244000",
+      "code": "0701244000",
+      "name": "Trinidad"
+    }
+  }
+]

@@ -1,0 +1,464 @@
+[
+  {
+    "id": "0504120001",
+    "code": "0504120001",
+    "name": "Boca Chica",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504120000",
+      "code": "0504120000",
+      "name": "San Pascual"
+    }
+  },
+  {
+    "id": "0504120002",
+    "code": "0504120002",
+    "name": "Bolod",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504120000",
+      "code": "0504120000",
+      "name": "San Pascual"
+    }
+  },
+  {
+    "id": "0504120003",
+    "code": "0504120003",
+    "name": "Busing",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504120000",
+      "code": "0504120000",
+      "name": "San Pascual"
+    }
+  },
+  {
+    "id": "0504120024",
+    "code": "0504120024",
+    "name": "Cueva",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504120000",
+      "code": "0504120000",
+      "name": "San Pascual"
+    }
+  },
+  {
+    "id": "0504120004",
+    "code": "0504120004",
+    "name": "Dangcalan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504120000",
+      "code": "0504120000",
+      "name": "San Pascual"
+    }
+  },
+  {
+    "id": "0504120005",
+    "code": "0504120005",
+    "name": "Halabangbaybay",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504120000",
+      "code": "0504120000",
+      "name": "San Pascual"
+    }
+  },
+  {
+    "id": "0504120006",
+    "code": "0504120006",
+    "name": "Iniwaran",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504120000",
+      "code": "0504120000",
+      "name": "San Pascual"
+    }
+  },
+  {
+    "id": "0504120007",
+    "code": "0504120007",
+    "name": "Ki-Buaya",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504120000",
+      "code": "0504120000",
+      "name": "San Pascual"
+    }
+  },
+  {
+    "id": "0504120008",
+    "code": "0504120008",
+    "name": "Ki-Romero",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504120000",
+      "code": "0504120000",
+      "name": "San Pascual"
+    }
+  },
+  {
+    "id": "0504120009",
+    "code": "0504120009",
+    "name": "Laurente",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504120000",
+      "code": "0504120000",
+      "name": "San Pascual"
+    }
+  },
+  {
+    "id": "0504120010",
+    "code": "0504120010",
+    "name": "Mabini",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504120000",
+      "code": "0504120000",
+      "name": "San Pascual"
+    }
+  },
+  {
+    "id": "0504120011",
+    "code": "0504120011",
+    "name": "Mabuhay",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504120000",
+      "code": "0504120000",
+      "name": "San Pascual"
+    }
+  },
+  {
+    "id": "0504120025",
+    "code": "0504120025",
+    "name": "Malaking Ilog",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504120000",
+      "code": "0504120000",
+      "name": "San Pascual"
+    }
+  },
+  {
+    "id": "0504120013",
+    "code": "0504120013",
+    "name": "Mapanique",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504120000",
+      "code": "0504120000",
+      "name": "San Pascual"
+    }
+  },
+  {
+    "id": "0504120014",
+    "code": "0504120014",
+    "name": "Nazareno",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504120000",
+      "code": "0504120000",
+      "name": "San Pascual"
+    }
+  },
+  {
+    "id": "0504120015",
+    "code": "0504120015",
+    "name": "Pinamasingan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504120000",
+      "code": "0504120000",
+      "name": "San Pascual"
+    }
+  },
+  {
+    "id": "0504120016",
+    "code": "0504120016",
+    "name": "Quintina",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504120000",
+      "code": "0504120000",
+      "name": "San Pascual"
+    }
+  },
+  {
+    "id": "0504120019",
+    "code": "0504120019",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504120000",
+      "code": "0504120000",
+      "name": "San Pascual"
+    }
+  },
+  {
+    "id": "0504120020",
+    "code": "0504120020",
+    "name": "San Pedro",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504120000",
+      "code": "0504120000",
+      "name": "San Pascual"
+    }
+  },
+  {
+    "id": "0504120021",
+    "code": "0504120021",
+    "name": "San Rafael",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504120000",
+      "code": "0504120000",
+      "name": "San Pascual"
+    }
+  },
+  {
+    "id": "0504120022",
+    "code": "0504120022",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504120000",
+      "code": "0504120000",
+      "name": "San Pascual"
+    }
+  },
+  {
+    "id": "0504120023",
+    "code": "0504120023",
+    "name": "Terraplin",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504120000",
+      "code": "0504120000",
+      "name": "San Pascual"
+    }
+  }
+]

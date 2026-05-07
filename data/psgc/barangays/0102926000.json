@@ -1,0 +1,695 @@
+[
+  {
+    "id": "0102926001",
+    "code": "0102926001",
+    "name": "Ag-agrao",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102926000",
+      "code": "0102926000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0102926002",
+    "code": "0102926002",
+    "name": "Ampuagan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102926000",
+      "code": "0102926000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0102926003",
+    "code": "0102926003",
+    "name": "Baballasioan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102926000",
+      "code": "0102926000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0102926004",
+    "code": "0102926004",
+    "name": "Baliw Daya",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102926000",
+      "code": "0102926000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0102926005",
+    "code": "0102926005",
+    "name": "Baliw Laud",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102926000",
+      "code": "0102926000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0102926006",
+    "code": "0102926006",
+    "name": "Bia-o",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102926000",
+      "code": "0102926000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0102926007",
+    "code": "0102926007",
+    "name": "Butir",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102926000",
+      "code": "0102926000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0102926008",
+    "code": "0102926008",
+    "name": "Cabaroan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102926000",
+      "code": "0102926000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0102926009",
+    "code": "0102926009",
+    "name": "Danuman East",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102926000",
+      "code": "0102926000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0102926010",
+    "code": "0102926010",
+    "name": "Danuman West",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102926000",
+      "code": "0102926000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0102926011",
+    "code": "0102926011",
+    "name": "Dunglayan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102926000",
+      "code": "0102926000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0102926012",
+    "code": "0102926012",
+    "name": "Gusing",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102926000",
+      "code": "0102926000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0102926013",
+    "code": "0102926013",
+    "name": "Langaoan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102926000",
+      "code": "0102926000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0102926014",
+    "code": "0102926014",
+    "name": "Laslasong Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102926000",
+      "code": "0102926000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0102926015",
+    "code": "0102926015",
+    "name": "Laslasong Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102926000",
+      "code": "0102926000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0102926016",
+    "code": "0102926016",
+    "name": "Laslasong West",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102926000",
+      "code": "0102926000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0102926017",
+    "code": "0102926017",
+    "name": "Lesseb",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102926000",
+      "code": "0102926000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0102926018",
+    "code": "0102926018",
+    "name": "Lingsat",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102926000",
+      "code": "0102926000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0102926019",
+    "code": "0102926019",
+    "name": "Lubong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102926000",
+      "code": "0102926000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0102926020",
+    "code": "0102926020",
+    "name": "Maynganay Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102926000",
+      "code": "0102926000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0102926021",
+    "code": "0102926021",
+    "name": "Maynganay Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102926000",
+      "code": "0102926000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0102926022",
+    "code": "0102926022",
+    "name": "Nagsayaoan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102926000",
+      "code": "0102926000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0102926023",
+    "code": "0102926023",
+    "name": "Nagtupacan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102926000",
+      "code": "0102926000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0102926024",
+    "code": "0102926024",
+    "name": "Nalvo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102926000",
+      "code": "0102926000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0102926027",
+    "code": "0102926027",
+    "name": "Pacang",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102926000",
+      "code": "0102926000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0102926028",
+    "code": "0102926028",
+    "name": "Penned",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102926000",
+      "code": "0102926000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0102926029",
+    "code": "0102926029",
+    "name": "Poblacion Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102926000",
+      "code": "0102926000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0102926030",
+    "code": "0102926030",
+    "name": "Poblacion Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102926000",
+      "code": "0102926000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0102926031",
+    "code": "0102926031",
+    "name": "Silag",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102926000",
+      "code": "0102926000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0102926032",
+    "code": "0102926032",
+    "name": "Sumagui",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102926000",
+      "code": "0102926000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0102926033",
+    "code": "0102926033",
+    "name": "Suso",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102926000",
+      "code": "0102926000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0102926034",
+    "code": "0102926034",
+    "name": "Tangaoan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102926000",
+      "code": "0102926000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0102926035",
+    "code": "0102926035",
+    "name": "Tinaan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102926000",
+      "code": "0102926000",
+      "name": "Santa Maria"
+    }
+  }
+]

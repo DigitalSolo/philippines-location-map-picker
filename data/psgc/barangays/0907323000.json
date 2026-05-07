@@ -1,0 +1,569 @@
+[
+  {
+    "id": "0907323001",
+    "code": "0907323001",
+    "name": "Bagong Opon",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907323000",
+      "code": "0907323000",
+      "name": "Ramon Magsaysay"
+    }
+  },
+  {
+    "id": "0907323002",
+    "code": "0907323002",
+    "name": "Bambong Daku",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907323000",
+      "code": "0907323000",
+      "name": "Ramon Magsaysay"
+    }
+  },
+  {
+    "id": "0907323003",
+    "code": "0907323003",
+    "name": "Bambong Diut",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907323000",
+      "code": "0907323000",
+      "name": "Ramon Magsaysay"
+    }
+  },
+  {
+    "id": "0907323004",
+    "code": "0907323004",
+    "name": "Bobongan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907323000",
+      "code": "0907323000",
+      "name": "Ramon Magsaysay"
+    }
+  },
+  {
+    "id": "0907323005",
+    "code": "0907323005",
+    "name": "Campo IV",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907323000",
+      "code": "0907323000",
+      "name": "Ramon Magsaysay"
+    }
+  },
+  {
+    "id": "0907323006",
+    "code": "0907323006",
+    "name": "Campo V",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907323000",
+      "code": "0907323000",
+      "name": "Ramon Magsaysay"
+    }
+  },
+  {
+    "id": "0907323007",
+    "code": "0907323007",
+    "name": "Caniangan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907323000",
+      "code": "0907323000",
+      "name": "Ramon Magsaysay"
+    }
+  },
+  {
+    "id": "0907323008",
+    "code": "0907323008",
+    "name": "Dipalusan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907323000",
+      "code": "0907323000",
+      "name": "Ramon Magsaysay"
+    }
+  },
+  {
+    "id": "0907323009",
+    "code": "0907323009",
+    "name": "Eastern Bobongan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907323000",
+      "code": "0907323000",
+      "name": "Ramon Magsaysay"
+    }
+  },
+  {
+    "id": "0907323010",
+    "code": "0907323010",
+    "name": "Esperanza",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907323000",
+      "code": "0907323000",
+      "name": "Ramon Magsaysay"
+    }
+  },
+  {
+    "id": "0907323011",
+    "code": "0907323011",
+    "name": "Gapasan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907323000",
+      "code": "0907323000",
+      "name": "Ramon Magsaysay"
+    }
+  },
+  {
+    "id": "0907323012",
+    "code": "0907323012",
+    "name": "Katipunan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907323000",
+      "code": "0907323000",
+      "name": "Ramon Magsaysay"
+    }
+  },
+  {
+    "id": "0907323013",
+    "code": "0907323013",
+    "name": "Kauswagan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907323000",
+      "code": "0907323000",
+      "name": "Ramon Magsaysay"
+    }
+  },
+  {
+    "id": "0907323014",
+    "code": "0907323014",
+    "name": "Lower Sambulawan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907323000",
+      "code": "0907323000",
+      "name": "Ramon Magsaysay"
+    }
+  },
+  {
+    "id": "0907323015",
+    "code": "0907323015",
+    "name": "Mabini",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907323000",
+      "code": "0907323000",
+      "name": "Ramon Magsaysay"
+    }
+  },
+  {
+    "id": "0907323016",
+    "code": "0907323016",
+    "name": "Magsaysay",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907323000",
+      "code": "0907323000",
+      "name": "Ramon Magsaysay"
+    }
+  },
+  {
+    "id": "0907323017",
+    "code": "0907323017",
+    "name": "Malating",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907323000",
+      "code": "0907323000",
+      "name": "Ramon Magsaysay"
+    }
+  },
+  {
+    "id": "0907323018",
+    "code": "0907323018",
+    "name": "Paradise",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907323000",
+      "code": "0907323000",
+      "name": "Ramon Magsaysay"
+    }
+  },
+  {
+    "id": "0907323019",
+    "code": "0907323019",
+    "name": "Pasingkalan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907323000",
+      "code": "0907323000",
+      "name": "Ramon Magsaysay"
+    }
+  },
+  {
+    "id": "0907323020",
+    "code": "0907323020",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907323000",
+      "code": "0907323000",
+      "name": "Ramon Magsaysay"
+    }
+  },
+  {
+    "id": "0907323023",
+    "code": "0907323023",
+    "name": "San Fernando",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907323000",
+      "code": "0907323000",
+      "name": "Ramon Magsaysay"
+    }
+  },
+  {
+    "id": "0907323026",
+    "code": "0907323026",
+    "name": "Santo Rosario",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907323000",
+      "code": "0907323000",
+      "name": "Ramon Magsaysay"
+    }
+  },
+  {
+    "id": "0907323027",
+    "code": "0907323027",
+    "name": "Sapa Anding",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907323000",
+      "code": "0907323000",
+      "name": "Ramon Magsaysay"
+    }
+  },
+  {
+    "id": "0907323028",
+    "code": "0907323028",
+    "name": "Sinaguing",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907323000",
+      "code": "0907323000",
+      "name": "Ramon Magsaysay"
+    }
+  },
+  {
+    "id": "0907323029",
+    "code": "0907323029",
+    "name": "Switch",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907323000",
+      "code": "0907323000",
+      "name": "Ramon Magsaysay"
+    }
+  },
+  {
+    "id": "0907323030",
+    "code": "0907323030",
+    "name": "Upper Laperian",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907323000",
+      "code": "0907323000",
+      "name": "Ramon Magsaysay"
+    }
+  },
+  {
+    "id": "0907323031",
+    "code": "0907323031",
+    "name": "Wakat",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907323000",
+      "code": "0907323000",
+      "name": "Ramon Magsaysay"
+    }
+  }
+]

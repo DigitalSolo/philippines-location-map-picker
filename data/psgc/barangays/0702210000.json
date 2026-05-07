@@ -1,0 +1,884 @@
+[
+  {
+    "id": "0702210001",
+    "code": "0702210001",
+    "name": "Azucena",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702210000",
+      "code": "0702210000",
+      "name": "Barili"
+    }
+  },
+  {
+    "id": "0702210002",
+    "code": "0702210002",
+    "name": "Bagakay",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702210000",
+      "code": "0702210000",
+      "name": "Barili"
+    }
+  },
+  {
+    "id": "0702210003",
+    "code": "0702210003",
+    "name": "Balao",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702210000",
+      "code": "0702210000",
+      "name": "Barili"
+    }
+  },
+  {
+    "id": "0702210004",
+    "code": "0702210004",
+    "name": "Bolocboloc",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702210000",
+      "code": "0702210000",
+      "name": "Barili"
+    }
+  },
+  {
+    "id": "0702210005",
+    "code": "0702210005",
+    "name": "Budbud",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702210000",
+      "code": "0702210000",
+      "name": "Barili"
+    }
+  },
+  {
+    "id": "0702210006",
+    "code": "0702210006",
+    "name": "Bugtong Kawayan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702210000",
+      "code": "0702210000",
+      "name": "Barili"
+    }
+  },
+  {
+    "id": "0702210007",
+    "code": "0702210007",
+    "name": "Cabcaban",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702210000",
+      "code": "0702210000",
+      "name": "Barili"
+    }
+  },
+  {
+    "id": "0702210016",
+    "code": "0702210016",
+    "name": "Cagay",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702210000",
+      "code": "0702210000",
+      "name": "Barili"
+    }
+  },
+  {
+    "id": "0702210008",
+    "code": "0702210008",
+    "name": "Campangga",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702210000",
+      "code": "0702210000",
+      "name": "Barili"
+    }
+  },
+  {
+    "id": "0702210020",
+    "code": "0702210020",
+    "name": "Candugay",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702210000",
+      "code": "0702210000",
+      "name": "Barili"
+    }
+  },
+  {
+    "id": "0702210009",
+    "code": "0702210009",
+    "name": "Dakit",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702210000",
+      "code": "0702210000",
+      "name": "Barili"
+    }
+  },
+  {
+    "id": "0702210010",
+    "code": "0702210010",
+    "name": "Giloctog",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702210000",
+      "code": "0702210000",
+      "name": "Barili"
+    }
+  },
+  {
+    "id": "0702210012",
+    "code": "0702210012",
+    "name": "Giwanon",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702210000",
+      "code": "0702210000",
+      "name": "Barili"
+    }
+  },
+  {
+    "id": "0702210011",
+    "code": "0702210011",
+    "name": "Guibuangan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702210000",
+      "code": "0702210000",
+      "name": "Barili"
+    }
+  },
+  {
+    "id": "0702210013",
+    "code": "0702210013",
+    "name": "Gunting",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702210000",
+      "code": "0702210000",
+      "name": "Barili"
+    }
+  },
+  {
+    "id": "0702210014",
+    "code": "0702210014",
+    "name": "Hilasgasan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702210000",
+      "code": "0702210000",
+      "name": "Barili"
+    }
+  },
+  {
+    "id": "0702210015",
+    "code": "0702210015",
+    "name": "Japitan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702210000",
+      "code": "0702210000",
+      "name": "Barili"
+    }
+  },
+  {
+    "id": "0702210017",
+    "code": "0702210017",
+    "name": "Kalubihan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702210000",
+      "code": "0702210000",
+      "name": "Barili"
+    }
+  },
+  {
+    "id": "0702210018",
+    "code": "0702210018",
+    "name": "Kangdampas",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702210000",
+      "code": "0702210000",
+      "name": "Barili"
+    }
+  },
+  {
+    "id": "0702210021",
+    "code": "0702210021",
+    "name": "Luhod",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702210000",
+      "code": "0702210000",
+      "name": "Barili"
+    }
+  },
+  {
+    "id": "0702210022",
+    "code": "0702210022",
+    "name": "Lupo",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702210000",
+      "code": "0702210000",
+      "name": "Barili"
+    }
+  },
+  {
+    "id": "0702210023",
+    "code": "0702210023",
+    "name": "Luyo",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702210000",
+      "code": "0702210000",
+      "name": "Barili"
+    }
+  },
+  {
+    "id": "0702210024",
+    "code": "0702210024",
+    "name": "Maghanoy",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702210000",
+      "code": "0702210000",
+      "name": "Barili"
+    }
+  },
+  {
+    "id": "0702210025",
+    "code": "0702210025",
+    "name": "Maigang",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702210000",
+      "code": "0702210000",
+      "name": "Barili"
+    }
+  },
+  {
+    "id": "0702210026",
+    "code": "0702210026",
+    "name": "Malolos",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702210000",
+      "code": "0702210000",
+      "name": "Barili"
+    }
+  },
+  {
+    "id": "0702210027",
+    "code": "0702210027",
+    "name": "Mantalongon",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702210000",
+      "code": "0702210000",
+      "name": "Barili"
+    }
+  },
+  {
+    "id": "0702210028",
+    "code": "0702210028",
+    "name": "Mantayupan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702210000",
+      "code": "0702210000",
+      "name": "Barili"
+    }
+  },
+  {
+    "id": "0702210029",
+    "code": "0702210029",
+    "name": "Mayana",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702210000",
+      "code": "0702210000",
+      "name": "Barili"
+    }
+  },
+  {
+    "id": "0702210030",
+    "code": "0702210030",
+    "name": "Minolos",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702210000",
+      "code": "0702210000",
+      "name": "Barili"
+    }
+  },
+  {
+    "id": "0702210031",
+    "code": "0702210031",
+    "name": "Nabunturan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702210000",
+      "code": "0702210000",
+      "name": "Barili"
+    }
+  },
+  {
+    "id": "0702210032",
+    "code": "0702210032",
+    "name": "Nasipit",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702210000",
+      "code": "0702210000",
+      "name": "Barili"
+    }
+  },
+  {
+    "id": "0702210034",
+    "code": "0702210034",
+    "name": "Pancil",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702210000",
+      "code": "0702210000",
+      "name": "Barili"
+    }
+  },
+  {
+    "id": "0702210035",
+    "code": "0702210035",
+    "name": "Pangpang",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702210000",
+      "code": "0702210000",
+      "name": "Barili"
+    }
+  },
+  {
+    "id": "0702210036",
+    "code": "0702210036",
+    "name": "Paril",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702210000",
+      "code": "0702210000",
+      "name": "Barili"
+    }
+  },
+  {
+    "id": "0702210037",
+    "code": "0702210037",
+    "name": "Patupat",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702210000",
+      "code": "0702210000",
+      "name": "Barili"
+    }
+  },
+  {
+    "id": "0702210038",
+    "code": "0702210038",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702210000",
+      "code": "0702210000",
+      "name": "Barili"
+    }
+  },
+  {
+    "id": "0702210039",
+    "code": "0702210039",
+    "name": "San Rafael",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702210000",
+      "code": "0702210000",
+      "name": "Barili"
+    }
+  },
+  {
+    "id": "0702210040",
+    "code": "0702210040",
+    "name": "Santa Ana",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702210000",
+      "code": "0702210000",
+      "name": "Barili"
+    }
+  },
+  {
+    "id": "0702210041",
+    "code": "0702210041",
+    "name": "Sayaw",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702210000",
+      "code": "0702210000",
+      "name": "Barili"
+    }
+  },
+  {
+    "id": "0702210042",
+    "code": "0702210042",
+    "name": "Tal-ot",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702210000",
+      "code": "0702210000",
+      "name": "Barili"
+    }
+  },
+  {
+    "id": "0702210043",
+    "code": "0702210043",
+    "name": "Tubod",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702210000",
+      "code": "0702210000",
+      "name": "Barili"
+    }
+  },
+  {
+    "id": "0702210044",
+    "code": "0702210044",
+    "name": "Vito",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702210000",
+      "code": "0702210000",
+      "name": "Barili"
+    }
+  }
+]

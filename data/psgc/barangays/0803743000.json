@@ -1,0 +1,443 @@
+[
+  {
+    "id": "0803743001",
+    "code": "0803743001",
+    "name": "Bagacay",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803743000",
+      "code": "0803743000",
+      "name": "San Miguel"
+    }
+  },
+  {
+    "id": "0803743002",
+    "code": "0803743002",
+    "name": "Bahay",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803743000",
+      "code": "0803743000",
+      "name": "San Miguel"
+    }
+  },
+  {
+    "id": "0803743003",
+    "code": "0803743003",
+    "name": "Bairan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803743000",
+      "code": "0803743000",
+      "name": "San Miguel"
+    }
+  },
+  {
+    "id": "0803743004",
+    "code": "0803743004",
+    "name": "Cabatianuhan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803743000",
+      "code": "0803743000",
+      "name": "San Miguel"
+    }
+  },
+  {
+    "id": "0803743005",
+    "code": "0803743005",
+    "name": "Canap",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803743000",
+      "code": "0803743000",
+      "name": "San Miguel"
+    }
+  },
+  {
+    "id": "0803743006",
+    "code": "0803743006",
+    "name": "Capilihan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803743000",
+      "code": "0803743000",
+      "name": "San Miguel"
+    }
+  },
+  {
+    "id": "0803743007",
+    "code": "0803743007",
+    "name": "Caraycaray",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803743000",
+      "code": "0803743000",
+      "name": "San Miguel"
+    }
+  },
+  {
+    "id": "0803743023",
+    "code": "0803743023",
+    "name": "Cayare",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803743000",
+      "code": "0803743000",
+      "name": "San Miguel"
+    }
+  },
+  {
+    "id": "0803743010",
+    "code": "0803743010",
+    "name": "Guinciaman",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803743000",
+      "code": "0803743000",
+      "name": "San Miguel"
+    }
+  },
+  {
+    "id": "0803743011",
+    "code": "0803743011",
+    "name": "Impo",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803743000",
+      "code": "0803743000",
+      "name": "San Miguel"
+    }
+  },
+  {
+    "id": "0803743012",
+    "code": "0803743012",
+    "name": "Kinalumsan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803743000",
+      "code": "0803743000",
+      "name": "San Miguel"
+    }
+  },
+  {
+    "id": "0803743009",
+    "code": "0803743009",
+    "name": "Libtong",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803743000",
+      "code": "0803743000",
+      "name": "San Miguel"
+    }
+  },
+  {
+    "id": "0803743014",
+    "code": "0803743014",
+    "name": "Lukay",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803743000",
+      "code": "0803743000",
+      "name": "San Miguel"
+    }
+  },
+  {
+    "id": "0803743015",
+    "code": "0803743015",
+    "name": "Malaguinabot",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803743000",
+      "code": "0803743000",
+      "name": "San Miguel"
+    }
+  },
+  {
+    "id": "0803743016",
+    "code": "0803743016",
+    "name": "Malpag",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803743000",
+      "code": "0803743000",
+      "name": "San Miguel"
+    }
+  },
+  {
+    "id": "0803743017",
+    "code": "0803743017",
+    "name": "Mawodpawod",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803743000",
+      "code": "0803743000",
+      "name": "San Miguel"
+    }
+  },
+  {
+    "id": "0803743018",
+    "code": "0803743018",
+    "name": "Patong",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803743000",
+      "code": "0803743000",
+      "name": "San Miguel"
+    }
+  },
+  {
+    "id": "0803743019",
+    "code": "0803743019",
+    "name": "Pinarigusan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803743000",
+      "code": "0803743000",
+      "name": "San Miguel"
+    }
+  },
+  {
+    "id": "0803743020",
+    "code": "0803743020",
+    "name": "San Andres",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803743000",
+      "code": "0803743000",
+      "name": "San Miguel"
+    }
+  },
+  {
+    "id": "0803743021",
+    "code": "0803743021",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803743000",
+      "code": "0803743000",
+      "name": "San Miguel"
+    }
+  },
+  {
+    "id": "0803743022",
+    "code": "0803743022",
+    "name": "Santol",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803743000",
+      "code": "0803743000",
+      "name": "San Miguel"
+    }
+  }
+]

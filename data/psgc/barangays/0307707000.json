@@ -1,0 +1,842 @@
+[
+  {
+    "id": "0307707001",
+    "code": "0307707001",
+    "name": "Alcala",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307707000",
+      "code": "0307707000",
+      "name": "Maria Aurora"
+    }
+  },
+  {
+    "id": "0307707002",
+    "code": "0307707002",
+    "name": "Bagtu",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307707000",
+      "code": "0307707000",
+      "name": "Maria Aurora"
+    }
+  },
+  {
+    "id": "0307707003",
+    "code": "0307707003",
+    "name": "Bangco",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307707000",
+      "code": "0307707000",
+      "name": "Maria Aurora"
+    }
+  },
+  {
+    "id": "0307707004",
+    "code": "0307707004",
+    "name": "Bannawag",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307707000",
+      "code": "0307707000",
+      "name": "Maria Aurora"
+    }
+  },
+  {
+    "id": "0307707005",
+    "code": "0307707005",
+    "name": "Barangay I",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307707000",
+      "code": "0307707000",
+      "name": "Maria Aurora"
+    }
+  },
+  {
+    "id": "0307707006",
+    "code": "0307707006",
+    "name": "Barangay II",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307707000",
+      "code": "0307707000",
+      "name": "Maria Aurora"
+    }
+  },
+  {
+    "id": "0307707007",
+    "code": "0307707007",
+    "name": "Barangay III",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307707000",
+      "code": "0307707000",
+      "name": "Maria Aurora"
+    }
+  },
+  {
+    "id": "0307707008",
+    "code": "0307707008",
+    "name": "Barangay IV",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307707000",
+      "code": "0307707000",
+      "name": "Maria Aurora"
+    }
+  },
+  {
+    "id": "0307707009",
+    "code": "0307707009",
+    "name": "Baubo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307707000",
+      "code": "0307707000",
+      "name": "Maria Aurora"
+    }
+  },
+  {
+    "id": "0307707010",
+    "code": "0307707010",
+    "name": "Bayanihan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307707000",
+      "code": "0307707000",
+      "name": "Maria Aurora"
+    }
+  },
+  {
+    "id": "0307707011",
+    "code": "0307707011",
+    "name": "Bazal",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307707000",
+      "code": "0307707000",
+      "name": "Maria Aurora"
+    }
+  },
+  {
+    "id": "0307707012",
+    "code": "0307707012",
+    "name": "Cabituculan East",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307707000",
+      "code": "0307707000",
+      "name": "Maria Aurora"
+    }
+  },
+  {
+    "id": "0307707013",
+    "code": "0307707013",
+    "name": "Cabituculan West",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307707000",
+      "code": "0307707000",
+      "name": "Maria Aurora"
+    }
+  },
+  {
+    "id": "0307707027",
+    "code": "0307707027",
+    "name": "Cadayacan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307707000",
+      "code": "0307707000",
+      "name": "Maria Aurora"
+    }
+  },
+  {
+    "id": "0307707014",
+    "code": "0307707014",
+    "name": "Debucao",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307707000",
+      "code": "0307707000",
+      "name": "Maria Aurora"
+    }
+  },
+  {
+    "id": "0307707015",
+    "code": "0307707015",
+    "name": "Decoliat",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307707000",
+      "code": "0307707000",
+      "name": "Maria Aurora"
+    }
+  },
+  {
+    "id": "0307707016",
+    "code": "0307707016",
+    "name": "Detailen",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307707000",
+      "code": "0307707000",
+      "name": "Maria Aurora"
+    }
+  },
+  {
+    "id": "0307707017",
+    "code": "0307707017",
+    "name": "Diaat",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307707000",
+      "code": "0307707000",
+      "name": "Maria Aurora"
+    }
+  },
+  {
+    "id": "0307707018",
+    "code": "0307707018",
+    "name": "Dialatman",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307707000",
+      "code": "0307707000",
+      "name": "Maria Aurora"
+    }
+  },
+  {
+    "id": "0307707019",
+    "code": "0307707019",
+    "name": "Diaman",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307707000",
+      "code": "0307707000",
+      "name": "Maria Aurora"
+    }
+  },
+  {
+    "id": "0307707020",
+    "code": "0307707020",
+    "name": "Dianawan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307707000",
+      "code": "0307707000",
+      "name": "Maria Aurora"
+    }
+  },
+  {
+    "id": "0307707021",
+    "code": "0307707021",
+    "name": "Dikildit",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307707000",
+      "code": "0307707000",
+      "name": "Maria Aurora"
+    }
+  },
+  {
+    "id": "0307707022",
+    "code": "0307707022",
+    "name": "Dimanpudso",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307707000",
+      "code": "0307707000",
+      "name": "Maria Aurora"
+    }
+  },
+  {
+    "id": "0307707023",
+    "code": "0307707023",
+    "name": "Diome",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307707000",
+      "code": "0307707000",
+      "name": "Maria Aurora"
+    }
+  },
+  {
+    "id": "0307707024",
+    "code": "0307707024",
+    "name": "Estonilo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307707000",
+      "code": "0307707000",
+      "name": "Maria Aurora"
+    }
+  },
+  {
+    "id": "0307707025",
+    "code": "0307707025",
+    "name": "Florida",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307707000",
+      "code": "0307707000",
+      "name": "Maria Aurora"
+    }
+  },
+  {
+    "id": "0307707026",
+    "code": "0307707026",
+    "name": "Galintuja",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307707000",
+      "code": "0307707000",
+      "name": "Maria Aurora"
+    }
+  },
+  {
+    "id": "0307707028",
+    "code": "0307707028",
+    "name": "Malasin",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307707000",
+      "code": "0307707000",
+      "name": "Maria Aurora"
+    }
+  },
+  {
+    "id": "0307707029",
+    "code": "0307707029",
+    "name": "Ponglo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307707000",
+      "code": "0307707000",
+      "name": "Maria Aurora"
+    }
+  },
+  {
+    "id": "0307707030",
+    "code": "0307707030",
+    "name": "Quirino",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307707000",
+      "code": "0307707000",
+      "name": "Maria Aurora"
+    }
+  },
+  {
+    "id": "0307707031",
+    "code": "0307707031",
+    "name": "Ramada",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307707000",
+      "code": "0307707000",
+      "name": "Maria Aurora"
+    }
+  },
+  {
+    "id": "0307707032",
+    "code": "0307707032",
+    "name": "San Joaquin",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307707000",
+      "code": "0307707000",
+      "name": "Maria Aurora"
+    }
+  },
+  {
+    "id": "0307707033",
+    "code": "0307707033",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307707000",
+      "code": "0307707000",
+      "name": "Maria Aurora"
+    }
+  },
+  {
+    "id": "0307707040",
+    "code": "0307707040",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307707000",
+      "code": "0307707000",
+      "name": "Maria Aurora"
+    }
+  },
+  {
+    "id": "0307707034",
+    "code": "0307707034",
+    "name": "San Leonardo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307707000",
+      "code": "0307707000",
+      "name": "Maria Aurora"
+    }
+  },
+  {
+    "id": "0307707035",
+    "code": "0307707035",
+    "name": "Santa Lucia",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307707000",
+      "code": "0307707000",
+      "name": "Maria Aurora"
+    }
+  },
+  {
+    "id": "0307707036",
+    "code": "0307707036",
+    "name": "Santo Tomas",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307707000",
+      "code": "0307707000",
+      "name": "Maria Aurora"
+    }
+  },
+  {
+    "id": "0307707037",
+    "code": "0307707037",
+    "name": "Suguit",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307707000",
+      "code": "0307707000",
+      "name": "Maria Aurora"
+    }
+  },
+  {
+    "id": "0307707038",
+    "code": "0307707038",
+    "name": "Villa Aurora",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307707000",
+      "code": "0307707000",
+      "name": "Maria Aurora"
+    }
+  },
+  {
+    "id": "0307707039",
+    "code": "0307707039",
+    "name": "Wenceslao",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307707000",
+      "code": "0307707000",
+      "name": "Maria Aurora"
+    }
+  }
+]

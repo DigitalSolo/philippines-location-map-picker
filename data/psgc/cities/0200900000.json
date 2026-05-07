@@ -1,0 +1,98 @@
+[
+  {
+    "id": "0200901000",
+    "code": "0200901000",
+    "name": "Basco",
+    "type": "city_municipality",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0200900000",
+      "code": "0200900000",
+      "name": "Batanes"
+    }
+  },
+  {
+    "id": "0200902000",
+    "code": "0200902000",
+    "name": "Itbayat",
+    "type": "city_municipality",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0200900000",
+      "code": "0200900000",
+      "name": "Batanes"
+    }
+  },
+  {
+    "id": "0200903000",
+    "code": "0200903000",
+    "name": "Ivana",
+    "type": "city_municipality",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0200900000",
+      "code": "0200900000",
+      "name": "Batanes"
+    }
+  },
+  {
+    "id": "0200904000",
+    "code": "0200904000",
+    "name": "Mahatao",
+    "type": "city_municipality",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0200900000",
+      "code": "0200900000",
+      "name": "Batanes"
+    }
+  },
+  {
+    "id": "0200905000",
+    "code": "0200905000",
+    "name": "Sabtang",
+    "type": "city_municipality",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0200900000",
+      "code": "0200900000",
+      "name": "Batanes"
+    }
+  },
+  {
+    "id": "0200906000",
+    "code": "0200906000",
+    "name": "Uyugan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0200900000",
+      "code": "0200900000",
+      "name": "Batanes"
+    }
+  }
+]

@@ -1,0 +1,548 @@
+[
+  {
+    "id": "0306917001",
+    "code": "0306917001",
+    "name": "Baculong",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306917000",
+      "code": "0306917000",
+      "name": "Victoria"
+    }
+  },
+  {
+    "id": "0306917002",
+    "code": "0306917002",
+    "name": "Balayang",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306917000",
+      "code": "0306917000",
+      "name": "Victoria"
+    }
+  },
+  {
+    "id": "0306917003",
+    "code": "0306917003",
+    "name": "Balbaloto",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306917000",
+      "code": "0306917000",
+      "name": "Victoria"
+    }
+  },
+  {
+    "id": "0306917004",
+    "code": "0306917004",
+    "name": "Bangar",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306917000",
+      "code": "0306917000",
+      "name": "Victoria"
+    }
+  },
+  {
+    "id": "0306917005",
+    "code": "0306917005",
+    "name": "Bantog",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306917000",
+      "code": "0306917000",
+      "name": "Victoria"
+    }
+  },
+  {
+    "id": "0306917006",
+    "code": "0306917006",
+    "name": "Batangbatang",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306917000",
+      "code": "0306917000",
+      "name": "Victoria"
+    }
+  },
+  {
+    "id": "0306917007",
+    "code": "0306917007",
+    "name": "Bulo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306917000",
+      "code": "0306917000",
+      "name": "Victoria"
+    }
+  },
+  {
+    "id": "0306917008",
+    "code": "0306917008",
+    "name": "Cabuluan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306917000",
+      "code": "0306917000",
+      "name": "Victoria"
+    }
+  },
+  {
+    "id": "0306917009",
+    "code": "0306917009",
+    "name": "Calibungan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306917000",
+      "code": "0306917000",
+      "name": "Victoria"
+    }
+  },
+  {
+    "id": "0306917010",
+    "code": "0306917010",
+    "name": "Canarem",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306917000",
+      "code": "0306917000",
+      "name": "Victoria"
+    }
+  },
+  {
+    "id": "0306917011",
+    "code": "0306917011",
+    "name": "Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306917000",
+      "code": "0306917000",
+      "name": "Victoria"
+    }
+  },
+  {
+    "id": "0306917012",
+    "code": "0306917012",
+    "name": "Lalapac",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306917000",
+      "code": "0306917000",
+      "name": "Victoria"
+    }
+  },
+  {
+    "id": "0306917013",
+    "code": "0306917013",
+    "name": "Maluid",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306917000",
+      "code": "0306917000",
+      "name": "Victoria"
+    }
+  },
+  {
+    "id": "0306917014",
+    "code": "0306917014",
+    "name": "Mangolago",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306917000",
+      "code": "0306917000",
+      "name": "Victoria"
+    }
+  },
+  {
+    "id": "0306917015",
+    "code": "0306917015",
+    "name": "Masalasa",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306917000",
+      "code": "0306917000",
+      "name": "Victoria"
+    }
+  },
+  {
+    "id": "0306917016",
+    "code": "0306917016",
+    "name": "Palacpalac",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306917000",
+      "code": "0306917000",
+      "name": "Victoria"
+    }
+  },
+  {
+    "id": "0306917017",
+    "code": "0306917017",
+    "name": "San Agustin",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306917000",
+      "code": "0306917000",
+      "name": "Victoria"
+    }
+  },
+  {
+    "id": "0306917018",
+    "code": "0306917018",
+    "name": "San Andres",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306917000",
+      "code": "0306917000",
+      "name": "Victoria"
+    }
+  },
+  {
+    "id": "0306917019",
+    "code": "0306917019",
+    "name": "San Fernando",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306917000",
+      "code": "0306917000",
+      "name": "Victoria"
+    }
+  },
+  {
+    "id": "0306917020",
+    "code": "0306917020",
+    "name": "San Francisco",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306917000",
+      "code": "0306917000",
+      "name": "Victoria"
+    }
+  },
+  {
+    "id": "0306917021",
+    "code": "0306917021",
+    "name": "San Gavino",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306917000",
+      "code": "0306917000",
+      "name": "Victoria"
+    }
+  },
+  {
+    "id": "0306917023",
+    "code": "0306917023",
+    "name": "San Jacinto",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306917000",
+      "code": "0306917000",
+      "name": "Victoria"
+    }
+  },
+  {
+    "id": "0306917024",
+    "code": "0306917024",
+    "name": "San Nicolas",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306917000",
+      "code": "0306917000",
+      "name": "Victoria"
+    }
+  },
+  {
+    "id": "0306917025",
+    "code": "0306917025",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306917000",
+      "code": "0306917000",
+      "name": "Victoria"
+    }
+  },
+  {
+    "id": "0306917026",
+    "code": "0306917026",
+    "name": "Santa Barbara",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306917000",
+      "code": "0306917000",
+      "name": "Victoria"
+    }
+  },
+  {
+    "id": "0306917027",
+    "code": "0306917027",
+    "name": "Santa Lucia",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306917000",
+      "code": "0306917000",
+      "name": "Victoria"
+    }
+  }
+]

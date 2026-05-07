@@ -1,0 +1,695 @@
+[
+  {
+    "id": "0907318001",
+    "code": "0907318001",
+    "name": "Bacahan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907318000",
+      "code": "0907318000",
+      "name": "Midsalip"
+    }
+  },
+  {
+    "id": "0907318040",
+    "code": "0907318040",
+    "name": "Balonai",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907318000",
+      "code": "0907318000",
+      "name": "Midsalip"
+    }
+  },
+  {
+    "id": "0907318003",
+    "code": "0907318003",
+    "name": "Bibilop",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907318000",
+      "code": "0907318000",
+      "name": "Midsalip"
+    }
+  },
+  {
+    "id": "0907318005",
+    "code": "0907318005",
+    "name": "Buloron",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907318000",
+      "code": "0907318000",
+      "name": "Midsalip"
+    }
+  },
+  {
+    "id": "0907318030",
+    "code": "0907318030",
+    "name": "Cabaloran",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907318000",
+      "code": "0907318000",
+      "name": "Midsalip"
+    }
+  },
+  {
+    "id": "0907318007",
+    "code": "0907318007",
+    "name": "Canipay Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907318000",
+      "code": "0907318000",
+      "name": "Midsalip"
+    }
+  },
+  {
+    "id": "0907318008",
+    "code": "0907318008",
+    "name": "Canipay Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907318000",
+      "code": "0907318000",
+      "name": "Midsalip"
+    }
+  },
+  {
+    "id": "0907318009",
+    "code": "0907318009",
+    "name": "Cumaron",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907318000",
+      "code": "0907318000",
+      "name": "Midsalip"
+    }
+  },
+  {
+    "id": "0907318031",
+    "code": "0907318031",
+    "name": "Dakayakan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907318000",
+      "code": "0907318000",
+      "name": "Midsalip"
+    }
+  },
+  {
+    "id": "0907318032",
+    "code": "0907318032",
+    "name": "Duelic",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907318000",
+      "code": "0907318000",
+      "name": "Midsalip"
+    }
+  },
+  {
+    "id": "0907318033",
+    "code": "0907318033",
+    "name": "Dumalinao",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907318000",
+      "code": "0907318000",
+      "name": "Midsalip"
+    }
+  },
+  {
+    "id": "0907318034",
+    "code": "0907318034",
+    "name": "Ecuan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907318000",
+      "code": "0907318000",
+      "name": "Midsalip"
+    }
+  },
+  {
+    "id": "0907318011",
+    "code": "0907318011",
+    "name": "Golictop",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907318000",
+      "code": "0907318000",
+      "name": "Midsalip"
+    }
+  },
+  {
+    "id": "0907318035",
+    "code": "0907318035",
+    "name": "Guinabot",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907318000",
+      "code": "0907318000",
+      "name": "Midsalip"
+    }
+  },
+  {
+    "id": "0907318036",
+    "code": "0907318036",
+    "name": "Guitalos",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907318000",
+      "code": "0907318000",
+      "name": "Midsalip"
+    }
+  },
+  {
+    "id": "0907318041",
+    "code": "0907318041",
+    "name": "Guma",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907318000",
+      "code": "0907318000",
+      "name": "Midsalip"
+    }
+  },
+  {
+    "id": "0907318012",
+    "code": "0907318012",
+    "name": "Kahayagan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907318000",
+      "code": "0907318000",
+      "name": "Midsalip"
+    }
+  },
+  {
+    "id": "0907318038",
+    "code": "0907318038",
+    "name": "Licuro-an",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907318000",
+      "code": "0907318000",
+      "name": "Midsalip"
+    }
+  },
+  {
+    "id": "0907318016",
+    "code": "0907318016",
+    "name": "Lumpunid",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907318000",
+      "code": "0907318000",
+      "name": "Midsalip"
+    }
+  },
+  {
+    "id": "0907318017",
+    "code": "0907318017",
+    "name": "Matalang",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907318000",
+      "code": "0907318000",
+      "name": "Midsalip"
+    }
+  },
+  {
+    "id": "0907318018",
+    "code": "0907318018",
+    "name": "New Katipunan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907318000",
+      "code": "0907318000",
+      "name": "Midsalip"
+    }
+  },
+  {
+    "id": "0907318019",
+    "code": "0907318019",
+    "name": "New Unidos",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907318000",
+      "code": "0907318000",
+      "name": "Midsalip"
+    }
+  },
+  {
+    "id": "0907318020",
+    "code": "0907318020",
+    "name": "Palili",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907318000",
+      "code": "0907318000",
+      "name": "Midsalip"
+    }
+  },
+  {
+    "id": "0907318039",
+    "code": "0907318039",
+    "name": "Pawan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907318000",
+      "code": "0907318000",
+      "name": "Midsalip"
+    }
+  },
+  {
+    "id": "0907318042",
+    "code": "0907318042",
+    "name": "Pili",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907318000",
+      "code": "0907318000",
+      "name": "Midsalip"
+    }
+  },
+  {
+    "id": "0907318029",
+    "code": "0907318029",
+    "name": "Pisompongan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907318000",
+      "code": "0907318000",
+      "name": "Midsalip"
+    }
+  },
+  {
+    "id": "0907318021",
+    "code": "0907318021",
+    "name": "Piwan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907318000",
+      "code": "0907318000",
+      "name": "Midsalip"
+    }
+  },
+  {
+    "id": "0907318022",
+    "code": "0907318022",
+    "name": "Poblacion A",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907318000",
+      "code": "0907318000",
+      "name": "Midsalip"
+    }
+  },
+  {
+    "id": "0907318023",
+    "code": "0907318023",
+    "name": "Poblacion B",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907318000",
+      "code": "0907318000",
+      "name": "Midsalip"
+    }
+  },
+  {
+    "id": "0907318024",
+    "code": "0907318024",
+    "name": "Sigapod",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907318000",
+      "code": "0907318000",
+      "name": "Midsalip"
+    }
+  },
+  {
+    "id": "0907318026",
+    "code": "0907318026",
+    "name": "Timbaboy",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907318000",
+      "code": "0907318000",
+      "name": "Midsalip"
+    }
+  },
+  {
+    "id": "0907318027",
+    "code": "0907318027",
+    "name": "Tulbong",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907318000",
+      "code": "0907318000",
+      "name": "Midsalip"
+    }
+  },
+  {
+    "id": "0907318028",
+    "code": "0907318028",
+    "name": "Tuluan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907318000",
+      "code": "0907318000",
+      "name": "Midsalip"
+    }
+  }
+]

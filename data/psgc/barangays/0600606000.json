@@ -1,0 +1,926 @@
+[
+  {
+    "id": "0600606001",
+    "code": "0600606001",
+    "name": "Alojipan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600606000",
+      "code": "0600606000",
+      "name": "Culasi"
+    }
+  },
+  {
+    "id": "0600606002",
+    "code": "0600606002",
+    "name": "Bagacay",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600606000",
+      "code": "0600606000",
+      "name": "Culasi"
+    }
+  },
+  {
+    "id": "0600606003",
+    "code": "0600606003",
+    "name": "Balac-balac",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600606000",
+      "code": "0600606000",
+      "name": "Culasi"
+    }
+  },
+  {
+    "id": "0600606005",
+    "code": "0600606005",
+    "name": "Batbatan Island",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600606000",
+      "code": "0600606000",
+      "name": "Culasi"
+    }
+  },
+  {
+    "id": "0600606007",
+    "code": "0600606007",
+    "name": "Batonan Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600606000",
+      "code": "0600606000",
+      "name": "Culasi"
+    }
+  },
+  {
+    "id": "0600606008",
+    "code": "0600606008",
+    "name": "Batonan Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600606000",
+      "code": "0600606000",
+      "name": "Culasi"
+    }
+  },
+  {
+    "id": "0600606009",
+    "code": "0600606009",
+    "name": "Bita",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600606000",
+      "code": "0600606000",
+      "name": "Culasi"
+    }
+  },
+  {
+    "id": "0600606010",
+    "code": "0600606010",
+    "name": "Bitadton Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600606000",
+      "code": "0600606000",
+      "name": "Culasi"
+    }
+  },
+  {
+    "id": "0600606011",
+    "code": "0600606011",
+    "name": "Bitadton Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600606000",
+      "code": "0600606000",
+      "name": "Culasi"
+    }
+  },
+  {
+    "id": "0600606012",
+    "code": "0600606012",
+    "name": "Buenavista",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600606000",
+      "code": "0600606000",
+      "name": "Culasi"
+    }
+  },
+  {
+    "id": "0600606013",
+    "code": "0600606013",
+    "name": "Buhi",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600606000",
+      "code": "0600606000",
+      "name": "Culasi"
+    }
+  },
+  {
+    "id": "0600606014",
+    "code": "0600606014",
+    "name": "Camancijan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600606000",
+      "code": "0600606000",
+      "name": "Culasi"
+    }
+  },
+  {
+    "id": "0600606015",
+    "code": "0600606015",
+    "name": "Caridad",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600606000",
+      "code": "0600606000",
+      "name": "Culasi"
+    }
+  },
+  {
+    "id": "0600606016",
+    "code": "0600606016",
+    "name": "Carit-an",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600606000",
+      "code": "0600606000",
+      "name": "Culasi"
+    }
+  },
+  {
+    "id": "0600606032",
+    "code": "0600606032",
+    "name": "Centro Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600606000",
+      "code": "0600606000",
+      "name": "Culasi"
+    }
+  },
+  {
+    "id": "0600606031",
+    "code": "0600606031",
+    "name": "Centro Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600606000",
+      "code": "0600606000",
+      "name": "Culasi"
+    }
+  },
+  {
+    "id": "0600606033",
+    "code": "0600606033",
+    "name": "Centro Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600606000",
+      "code": "0600606000",
+      "name": "Culasi"
+    }
+  },
+  {
+    "id": "0600606017",
+    "code": "0600606017",
+    "name": "Condes",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600606000",
+      "code": "0600606000",
+      "name": "Culasi"
+    }
+  },
+  {
+    "id": "0600606018",
+    "code": "0600606018",
+    "name": "Esperanza",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600606000",
+      "code": "0600606000",
+      "name": "Culasi"
+    }
+  },
+  {
+    "id": "0600606019",
+    "code": "0600606019",
+    "name": "Fe",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600606000",
+      "code": "0600606000",
+      "name": "Culasi"
+    }
+  },
+  {
+    "id": "0600606020",
+    "code": "0600606020",
+    "name": "Flores",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600606000",
+      "code": "0600606000",
+      "name": "Culasi"
+    }
+  },
+  {
+    "id": "0600606021",
+    "code": "0600606021",
+    "name": "Jalandoni",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600606000",
+      "code": "0600606000",
+      "name": "Culasi"
+    }
+  },
+  {
+    "id": "0600606022",
+    "code": "0600606022",
+    "name": "Janlagasi",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600606000",
+      "code": "0600606000",
+      "name": "Culasi"
+    }
+  },
+  {
+    "id": "0600606023",
+    "code": "0600606023",
+    "name": "Lamputong",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600606000",
+      "code": "0600606000",
+      "name": "Culasi"
+    }
+  },
+  {
+    "id": "0600606024",
+    "code": "0600606024",
+    "name": "Lipata",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600606000",
+      "code": "0600606000",
+      "name": "Culasi"
+    }
+  },
+  {
+    "id": "0600606004",
+    "code": "0600606004",
+    "name": "Magsaysay",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600606000",
+      "code": "0600606000",
+      "name": "Culasi"
+    }
+  },
+  {
+    "id": "0600606025",
+    "code": "0600606025",
+    "name": "Malacañang",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600606000",
+      "code": "0600606000",
+      "name": "Culasi"
+    }
+  },
+  {
+    "id": "0600606026",
+    "code": "0600606026",
+    "name": "Malalison Island",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600606000",
+      "code": "0600606000",
+      "name": "Culasi"
+    }
+  },
+  {
+    "id": "0600606027",
+    "code": "0600606027",
+    "name": "Maniguin",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600606000",
+      "code": "0600606000",
+      "name": "Culasi"
+    }
+  },
+  {
+    "id": "0600606028",
+    "code": "0600606028",
+    "name": "Naba",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600606000",
+      "code": "0600606000",
+      "name": "Culasi"
+    }
+  },
+  {
+    "id": "0600606029",
+    "code": "0600606029",
+    "name": "Osorio",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600606000",
+      "code": "0600606000",
+      "name": "Culasi"
+    }
+  },
+  {
+    "id": "0600606030",
+    "code": "0600606030",
+    "name": "Paningayan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600606000",
+      "code": "0600606000",
+      "name": "Culasi"
+    }
+  },
+  {
+    "id": "0600606034",
+    "code": "0600606034",
+    "name": "Salde",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600606000",
+      "code": "0600606000",
+      "name": "Culasi"
+    }
+  },
+  {
+    "id": "0600606036",
+    "code": "0600606036",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600606000",
+      "code": "0600606000",
+      "name": "Culasi"
+    }
+  },
+  {
+    "id": "0600606037",
+    "code": "0600606037",
+    "name": "San Gregorio",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600606000",
+      "code": "0600606000",
+      "name": "Culasi"
+    }
+  },
+  {
+    "id": "0600606038",
+    "code": "0600606038",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600606000",
+      "code": "0600606000",
+      "name": "Culasi"
+    }
+  },
+  {
+    "id": "0600606039",
+    "code": "0600606039",
+    "name": "San Luis",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600606000",
+      "code": "0600606000",
+      "name": "Culasi"
+    }
+  },
+  {
+    "id": "0600606040",
+    "code": "0600606040",
+    "name": "San Pascual",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600606000",
+      "code": "0600606000",
+      "name": "Culasi"
+    }
+  },
+  {
+    "id": "0600606041",
+    "code": "0600606041",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600606000",
+      "code": "0600606000",
+      "name": "Culasi"
+    }
+  },
+  {
+    "id": "0600606042",
+    "code": "0600606042",
+    "name": "Simbola",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600606000",
+      "code": "0600606000",
+      "name": "Culasi"
+    }
+  },
+  {
+    "id": "0600606043",
+    "code": "0600606043",
+    "name": "Tigbobolo",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600606000",
+      "code": "0600606000",
+      "name": "Culasi"
+    }
+  },
+  {
+    "id": "0600606044",
+    "code": "0600606044",
+    "name": "Tinabusan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600606000",
+      "code": "0600606000",
+      "name": "Culasi"
+    }
+  },
+  {
+    "id": "0600606045",
+    "code": "0600606045",
+    "name": "Tomao",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600606000",
+      "code": "0600606000",
+      "name": "Culasi"
+    }
+  },
+  {
+    "id": "0600606046",
+    "code": "0600606046",
+    "name": "Valderama",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600606000",
+      "code": "0600606000",
+      "name": "Culasi"
+    }
+  }
+]

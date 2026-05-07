@@ -1,0 +1,233 @@
+[
+  {
+    "id": "0307703001",
+    "code": "0307703001",
+    "name": "Diagyan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307703000",
+      "code": "0307703000",
+      "name": "Dilasag"
+    }
+  },
+  {
+    "id": "0307703002",
+    "code": "0307703002",
+    "name": "Dicabasan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307703000",
+      "code": "0307703000",
+      "name": "Dilasag"
+    }
+  },
+  {
+    "id": "0307703003",
+    "code": "0307703003",
+    "name": "Dilaguidi",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307703000",
+      "code": "0307703000",
+      "name": "Dilasag"
+    }
+  },
+  {
+    "id": "0307703004",
+    "code": "0307703004",
+    "name": "Dimaseset",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307703000",
+      "code": "0307703000",
+      "name": "Dilasag"
+    }
+  },
+  {
+    "id": "0307703005",
+    "code": "0307703005",
+    "name": "Diniog",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307703000",
+      "code": "0307703000",
+      "name": "Dilasag"
+    }
+  },
+  {
+    "id": "0307703011",
+    "code": "0307703011",
+    "name": "Esperanza",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307703000",
+      "code": "0307703000",
+      "name": "Dilasag"
+    }
+  },
+  {
+    "id": "0307703006",
+    "code": "0307703006",
+    "name": "Lawang",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307703000",
+      "code": "0307703000",
+      "name": "Dilasag"
+    }
+  },
+  {
+    "id": "0307703007",
+    "code": "0307703007",
+    "name": "Maligaya",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307703000",
+      "code": "0307703000",
+      "name": "Dilasag"
+    }
+  },
+  {
+    "id": "0307703008",
+    "code": "0307703008",
+    "name": "Manggitahan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307703000",
+      "code": "0307703000",
+      "name": "Dilasag"
+    }
+  },
+  {
+    "id": "0307703009",
+    "code": "0307703009",
+    "name": "Masagana",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307703000",
+      "code": "0307703000",
+      "name": "Dilasag"
+    }
+  },
+  {
+    "id": "0307703010",
+    "code": "0307703010",
+    "name": "Ura",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307703000",
+      "code": "0307703000",
+      "name": "Dilasag"
+    }
+  }
+]

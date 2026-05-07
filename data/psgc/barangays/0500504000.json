@@ -1,0 +1,926 @@
+[
+  {
+    "id": "0500504001",
+    "code": "0500504001",
+    "name": "Agpay",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500504000",
+      "code": "0500504000",
+      "name": "Guinobatan"
+    }
+  },
+  {
+    "id": "0500504002",
+    "code": "0500504002",
+    "name": "Balite",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500504000",
+      "code": "0500504000",
+      "name": "Guinobatan"
+    }
+  },
+  {
+    "id": "0500504003",
+    "code": "0500504003",
+    "name": "Banao",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500504000",
+      "code": "0500504000",
+      "name": "Guinobatan"
+    }
+  },
+  {
+    "id": "0500504004",
+    "code": "0500504004",
+    "name": "Batbat",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500504000",
+      "code": "0500504000",
+      "name": "Guinobatan"
+    }
+  },
+  {
+    "id": "0500504005",
+    "code": "0500504005",
+    "name": "Binogsacan Lower",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500504000",
+      "code": "0500504000",
+      "name": "Guinobatan"
+    }
+  },
+  {
+    "id": "0500504049",
+    "code": "0500504049",
+    "name": "Binogsacan Upper",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500504000",
+      "code": "0500504000",
+      "name": "Guinobatan"
+    }
+  },
+  {
+    "id": "0500504006",
+    "code": "0500504006",
+    "name": "Bololo",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500504000",
+      "code": "0500504000",
+      "name": "Guinobatan"
+    }
+  },
+  {
+    "id": "0500504007",
+    "code": "0500504007",
+    "name": "Bubulusan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500504000",
+      "code": "0500504000",
+      "name": "Guinobatan"
+    }
+  },
+  {
+    "id": "0500504009",
+    "code": "0500504009",
+    "name": "Calzada",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500504000",
+      "code": "0500504000",
+      "name": "Guinobatan"
+    }
+  },
+  {
+    "id": "0500504010",
+    "code": "0500504010",
+    "name": "Catomag",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500504000",
+      "code": "0500504000",
+      "name": "Guinobatan"
+    }
+  },
+  {
+    "id": "0500504011",
+    "code": "0500504011",
+    "name": "Doña Mercedes",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500504000",
+      "code": "0500504000",
+      "name": "Guinobatan"
+    }
+  },
+  {
+    "id": "0500504012",
+    "code": "0500504012",
+    "name": "Doña Tomasa",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500504000",
+      "code": "0500504000",
+      "name": "Guinobatan"
+    }
+  },
+  {
+    "id": "0500504013",
+    "code": "0500504013",
+    "name": "Ilawod",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500504000",
+      "code": "0500504000",
+      "name": "Guinobatan"
+    }
+  },
+  {
+    "id": "0500504015",
+    "code": "0500504015",
+    "name": "Inamnan Grande",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500504000",
+      "code": "0500504000",
+      "name": "Guinobatan"
+    }
+  },
+  {
+    "id": "0500504014",
+    "code": "0500504014",
+    "name": "Inamnan Pequeño",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500504000",
+      "code": "0500504000",
+      "name": "Guinobatan"
+    }
+  },
+  {
+    "id": "0500504016",
+    "code": "0500504016",
+    "name": "Inascan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500504000",
+      "code": "0500504000",
+      "name": "Guinobatan"
+    }
+  },
+  {
+    "id": "0500504017",
+    "code": "0500504017",
+    "name": "Iraya",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500504000",
+      "code": "0500504000",
+      "name": "Guinobatan"
+    }
+  },
+  {
+    "id": "0500504018",
+    "code": "0500504018",
+    "name": "Lomacao",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500504000",
+      "code": "0500504000",
+      "name": "Guinobatan"
+    }
+  },
+  {
+    "id": "0500504021",
+    "code": "0500504021",
+    "name": "Maguiron",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500504000",
+      "code": "0500504000",
+      "name": "Guinobatan"
+    }
+  },
+  {
+    "id": "0500504022",
+    "code": "0500504022",
+    "name": "Maipon",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500504000",
+      "code": "0500504000",
+      "name": "Guinobatan"
+    }
+  },
+  {
+    "id": "0500504023",
+    "code": "0500504023",
+    "name": "Malabnig",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500504000",
+      "code": "0500504000",
+      "name": "Guinobatan"
+    }
+  },
+  {
+    "id": "0500504024",
+    "code": "0500504024",
+    "name": "Malipo",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500504000",
+      "code": "0500504000",
+      "name": "Guinobatan"
+    }
+  },
+  {
+    "id": "0500504025",
+    "code": "0500504025",
+    "name": "Malobago",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500504000",
+      "code": "0500504000",
+      "name": "Guinobatan"
+    }
+  },
+  {
+    "id": "0500504026",
+    "code": "0500504026",
+    "name": "Maninila",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500504000",
+      "code": "0500504000",
+      "name": "Guinobatan"
+    }
+  },
+  {
+    "id": "0500504027",
+    "code": "0500504027",
+    "name": "Mapaco",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500504000",
+      "code": "0500504000",
+      "name": "Guinobatan"
+    }
+  },
+  {
+    "id": "0500504008",
+    "code": "0500504008",
+    "name": "Marcial O. Rañola",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500504000",
+      "code": "0500504000",
+      "name": "Guinobatan"
+    }
+  },
+  {
+    "id": "0500504029",
+    "code": "0500504029",
+    "name": "Masarawag",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500504000",
+      "code": "0500504000",
+      "name": "Guinobatan"
+    }
+  },
+  {
+    "id": "0500504030",
+    "code": "0500504030",
+    "name": "Mauraro",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500504000",
+      "code": "0500504000",
+      "name": "Guinobatan"
+    }
+  },
+  {
+    "id": "0500504031",
+    "code": "0500504031",
+    "name": "Minto",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500504000",
+      "code": "0500504000",
+      "name": "Guinobatan"
+    }
+  },
+  {
+    "id": "0500504032",
+    "code": "0500504032",
+    "name": "Morera",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500504000",
+      "code": "0500504000",
+      "name": "Guinobatan"
+    }
+  },
+  {
+    "id": "0500504034",
+    "code": "0500504034",
+    "name": "Muladbucad Grande",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500504000",
+      "code": "0500504000",
+      "name": "Guinobatan"
+    }
+  },
+  {
+    "id": "0500504033",
+    "code": "0500504033",
+    "name": "Muladbucad Pequeño",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500504000",
+      "code": "0500504000",
+      "name": "Guinobatan"
+    }
+  },
+  {
+    "id": "0500504035",
+    "code": "0500504035",
+    "name": "Ongo",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500504000",
+      "code": "0500504000",
+      "name": "Guinobatan"
+    }
+  },
+  {
+    "id": "0500504036",
+    "code": "0500504036",
+    "name": "Palanas",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500504000",
+      "code": "0500504000",
+      "name": "Guinobatan"
+    }
+  },
+  {
+    "id": "0500504038",
+    "code": "0500504038",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500504000",
+      "code": "0500504000",
+      "name": "Guinobatan"
+    }
+  },
+  {
+    "id": "0500504040",
+    "code": "0500504040",
+    "name": "Pood",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500504000",
+      "code": "0500504000",
+      "name": "Guinobatan"
+    }
+  },
+  {
+    "id": "0500504042",
+    "code": "0500504042",
+    "name": "Quibongbongan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500504000",
+      "code": "0500504000",
+      "name": "Guinobatan"
+    }
+  },
+  {
+    "id": "0500504041",
+    "code": "0500504041",
+    "name": "Quitago",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500504000",
+      "code": "0500504000",
+      "name": "Guinobatan"
+    }
+  },
+  {
+    "id": "0500504043",
+    "code": "0500504043",
+    "name": "San Francisco",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500504000",
+      "code": "0500504000",
+      "name": "Guinobatan"
+    }
+  },
+  {
+    "id": "0500504044",
+    "code": "0500504044",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500504000",
+      "code": "0500504000",
+      "name": "Guinobatan"
+    }
+  },
+  {
+    "id": "0500504045",
+    "code": "0500504045",
+    "name": "San Rafael",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500504000",
+      "code": "0500504000",
+      "name": "Guinobatan"
+    }
+  },
+  {
+    "id": "0500504046",
+    "code": "0500504046",
+    "name": "Sinungtan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500504000",
+      "code": "0500504000",
+      "name": "Guinobatan"
+    }
+  },
+  {
+    "id": "0500504047",
+    "code": "0500504047",
+    "name": "Tandarora",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500504000",
+      "code": "0500504000",
+      "name": "Guinobatan"
+    }
+  },
+  {
+    "id": "0500504048",
+    "code": "0500504048",
+    "name": "Travesia",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500504000",
+      "code": "0500504000",
+      "name": "Guinobatan"
+    }
+  }
+]

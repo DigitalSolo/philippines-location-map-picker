@@ -1,0 +1,716 @@
+[
+  {
+    "id": "0907220001",
+    "code": "0907220001",
+    "name": "Balatakan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907220000",
+      "code": "0907220000",
+      "name": "Sirawai"
+    }
+  },
+  {
+    "id": "0907220002",
+    "code": "0907220002",
+    "name": "Balonkan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907220000",
+      "code": "0907220000",
+      "name": "Sirawai"
+    }
+  },
+  {
+    "id": "0907220003",
+    "code": "0907220003",
+    "name": "Balubuan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907220000",
+      "code": "0907220000",
+      "name": "Sirawai"
+    }
+  },
+  {
+    "id": "0907220004",
+    "code": "0907220004",
+    "name": "Bitugan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907220000",
+      "code": "0907220000",
+      "name": "Sirawai"
+    }
+  },
+  {
+    "id": "0907220005",
+    "code": "0907220005",
+    "name": "Bongon",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907220000",
+      "code": "0907220000",
+      "name": "Sirawai"
+    }
+  },
+  {
+    "id": "0907220007",
+    "code": "0907220007",
+    "name": "Catuyan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907220000",
+      "code": "0907220000",
+      "name": "Sirawai"
+    }
+  },
+  {
+    "id": "0907220009",
+    "code": "0907220009",
+    "name": "Culasian",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907220000",
+      "code": "0907220000",
+      "name": "Sirawai"
+    }
+  },
+  {
+    "id": "0907220010",
+    "code": "0907220010",
+    "name": "Danganon",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907220000",
+      "code": "0907220000",
+      "name": "Sirawai"
+    }
+  },
+  {
+    "id": "0907220011",
+    "code": "0907220011",
+    "name": "Doña Cecilia",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907220000",
+      "code": "0907220000",
+      "name": "Sirawai"
+    }
+  },
+  {
+    "id": "0907220013",
+    "code": "0907220013",
+    "name": "Guban",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907220000",
+      "code": "0907220000",
+      "name": "Sirawai"
+    }
+  },
+  {
+    "id": "0907220014",
+    "code": "0907220014",
+    "name": "Lagundi",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907220000",
+      "code": "0907220000",
+      "name": "Sirawai"
+    }
+  },
+  {
+    "id": "0907220015",
+    "code": "0907220015",
+    "name": "Libucon",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907220000",
+      "code": "0907220000",
+      "name": "Sirawai"
+    }
+  },
+  {
+    "id": "0907220016",
+    "code": "0907220016",
+    "name": "Lubok",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907220000",
+      "code": "0907220000",
+      "name": "Sirawai"
+    }
+  },
+  {
+    "id": "0907220017",
+    "code": "0907220017",
+    "name": "Macuyon",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907220000",
+      "code": "0907220000",
+      "name": "Sirawai"
+    }
+  },
+  {
+    "id": "0907220018",
+    "code": "0907220018",
+    "name": "Minanga",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907220000",
+      "code": "0907220000",
+      "name": "Sirawai"
+    }
+  },
+  {
+    "id": "0907220019",
+    "code": "0907220019",
+    "name": "Motong",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907220000",
+      "code": "0907220000",
+      "name": "Sirawai"
+    }
+  },
+  {
+    "id": "0907220020",
+    "code": "0907220020",
+    "name": "Napulan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907220000",
+      "code": "0907220000",
+      "name": "Sirawai"
+    }
+  },
+  {
+    "id": "0907220021",
+    "code": "0907220021",
+    "name": "Panabutan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907220000",
+      "code": "0907220000",
+      "name": "Sirawai"
+    }
+  },
+  {
+    "id": "0907220022",
+    "code": "0907220022",
+    "name": "Piacan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907220000",
+      "code": "0907220000",
+      "name": "Sirawai"
+    }
+  },
+  {
+    "id": "0907220024",
+    "code": "0907220024",
+    "name": "Piña",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907220000",
+      "code": "0907220000",
+      "name": "Sirawai"
+    }
+  },
+  {
+    "id": "0907220026",
+    "code": "0907220026",
+    "name": "Pisa Itom",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907220000",
+      "code": "0907220000",
+      "name": "Sirawai"
+    }
+  },
+  {
+    "id": "0907220025",
+    "code": "0907220025",
+    "name": "Pisa Puti",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907220000",
+      "code": "0907220000",
+      "name": "Sirawai"
+    }
+  },
+  {
+    "id": "0907220031",
+    "code": "0907220031",
+    "name": "Pugos",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907220000",
+      "code": "0907220000",
+      "name": "Sirawai"
+    }
+  },
+  {
+    "id": "0907220032",
+    "code": "0907220032",
+    "name": "Pula Bato",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907220000",
+      "code": "0907220000",
+      "name": "Sirawai"
+    }
+  },
+  {
+    "id": "0907220033",
+    "code": "0907220033",
+    "name": "Pulang Lupa",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907220000",
+      "code": "0907220000",
+      "name": "Sirawai"
+    }
+  },
+  {
+    "id": "0907220028",
+    "code": "0907220028",
+    "name": "Saint Mary",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907220000",
+      "code": "0907220000",
+      "name": "Sirawai"
+    }
+  },
+  {
+    "id": "0907220029",
+    "code": "0907220029",
+    "name": "San Nicolas",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907220000",
+      "code": "0907220000",
+      "name": "Sirawai"
+    }
+  },
+  {
+    "id": "0907220035",
+    "code": "0907220035",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907220000",
+      "code": "0907220000",
+      "name": "Sirawai"
+    }
+  },
+  {
+    "id": "0907220030",
+    "code": "0907220030",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907220000",
+      "code": "0907220000",
+      "name": "Sirawai"
+    }
+  },
+  {
+    "id": "0907220036",
+    "code": "0907220036",
+    "name": "Sipakit",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907220000",
+      "code": "0907220000",
+      "name": "Sirawai"
+    }
+  },
+  {
+    "id": "0907220037",
+    "code": "0907220037",
+    "name": "Sipawa",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907220000",
+      "code": "0907220000",
+      "name": "Sirawai"
+    }
+  },
+  {
+    "id": "0907220038",
+    "code": "0907220038",
+    "name": "Sirawai Proper",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907220000",
+      "code": "0907220000",
+      "name": "Sirawai"
+    }
+  },
+  {
+    "id": "0907220039",
+    "code": "0907220039",
+    "name": "Talabiga",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907220000",
+      "code": "0907220000",
+      "name": "Sirawai"
+    }
+  },
+  {
+    "id": "0907220040",
+    "code": "0907220040",
+    "name": "Tapanayan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907220000",
+      "code": "0907220000",
+      "name": "Sirawai"
+    }
+  }
+]

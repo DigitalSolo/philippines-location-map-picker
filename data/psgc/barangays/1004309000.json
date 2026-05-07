@@ -1,0 +1,233 @@
+[
+  {
+    "id": "1004309001",
+    "code": "1004309001",
+    "name": "Burnay",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004309000",
+      "code": "1004309000",
+      "name": "Gitagum"
+    }
+  },
+  {
+    "id": "1004309002",
+    "code": "1004309002",
+    "name": "Carlos P. Garcia",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004309000",
+      "code": "1004309000",
+      "name": "Gitagum"
+    }
+  },
+  {
+    "id": "1004309004",
+    "code": "1004309004",
+    "name": "Cogon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004309000",
+      "code": "1004309000",
+      "name": "Gitagum"
+    }
+  },
+  {
+    "id": "1004309005",
+    "code": "1004309005",
+    "name": "Gregorio Pelaez",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004309000",
+      "code": "1004309000",
+      "name": "Gitagum"
+    }
+  },
+  {
+    "id": "1004309006",
+    "code": "1004309006",
+    "name": "Kilangit",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004309000",
+      "code": "1004309000",
+      "name": "Gitagum"
+    }
+  },
+  {
+    "id": "1004309007",
+    "code": "1004309007",
+    "name": "Matangad",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004309000",
+      "code": "1004309000",
+      "name": "Gitagum"
+    }
+  },
+  {
+    "id": "1004309008",
+    "code": "1004309008",
+    "name": "Pangayawan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004309000",
+      "code": "1004309000",
+      "name": "Gitagum"
+    }
+  },
+  {
+    "id": "1004309009",
+    "code": "1004309009",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004309000",
+      "code": "1004309000",
+      "name": "Gitagum"
+    }
+  },
+  {
+    "id": "1004309010",
+    "code": "1004309010",
+    "name": "Quezon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004309000",
+      "code": "1004309000",
+      "name": "Gitagum"
+    }
+  },
+  {
+    "id": "1004309011",
+    "code": "1004309011",
+    "name": "Tala-o",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004309000",
+      "code": "1004309000",
+      "name": "Gitagum"
+    }
+  },
+  {
+    "id": "1004309012",
+    "code": "1004309012",
+    "name": "Ulab",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004309000",
+      "code": "1004309000",
+      "name": "Gitagum"
+    }
+  }
+]

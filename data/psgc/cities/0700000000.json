@@ -1,0 +1,35 @@
+[
+  {
+    "id": "0730600000",
+    "code": "0730600000",
+    "name": "City of Cebu",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    }
+  },
+  {
+    "id": "0731100000",
+    "code": "0731100000",
+    "name": "City of Lapu-Lapu",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    }
+  },
+  {
+    "id": "0731300000",
+    "code": "0731300000",
+    "name": "City of Mandaue",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    }
+  }
+]

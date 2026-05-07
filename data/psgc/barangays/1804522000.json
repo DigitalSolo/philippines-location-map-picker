@@ -1,0 +1,422 @@
+[
+  {
+    "id": "1804522003",
+    "code": "1804522003",
+    "name": "Barangay Zone 1",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804522000",
+      "code": "1804522000",
+      "name": "Pulupandan"
+    }
+  },
+  {
+    "id": "1804522001",
+    "code": "1804522001",
+    "name": "Barangay Zone 1-A",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804522000",
+      "code": "1804522000",
+      "name": "Pulupandan"
+    }
+  },
+  {
+    "id": "1804522004",
+    "code": "1804522004",
+    "name": "Barangay Zone 2",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804522000",
+      "code": "1804522000",
+      "name": "Pulupandan"
+    }
+  },
+  {
+    "id": "1804522005",
+    "code": "1804522005",
+    "name": "Barangay Zone 3",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804522000",
+      "code": "1804522000",
+      "name": "Pulupandan"
+    }
+  },
+  {
+    "id": "1804522006",
+    "code": "1804522006",
+    "name": "Barangay Zone 4",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804522000",
+      "code": "1804522000",
+      "name": "Pulupandan"
+    }
+  },
+  {
+    "id": "1804522002",
+    "code": "1804522002",
+    "name": "Barangay Zone 4-A",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804522000",
+      "code": "1804522000",
+      "name": "Pulupandan"
+    }
+  },
+  {
+    "id": "1804522007",
+    "code": "1804522007",
+    "name": "Barangay Zone 5",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804522000",
+      "code": "1804522000",
+      "name": "Pulupandan"
+    }
+  },
+  {
+    "id": "1804522008",
+    "code": "1804522008",
+    "name": "Barangay Zone 6",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804522000",
+      "code": "1804522000",
+      "name": "Pulupandan"
+    }
+  },
+  {
+    "id": "1804522009",
+    "code": "1804522009",
+    "name": "Barangay Zone 7",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804522000",
+      "code": "1804522000",
+      "name": "Pulupandan"
+    }
+  },
+  {
+    "id": "1804522010",
+    "code": "1804522010",
+    "name": "Canjusa",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804522000",
+      "code": "1804522000",
+      "name": "Pulupandan"
+    }
+  },
+  {
+    "id": "1804522011",
+    "code": "1804522011",
+    "name": "Crossing Pulupandan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804522000",
+      "code": "1804522000",
+      "name": "Pulupandan"
+    }
+  },
+  {
+    "id": "1804522012",
+    "code": "1804522012",
+    "name": "Culo",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804522000",
+      "code": "1804522000",
+      "name": "Pulupandan"
+    }
+  },
+  {
+    "id": "1804522013",
+    "code": "1804522013",
+    "name": "Mabini",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804522000",
+      "code": "1804522000",
+      "name": "Pulupandan"
+    }
+  },
+  {
+    "id": "1804522014",
+    "code": "1804522014",
+    "name": "Pag-ayon",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804522000",
+      "code": "1804522000",
+      "name": "Pulupandan"
+    }
+  },
+  {
+    "id": "1804522015",
+    "code": "1804522015",
+    "name": "Palaka Norte",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804522000",
+      "code": "1804522000",
+      "name": "Pulupandan"
+    }
+  },
+  {
+    "id": "1804522016",
+    "code": "1804522016",
+    "name": "Palaka Sur",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804522000",
+      "code": "1804522000",
+      "name": "Pulupandan"
+    }
+  },
+  {
+    "id": "1804522017",
+    "code": "1804522017",
+    "name": "Patic",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804522000",
+      "code": "1804522000",
+      "name": "Pulupandan"
+    }
+  },
+  {
+    "id": "1804522018",
+    "code": "1804522018",
+    "name": "Tapong",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804522000",
+      "code": "1804522000",
+      "name": "Pulupandan"
+    }
+  },
+  {
+    "id": "1804522019",
+    "code": "1804522019",
+    "name": "Ubay",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804522000",
+      "code": "1804522000",
+      "name": "Pulupandan"
+    }
+  },
+  {
+    "id": "1804522020",
+    "code": "1804522020",
+    "name": "Utod",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804522000",
+      "code": "1804522000",
+      "name": "Pulupandan"
+    }
+  }
+]

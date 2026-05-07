@@ -1,0 +1,338 @@
+[
+  {
+    "id": "1004211001",
+    "code": "1004211001",
+    "name": "Baga",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004211000",
+      "code": "1004211000",
+      "name": "Panaon"
+    }
+  },
+  {
+    "id": "1004211002",
+    "code": "1004211002",
+    "name": "Bangko",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004211000",
+      "code": "1004211000",
+      "name": "Panaon"
+    }
+  },
+  {
+    "id": "1004211003",
+    "code": "1004211003",
+    "name": "Camanucan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004211000",
+      "code": "1004211000",
+      "name": "Panaon"
+    }
+  },
+  {
+    "id": "1004211004",
+    "code": "1004211004",
+    "name": "Dela Paz",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004211000",
+      "code": "1004211000",
+      "name": "Panaon"
+    }
+  },
+  {
+    "id": "1004211005",
+    "code": "1004211005",
+    "name": "Lutao",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004211000",
+      "code": "1004211000",
+      "name": "Panaon"
+    }
+  },
+  {
+    "id": "1004211006",
+    "code": "1004211006",
+    "name": "Magsaysay",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004211000",
+      "code": "1004211000",
+      "name": "Panaon"
+    }
+  },
+  {
+    "id": "1004211007",
+    "code": "1004211007",
+    "name": "Map-an",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004211000",
+      "code": "1004211000",
+      "name": "Panaon"
+    }
+  },
+  {
+    "id": "1004211008",
+    "code": "1004211008",
+    "name": "Mohon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004211000",
+      "code": "1004211000",
+      "name": "Panaon"
+    }
+  },
+  {
+    "id": "1004211009",
+    "code": "1004211009",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004211000",
+      "code": "1004211000",
+      "name": "Panaon"
+    }
+  },
+  {
+    "id": "1004211010",
+    "code": "1004211010",
+    "name": "Punta",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004211000",
+      "code": "1004211000",
+      "name": "Panaon"
+    }
+  },
+  {
+    "id": "1004211011",
+    "code": "1004211011",
+    "name": "Salimpuno",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004211000",
+      "code": "1004211000",
+      "name": "Panaon"
+    }
+  },
+  {
+    "id": "1004211012",
+    "code": "1004211012",
+    "name": "San Andres",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004211000",
+      "code": "1004211000",
+      "name": "Panaon"
+    }
+  },
+  {
+    "id": "1004211013",
+    "code": "1004211013",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004211000",
+      "code": "1004211000",
+      "name": "Panaon"
+    }
+  },
+  {
+    "id": "1004211014",
+    "code": "1004211014",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004211000",
+      "code": "1004211000",
+      "name": "Panaon"
+    }
+  },
+  {
+    "id": "1004211015",
+    "code": "1004211015",
+    "name": "Sumasap",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004211000",
+      "code": "1004211000",
+      "name": "Panaon"
+    }
+  },
+  {
+    "id": "1004211016",
+    "code": "1004211016",
+    "name": "Villalin",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004211000",
+      "code": "1004211000",
+      "name": "Panaon"
+    }
+  }
+]

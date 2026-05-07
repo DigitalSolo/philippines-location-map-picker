@@ -1,0 +1,506 @@
+[
+  {
+    "id": "0103302001",
+    "code": "0103302001",
+    "name": "Alaska",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103302000",
+      "code": "0103302000",
+      "name": "Aringay"
+    }
+  },
+  {
+    "id": "0103302002",
+    "code": "0103302002",
+    "name": "Basca",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103302000",
+      "code": "0103302000",
+      "name": "Aringay"
+    }
+  },
+  {
+    "id": "0103302003",
+    "code": "0103302003",
+    "name": "Dulao",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103302000",
+      "code": "0103302000",
+      "name": "Aringay"
+    }
+  },
+  {
+    "id": "0103302004",
+    "code": "0103302004",
+    "name": "Gallano",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103302000",
+      "code": "0103302000",
+      "name": "Aringay"
+    }
+  },
+  {
+    "id": "0103302005",
+    "code": "0103302005",
+    "name": "Macabato",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103302000",
+      "code": "0103302000",
+      "name": "Aringay"
+    }
+  },
+  {
+    "id": "0103302006",
+    "code": "0103302006",
+    "name": "Manga",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103302000",
+      "code": "0103302000",
+      "name": "Aringay"
+    }
+  },
+  {
+    "id": "0103302007",
+    "code": "0103302007",
+    "name": "Pangao-aoan East",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103302000",
+      "code": "0103302000",
+      "name": "Aringay"
+    }
+  },
+  {
+    "id": "0103302009",
+    "code": "0103302009",
+    "name": "Pangao-aoan West",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103302000",
+      "code": "0103302000",
+      "name": "Aringay"
+    }
+  },
+  {
+    "id": "0103302010",
+    "code": "0103302010",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103302000",
+      "code": "0103302000",
+      "name": "Aringay"
+    }
+  },
+  {
+    "id": "0103302011",
+    "code": "0103302011",
+    "name": "Samara",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103302000",
+      "code": "0103302000",
+      "name": "Aringay"
+    }
+  },
+  {
+    "id": "0103302012",
+    "code": "0103302012",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103302000",
+      "code": "0103302000",
+      "name": "Aringay"
+    }
+  },
+  {
+    "id": "0103302014",
+    "code": "0103302014",
+    "name": "San Benito Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103302000",
+      "code": "0103302000",
+      "name": "Aringay"
+    }
+  },
+  {
+    "id": "0103302015",
+    "code": "0103302015",
+    "name": "San Benito Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103302000",
+      "code": "0103302000",
+      "name": "Aringay"
+    }
+  },
+  {
+    "id": "0103302016",
+    "code": "0103302016",
+    "name": "San Eugenio",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103302000",
+      "code": "0103302000",
+      "name": "Aringay"
+    }
+  },
+  {
+    "id": "0103302018",
+    "code": "0103302018",
+    "name": "San Juan East",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103302000",
+      "code": "0103302000",
+      "name": "Aringay"
+    }
+  },
+  {
+    "id": "0103302019",
+    "code": "0103302019",
+    "name": "San Juan West",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103302000",
+      "code": "0103302000",
+      "name": "Aringay"
+    }
+  },
+  {
+    "id": "0103302020",
+    "code": "0103302020",
+    "name": "San Simon East",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103302000",
+      "code": "0103302000",
+      "name": "Aringay"
+    }
+  },
+  {
+    "id": "0103302021",
+    "code": "0103302021",
+    "name": "San Simon West",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103302000",
+      "code": "0103302000",
+      "name": "Aringay"
+    }
+  },
+  {
+    "id": "0103302022",
+    "code": "0103302022",
+    "name": "Santa Cecilia",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103302000",
+      "code": "0103302000",
+      "name": "Aringay"
+    }
+  },
+  {
+    "id": "0103302023",
+    "code": "0103302023",
+    "name": "Santa Lucia",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103302000",
+      "code": "0103302000",
+      "name": "Aringay"
+    }
+  },
+  {
+    "id": "0103302024",
+    "code": "0103302024",
+    "name": "Santa Rita East",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103302000",
+      "code": "0103302000",
+      "name": "Aringay"
+    }
+  },
+  {
+    "id": "0103302025",
+    "code": "0103302025",
+    "name": "Santa Rita West",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103302000",
+      "code": "0103302000",
+      "name": "Aringay"
+    }
+  },
+  {
+    "id": "0103302027",
+    "code": "0103302027",
+    "name": "Santo Rosario East",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103302000",
+      "code": "0103302000",
+      "name": "Aringay"
+    }
+  },
+  {
+    "id": "0103302028",
+    "code": "0103302028",
+    "name": "Santo Rosario West",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103302000",
+      "code": "0103302000",
+      "name": "Aringay"
+    }
+  }
+]

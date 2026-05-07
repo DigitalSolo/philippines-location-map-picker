@@ -1,0 +1,527 @@
+[
+  {
+    "id": "0802618023",
+    "code": "0802618023",
+    "name": "Alang-alang",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802618000",
+      "code": "0802618000",
+      "name": "Quinapondan"
+    }
+  },
+  {
+    "id": "0802618001",
+    "code": "0802618001",
+    "name": "Anislag",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802618000",
+      "code": "0802618000",
+      "name": "Quinapondan"
+    }
+  },
+  {
+    "id": "0802618002",
+    "code": "0802618002",
+    "name": "Bagte",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802618000",
+      "code": "0802618000",
+      "name": "Quinapondan"
+    }
+  },
+  {
+    "id": "0802618003",
+    "code": "0802618003",
+    "name": "Barangay No. 1",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802618000",
+      "code": "0802618000",
+      "name": "Quinapondan"
+    }
+  },
+  {
+    "id": "0802618004",
+    "code": "0802618004",
+    "name": "Barangay No. 2",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802618000",
+      "code": "0802618000",
+      "name": "Quinapondan"
+    }
+  },
+  {
+    "id": "0802618005",
+    "code": "0802618005",
+    "name": "Barangay No. 3",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802618000",
+      "code": "0802618000",
+      "name": "Quinapondan"
+    }
+  },
+  {
+    "id": "0802618006",
+    "code": "0802618006",
+    "name": "Barangay No. 4",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802618000",
+      "code": "0802618000",
+      "name": "Quinapondan"
+    }
+  },
+  {
+    "id": "0802618007",
+    "code": "0802618007",
+    "name": "Barangay No. 5",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802618000",
+      "code": "0802618000",
+      "name": "Quinapondan"
+    }
+  },
+  {
+    "id": "0802618024",
+    "code": "0802618024",
+    "name": "Barangay No. 6",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802618000",
+      "code": "0802618000",
+      "name": "Quinapondan"
+    }
+  },
+  {
+    "id": "0802618025",
+    "code": "0802618025",
+    "name": "Barangay No. 7",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802618000",
+      "code": "0802618000",
+      "name": "Quinapondan"
+    }
+  },
+  {
+    "id": "0802618008",
+    "code": "0802618008",
+    "name": "Buenavista",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802618000",
+      "code": "0802618000",
+      "name": "Quinapondan"
+    }
+  },
+  {
+    "id": "0802618009",
+    "code": "0802618009",
+    "name": "Caculangan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802618000",
+      "code": "0802618000",
+      "name": "Quinapondan"
+    }
+  },
+  {
+    "id": "0802618010",
+    "code": "0802618010",
+    "name": "Cagdaja",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802618000",
+      "code": "0802618000",
+      "name": "Quinapondan"
+    }
+  },
+  {
+    "id": "0802618011",
+    "code": "0802618011",
+    "name": "Cambilla",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802618000",
+      "code": "0802618000",
+      "name": "Quinapondan"
+    }
+  },
+  {
+    "id": "0802618012",
+    "code": "0802618012",
+    "name": "Cantenio",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802618000",
+      "code": "0802618000",
+      "name": "Quinapondan"
+    }
+  },
+  {
+    "id": "0802618014",
+    "code": "0802618014",
+    "name": "Naga",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802618000",
+      "code": "0802618000",
+      "name": "Quinapondan"
+    }
+  },
+  {
+    "id": "0802618015",
+    "code": "0802618015",
+    "name": "Paco",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802618000",
+      "code": "0802618000",
+      "name": "Quinapondan"
+    }
+  },
+  {
+    "id": "0802618022",
+    "code": "0802618022",
+    "name": "Palactad",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802618000",
+      "code": "0802618000",
+      "name": "Quinapondan"
+    }
+  },
+  {
+    "id": "0802618016",
+    "code": "0802618016",
+    "name": "Rizal",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802618000",
+      "code": "0802618000",
+      "name": "Quinapondan"
+    }
+  },
+  {
+    "id": "0802618026",
+    "code": "0802618026",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802618000",
+      "code": "0802618000",
+      "name": "Quinapondan"
+    }
+  },
+  {
+    "id": "0802618017",
+    "code": "0802618017",
+    "name": "San Pedro",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802618000",
+      "code": "0802618000",
+      "name": "Quinapondan"
+    }
+  },
+  {
+    "id": "0802618018",
+    "code": "0802618018",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802618000",
+      "code": "0802618000",
+      "name": "Quinapondan"
+    }
+  },
+  {
+    "id": "0802618019",
+    "code": "0802618019",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802618000",
+      "code": "0802618000",
+      "name": "Quinapondan"
+    }
+  },
+  {
+    "id": "0802618020",
+    "code": "0802618020",
+    "name": "Santa Margarita",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802618000",
+      "code": "0802618000",
+      "name": "Quinapondan"
+    }
+  },
+  {
+    "id": "0802618021",
+    "code": "0802618021",
+    "name": "Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802618000",
+      "code": "0802618000",
+      "name": "Quinapondan"
+    }
+  }
+]

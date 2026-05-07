@@ -1,0 +1,86 @@
+{
+  "generatedAt": "2026-05-07T10:04:16.065Z",
+  "packageName": "philippines-location-map-picker",
+  "packageVersion": "1.0.62",
+  "summary": {
+    "total": 10,
+    "passed": 10,
+    "failed": 0
+  },
+  "checks": [
+    {
+      "id": "no_runtime_dependencies",
+      "label": "No runtime npm dependencies",
+      "pass": true,
+      "message": "Package has no runtime npm dependency list.",
+      "details": {}
+    },
+    {
+      "id": "no_cdn_asset_dependency",
+      "label": "No CDN asset dependency",
+      "pass": true,
+      "message": "No known CDN asset URLs were found in package source, demo, docs, or package metadata.",
+      "details": {
+        "hits": []
+      }
+    },
+    {
+      "id": "offline_default_tiles",
+      "label": "Offline map tile default",
+      "pass": true,
+      "message": "Default map rendering does not call a remote tile server; hosts can explicitly provide local or remote tiles when wanted.",
+      "details": {}
+    },
+    {
+      "id": "static_mode_package_relative_data",
+      "label": "Static mode package-relative data",
+      "pass": true,
+      "message": "Demo static mode resolves data relative to the package so /assets/vendor/philippines-location-map-picker works.",
+      "details": {}
+    },
+    {
+      "id": "missing_static_failure_case",
+      "label": "Missing static files failure case",
+      "pass": true,
+      "message": "Demo includes an intentional missing-static-data scenario and visible provider load failure messaging.",
+      "details": {}
+    },
+    {
+      "id": "reverse_no_match_user_message",
+      "label": "Reverse-fill no-match message",
+      "pass": true,
+      "message": "Reverse-fill no-match tells the user the saved address was not changed and what to do next.",
+      "details": {}
+    },
+    {
+      "id": "modal_accessibility_guardrails",
+      "label": "Modal accessibility guardrails",
+      "pass": true,
+      "message": "Modal flow uses inert background handling and focus enforcement without aria-hidden on focused ancestors.",
+      "details": {}
+    },
+    {
+      "id": "no_inline_event_handlers",
+      "label": "No inline event handlers",
+      "pass": true,
+      "message": "No inline on* event handler attributes found in HTML/Markdown templates.",
+      "details": {
+        "hits": []
+      }
+    },
+    {
+      "id": "host_import_path_documented",
+      "label": "Host import path documented",
+      "pass": true,
+      "message": "README documents local vendor-path consumption and static provider usage.",
+      "details": {}
+    },
+    {
+      "id": "production_hardening_doc_exists",
+      "label": "Production hardening doc exists",
+      "pass": true,
+      "message": "docs/production-hardening.md is present.",
+      "details": {}
+    }
+  ]
+}

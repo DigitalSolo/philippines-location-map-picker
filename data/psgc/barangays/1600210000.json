@@ -1,0 +1,191 @@
+[
+  {
+    "id": "1600210002",
+    "code": "1600210002",
+    "name": "Curva",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600200000",
+      "code": "1600200000",
+      "name": "Agusan del Norte"
+    },
+    "city_municipality": {
+      "id": "1600210000",
+      "code": "1600210000",
+      "name": "Santiago"
+    }
+  },
+  {
+    "id": "1600210010",
+    "code": "1600210010",
+    "name": "Estanislao Morgado",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600200000",
+      "code": "1600200000",
+      "name": "Agusan del Norte"
+    },
+    "city_municipality": {
+      "id": "1600210000",
+      "code": "1600210000",
+      "name": "Santiago"
+    }
+  },
+  {
+    "id": "1600210003",
+    "code": "1600210003",
+    "name": "Jagupit",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600200000",
+      "code": "1600200000",
+      "name": "Agusan del Norte"
+    },
+    "city_municipality": {
+      "id": "1600210000",
+      "code": "1600210000",
+      "name": "Santiago"
+    }
+  },
+  {
+    "id": "1600210005",
+    "code": "1600210005",
+    "name": "La Paz",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600200000",
+      "code": "1600200000",
+      "name": "Agusan del Norte"
+    },
+    "city_municipality": {
+      "id": "1600210000",
+      "code": "1600210000",
+      "name": "Santiago"
+    }
+  },
+  {
+    "id": "1600210012",
+    "code": "1600210012",
+    "name": "Pangaylan-IP",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600200000",
+      "code": "1600200000",
+      "name": "Agusan del Norte"
+    },
+    "city_municipality": {
+      "id": "1600210000",
+      "code": "1600210000",
+      "name": "Santiago"
+    }
+  },
+  {
+    "id": "1600210007",
+    "code": "1600210007",
+    "name": "Poblacion I",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600200000",
+      "code": "1600200000",
+      "name": "Agusan del Norte"
+    },
+    "city_municipality": {
+      "id": "1600210000",
+      "code": "1600210000",
+      "name": "Santiago"
+    }
+  },
+  {
+    "id": "1600210011",
+    "code": "1600210011",
+    "name": "Poblacion II",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600200000",
+      "code": "1600200000",
+      "name": "Agusan del Norte"
+    },
+    "city_municipality": {
+      "id": "1600210000",
+      "code": "1600210000",
+      "name": "Santiago"
+    }
+  },
+  {
+    "id": "1600210008",
+    "code": "1600210008",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600200000",
+      "code": "1600200000",
+      "name": "Agusan del Norte"
+    },
+    "city_municipality": {
+      "id": "1600210000",
+      "code": "1600210000",
+      "name": "Santiago"
+    }
+  },
+  {
+    "id": "1600210009",
+    "code": "1600210009",
+    "name": "Tagbuyacan",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600200000",
+      "code": "1600200000",
+      "name": "Agusan del Norte"
+    },
+    "city_municipality": {
+      "id": "1600210000",
+      "code": "1600210000",
+      "name": "Santiago"
+    }
+  }
+]

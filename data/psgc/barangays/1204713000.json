@@ -1,0 +1,527 @@
+[
+  {
+    "id": "1204713001",
+    "code": "1204713001",
+    "name": "Alegria",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204713000",
+      "code": "1204713000",
+      "name": "President Roxas"
+    }
+  },
+  {
+    "id": "1204713002",
+    "code": "1204713002",
+    "name": "Bato-bato",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204713000",
+      "code": "1204713000",
+      "name": "President Roxas"
+    }
+  },
+  {
+    "id": "1204713031",
+    "code": "1204713031",
+    "name": "Cabangbangan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204713000",
+      "code": "1204713000",
+      "name": "President Roxas"
+    }
+  },
+  {
+    "id": "1204713009",
+    "code": "1204713009",
+    "name": "Camasi",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204713000",
+      "code": "1204713000",
+      "name": "President Roxas"
+    }
+  },
+  {
+    "id": "1204713032",
+    "code": "1204713032",
+    "name": "Datu Indang",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204713000",
+      "code": "1204713000",
+      "name": "President Roxas"
+    }
+  },
+  {
+    "id": "1204713033",
+    "code": "1204713033",
+    "name": "Datu Sandongan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204713000",
+      "code": "1204713000",
+      "name": "President Roxas"
+    }
+  },
+  {
+    "id": "1204713003",
+    "code": "1204713003",
+    "name": "Del Carmen",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204713000",
+      "code": "1204713000",
+      "name": "President Roxas"
+    }
+  },
+  {
+    "id": "1204713005",
+    "code": "1204713005",
+    "name": "F. Cajelo",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204713000",
+      "code": "1204713000",
+      "name": "President Roxas"
+    }
+  },
+  {
+    "id": "1204713030",
+    "code": "1204713030",
+    "name": "Greenhill",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204713000",
+      "code": "1204713000",
+      "name": "President Roxas"
+    }
+  },
+  {
+    "id": "1204713006",
+    "code": "1204713006",
+    "name": "Idaoman",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204713000",
+      "code": "1204713000",
+      "name": "President Roxas"
+    }
+  },
+  {
+    "id": "1204713007",
+    "code": "1204713007",
+    "name": "Ilustre",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204713000",
+      "code": "1204713000",
+      "name": "President Roxas"
+    }
+  },
+  {
+    "id": "1204713008",
+    "code": "1204713008",
+    "name": "Kamarahan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204713000",
+      "code": "1204713000",
+      "name": "President Roxas"
+    }
+  },
+  {
+    "id": "1204713034",
+    "code": "1204713034",
+    "name": "Kimaruhing",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204713000",
+      "code": "1204713000",
+      "name": "President Roxas"
+    }
+  },
+  {
+    "id": "1204713011",
+    "code": "1204713011",
+    "name": "Kisupaan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204713000",
+      "code": "1204713000",
+      "name": "President Roxas"
+    }
+  },
+  {
+    "id": "1204713012",
+    "code": "1204713012",
+    "name": "La Esperanza",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204713000",
+      "code": "1204713000",
+      "name": "President Roxas"
+    }
+  },
+  {
+    "id": "1204713013",
+    "code": "1204713013",
+    "name": "Labu-o",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204713000",
+      "code": "1204713000",
+      "name": "President Roxas"
+    }
+  },
+  {
+    "id": "1204713014",
+    "code": "1204713014",
+    "name": "Lamalama",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204713000",
+      "code": "1204713000",
+      "name": "President Roxas"
+    }
+  },
+  {
+    "id": "1204713016",
+    "code": "1204713016",
+    "name": "Lomonay",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204713000",
+      "code": "1204713000",
+      "name": "President Roxas"
+    }
+  },
+  {
+    "id": "1204713035",
+    "code": "1204713035",
+    "name": "Mabuhay",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204713000",
+      "code": "1204713000",
+      "name": "President Roxas"
+    }
+  },
+  {
+    "id": "1204713022",
+    "code": "1204713022",
+    "name": "New Cebu",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204713000",
+      "code": "1204713000",
+      "name": "President Roxas"
+    }
+  },
+  {
+    "id": "1204713024",
+    "code": "1204713024",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204713000",
+      "code": "1204713000",
+      "name": "President Roxas"
+    }
+  },
+  {
+    "id": "1204713026",
+    "code": "1204713026",
+    "name": "Sagcungan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204713000",
+      "code": "1204713000",
+      "name": "President Roxas"
+    }
+  },
+  {
+    "id": "1204713027",
+    "code": "1204713027",
+    "name": "Salat",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204713000",
+      "code": "1204713000",
+      "name": "President Roxas"
+    }
+  },
+  {
+    "id": "1204713028",
+    "code": "1204713028",
+    "name": "Sarayan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204713000",
+      "code": "1204713000",
+      "name": "President Roxas"
+    }
+  },
+  {
+    "id": "1204713029",
+    "code": "1204713029",
+    "name": "Tuael",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204713000",
+      "code": "1204713000",
+      "name": "President Roxas"
+    }
+  }
+]

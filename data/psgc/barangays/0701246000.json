@@ -1,0 +1,926 @@
+[
+  {
+    "id": "0701246001",
+    "code": "0701246001",
+    "name": "Achila",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701246000",
+      "code": "0701246000",
+      "name": "Ubay"
+    }
+  },
+  {
+    "id": "0701246002",
+    "code": "0701246002",
+    "name": "Bay-ang",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701246000",
+      "code": "0701246000",
+      "name": "Ubay"
+    }
+  },
+  {
+    "id": "0701246005",
+    "code": "0701246005",
+    "name": "Benliw",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701246000",
+      "code": "0701246000",
+      "name": "Ubay"
+    }
+  },
+  {
+    "id": "0701246004",
+    "code": "0701246004",
+    "name": "Biabas",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701246000",
+      "code": "0701246000",
+      "name": "Ubay"
+    }
+  },
+  {
+    "id": "0701246007",
+    "code": "0701246007",
+    "name": "Bongbong",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701246000",
+      "code": "0701246000",
+      "name": "Ubay"
+    }
+  },
+  {
+    "id": "0701246008",
+    "code": "0701246008",
+    "name": "Bood",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701246000",
+      "code": "0701246000",
+      "name": "Ubay"
+    }
+  },
+  {
+    "id": "0701246009",
+    "code": "0701246009",
+    "name": "Buenavista",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701246000",
+      "code": "0701246000",
+      "name": "Ubay"
+    }
+  },
+  {
+    "id": "0701246055",
+    "code": "0701246055",
+    "name": "Bulilis",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701246000",
+      "code": "0701246000",
+      "name": "Ubay"
+    }
+  },
+  {
+    "id": "0701246011",
+    "code": "0701246011",
+    "name": "Cagting",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701246000",
+      "code": "0701246000",
+      "name": "Ubay"
+    }
+  },
+  {
+    "id": "0701246027",
+    "code": "0701246027",
+    "name": "Calanggaman",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701246000",
+      "code": "0701246000",
+      "name": "Ubay"
+    }
+  },
+  {
+    "id": "0701246056",
+    "code": "0701246056",
+    "name": "California",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701246000",
+      "code": "0701246000",
+      "name": "Ubay"
+    }
+  },
+  {
+    "id": "0701246012",
+    "code": "0701246012",
+    "name": "Camali-an",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701246000",
+      "code": "0701246000",
+      "name": "Ubay"
+    }
+  },
+  {
+    "id": "0701246013",
+    "code": "0701246013",
+    "name": "Camambugan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701246000",
+      "code": "0701246000",
+      "name": "Ubay"
+    }
+  },
+  {
+    "id": "0701246015",
+    "code": "0701246015",
+    "name": "Casate",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701246000",
+      "code": "0701246000",
+      "name": "Ubay"
+    }
+  },
+  {
+    "id": "0701246017",
+    "code": "0701246017",
+    "name": "Cuya",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701246000",
+      "code": "0701246000",
+      "name": "Ubay"
+    }
+  },
+  {
+    "id": "0701246018",
+    "code": "0701246018",
+    "name": "Fatima",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701246000",
+      "code": "0701246000",
+      "name": "Ubay"
+    }
+  },
+  {
+    "id": "0701246019",
+    "code": "0701246019",
+    "name": "Gabi",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701246000",
+      "code": "0701246000",
+      "name": "Ubay"
+    }
+  },
+  {
+    "id": "0701246020",
+    "code": "0701246020",
+    "name": "Governor Boyles",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701246000",
+      "code": "0701246000",
+      "name": "Ubay"
+    }
+  },
+  {
+    "id": "0701246021",
+    "code": "0701246021",
+    "name": "Guintabo-an",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701246000",
+      "code": "0701246000",
+      "name": "Ubay"
+    }
+  },
+  {
+    "id": "0701246022",
+    "code": "0701246022",
+    "name": "Hambabauran",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701246000",
+      "code": "0701246000",
+      "name": "Ubay"
+    }
+  },
+  {
+    "id": "0701246023",
+    "code": "0701246023",
+    "name": "Humayhumay",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701246000",
+      "code": "0701246000",
+      "name": "Ubay"
+    }
+  },
+  {
+    "id": "0701246024",
+    "code": "0701246024",
+    "name": "Ilihan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701246000",
+      "code": "0701246000",
+      "name": "Ubay"
+    }
+  },
+  {
+    "id": "0701246025",
+    "code": "0701246025",
+    "name": "Imelda",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701246000",
+      "code": "0701246000",
+      "name": "Ubay"
+    }
+  },
+  {
+    "id": "0701246026",
+    "code": "0701246026",
+    "name": "Juagdan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701246000",
+      "code": "0701246000",
+      "name": "Ubay"
+    }
+  },
+  {
+    "id": "0701246016",
+    "code": "0701246016",
+    "name": "Katarungan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701246000",
+      "code": "0701246000",
+      "name": "Ubay"
+    }
+  },
+  {
+    "id": "0701246031",
+    "code": "0701246031",
+    "name": "Lomangog",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701246000",
+      "code": "0701246000",
+      "name": "Ubay"
+    }
+  },
+  {
+    "id": "0701246030",
+    "code": "0701246030",
+    "name": "Los Angeles",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701246000",
+      "code": "0701246000",
+      "name": "Ubay"
+    }
+  },
+  {
+    "id": "0701246032",
+    "code": "0701246032",
+    "name": "Pag-asa",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701246000",
+      "code": "0701246000",
+      "name": "Ubay"
+    }
+  },
+  {
+    "id": "0701246033",
+    "code": "0701246033",
+    "name": "Pangpang",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701246000",
+      "code": "0701246000",
+      "name": "Ubay"
+    }
+  },
+  {
+    "id": "0701246034",
+    "code": "0701246034",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701246000",
+      "code": "0701246000",
+      "name": "Ubay"
+    }
+  },
+  {
+    "id": "0701246037",
+    "code": "0701246037",
+    "name": "San Francisco",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701246000",
+      "code": "0701246000",
+      "name": "Ubay"
+    }
+  },
+  {
+    "id": "0701246038",
+    "code": "0701246038",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701246000",
+      "code": "0701246000",
+      "name": "Ubay"
+    }
+  },
+  {
+    "id": "0701246040",
+    "code": "0701246040",
+    "name": "San Pascual",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701246000",
+      "code": "0701246000",
+      "name": "Ubay"
+    }
+  },
+  {
+    "id": "0701246041",
+    "code": "0701246041",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701246000",
+      "code": "0701246000",
+      "name": "Ubay"
+    }
+  },
+  {
+    "id": "0701246043",
+    "code": "0701246043",
+    "name": "Sentinila",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701246000",
+      "code": "0701246000",
+      "name": "Ubay"
+    }
+  },
+  {
+    "id": "0701246044",
+    "code": "0701246044",
+    "name": "Sinandigan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701246000",
+      "code": "0701246000",
+      "name": "Ubay"
+    }
+  },
+  {
+    "id": "0701246045",
+    "code": "0701246045",
+    "name": "Tapal",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701246000",
+      "code": "0701246000",
+      "name": "Ubay"
+    }
+  },
+  {
+    "id": "0701246046",
+    "code": "0701246046",
+    "name": "Tapon",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701246000",
+      "code": "0701246000",
+      "name": "Ubay"
+    }
+  },
+  {
+    "id": "0701246047",
+    "code": "0701246047",
+    "name": "Tintinan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701246000",
+      "code": "0701246000",
+      "name": "Ubay"
+    }
+  },
+  {
+    "id": "0701246048",
+    "code": "0701246048",
+    "name": "Tipolo",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701246000",
+      "code": "0701246000",
+      "name": "Ubay"
+    }
+  },
+  {
+    "id": "0701246049",
+    "code": "0701246049",
+    "name": "Tubog",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701246000",
+      "code": "0701246000",
+      "name": "Ubay"
+    }
+  },
+  {
+    "id": "0701246050",
+    "code": "0701246050",
+    "name": "Tuboran",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701246000",
+      "code": "0701246000",
+      "name": "Ubay"
+    }
+  },
+  {
+    "id": "0701246052",
+    "code": "0701246052",
+    "name": "Union",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701246000",
+      "code": "0701246000",
+      "name": "Ubay"
+    }
+  },
+  {
+    "id": "0701246054",
+    "code": "0701246054",
+    "name": "Villa Teresita",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701246000",
+      "code": "0701246000",
+      "name": "Ubay"
+    }
+  }
+]

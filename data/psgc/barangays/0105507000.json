@@ -1,0 +1,422 @@
+[
+  {
+    "id": "0105507001",
+    "code": "0105507001",
+    "name": "Angayan Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105507000",
+      "code": "0105507000",
+      "name": "Balungao"
+    }
+  },
+  {
+    "id": "0105507002",
+    "code": "0105507002",
+    "name": "Angayan Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105507000",
+      "code": "0105507000",
+      "name": "Balungao"
+    }
+  },
+  {
+    "id": "0105507003",
+    "code": "0105507003",
+    "name": "Capulaan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105507000",
+      "code": "0105507000",
+      "name": "Balungao"
+    }
+  },
+  {
+    "id": "0105507004",
+    "code": "0105507004",
+    "name": "Esmeralda",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105507000",
+      "code": "0105507000",
+      "name": "Balungao"
+    }
+  },
+  {
+    "id": "0105507005",
+    "code": "0105507005",
+    "name": "Kita-kita",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105507000",
+      "code": "0105507000",
+      "name": "Balungao"
+    }
+  },
+  {
+    "id": "0105507006",
+    "code": "0105507006",
+    "name": "Mabini",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105507000",
+      "code": "0105507000",
+      "name": "Balungao"
+    }
+  },
+  {
+    "id": "0105507007",
+    "code": "0105507007",
+    "name": "Mauban",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105507000",
+      "code": "0105507000",
+      "name": "Balungao"
+    }
+  },
+  {
+    "id": "0105507008",
+    "code": "0105507008",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105507000",
+      "code": "0105507000",
+      "name": "Balungao"
+    }
+  },
+  {
+    "id": "0105507009",
+    "code": "0105507009",
+    "name": "Pugaro",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105507000",
+      "code": "0105507000",
+      "name": "Balungao"
+    }
+  },
+  {
+    "id": "0105507010",
+    "code": "0105507010",
+    "name": "Rajal",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105507000",
+      "code": "0105507000",
+      "name": "Balungao"
+    }
+  },
+  {
+    "id": "0105507011",
+    "code": "0105507011",
+    "name": "San Andres",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105507000",
+      "code": "0105507000",
+      "name": "Balungao"
+    }
+  },
+  {
+    "id": "0105507012",
+    "code": "0105507012",
+    "name": "San Aurelio 1st",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105507000",
+      "code": "0105507000",
+      "name": "Balungao"
+    }
+  },
+  {
+    "id": "0105507013",
+    "code": "0105507013",
+    "name": "San Aurelio 2nd",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105507000",
+      "code": "0105507000",
+      "name": "Balungao"
+    }
+  },
+  {
+    "id": "0105507014",
+    "code": "0105507014",
+    "name": "San Aurelio 3rd",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105507000",
+      "code": "0105507000",
+      "name": "Balungao"
+    }
+  },
+  {
+    "id": "0105507015",
+    "code": "0105507015",
+    "name": "San Joaquin",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105507000",
+      "code": "0105507000",
+      "name": "Balungao"
+    }
+  },
+  {
+    "id": "0105507016",
+    "code": "0105507016",
+    "name": "San Julian",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105507000",
+      "code": "0105507000",
+      "name": "Balungao"
+    }
+  },
+  {
+    "id": "0105507017",
+    "code": "0105507017",
+    "name": "San Leon",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105507000",
+      "code": "0105507000",
+      "name": "Balungao"
+    }
+  },
+  {
+    "id": "0105507018",
+    "code": "0105507018",
+    "name": "San Marcelino",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105507000",
+      "code": "0105507000",
+      "name": "Balungao"
+    }
+  },
+  {
+    "id": "0105507019",
+    "code": "0105507019",
+    "name": "San Miguel",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105507000",
+      "code": "0105507000",
+      "name": "Balungao"
+    }
+  },
+  {
+    "id": "0105507020",
+    "code": "0105507020",
+    "name": "San Raymundo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105507000",
+      "code": "0105507000",
+      "name": "Balungao"
+    }
+  }
+]

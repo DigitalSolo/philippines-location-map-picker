@@ -1,0 +1,254 @@
+[
+  {
+    "id": "1208006001",
+    "code": "1208006001",
+    "name": "Daan Suyan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208006000",
+      "code": "1208006000",
+      "name": "Malapatan"
+    }
+  },
+  {
+    "id": "1208006002",
+    "code": "1208006002",
+    "name": "Kihan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208006000",
+      "code": "1208006000",
+      "name": "Malapatan"
+    }
+  },
+  {
+    "id": "1208006003",
+    "code": "1208006003",
+    "name": "Kinam",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208006000",
+      "code": "1208006000",
+      "name": "Malapatan"
+    }
+  },
+  {
+    "id": "1208006004",
+    "code": "1208006004",
+    "name": "Libi",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208006000",
+      "code": "1208006000",
+      "name": "Malapatan"
+    }
+  },
+  {
+    "id": "1208006005",
+    "code": "1208006005",
+    "name": "Lun Masla",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208006000",
+      "code": "1208006000",
+      "name": "Malapatan"
+    }
+  },
+  {
+    "id": "1208006006",
+    "code": "1208006006",
+    "name": "Lun Padidu",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208006000",
+      "code": "1208006000",
+      "name": "Malapatan"
+    }
+  },
+  {
+    "id": "1208006007",
+    "code": "1208006007",
+    "name": "Patag",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208006000",
+      "code": "1208006000",
+      "name": "Malapatan"
+    }
+  },
+  {
+    "id": "1208006008",
+    "code": "1208006008",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208006000",
+      "code": "1208006000",
+      "name": "Malapatan"
+    }
+  },
+  {
+    "id": "1208006009",
+    "code": "1208006009",
+    "name": "Sapu Masla",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208006000",
+      "code": "1208006000",
+      "name": "Malapatan"
+    }
+  },
+  {
+    "id": "1208006010",
+    "code": "1208006010",
+    "name": "Sapu Padidu",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208006000",
+      "code": "1208006000",
+      "name": "Malapatan"
+    }
+  },
+  {
+    "id": "1208006011",
+    "code": "1208006011",
+    "name": "Tuyan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208006000",
+      "code": "1208006000",
+      "name": "Malapatan"
+    }
+  },
+  {
+    "id": "1208006012",
+    "code": "1208006012",
+    "name": "Upper Suyan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208006000",
+      "code": "1208006000",
+      "name": "Malapatan"
+    }
+  }
+]

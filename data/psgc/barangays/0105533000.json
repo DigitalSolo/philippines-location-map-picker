@@ -1,0 +1,716 @@
+[
+  {
+    "id": "0105533031",
+    "code": "0105533031",
+    "name": "Alacan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105533000",
+      "code": "0105533000",
+      "name": "San Fabian"
+    }
+  },
+  {
+    "id": "0105533001",
+    "code": "0105533001",
+    "name": "Ambalangan-Dalin",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105533000",
+      "code": "0105533000",
+      "name": "San Fabian"
+    }
+  },
+  {
+    "id": "0105533002",
+    "code": "0105533002",
+    "name": "Angio",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105533000",
+      "code": "0105533000",
+      "name": "San Fabian"
+    }
+  },
+  {
+    "id": "0105533003",
+    "code": "0105533003",
+    "name": "Anonang",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105533000",
+      "code": "0105533000",
+      "name": "San Fabian"
+    }
+  },
+  {
+    "id": "0105533004",
+    "code": "0105533004",
+    "name": "Aramal",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105533000",
+      "code": "0105533000",
+      "name": "San Fabian"
+    }
+  },
+  {
+    "id": "0105533006",
+    "code": "0105533006",
+    "name": "Bigbiga",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105533000",
+      "code": "0105533000",
+      "name": "San Fabian"
+    }
+  },
+  {
+    "id": "0105533007",
+    "code": "0105533007",
+    "name": "Binday",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105533000",
+      "code": "0105533000",
+      "name": "San Fabian"
+    }
+  },
+  {
+    "id": "0105533008",
+    "code": "0105533008",
+    "name": "Bolaoen",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105533000",
+      "code": "0105533000",
+      "name": "San Fabian"
+    }
+  },
+  {
+    "id": "0105533009",
+    "code": "0105533009",
+    "name": "Bolasi",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105533000",
+      "code": "0105533000",
+      "name": "San Fabian"
+    }
+  },
+  {
+    "id": "0105533032",
+    "code": "0105533032",
+    "name": "Cabaruan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105533000",
+      "code": "0105533000",
+      "name": "San Fabian"
+    }
+  },
+  {
+    "id": "0105533010",
+    "code": "0105533010",
+    "name": "Cayanga",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105533000",
+      "code": "0105533000",
+      "name": "San Fabian"
+    }
+  },
+  {
+    "id": "0105533028",
+    "code": "0105533028",
+    "name": "Colisao",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105533000",
+      "code": "0105533000",
+      "name": "San Fabian"
+    }
+  },
+  {
+    "id": "0105533011",
+    "code": "0105533011",
+    "name": "Gumot",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105533000",
+      "code": "0105533000",
+      "name": "San Fabian"
+    }
+  },
+  {
+    "id": "0105533012",
+    "code": "0105533012",
+    "name": "Inmalog",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105533000",
+      "code": "0105533000",
+      "name": "San Fabian"
+    }
+  },
+  {
+    "id": "0105533033",
+    "code": "0105533033",
+    "name": "Inmalog Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105533000",
+      "code": "0105533000",
+      "name": "San Fabian"
+    }
+  },
+  {
+    "id": "0105533013",
+    "code": "0105533013",
+    "name": "Lekep-Butao",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105533000",
+      "code": "0105533000",
+      "name": "San Fabian"
+    }
+  },
+  {
+    "id": "0105533027",
+    "code": "0105533027",
+    "name": "Lipit-Tomeeng",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105533000",
+      "code": "0105533000",
+      "name": "San Fabian"
+    }
+  },
+  {
+    "id": "0105533014",
+    "code": "0105533014",
+    "name": "Longos",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105533000",
+      "code": "0105533000",
+      "name": "San Fabian"
+    }
+  },
+  {
+    "id": "0105533035",
+    "code": "0105533035",
+    "name": "Longos Proper",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105533000",
+      "code": "0105533000",
+      "name": "San Fabian"
+    }
+  },
+  {
+    "id": "0105533034",
+    "code": "0105533034",
+    "name": "Longos-Amangonan-Parac-Parac Fabrica",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105533000",
+      "code": "0105533000",
+      "name": "San Fabian"
+    }
+  },
+  {
+    "id": "0105533015",
+    "code": "0105533015",
+    "name": "Mabilao",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105533000",
+      "code": "0105533000",
+      "name": "San Fabian"
+    }
+  },
+  {
+    "id": "0105533016",
+    "code": "0105533016",
+    "name": "Nibaliw Central",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105533000",
+      "code": "0105533000",
+      "name": "San Fabian"
+    }
+  },
+  {
+    "id": "0105533017",
+    "code": "0105533017",
+    "name": "Nibaliw East",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105533000",
+      "code": "0105533000",
+      "name": "San Fabian"
+    }
+  },
+  {
+    "id": "0105533018",
+    "code": "0105533018",
+    "name": "Nibaliw Magliba",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105533000",
+      "code": "0105533000",
+      "name": "San Fabian"
+    }
+  },
+  {
+    "id": "0105533029",
+    "code": "0105533029",
+    "name": "Nibaliw Narvarte",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105533000",
+      "code": "0105533000",
+      "name": "San Fabian"
+    }
+  },
+  {
+    "id": "0105533030",
+    "code": "0105533030",
+    "name": "Nibaliw Vidal",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105533000",
+      "code": "0105533000",
+      "name": "San Fabian"
+    }
+  },
+  {
+    "id": "0105533019",
+    "code": "0105533019",
+    "name": "Palapad",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105533000",
+      "code": "0105533000",
+      "name": "San Fabian"
+    }
+  },
+  {
+    "id": "0105533020",
+    "code": "0105533020",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105533000",
+      "code": "0105533000",
+      "name": "San Fabian"
+    }
+  },
+  {
+    "id": "0105533021",
+    "code": "0105533021",
+    "name": "Rabon",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105533000",
+      "code": "0105533000",
+      "name": "San Fabian"
+    }
+  },
+  {
+    "id": "0105533022",
+    "code": "0105533022",
+    "name": "Sagud-Bahley",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105533000",
+      "code": "0105533000",
+      "name": "San Fabian"
+    }
+  },
+  {
+    "id": "0105533023",
+    "code": "0105533023",
+    "name": "Sobol",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105533000",
+      "code": "0105533000",
+      "name": "San Fabian"
+    }
+  },
+  {
+    "id": "0105533024",
+    "code": "0105533024",
+    "name": "Tempra-Guilig",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105533000",
+      "code": "0105533000",
+      "name": "San Fabian"
+    }
+  },
+  {
+    "id": "0105533036",
+    "code": "0105533036",
+    "name": "Tiblong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105533000",
+      "code": "0105533000",
+      "name": "San Fabian"
+    }
+  },
+  {
+    "id": "0105533025",
+    "code": "0105533025",
+    "name": "Tocok",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105533000",
+      "code": "0105533000",
+      "name": "San Fabian"
+    }
+  }
+]

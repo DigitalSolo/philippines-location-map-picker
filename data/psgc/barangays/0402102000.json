@@ -1,0 +1,548 @@
+[
+  {
+    "id": "0402102001",
+    "code": "0402102001",
+    "name": "Banaybanay",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402102000",
+      "code": "0402102000",
+      "name": "Amadeo"
+    }
+  },
+  {
+    "id": "0402102011",
+    "code": "0402102011",
+    "name": "Barangay I",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402102000",
+      "code": "0402102000",
+      "name": "Amadeo"
+    }
+  },
+  {
+    "id": "0402102015",
+    "code": "0402102015",
+    "name": "Barangay II",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402102000",
+      "code": "0402102000",
+      "name": "Amadeo"
+    }
+  },
+  {
+    "id": "0402102016",
+    "code": "0402102016",
+    "name": "Barangay III",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402102000",
+      "code": "0402102000",
+      "name": "Amadeo"
+    }
+  },
+  {
+    "id": "0402102017",
+    "code": "0402102017",
+    "name": "Barangay IV",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402102000",
+      "code": "0402102000",
+      "name": "Amadeo"
+    }
+  },
+  {
+    "id": "0402102022",
+    "code": "0402102022",
+    "name": "Barangay IX",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402102000",
+      "code": "0402102000",
+      "name": "Amadeo"
+    }
+  },
+  {
+    "id": "0402102018",
+    "code": "0402102018",
+    "name": "Barangay V",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402102000",
+      "code": "0402102000",
+      "name": "Amadeo"
+    }
+  },
+  {
+    "id": "0402102019",
+    "code": "0402102019",
+    "name": "Barangay VI",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402102000",
+      "code": "0402102000",
+      "name": "Amadeo"
+    }
+  },
+  {
+    "id": "0402102020",
+    "code": "0402102020",
+    "name": "Barangay VII",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402102000",
+      "code": "0402102000",
+      "name": "Amadeo"
+    }
+  },
+  {
+    "id": "0402102021",
+    "code": "0402102021",
+    "name": "Barangay VIII",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402102000",
+      "code": "0402102000",
+      "name": "Amadeo"
+    }
+  },
+  {
+    "id": "0402102012",
+    "code": "0402102012",
+    "name": "Barangay X",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402102000",
+      "code": "0402102000",
+      "name": "Amadeo"
+    }
+  },
+  {
+    "id": "0402102013",
+    "code": "0402102013",
+    "name": "Barangay XI",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402102000",
+      "code": "0402102000",
+      "name": "Amadeo"
+    }
+  },
+  {
+    "id": "0402102014",
+    "code": "0402102014",
+    "name": "Barangay XII",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402102000",
+      "code": "0402102000",
+      "name": "Amadeo"
+    }
+  },
+  {
+    "id": "0402102002",
+    "code": "0402102002",
+    "name": "Bucal",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402102000",
+      "code": "0402102000",
+      "name": "Amadeo"
+    }
+  },
+  {
+    "id": "0402102026",
+    "code": "0402102026",
+    "name": "Buho",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402102000",
+      "code": "0402102000",
+      "name": "Amadeo"
+    }
+  },
+  {
+    "id": "0402102003",
+    "code": "0402102003",
+    "name": "Dagatan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402102000",
+      "code": "0402102000",
+      "name": "Amadeo"
+    }
+  },
+  {
+    "id": "0402102004",
+    "code": "0402102004",
+    "name": "Halang",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402102000",
+      "code": "0402102000",
+      "name": "Amadeo"
+    }
+  },
+  {
+    "id": "0402102005",
+    "code": "0402102005",
+    "name": "Loma",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402102000",
+      "code": "0402102000",
+      "name": "Amadeo"
+    }
+  },
+  {
+    "id": "0402102007",
+    "code": "0402102007",
+    "name": "Maitim I",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402102000",
+      "code": "0402102000",
+      "name": "Amadeo"
+    }
+  },
+  {
+    "id": "0402102008",
+    "code": "0402102008",
+    "name": "Maymangga",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402102000",
+      "code": "0402102000",
+      "name": "Amadeo"
+    }
+  },
+  {
+    "id": "0402102009",
+    "code": "0402102009",
+    "name": "Minantok Kanluran",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402102000",
+      "code": "0402102000",
+      "name": "Amadeo"
+    }
+  },
+  {
+    "id": "0402102027",
+    "code": "0402102027",
+    "name": "Minantok Silangan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402102000",
+      "code": "0402102000",
+      "name": "Amadeo"
+    }
+  },
+  {
+    "id": "0402102010",
+    "code": "0402102010",
+    "name": "Pangil",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402102000",
+      "code": "0402102000",
+      "name": "Amadeo"
+    }
+  },
+  {
+    "id": "0402102023",
+    "code": "0402102023",
+    "name": "Salaban",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402102000",
+      "code": "0402102000",
+      "name": "Amadeo"
+    }
+  },
+  {
+    "id": "0402102024",
+    "code": "0402102024",
+    "name": "Talon",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402102000",
+      "code": "0402102000",
+      "name": "Amadeo"
+    }
+  },
+  {
+    "id": "0402102025",
+    "code": "0402102025",
+    "name": "Tamacan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402102000",
+      "code": "0402102000",
+      "name": "Amadeo"
+    }
+  }
+]

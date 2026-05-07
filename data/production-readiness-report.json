@@ -1,0 +1,40 @@
+{
+  "generatedAt": "2026-05-07T13:17:22.242Z",
+  "geometryPolicy": "limited",
+  "summary": {
+    "productionHierarchyReady": true,
+    "productionReverseFillReady": false,
+    "psgcCounts": {
+      "regions": 18,
+      "provinceFiles": 17,
+      "provinces": 84,
+      "cityFiles": 98,
+      "cities": 1656,
+      "barangayFiles": 1655,
+      "barangays": 42010
+    },
+    "geoCounts": {
+      "boundsFiles": 5,
+      "boundsRows": 22,
+      "centroidFiles": 1,
+      "centroidRows": 13,
+      "barangayPolygonFiles": 16
+    },
+    "thresholds": {
+      "regions": 18,
+      "provinces": 82,
+      "citiesAndMunicipalities": 1642,
+      "barangays": 42010,
+      "barangayPolygons": 42010
+    },
+    "hardeningOk": true,
+    "hostApiOk": true
+  },
+  "commands": [],
+  "warnings": [
+    "Limited-geometry production mode: PSGC selection is production-valid; reverse-fill remains available only where geometry exists.",
+    "Limited-geometry production mode: 3 geometry row(s) do not match the production PSGC hierarchy and will be ignored by PSGC-authoritative address selection."
+  ],
+  "failures": [],
+  "ok": true
+}

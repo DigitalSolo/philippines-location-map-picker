@@ -1,0 +1,86 @@
+[
+  {
+    "id": "0102810001",
+    "code": "0102810001",
+    "name": "Cabaritan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102810000",
+      "code": "0102810000",
+      "name": "Dumalneg"
+    }
+  },
+  {
+    "id": "0102810003",
+    "code": "0102810003",
+    "name": "Kalaw",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102810000",
+      "code": "0102810000",
+      "name": "Dumalneg"
+    }
+  },
+  {
+    "id": "0102810004",
+    "code": "0102810004",
+    "name": "Quibel",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102810000",
+      "code": "0102810000",
+      "name": "Dumalneg"
+    }
+  },
+  {
+    "id": "0102810002",
+    "code": "0102810002",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102810000",
+      "code": "0102810000",
+      "name": "Dumalneg"
+    }
+  }
+]

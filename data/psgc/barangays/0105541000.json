@@ -1,0 +1,590 @@
+[
+  {
+    "id": "0105541001",
+    "code": "0105541001",
+    "name": "Agat",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105541000",
+      "code": "0105541000",
+      "name": "Sison"
+    }
+  },
+  {
+    "id": "0105541002",
+    "code": "0105541002",
+    "name": "Alibeng",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105541000",
+      "code": "0105541000",
+      "name": "Sison"
+    }
+  },
+  {
+    "id": "0105541003",
+    "code": "0105541003",
+    "name": "Amagbagan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105541000",
+      "code": "0105541000",
+      "name": "Sison"
+    }
+  },
+  {
+    "id": "0105541004",
+    "code": "0105541004",
+    "name": "Artacho",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105541000",
+      "code": "0105541000",
+      "name": "Sison"
+    }
+  },
+  {
+    "id": "0105541005",
+    "code": "0105541005",
+    "name": "Asan Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105541000",
+      "code": "0105541000",
+      "name": "Sison"
+    }
+  },
+  {
+    "id": "0105541006",
+    "code": "0105541006",
+    "name": "Asan Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105541000",
+      "code": "0105541000",
+      "name": "Sison"
+    }
+  },
+  {
+    "id": "0105541007",
+    "code": "0105541007",
+    "name": "Bantay Insik",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105541000",
+      "code": "0105541000",
+      "name": "Sison"
+    }
+  },
+  {
+    "id": "0105541008",
+    "code": "0105541008",
+    "name": "Bila",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105541000",
+      "code": "0105541000",
+      "name": "Sison"
+    }
+  },
+  {
+    "id": "0105541009",
+    "code": "0105541009",
+    "name": "Binmeckeg",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105541000",
+      "code": "0105541000",
+      "name": "Sison"
+    }
+  },
+  {
+    "id": "0105541010",
+    "code": "0105541010",
+    "name": "Bulaoen East",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105541000",
+      "code": "0105541000",
+      "name": "Sison"
+    }
+  },
+  {
+    "id": "0105541011",
+    "code": "0105541011",
+    "name": "Bulaoen West",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105541000",
+      "code": "0105541000",
+      "name": "Sison"
+    }
+  },
+  {
+    "id": "0105541012",
+    "code": "0105541012",
+    "name": "Cabaritan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105541000",
+      "code": "0105541000",
+      "name": "Sison"
+    }
+  },
+  {
+    "id": "0105541013",
+    "code": "0105541013",
+    "name": "Calunetan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105541000",
+      "code": "0105541000",
+      "name": "Sison"
+    }
+  },
+  {
+    "id": "0105541014",
+    "code": "0105541014",
+    "name": "Camangaan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105541000",
+      "code": "0105541000",
+      "name": "Sison"
+    }
+  },
+  {
+    "id": "0105541015",
+    "code": "0105541015",
+    "name": "Cauringan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105541000",
+      "code": "0105541000",
+      "name": "Sison"
+    }
+  },
+  {
+    "id": "0105541016",
+    "code": "0105541016",
+    "name": "Dungon",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105541000",
+      "code": "0105541000",
+      "name": "Sison"
+    }
+  },
+  {
+    "id": "0105541017",
+    "code": "0105541017",
+    "name": "Esperanza",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105541000",
+      "code": "0105541000",
+      "name": "Sison"
+    }
+  },
+  {
+    "id": "0105541028",
+    "code": "0105541028",
+    "name": "Inmalog",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105541000",
+      "code": "0105541000",
+      "name": "Sison"
+    }
+  },
+  {
+    "id": "0105541018",
+    "code": "0105541018",
+    "name": "Killo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105541000",
+      "code": "0105541000",
+      "name": "Sison"
+    }
+  },
+  {
+    "id": "0105541019",
+    "code": "0105541019",
+    "name": "Labayug",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105541000",
+      "code": "0105541000",
+      "name": "Sison"
+    }
+  },
+  {
+    "id": "0105541021",
+    "code": "0105541021",
+    "name": "Paldit",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105541000",
+      "code": "0105541000",
+      "name": "Sison"
+    }
+  },
+  {
+    "id": "0105541022",
+    "code": "0105541022",
+    "name": "Pindangan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105541000",
+      "code": "0105541000",
+      "name": "Sison"
+    }
+  },
+  {
+    "id": "0105541023",
+    "code": "0105541023",
+    "name": "Pinmilapil",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105541000",
+      "code": "0105541000",
+      "name": "Sison"
+    }
+  },
+  {
+    "id": "0105541024",
+    "code": "0105541024",
+    "name": "Poblacion Central",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105541000",
+      "code": "0105541000",
+      "name": "Sison"
+    }
+  },
+  {
+    "id": "0105541025",
+    "code": "0105541025",
+    "name": "Poblacion Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105541000",
+      "code": "0105541000",
+      "name": "Sison"
+    }
+  },
+  {
+    "id": "0105541026",
+    "code": "0105541026",
+    "name": "Poblacion Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105541000",
+      "code": "0105541000",
+      "name": "Sison"
+    }
+  },
+  {
+    "id": "0105541027",
+    "code": "0105541027",
+    "name": "Sagunto",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105541000",
+      "code": "0105541000",
+      "name": "Sison"
+    }
+  },
+  {
+    "id": "0105541029",
+    "code": "0105541029",
+    "name": "Tara-tara",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105541000",
+      "code": "0105541000",
+      "name": "Sison"
+    }
+  }
+]

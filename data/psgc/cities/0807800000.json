@@ -1,0 +1,130 @@
+[
+  {
+    "id": "0807801000",
+    "code": "0807801000",
+    "name": "Almeria",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    }
+  },
+  {
+    "id": "0807802000",
+    "code": "0807802000",
+    "name": "Biliran",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    }
+  },
+  {
+    "id": "0807803000",
+    "code": "0807803000",
+    "name": "Cabucgayan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    }
+  },
+  {
+    "id": "0807804000",
+    "code": "0807804000",
+    "name": "Caibiran",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    }
+  },
+  {
+    "id": "0807805000",
+    "code": "0807805000",
+    "name": "Culaba",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    }
+  },
+  {
+    "id": "0807806000",
+    "code": "0807806000",
+    "name": "Kawayan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    }
+  },
+  {
+    "id": "0807807000",
+    "code": "0807807000",
+    "name": "Maripipi",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    }
+  },
+  {
+    "id": "0807808000",
+    "code": "0807808000",
+    "name": "Naval",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    }
+  }
+]

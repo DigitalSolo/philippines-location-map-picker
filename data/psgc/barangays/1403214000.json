@@ -1,0 +1,338 @@
+[
+  {
+    "id": "1403214001",
+    "code": "1403214001",
+    "name": "Anggacan",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    },
+    "city_municipality": {
+      "id": "1403214000",
+      "code": "1403214000",
+      "name": "Tanudan"
+    }
+  },
+  {
+    "id": "1403214014",
+    "code": "1403214014",
+    "name": "Anggacan Sur",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    },
+    "city_municipality": {
+      "id": "1403214000",
+      "code": "1403214000",
+      "name": "Tanudan"
+    }
+  },
+  {
+    "id": "1403214002",
+    "code": "1403214002",
+    "name": "Babbanoy",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    },
+    "city_municipality": {
+      "id": "1403214000",
+      "code": "1403214000",
+      "name": "Tanudan"
+    }
+  },
+  {
+    "id": "1403214003",
+    "code": "1403214003",
+    "name": "Dacalan",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    },
+    "city_municipality": {
+      "id": "1403214000",
+      "code": "1403214000",
+      "name": "Tanudan"
+    }
+  },
+  {
+    "id": "1403214015",
+    "code": "1403214015",
+    "name": "Dupligan",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    },
+    "city_municipality": {
+      "id": "1403214000",
+      "code": "1403214000",
+      "name": "Tanudan"
+    }
+  },
+  {
+    "id": "1403214004",
+    "code": "1403214004",
+    "name": "Gaang",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    },
+    "city_municipality": {
+      "id": "1403214000",
+      "code": "1403214000",
+      "name": "Tanudan"
+    }
+  },
+  {
+    "id": "1403214016",
+    "code": "1403214016",
+    "name": "Lay-asan",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    },
+    "city_municipality": {
+      "id": "1403214000",
+      "code": "1403214000",
+      "name": "Tanudan"
+    }
+  },
+  {
+    "id": "1403214007",
+    "code": "1403214007",
+    "name": "Lower Lubo",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    },
+    "city_municipality": {
+      "id": "1403214000",
+      "code": "1403214000",
+      "name": "Tanudan"
+    }
+  },
+  {
+    "id": "1403214005",
+    "code": "1403214005",
+    "name": "Lower Mangali",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    },
+    "city_municipality": {
+      "id": "1403214000",
+      "code": "1403214000",
+      "name": "Tanudan"
+    }
+  },
+  {
+    "id": "1403214006",
+    "code": "1403214006",
+    "name": "Lower Taloctoc",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    },
+    "city_municipality": {
+      "id": "1403214000",
+      "code": "1403214000",
+      "name": "Tanudan"
+    }
+  },
+  {
+    "id": "1403214009",
+    "code": "1403214009",
+    "name": "Mabaca",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    },
+    "city_municipality": {
+      "id": "1403214000",
+      "code": "1403214000",
+      "name": "Tanudan"
+    }
+  },
+  {
+    "id": "1403214017",
+    "code": "1403214017",
+    "name": "Mangali Centro",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    },
+    "city_municipality": {
+      "id": "1403214000",
+      "code": "1403214000",
+      "name": "Tanudan"
+    }
+  },
+  {
+    "id": "1403214010",
+    "code": "1403214010",
+    "name": "Pangol",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    },
+    "city_municipality": {
+      "id": "1403214000",
+      "code": "1403214000",
+      "name": "Tanudan"
+    }
+  },
+  {
+    "id": "1403214011",
+    "code": "1403214011",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    },
+    "city_municipality": {
+      "id": "1403214000",
+      "code": "1403214000",
+      "name": "Tanudan"
+    }
+  },
+  {
+    "id": "1403214008",
+    "code": "1403214008",
+    "name": "Upper Lubo",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    },
+    "city_municipality": {
+      "id": "1403214000",
+      "code": "1403214000",
+      "name": "Tanudan"
+    }
+  },
+  {
+    "id": "1403214013",
+    "code": "1403214013",
+    "name": "Upper Taloctoc",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    },
+    "city_municipality": {
+      "id": "1403214000",
+      "code": "1403214000",
+      "name": "Tanudan"
+    }
+  }
+]

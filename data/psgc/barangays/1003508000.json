@@ -1,0 +1,548 @@
+[
+  {
+    "id": "1003508001",
+    "code": "1003508001",
+    "name": "Austin Heights",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003508000",
+      "code": "1003508000",
+      "name": "Kolambugan"
+    }
+  },
+  {
+    "id": "1003508002",
+    "code": "1003508002",
+    "name": "Baybay",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003508000",
+      "code": "1003508000",
+      "name": "Kolambugan"
+    }
+  },
+  {
+    "id": "1003508004",
+    "code": "1003508004",
+    "name": "Bubong",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003508000",
+      "code": "1003508000",
+      "name": "Kolambugan"
+    }
+  },
+  {
+    "id": "1003508005",
+    "code": "1003508005",
+    "name": "Caromatan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003508000",
+      "code": "1003508000",
+      "name": "Kolambugan"
+    }
+  },
+  {
+    "id": "1003508006",
+    "code": "1003508006",
+    "name": "Inudaran",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003508000",
+      "code": "1003508000",
+      "name": "Kolambugan"
+    }
+  },
+  {
+    "id": "1003508007",
+    "code": "1003508007",
+    "name": "Kulasihan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003508000",
+      "code": "1003508000",
+      "name": "Kolambugan"
+    }
+  },
+  {
+    "id": "1003508009",
+    "code": "1003508009",
+    "name": "Libertad",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003508000",
+      "code": "1003508000",
+      "name": "Kolambugan"
+    }
+  },
+  {
+    "id": "1003508010",
+    "code": "1003508010",
+    "name": "Lumbac",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003508000",
+      "code": "1003508000",
+      "name": "Kolambugan"
+    }
+  },
+  {
+    "id": "1003508011",
+    "code": "1003508011",
+    "name": "Manga",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003508000",
+      "code": "1003508000",
+      "name": "Kolambugan"
+    }
+  },
+  {
+    "id": "1003508012",
+    "code": "1003508012",
+    "name": "Matampay",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003508000",
+      "code": "1003508000",
+      "name": "Kolambugan"
+    }
+  },
+  {
+    "id": "1003508013",
+    "code": "1003508013",
+    "name": "Mukas",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003508000",
+      "code": "1003508000",
+      "name": "Kolambugan"
+    }
+  },
+  {
+    "id": "1003508014",
+    "code": "1003508014",
+    "name": "Muntay",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003508000",
+      "code": "1003508000",
+      "name": "Kolambugan"
+    }
+  },
+  {
+    "id": "1003508016",
+    "code": "1003508016",
+    "name": "Pagalungan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003508000",
+      "code": "1003508000",
+      "name": "Kolambugan"
+    }
+  },
+  {
+    "id": "1003508017",
+    "code": "1003508017",
+    "name": "Palao",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003508000",
+      "code": "1003508000",
+      "name": "Kolambugan"
+    }
+  },
+  {
+    "id": "1003508018",
+    "code": "1003508018",
+    "name": "Pantaon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003508000",
+      "code": "1003508000",
+      "name": "Kolambugan"
+    }
+  },
+  {
+    "id": "1003508019",
+    "code": "1003508019",
+    "name": "Pantar",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003508000",
+      "code": "1003508000",
+      "name": "Kolambugan"
+    }
+  },
+  {
+    "id": "1003508020",
+    "code": "1003508020",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003508000",
+      "code": "1003508000",
+      "name": "Kolambugan"
+    }
+  },
+  {
+    "id": "1003508021",
+    "code": "1003508021",
+    "name": "Rebucon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003508000",
+      "code": "1003508000",
+      "name": "Kolambugan"
+    }
+  },
+  {
+    "id": "1003508022",
+    "code": "1003508022",
+    "name": "Riverside",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003508000",
+      "code": "1003508000",
+      "name": "Kolambugan"
+    }
+  },
+  {
+    "id": "1003508023",
+    "code": "1003508023",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003508000",
+      "code": "1003508000",
+      "name": "Kolambugan"
+    }
+  },
+  {
+    "id": "1003508024",
+    "code": "1003508024",
+    "name": "Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003508000",
+      "code": "1003508000",
+      "name": "Kolambugan"
+    }
+  },
+  {
+    "id": "1003508025",
+    "code": "1003508025",
+    "name": "Simbuco",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003508000",
+      "code": "1003508000",
+      "name": "Kolambugan"
+    }
+  },
+  {
+    "id": "1003508026",
+    "code": "1003508026",
+    "name": "Small Banisilan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003508000",
+      "code": "1003508000",
+      "name": "Kolambugan"
+    }
+  },
+  {
+    "id": "1003508027",
+    "code": "1003508027",
+    "name": "Sucodan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003508000",
+      "code": "1003508000",
+      "name": "Kolambugan"
+    }
+  },
+  {
+    "id": "1003508028",
+    "code": "1003508028",
+    "name": "Tabigue",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003508000",
+      "code": "1003508000",
+      "name": "Kolambugan"
+    }
+  },
+  {
+    "id": "1003508029",
+    "code": "1003508029",
+    "name": "Titunod",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003508000",
+      "code": "1003508000",
+      "name": "Kolambugan"
+    }
+  }
+]

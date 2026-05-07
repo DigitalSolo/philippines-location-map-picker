@@ -1,0 +1,130 @@
+[
+  {
+    "id": "1403201000",
+    "code": "1403201000",
+    "name": "Balbalan",
+    "type": "city_municipality",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    }
+  },
+  {
+    "id": "1403213000",
+    "code": "1403213000",
+    "name": "City of Tabuk",
+    "type": "city_municipality",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    }
+  },
+  {
+    "id": "1403206000",
+    "code": "1403206000",
+    "name": "Lubuagan",
+    "type": "city_municipality",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    }
+  },
+  {
+    "id": "1403208000",
+    "code": "1403208000",
+    "name": "Pasil",
+    "type": "city_municipality",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    }
+  },
+  {
+    "id": "1403209000",
+    "code": "1403209000",
+    "name": "Pinukpuk",
+    "type": "city_municipality",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    }
+  },
+  {
+    "id": "1403211000",
+    "code": "1403211000",
+    "name": "Rizal",
+    "type": "city_municipality",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    }
+  },
+  {
+    "id": "1403214000",
+    "code": "1403214000",
+    "name": "Tanudan",
+    "type": "city_municipality",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    }
+  },
+  {
+    "id": "1403215000",
+    "code": "1403215000",
+    "name": "Tinglayan",
+    "type": "city_municipality",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    }
+  }
+]

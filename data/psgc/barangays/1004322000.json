@@ -1,0 +1,380 @@
+[
+  {
+    "id": "1004322001",
+    "code": "1004322001",
+    "name": "Alipuaton",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004322000",
+      "code": "1004322000",
+      "name": "Salay"
+    }
+  },
+  {
+    "id": "1004322002",
+    "code": "1004322002",
+    "name": "Ampenican",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004322000",
+      "code": "1004322000",
+      "name": "Salay"
+    }
+  },
+  {
+    "id": "1004322003",
+    "code": "1004322003",
+    "name": "Bunal",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004322000",
+      "code": "1004322000",
+      "name": "Salay"
+    }
+  },
+  {
+    "id": "1004322019",
+    "code": "1004322019",
+    "name": "Casulog",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004322000",
+      "code": "1004322000",
+      "name": "Salay"
+    }
+  },
+  {
+    "id": "1004322004",
+    "code": "1004322004",
+    "name": "Dinagsaan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004322000",
+      "code": "1004322000",
+      "name": "Salay"
+    }
+  },
+  {
+    "id": "1004322005",
+    "code": "1004322005",
+    "name": "Guinalaban",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004322000",
+      "code": "1004322000",
+      "name": "Salay"
+    }
+  },
+  {
+    "id": "1004322006",
+    "code": "1004322006",
+    "name": "Ili-ilihon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004322000",
+      "code": "1004322000",
+      "name": "Salay"
+    }
+  },
+  {
+    "id": "1004322007",
+    "code": "1004322007",
+    "name": "Inobulan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004322000",
+      "code": "1004322000",
+      "name": "Salay"
+    }
+  },
+  {
+    "id": "1004322008",
+    "code": "1004322008",
+    "name": "Looc",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004322000",
+      "code": "1004322000",
+      "name": "Salay"
+    }
+  },
+  {
+    "id": "1004322009",
+    "code": "1004322009",
+    "name": "Matampa",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004322000",
+      "code": "1004322000",
+      "name": "Salay"
+    }
+  },
+  {
+    "id": "1004322010",
+    "code": "1004322010",
+    "name": "Membuli",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004322000",
+      "code": "1004322000",
+      "name": "Salay"
+    }
+  },
+  {
+    "id": "1004322011",
+    "code": "1004322011",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004322000",
+      "code": "1004322000",
+      "name": "Salay"
+    }
+  },
+  {
+    "id": "1004322012",
+    "code": "1004322012",
+    "name": "Salagsag",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004322000",
+      "code": "1004322000",
+      "name": "Salay"
+    }
+  },
+  {
+    "id": "1004322014",
+    "code": "1004322014",
+    "name": "Salay River I",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004322000",
+      "code": "1004322000",
+      "name": "Salay"
+    }
+  },
+  {
+    "id": "1004322015",
+    "code": "1004322015",
+    "name": "Salay River II",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004322000",
+      "code": "1004322000",
+      "name": "Salay"
+    }
+  },
+  {
+    "id": "1004322016",
+    "code": "1004322016",
+    "name": "Saray",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004322000",
+      "code": "1004322000",
+      "name": "Salay"
+    }
+  },
+  {
+    "id": "1004322017",
+    "code": "1004322017",
+    "name": "Tinagaan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004322000",
+      "code": "1004322000",
+      "name": "Salay"
+    }
+  },
+  {
+    "id": "1004322018",
+    "code": "1004322018",
+    "name": "Yungod",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004322000",
+      "code": "1004322000",
+      "name": "Salay"
+    }
+  }
+]

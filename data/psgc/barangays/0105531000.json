@@ -1,0 +1,779 @@
+[
+  {
+    "id": "0105531001",
+    "code": "0105531001",
+    "name": "Acop",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105531000",
+      "code": "0105531000",
+      "name": "Rosales"
+    }
+  },
+  {
+    "id": "0105531002",
+    "code": "0105531002",
+    "name": "Bakit-Bakit",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105531000",
+      "code": "0105531000",
+      "name": "Rosales"
+    }
+  },
+  {
+    "id": "0105531003",
+    "code": "0105531003",
+    "name": "Balingcanaway",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105531000",
+      "code": "0105531000",
+      "name": "Rosales"
+    }
+  },
+  {
+    "id": "0105531004",
+    "code": "0105531004",
+    "name": "Cabalaoangan Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105531000",
+      "code": "0105531000",
+      "name": "Rosales"
+    }
+  },
+  {
+    "id": "0105531005",
+    "code": "0105531005",
+    "name": "Cabalaoangan Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105531000",
+      "code": "0105531000",
+      "name": "Rosales"
+    }
+  },
+  {
+    "id": "0105531014",
+    "code": "0105531014",
+    "name": "Calanutan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105531000",
+      "code": "0105531000",
+      "name": "Rosales"
+    }
+  },
+  {
+    "id": "0105531006",
+    "code": "0105531006",
+    "name": "Camangaan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105531000",
+      "code": "0105531000",
+      "name": "Rosales"
+    }
+  },
+  {
+    "id": "0105531007",
+    "code": "0105531007",
+    "name": "Capitan Tomas",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105531000",
+      "code": "0105531000",
+      "name": "Rosales"
+    }
+  },
+  {
+    "id": "0105531035",
+    "code": "0105531035",
+    "name": "Carmay East",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105531000",
+      "code": "0105531000",
+      "name": "Rosales"
+    }
+  },
+  {
+    "id": "0105531008",
+    "code": "0105531008",
+    "name": "Carmay West",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105531000",
+      "code": "0105531000",
+      "name": "Rosales"
+    }
+  },
+  {
+    "id": "0105531009",
+    "code": "0105531009",
+    "name": "Carmen East",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105531000",
+      "code": "0105531000",
+      "name": "Rosales"
+    }
+  },
+  {
+    "id": "0105531010",
+    "code": "0105531010",
+    "name": "Carmen West",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105531000",
+      "code": "0105531000",
+      "name": "Rosales"
+    }
+  },
+  {
+    "id": "0105531012",
+    "code": "0105531012",
+    "name": "Casanicolasan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105531000",
+      "code": "0105531000",
+      "name": "Rosales"
+    }
+  },
+  {
+    "id": "0105531013",
+    "code": "0105531013",
+    "name": "Coliling",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105531000",
+      "code": "0105531000",
+      "name": "Rosales"
+    }
+  },
+  {
+    "id": "0105531036",
+    "code": "0105531036",
+    "name": "Don Antonio Village",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105531000",
+      "code": "0105531000",
+      "name": "Rosales"
+    }
+  },
+  {
+    "id": "0105531015",
+    "code": "0105531015",
+    "name": "Guiling",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105531000",
+      "code": "0105531000",
+      "name": "Rosales"
+    }
+  },
+  {
+    "id": "0105531016",
+    "code": "0105531016",
+    "name": "Palakipak",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105531000",
+      "code": "0105531000",
+      "name": "Rosales"
+    }
+  },
+  {
+    "id": "0105531017",
+    "code": "0105531017",
+    "name": "Pangaoan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105531000",
+      "code": "0105531000",
+      "name": "Rosales"
+    }
+  },
+  {
+    "id": "0105531018",
+    "code": "0105531018",
+    "name": "Rabago",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105531000",
+      "code": "0105531000",
+      "name": "Rosales"
+    }
+  },
+  {
+    "id": "0105531019",
+    "code": "0105531019",
+    "name": "Rizal",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105531000",
+      "code": "0105531000",
+      "name": "Rosales"
+    }
+  },
+  {
+    "id": "0105531020",
+    "code": "0105531020",
+    "name": "Salvacion",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105531000",
+      "code": "0105531000",
+      "name": "Rosales"
+    }
+  },
+  {
+    "id": "0105531028",
+    "code": "0105531028",
+    "name": "San Angel",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105531000",
+      "code": "0105531000",
+      "name": "Rosales"
+    }
+  },
+  {
+    "id": "0105531021",
+    "code": "0105531021",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105531000",
+      "code": "0105531000",
+      "name": "Rosales"
+    }
+  },
+  {
+    "id": "0105531022",
+    "code": "0105531022",
+    "name": "San Bartolome",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105531000",
+      "code": "0105531000",
+      "name": "Rosales"
+    }
+  },
+  {
+    "id": "0105531023",
+    "code": "0105531023",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105531000",
+      "code": "0105531000",
+      "name": "Rosales"
+    }
+  },
+  {
+    "id": "0105531024",
+    "code": "0105531024",
+    "name": "San Luis",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105531000",
+      "code": "0105531000",
+      "name": "Rosales"
+    }
+  },
+  {
+    "id": "0105531025",
+    "code": "0105531025",
+    "name": "San Pedro East",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105531000",
+      "code": "0105531000",
+      "name": "Rosales"
+    }
+  },
+  {
+    "id": "0105531026",
+    "code": "0105531026",
+    "name": "San Pedro West",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105531000",
+      "code": "0105531000",
+      "name": "Rosales"
+    }
+  },
+  {
+    "id": "0105531027",
+    "code": "0105531027",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105531000",
+      "code": "0105531000",
+      "name": "Rosales"
+    }
+  },
+  {
+    "id": "0105531029",
+    "code": "0105531029",
+    "name": "Station District",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105531000",
+      "code": "0105531000",
+      "name": "Rosales"
+    }
+  },
+  {
+    "id": "0105531031",
+    "code": "0105531031",
+    "name": "Tomana East",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105531000",
+      "code": "0105531000",
+      "name": "Rosales"
+    }
+  },
+  {
+    "id": "0105531032",
+    "code": "0105531032",
+    "name": "Tomana West",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105531000",
+      "code": "0105531000",
+      "name": "Rosales"
+    }
+  },
+  {
+    "id": "0105531033",
+    "code": "0105531033",
+    "name": "Zone I",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105531000",
+      "code": "0105531000",
+      "name": "Rosales"
+    }
+  },
+  {
+    "id": "0105531037",
+    "code": "0105531037",
+    "name": "Zone II",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105531000",
+      "code": "0105531000",
+      "name": "Rosales"
+    }
+  },
+  {
+    "id": "0105531038",
+    "code": "0105531038",
+    "name": "Zone III",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105531000",
+      "code": "0105531000",
+      "name": "Rosales"
+    }
+  },
+  {
+    "id": "0105531034",
+    "code": "0105531034",
+    "name": "Zone IV",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105531000",
+      "code": "0105531000",
+      "name": "Rosales"
+    }
+  },
+  {
+    "id": "0105531039",
+    "code": "0105531039",
+    "name": "Zone V",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105531000",
+      "code": "0105531000",
+      "name": "Rosales"
+    }
+  }
+]

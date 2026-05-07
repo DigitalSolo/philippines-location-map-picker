@@ -1,0 +1,24 @@
+[
+  {
+    "id": "0330100000",
+    "code": "0330100000",
+    "name": "City of Angeles",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    }
+  },
+  {
+    "id": "0331400000",
+    "code": "0331400000",
+    "name": "City of Olongapo",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    }
+  }
+]

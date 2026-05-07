@@ -1,0 +1,716 @@
+[
+  {
+    "id": "0105546001",
+    "code": "0105546001",
+    "name": "Anonas",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105546000",
+      "code": "0105546000",
+      "name": "City of Urdaneta"
+    }
+  },
+  {
+    "id": "0105546003",
+    "code": "0105546003",
+    "name": "Bactad East",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105546000",
+      "code": "0105546000",
+      "name": "City of Urdaneta"
+    }
+  },
+  {
+    "id": "0105546005",
+    "code": "0105546005",
+    "name": "Bayaoas",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105546000",
+      "code": "0105546000",
+      "name": "City of Urdaneta"
+    }
+  },
+  {
+    "id": "0105546007",
+    "code": "0105546007",
+    "name": "Bolaoen",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105546000",
+      "code": "0105546000",
+      "name": "City of Urdaneta"
+    }
+  },
+  {
+    "id": "0105546008",
+    "code": "0105546008",
+    "name": "Cabaruan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105546000",
+      "code": "0105546000",
+      "name": "City of Urdaneta"
+    }
+  },
+  {
+    "id": "0105546009",
+    "code": "0105546009",
+    "name": "Cabuloan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105546000",
+      "code": "0105546000",
+      "name": "City of Urdaneta"
+    }
+  },
+  {
+    "id": "0105546011",
+    "code": "0105546011",
+    "name": "Camanang",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105546000",
+      "code": "0105546000",
+      "name": "City of Urdaneta"
+    }
+  },
+  {
+    "id": "0105546012",
+    "code": "0105546012",
+    "name": "Camantiles",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105546000",
+      "code": "0105546000",
+      "name": "City of Urdaneta"
+    }
+  },
+  {
+    "id": "0105546014",
+    "code": "0105546014",
+    "name": "Casantaan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105546000",
+      "code": "0105546000",
+      "name": "City of Urdaneta"
+    }
+  },
+  {
+    "id": "0105546015",
+    "code": "0105546015",
+    "name": "Catablan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105546000",
+      "code": "0105546000",
+      "name": "City of Urdaneta"
+    }
+  },
+  {
+    "id": "0105546016",
+    "code": "0105546016",
+    "name": "Cayambanan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105546000",
+      "code": "0105546000",
+      "name": "City of Urdaneta"
+    }
+  },
+  {
+    "id": "0105546017",
+    "code": "0105546017",
+    "name": "Consolacion",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105546000",
+      "code": "0105546000",
+      "name": "City of Urdaneta"
+    }
+  },
+  {
+    "id": "0105546018",
+    "code": "0105546018",
+    "name": "Dilan Paurido",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105546000",
+      "code": "0105546000",
+      "name": "City of Urdaneta"
+    }
+  },
+  {
+    "id": "0105546004",
+    "code": "0105546004",
+    "name": "Dr. Pedro T. Orata",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105546000",
+      "code": "0105546000",
+      "name": "City of Urdaneta"
+    }
+  },
+  {
+    "id": "0105546019",
+    "code": "0105546019",
+    "name": "Labit Proper",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105546000",
+      "code": "0105546000",
+      "name": "City of Urdaneta"
+    }
+  },
+  {
+    "id": "0105546020",
+    "code": "0105546020",
+    "name": "Labit West",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105546000",
+      "code": "0105546000",
+      "name": "City of Urdaneta"
+    }
+  },
+  {
+    "id": "0105546022",
+    "code": "0105546022",
+    "name": "Mabanogbog",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105546000",
+      "code": "0105546000",
+      "name": "City of Urdaneta"
+    }
+  },
+  {
+    "id": "0105546023",
+    "code": "0105546023",
+    "name": "Macalong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105546000",
+      "code": "0105546000",
+      "name": "City of Urdaneta"
+    }
+  },
+  {
+    "id": "0105546024",
+    "code": "0105546024",
+    "name": "Nancalobasaan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105546000",
+      "code": "0105546000",
+      "name": "City of Urdaneta"
+    }
+  },
+  {
+    "id": "0105546025",
+    "code": "0105546025",
+    "name": "Nancamaliran East",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105546000",
+      "code": "0105546000",
+      "name": "City of Urdaneta"
+    }
+  },
+  {
+    "id": "0105546026",
+    "code": "0105546026",
+    "name": "Nancamaliran West",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105546000",
+      "code": "0105546000",
+      "name": "City of Urdaneta"
+    }
+  },
+  {
+    "id": "0105546027",
+    "code": "0105546027",
+    "name": "Nancayasan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105546000",
+      "code": "0105546000",
+      "name": "City of Urdaneta"
+    }
+  },
+  {
+    "id": "0105546028",
+    "code": "0105546028",
+    "name": "Oltama",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105546000",
+      "code": "0105546000",
+      "name": "City of Urdaneta"
+    }
+  },
+  {
+    "id": "0105546029",
+    "code": "0105546029",
+    "name": "Palina East",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105546000",
+      "code": "0105546000",
+      "name": "City of Urdaneta"
+    }
+  },
+  {
+    "id": "0105546030",
+    "code": "0105546030",
+    "name": "Palina West",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105546000",
+      "code": "0105546000",
+      "name": "City of Urdaneta"
+    }
+  },
+  {
+    "id": "0105546031",
+    "code": "0105546031",
+    "name": "Pinmaludpod",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105546000",
+      "code": "0105546000",
+      "name": "City of Urdaneta"
+    }
+  },
+  {
+    "id": "0105546032",
+    "code": "0105546032",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105546000",
+      "code": "0105546000",
+      "name": "City of Urdaneta"
+    }
+  },
+  {
+    "id": "0105546033",
+    "code": "0105546033",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105546000",
+      "code": "0105546000",
+      "name": "City of Urdaneta"
+    }
+  },
+  {
+    "id": "0105546034",
+    "code": "0105546034",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105546000",
+      "code": "0105546000",
+      "name": "City of Urdaneta"
+    }
+  },
+  {
+    "id": "0105546035",
+    "code": "0105546035",
+    "name": "Santa Lucia",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105546000",
+      "code": "0105546000",
+      "name": "City of Urdaneta"
+    }
+  },
+  {
+    "id": "0105546036",
+    "code": "0105546036",
+    "name": "Santo Domingo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105546000",
+      "code": "0105546000",
+      "name": "City of Urdaneta"
+    }
+  },
+  {
+    "id": "0105546037",
+    "code": "0105546037",
+    "name": "Sugcong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105546000",
+      "code": "0105546000",
+      "name": "City of Urdaneta"
+    }
+  },
+  {
+    "id": "0105546038",
+    "code": "0105546038",
+    "name": "Tipuso",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105546000",
+      "code": "0105546000",
+      "name": "City of Urdaneta"
+    }
+  },
+  {
+    "id": "0105546039",
+    "code": "0105546039",
+    "name": "Tulong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105546000",
+      "code": "0105546000",
+      "name": "City of Urdaneta"
+    }
+  }
+]

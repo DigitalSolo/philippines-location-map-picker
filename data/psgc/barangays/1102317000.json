@@ -1,0 +1,968 @@
+[
+  {
+    "id": "1102317001",
+    "code": "1102317001",
+    "name": "Adecor",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102317000",
+      "code": "1102317000",
+      "name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "id": "1102317002",
+    "code": "1102317002",
+    "name": "Anonang",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102317000",
+      "code": "1102317000",
+      "name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "id": "1102317003",
+    "code": "1102317003",
+    "name": "Aumbay",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102317000",
+      "code": "1102317000",
+      "name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "id": "1102317004",
+    "code": "1102317004",
+    "name": "Aundanao",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102317000",
+      "code": "1102317000",
+      "name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "id": "1102317005",
+    "code": "1102317005",
+    "name": "Balet",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102317000",
+      "code": "1102317000",
+      "name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "id": "1102317006",
+    "code": "1102317006",
+    "name": "Bandera",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102317000",
+      "code": "1102317000",
+      "name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "id": "1102317007",
+    "code": "1102317007",
+    "name": "Caliclic",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102317000",
+      "code": "1102317000",
+      "name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "id": "1102317008",
+    "code": "1102317008",
+    "name": "Camudmud",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102317000",
+      "code": "1102317000",
+      "name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "id": "1102317009",
+    "code": "1102317009",
+    "name": "Catagman",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102317000",
+      "code": "1102317000",
+      "name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "id": "1102317010",
+    "code": "1102317010",
+    "name": "Cawag",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102317000",
+      "code": "1102317000",
+      "name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "id": "1102317011",
+    "code": "1102317011",
+    "name": "Cogon",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102317000",
+      "code": "1102317000",
+      "name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "id": "1102317012",
+    "code": "1102317012",
+    "name": "Cogon (Talicod)",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102317000",
+      "code": "1102317000",
+      "name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "id": "1102317013",
+    "code": "1102317013",
+    "name": "Dadatan",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102317000",
+      "code": "1102317000",
+      "name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "id": "1102317014",
+    "code": "1102317014",
+    "name": "Del Monte",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102317000",
+      "code": "1102317000",
+      "name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "id": "1102317015",
+    "code": "1102317015",
+    "name": "Guilon",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102317000",
+      "code": "1102317000",
+      "name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "id": "1102317016",
+    "code": "1102317016",
+    "name": "Kanaan",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102317000",
+      "code": "1102317000",
+      "name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "id": "1102317017",
+    "code": "1102317017",
+    "name": "Kinawitnon",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102317000",
+      "code": "1102317000",
+      "name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "id": "1102317018",
+    "code": "1102317018",
+    "name": "Libertad",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102317000",
+      "code": "1102317000",
+      "name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "id": "1102317019",
+    "code": "1102317019",
+    "name": "Libuak",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102317000",
+      "code": "1102317000",
+      "name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "id": "1102317020",
+    "code": "1102317020",
+    "name": "Licup",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102317000",
+      "code": "1102317000",
+      "name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "id": "1102317021",
+    "code": "1102317021",
+    "name": "Limao",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102317000",
+      "code": "1102317000",
+      "name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "id": "1102317022",
+    "code": "1102317022",
+    "name": "Linosutan",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102317000",
+      "code": "1102317000",
+      "name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "id": "1102317023",
+    "code": "1102317023",
+    "name": "Mambago-A",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102317000",
+      "code": "1102317000",
+      "name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "id": "1102317024",
+    "code": "1102317024",
+    "name": "Mambago-B",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102317000",
+      "code": "1102317000",
+      "name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "id": "1102317025",
+    "code": "1102317025",
+    "name": "Miranda",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102317000",
+      "code": "1102317000",
+      "name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "id": "1102317026",
+    "code": "1102317026",
+    "name": "Moncado",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102317000",
+      "code": "1102317000",
+      "name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "id": "1102317027",
+    "code": "1102317027",
+    "name": "Pangubatan",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102317000",
+      "code": "1102317000",
+      "name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "id": "1102317028",
+    "code": "1102317028",
+    "name": "Peñaplata",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102317000",
+      "code": "1102317000",
+      "name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "id": "1102317029",
+    "code": "1102317029",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102317000",
+      "code": "1102317000",
+      "name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "id": "1102317030",
+    "code": "1102317030",
+    "name": "San Agustin",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102317000",
+      "code": "1102317000",
+      "name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "id": "1102317031",
+    "code": "1102317031",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102317000",
+      "code": "1102317000",
+      "name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "id": "1102317032",
+    "code": "1102317032",
+    "name": "San Isidro (Babak)",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102317000",
+      "code": "1102317000",
+      "name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "id": "1102317033",
+    "code": "1102317033",
+    "name": "San Isidro (Kaputian)",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102317000",
+      "code": "1102317000",
+      "name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "id": "1102317034",
+    "code": "1102317034",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102317000",
+      "code": "1102317000",
+      "name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "id": "1102317035",
+    "code": "1102317035",
+    "name": "San Miguel",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102317000",
+      "code": "1102317000",
+      "name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "id": "1102317036",
+    "code": "1102317036",
+    "name": "San Remigio",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102317000",
+      "code": "1102317000",
+      "name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "id": "1102317037",
+    "code": "1102317037",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102317000",
+      "code": "1102317000",
+      "name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "id": "1102317038",
+    "code": "1102317038",
+    "name": "Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102317000",
+      "code": "1102317000",
+      "name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "id": "1102317039",
+    "code": "1102317039",
+    "name": "Sion",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102317000",
+      "code": "1102317000",
+      "name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "id": "1102317040",
+    "code": "1102317040",
+    "name": "Tagbaobo",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102317000",
+      "code": "1102317000",
+      "name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "id": "1102317041",
+    "code": "1102317041",
+    "name": "Tagbay",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102317000",
+      "code": "1102317000",
+      "name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "id": "1102317042",
+    "code": "1102317042",
+    "name": "Tagbitan-ag",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102317000",
+      "code": "1102317000",
+      "name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "id": "1102317043",
+    "code": "1102317043",
+    "name": "Tagdaliao",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102317000",
+      "code": "1102317000",
+      "name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "id": "1102317044",
+    "code": "1102317044",
+    "name": "Tagpopongan",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102317000",
+      "code": "1102317000",
+      "name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "id": "1102317045",
+    "code": "1102317045",
+    "name": "Tambo",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102317000",
+      "code": "1102317000",
+      "name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "id": "1102317046",
+    "code": "1102317046",
+    "name": "Toril",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102317000",
+      "code": "1102317000",
+      "name": "Island Garden City of Samal"
+    }
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "id": "0804823001",
+    "code": "0804823001",
+    "name": "Acedillo",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    },
+    "city_municipality": {
+      "id": "0804823000",
+      "code": "0804823000",
+      "name": "Victoria"
+    }
+  },
+  {
+    "id": "0804823002",
+    "code": "0804823002",
+    "name": "Buenasuerte",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    },
+    "city_municipality": {
+      "id": "0804823000",
+      "code": "0804823000",
+      "name": "Victoria"
+    }
+  },
+  {
+    "id": "0804823003",
+    "code": "0804823003",
+    "name": "Buenos Aires",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    },
+    "city_municipality": {
+      "id": "0804823000",
+      "code": "0804823000",
+      "name": "Victoria"
+    }
+  },
+  {
+    "id": "0804823004",
+    "code": "0804823004",
+    "name": "Colab-og",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    },
+    "city_municipality": {
+      "id": "0804823000",
+      "code": "0804823000",
+      "name": "Victoria"
+    }
+  },
+  {
+    "id": "0804823006",
+    "code": "0804823006",
+    "name": "Erenas",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    },
+    "city_municipality": {
+      "id": "0804823000",
+      "code": "0804823000",
+      "name": "Victoria"
+    }
+  },
+  {
+    "id": "0804823007",
+    "code": "0804823007",
+    "name": "Libertad",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    },
+    "city_municipality": {
+      "id": "0804823000",
+      "code": "0804823000",
+      "name": "Victoria"
+    }
+  },
+  {
+    "id": "0804823008",
+    "code": "0804823008",
+    "name": "Luisita",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    },
+    "city_municipality": {
+      "id": "0804823000",
+      "code": "0804823000",
+      "name": "Victoria"
+    }
+  },
+  {
+    "id": "0804823009",
+    "code": "0804823009",
+    "name": "Lungib",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    },
+    "city_municipality": {
+      "id": "0804823000",
+      "code": "0804823000",
+      "name": "Victoria"
+    }
+  },
+  {
+    "id": "0804823010",
+    "code": "0804823010",
+    "name": "Maxvilla",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    },
+    "city_municipality": {
+      "id": "0804823000",
+      "code": "0804823000",
+      "name": "Victoria"
+    }
+  },
+  {
+    "id": "0804823011",
+    "code": "0804823011",
+    "name": "Pasabuena",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    },
+    "city_municipality": {
+      "id": "0804823000",
+      "code": "0804823000",
+      "name": "Victoria"
+    }
+  },
+  {
+    "id": "0804823016",
+    "code": "0804823016",
+    "name": "San Lazaro",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    },
+    "city_municipality": {
+      "id": "0804823000",
+      "code": "0804823000",
+      "name": "Victoria"
+    }
+  },
+  {
+    "id": "0804823017",
+    "code": "0804823017",
+    "name": "San Miguel",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    },
+    "city_municipality": {
+      "id": "0804823000",
+      "code": "0804823000",
+      "name": "Victoria"
+    }
+  },
+  {
+    "id": "0804823018",
+    "code": "0804823018",
+    "name": "San Roman",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    },
+    "city_municipality": {
+      "id": "0804823000",
+      "code": "0804823000",
+      "name": "Victoria"
+    }
+  },
+  {
+    "id": "0804823012",
+    "code": "0804823012",
+    "name": "Zone I",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    },
+    "city_municipality": {
+      "id": "0804823000",
+      "code": "0804823000",
+      "name": "Victoria"
+    }
+  },
+  {
+    "id": "0804823013",
+    "code": "0804823013",
+    "name": "Zone II",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    },
+    "city_municipality": {
+      "id": "0804823000",
+      "code": "0804823000",
+      "name": "Victoria"
+    }
+  },
+  {
+    "id": "0804823014",
+    "code": "0804823014",
+    "name": "Zone III",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    },
+    "city_municipality": {
+      "id": "0804823000",
+      "code": "0804823000",
+      "name": "Victoria"
+    }
+  }
+]

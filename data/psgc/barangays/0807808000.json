@@ -1,0 +1,548 @@
+[
+  {
+    "id": "0807808001",
+    "code": "0807808001",
+    "name": "Agpangi",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    },
+    "city_municipality": {
+      "id": "0807808000",
+      "code": "0807808000",
+      "name": "Naval"
+    }
+  },
+  {
+    "id": "0807808002",
+    "code": "0807808002",
+    "name": "Anislagan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    },
+    "city_municipality": {
+      "id": "0807808000",
+      "code": "0807808000",
+      "name": "Naval"
+    }
+  },
+  {
+    "id": "0807808003",
+    "code": "0807808003",
+    "name": "Atipolo",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    },
+    "city_municipality": {
+      "id": "0807808000",
+      "code": "0807808000",
+      "name": "Naval"
+    }
+  },
+  {
+    "id": "0807808021",
+    "code": "0807808021",
+    "name": "Borac",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    },
+    "city_municipality": {
+      "id": "0807808000",
+      "code": "0807808000",
+      "name": "Naval"
+    }
+  },
+  {
+    "id": "0807808022",
+    "code": "0807808022",
+    "name": "Cabungaan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    },
+    "city_municipality": {
+      "id": "0807808000",
+      "code": "0807808000",
+      "name": "Naval"
+    }
+  },
+  {
+    "id": "0807808004",
+    "code": "0807808004",
+    "name": "Calumpang",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    },
+    "city_municipality": {
+      "id": "0807808000",
+      "code": "0807808000",
+      "name": "Naval"
+    }
+  },
+  {
+    "id": "0807808005",
+    "code": "0807808005",
+    "name": "Capiñahan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    },
+    "city_municipality": {
+      "id": "0807808000",
+      "code": "0807808000",
+      "name": "Naval"
+    }
+  },
+  {
+    "id": "0807808006",
+    "code": "0807808006",
+    "name": "Caraycaray",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    },
+    "city_municipality": {
+      "id": "0807808000",
+      "code": "0807808000",
+      "name": "Naval"
+    }
+  },
+  {
+    "id": "0807808007",
+    "code": "0807808007",
+    "name": "Catmon",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    },
+    "city_municipality": {
+      "id": "0807808000",
+      "code": "0807808000",
+      "name": "Naval"
+    }
+  },
+  {
+    "id": "0807808008",
+    "code": "0807808008",
+    "name": "Haguikhikan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    },
+    "city_municipality": {
+      "id": "0807808000",
+      "code": "0807808000",
+      "name": "Naval"
+    }
+  },
+  {
+    "id": "0807808023",
+    "code": "0807808023",
+    "name": "Imelda",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    },
+    "city_municipality": {
+      "id": "0807808000",
+      "code": "0807808000",
+      "name": "Naval"
+    }
+  },
+  {
+    "id": "0807808024",
+    "code": "0807808024",
+    "name": "Larrazabal",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    },
+    "city_municipality": {
+      "id": "0807808000",
+      "code": "0807808000",
+      "name": "Naval"
+    }
+  },
+  {
+    "id": "0807808010",
+    "code": "0807808010",
+    "name": "Libertad",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    },
+    "city_municipality": {
+      "id": "0807808000",
+      "code": "0807808000",
+      "name": "Naval"
+    }
+  },
+  {
+    "id": "0807808025",
+    "code": "0807808025",
+    "name": "Libtong",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    },
+    "city_municipality": {
+      "id": "0807808000",
+      "code": "0807808000",
+      "name": "Naval"
+    }
+  },
+  {
+    "id": "0807808012",
+    "code": "0807808012",
+    "name": "Lico",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    },
+    "city_municipality": {
+      "id": "0807808000",
+      "code": "0807808000",
+      "name": "Naval"
+    }
+  },
+  {
+    "id": "0807808013",
+    "code": "0807808013",
+    "name": "Lucsoon",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    },
+    "city_municipality": {
+      "id": "0807808000",
+      "code": "0807808000",
+      "name": "Naval"
+    }
+  },
+  {
+    "id": "0807808014",
+    "code": "0807808014",
+    "name": "Mabini",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    },
+    "city_municipality": {
+      "id": "0807808000",
+      "code": "0807808000",
+      "name": "Naval"
+    }
+  },
+  {
+    "id": "0807808009",
+    "code": "0807808009",
+    "name": "Padre Inocentes Garcia",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    },
+    "city_municipality": {
+      "id": "0807808000",
+      "code": "0807808000",
+      "name": "Naval"
+    }
+  },
+  {
+    "id": "0807808026",
+    "code": "0807808026",
+    "name": "Padre Sergio Eamiguel",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    },
+    "city_municipality": {
+      "id": "0807808000",
+      "code": "0807808000",
+      "name": "Naval"
+    }
+  },
+  {
+    "id": "0807808027",
+    "code": "0807808027",
+    "name": "Sabang",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    },
+    "city_municipality": {
+      "id": "0807808000",
+      "code": "0807808000",
+      "name": "Naval"
+    }
+  },
+  {
+    "id": "0807808015",
+    "code": "0807808015",
+    "name": "San Pablo",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    },
+    "city_municipality": {
+      "id": "0807808000",
+      "code": "0807808000",
+      "name": "Naval"
+    }
+  },
+  {
+    "id": "0807808017",
+    "code": "0807808017",
+    "name": "Santissimo Rosario Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    },
+    "city_municipality": {
+      "id": "0807808000",
+      "code": "0807808000",
+      "name": "Naval"
+    }
+  },
+  {
+    "id": "0807808016",
+    "code": "0807808016",
+    "name": "Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    },
+    "city_municipality": {
+      "id": "0807808000",
+      "code": "0807808000",
+      "name": "Naval"
+    }
+  },
+  {
+    "id": "0807808018",
+    "code": "0807808018",
+    "name": "Talustusan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    },
+    "city_municipality": {
+      "id": "0807808000",
+      "code": "0807808000",
+      "name": "Naval"
+    }
+  },
+  {
+    "id": "0807808019",
+    "code": "0807808019",
+    "name": "Villa Caneja",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    },
+    "city_municipality": {
+      "id": "0807808000",
+      "code": "0807808000",
+      "name": "Naval"
+    }
+  },
+  {
+    "id": "0807808020",
+    "code": "0807808020",
+    "name": "Villa Consuelo",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    },
+    "city_municipality": {
+      "id": "0807808000",
+      "code": "0807808000",
+      "name": "Naval"
+    }
+  }
+]

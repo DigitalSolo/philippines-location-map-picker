@@ -1,0 +1,527 @@
+[
+  {
+    "id": "0205005019",
+    "code": "0205005019",
+    "name": "Bansing",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205005000",
+      "code": "0205005000",
+      "name": "Bayombong"
+    }
+  },
+  {
+    "id": "0205005001",
+    "code": "0205005001",
+    "name": "Bonfal East",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205005000",
+      "code": "0205005000",
+      "name": "Bayombong"
+    }
+  },
+  {
+    "id": "0205005002",
+    "code": "0205005002",
+    "name": "Bonfal Proper",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205005000",
+      "code": "0205005000",
+      "name": "Bayombong"
+    }
+  },
+  {
+    "id": "0205005003",
+    "code": "0205005003",
+    "name": "Bonfal West",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205005000",
+      "code": "0205005000",
+      "name": "Bayombong"
+    }
+  },
+  {
+    "id": "0205005004",
+    "code": "0205005004",
+    "name": "Buenavista",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205005000",
+      "code": "0205005000",
+      "name": "Bayombong"
+    }
+  },
+  {
+    "id": "0205005005",
+    "code": "0205005005",
+    "name": "Busilac",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205005000",
+      "code": "0205005000",
+      "name": "Bayombong"
+    }
+  },
+  {
+    "id": "0205005020",
+    "code": "0205005020",
+    "name": "Cabuaan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205005000",
+      "code": "0205005000",
+      "name": "Bayombong"
+    }
+  },
+  {
+    "id": "0205005006",
+    "code": "0205005006",
+    "name": "Casat",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205005000",
+      "code": "0205005000",
+      "name": "Bayombong"
+    }
+  },
+  {
+    "id": "0205005016",
+    "code": "0205005016",
+    "name": "District III Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205005000",
+      "code": "0205005000",
+      "name": "Bayombong"
+    }
+  },
+  {
+    "id": "0205005017",
+    "code": "0205005017",
+    "name": "District IV",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205005000",
+      "code": "0205005000",
+      "name": "Bayombong"
+    }
+  },
+  {
+    "id": "0205005014",
+    "code": "0205005014",
+    "name": "Don Domingo Maddela Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205005000",
+      "code": "0205005000",
+      "name": "Bayombong"
+    }
+  },
+  {
+    "id": "0205005021",
+    "code": "0205005021",
+    "name": "Don Mariano Marcos",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205005000",
+      "code": "0205005000",
+      "name": "Bayombong"
+    }
+  },
+  {
+    "id": "0205005015",
+    "code": "0205005015",
+    "name": "Don Tomas Maddela Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205005000",
+      "code": "0205005000",
+      "name": "Bayombong"
+    }
+  },
+  {
+    "id": "0205005022",
+    "code": "0205005022",
+    "name": "Ipil-Cuneg",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205005000",
+      "code": "0205005000",
+      "name": "Bayombong"
+    }
+  },
+  {
+    "id": "0205005008",
+    "code": "0205005008",
+    "name": "La Torre North",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205005000",
+      "code": "0205005000",
+      "name": "Bayombong"
+    }
+  },
+  {
+    "id": "0205005023",
+    "code": "0205005023",
+    "name": "La Torre South",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205005000",
+      "code": "0205005000",
+      "name": "Bayombong"
+    }
+  },
+  {
+    "id": "0205005024",
+    "code": "0205005024",
+    "name": "Luyang",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205005000",
+      "code": "0205005000",
+      "name": "Bayombong"
+    }
+  },
+  {
+    "id": "0205005009",
+    "code": "0205005009",
+    "name": "Magapuy",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205005000",
+      "code": "0205005000",
+      "name": "Bayombong"
+    }
+  },
+  {
+    "id": "0205005010",
+    "code": "0205005010",
+    "name": "Magsaysay",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205005000",
+      "code": "0205005000",
+      "name": "Bayombong"
+    }
+  },
+  {
+    "id": "0205005011",
+    "code": "0205005011",
+    "name": "Masoc",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205005000",
+      "code": "0205005000",
+      "name": "Bayombong"
+    }
+  },
+  {
+    "id": "0205005012",
+    "code": "0205005012",
+    "name": "Paitan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205005000",
+      "code": "0205005000",
+      "name": "Bayombong"
+    }
+  },
+  {
+    "id": "0205005025",
+    "code": "0205005025",
+    "name": "Salvacion",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205005000",
+      "code": "0205005000",
+      "name": "Bayombong"
+    }
+  },
+  {
+    "id": "0205005026",
+    "code": "0205005026",
+    "name": "San Nicolas North",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205005000",
+      "code": "0205005000",
+      "name": "Bayombong"
+    }
+  },
+  {
+    "id": "0205005027",
+    "code": "0205005027",
+    "name": "Santa Rosa",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205005000",
+      "code": "0205005000",
+      "name": "Bayombong"
+    }
+  },
+  {
+    "id": "0205005028",
+    "code": "0205005028",
+    "name": "Vista Alegre",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205005000",
+      "code": "0205005000",
+      "name": "Bayombong"
+    }
+  }
+]

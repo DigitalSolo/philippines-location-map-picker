@@ -1,0 +1,212 @@
+[
+  {
+    "id": "1804525001",
+    "code": "1804525001",
+    "name": "Bagonawa",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804525000",
+      "code": "1804525000",
+      "name": "San Enrique"
+    }
+  },
+  {
+    "id": "1804525002",
+    "code": "1804525002",
+    "name": "Baliwagan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804525000",
+      "code": "1804525000",
+      "name": "San Enrique"
+    }
+  },
+  {
+    "id": "1804525003",
+    "code": "1804525003",
+    "name": "Batuan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804525000",
+      "code": "1804525000",
+      "name": "San Enrique"
+    }
+  },
+  {
+    "id": "1804525004",
+    "code": "1804525004",
+    "name": "Guintorilan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804525000",
+      "code": "1804525000",
+      "name": "San Enrique"
+    }
+  },
+  {
+    "id": "1804525005",
+    "code": "1804525005",
+    "name": "Nayon",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804525000",
+      "code": "1804525000",
+      "name": "San Enrique"
+    }
+  },
+  {
+    "id": "1804525006",
+    "code": "1804525006",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804525000",
+      "code": "1804525000",
+      "name": "San Enrique"
+    }
+  },
+  {
+    "id": "1804525007",
+    "code": "1804525007",
+    "name": "Sibucao",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804525000",
+      "code": "1804525000",
+      "name": "San Enrique"
+    }
+  },
+  {
+    "id": "1804525008",
+    "code": "1804525008",
+    "name": "Tabao Baybay",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804525000",
+      "code": "1804525000",
+      "name": "San Enrique"
+    }
+  },
+  {
+    "id": "1804525009",
+    "code": "1804525009",
+    "name": "Tabao Rizal",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804525000",
+      "code": "1804525000",
+      "name": "San Enrique"
+    }
+  },
+  {
+    "id": "1804525010",
+    "code": "1804525010",
+    "name": "Tibsoc",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804525000",
+      "code": "1804525000",
+      "name": "San Enrique"
+    }
+  }
+]

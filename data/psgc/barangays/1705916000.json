@@ -1,0 +1,128 @@
+[
+  {
+    "id": "1705916001",
+    "code": "1705916001",
+    "name": "Agnonoc",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705900000",
+      "code": "1705900000",
+      "name": "Romblon"
+    },
+    "city_municipality": {
+      "id": "1705916000",
+      "code": "1705916000",
+      "name": "Ferrol"
+    }
+  },
+  {
+    "id": "1705916002",
+    "code": "1705916002",
+    "name": "Bunsoran",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705900000",
+      "code": "1705900000",
+      "name": "Romblon"
+    },
+    "city_municipality": {
+      "id": "1705916000",
+      "code": "1705916000",
+      "name": "Ferrol"
+    }
+  },
+  {
+    "id": "1705916003",
+    "code": "1705916003",
+    "name": "Claro M. Recto",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705900000",
+      "code": "1705900000",
+      "name": "Romblon"
+    },
+    "city_municipality": {
+      "id": "1705916000",
+      "code": "1705916000",
+      "name": "Ferrol"
+    }
+  },
+  {
+    "id": "1705916005",
+    "code": "1705916005",
+    "name": "Hinaguman",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705900000",
+      "code": "1705900000",
+      "name": "Romblon"
+    },
+    "city_municipality": {
+      "id": "1705916000",
+      "code": "1705916000",
+      "name": "Ferrol"
+    }
+  },
+  {
+    "id": "1705916004",
+    "code": "1705916004",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705900000",
+      "code": "1705900000",
+      "name": "Romblon"
+    },
+    "city_municipality": {
+      "id": "1705916000",
+      "code": "1705916000",
+      "name": "Ferrol"
+    }
+  },
+  {
+    "id": "1705916006",
+    "code": "1705916006",
+    "name": "Tubigon",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705900000",
+      "code": "1705900000",
+      "name": "Romblon"
+    },
+    "city_municipality": {
+      "id": "1705916000",
+      "code": "1705916000",
+      "name": "Ferrol"
+    }
+  }
+]

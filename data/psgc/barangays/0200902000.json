@@ -1,0 +1,107 @@
+[
+  {
+    "id": "0200902006",
+    "code": "0200902006",
+    "name": "Raele",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0200900000",
+      "code": "0200900000",
+      "name": "Batanes"
+    },
+    "city_municipality": {
+      "id": "0200902000",
+      "code": "0200902000",
+      "name": "Itbayat"
+    }
+  },
+  {
+    "id": "0200902007",
+    "code": "0200902007",
+    "name": "San Rafael",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0200900000",
+      "code": "0200900000",
+      "name": "Batanes"
+    },
+    "city_municipality": {
+      "id": "0200902000",
+      "code": "0200902000",
+      "name": "Itbayat"
+    }
+  },
+  {
+    "id": "0200902008",
+    "code": "0200902008",
+    "name": "Santa Lucia",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0200900000",
+      "code": "0200900000",
+      "name": "Batanes"
+    },
+    "city_municipality": {
+      "id": "0200902000",
+      "code": "0200902000",
+      "name": "Itbayat"
+    }
+  },
+  {
+    "id": "0200902009",
+    "code": "0200902009",
+    "name": "Santa Maria",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0200900000",
+      "code": "0200900000",
+      "name": "Batanes"
+    },
+    "city_municipality": {
+      "id": "0200902000",
+      "code": "0200902000",
+      "name": "Itbayat"
+    }
+  },
+  {
+    "id": "0200902010",
+    "code": "0200902010",
+    "name": "Santa Rosa",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0200900000",
+      "code": "0200900000",
+      "name": "Batanes"
+    },
+    "city_municipality": {
+      "id": "0200902000",
+      "code": "0200902000",
+      "name": "Itbayat"
+    }
+  }
+]

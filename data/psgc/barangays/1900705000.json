@@ -1,0 +1,611 @@
+[
+  {
+    "id": "1900705001",
+    "code": "1900705001",
+    "name": "Bacung",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900705000",
+      "code": "1900705000",
+      "name": "Sumisip"
+    }
+  },
+  {
+    "id": "1900705027",
+    "code": "1900705027",
+    "name": "Baiwas",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900705000",
+      "code": "1900705000",
+      "name": "Sumisip"
+    }
+  },
+  {
+    "id": "1900705028",
+    "code": "1900705028",
+    "name": "Basak",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900705000",
+      "code": "1900705000",
+      "name": "Sumisip"
+    }
+  },
+  {
+    "id": "1900705002",
+    "code": "1900705002",
+    "name": "Benembengan Lower",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900705000",
+      "code": "1900705000",
+      "name": "Sumisip"
+    }
+  },
+  {
+    "id": "1900705035",
+    "code": "1900705035",
+    "name": "Benembengan Upper",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900705000",
+      "code": "1900705000",
+      "name": "Sumisip"
+    }
+  },
+  {
+    "id": "1900705036",
+    "code": "1900705036",
+    "name": "Bohe-languyan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900705000",
+      "code": "1900705000",
+      "name": "Sumisip"
+    }
+  },
+  {
+    "id": "1900705006",
+    "code": "1900705006",
+    "name": "Buli-buli",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900705000",
+      "code": "1900705000",
+      "name": "Sumisip"
+    }
+  },
+  {
+    "id": "1900705007",
+    "code": "1900705007",
+    "name": "Cabcaban",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900705000",
+      "code": "1900705000",
+      "name": "Sumisip"
+    }
+  },
+  {
+    "id": "1900705029",
+    "code": "1900705029",
+    "name": "Cabengbeng Lower",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900705000",
+      "code": "1900705000",
+      "name": "Sumisip"
+    }
+  },
+  {
+    "id": "1900705030",
+    "code": "1900705030",
+    "name": "Cabengbeng Upper",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900705000",
+      "code": "1900705000",
+      "name": "Sumisip"
+    }
+  },
+  {
+    "id": "1900705039",
+    "code": "1900705039",
+    "name": "Ettub-ettub",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900705000",
+      "code": "1900705000",
+      "name": "Sumisip"
+    }
+  },
+  {
+    "id": "1900705010",
+    "code": "1900705010",
+    "name": "Guiong",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900705000",
+      "code": "1900705000",
+      "name": "Sumisip"
+    }
+  },
+  {
+    "id": "1900705041",
+    "code": "1900705041",
+    "name": "Kaum-Air",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900705000",
+      "code": "1900705000",
+      "name": "Sumisip"
+    }
+  },
+  {
+    "id": "1900705051",
+    "code": "1900705051",
+    "name": "Kaumpamatsakem",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900705000",
+      "code": "1900705000",
+      "name": "Sumisip"
+    }
+  },
+  {
+    "id": "1900705024",
+    "code": "1900705024",
+    "name": "Libug",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900705000",
+      "code": "1900705000",
+      "name": "Sumisip"
+    }
+  },
+  {
+    "id": "1900705042",
+    "code": "1900705042",
+    "name": "Limbocandis",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900705000",
+      "code": "1900705000",
+      "name": "Sumisip"
+    }
+  },
+  {
+    "id": "1900705043",
+    "code": "1900705043",
+    "name": "Lukketon",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900705000",
+      "code": "1900705000",
+      "name": "Sumisip"
+    }
+  },
+  {
+    "id": "1900705031",
+    "code": "1900705031",
+    "name": "Luuk-Bait",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900705000",
+      "code": "1900705000",
+      "name": "Sumisip"
+    }
+  },
+  {
+    "id": "1900705032",
+    "code": "1900705032",
+    "name": "Mahatalang",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900705000",
+      "code": "1900705000",
+      "name": "Sumisip"
+    }
+  },
+  {
+    "id": "1900705013",
+    "code": "1900705013",
+    "name": "Manaul",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900705000",
+      "code": "1900705000",
+      "name": "Sumisip"
+    }
+  },
+  {
+    "id": "1900705014",
+    "code": "1900705014",
+    "name": "Mangal",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900705000",
+      "code": "1900705000",
+      "name": "Sumisip"
+    }
+  },
+  {
+    "id": "1900705044",
+    "code": "1900705044",
+    "name": "Marang",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900705000",
+      "code": "1900705000",
+      "name": "Sumisip"
+    }
+  },
+  {
+    "id": "1900705045",
+    "code": "1900705045",
+    "name": "Mebak",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900705000",
+      "code": "1900705000",
+      "name": "Sumisip"
+    }
+  },
+  {
+    "id": "1900705047",
+    "code": "1900705047",
+    "name": "Sahaya Bohe Bato",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900705000",
+      "code": "1900705000",
+      "name": "Sumisip"
+    }
+  },
+  {
+    "id": "1900705048",
+    "code": "1900705048",
+    "name": "Sapah Bulak",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900705000",
+      "code": "1900705000",
+      "name": "Sumisip"
+    }
+  },
+  {
+    "id": "1900705019",
+    "code": "1900705019",
+    "name": "Sumisip Central",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900705000",
+      "code": "1900705000",
+      "name": "Sumisip"
+    }
+  },
+  {
+    "id": "1900705050",
+    "code": "1900705050",
+    "name": "Tikus",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900705000",
+      "code": "1900705000",
+      "name": "Sumisip"
+    }
+  },
+  {
+    "id": "1900705025",
+    "code": "1900705025",
+    "name": "Tongsengal",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900705000",
+      "code": "1900705000",
+      "name": "Sumisip"
+    }
+  },
+  {
+    "id": "1900705022",
+    "code": "1900705022",
+    "name": "Tumahubong",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900705000",
+      "code": "1900705000",
+      "name": "Sumisip"
+    }
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "id": "0907203001",
+    "code": "0907203001",
+    "name": "Balok",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907203000",
+      "code": "0907203000",
+      "name": "Katipunan"
+    }
+  },
+  {
+    "id": "0907203017",
+    "code": "0907203017",
+    "name": "Barangay Dos",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907203000",
+      "code": "0907203000",
+      "name": "Katipunan"
+    }
+  },
+  {
+    "id": "0907203016",
+    "code": "0907203016",
+    "name": "Barangay Uno",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907203000",
+      "code": "0907203000",
+      "name": "Katipunan"
+    }
+  },
+  {
+    "id": "0907203002",
+    "code": "0907203002",
+    "name": "Basagan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907203000",
+      "code": "0907203000",
+      "name": "Katipunan"
+    }
+  },
+  {
+    "id": "0907203003",
+    "code": "0907203003",
+    "name": "Biniray",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907203000",
+      "code": "0907203000",
+      "name": "Katipunan"
+    }
+  },
+  {
+    "id": "0907203004",
+    "code": "0907203004",
+    "name": "Bulawan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907203000",
+      "code": "0907203000",
+      "name": "Katipunan"
+    }
+  },
+  {
+    "id": "0907203025",
+    "code": "0907203025",
+    "name": "Carupay",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907203000",
+      "code": "0907203000",
+      "name": "Katipunan"
+    }
+  },
+  {
+    "id": "0907203005",
+    "code": "0907203005",
+    "name": "Daanglungsod",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907203000",
+      "code": "0907203000",
+      "name": "Katipunan"
+    }
+  },
+  {
+    "id": "0907203006",
+    "code": "0907203006",
+    "name": "Dabiak",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907203000",
+      "code": "0907203000",
+      "name": "Katipunan"
+    }
+  },
+  {
+    "id": "0907203007",
+    "code": "0907203007",
+    "name": "Dr. Jose Rizal",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907203000",
+      "code": "0907203000",
+      "name": "Katipunan"
+    }
+  },
+  {
+    "id": "0907203008",
+    "code": "0907203008",
+    "name": "Fimagas",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907203000",
+      "code": "0907203000",
+      "name": "Katipunan"
+    }
+  },
+  {
+    "id": "0907203026",
+    "code": "0907203026",
+    "name": "Loyuran",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907203000",
+      "code": "0907203000",
+      "name": "Katipunan"
+    }
+  },
+  {
+    "id": "0907203010",
+    "code": "0907203010",
+    "name": "Malasay",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907203000",
+      "code": "0907203000",
+      "name": "Katipunan"
+    }
+  },
+  {
+    "id": "0907203009",
+    "code": "0907203009",
+    "name": "Malugas",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907203000",
+      "code": "0907203000",
+      "name": "Katipunan"
+    }
+  },
+  {
+    "id": "0907203011",
+    "code": "0907203011",
+    "name": "Matam",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907203000",
+      "code": "0907203000",
+      "name": "Katipunan"
+    }
+  },
+  {
+    "id": "0907203012",
+    "code": "0907203012",
+    "name": "Mias",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907203000",
+      "code": "0907203000",
+      "name": "Katipunan"
+    }
+  },
+  {
+    "id": "0907203013",
+    "code": "0907203013",
+    "name": "Miatan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907203000",
+      "code": "0907203000",
+      "name": "Katipunan"
+    }
+  },
+  {
+    "id": "0907203014",
+    "code": "0907203014",
+    "name": "Nanginan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907203000",
+      "code": "0907203000",
+      "name": "Katipunan"
+    }
+  },
+  {
+    "id": "0907203027",
+    "code": "0907203027",
+    "name": "New Tambo",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907203000",
+      "code": "0907203000",
+      "name": "Katipunan"
+    }
+  },
+  {
+    "id": "0907203028",
+    "code": "0907203028",
+    "name": "Patik",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907203000",
+      "code": "0907203000",
+      "name": "Katipunan"
+    }
+  },
+  {
+    "id": "0907203018",
+    "code": "0907203018",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907203000",
+      "code": "0907203000",
+      "name": "Katipunan"
+    }
+  },
+  {
+    "id": "0907203030",
+    "code": "0907203030",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907203000",
+      "code": "0907203000",
+      "name": "Katipunan"
+    }
+  },
+  {
+    "id": "0907203029",
+    "code": "0907203029",
+    "name": "Sanao",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907203000",
+      "code": "0907203000",
+      "name": "Katipunan"
+    }
+  },
+  {
+    "id": "0907203031",
+    "code": "0907203031",
+    "name": "Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907203000",
+      "code": "0907203000",
+      "name": "Katipunan"
+    }
+  },
+  {
+    "id": "0907203019",
+    "code": "0907203019",
+    "name": "Seres",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907203000",
+      "code": "0907203000",
+      "name": "Katipunan"
+    }
+  },
+  {
+    "id": "0907203020",
+    "code": "0907203020",
+    "name": "Seroan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907203000",
+      "code": "0907203000",
+      "name": "Katipunan"
+    }
+  },
+  {
+    "id": "0907203021",
+    "code": "0907203021",
+    "name": "Singatong",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907203000",
+      "code": "0907203000",
+      "name": "Katipunan"
+    }
+  },
+  {
+    "id": "0907203022",
+    "code": "0907203022",
+    "name": "Sinuyak",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907203000",
+      "code": "0907203000",
+      "name": "Katipunan"
+    }
+  },
+  {
+    "id": "0907203023",
+    "code": "0907203023",
+    "name": "Sitog",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907203000",
+      "code": "0907203000",
+      "name": "Katipunan"
+    }
+  },
+  {
+    "id": "0907203024",
+    "code": "0907203024",
+    "name": "Tuburan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907203000",
+      "code": "0907203000",
+      "name": "Katipunan"
+    }
+  }
+]

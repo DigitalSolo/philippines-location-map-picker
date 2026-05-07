@@ -1,0 +1,275 @@
+[
+  {
+    "id": "0802610008",
+    "code": "0802610008",
+    "name": "Barangay 1",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802610000",
+      "code": "0802610000",
+      "name": "Hernani"
+    }
+  },
+  {
+    "id": "0802610009",
+    "code": "0802610009",
+    "name": "Barangay 2",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802610000",
+      "code": "0802610000",
+      "name": "Hernani"
+    }
+  },
+  {
+    "id": "0802610010",
+    "code": "0802610010",
+    "name": "Barangay 3",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802610000",
+      "code": "0802610000",
+      "name": "Hernani"
+    }
+  },
+  {
+    "id": "0802610011",
+    "code": "0802610011",
+    "name": "Barangay 4",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802610000",
+      "code": "0802610000",
+      "name": "Hernani"
+    }
+  },
+  {
+    "id": "0802610001",
+    "code": "0802610001",
+    "name": "Batang",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802610000",
+      "code": "0802610000",
+      "name": "Hernani"
+    }
+  },
+  {
+    "id": "0802610002",
+    "code": "0802610002",
+    "name": "Cacatmonan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802610000",
+      "code": "0802610000",
+      "name": "Hernani"
+    }
+  },
+  {
+    "id": "0802610004",
+    "code": "0802610004",
+    "name": "Canciledes",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802610000",
+      "code": "0802610000",
+      "name": "Hernani"
+    }
+  },
+  {
+    "id": "0802610005",
+    "code": "0802610005",
+    "name": "Carmen",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802610000",
+      "code": "0802610000",
+      "name": "Hernani"
+    }
+  },
+  {
+    "id": "0802610003",
+    "code": "0802610003",
+    "name": "Garawon",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802610000",
+      "code": "0802610000",
+      "name": "Hernani"
+    }
+  },
+  {
+    "id": "0802610006",
+    "code": "0802610006",
+    "name": "Nagaja",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802610000",
+      "code": "0802610000",
+      "name": "Hernani"
+    }
+  },
+  {
+    "id": "0802610007",
+    "code": "0802610007",
+    "name": "Padang",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802610000",
+      "code": "0802610000",
+      "name": "Hernani"
+    }
+  },
+  {
+    "id": "0802610012",
+    "code": "0802610012",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802610000",
+      "code": "0802610000",
+      "name": "Hernani"
+    }
+  },
+  {
+    "id": "0802610013",
+    "code": "0802610013",
+    "name": "San Miguel",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802610000",
+      "code": "0802610000",
+      "name": "Hernani"
+    }
+  }
+]

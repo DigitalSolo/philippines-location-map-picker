@@ -1,0 +1,443 @@
+[
+  {
+    "id": "0105537001",
+    "code": "0105537001",
+    "name": "Alac",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105537000",
+      "code": "0105537000",
+      "name": "San Quintin"
+    }
+  },
+  {
+    "id": "0105537002",
+    "code": "0105537002",
+    "name": "Baligayan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105537000",
+      "code": "0105537000",
+      "name": "San Quintin"
+    }
+  },
+  {
+    "id": "0105537004",
+    "code": "0105537004",
+    "name": "Bantog",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105537000",
+      "code": "0105537000",
+      "name": "San Quintin"
+    }
+  },
+  {
+    "id": "0105537005",
+    "code": "0105537005",
+    "name": "Bolintaguen",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105537000",
+      "code": "0105537000",
+      "name": "San Quintin"
+    }
+  },
+  {
+    "id": "0105537007",
+    "code": "0105537007",
+    "name": "Cabalaoangan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105537000",
+      "code": "0105537000",
+      "name": "San Quintin"
+    }
+  },
+  {
+    "id": "0105537006",
+    "code": "0105537006",
+    "name": "Cabangaran",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105537000",
+      "code": "0105537000",
+      "name": "San Quintin"
+    }
+  },
+  {
+    "id": "0105537009",
+    "code": "0105537009",
+    "name": "Calomboyan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105537000",
+      "code": "0105537000",
+      "name": "San Quintin"
+    }
+  },
+  {
+    "id": "0105537010",
+    "code": "0105537010",
+    "name": "Carayacan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105537000",
+      "code": "0105537000",
+      "name": "San Quintin"
+    }
+  },
+  {
+    "id": "0105537011",
+    "code": "0105537011",
+    "name": "Casantamarian",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105537000",
+      "code": "0105537000",
+      "name": "San Quintin"
+    }
+  },
+  {
+    "id": "0105537012",
+    "code": "0105537012",
+    "name": "Gonzalo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105537000",
+      "code": "0105537000",
+      "name": "San Quintin"
+    }
+  },
+  {
+    "id": "0105537013",
+    "code": "0105537013",
+    "name": "Labuan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105537000",
+      "code": "0105537000",
+      "name": "San Quintin"
+    }
+  },
+  {
+    "id": "0105537014",
+    "code": "0105537014",
+    "name": "Lagasit",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105537000",
+      "code": "0105537000",
+      "name": "San Quintin"
+    }
+  },
+  {
+    "id": "0105537015",
+    "code": "0105537015",
+    "name": "Lumayao",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105537000",
+      "code": "0105537000",
+      "name": "San Quintin"
+    }
+  },
+  {
+    "id": "0105537016",
+    "code": "0105537016",
+    "name": "Mabini",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105537000",
+      "code": "0105537000",
+      "name": "San Quintin"
+    }
+  },
+  {
+    "id": "0105537017",
+    "code": "0105537017",
+    "name": "Mantacdang",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105537000",
+      "code": "0105537000",
+      "name": "San Quintin"
+    }
+  },
+  {
+    "id": "0105537018",
+    "code": "0105537018",
+    "name": "Nangapugan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105537000",
+      "code": "0105537000",
+      "name": "San Quintin"
+    }
+  },
+  {
+    "id": "0105537022",
+    "code": "0105537022",
+    "name": "Poblacion Zone I",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105537000",
+      "code": "0105537000",
+      "name": "San Quintin"
+    }
+  },
+  {
+    "id": "0105537023",
+    "code": "0105537023",
+    "name": "Poblacion Zone II",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105537000",
+      "code": "0105537000",
+      "name": "San Quintin"
+    }
+  },
+  {
+    "id": "0105537024",
+    "code": "0105537024",
+    "name": "Poblacion Zone III",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105537000",
+      "code": "0105537000",
+      "name": "San Quintin"
+    }
+  },
+  {
+    "id": "0105537020",
+    "code": "0105537020",
+    "name": "San Pedro",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105537000",
+      "code": "0105537000",
+      "name": "San Quintin"
+    }
+  },
+  {
+    "id": "0105537021",
+    "code": "0105537021",
+    "name": "Ungib",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105537000",
+      "code": "0105537000",
+      "name": "San Quintin"
+    }
+  }
+]

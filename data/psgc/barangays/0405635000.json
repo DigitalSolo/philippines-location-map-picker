@@ -1,0 +1,191 @@
+[
+  {
+    "id": "0405635008",
+    "code": "0405635008",
+    "name": "Central",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405635000",
+      "code": "0405635000",
+      "name": "Plaridel"
+    }
+  },
+  {
+    "id": "0405635002",
+    "code": "0405635002",
+    "name": "Concepcion",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405635000",
+      "code": "0405635000",
+      "name": "Plaridel"
+    }
+  },
+  {
+    "id": "0405635003",
+    "code": "0405635003",
+    "name": "Duhat",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405635000",
+      "code": "0405635000",
+      "name": "Plaridel"
+    }
+  },
+  {
+    "id": "0405635004",
+    "code": "0405635004",
+    "name": "Ilaya",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405635000",
+      "code": "0405635000",
+      "name": "Plaridel"
+    }
+  },
+  {
+    "id": "0405635005",
+    "code": "0405635005",
+    "name": "Ilosong",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405635000",
+      "code": "0405635000",
+      "name": "Plaridel"
+    }
+  },
+  {
+    "id": "0405635011",
+    "code": "0405635011",
+    "name": "M. L. Tumagay Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405635000",
+      "code": "0405635000",
+      "name": "Plaridel"
+    }
+  },
+  {
+    "id": "0405635009",
+    "code": "0405635009",
+    "name": "Paang Bundok",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405635000",
+      "code": "0405635000",
+      "name": "Plaridel"
+    }
+  },
+  {
+    "id": "0405635010",
+    "code": "0405635010",
+    "name": "Pampaaralan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405635000",
+      "code": "0405635000",
+      "name": "Plaridel"
+    }
+  },
+  {
+    "id": "0405635007",
+    "code": "0405635007",
+    "name": "Tanauan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405635000",
+      "code": "0405635000",
+      "name": "Plaridel"
+    }
+  }
+]

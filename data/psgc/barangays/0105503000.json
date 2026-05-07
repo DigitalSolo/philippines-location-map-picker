@@ -1,0 +1,821 @@
+[
+  {
+    "id": "0105503001",
+    "code": "0105503001",
+    "name": "Alos",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105503000",
+      "code": "0105503000",
+      "name": "City of Alaminos"
+    }
+  },
+  {
+    "id": "0105503002",
+    "code": "0105503002",
+    "name": "Amandiego",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105503000",
+      "code": "0105503000",
+      "name": "City of Alaminos"
+    }
+  },
+  {
+    "id": "0105503003",
+    "code": "0105503003",
+    "name": "Amangbangan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105503000",
+      "code": "0105503000",
+      "name": "City of Alaminos"
+    }
+  },
+  {
+    "id": "0105503004",
+    "code": "0105503004",
+    "name": "Balangobong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105503000",
+      "code": "0105503000",
+      "name": "City of Alaminos"
+    }
+  },
+  {
+    "id": "0105503005",
+    "code": "0105503005",
+    "name": "Balayang",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105503000",
+      "code": "0105503000",
+      "name": "City of Alaminos"
+    }
+  },
+  {
+    "id": "0105503008",
+    "code": "0105503008",
+    "name": "Baleyadaan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105503000",
+      "code": "0105503000",
+      "name": "City of Alaminos"
+    }
+  },
+  {
+    "id": "0105503006",
+    "code": "0105503006",
+    "name": "Bisocol",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105503000",
+      "code": "0105503000",
+      "name": "City of Alaminos"
+    }
+  },
+  {
+    "id": "0105503007",
+    "code": "0105503007",
+    "name": "Bolaney",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105503000",
+      "code": "0105503000",
+      "name": "City of Alaminos"
+    }
+  },
+  {
+    "id": "0105503009",
+    "code": "0105503009",
+    "name": "Bued",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105503000",
+      "code": "0105503000",
+      "name": "City of Alaminos"
+    }
+  },
+  {
+    "id": "0105503010",
+    "code": "0105503010",
+    "name": "Cabatuan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105503000",
+      "code": "0105503000",
+      "name": "City of Alaminos"
+    }
+  },
+  {
+    "id": "0105503011",
+    "code": "0105503011",
+    "name": "Cayucay",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105503000",
+      "code": "0105503000",
+      "name": "City of Alaminos"
+    }
+  },
+  {
+    "id": "0105503012",
+    "code": "0105503012",
+    "name": "Dulacac",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105503000",
+      "code": "0105503000",
+      "name": "City of Alaminos"
+    }
+  },
+  {
+    "id": "0105503013",
+    "code": "0105503013",
+    "name": "Inerangan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105503000",
+      "code": "0105503000",
+      "name": "City of Alaminos"
+    }
+  },
+  {
+    "id": "0105503038",
+    "code": "0105503038",
+    "name": "Landoc",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105503000",
+      "code": "0105503000",
+      "name": "City of Alaminos"
+    }
+  },
+  {
+    "id": "0105503014",
+    "code": "0105503014",
+    "name": "Linmansangan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105503000",
+      "code": "0105503000",
+      "name": "City of Alaminos"
+    }
+  },
+  {
+    "id": "0105503015",
+    "code": "0105503015",
+    "name": "Lucap",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105503000",
+      "code": "0105503000",
+      "name": "City of Alaminos"
+    }
+  },
+  {
+    "id": "0105503039",
+    "code": "0105503039",
+    "name": "Maawi",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105503000",
+      "code": "0105503000",
+      "name": "City of Alaminos"
+    }
+  },
+  {
+    "id": "0105503016",
+    "code": "0105503016",
+    "name": "Macatiw",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105503000",
+      "code": "0105503000",
+      "name": "City of Alaminos"
+    }
+  },
+  {
+    "id": "0105503017",
+    "code": "0105503017",
+    "name": "Magsaysay",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105503000",
+      "code": "0105503000",
+      "name": "City of Alaminos"
+    }
+  },
+  {
+    "id": "0105503018",
+    "code": "0105503018",
+    "name": "Mona",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105503000",
+      "code": "0105503000",
+      "name": "City of Alaminos"
+    }
+  },
+  {
+    "id": "0105503019",
+    "code": "0105503019",
+    "name": "Palamis",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105503000",
+      "code": "0105503000",
+      "name": "City of Alaminos"
+    }
+  },
+  {
+    "id": "0105503040",
+    "code": "0105503040",
+    "name": "Pandan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105503000",
+      "code": "0105503000",
+      "name": "City of Alaminos"
+    }
+  },
+  {
+    "id": "0105503020",
+    "code": "0105503020",
+    "name": "Pangapisan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105503000",
+      "code": "0105503000",
+      "name": "City of Alaminos"
+    }
+  },
+  {
+    "id": "0105503021",
+    "code": "0105503021",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105503000",
+      "code": "0105503000",
+      "name": "City of Alaminos"
+    }
+  },
+  {
+    "id": "0105503022",
+    "code": "0105503022",
+    "name": "Pocalpocal",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105503000",
+      "code": "0105503000",
+      "name": "City of Alaminos"
+    }
+  },
+  {
+    "id": "0105503023",
+    "code": "0105503023",
+    "name": "Pogo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105503000",
+      "code": "0105503000",
+      "name": "City of Alaminos"
+    }
+  },
+  {
+    "id": "0105503024",
+    "code": "0105503024",
+    "name": "Polo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105503000",
+      "code": "0105503000",
+      "name": "City of Alaminos"
+    }
+  },
+  {
+    "id": "0105503025",
+    "code": "0105503025",
+    "name": "Quibuar",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105503000",
+      "code": "0105503000",
+      "name": "City of Alaminos"
+    }
+  },
+  {
+    "id": "0105503026",
+    "code": "0105503026",
+    "name": "Sabangan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105503000",
+      "code": "0105503000",
+      "name": "City of Alaminos"
+    }
+  },
+  {
+    "id": "0105503041",
+    "code": "0105503041",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105503000",
+      "code": "0105503000",
+      "name": "City of Alaminos"
+    }
+  },
+  {
+    "id": "0105503029",
+    "code": "0105503029",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105503000",
+      "code": "0105503000",
+      "name": "City of Alaminos"
+    }
+  },
+  {
+    "id": "0105503030",
+    "code": "0105503030",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105503000",
+      "code": "0105503000",
+      "name": "City of Alaminos"
+    }
+  },
+  {
+    "id": "0105503031",
+    "code": "0105503031",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105503000",
+      "code": "0105503000",
+      "name": "City of Alaminos"
+    }
+  },
+  {
+    "id": "0105503032",
+    "code": "0105503032",
+    "name": "Santa Maria",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105503000",
+      "code": "0105503000",
+      "name": "City of Alaminos"
+    }
+  },
+  {
+    "id": "0105503033",
+    "code": "0105503033",
+    "name": "Tanaytay",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105503000",
+      "code": "0105503000",
+      "name": "City of Alaminos"
+    }
+  },
+  {
+    "id": "0105503034",
+    "code": "0105503034",
+    "name": "Tangcarang",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105503000",
+      "code": "0105503000",
+      "name": "City of Alaminos"
+    }
+  },
+  {
+    "id": "0105503035",
+    "code": "0105503035",
+    "name": "Tawintawin",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105503000",
+      "code": "0105503000",
+      "name": "City of Alaminos"
+    }
+  },
+  {
+    "id": "0105503036",
+    "code": "0105503036",
+    "name": "Telbang",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105503000",
+      "code": "0105503000",
+      "name": "City of Alaminos"
+    }
+  },
+  {
+    "id": "0105503037",
+    "code": "0105503037",
+    "name": "Victoria",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105503000",
+      "code": "0105503000",
+      "name": "City of Alaminos"
+    }
+  }
+]

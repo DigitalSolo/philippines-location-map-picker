@@ -1,0 +1,338 @@
+[
+  {
+    "id": "0907208001",
+    "code": "0907208001",
+    "name": "Alvenda",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907208000",
+      "code": "0907208000",
+      "name": "Mutia"
+    }
+  },
+  {
+    "id": "0907208002",
+    "code": "0907208002",
+    "name": "Buenasuerte",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907208000",
+      "code": "0907208000",
+      "name": "Mutia"
+    }
+  },
+  {
+    "id": "0907208003",
+    "code": "0907208003",
+    "name": "Diland",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907208000",
+      "code": "0907208000",
+      "name": "Mutia"
+    }
+  },
+  {
+    "id": "0907208004",
+    "code": "0907208004",
+    "name": "Diolen",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907208000",
+      "code": "0907208000",
+      "name": "Mutia"
+    }
+  },
+  {
+    "id": "0907208005",
+    "code": "0907208005",
+    "name": "Head Tipan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907208000",
+      "code": "0907208000",
+      "name": "Mutia"
+    }
+  },
+  {
+    "id": "0907208006",
+    "code": "0907208006",
+    "name": "New Casul",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907208000",
+      "code": "0907208000",
+      "name": "Mutia"
+    }
+  },
+  {
+    "id": "0907208008",
+    "code": "0907208008",
+    "name": "New Siquijor",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907208000",
+      "code": "0907208000",
+      "name": "Mutia"
+    }
+  },
+  {
+    "id": "0907208007",
+    "code": "0907208007",
+    "name": "Newland",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907208000",
+      "code": "0907208000",
+      "name": "Mutia"
+    }
+  },
+  {
+    "id": "0907208009",
+    "code": "0907208009",
+    "name": "Paso Rio",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907208000",
+      "code": "0907208000",
+      "name": "Mutia"
+    }
+  },
+  {
+    "id": "0907208010",
+    "code": "0907208010",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907208000",
+      "code": "0907208000",
+      "name": "Mutia"
+    }
+  },
+  {
+    "id": "0907208011",
+    "code": "0907208011",
+    "name": "San Miguel",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907208000",
+      "code": "0907208000",
+      "name": "Mutia"
+    }
+  },
+  {
+    "id": "0907208016",
+    "code": "0907208016",
+    "name": "Santo Tomas",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907208000",
+      "code": "0907208000",
+      "name": "Mutia"
+    }
+  },
+  {
+    "id": "0907208012",
+    "code": "0907208012",
+    "name": "Tinglan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907208000",
+      "code": "0907208000",
+      "name": "Mutia"
+    }
+  },
+  {
+    "id": "0907208013",
+    "code": "0907208013",
+    "name": "Totongon",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907208000",
+      "code": "0907208000",
+      "name": "Mutia"
+    }
+  },
+  {
+    "id": "0907208014",
+    "code": "0907208014",
+    "name": "Tubac",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907208000",
+      "code": "0907208000",
+      "name": "Mutia"
+    }
+  },
+  {
+    "id": "0907208015",
+    "code": "0907208015",
+    "name": "Unidos",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907208000",
+      "code": "0907208000",
+      "name": "Mutia"
+    }
+  }
+]

@@ -1,0 +1,905 @@
+[
+  {
+    "id": "0102933001",
+    "code": "0102933001",
+    "name": "Ag-aguman",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102933000",
+      "code": "0102933000",
+      "name": "Tagudin"
+    }
+  },
+  {
+    "id": "0102933002",
+    "code": "0102933002",
+    "name": "Ambalayat",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102933000",
+      "code": "0102933000",
+      "name": "Tagudin"
+    }
+  },
+  {
+    "id": "0102933003",
+    "code": "0102933003",
+    "name": "Baracbac",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102933000",
+      "code": "0102933000",
+      "name": "Tagudin"
+    }
+  },
+  {
+    "id": "0102933004",
+    "code": "0102933004",
+    "name": "Bario-an",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102933000",
+      "code": "0102933000",
+      "name": "Tagudin"
+    }
+  },
+  {
+    "id": "0102933005",
+    "code": "0102933005",
+    "name": "Baritao",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102933000",
+      "code": "0102933000",
+      "name": "Tagudin"
+    }
+  },
+  {
+    "id": "0102933007",
+    "code": "0102933007",
+    "name": "Becques",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102933000",
+      "code": "0102933000",
+      "name": "Tagudin"
+    }
+  },
+  {
+    "id": "0102933008",
+    "code": "0102933008",
+    "name": "Bimmanga",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102933000",
+      "code": "0102933000",
+      "name": "Tagudin"
+    }
+  },
+  {
+    "id": "0102933009",
+    "code": "0102933009",
+    "name": "Bio",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102933000",
+      "code": "0102933000",
+      "name": "Tagudin"
+    }
+  },
+  {
+    "id": "0102933010",
+    "code": "0102933010",
+    "name": "Bitalag",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102933000",
+      "code": "0102933000",
+      "name": "Tagudin"
+    }
+  },
+  {
+    "id": "0102933006",
+    "code": "0102933006",
+    "name": "Borono",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102933000",
+      "code": "0102933000",
+      "name": "Tagudin"
+    }
+  },
+  {
+    "id": "0102933011",
+    "code": "0102933011",
+    "name": "Bucao East",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102933000",
+      "code": "0102933000",
+      "name": "Tagudin"
+    }
+  },
+  {
+    "id": "0102933012",
+    "code": "0102933012",
+    "name": "Bucao West",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102933000",
+      "code": "0102933000",
+      "name": "Tagudin"
+    }
+  },
+  {
+    "id": "0102933013",
+    "code": "0102933013",
+    "name": "Cabaroan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102933000",
+      "code": "0102933000",
+      "name": "Tagudin"
+    }
+  },
+  {
+    "id": "0102933014",
+    "code": "0102933014",
+    "name": "Cabugbugan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102933000",
+      "code": "0102933000",
+      "name": "Tagudin"
+    }
+  },
+  {
+    "id": "0102933015",
+    "code": "0102933015",
+    "name": "Cabulanglangan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102933000",
+      "code": "0102933000",
+      "name": "Tagudin"
+    }
+  },
+  {
+    "id": "0102933016",
+    "code": "0102933016",
+    "name": "Dacutan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102933000",
+      "code": "0102933000",
+      "name": "Tagudin"
+    }
+  },
+  {
+    "id": "0102933017",
+    "code": "0102933017",
+    "name": "Dardarat",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102933000",
+      "code": "0102933000",
+      "name": "Tagudin"
+    }
+  },
+  {
+    "id": "0102933018",
+    "code": "0102933018",
+    "name": "Del Pilar",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102933000",
+      "code": "0102933000",
+      "name": "Tagudin"
+    }
+  },
+  {
+    "id": "0102933019",
+    "code": "0102933019",
+    "name": "Farola",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102933000",
+      "code": "0102933000",
+      "name": "Tagudin"
+    }
+  },
+  {
+    "id": "0102933020",
+    "code": "0102933020",
+    "name": "Gabur",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102933000",
+      "code": "0102933000",
+      "name": "Tagudin"
+    }
+  },
+  {
+    "id": "0102933021",
+    "code": "0102933021",
+    "name": "Garitan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102933000",
+      "code": "0102933000",
+      "name": "Tagudin"
+    }
+  },
+  {
+    "id": "0102933022",
+    "code": "0102933022",
+    "name": "Jardin",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102933000",
+      "code": "0102933000",
+      "name": "Tagudin"
+    }
+  },
+  {
+    "id": "0102933023",
+    "code": "0102933023",
+    "name": "Lacong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102933000",
+      "code": "0102933000",
+      "name": "Tagudin"
+    }
+  },
+  {
+    "id": "0102933024",
+    "code": "0102933024",
+    "name": "Lantag",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102933000",
+      "code": "0102933000",
+      "name": "Tagudin"
+    }
+  },
+  {
+    "id": "0102933025",
+    "code": "0102933025",
+    "name": "Las-ud",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102933000",
+      "code": "0102933000",
+      "name": "Tagudin"
+    }
+  },
+  {
+    "id": "0102933026",
+    "code": "0102933026",
+    "name": "Libtong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102933000",
+      "code": "0102933000",
+      "name": "Tagudin"
+    }
+  },
+  {
+    "id": "0102933027",
+    "code": "0102933027",
+    "name": "Lubnac",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102933000",
+      "code": "0102933000",
+      "name": "Tagudin"
+    }
+  },
+  {
+    "id": "0102933028",
+    "code": "0102933028",
+    "name": "Magsaysay",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102933000",
+      "code": "0102933000",
+      "name": "Tagudin"
+    }
+  },
+  {
+    "id": "0102933029",
+    "code": "0102933029",
+    "name": "Malacañang",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102933000",
+      "code": "0102933000",
+      "name": "Tagudin"
+    }
+  },
+  {
+    "id": "0102933030",
+    "code": "0102933030",
+    "name": "Pacac",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102933000",
+      "code": "0102933000",
+      "name": "Tagudin"
+    }
+  },
+  {
+    "id": "0102933031",
+    "code": "0102933031",
+    "name": "Pallogan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102933000",
+      "code": "0102933000",
+      "name": "Tagudin"
+    }
+  },
+  {
+    "id": "0102933032",
+    "code": "0102933032",
+    "name": "Pudoc East",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102933000",
+      "code": "0102933000",
+      "name": "Tagudin"
+    }
+  },
+  {
+    "id": "0102933033",
+    "code": "0102933033",
+    "name": "Pudoc West",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102933000",
+      "code": "0102933000",
+      "name": "Tagudin"
+    }
+  },
+  {
+    "id": "0102933034",
+    "code": "0102933034",
+    "name": "Pula",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102933000",
+      "code": "0102933000",
+      "name": "Tagudin"
+    }
+  },
+  {
+    "id": "0102933035",
+    "code": "0102933035",
+    "name": "Quirino",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102933000",
+      "code": "0102933000",
+      "name": "Tagudin"
+    }
+  },
+  {
+    "id": "0102933036",
+    "code": "0102933036",
+    "name": "Ranget",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102933000",
+      "code": "0102933000",
+      "name": "Tagudin"
+    }
+  },
+  {
+    "id": "0102933038",
+    "code": "0102933038",
+    "name": "Rizal",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102933000",
+      "code": "0102933000",
+      "name": "Tagudin"
+    }
+  },
+  {
+    "id": "0102933039",
+    "code": "0102933039",
+    "name": "Salvacion",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102933000",
+      "code": "0102933000",
+      "name": "Tagudin"
+    }
+  },
+  {
+    "id": "0102933040",
+    "code": "0102933040",
+    "name": "San Miguel",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102933000",
+      "code": "0102933000",
+      "name": "Tagudin"
+    }
+  },
+  {
+    "id": "0102933041",
+    "code": "0102933041",
+    "name": "Sawat",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102933000",
+      "code": "0102933000",
+      "name": "Tagudin"
+    }
+  },
+  {
+    "id": "0102933044",
+    "code": "0102933044",
+    "name": "Tallaoen",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102933000",
+      "code": "0102933000",
+      "name": "Tagudin"
+    }
+  },
+  {
+    "id": "0102933045",
+    "code": "0102933045",
+    "name": "Tampugo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102933000",
+      "code": "0102933000",
+      "name": "Tagudin"
+    }
+  },
+  {
+    "id": "0102933046",
+    "code": "0102933046",
+    "name": "Tarangotong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102933000",
+      "code": "0102933000",
+      "name": "Tagudin"
+    }
+  }
+]

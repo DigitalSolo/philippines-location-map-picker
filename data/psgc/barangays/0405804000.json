@@ -1,0 +1,842 @@
+[
+  {
+    "id": "0405804001",
+    "code": "0405804001",
+    "name": "Bangad",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405804000",
+      "code": "0405804000",
+      "name": "Binangonan"
+    }
+  },
+  {
+    "id": "0405804002",
+    "code": "0405804002",
+    "name": "Batingan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405804000",
+      "code": "0405804000",
+      "name": "Binangonan"
+    }
+  },
+  {
+    "id": "0405804003",
+    "code": "0405804003",
+    "name": "Bilibiran",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405804000",
+      "code": "0405804000",
+      "name": "Binangonan"
+    }
+  },
+  {
+    "id": "0405804004",
+    "code": "0405804004",
+    "name": "Binitagan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405804000",
+      "code": "0405804000",
+      "name": "Binangonan"
+    }
+  },
+  {
+    "id": "0405804005",
+    "code": "0405804005",
+    "name": "Bombong",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405804000",
+      "code": "0405804000",
+      "name": "Binangonan"
+    }
+  },
+  {
+    "id": "0405804006",
+    "code": "0405804006",
+    "name": "Buhangin",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405804000",
+      "code": "0405804000",
+      "name": "Binangonan"
+    }
+  },
+  {
+    "id": "0405804007",
+    "code": "0405804007",
+    "name": "Calumpang",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405804000",
+      "code": "0405804000",
+      "name": "Binangonan"
+    }
+  },
+  {
+    "id": "0405804009",
+    "code": "0405804009",
+    "name": "Ginoong Sanay",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405804000",
+      "code": "0405804000",
+      "name": "Binangonan"
+    }
+  },
+  {
+    "id": "0405804010",
+    "code": "0405804010",
+    "name": "Gulod",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405804000",
+      "code": "0405804000",
+      "name": "Binangonan"
+    }
+  },
+  {
+    "id": "0405804011",
+    "code": "0405804011",
+    "name": "Habagatan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405804000",
+      "code": "0405804000",
+      "name": "Binangonan"
+    }
+  },
+  {
+    "id": "0405804012",
+    "code": "0405804012",
+    "name": "Ithan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405804000",
+      "code": "0405804000",
+      "name": "Binangonan"
+    }
+  },
+  {
+    "id": "0405804013",
+    "code": "0405804013",
+    "name": "Janosa",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405804000",
+      "code": "0405804000",
+      "name": "Binangonan"
+    }
+  },
+  {
+    "id": "0405804014",
+    "code": "0405804014",
+    "name": "Kalawaan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405804000",
+      "code": "0405804000",
+      "name": "Binangonan"
+    }
+  },
+  {
+    "id": "0405804015",
+    "code": "0405804015",
+    "name": "Kalinawan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405804000",
+      "code": "0405804000",
+      "name": "Binangonan"
+    }
+  },
+  {
+    "id": "0405804016",
+    "code": "0405804016",
+    "name": "Kasile",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405804000",
+      "code": "0405804000",
+      "name": "Binangonan"
+    }
+  },
+  {
+    "id": "0405804017",
+    "code": "0405804017",
+    "name": "Kaytome",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405804000",
+      "code": "0405804000",
+      "name": "Binangonan"
+    }
+  },
+  {
+    "id": "0405804018",
+    "code": "0405804018",
+    "name": "Kinaboogan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405804000",
+      "code": "0405804000",
+      "name": "Binangonan"
+    }
+  },
+  {
+    "id": "0405804019",
+    "code": "0405804019",
+    "name": "Kinagatan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405804000",
+      "code": "0405804000",
+      "name": "Binangonan"
+    }
+  },
+  {
+    "id": "0405804037",
+    "code": "0405804037",
+    "name": "Layunan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405804000",
+      "code": "0405804000",
+      "name": "Binangonan"
+    }
+  },
+  {
+    "id": "0405804038",
+    "code": "0405804038",
+    "name": "Libid",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405804000",
+      "code": "0405804000",
+      "name": "Binangonan"
+    }
+  },
+  {
+    "id": "0405804020",
+    "code": "0405804020",
+    "name": "Libis",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405804000",
+      "code": "0405804000",
+      "name": "Binangonan"
+    }
+  },
+  {
+    "id": "0405804021",
+    "code": "0405804021",
+    "name": "Limbon-limbon",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405804000",
+      "code": "0405804000",
+      "name": "Binangonan"
+    }
+  },
+  {
+    "id": "0405804022",
+    "code": "0405804022",
+    "name": "Lunsad",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405804000",
+      "code": "0405804000",
+      "name": "Binangonan"
+    }
+  },
+  {
+    "id": "0405804024",
+    "code": "0405804024",
+    "name": "Macamot",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405804000",
+      "code": "0405804000",
+      "name": "Binangonan"
+    }
+  },
+  {
+    "id": "0405804023",
+    "code": "0405804023",
+    "name": "Mahabang Parang",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405804000",
+      "code": "0405804000",
+      "name": "Binangonan"
+    }
+  },
+  {
+    "id": "0405804039",
+    "code": "0405804039",
+    "name": "Malakaban",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405804000",
+      "code": "0405804000",
+      "name": "Binangonan"
+    }
+  },
+  {
+    "id": "0405804025",
+    "code": "0405804025",
+    "name": "Mambog",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405804000",
+      "code": "0405804000",
+      "name": "Binangonan"
+    }
+  },
+  {
+    "id": "0405804040",
+    "code": "0405804040",
+    "name": "Pag-Asa",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405804000",
+      "code": "0405804000",
+      "name": "Binangonan"
+    }
+  },
+  {
+    "id": "0405804026",
+    "code": "0405804026",
+    "name": "Palangoy",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405804000",
+      "code": "0405804000",
+      "name": "Binangonan"
+    }
+  },
+  {
+    "id": "0405804027",
+    "code": "0405804027",
+    "name": "Pantok",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405804000",
+      "code": "0405804000",
+      "name": "Binangonan"
+    }
+  },
+  {
+    "id": "0405804028",
+    "code": "0405804028",
+    "name": "Pila Pila",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405804000",
+      "code": "0405804000",
+      "name": "Binangonan"
+    }
+  },
+  {
+    "id": "0405804029",
+    "code": "0405804029",
+    "name": "Pinagdilawan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405804000",
+      "code": "0405804000",
+      "name": "Binangonan"
+    }
+  },
+  {
+    "id": "0405804030",
+    "code": "0405804030",
+    "name": "Pipindan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405804000",
+      "code": "0405804000",
+      "name": "Binangonan"
+    }
+  },
+  {
+    "id": "0405804031",
+    "code": "0405804031",
+    "name": "Rayap",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405804000",
+      "code": "0405804000",
+      "name": "Binangonan"
+    }
+  },
+  {
+    "id": "0405804041",
+    "code": "0405804041",
+    "name": "San Carlos",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405804000",
+      "code": "0405804000",
+      "name": "Binangonan"
+    }
+  },
+  {
+    "id": "0405804032",
+    "code": "0405804032",
+    "name": "Sapang",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405804000",
+      "code": "0405804000",
+      "name": "Binangonan"
+    }
+  },
+  {
+    "id": "0405804033",
+    "code": "0405804033",
+    "name": "Tabon",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405804000",
+      "code": "0405804000",
+      "name": "Binangonan"
+    }
+  },
+  {
+    "id": "0405804034",
+    "code": "0405804034",
+    "name": "Tagpos",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405804000",
+      "code": "0405804000",
+      "name": "Binangonan"
+    }
+  },
+  {
+    "id": "0405804035",
+    "code": "0405804035",
+    "name": "Tatala",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405804000",
+      "code": "0405804000",
+      "name": "Binangonan"
+    }
+  },
+  {
+    "id": "0405804036",
+    "code": "0405804036",
+    "name": "Tayuman",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405804000",
+      "code": "0405804000",
+      "name": "Binangonan"
+    }
+  }
+]

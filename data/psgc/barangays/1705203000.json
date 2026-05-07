@@ -1,0 +1,758 @@
+[
+  {
+    "id": "1705203001",
+    "code": "1705203001",
+    "name": "Anilao",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705203000",
+      "code": "1705203000",
+      "name": "Bongabong"
+    }
+  },
+  {
+    "id": "1705203033",
+    "code": "1705203033",
+    "name": "Aplaya",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705203000",
+      "code": "1705203000",
+      "name": "Bongabong"
+    }
+  },
+  {
+    "id": "1705203034",
+    "code": "1705203034",
+    "name": "Bagumbayan I",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705203000",
+      "code": "1705203000",
+      "name": "Bongabong"
+    }
+  },
+  {
+    "id": "1705203035",
+    "code": "1705203035",
+    "name": "Bagumbayan II",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705203000",
+      "code": "1705203000",
+      "name": "Bongabong"
+    }
+  },
+  {
+    "id": "1705203002",
+    "code": "1705203002",
+    "name": "Batangan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705203000",
+      "code": "1705203000",
+      "name": "Bongabong"
+    }
+  },
+  {
+    "id": "1705203003",
+    "code": "1705203003",
+    "name": "Bukal",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705203000",
+      "code": "1705203000",
+      "name": "Bongabong"
+    }
+  },
+  {
+    "id": "1705203004",
+    "code": "1705203004",
+    "name": "Camantigue",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705203000",
+      "code": "1705203000",
+      "name": "Bongabong"
+    }
+  },
+  {
+    "id": "1705203005",
+    "code": "1705203005",
+    "name": "Carmundo",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705203000",
+      "code": "1705203000",
+      "name": "Bongabong"
+    }
+  },
+  {
+    "id": "1705203006",
+    "code": "1705203006",
+    "name": "Cawayan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705203000",
+      "code": "1705203000",
+      "name": "Bongabong"
+    }
+  },
+  {
+    "id": "1705203007",
+    "code": "1705203007",
+    "name": "Dayhagan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705203000",
+      "code": "1705203000",
+      "name": "Bongabong"
+    }
+  },
+  {
+    "id": "1705203008",
+    "code": "1705203008",
+    "name": "Formon",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705203000",
+      "code": "1705203000",
+      "name": "Bongabong"
+    }
+  },
+  {
+    "id": "1705203009",
+    "code": "1705203009",
+    "name": "Hagan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705203000",
+      "code": "1705203000",
+      "name": "Bongabong"
+    }
+  },
+  {
+    "id": "1705203010",
+    "code": "1705203010",
+    "name": "Hagupit",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705203000",
+      "code": "1705203000",
+      "name": "Bongabong"
+    }
+  },
+  {
+    "id": "1705203036",
+    "code": "1705203036",
+    "name": "Ipil",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705203000",
+      "code": "1705203000",
+      "name": "Bongabong"
+    }
+  },
+  {
+    "id": "1705203011",
+    "code": "1705203011",
+    "name": "Kaligtasan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705203000",
+      "code": "1705203000",
+      "name": "Bongabong"
+    }
+  },
+  {
+    "id": "1705203012",
+    "code": "1705203012",
+    "name": "Labasan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705203000",
+      "code": "1705203000",
+      "name": "Bongabong"
+    }
+  },
+  {
+    "id": "1705203013",
+    "code": "1705203013",
+    "name": "Labonan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705203000",
+      "code": "1705203000",
+      "name": "Bongabong"
+    }
+  },
+  {
+    "id": "1705203014",
+    "code": "1705203014",
+    "name": "Libertad",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705203000",
+      "code": "1705203000",
+      "name": "Bongabong"
+    }
+  },
+  {
+    "id": "1705203015",
+    "code": "1705203015",
+    "name": "Lisap",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705203000",
+      "code": "1705203000",
+      "name": "Bongabong"
+    }
+  },
+  {
+    "id": "1705203016",
+    "code": "1705203016",
+    "name": "Luna",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705203000",
+      "code": "1705203000",
+      "name": "Bongabong"
+    }
+  },
+  {
+    "id": "1705203017",
+    "code": "1705203017",
+    "name": "Malitbog",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705203000",
+      "code": "1705203000",
+      "name": "Bongabong"
+    }
+  },
+  {
+    "id": "1705203018",
+    "code": "1705203018",
+    "name": "Mapang",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705203000",
+      "code": "1705203000",
+      "name": "Bongabong"
+    }
+  },
+  {
+    "id": "1705203019",
+    "code": "1705203019",
+    "name": "Masaguisi",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705203000",
+      "code": "1705203000",
+      "name": "Bongabong"
+    }
+  },
+  {
+    "id": "1705203037",
+    "code": "1705203037",
+    "name": "Mina de Oro",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705203000",
+      "code": "1705203000",
+      "name": "Bongabong"
+    }
+  },
+  {
+    "id": "1705203020",
+    "code": "1705203020",
+    "name": "Morente",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705203000",
+      "code": "1705203000",
+      "name": "Bongabong"
+    }
+  },
+  {
+    "id": "1705203021",
+    "code": "1705203021",
+    "name": "Ogbot",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705203000",
+      "code": "1705203000",
+      "name": "Bongabong"
+    }
+  },
+  {
+    "id": "1705203022",
+    "code": "1705203022",
+    "name": "Orconuma",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705203000",
+      "code": "1705203000",
+      "name": "Bongabong"
+    }
+  },
+  {
+    "id": "1705203032",
+    "code": "1705203032",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705203000",
+      "code": "1705203000",
+      "name": "Bongabong"
+    }
+  },
+  {
+    "id": "1705203023",
+    "code": "1705203023",
+    "name": "Polusahi",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705203000",
+      "code": "1705203000",
+      "name": "Bongabong"
+    }
+  },
+  {
+    "id": "1705203024",
+    "code": "1705203024",
+    "name": "Sagana",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705203000",
+      "code": "1705203000",
+      "name": "Bongabong"
+    }
+  },
+  {
+    "id": "1705203025",
+    "code": "1705203025",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705203000",
+      "code": "1705203000",
+      "name": "Bongabong"
+    }
+  },
+  {
+    "id": "1705203026",
+    "code": "1705203026",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705203000",
+      "code": "1705203000",
+      "name": "Bongabong"
+    }
+  },
+  {
+    "id": "1705203027",
+    "code": "1705203027",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705203000",
+      "code": "1705203000",
+      "name": "Bongabong"
+    }
+  },
+  {
+    "id": "1705203028",
+    "code": "1705203028",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705203000",
+      "code": "1705203000",
+      "name": "Bongabong"
+    }
+  },
+  {
+    "id": "1705203029",
+    "code": "1705203029",
+    "name": "Sigange",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705203000",
+      "code": "1705203000",
+      "name": "Bongabong"
+    }
+  },
+  {
+    "id": "1705203031",
+    "code": "1705203031",
+    "name": "Tawas",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705203000",
+      "code": "1705203000",
+      "name": "Bongabong"
+    }
+  }
+]

@@ -1,0 +1,506 @@
+[
+  {
+    "id": "1804502001",
+    "code": "1804502001",
+    "name": "Abuanan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804502000",
+      "code": "1804502000",
+      "name": "City of Bago"
+    }
+  },
+  {
+    "id": "1804502002",
+    "code": "1804502002",
+    "name": "Alianza",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804502000",
+      "code": "1804502000",
+      "name": "City of Bago"
+    }
+  },
+  {
+    "id": "1804502003",
+    "code": "1804502003",
+    "name": "Atipuluan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804502000",
+      "code": "1804502000",
+      "name": "City of Bago"
+    }
+  },
+  {
+    "id": "1804502004",
+    "code": "1804502004",
+    "name": "Bacong-Montilla",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804502000",
+      "code": "1804502000",
+      "name": "City of Bago"
+    }
+  },
+  {
+    "id": "1804502005",
+    "code": "1804502005",
+    "name": "Bagroy",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804502000",
+      "code": "1804502000",
+      "name": "City of Bago"
+    }
+  },
+  {
+    "id": "1804502006",
+    "code": "1804502006",
+    "name": "Balingasag",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804502000",
+      "code": "1804502000",
+      "name": "City of Bago"
+    }
+  },
+  {
+    "id": "1804502007",
+    "code": "1804502007",
+    "name": "Binubuhan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804502000",
+      "code": "1804502000",
+      "name": "City of Bago"
+    }
+  },
+  {
+    "id": "1804502008",
+    "code": "1804502008",
+    "name": "Busay",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804502000",
+      "code": "1804502000",
+      "name": "City of Bago"
+    }
+  },
+  {
+    "id": "1804502009",
+    "code": "1804502009",
+    "name": "Calumangan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804502000",
+      "code": "1804502000",
+      "name": "City of Bago"
+    }
+  },
+  {
+    "id": "1804502010",
+    "code": "1804502010",
+    "name": "Caridad",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804502000",
+      "code": "1804502000",
+      "name": "City of Bago"
+    }
+  },
+  {
+    "id": "1804502011",
+    "code": "1804502011",
+    "name": "Dulao",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804502000",
+      "code": "1804502000",
+      "name": "City of Bago"
+    }
+  },
+  {
+    "id": "1804502012",
+    "code": "1804502012",
+    "name": "Ilijan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804502000",
+      "code": "1804502000",
+      "name": "City of Bago"
+    }
+  },
+  {
+    "id": "1804502015",
+    "code": "1804502015",
+    "name": "Jorge L. Araneta",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804502000",
+      "code": "1804502000",
+      "name": "City of Bago"
+    }
+  },
+  {
+    "id": "1804502013",
+    "code": "1804502013",
+    "name": "Lag-Asan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804502000",
+      "code": "1804502000",
+      "name": "City of Bago"
+    }
+  },
+  {
+    "id": "1804502014",
+    "code": "1804502014",
+    "name": "Ma-ao Barrio",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804502000",
+      "code": "1804502000",
+      "name": "City of Bago"
+    }
+  },
+  {
+    "id": "1804502016",
+    "code": "1804502016",
+    "name": "Mailum",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804502000",
+      "code": "1804502000",
+      "name": "City of Bago"
+    }
+  },
+  {
+    "id": "1804502017",
+    "code": "1804502017",
+    "name": "Malingin",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804502000",
+      "code": "1804502000",
+      "name": "City of Bago"
+    }
+  },
+  {
+    "id": "1804502018",
+    "code": "1804502018",
+    "name": "Napoles",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804502000",
+      "code": "1804502000",
+      "name": "City of Bago"
+    }
+  },
+  {
+    "id": "1804502019",
+    "code": "1804502019",
+    "name": "Pacol",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804502000",
+      "code": "1804502000",
+      "name": "City of Bago"
+    }
+  },
+  {
+    "id": "1804502020",
+    "code": "1804502020",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804502000",
+      "code": "1804502000",
+      "name": "City of Bago"
+    }
+  },
+  {
+    "id": "1804502021",
+    "code": "1804502021",
+    "name": "Sagasa",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804502000",
+      "code": "1804502000",
+      "name": "City of Bago"
+    }
+  },
+  {
+    "id": "1804502024",
+    "code": "1804502024",
+    "name": "Sampinit",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804502000",
+      "code": "1804502000",
+      "name": "City of Bago"
+    }
+  },
+  {
+    "id": "1804502022",
+    "code": "1804502022",
+    "name": "Tabunan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804502000",
+      "code": "1804502000",
+      "name": "City of Bago"
+    }
+  },
+  {
+    "id": "1804502023",
+    "code": "1804502023",
+    "name": "Taloc",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804502000",
+      "code": "1804502000",
+      "name": "City of Bago"
+    }
+  }
+]

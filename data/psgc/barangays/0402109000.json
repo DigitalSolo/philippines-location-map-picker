@@ -1,0 +1,2039 @@
+[
+  {
+    "id": "0402109001",
+    "code": "0402109001",
+    "name": "Alapan I-A",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109026",
+    "code": "0402109026",
+    "name": "Alapan I-B",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109027",
+    "code": "0402109027",
+    "name": "Alapan I-C",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109002",
+    "code": "0402109002",
+    "name": "Alapan II-A",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109028",
+    "code": "0402109028",
+    "name": "Alapan II-B",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109003",
+    "code": "0402109003",
+    "name": "Anabu I-A",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109029",
+    "code": "0402109029",
+    "name": "Anabu I-B",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109030",
+    "code": "0402109030",
+    "name": "Anabu I-C",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109031",
+    "code": "0402109031",
+    "name": "Anabu I-D",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109032",
+    "code": "0402109032",
+    "name": "Anabu I-E",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109033",
+    "code": "0402109033",
+    "name": "Anabu I-F",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109034",
+    "code": "0402109034",
+    "name": "Anabu I-G",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109004",
+    "code": "0402109004",
+    "name": "Anabu II-A",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109035",
+    "code": "0402109035",
+    "name": "Anabu II-B",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109036",
+    "code": "0402109036",
+    "name": "Anabu II-C",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109037",
+    "code": "0402109037",
+    "name": "Anabu II-D",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109038",
+    "code": "0402109038",
+    "name": "Anabu II-E",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109039",
+    "code": "0402109039",
+    "name": "Anabu II-F",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109040",
+    "code": "0402109040",
+    "name": "Bagong Silang",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109010",
+    "code": "0402109010",
+    "name": "Bayan Luma I",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109041",
+    "code": "0402109041",
+    "name": "Bayan Luma II",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109042",
+    "code": "0402109042",
+    "name": "Bayan Luma III",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109043",
+    "code": "0402109043",
+    "name": "Bayan Luma IV",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109048",
+    "code": "0402109048",
+    "name": "Bayan Luma IX",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109044",
+    "code": "0402109044",
+    "name": "Bayan Luma V",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109045",
+    "code": "0402109045",
+    "name": "Bayan Luma VI",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109046",
+    "code": "0402109046",
+    "name": "Bayan Luma VII",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109047",
+    "code": "0402109047",
+    "name": "Bayan Luma VIII",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109011",
+    "code": "0402109011",
+    "name": "Bucandala I",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109049",
+    "code": "0402109049",
+    "name": "Bucandala II",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109050",
+    "code": "0402109050",
+    "name": "Bucandala III",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109051",
+    "code": "0402109051",
+    "name": "Bucandala IV",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109052",
+    "code": "0402109052",
+    "name": "Bucandala V",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109053",
+    "code": "0402109053",
+    "name": "Buhay na Tubig",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109012",
+    "code": "0402109012",
+    "name": "Carsadang Bago I",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109054",
+    "code": "0402109054",
+    "name": "Carsadang Bago II",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109055",
+    "code": "0402109055",
+    "name": "Magdalo",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109056",
+    "code": "0402109056",
+    "name": "Maharlika",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109014",
+    "code": "0402109014",
+    "name": "Malagasang I-A",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109057",
+    "code": "0402109057",
+    "name": "Malagasang I-B",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109058",
+    "code": "0402109058",
+    "name": "Malagasang I-C",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109059",
+    "code": "0402109059",
+    "name": "Malagasang I-D",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109060",
+    "code": "0402109060",
+    "name": "Malagasang I-E",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109061",
+    "code": "0402109061",
+    "name": "Malagasang I-F",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109062",
+    "code": "0402109062",
+    "name": "Malagasang I-G",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109015",
+    "code": "0402109015",
+    "name": "Malagasang II-A",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109063",
+    "code": "0402109063",
+    "name": "Malagasang II-B",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109064",
+    "code": "0402109064",
+    "name": "Malagasang II-C",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109065",
+    "code": "0402109065",
+    "name": "Malagasang II-D",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109066",
+    "code": "0402109066",
+    "name": "Malagasang II-E",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109067",
+    "code": "0402109067",
+    "name": "Malagasang II-F",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109068",
+    "code": "0402109068",
+    "name": "Malagasang II-G",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109069",
+    "code": "0402109069",
+    "name": "Mariano Espeleta I",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109070",
+    "code": "0402109070",
+    "name": "Mariano Espeleta II",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109071",
+    "code": "0402109071",
+    "name": "Mariano Espeleta III",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109016",
+    "code": "0402109016",
+    "name": "Medicion I-A",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109072",
+    "code": "0402109072",
+    "name": "Medicion I-B",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109073",
+    "code": "0402109073",
+    "name": "Medicion I-C",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109074",
+    "code": "0402109074",
+    "name": "Medicion I-D",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109017",
+    "code": "0402109017",
+    "name": "Medicion II-A",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109075",
+    "code": "0402109075",
+    "name": "Medicion II-B",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109076",
+    "code": "0402109076",
+    "name": "Medicion II-C",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109077",
+    "code": "0402109077",
+    "name": "Medicion II-D",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109078",
+    "code": "0402109078",
+    "name": "Medicion II-E",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109079",
+    "code": "0402109079",
+    "name": "Medicion II-F",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109018",
+    "code": "0402109018",
+    "name": "Pag-Asa I",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109080",
+    "code": "0402109080",
+    "name": "Pag-Asa II",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109081",
+    "code": "0402109081",
+    "name": "Pag-Asa III",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109019",
+    "code": "0402109019",
+    "name": "Palico I",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109082",
+    "code": "0402109082",
+    "name": "Palico II",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109083",
+    "code": "0402109083",
+    "name": "Palico III",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109084",
+    "code": "0402109084",
+    "name": "Palico IV",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109020",
+    "code": "0402109020",
+    "name": "Pasong Buaya I",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109085",
+    "code": "0402109085",
+    "name": "Pasong Buaya II",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109086",
+    "code": "0402109086",
+    "name": "Pinagbuklod",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109006",
+    "code": "0402109006",
+    "name": "Poblacion I-A",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109087",
+    "code": "0402109087",
+    "name": "Poblacion I-B",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109088",
+    "code": "0402109088",
+    "name": "Poblacion I-C",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109007",
+    "code": "0402109007",
+    "name": "Poblacion II-A",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109089",
+    "code": "0402109089",
+    "name": "Poblacion II-B",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109008",
+    "code": "0402109008",
+    "name": "Poblacion III-A",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109090",
+    "code": "0402109090",
+    "name": "Poblacion III-B",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109009",
+    "code": "0402109009",
+    "name": "Poblacion IV-A",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109091",
+    "code": "0402109091",
+    "name": "Poblacion IV-B",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109092",
+    "code": "0402109092",
+    "name": "Poblacion IV-C",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109093",
+    "code": "0402109093",
+    "name": "Poblacion IV-D",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109022",
+    "code": "0402109022",
+    "name": "Tanzang Luma I",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109094",
+    "code": "0402109094",
+    "name": "Tanzang Luma II",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109095",
+    "code": "0402109095",
+    "name": "Tanzang Luma III",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109096",
+    "code": "0402109096",
+    "name": "Tanzang Luma IV",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109097",
+    "code": "0402109097",
+    "name": "Tanzang Luma V",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109098",
+    "code": "0402109098",
+    "name": "Tanzang Luma VI",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109024",
+    "code": "0402109024",
+    "name": "Toclong I-A",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109099",
+    "code": "0402109099",
+    "name": "Toclong I-B",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109100",
+    "code": "0402109100",
+    "name": "Toclong I-C",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109025",
+    "code": "0402109025",
+    "name": "Toclong II-A",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  },
+  {
+    "id": "0402109101",
+    "code": "0402109101",
+    "name": "Toclong II-B",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402109000",
+      "code": "0402109000",
+      "name": "City of Imus"
+    }
+  }
+]

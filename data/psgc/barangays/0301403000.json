@@ -1,0 +1,569 @@
+[
+  {
+    "id": "0301403001",
+    "code": "0301403001",
+    "name": "Bagong Nayon",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301403000",
+      "code": "0301403000",
+      "name": "City of Baliwag"
+    }
+  },
+  {
+    "id": "0301403002",
+    "code": "0301403002",
+    "name": "Barangca",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301403000",
+      "code": "0301403000",
+      "name": "City of Baliwag"
+    }
+  },
+  {
+    "id": "0301403003",
+    "code": "0301403003",
+    "name": "Calantipay",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301403000",
+      "code": "0301403000",
+      "name": "City of Baliwag"
+    }
+  },
+  {
+    "id": "0301403004",
+    "code": "0301403004",
+    "name": "Catulinan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301403000",
+      "code": "0301403000",
+      "name": "City of Baliwag"
+    }
+  },
+  {
+    "id": "0301403005",
+    "code": "0301403005",
+    "name": "Concepcion",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301403000",
+      "code": "0301403000",
+      "name": "City of Baliwag"
+    }
+  },
+  {
+    "id": "0301403006",
+    "code": "0301403006",
+    "name": "Hinukay",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301403000",
+      "code": "0301403000",
+      "name": "City of Baliwag"
+    }
+  },
+  {
+    "id": "0301403007",
+    "code": "0301403007",
+    "name": "Makinabang",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301403000",
+      "code": "0301403000",
+      "name": "City of Baliwag"
+    }
+  },
+  {
+    "id": "0301403008",
+    "code": "0301403008",
+    "name": "Matangtubig",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301403000",
+      "code": "0301403000",
+      "name": "City of Baliwag"
+    }
+  },
+  {
+    "id": "0301403010",
+    "code": "0301403010",
+    "name": "Pagala",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301403000",
+      "code": "0301403000",
+      "name": "City of Baliwag"
+    }
+  },
+  {
+    "id": "0301403011",
+    "code": "0301403011",
+    "name": "Paitan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301403000",
+      "code": "0301403000",
+      "name": "City of Baliwag"
+    }
+  },
+  {
+    "id": "0301403012",
+    "code": "0301403012",
+    "name": "Piel",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301403000",
+      "code": "0301403000",
+      "name": "City of Baliwag"
+    }
+  },
+  {
+    "id": "0301403013",
+    "code": "0301403013",
+    "name": "Pinagbarilan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301403000",
+      "code": "0301403000",
+      "name": "City of Baliwag"
+    }
+  },
+  {
+    "id": "0301403014",
+    "code": "0301403014",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301403000",
+      "code": "0301403000",
+      "name": "City of Baliwag"
+    }
+  },
+  {
+    "id": "0301403016",
+    "code": "0301403016",
+    "name": "Sabang",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301403000",
+      "code": "0301403000",
+      "name": "City of Baliwag"
+    }
+  },
+  {
+    "id": "0301403017",
+    "code": "0301403017",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301403000",
+      "code": "0301403000",
+      "name": "City of Baliwag"
+    }
+  },
+  {
+    "id": "0301403018",
+    "code": "0301403018",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301403000",
+      "code": "0301403000",
+      "name": "City of Baliwag"
+    }
+  },
+  {
+    "id": "0301403019",
+    "code": "0301403019",
+    "name": "Santa Barbara",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301403000",
+      "code": "0301403000",
+      "name": "City of Baliwag"
+    }
+  },
+  {
+    "id": "0301403020",
+    "code": "0301403020",
+    "name": "Santo Cristo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301403000",
+      "code": "0301403000",
+      "name": "City of Baliwag"
+    }
+  },
+  {
+    "id": "0301403021",
+    "code": "0301403021",
+    "name": "Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301403000",
+      "code": "0301403000",
+      "name": "City of Baliwag"
+    }
+  },
+  {
+    "id": "0301403022",
+    "code": "0301403022",
+    "name": "Subic",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301403000",
+      "code": "0301403000",
+      "name": "City of Baliwag"
+    }
+  },
+  {
+    "id": "0301403023",
+    "code": "0301403023",
+    "name": "Sulivan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301403000",
+      "code": "0301403000",
+      "name": "City of Baliwag"
+    }
+  },
+  {
+    "id": "0301403024",
+    "code": "0301403024",
+    "name": "Tangos",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301403000",
+      "code": "0301403000",
+      "name": "City of Baliwag"
+    }
+  },
+  {
+    "id": "0301403025",
+    "code": "0301403025",
+    "name": "Tarcan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301403000",
+      "code": "0301403000",
+      "name": "City of Baliwag"
+    }
+  },
+  {
+    "id": "0301403026",
+    "code": "0301403026",
+    "name": "Tiaong",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301403000",
+      "code": "0301403000",
+      "name": "City of Baliwag"
+    }
+  },
+  {
+    "id": "0301403027",
+    "code": "0301403027",
+    "name": "Tibag",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301403000",
+      "code": "0301403000",
+      "name": "City of Baliwag"
+    }
+  },
+  {
+    "id": "0301403028",
+    "code": "0301403028",
+    "name": "Tilapayong",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301403000",
+      "code": "0301403000",
+      "name": "City of Baliwag"
+    }
+  },
+  {
+    "id": "0301403030",
+    "code": "0301403030",
+    "name": "Virgen delas Flores",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301403000",
+      "code": "0301403000",
+      "name": "City of Baliwag"
+    }
+  }
+]

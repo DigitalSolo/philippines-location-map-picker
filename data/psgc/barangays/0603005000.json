@@ -1,0 +1,485 @@
+[
+  {
+    "id": "0603005001",
+    "code": "0603005001",
+    "name": "Aranjuez",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603005000",
+      "code": "0603005000",
+      "name": "Balasan"
+    }
+  },
+  {
+    "id": "0603005002",
+    "code": "0603005002",
+    "name": "Bacolod",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603005000",
+      "code": "0603005000",
+      "name": "Balasan"
+    }
+  },
+  {
+    "id": "0603005003",
+    "code": "0603005003",
+    "name": "Balanti-an",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603005000",
+      "code": "0603005000",
+      "name": "Balasan"
+    }
+  },
+  {
+    "id": "0603005004",
+    "code": "0603005004",
+    "name": "Batuan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603005000",
+      "code": "0603005000",
+      "name": "Balasan"
+    }
+  },
+  {
+    "id": "0603005005",
+    "code": "0603005005",
+    "name": "Cabalic",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603005000",
+      "code": "0603005000",
+      "name": "Balasan"
+    }
+  },
+  {
+    "id": "0603005006",
+    "code": "0603005006",
+    "name": "Camambugan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603005000",
+      "code": "0603005000",
+      "name": "Balasan"
+    }
+  },
+  {
+    "id": "0603005007",
+    "code": "0603005007",
+    "name": "Dolores",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603005000",
+      "code": "0603005000",
+      "name": "Balasan"
+    }
+  },
+  {
+    "id": "0603005008",
+    "code": "0603005008",
+    "name": "Gimamanay",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603005000",
+      "code": "0603005000",
+      "name": "Balasan"
+    }
+  },
+  {
+    "id": "0603005009",
+    "code": "0603005009",
+    "name": "Ipil",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603005000",
+      "code": "0603005000",
+      "name": "Balasan"
+    }
+  },
+  {
+    "id": "0603005010",
+    "code": "0603005010",
+    "name": "Kinalkalan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603005000",
+      "code": "0603005000",
+      "name": "Balasan"
+    }
+  },
+  {
+    "id": "0603005011",
+    "code": "0603005011",
+    "name": "Lawis",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603005000",
+      "code": "0603005000",
+      "name": "Balasan"
+    }
+  },
+  {
+    "id": "0603005012",
+    "code": "0603005012",
+    "name": "Malapoc",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603005000",
+      "code": "0603005000",
+      "name": "Balasan"
+    }
+  },
+  {
+    "id": "0603005013",
+    "code": "0603005013",
+    "name": "Mamhut Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603005000",
+      "code": "0603005000",
+      "name": "Balasan"
+    }
+  },
+  {
+    "id": "0603005014",
+    "code": "0603005014",
+    "name": "Mamhut Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603005000",
+      "code": "0603005000",
+      "name": "Balasan"
+    }
+  },
+  {
+    "id": "0603005015",
+    "code": "0603005015",
+    "name": "Maya",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603005000",
+      "code": "0603005000",
+      "name": "Balasan"
+    }
+  },
+  {
+    "id": "0603005016",
+    "code": "0603005016",
+    "name": "Pani-an",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603005000",
+      "code": "0603005000",
+      "name": "Balasan"
+    }
+  },
+  {
+    "id": "0603005017",
+    "code": "0603005017",
+    "name": "Poblacion Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603005000",
+      "code": "0603005000",
+      "name": "Balasan"
+    }
+  },
+  {
+    "id": "0603005018",
+    "code": "0603005018",
+    "name": "Poblacion Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603005000",
+      "code": "0603005000",
+      "name": "Balasan"
+    }
+  },
+  {
+    "id": "0603005019",
+    "code": "0603005019",
+    "name": "Quiasan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603005000",
+      "code": "0603005000",
+      "name": "Balasan"
+    }
+  },
+  {
+    "id": "0603005020",
+    "code": "0603005020",
+    "name": "Salong",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603005000",
+      "code": "0603005000",
+      "name": "Balasan"
+    }
+  },
+  {
+    "id": "0603005021",
+    "code": "0603005021",
+    "name": "Salvacion",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603005000",
+      "code": "0603005000",
+      "name": "Balasan"
+    }
+  },
+  {
+    "id": "0603005022",
+    "code": "0603005022",
+    "name": "Tingui-an",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603005000",
+      "code": "0603005000",
+      "name": "Balasan"
+    }
+  },
+  {
+    "id": "0603005023",
+    "code": "0603005023",
+    "name": "Zaragosa",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603005000",
+      "code": "0603005000",
+      "name": "Balasan"
+    }
+  }
+]

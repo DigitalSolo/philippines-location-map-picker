@@ -1,0 +1,57 @@
+[
+  {
+    "id": "0401000000",
+    "code": "0401000000",
+    "name": "Batangas",
+    "type": "province",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    }
+  },
+  {
+    "id": "0402100000",
+    "code": "0402100000",
+    "name": "Cavite",
+    "type": "province",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    }
+  },
+  {
+    "id": "0403400000",
+    "code": "0403400000",
+    "name": "Laguna",
+    "type": "province",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    }
+  },
+  {
+    "id": "0405600000",
+    "code": "0405600000",
+    "name": "Quezon",
+    "type": "province",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    }
+  },
+  {
+    "id": "0405800000",
+    "code": "0405800000",
+    "name": "Rizal",
+    "type": "province",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    }
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "id": "0304922010",
+    "code": "0304922010",
+    "name": "Barangay I",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304922000",
+      "code": "0304922000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0304922011",
+    "code": "0304922011",
+    "name": "Barangay II",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304922000",
+      "code": "0304922000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0304922001",
+    "code": "0304922001",
+    "name": "Bertese",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304922000",
+      "code": "0304922000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0304922004",
+    "code": "0304922004",
+    "name": "Doña Lucia",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304922000",
+      "code": "0304922000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0304922005",
+    "code": "0304922005",
+    "name": "Dulong Bayan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304922000",
+      "code": "0304922000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0304922006",
+    "code": "0304922006",
+    "name": "Ilog Baliwag",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304922000",
+      "code": "0304922000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0304922012",
+    "code": "0304922012",
+    "name": "Pulong Bahay",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304922000",
+      "code": "0304922000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0304922013",
+    "code": "0304922013",
+    "name": "San Alejandro",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304922000",
+      "code": "0304922000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0304922014",
+    "code": "0304922014",
+    "name": "San Andres I",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304922000",
+      "code": "0304922000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0304922015",
+    "code": "0304922015",
+    "name": "San Andres II",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304922000",
+      "code": "0304922000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0304922017",
+    "code": "0304922017",
+    "name": "San Manuel",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304922000",
+      "code": "0304922000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0304922024",
+    "code": "0304922024",
+    "name": "San Miguel",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304922000",
+      "code": "0304922000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0304922018",
+    "code": "0304922018",
+    "name": "Santa Clara",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304922000",
+      "code": "0304922000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0304922019",
+    "code": "0304922019",
+    "name": "Santa Rita",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304922000",
+      "code": "0304922000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0304922020",
+    "code": "0304922020",
+    "name": "Santo Cristo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304922000",
+      "code": "0304922000",
+      "name": "Quezon"
+    }
+  },
+  {
+    "id": "0304922022",
+    "code": "0304922022",
+    "name": "Santo Tomas Feria",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304922000",
+      "code": "0304922000",
+      "name": "Quezon"
+    }
+  }
+]

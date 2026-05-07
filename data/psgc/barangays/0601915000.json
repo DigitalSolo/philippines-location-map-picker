@@ -1,0 +1,212 @@
+[
+  {
+    "id": "0601915001",
+    "code": "0601915001",
+    "name": "Agsilab",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601915000",
+      "code": "0601915000",
+      "name": "Sapi-An"
+    }
+  },
+  {
+    "id": "0601915002",
+    "code": "0601915002",
+    "name": "Agtatacay Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601915000",
+      "code": "0601915000",
+      "name": "Sapi-An"
+    }
+  },
+  {
+    "id": "0601915003",
+    "code": "0601915003",
+    "name": "Agtatacay Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601915000",
+      "code": "0601915000",
+      "name": "Sapi-An"
+    }
+  },
+  {
+    "id": "0601915004",
+    "code": "0601915004",
+    "name": "Bilao",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601915000",
+      "code": "0601915000",
+      "name": "Sapi-An"
+    }
+  },
+  {
+    "id": "0601915005",
+    "code": "0601915005",
+    "name": "Damayan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601915000",
+      "code": "0601915000",
+      "name": "Sapi-An"
+    }
+  },
+  {
+    "id": "0601915006",
+    "code": "0601915006",
+    "name": "Dapdapan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601915000",
+      "code": "0601915000",
+      "name": "Sapi-An"
+    }
+  },
+  {
+    "id": "0601915007",
+    "code": "0601915007",
+    "name": "Lonoy",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601915000",
+      "code": "0601915000",
+      "name": "Sapi-An"
+    }
+  },
+  {
+    "id": "0601915008",
+    "code": "0601915008",
+    "name": "Majanlud",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601915000",
+      "code": "0601915000",
+      "name": "Sapi-An"
+    }
+  },
+  {
+    "id": "0601915009",
+    "code": "0601915009",
+    "name": "Maninang",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601915000",
+      "code": "0601915000",
+      "name": "Sapi-An"
+    }
+  },
+  {
+    "id": "0601915010",
+    "code": "0601915010",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601915000",
+      "code": "0601915000",
+      "name": "Sapi-An"
+    }
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "id": "0502005001",
+    "code": "0502005001",
+    "name": "Biong",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502005000",
+      "code": "0502005000",
+      "name": "Gigmoto"
+    }
+  },
+  {
+    "id": "0502005002",
+    "code": "0502005002",
+    "name": "Dororian",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502005000",
+      "code": "0502005000",
+      "name": "Gigmoto"
+    }
+  },
+  {
+    "id": "0502005003",
+    "code": "0502005003",
+    "name": "Poblacion District I",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502005000",
+      "code": "0502005000",
+      "name": "Gigmoto"
+    }
+  },
+  {
+    "id": "0502005004",
+    "code": "0502005004",
+    "name": "Poblacion District II",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502005000",
+      "code": "0502005000",
+      "name": "Gigmoto"
+    }
+  },
+  {
+    "id": "0502005005",
+    "code": "0502005005",
+    "name": "Poblacion District III",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502005000",
+      "code": "0502005000",
+      "name": "Gigmoto"
+    }
+  },
+  {
+    "id": "0502005006",
+    "code": "0502005006",
+    "name": "San Pedro",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502005000",
+      "code": "0502005000",
+      "name": "Gigmoto"
+    }
+  },
+  {
+    "id": "0502005007",
+    "code": "0502005007",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502005000",
+      "code": "0502005000",
+      "name": "Gigmoto"
+    }
+  },
+  {
+    "id": "0502005008",
+    "code": "0502005008",
+    "name": "Sicmil",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502005000",
+      "code": "0502005000",
+      "name": "Gigmoto"
+    }
+  },
+  {
+    "id": "0502005009",
+    "code": "0502005009",
+    "name": "Sioron",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502005000",
+      "code": "0502005000",
+      "name": "Gigmoto"
+    }
+  }
+]

@@ -1,0 +1,758 @@
+[
+  {
+    "id": "0504105001",
+    "code": "0504105001",
+    "name": "Abaca",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504105000",
+      "code": "0504105000",
+      "name": "Cataingan"
+    }
+  },
+  {
+    "id": "0504105002",
+    "code": "0504105002",
+    "name": "Aguada",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504105000",
+      "code": "0504105000",
+      "name": "Cataingan"
+    }
+  },
+  {
+    "id": "0504105003",
+    "code": "0504105003",
+    "name": "Badiang",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504105000",
+      "code": "0504105000",
+      "name": "Cataingan"
+    }
+  },
+  {
+    "id": "0504105004",
+    "code": "0504105004",
+    "name": "Bagumbayan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504105000",
+      "code": "0504105000",
+      "name": "Cataingan"
+    }
+  },
+  {
+    "id": "0504105005",
+    "code": "0504105005",
+    "name": "Cadulawan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504105000",
+      "code": "0504105000",
+      "name": "Cataingan"
+    }
+  },
+  {
+    "id": "0504105006",
+    "code": "0504105006",
+    "name": "Cagbatang",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504105000",
+      "code": "0504105000",
+      "name": "Cataingan"
+    }
+  },
+  {
+    "id": "0504105007",
+    "code": "0504105007",
+    "name": "Chimenea",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504105000",
+      "code": "0504105000",
+      "name": "Cataingan"
+    }
+  },
+  {
+    "id": "0504105008",
+    "code": "0504105008",
+    "name": "Concepcion",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504105000",
+      "code": "0504105000",
+      "name": "Cataingan"
+    }
+  },
+  {
+    "id": "0504105010",
+    "code": "0504105010",
+    "name": "Curvada",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504105000",
+      "code": "0504105000",
+      "name": "Cataingan"
+    }
+  },
+  {
+    "id": "0504105011",
+    "code": "0504105011",
+    "name": "Divisoria",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504105000",
+      "code": "0504105000",
+      "name": "Cataingan"
+    }
+  },
+  {
+    "id": "0504105012",
+    "code": "0504105012",
+    "name": "Domorog",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504105000",
+      "code": "0504105000",
+      "name": "Cataingan"
+    }
+  },
+  {
+    "id": "0504105013",
+    "code": "0504105013",
+    "name": "Estampar",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504105000",
+      "code": "0504105000",
+      "name": "Cataingan"
+    }
+  },
+  {
+    "id": "0504105014",
+    "code": "0504105014",
+    "name": "Gahit",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504105000",
+      "code": "0504105000",
+      "name": "Cataingan"
+    }
+  },
+  {
+    "id": "0504105015",
+    "code": "0504105015",
+    "name": "Libtong",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504105000",
+      "code": "0504105000",
+      "name": "Cataingan"
+    }
+  },
+  {
+    "id": "0504105016",
+    "code": "0504105016",
+    "name": "Liong",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504105000",
+      "code": "0504105000",
+      "name": "Cataingan"
+    }
+  },
+  {
+    "id": "0504105017",
+    "code": "0504105017",
+    "name": "Maanahao",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504105000",
+      "code": "0504105000",
+      "name": "Cataingan"
+    }
+  },
+  {
+    "id": "0504105018",
+    "code": "0504105018",
+    "name": "Madamba",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504105000",
+      "code": "0504105000",
+      "name": "Cataingan"
+    }
+  },
+  {
+    "id": "0504105019",
+    "code": "0504105019",
+    "name": "Malobago",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504105000",
+      "code": "0504105000",
+      "name": "Cataingan"
+    }
+  },
+  {
+    "id": "0504105020",
+    "code": "0504105020",
+    "name": "Matayum",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504105000",
+      "code": "0504105000",
+      "name": "Cataingan"
+    }
+  },
+  {
+    "id": "0504105021",
+    "code": "0504105021",
+    "name": "Matubinao",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504105000",
+      "code": "0504105000",
+      "name": "Cataingan"
+    }
+  },
+  {
+    "id": "0504105022",
+    "code": "0504105022",
+    "name": "Mintac",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504105000",
+      "code": "0504105000",
+      "name": "Cataingan"
+    }
+  },
+  {
+    "id": "0504105023",
+    "code": "0504105023",
+    "name": "Nadawisan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504105000",
+      "code": "0504105000",
+      "name": "Cataingan"
+    }
+  },
+  {
+    "id": "0504105024",
+    "code": "0504105024",
+    "name": "Osmeña",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504105000",
+      "code": "0504105000",
+      "name": "Cataingan"
+    }
+  },
+  {
+    "id": "0504105025",
+    "code": "0504105025",
+    "name": "Pawican",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504105000",
+      "code": "0504105000",
+      "name": "Cataingan"
+    }
+  },
+  {
+    "id": "0504105026",
+    "code": "0504105026",
+    "name": "Pitogo",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504105000",
+      "code": "0504105000",
+      "name": "Cataingan"
+    }
+  },
+  {
+    "id": "0504105027",
+    "code": "0504105027",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504105000",
+      "code": "0504105000",
+      "name": "Cataingan"
+    }
+  },
+  {
+    "id": "0504105028",
+    "code": "0504105028",
+    "name": "Quezon",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504105000",
+      "code": "0504105000",
+      "name": "Cataingan"
+    }
+  },
+  {
+    "id": "0504105029",
+    "code": "0504105029",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504105000",
+      "code": "0504105000",
+      "name": "Cataingan"
+    }
+  },
+  {
+    "id": "0504105030",
+    "code": "0504105030",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504105000",
+      "code": "0504105000",
+      "name": "Cataingan"
+    }
+  },
+  {
+    "id": "0504105031",
+    "code": "0504105031",
+    "name": "San Pedro",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504105000",
+      "code": "0504105000",
+      "name": "Cataingan"
+    }
+  },
+  {
+    "id": "0504105032",
+    "code": "0504105032",
+    "name": "San Rafael",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504105000",
+      "code": "0504105000",
+      "name": "Cataingan"
+    }
+  },
+  {
+    "id": "0504105033",
+    "code": "0504105033",
+    "name": "Santa Teresita",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504105000",
+      "code": "0504105000",
+      "name": "Cataingan"
+    }
+  },
+  {
+    "id": "0504105034",
+    "code": "0504105034",
+    "name": "Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504105000",
+      "code": "0504105000",
+      "name": "Cataingan"
+    }
+  },
+  {
+    "id": "0504105036",
+    "code": "0504105036",
+    "name": "Tagboan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504105000",
+      "code": "0504105000",
+      "name": "Cataingan"
+    }
+  },
+  {
+    "id": "0504105037",
+    "code": "0504105037",
+    "name": "Tuybo",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504105000",
+      "code": "0504105000",
+      "name": "Cataingan"
+    }
+  },
+  {
+    "id": "0504105038",
+    "code": "0504105038",
+    "name": "Villa Pogado",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504105000",
+      "code": "0504105000",
+      "name": "Cataingan"
+    }
+  }
+]

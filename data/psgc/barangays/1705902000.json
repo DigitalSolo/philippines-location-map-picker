@@ -1,0 +1,359 @@
+[
+  {
+    "id": "1705902001",
+    "code": "1705902001",
+    "name": "Balogo",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705900000",
+      "code": "1705900000",
+      "name": "Romblon"
+    },
+    "city_municipality": {
+      "id": "1705902000",
+      "code": "1705902000",
+      "name": "Banton"
+    }
+  },
+  {
+    "id": "1705902002",
+    "code": "1705902002",
+    "name": "Banice",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705900000",
+      "code": "1705900000",
+      "name": "Romblon"
+    },
+    "city_municipality": {
+      "id": "1705902000",
+      "code": "1705902000",
+      "name": "Banton"
+    }
+  },
+  {
+    "id": "1705902004",
+    "code": "1705902004",
+    "name": "Hambi-an",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705900000",
+      "code": "1705900000",
+      "name": "Romblon"
+    },
+    "city_municipality": {
+      "id": "1705902000",
+      "code": "1705902000",
+      "name": "Banton"
+    }
+  },
+  {
+    "id": "1705902005",
+    "code": "1705902005",
+    "name": "Lagang",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705900000",
+      "code": "1705900000",
+      "name": "Romblon"
+    },
+    "city_municipality": {
+      "id": "1705902000",
+      "code": "1705902000",
+      "name": "Banton"
+    }
+  },
+  {
+    "id": "1705902006",
+    "code": "1705902006",
+    "name": "Libtong",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705900000",
+      "code": "1705900000",
+      "name": "Romblon"
+    },
+    "city_municipality": {
+      "id": "1705902000",
+      "code": "1705902000",
+      "name": "Banton"
+    }
+  },
+  {
+    "id": "1705902007",
+    "code": "1705902007",
+    "name": "Mainit",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705900000",
+      "code": "1705900000",
+      "name": "Romblon"
+    },
+    "city_municipality": {
+      "id": "1705902000",
+      "code": "1705902000",
+      "name": "Banton"
+    }
+  },
+  {
+    "id": "1705902008",
+    "code": "1705902008",
+    "name": "Nabalay",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705900000",
+      "code": "1705900000",
+      "name": "Romblon"
+    },
+    "city_municipality": {
+      "id": "1705902000",
+      "code": "1705902000",
+      "name": "Banton"
+    }
+  },
+  {
+    "id": "1705902009",
+    "code": "1705902009",
+    "name": "Nasunogan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705900000",
+      "code": "1705900000",
+      "name": "Romblon"
+    },
+    "city_municipality": {
+      "id": "1705902000",
+      "code": "1705902000",
+      "name": "Banton"
+    }
+  },
+  {
+    "id": "1705902010",
+    "code": "1705902010",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705900000",
+      "code": "1705900000",
+      "name": "Romblon"
+    },
+    "city_municipality": {
+      "id": "1705902000",
+      "code": "1705902000",
+      "name": "Banton"
+    }
+  },
+  {
+    "id": "1705902011",
+    "code": "1705902011",
+    "name": "Sibay",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705900000",
+      "code": "1705900000",
+      "name": "Romblon"
+    },
+    "city_municipality": {
+      "id": "1705902000",
+      "code": "1705902000",
+      "name": "Banton"
+    }
+  },
+  {
+    "id": "1705902012",
+    "code": "1705902012",
+    "name": "Tan-Ag",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705900000",
+      "code": "1705900000",
+      "name": "Romblon"
+    },
+    "city_municipality": {
+      "id": "1705902000",
+      "code": "1705902000",
+      "name": "Banton"
+    }
+  },
+  {
+    "id": "1705902013",
+    "code": "1705902013",
+    "name": "Toctoc",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705900000",
+      "code": "1705900000",
+      "name": "Romblon"
+    },
+    "city_municipality": {
+      "id": "1705902000",
+      "code": "1705902000",
+      "name": "Banton"
+    }
+  },
+  {
+    "id": "1705902014",
+    "code": "1705902014",
+    "name": "Togbongan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705900000",
+      "code": "1705900000",
+      "name": "Romblon"
+    },
+    "city_municipality": {
+      "id": "1705902000",
+      "code": "1705902000",
+      "name": "Banton"
+    }
+  },
+  {
+    "id": "1705902015",
+    "code": "1705902015",
+    "name": "Togong",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705900000",
+      "code": "1705900000",
+      "name": "Romblon"
+    },
+    "city_municipality": {
+      "id": "1705902000",
+      "code": "1705902000",
+      "name": "Banton"
+    }
+  },
+  {
+    "id": "1705902017",
+    "code": "1705902017",
+    "name": "Tumalum",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705900000",
+      "code": "1705900000",
+      "name": "Romblon"
+    },
+    "city_municipality": {
+      "id": "1705902000",
+      "code": "1705902000",
+      "name": "Banton"
+    }
+  },
+  {
+    "id": "1705902016",
+    "code": "1705902016",
+    "name": "Tungonan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705900000",
+      "code": "1705900000",
+      "name": "Romblon"
+    },
+    "city_municipality": {
+      "id": "1705902000",
+      "code": "1705902000",
+      "name": "Banton"
+    }
+  },
+  {
+    "id": "1705902018",
+    "code": "1705902018",
+    "name": "Yabawon",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705900000",
+      "code": "1705900000",
+      "name": "Romblon"
+    },
+    "city_municipality": {
+      "id": "1705902000",
+      "code": "1705902000",
+      "name": "Banton"
+    }
+  }
+]

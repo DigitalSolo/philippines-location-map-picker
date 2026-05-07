@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1001801000",
+    "code": "1001801000",
+    "name": "Catarman",
+    "type": "city_municipality",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001800000",
+      "code": "1001800000",
+      "name": "Camiguin"
+    }
+  },
+  {
+    "id": "1001802000",
+    "code": "1001802000",
+    "name": "Guinsiliban",
+    "type": "city_municipality",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001800000",
+      "code": "1001800000",
+      "name": "Camiguin"
+    }
+  },
+  {
+    "id": "1001803000",
+    "code": "1001803000",
+    "name": "Mahinog",
+    "type": "city_municipality",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001800000",
+      "code": "1001800000",
+      "name": "Camiguin"
+    }
+  },
+  {
+    "id": "1001804000",
+    "code": "1001804000",
+    "name": "Mambajao",
+    "type": "city_municipality",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001800000",
+      "code": "1001800000",
+      "name": "Camiguin"
+    }
+  },
+  {
+    "id": "1001805000",
+    "code": "1001805000",
+    "name": "Sagay",
+    "type": "city_municipality",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001800000",
+      "code": "1001800000",
+      "name": "Camiguin"
+    }
+  }
+]

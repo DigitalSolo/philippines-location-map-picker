@@ -1,0 +1,632 @@
+[
+  {
+    "id": "0201517001",
+    "code": "0201517001",
+    "name": "Aggunetan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201517000",
+      "code": "0201517000",
+      "name": "Lasam"
+    }
+  },
+  {
+    "id": "0201517002",
+    "code": "0201517002",
+    "name": "Alannay",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201517000",
+      "code": "0201517000",
+      "name": "Lasam"
+    }
+  },
+  {
+    "id": "0201517003",
+    "code": "0201517003",
+    "name": "Battalan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201517000",
+      "code": "0201517000",
+      "name": "Lasam"
+    }
+  },
+  {
+    "id": "0201517027",
+    "code": "0201517027",
+    "name": "Cabatacan East",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201517000",
+      "code": "0201517000",
+      "name": "Lasam"
+    }
+  },
+  {
+    "id": "0201517028",
+    "code": "0201517028",
+    "name": "Cabatacan West",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201517000",
+      "code": "0201517000",
+      "name": "Lasam"
+    }
+  },
+  {
+    "id": "0201517005",
+    "code": "0201517005",
+    "name": "Calapangan Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201517000",
+      "code": "0201517000",
+      "name": "Lasam"
+    }
+  },
+  {
+    "id": "0201517006",
+    "code": "0201517006",
+    "name": "Calapangan Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201517000",
+      "code": "0201517000",
+      "name": "Lasam"
+    }
+  },
+  {
+    "id": "0201517007",
+    "code": "0201517007",
+    "name": "Callao Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201517000",
+      "code": "0201517000",
+      "name": "Lasam"
+    }
+  },
+  {
+    "id": "0201517008",
+    "code": "0201517008",
+    "name": "Callao Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201517000",
+      "code": "0201517000",
+      "name": "Lasam"
+    }
+  },
+  {
+    "id": "0201517009",
+    "code": "0201517009",
+    "name": "Cataliganan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201517000",
+      "code": "0201517000",
+      "name": "Lasam"
+    }
+  },
+  {
+    "id": "0201517021",
+    "code": "0201517021",
+    "name": "Centro I",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201517000",
+      "code": "0201517000",
+      "name": "Lasam"
+    }
+  },
+  {
+    "id": "0201517031",
+    "code": "0201517031",
+    "name": "Centro II",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201517000",
+      "code": "0201517000",
+      "name": "Lasam"
+    }
+  },
+  {
+    "id": "0201517032",
+    "code": "0201517032",
+    "name": "Centro III",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201517000",
+      "code": "0201517000",
+      "name": "Lasam"
+    }
+  },
+  {
+    "id": "0201517010",
+    "code": "0201517010",
+    "name": "Finugo Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201517000",
+      "code": "0201517000",
+      "name": "Lasam"
+    }
+  },
+  {
+    "id": "0201517012",
+    "code": "0201517012",
+    "name": "Gabun",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201517000",
+      "code": "0201517000",
+      "name": "Lasam"
+    }
+  },
+  {
+    "id": "0201517013",
+    "code": "0201517013",
+    "name": "Ignacio Jurado",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201517000",
+      "code": "0201517000",
+      "name": "Lasam"
+    }
+  },
+  {
+    "id": "0201517014",
+    "code": "0201517014",
+    "name": "Magsaysay",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201517000",
+      "code": "0201517000",
+      "name": "Lasam"
+    }
+  },
+  {
+    "id": "0201517015",
+    "code": "0201517015",
+    "name": "Malinta",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201517000",
+      "code": "0201517000",
+      "name": "Lasam"
+    }
+  },
+  {
+    "id": "0201517017",
+    "code": "0201517017",
+    "name": "Minanga Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201517000",
+      "code": "0201517000",
+      "name": "Lasam"
+    }
+  },
+  {
+    "id": "0201517016",
+    "code": "0201517016",
+    "name": "Minanga Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201517000",
+      "code": "0201517000",
+      "name": "Lasam"
+    }
+  },
+  {
+    "id": "0201517029",
+    "code": "0201517029",
+    "name": "Nabannagan East",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201517000",
+      "code": "0201517000",
+      "name": "Lasam"
+    }
+  },
+  {
+    "id": "0201517030",
+    "code": "0201517030",
+    "name": "Nabannagan West",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201517000",
+      "code": "0201517000",
+      "name": "Lasam"
+    }
+  },
+  {
+    "id": "0201517033",
+    "code": "0201517033",
+    "name": "New Orlins",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201517000",
+      "code": "0201517000",
+      "name": "Lasam"
+    }
+  },
+  {
+    "id": "0201517019",
+    "code": "0201517019",
+    "name": "Nicolas Agatep",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201517000",
+      "code": "0201517000",
+      "name": "Lasam"
+    }
+  },
+  {
+    "id": "0201517020",
+    "code": "0201517020",
+    "name": "Peru",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201517000",
+      "code": "0201517000",
+      "name": "Lasam"
+    }
+  },
+  {
+    "id": "0201517022",
+    "code": "0201517022",
+    "name": "San Pedro",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201517000",
+      "code": "0201517000",
+      "name": "Lasam"
+    }
+  },
+  {
+    "id": "0201517023",
+    "code": "0201517023",
+    "name": "Sicalao",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201517000",
+      "code": "0201517000",
+      "name": "Lasam"
+    }
+  },
+  {
+    "id": "0201517024",
+    "code": "0201517024",
+    "name": "Tagao",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201517000",
+      "code": "0201517000",
+      "name": "Lasam"
+    }
+  },
+  {
+    "id": "0201517025",
+    "code": "0201517025",
+    "name": "Tucalan Passing",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201517000",
+      "code": "0201517000",
+      "name": "Lasam"
+    }
+  },
+  {
+    "id": "0201517026",
+    "code": "0201517026",
+    "name": "Viga",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201517000",
+      "code": "0201517000",
+      "name": "Lasam"
+    }
+  }
+]

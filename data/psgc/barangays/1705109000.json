@@ -1,0 +1,464 @@
+[
+  {
+    "id": "1705109001",
+    "code": "1705109001",
+    "name": "Batong Buhay",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705109000",
+      "code": "1705109000",
+      "name": "Sablayan"
+    }
+  },
+  {
+    "id": "1705109002",
+    "code": "1705109002",
+    "name": "Buenavista",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705109000",
+      "code": "1705109000",
+      "name": "Sablayan"
+    }
+  },
+  {
+    "id": "1705109003",
+    "code": "1705109003",
+    "name": "Burgos",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705109000",
+      "code": "1705109000",
+      "name": "Sablayan"
+    }
+  },
+  {
+    "id": "1705109004",
+    "code": "1705109004",
+    "name": "Claudio Salgado",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705109000",
+      "code": "1705109000",
+      "name": "Sablayan"
+    }
+  },
+  {
+    "id": "1705109005",
+    "code": "1705109005",
+    "name": "General Emilio Aguinaldo",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705109000",
+      "code": "1705109000",
+      "name": "Sablayan"
+    }
+  },
+  {
+    "id": "1705109006",
+    "code": "1705109006",
+    "name": "Ibud",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705109000",
+      "code": "1705109000",
+      "name": "Sablayan"
+    }
+  },
+  {
+    "id": "1705109007",
+    "code": "1705109007",
+    "name": "Ilvita",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705109000",
+      "code": "1705109000",
+      "name": "Sablayan"
+    }
+  },
+  {
+    "id": "1705109022",
+    "code": "1705109022",
+    "name": "Lagnas",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705109000",
+      "code": "1705109000",
+      "name": "Sablayan"
+    }
+  },
+  {
+    "id": "1705109008",
+    "code": "1705109008",
+    "name": "Ligaya",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705109000",
+      "code": "1705109000",
+      "name": "Sablayan"
+    }
+  },
+  {
+    "id": "1705109023",
+    "code": "1705109023",
+    "name": "Malisbong",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705109000",
+      "code": "1705109000",
+      "name": "Sablayan"
+    }
+  },
+  {
+    "id": "1705109010",
+    "code": "1705109010",
+    "name": "Paetan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705109000",
+      "code": "1705109000",
+      "name": "Sablayan"
+    }
+  },
+  {
+    "id": "1705109011",
+    "code": "1705109011",
+    "name": "Pag-Asa",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705109000",
+      "code": "1705109000",
+      "name": "Sablayan"
+    }
+  },
+  {
+    "id": "1705109009",
+    "code": "1705109009",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705109000",
+      "code": "1705109000",
+      "name": "Sablayan"
+    }
+  },
+  {
+    "id": "1705109013",
+    "code": "1705109013",
+    "name": "San Agustin",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705109000",
+      "code": "1705109000",
+      "name": "Sablayan"
+    }
+  },
+  {
+    "id": "1705109014",
+    "code": "1705109014",
+    "name": "San Francisco",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705109000",
+      "code": "1705109000",
+      "name": "Sablayan"
+    }
+  },
+  {
+    "id": "1705109016",
+    "code": "1705109016",
+    "name": "San Nicolas",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705109000",
+      "code": "1705109000",
+      "name": "Sablayan"
+    }
+  },
+  {
+    "id": "1705109017",
+    "code": "1705109017",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705109000",
+      "code": "1705109000",
+      "name": "Sablayan"
+    }
+  },
+  {
+    "id": "1705109018",
+    "code": "1705109018",
+    "name": "Sta. Lucia",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705109000",
+      "code": "1705109000",
+      "name": "Sablayan"
+    }
+  },
+  {
+    "id": "1705109019",
+    "code": "1705109019",
+    "name": "Sto. Niño",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705109000",
+      "code": "1705109000",
+      "name": "Sablayan"
+    }
+  },
+  {
+    "id": "1705109020",
+    "code": "1705109020",
+    "name": "Tagumpay",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705109000",
+      "code": "1705109000",
+      "name": "Sablayan"
+    }
+  },
+  {
+    "id": "1705109024",
+    "code": "1705109024",
+    "name": "Tuban",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705109000",
+      "code": "1705109000",
+      "name": "Sablayan"
+    }
+  },
+  {
+    "id": "1705109021",
+    "code": "1705109021",
+    "name": "Victoria",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705109000",
+      "code": "1705109000",
+      "name": "Sablayan"
+    }
+  }
+]

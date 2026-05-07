@@ -1,0 +1,611 @@
+[
+  {
+    "id": "0701212001",
+    "code": "0701212001",
+    "name": "Alegria",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701212000",
+      "code": "0701212000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0701212002",
+    "code": "0701212002",
+    "name": "Bicao",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701212000",
+      "code": "0701212000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0701212003",
+    "code": "0701212003",
+    "name": "Buenavista",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701212000",
+      "code": "0701212000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0701212004",
+    "code": "0701212004",
+    "name": "Buenos Aires",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701212000",
+      "code": "0701212000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0701212005",
+    "code": "0701212005",
+    "name": "Calatrava",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701212000",
+      "code": "0701212000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0701212006",
+    "code": "0701212006",
+    "name": "El Progreso",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701212000",
+      "code": "0701212000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0701212007",
+    "code": "0701212007",
+    "name": "El Salvador",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701212000",
+      "code": "0701212000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0701212008",
+    "code": "0701212008",
+    "name": "Guadalupe",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701212000",
+      "code": "0701212000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0701212009",
+    "code": "0701212009",
+    "name": "Katipunan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701212000",
+      "code": "0701212000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0701212010",
+    "code": "0701212010",
+    "name": "La Libertad",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701212000",
+      "code": "0701212000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0701212011",
+    "code": "0701212011",
+    "name": "La Paz",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701212000",
+      "code": "0701212000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0701212012",
+    "code": "0701212012",
+    "name": "La Salvacion",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701212000",
+      "code": "0701212000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0701212013",
+    "code": "0701212013",
+    "name": "La Victoria",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701212000",
+      "code": "0701212000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0701212014",
+    "code": "0701212014",
+    "name": "Matin-ao",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701212000",
+      "code": "0701212000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0701212015",
+    "code": "0701212015",
+    "name": "Montehermoso",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701212000",
+      "code": "0701212000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0701212016",
+    "code": "0701212016",
+    "name": "Montesuerte",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701212000",
+      "code": "0701212000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0701212017",
+    "code": "0701212017",
+    "name": "Montesunting",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701212000",
+      "code": "0701212000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0701212018",
+    "code": "0701212018",
+    "name": "Montevideo",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701212000",
+      "code": "0701212000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0701212019",
+    "code": "0701212019",
+    "name": "Nueva Fuerza",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701212000",
+      "code": "0701212000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0701212020",
+    "code": "0701212020",
+    "name": "Nueva Vida Este",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701212000",
+      "code": "0701212000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0701212022",
+    "code": "0701212022",
+    "name": "Nueva Vida Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701212000",
+      "code": "0701212000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0701212021",
+    "code": "0701212021",
+    "name": "Nueva Vida Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701212000",
+      "code": "0701212000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0701212023",
+    "code": "0701212023",
+    "name": "Poblacion Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701212000",
+      "code": "0701212000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0701212024",
+    "code": "0701212024",
+    "name": "Poblacion Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701212000",
+      "code": "0701212000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0701212025",
+    "code": "0701212025",
+    "name": "Tambo-an",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701212000",
+      "code": "0701212000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0701212026",
+    "code": "0701212026",
+    "name": "Vallehermoso",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701212000",
+      "code": "0701212000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0701212027",
+    "code": "0701212027",
+    "name": "Villaflor",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701212000",
+      "code": "0701212000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0701212028",
+    "code": "0701212028",
+    "name": "Villafuerte",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701212000",
+      "code": "0701212000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0701212029",
+    "code": "0701212029",
+    "name": "Villarcayo",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701212000",
+      "code": "0701212000",
+      "name": "Carmen"
+    }
+  }
+]

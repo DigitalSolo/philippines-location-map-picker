@@ -1,0 +1,590 @@
+[
+  {
+    "id": "0304902001",
+    "code": "0304902001",
+    "name": "Antipolo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304902000",
+      "code": "0304902000",
+      "name": "Bongabon"
+    }
+  },
+  {
+    "id": "0304902002",
+    "code": "0304902002",
+    "name": "Ariendo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304902000",
+      "code": "0304902000",
+      "name": "Bongabon"
+    }
+  },
+  {
+    "id": "0304902003",
+    "code": "0304902003",
+    "name": "Bantug",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304902000",
+      "code": "0304902000",
+      "name": "Bongabon"
+    }
+  },
+  {
+    "id": "0304902004",
+    "code": "0304902004",
+    "name": "Calaanan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304902000",
+      "code": "0304902000",
+      "name": "Bongabon"
+    }
+  },
+  {
+    "id": "0304902005",
+    "code": "0304902005",
+    "name": "Commercial",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304902000",
+      "code": "0304902000",
+      "name": "Bongabon"
+    }
+  },
+  {
+    "id": "0304902006",
+    "code": "0304902006",
+    "name": "Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304902000",
+      "code": "0304902000",
+      "name": "Bongabon"
+    }
+  },
+  {
+    "id": "0304902008",
+    "code": "0304902008",
+    "name": "Curva",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304902000",
+      "code": "0304902000",
+      "name": "Bongabon"
+    }
+  },
+  {
+    "id": "0304902007",
+    "code": "0304902007",
+    "name": "Digmala",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304902000",
+      "code": "0304902000",
+      "name": "Bongabon"
+    }
+  },
+  {
+    "id": "0304902009",
+    "code": "0304902009",
+    "name": "Kaingin",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304902000",
+      "code": "0304902000",
+      "name": "Bongabon"
+    }
+  },
+  {
+    "id": "0304902010",
+    "code": "0304902010",
+    "name": "Labi",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304902000",
+      "code": "0304902000",
+      "name": "Bongabon"
+    }
+  },
+  {
+    "id": "0304902011",
+    "code": "0304902011",
+    "name": "Larcon",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304902000",
+      "code": "0304902000",
+      "name": "Bongabon"
+    }
+  },
+  {
+    "id": "0304902012",
+    "code": "0304902012",
+    "name": "Lusok",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304902000",
+      "code": "0304902000",
+      "name": "Bongabon"
+    }
+  },
+  {
+    "id": "0304902013",
+    "code": "0304902013",
+    "name": "Macabaclay",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304902000",
+      "code": "0304902000",
+      "name": "Bongabon"
+    }
+  },
+  {
+    "id": "0304902014",
+    "code": "0304902014",
+    "name": "Magtanggol",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304902000",
+      "code": "0304902000",
+      "name": "Bongabon"
+    }
+  },
+  {
+    "id": "0304902015",
+    "code": "0304902015",
+    "name": "Mantile",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304902000",
+      "code": "0304902000",
+      "name": "Bongabon"
+    }
+  },
+  {
+    "id": "0304902016",
+    "code": "0304902016",
+    "name": "Olivete",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304902000",
+      "code": "0304902000",
+      "name": "Bongabon"
+    }
+  },
+  {
+    "id": "0304902017",
+    "code": "0304902017",
+    "name": "Palo Maria",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304902000",
+      "code": "0304902000",
+      "name": "Bongabon"
+    }
+  },
+  {
+    "id": "0304902018",
+    "code": "0304902018",
+    "name": "Pesa",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304902000",
+      "code": "0304902000",
+      "name": "Bongabon"
+    }
+  },
+  {
+    "id": "0304902020",
+    "code": "0304902020",
+    "name": "Rizal",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304902000",
+      "code": "0304902000",
+      "name": "Bongabon"
+    }
+  },
+  {
+    "id": "0304902021",
+    "code": "0304902021",
+    "name": "Sampalucan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304902000",
+      "code": "0304902000",
+      "name": "Bongabon"
+    }
+  },
+  {
+    "id": "0304902022",
+    "code": "0304902022",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304902000",
+      "code": "0304902000",
+      "name": "Bongabon"
+    }
+  },
+  {
+    "id": "0304902023",
+    "code": "0304902023",
+    "name": "Santor",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304902000",
+      "code": "0304902000",
+      "name": "Bongabon"
+    }
+  },
+  {
+    "id": "0304902024",
+    "code": "0304902024",
+    "name": "Sinipit",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304902000",
+      "code": "0304902000",
+      "name": "Bongabon"
+    }
+  },
+  {
+    "id": "0304902025",
+    "code": "0304902025",
+    "name": "Sisilang na Ligaya",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304902000",
+      "code": "0304902000",
+      "name": "Bongabon"
+    }
+  },
+  {
+    "id": "0304902026",
+    "code": "0304902026",
+    "name": "Social",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304902000",
+      "code": "0304902000",
+      "name": "Bongabon"
+    }
+  },
+  {
+    "id": "0304902027",
+    "code": "0304902027",
+    "name": "Tugatug",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304902000",
+      "code": "0304902000",
+      "name": "Bongabon"
+    }
+  },
+  {
+    "id": "0304902028",
+    "code": "0304902028",
+    "name": "Tulay na Bato",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304902000",
+      "code": "0304902000",
+      "name": "Bongabon"
+    }
+  },
+  {
+    "id": "0304902029",
+    "code": "0304902029",
+    "name": "Vega",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304902000",
+      "code": "0304902000",
+      "name": "Bongabon"
+    }
+  }
+]

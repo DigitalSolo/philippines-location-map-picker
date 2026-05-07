@@ -1,0 +1,422 @@
+[
+  {
+    "id": "1903610034",
+    "code": "1903610034",
+    "name": "Babayog",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903610000",
+      "code": "1903610000",
+      "name": "Kapai"
+    }
+  },
+  {
+    "id": "1903610003",
+    "code": "1903610003",
+    "name": "Cormatan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903610000",
+      "code": "1903610000",
+      "name": "Kapai"
+    }
+  },
+  {
+    "id": "1903610029",
+    "code": "1903610029",
+    "name": "Dilabayan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903610000",
+      "code": "1903610000",
+      "name": "Kapai"
+    }
+  },
+  {
+    "id": "1903610030",
+    "code": "1903610030",
+    "name": "Dilimbayan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903610000",
+      "code": "1903610000",
+      "name": "Kapai"
+    }
+  },
+  {
+    "id": "1903610007",
+    "code": "1903610007",
+    "name": "Dimagaling",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903610000",
+      "code": "1903610000",
+      "name": "Kapai"
+    }
+  },
+  {
+    "id": "1903610008",
+    "code": "1903610008",
+    "name": "Dimunda",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903610000",
+      "code": "1903610000",
+      "name": "Kapai"
+    }
+  },
+  {
+    "id": "1903610009",
+    "code": "1903610009",
+    "name": "Doronan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903610000",
+      "code": "1903610000",
+      "name": "Kapai"
+    }
+  },
+  {
+    "id": "1903610035",
+    "code": "1903610035",
+    "name": "Gadongan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903610000",
+      "code": "1903610000",
+      "name": "Kapai"
+    }
+  },
+  {
+    "id": "1903610025",
+    "code": "1903610025",
+    "name": "Kasayanan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903610000",
+      "code": "1903610000",
+      "name": "Kapai"
+    }
+  },
+  {
+    "id": "1903610026",
+    "code": "1903610026",
+    "name": "Kasayanan West",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903610000",
+      "code": "1903610000",
+      "name": "Kapai"
+    }
+  },
+  {
+    "id": "1903610031",
+    "code": "1903610031",
+    "name": "Kibolos",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903610000",
+      "code": "1903610000",
+      "name": "Kapai"
+    }
+  },
+  {
+    "id": "1903610032",
+    "code": "1903610032",
+    "name": "Kining",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903610000",
+      "code": "1903610000",
+      "name": "Kapai"
+    }
+  },
+  {
+    "id": "1903610036",
+    "code": "1903610036",
+    "name": "Lidasan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903610000",
+      "code": "1903610000",
+      "name": "Kapai"
+    }
+  },
+  {
+    "id": "1903610037",
+    "code": "1903610037",
+    "name": "Macadar",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903610000",
+      "code": "1903610000",
+      "name": "Kapai"
+    }
+  },
+  {
+    "id": "1903610017",
+    "code": "1903610017",
+    "name": "Malna Proper",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903610000",
+      "code": "1903610000",
+      "name": "Kapai"
+    }
+  },
+  {
+    "id": "1903610018",
+    "code": "1903610018",
+    "name": "Pagalongan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903610000",
+      "code": "1903610000",
+      "name": "Kapai"
+    }
+  },
+  {
+    "id": "1903610038",
+    "code": "1903610038",
+    "name": "Pantaon",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903610000",
+      "code": "1903610000",
+      "name": "Kapai"
+    }
+  },
+  {
+    "id": "1903610019",
+    "code": "1903610019",
+    "name": "Parao",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903610000",
+      "code": "1903610000",
+      "name": "Kapai"
+    }
+  },
+  {
+    "id": "1903610033",
+    "code": "1903610033",
+    "name": "Pindolonan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903610000",
+      "code": "1903610000",
+      "name": "Kapai"
+    }
+  },
+  {
+    "id": "1903610012",
+    "code": "1903610012",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903610000",
+      "code": "1903610000",
+      "name": "Kapai"
+    }
+  }
+]

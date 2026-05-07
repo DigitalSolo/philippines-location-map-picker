@@ -1,0 +1,632 @@
+[
+  {
+    "id": "0401028001",
+    "code": "0401028001",
+    "name": "Barangay I",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401028000",
+      "code": "0401028000",
+      "name": "City of Sto. Tomas"
+    }
+  },
+  {
+    "id": "0401028002",
+    "code": "0401028002",
+    "name": "Barangay II",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401028000",
+      "code": "0401028000",
+      "name": "City of Sto. Tomas"
+    }
+  },
+  {
+    "id": "0401028003",
+    "code": "0401028003",
+    "name": "Barangay III",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401028000",
+      "code": "0401028000",
+      "name": "City of Sto. Tomas"
+    }
+  },
+  {
+    "id": "0401028004",
+    "code": "0401028004",
+    "name": "Barangay IV",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401028000",
+      "code": "0401028000",
+      "name": "City of Sto. Tomas"
+    }
+  },
+  {
+    "id": "0401028005",
+    "code": "0401028005",
+    "name": "San Agustin",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401028000",
+      "code": "0401028000",
+      "name": "City of Sto. Tomas"
+    }
+  },
+  {
+    "id": "0401028006",
+    "code": "0401028006",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401028000",
+      "code": "0401028000",
+      "name": "City of Sto. Tomas"
+    }
+  },
+  {
+    "id": "0401028007",
+    "code": "0401028007",
+    "name": "San Bartolome",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401028000",
+      "code": "0401028000",
+      "name": "City of Sto. Tomas"
+    }
+  },
+  {
+    "id": "0401028008",
+    "code": "0401028008",
+    "name": "San Felix",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401028000",
+      "code": "0401028000",
+      "name": "City of Sto. Tomas"
+    }
+  },
+  {
+    "id": "0401028009",
+    "code": "0401028009",
+    "name": "San Fernando",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401028000",
+      "code": "0401028000",
+      "name": "City of Sto. Tomas"
+    }
+  },
+  {
+    "id": "0401028010",
+    "code": "0401028010",
+    "name": "San Francisco",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401028000",
+      "code": "0401028000",
+      "name": "City of Sto. Tomas"
+    }
+  },
+  {
+    "id": "0401028011",
+    "code": "0401028011",
+    "name": "San Isidro Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401028000",
+      "code": "0401028000",
+      "name": "City of Sto. Tomas"
+    }
+  },
+  {
+    "id": "0401028012",
+    "code": "0401028012",
+    "name": "San Isidro Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401028000",
+      "code": "0401028000",
+      "name": "City of Sto. Tomas"
+    }
+  },
+  {
+    "id": "0401028013",
+    "code": "0401028013",
+    "name": "San Joaquin",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401028000",
+      "code": "0401028000",
+      "name": "City of Sto. Tomas"
+    }
+  },
+  {
+    "id": "0401028014",
+    "code": "0401028014",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401028000",
+      "code": "0401028000",
+      "name": "City of Sto. Tomas"
+    }
+  },
+  {
+    "id": "0401028015",
+    "code": "0401028015",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401028000",
+      "code": "0401028000",
+      "name": "City of Sto. Tomas"
+    }
+  },
+  {
+    "id": "0401028016",
+    "code": "0401028016",
+    "name": "San Luis",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401028000",
+      "code": "0401028000",
+      "name": "City of Sto. Tomas"
+    }
+  },
+  {
+    "id": "0401028017",
+    "code": "0401028017",
+    "name": "San Miguel",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401028000",
+      "code": "0401028000",
+      "name": "City of Sto. Tomas"
+    }
+  },
+  {
+    "id": "0401028018",
+    "code": "0401028018",
+    "name": "San Pablo",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401028000",
+      "code": "0401028000",
+      "name": "City of Sto. Tomas"
+    }
+  },
+  {
+    "id": "0401028019",
+    "code": "0401028019",
+    "name": "San Pedro",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401028000",
+      "code": "0401028000",
+      "name": "City of Sto. Tomas"
+    }
+  },
+  {
+    "id": "0401028020",
+    "code": "0401028020",
+    "name": "San Rafael",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401028000",
+      "code": "0401028000",
+      "name": "City of Sto. Tomas"
+    }
+  },
+  {
+    "id": "0401028021",
+    "code": "0401028021",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401028000",
+      "code": "0401028000",
+      "name": "City of Sto. Tomas"
+    }
+  },
+  {
+    "id": "0401028022",
+    "code": "0401028022",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401028000",
+      "code": "0401028000",
+      "name": "City of Sto. Tomas"
+    }
+  },
+  {
+    "id": "0401028023",
+    "code": "0401028023",
+    "name": "Santa Ana",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401028000",
+      "code": "0401028000",
+      "name": "City of Sto. Tomas"
+    }
+  },
+  {
+    "id": "0401028024",
+    "code": "0401028024",
+    "name": "Santa Anastacia",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401028000",
+      "code": "0401028000",
+      "name": "City of Sto. Tomas"
+    }
+  },
+  {
+    "id": "0401028025",
+    "code": "0401028025",
+    "name": "Santa Clara",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401028000",
+      "code": "0401028000",
+      "name": "City of Sto. Tomas"
+    }
+  },
+  {
+    "id": "0401028026",
+    "code": "0401028026",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401028000",
+      "code": "0401028000",
+      "name": "City of Sto. Tomas"
+    }
+  },
+  {
+    "id": "0401028027",
+    "code": "0401028027",
+    "name": "Santa Elena",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401028000",
+      "code": "0401028000",
+      "name": "City of Sto. Tomas"
+    }
+  },
+  {
+    "id": "0401028028",
+    "code": "0401028028",
+    "name": "Santa Maria",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401028000",
+      "code": "0401028000",
+      "name": "City of Sto. Tomas"
+    }
+  },
+  {
+    "id": "0401028030",
+    "code": "0401028030",
+    "name": "Santa Teresita",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401028000",
+      "code": "0401028000",
+      "name": "City of Sto. Tomas"
+    }
+  },
+  {
+    "id": "0401028029",
+    "code": "0401028029",
+    "name": "Santiago",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401028000",
+      "code": "0401028000",
+      "name": "City of Sto. Tomas"
+    }
+  }
+]

@@ -1,0 +1,296 @@
+[
+  {
+    "id": "0305418001",
+    "code": "0305418001",
+    "name": "Concepcion",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305418000",
+      "code": "0305418000",
+      "name": "San Simon"
+    }
+  },
+  {
+    "id": "0305418002",
+    "code": "0305418002",
+    "name": "De La Paz",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305418000",
+      "code": "0305418000",
+      "name": "San Simon"
+    }
+  },
+  {
+    "id": "0305418004",
+    "code": "0305418004",
+    "name": "San Agustin",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305418000",
+      "code": "0305418000",
+      "name": "San Simon"
+    }
+  },
+  {
+    "id": "0305418005",
+    "code": "0305418005",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305418000",
+      "code": "0305418000",
+      "name": "San Simon"
+    }
+  },
+  {
+    "id": "0305418006",
+    "code": "0305418006",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305418000",
+      "code": "0305418000",
+      "name": "San Simon"
+    }
+  },
+  {
+    "id": "0305418003",
+    "code": "0305418003",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305418000",
+      "code": "0305418000",
+      "name": "San Simon"
+    }
+  },
+  {
+    "id": "0305418007",
+    "code": "0305418007",
+    "name": "San Miguel",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305418000",
+      "code": "0305418000",
+      "name": "San Simon"
+    }
+  },
+  {
+    "id": "0305418008",
+    "code": "0305418008",
+    "name": "San Nicolas",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305418000",
+      "code": "0305418000",
+      "name": "San Simon"
+    }
+  },
+  {
+    "id": "0305418009",
+    "code": "0305418009",
+    "name": "San Pablo Libutad",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305418000",
+      "code": "0305418000",
+      "name": "San Simon"
+    }
+  },
+  {
+    "id": "0305418010",
+    "code": "0305418010",
+    "name": "San Pablo Proper",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305418000",
+      "code": "0305418000",
+      "name": "San Simon"
+    }
+  },
+  {
+    "id": "0305418011",
+    "code": "0305418011",
+    "name": "San Pedro",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305418000",
+      "code": "0305418000",
+      "name": "San Simon"
+    }
+  },
+  {
+    "id": "0305418012",
+    "code": "0305418012",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305418000",
+      "code": "0305418000",
+      "name": "San Simon"
+    }
+  },
+  {
+    "id": "0305418013",
+    "code": "0305418013",
+    "name": "Santa Monica",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305418000",
+      "code": "0305418000",
+      "name": "San Simon"
+    }
+  },
+  {
+    "id": "0305418014",
+    "code": "0305418014",
+    "name": "Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305418000",
+      "code": "0305418000",
+      "name": "San Simon"
+    }
+  }
+]

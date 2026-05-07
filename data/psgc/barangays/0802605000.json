@@ -1,0 +1,590 @@
+[
+  {
+    "id": "0802605001",
+    "code": "0802605001",
+    "name": "Balagon",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802605000",
+      "code": "0802605000",
+      "name": "Can-Avid"
+    }
+  },
+  {
+    "id": "0802605018",
+    "code": "0802605018",
+    "name": "Barangay 1 Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802605000",
+      "code": "0802605000",
+      "name": "Can-Avid"
+    }
+  },
+  {
+    "id": "0802605019",
+    "code": "0802605019",
+    "name": "Barangay 10 Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802605000",
+      "code": "0802605000",
+      "name": "Can-Avid"
+    }
+  },
+  {
+    "id": "0802605020",
+    "code": "0802605020",
+    "name": "Barangay 2 Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802605000",
+      "code": "0802605000",
+      "name": "Can-Avid"
+    }
+  },
+  {
+    "id": "0802605021",
+    "code": "0802605021",
+    "name": "Barangay 3 Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802605000",
+      "code": "0802605000",
+      "name": "Can-Avid"
+    }
+  },
+  {
+    "id": "0802605022",
+    "code": "0802605022",
+    "name": "Barangay 4 Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802605000",
+      "code": "0802605000",
+      "name": "Can-Avid"
+    }
+  },
+  {
+    "id": "0802605023",
+    "code": "0802605023",
+    "name": "Barangay 5 Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802605000",
+      "code": "0802605000",
+      "name": "Can-Avid"
+    }
+  },
+  {
+    "id": "0802605024",
+    "code": "0802605024",
+    "name": "Barangay 6 Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802605000",
+      "code": "0802605000",
+      "name": "Can-Avid"
+    }
+  },
+  {
+    "id": "0802605025",
+    "code": "0802605025",
+    "name": "Barangay 7 Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802605000",
+      "code": "0802605000",
+      "name": "Can-Avid"
+    }
+  },
+  {
+    "id": "0802605026",
+    "code": "0802605026",
+    "name": "Barangay 8 Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802605000",
+      "code": "0802605000",
+      "name": "Can-Avid"
+    }
+  },
+  {
+    "id": "0802605027",
+    "code": "0802605027",
+    "name": "Barangay 9 Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802605000",
+      "code": "0802605000",
+      "name": "Can-Avid"
+    }
+  },
+  {
+    "id": "0802605002",
+    "code": "0802605002",
+    "name": "Baruk",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802605000",
+      "code": "0802605000",
+      "name": "Can-Avid"
+    }
+  },
+  {
+    "id": "0802605003",
+    "code": "0802605003",
+    "name": "Boco",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802605000",
+      "code": "0802605000",
+      "name": "Can-Avid"
+    }
+  },
+  {
+    "id": "0802605004",
+    "code": "0802605004",
+    "name": "Caghalong",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802605000",
+      "code": "0802605000",
+      "name": "Can-Avid"
+    }
+  },
+  {
+    "id": "0802605005",
+    "code": "0802605005",
+    "name": "Camantang",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802605000",
+      "code": "0802605000",
+      "name": "Can-Avid"
+    }
+  },
+  {
+    "id": "0802605007",
+    "code": "0802605007",
+    "name": "Can-ilay",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802605000",
+      "code": "0802605000",
+      "name": "Can-Avid"
+    }
+  },
+  {
+    "id": "0802605008",
+    "code": "0802605008",
+    "name": "Cansangaya",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802605000",
+      "code": "0802605000",
+      "name": "Can-Avid"
+    }
+  },
+  {
+    "id": "0802605009",
+    "code": "0802605009",
+    "name": "Canteros",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802605000",
+      "code": "0802605000",
+      "name": "Can-Avid"
+    }
+  },
+  {
+    "id": "0802605010",
+    "code": "0802605010",
+    "name": "Carolina",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802605000",
+      "code": "0802605000",
+      "name": "Can-Avid"
+    }
+  },
+  {
+    "id": "0802605011",
+    "code": "0802605011",
+    "name": "Guibuangan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802605000",
+      "code": "0802605000",
+      "name": "Can-Avid"
+    }
+  },
+  {
+    "id": "0802605012",
+    "code": "0802605012",
+    "name": "Jepaco",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802605000",
+      "code": "0802605000",
+      "name": "Can-Avid"
+    }
+  },
+  {
+    "id": "0802605013",
+    "code": "0802605013",
+    "name": "Mabuhay",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802605000",
+      "code": "0802605000",
+      "name": "Can-Avid"
+    }
+  },
+  {
+    "id": "0802605014",
+    "code": "0802605014",
+    "name": "Malogo",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802605000",
+      "code": "0802605000",
+      "name": "Can-Avid"
+    }
+  },
+  {
+    "id": "0802605015",
+    "code": "0802605015",
+    "name": "Obong",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802605000",
+      "code": "0802605000",
+      "name": "Can-Avid"
+    }
+  },
+  {
+    "id": "0802605016",
+    "code": "0802605016",
+    "name": "Pandol",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802605000",
+      "code": "0802605000",
+      "name": "Can-Avid"
+    }
+  },
+  {
+    "id": "0802605033",
+    "code": "0802605033",
+    "name": "Rawis",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802605000",
+      "code": "0802605000",
+      "name": "Can-Avid"
+    }
+  },
+  {
+    "id": "0802605028",
+    "code": "0802605028",
+    "name": "Salvacion",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802605000",
+      "code": "0802605000",
+      "name": "Can-Avid"
+    }
+  },
+  {
+    "id": "0802605032",
+    "code": "0802605032",
+    "name": "Solong",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802605000",
+      "code": "0802605000",
+      "name": "Can-Avid"
+    }
+  }
+]

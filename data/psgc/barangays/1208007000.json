@@ -1,0 +1,653 @@
+[
+  {
+    "id": "1208007001",
+    "code": "1208007001",
+    "name": "Alkikan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208007000",
+      "code": "1208007000",
+      "name": "Malungon"
+    }
+  },
+  {
+    "id": "1208007002",
+    "code": "1208007002",
+    "name": "Ampon",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208007000",
+      "code": "1208007000",
+      "name": "Malungon"
+    }
+  },
+  {
+    "id": "1208007003",
+    "code": "1208007003",
+    "name": "Atlae",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208007000",
+      "code": "1208007000",
+      "name": "Malungon"
+    }
+  },
+  {
+    "id": "1208007006",
+    "code": "1208007006",
+    "name": "B'Laan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208007000",
+      "code": "1208007000",
+      "name": "Malungon"
+    }
+  },
+  {
+    "id": "1208007004",
+    "code": "1208007004",
+    "name": "Banahaw",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208007000",
+      "code": "1208007000",
+      "name": "Malungon"
+    }
+  },
+  {
+    "id": "1208007005",
+    "code": "1208007005",
+    "name": "Banate",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208007000",
+      "code": "1208007000",
+      "name": "Malungon"
+    }
+  },
+  {
+    "id": "1208007007",
+    "code": "1208007007",
+    "name": "Datal Batong",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208007000",
+      "code": "1208007000",
+      "name": "Malungon"
+    }
+  },
+  {
+    "id": "1208007008",
+    "code": "1208007008",
+    "name": "Datal Bila",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208007000",
+      "code": "1208007000",
+      "name": "Malungon"
+    }
+  },
+  {
+    "id": "1208007009",
+    "code": "1208007009",
+    "name": "Datal Tampal",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208007000",
+      "code": "1208007000",
+      "name": "Malungon"
+    }
+  },
+  {
+    "id": "1208007010",
+    "code": "1208007010",
+    "name": "J.P. Laurel",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208007000",
+      "code": "1208007000",
+      "name": "Malungon"
+    }
+  },
+  {
+    "id": "1208007011",
+    "code": "1208007011",
+    "name": "Kawayan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208007000",
+      "code": "1208007000",
+      "name": "Malungon"
+    }
+  },
+  {
+    "id": "1208007012",
+    "code": "1208007012",
+    "name": "Kibala",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208007000",
+      "code": "1208007000",
+      "name": "Malungon"
+    }
+  },
+  {
+    "id": "1208007013",
+    "code": "1208007013",
+    "name": "Kiblat",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208007000",
+      "code": "1208007000",
+      "name": "Malungon"
+    }
+  },
+  {
+    "id": "1208007014",
+    "code": "1208007014",
+    "name": "Kinabalan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208007000",
+      "code": "1208007000",
+      "name": "Malungon"
+    }
+  },
+  {
+    "id": "1208007015",
+    "code": "1208007015",
+    "name": "Lower Mainit",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208007000",
+      "code": "1208007000",
+      "name": "Malungon"
+    }
+  },
+  {
+    "id": "1208007016",
+    "code": "1208007016",
+    "name": "Lutay",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208007000",
+      "code": "1208007000",
+      "name": "Malungon"
+    }
+  },
+  {
+    "id": "1208007017",
+    "code": "1208007017",
+    "name": "Malabod",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208007000",
+      "code": "1208007000",
+      "name": "Malungon"
+    }
+  },
+  {
+    "id": "1208007018",
+    "code": "1208007018",
+    "name": "Malalag Cogon",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208007000",
+      "code": "1208007000",
+      "name": "Malungon"
+    }
+  },
+  {
+    "id": "1208007019",
+    "code": "1208007019",
+    "name": "Malandag",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208007000",
+      "code": "1208007000",
+      "name": "Malungon"
+    }
+  },
+  {
+    "id": "1208007020",
+    "code": "1208007020",
+    "name": "Malungon Gamay",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208007000",
+      "code": "1208007000",
+      "name": "Malungon"
+    }
+  },
+  {
+    "id": "1208007021",
+    "code": "1208007021",
+    "name": "Nagpan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208007000",
+      "code": "1208007000",
+      "name": "Malungon"
+    }
+  },
+  {
+    "id": "1208007022",
+    "code": "1208007022",
+    "name": "Panamin",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208007000",
+      "code": "1208007000",
+      "name": "Malungon"
+    }
+  },
+  {
+    "id": "1208007023",
+    "code": "1208007023",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208007000",
+      "code": "1208007000",
+      "name": "Malungon"
+    }
+  },
+  {
+    "id": "1208007024",
+    "code": "1208007024",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208007000",
+      "code": "1208007000",
+      "name": "Malungon"
+    }
+  },
+  {
+    "id": "1208007025",
+    "code": "1208007025",
+    "name": "San Miguel",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208007000",
+      "code": "1208007000",
+      "name": "Malungon"
+    }
+  },
+  {
+    "id": "1208007026",
+    "code": "1208007026",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208007000",
+      "code": "1208007000",
+      "name": "Malungon"
+    }
+  },
+  {
+    "id": "1208007027",
+    "code": "1208007027",
+    "name": "Talus",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208007000",
+      "code": "1208007000",
+      "name": "Malungon"
+    }
+  },
+  {
+    "id": "1208007028",
+    "code": "1208007028",
+    "name": "Tamban",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208007000",
+      "code": "1208007000",
+      "name": "Malungon"
+    }
+  },
+  {
+    "id": "1208007029",
+    "code": "1208007029",
+    "name": "Upper Biangan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208007000",
+      "code": "1208007000",
+      "name": "Malungon"
+    }
+  },
+  {
+    "id": "1208007030",
+    "code": "1208007030",
+    "name": "Upper Lumabat",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208007000",
+      "code": "1208007000",
+      "name": "Malungon"
+    }
+  },
+  {
+    "id": "1208007031",
+    "code": "1208007031",
+    "name": "Upper Mainit",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208007000",
+      "code": "1208007000",
+      "name": "Malungon"
+    }
+  }
+]

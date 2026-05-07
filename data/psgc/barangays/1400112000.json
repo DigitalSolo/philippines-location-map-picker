@@ -1,0 +1,128 @@
+[
+  {
+    "id": "1400112001",
+    "code": "1400112001",
+    "name": "Baac",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400112000",
+      "code": "1400112000",
+      "name": "Langiden"
+    }
+  },
+  {
+    "id": "1400112004",
+    "code": "1400112004",
+    "name": "Dalayap",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400112000",
+      "code": "1400112000",
+      "name": "Langiden"
+    }
+  },
+  {
+    "id": "1400112005",
+    "code": "1400112005",
+    "name": "Mabungtot",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400112000",
+      "code": "1400112000",
+      "name": "Langiden"
+    }
+  },
+  {
+    "id": "1400112006",
+    "code": "1400112006",
+    "name": "Malapaao",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400112000",
+      "code": "1400112000",
+      "name": "Langiden"
+    }
+  },
+  {
+    "id": "1400112007",
+    "code": "1400112007",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400112000",
+      "code": "1400112000",
+      "name": "Langiden"
+    }
+  },
+  {
+    "id": "1400112008",
+    "code": "1400112008",
+    "name": "Quillat",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400112000",
+      "code": "1400112000",
+      "name": "Langiden"
+    }
+  }
+]

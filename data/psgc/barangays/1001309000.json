@@ -1,0 +1,737 @@
+[
+  {
+    "id": "1001309001",
+    "code": "1001309001",
+    "name": "Balangigay",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001309000",
+      "code": "1001309000",
+      "name": "Kitaotao"
+    }
+  },
+  {
+    "id": "1001309002",
+    "code": "1001309002",
+    "name": "Balukbukan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001309000",
+      "code": "1001309000",
+      "name": "Kitaotao"
+    }
+  },
+  {
+    "id": "1001309003",
+    "code": "1001309003",
+    "name": "Bershiba",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001309000",
+      "code": "1001309000",
+      "name": "Kitaotao"
+    }
+  },
+  {
+    "id": "1001309039",
+    "code": "1001309039",
+    "name": "Binoongan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001309000",
+      "code": "1001309000",
+      "name": "Kitaotao"
+    }
+  },
+  {
+    "id": "1001309004",
+    "code": "1001309004",
+    "name": "Bobong",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001309000",
+      "code": "1001309000",
+      "name": "Kitaotao"
+    }
+  },
+  {
+    "id": "1001309005",
+    "code": "1001309005",
+    "name": "Bolocaon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001309000",
+      "code": "1001309000",
+      "name": "Kitaotao"
+    }
+  },
+  {
+    "id": "1001309006",
+    "code": "1001309006",
+    "name": "Cabalantian",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001309000",
+      "code": "1001309000",
+      "name": "Kitaotao"
+    }
+  },
+  {
+    "id": "1001309007",
+    "code": "1001309007",
+    "name": "Calapaton",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001309000",
+      "code": "1001309000",
+      "name": "Kitaotao"
+    }
+  },
+  {
+    "id": "1001309037",
+    "code": "1001309037",
+    "name": "Digongan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001309000",
+      "code": "1001309000",
+      "name": "Kitaotao"
+    }
+  },
+  {
+    "id": "1001309041",
+    "code": "1001309041",
+    "name": "East Dalurong",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001309000",
+      "code": "1001309000",
+      "name": "Kitaotao"
+    }
+  },
+  {
+    "id": "1001309010",
+    "code": "1001309010",
+    "name": "Kahusayan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001309000",
+      "code": "1001309000",
+      "name": "Kitaotao"
+    }
+  },
+  {
+    "id": "1001309011",
+    "code": "1001309011",
+    "name": "Kalumihan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001309000",
+      "code": "1001309000",
+      "name": "Kitaotao"
+    }
+  },
+  {
+    "id": "1001309012",
+    "code": "1001309012",
+    "name": "Kauyonan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001309000",
+      "code": "1001309000",
+      "name": "Kitaotao"
+    }
+  },
+  {
+    "id": "1001309013",
+    "code": "1001309013",
+    "name": "Kimolong",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001309000",
+      "code": "1001309000",
+      "name": "Kitaotao"
+    }
+  },
+  {
+    "id": "1001309040",
+    "code": "1001309040",
+    "name": "Kipilas",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001309000",
+      "code": "1001309000",
+      "name": "Kitaotao"
+    }
+  },
+  {
+    "id": "1001309014",
+    "code": "1001309014",
+    "name": "Kitaihon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001309000",
+      "code": "1001309000",
+      "name": "Kitaotao"
+    }
+  },
+  {
+    "id": "1001309015",
+    "code": "1001309015",
+    "name": "Kitobo",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001309000",
+      "code": "1001309000",
+      "name": "Kitaotao"
+    }
+  },
+  {
+    "id": "1001309038",
+    "code": "1001309038",
+    "name": "Kiulom",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001309000",
+      "code": "1001309000",
+      "name": "Kitaotao"
+    }
+  },
+  {
+    "id": "1001309019",
+    "code": "1001309019",
+    "name": "Magsaysay",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001309000",
+      "code": "1001309000",
+      "name": "Kitaotao"
+    }
+  },
+  {
+    "id": "1001309020",
+    "code": "1001309020",
+    "name": "Malobalo",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001309000",
+      "code": "1001309000",
+      "name": "Kitaotao"
+    }
+  },
+  {
+    "id": "1001309021",
+    "code": "1001309021",
+    "name": "Metebagao",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001309000",
+      "code": "1001309000",
+      "name": "Kitaotao"
+    }
+  },
+  {
+    "id": "1001309035",
+    "code": "1001309035",
+    "name": "Napalico",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001309000",
+      "code": "1001309000",
+      "name": "Kitaotao"
+    }
+  },
+  {
+    "id": "1001309023",
+    "code": "1001309023",
+    "name": "Pagan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001309000",
+      "code": "1001309000",
+      "name": "Kitaotao"
+    }
+  },
+  {
+    "id": "1001309025",
+    "code": "1001309025",
+    "name": "Panganan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001309000",
+      "code": "1001309000",
+      "name": "Kitaotao"
+    }
+  },
+  {
+    "id": "1001309026",
+    "code": "1001309026",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001309000",
+      "code": "1001309000",
+      "name": "Kitaotao"
+    }
+  },
+  {
+    "id": "1001309022",
+    "code": "1001309022",
+    "name": "Sagundanon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001309000",
+      "code": "1001309000",
+      "name": "Kitaotao"
+    }
+  },
+  {
+    "id": "1001309028",
+    "code": "1001309028",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001309000",
+      "code": "1001309000",
+      "name": "Kitaotao"
+    }
+  },
+  {
+    "id": "1001309029",
+    "code": "1001309029",
+    "name": "San Lorenzo",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001309000",
+      "code": "1001309000",
+      "name": "Kitaotao"
+    }
+  },
+  {
+    "id": "1001309009",
+    "code": "1001309009",
+    "name": "Sinaysayan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001309000",
+      "code": "1001309000",
+      "name": "Kitaotao"
+    }
+  },
+  {
+    "id": "1001309031",
+    "code": "1001309031",
+    "name": "Sinuda",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001309000",
+      "code": "1001309000",
+      "name": "Kitaotao"
+    }
+  },
+  {
+    "id": "1001309030",
+    "code": "1001309030",
+    "name": "Sto. Rosario",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001309000",
+      "code": "1001309000",
+      "name": "Kitaotao"
+    }
+  },
+  {
+    "id": "1001309032",
+    "code": "1001309032",
+    "name": "Tandong",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001309000",
+      "code": "1001309000",
+      "name": "Kitaotao"
+    }
+  },
+  {
+    "id": "1001309033",
+    "code": "1001309033",
+    "name": "Tawas",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001309000",
+      "code": "1001309000",
+      "name": "Kitaotao"
+    }
+  },
+  {
+    "id": "1001309042",
+    "code": "1001309042",
+    "name": "West Dalurong",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001309000",
+      "code": "1001309000",
+      "name": "Kitaotao"
+    }
+  },
+  {
+    "id": "1001309034",
+    "code": "1001309034",
+    "name": "White Kulaman",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001309000",
+      "code": "1001309000",
+      "name": "Kitaotao"
+    }
+  }
+]

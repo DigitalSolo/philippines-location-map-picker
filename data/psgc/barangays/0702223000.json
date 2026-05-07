@@ -1,0 +1,884 @@
+[
+  {
+    "id": "0702223001",
+    "code": "0702223001",
+    "name": "Baliang",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702223000",
+      "code": "0702223000",
+      "name": "Danao City"
+    }
+  },
+  {
+    "id": "0702223002",
+    "code": "0702223002",
+    "name": "Bayabas",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702223000",
+      "code": "0702223000",
+      "name": "Danao City"
+    }
+  },
+  {
+    "id": "0702223004",
+    "code": "0702223004",
+    "name": "Binaliw",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702223000",
+      "code": "0702223000",
+      "name": "Danao City"
+    }
+  },
+  {
+    "id": "0702223006",
+    "code": "0702223006",
+    "name": "Cabungahan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702223000",
+      "code": "0702223000",
+      "name": "Danao City"
+    }
+  },
+  {
+    "id": "0702223007",
+    "code": "0702223007",
+    "name": "Cagat-Lamac",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702223000",
+      "code": "0702223000",
+      "name": "Danao City"
+    }
+  },
+  {
+    "id": "0702223008",
+    "code": "0702223008",
+    "name": "Cahumayan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702223000",
+      "code": "0702223000",
+      "name": "Danao City"
+    }
+  },
+  {
+    "id": "0702223009",
+    "code": "0702223009",
+    "name": "Cambanay",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702223000",
+      "code": "0702223000",
+      "name": "Danao City"
+    }
+  },
+  {
+    "id": "0702223010",
+    "code": "0702223010",
+    "name": "Cambubho",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702223000",
+      "code": "0702223000",
+      "name": "Danao City"
+    }
+  },
+  {
+    "id": "0702223011",
+    "code": "0702223011",
+    "name": "Cogon-Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702223000",
+      "code": "0702223000",
+      "name": "Danao City"
+    }
+  },
+  {
+    "id": "0702223012",
+    "code": "0702223012",
+    "name": "Danasan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702223000",
+      "code": "0702223000",
+      "name": "Danao City"
+    }
+  },
+  {
+    "id": "0702223013",
+    "code": "0702223013",
+    "name": "Dungga",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702223000",
+      "code": "0702223000",
+      "name": "Danao City"
+    }
+  },
+  {
+    "id": "0702223014",
+    "code": "0702223014",
+    "name": "Dunggoan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702223000",
+      "code": "0702223000",
+      "name": "Danao City"
+    }
+  },
+  {
+    "id": "0702223015",
+    "code": "0702223015",
+    "name": "Guinacot",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702223000",
+      "code": "0702223000",
+      "name": "Danao City"
+    }
+  },
+  {
+    "id": "0702223016",
+    "code": "0702223016",
+    "name": "Guinsay",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702223000",
+      "code": "0702223000",
+      "name": "Danao City"
+    }
+  },
+  {
+    "id": "0702223017",
+    "code": "0702223017",
+    "name": "Ibo",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702223000",
+      "code": "0702223000",
+      "name": "Danao City"
+    }
+  },
+  {
+    "id": "0702223018",
+    "code": "0702223018",
+    "name": "Langosig",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702223000",
+      "code": "0702223000",
+      "name": "Danao City"
+    }
+  },
+  {
+    "id": "0702223019",
+    "code": "0702223019",
+    "name": "Lawaan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702223000",
+      "code": "0702223000",
+      "name": "Danao City"
+    }
+  },
+  {
+    "id": "0702223020",
+    "code": "0702223020",
+    "name": "Licos",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702223000",
+      "code": "0702223000",
+      "name": "Danao City"
+    }
+  },
+  {
+    "id": "0702223021",
+    "code": "0702223021",
+    "name": "Looc",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702223000",
+      "code": "0702223000",
+      "name": "Danao City"
+    }
+  },
+  {
+    "id": "0702223022",
+    "code": "0702223022",
+    "name": "Magtagobtob",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702223000",
+      "code": "0702223000",
+      "name": "Danao City"
+    }
+  },
+  {
+    "id": "0702223023",
+    "code": "0702223023",
+    "name": "Malapoc",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702223000",
+      "code": "0702223000",
+      "name": "Danao City"
+    }
+  },
+  {
+    "id": "0702223024",
+    "code": "0702223024",
+    "name": "Manlayag",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702223000",
+      "code": "0702223000",
+      "name": "Danao City"
+    }
+  },
+  {
+    "id": "0702223025",
+    "code": "0702223025",
+    "name": "Mantija",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702223000",
+      "code": "0702223000",
+      "name": "Danao City"
+    }
+  },
+  {
+    "id": "0702223026",
+    "code": "0702223026",
+    "name": "Masaba",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702223000",
+      "code": "0702223000",
+      "name": "Danao City"
+    }
+  },
+  {
+    "id": "0702223027",
+    "code": "0702223027",
+    "name": "Maslog",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702223000",
+      "code": "0702223000",
+      "name": "Danao City"
+    }
+  },
+  {
+    "id": "0702223028",
+    "code": "0702223028",
+    "name": "Nangka",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702223000",
+      "code": "0702223000",
+      "name": "Danao City"
+    }
+  },
+  {
+    "id": "0702223029",
+    "code": "0702223029",
+    "name": "Oguis",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702223000",
+      "code": "0702223000",
+      "name": "Danao City"
+    }
+  },
+  {
+    "id": "0702223030",
+    "code": "0702223030",
+    "name": "Pili",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702223000",
+      "code": "0702223000",
+      "name": "Danao City"
+    }
+  },
+  {
+    "id": "0702223031",
+    "code": "0702223031",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702223000",
+      "code": "0702223000",
+      "name": "Danao City"
+    }
+  },
+  {
+    "id": "0702223032",
+    "code": "0702223032",
+    "name": "Quisol",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702223000",
+      "code": "0702223000",
+      "name": "Danao City"
+    }
+  },
+  {
+    "id": "0702223033",
+    "code": "0702223033",
+    "name": "Sabang",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702223000",
+      "code": "0702223000",
+      "name": "Danao City"
+    }
+  },
+  {
+    "id": "0702223034",
+    "code": "0702223034",
+    "name": "Sacsac",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702223000",
+      "code": "0702223000",
+      "name": "Danao City"
+    }
+  },
+  {
+    "id": "0702223035",
+    "code": "0702223035",
+    "name": "Sandayong Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702223000",
+      "code": "0702223000",
+      "name": "Danao City"
+    }
+  },
+  {
+    "id": "0702223036",
+    "code": "0702223036",
+    "name": "Sandayong Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702223000",
+      "code": "0702223000",
+      "name": "Danao City"
+    }
+  },
+  {
+    "id": "0702223037",
+    "code": "0702223037",
+    "name": "Santa Rosa",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702223000",
+      "code": "0702223000",
+      "name": "Danao City"
+    }
+  },
+  {
+    "id": "0702223038",
+    "code": "0702223038",
+    "name": "Santican",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702223000",
+      "code": "0702223000",
+      "name": "Danao City"
+    }
+  },
+  {
+    "id": "0702223039",
+    "code": "0702223039",
+    "name": "Sibacan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702223000",
+      "code": "0702223000",
+      "name": "Danao City"
+    }
+  },
+  {
+    "id": "0702223040",
+    "code": "0702223040",
+    "name": "Suba",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702223000",
+      "code": "0702223000",
+      "name": "Danao City"
+    }
+  },
+  {
+    "id": "0702223041",
+    "code": "0702223041",
+    "name": "Taboc",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702223000",
+      "code": "0702223000",
+      "name": "Danao City"
+    }
+  },
+  {
+    "id": "0702223042",
+    "code": "0702223042",
+    "name": "Taytay",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702223000",
+      "code": "0702223000",
+      "name": "Danao City"
+    }
+  },
+  {
+    "id": "0702223043",
+    "code": "0702223043",
+    "name": "Togonon",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702223000",
+      "code": "0702223000",
+      "name": "Danao City"
+    }
+  },
+  {
+    "id": "0702223044",
+    "code": "0702223044",
+    "name": "Tuburan Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702223000",
+      "code": "0702223000",
+      "name": "Danao City"
+    }
+  }
+]

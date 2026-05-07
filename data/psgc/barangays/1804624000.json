@@ -1,0 +1,317 @@
+[
+  {
+    "id": "1804624001",
+    "code": "1804624001",
+    "name": "Bagawines",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804624000",
+      "code": "1804624000",
+      "name": "Vallehermoso"
+    }
+  },
+  {
+    "id": "1804624002",
+    "code": "1804624002",
+    "name": "Bairan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804624000",
+      "code": "1804624000",
+      "name": "Vallehermoso"
+    }
+  },
+  {
+    "id": "1804624005",
+    "code": "1804624005",
+    "name": "Cabulihan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804624000",
+      "code": "1804624000",
+      "name": "Vallehermoso"
+    }
+  },
+  {
+    "id": "1804624003",
+    "code": "1804624003",
+    "name": "Don Espiridion Villegas",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804624000",
+      "code": "1804624000",
+      "name": "Vallehermoso"
+    }
+  },
+  {
+    "id": "1804624004",
+    "code": "1804624004",
+    "name": "Guba",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804624000",
+      "code": "1804624000",
+      "name": "Vallehermoso"
+    }
+  },
+  {
+    "id": "1804624006",
+    "code": "1804624006",
+    "name": "Macapso",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804624000",
+      "code": "1804624000",
+      "name": "Vallehermoso"
+    }
+  },
+  {
+    "id": "1804624009",
+    "code": "1804624009",
+    "name": "Maglahos",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804624000",
+      "code": "1804624000",
+      "name": "Vallehermoso"
+    }
+  },
+  {
+    "id": "1804624007",
+    "code": "1804624007",
+    "name": "Malangsa",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804624000",
+      "code": "1804624000",
+      "name": "Vallehermoso"
+    }
+  },
+  {
+    "id": "1804624008",
+    "code": "1804624008",
+    "name": "Molobolo",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804624000",
+      "code": "1804624000",
+      "name": "Vallehermoso"
+    }
+  },
+  {
+    "id": "1804624010",
+    "code": "1804624010",
+    "name": "Pinocawan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804624000",
+      "code": "1804624000",
+      "name": "Vallehermoso"
+    }
+  },
+  {
+    "id": "1804624011",
+    "code": "1804624011",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804624000",
+      "code": "1804624000",
+      "name": "Vallehermoso"
+    }
+  },
+  {
+    "id": "1804624012",
+    "code": "1804624012",
+    "name": "Puan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804624000",
+      "code": "1804624000",
+      "name": "Vallehermoso"
+    }
+  },
+  {
+    "id": "1804624013",
+    "code": "1804624013",
+    "name": "Tabon",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804624000",
+      "code": "1804624000",
+      "name": "Vallehermoso"
+    }
+  },
+  {
+    "id": "1804624014",
+    "code": "1804624014",
+    "name": "Tagbino",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804624000",
+      "code": "1804624000",
+      "name": "Vallehermoso"
+    }
+  },
+  {
+    "id": "1804624015",
+    "code": "1804624015",
+    "name": "Ulay",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804624000",
+      "code": "1804624000",
+      "name": "Vallehermoso"
+    }
+  }
+]

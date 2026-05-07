@@ -1,0 +1,107 @@
+[
+  {
+    "id": "0906606012",
+    "code": "0906606012",
+    "name": "Bangas",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0906600000",
+      "code": "0906600000",
+      "name": "Sulu"
+    },
+    "city_municipality": {
+      "id": "0906606000",
+      "code": "0906606000",
+      "name": "Hadji Panglima Tahil"
+    }
+  },
+  {
+    "id": "0906606002",
+    "code": "0906606002",
+    "name": "Bubuan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0906600000",
+      "code": "0906600000",
+      "name": "Sulu"
+    },
+    "city_municipality": {
+      "id": "0906606000",
+      "code": "0906606000",
+      "name": "Hadji Panglima Tahil"
+    }
+  },
+  {
+    "id": "0906606003",
+    "code": "0906606003",
+    "name": "Kabuukan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0906600000",
+      "code": "0906600000",
+      "name": "Sulu"
+    },
+    "city_municipality": {
+      "id": "0906606000",
+      "code": "0906606000",
+      "name": "Hadji Panglima Tahil"
+    }
+  },
+  {
+    "id": "0906606008",
+    "code": "0906606008",
+    "name": "Pag-asinan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0906600000",
+      "code": "0906600000",
+      "name": "Sulu"
+    },
+    "city_municipality": {
+      "id": "0906606000",
+      "code": "0906606000",
+      "name": "Hadji Panglima Tahil"
+    }
+  },
+  {
+    "id": "0906606015",
+    "code": "0906606015",
+    "name": "Teomabal",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0906600000",
+      "code": "0906600000",
+      "name": "Sulu"
+    },
+    "city_municipality": {
+      "id": "0906606000",
+      "code": "0906606000",
+      "name": "Hadji Panglima Tahil"
+    }
+  }
+]

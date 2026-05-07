@@ -1,0 +1,464 @@
+[
+  {
+    "id": "0504107001",
+    "code": "0504107001",
+    "name": "Albasan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504107000",
+      "code": "0504107000",
+      "name": "Claveria"
+    }
+  },
+  {
+    "id": "0504107002",
+    "code": "0504107002",
+    "name": "Boca Engaño",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504107000",
+      "code": "0504107000",
+      "name": "Claveria"
+    }
+  },
+  {
+    "id": "0504107003",
+    "code": "0504107003",
+    "name": "Buyo",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504107000",
+      "code": "0504107000",
+      "name": "Claveria"
+    }
+  },
+  {
+    "id": "0504107004",
+    "code": "0504107004",
+    "name": "Calpi",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504107000",
+      "code": "0504107000",
+      "name": "Claveria"
+    }
+  },
+  {
+    "id": "0504107005",
+    "code": "0504107005",
+    "name": "Canomay",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504107000",
+      "code": "0504107000",
+      "name": "Claveria"
+    }
+  },
+  {
+    "id": "0504107006",
+    "code": "0504107006",
+    "name": "Cawayan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504107000",
+      "code": "0504107000",
+      "name": "Claveria"
+    }
+  },
+  {
+    "id": "0504107022",
+    "code": "0504107022",
+    "name": "Imelda",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504107000",
+      "code": "0504107000",
+      "name": "Claveria"
+    }
+  },
+  {
+    "id": "0504107009",
+    "code": "0504107009",
+    "name": "Mababang Baybay",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504107000",
+      "code": "0504107000",
+      "name": "Claveria"
+    }
+  },
+  {
+    "id": "0504107010",
+    "code": "0504107010",
+    "name": "Mabiton",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504107000",
+      "code": "0504107000",
+      "name": "Claveria"
+    }
+  },
+  {
+    "id": "0504107011",
+    "code": "0504107011",
+    "name": "Manapao",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504107000",
+      "code": "0504107000",
+      "name": "Claveria"
+    }
+  },
+  {
+    "id": "0504107012",
+    "code": "0504107012",
+    "name": "Nabasagan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504107000",
+      "code": "0504107000",
+      "name": "Claveria"
+    }
+  },
+  {
+    "id": "0504107013",
+    "code": "0504107013",
+    "name": "Nonoc",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504107000",
+      "code": "0504107000",
+      "name": "Claveria"
+    }
+  },
+  {
+    "id": "0504107014",
+    "code": "0504107014",
+    "name": "Osmeña",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504107000",
+      "code": "0504107000",
+      "name": "Claveria"
+    }
+  },
+  {
+    "id": "0504107015",
+    "code": "0504107015",
+    "name": "Pasig",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504107000",
+      "code": "0504107000",
+      "name": "Claveria"
+    }
+  },
+  {
+    "id": "0504107016",
+    "code": "0504107016",
+    "name": "Peñafrancia",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504107000",
+      "code": "0504107000",
+      "name": "Claveria"
+    }
+  },
+  {
+    "id": "0504107007",
+    "code": "0504107007",
+    "name": "Poblacion District I",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504107000",
+      "code": "0504107000",
+      "name": "Claveria"
+    }
+  },
+  {
+    "id": "0504107008",
+    "code": "0504107008",
+    "name": "Poblacion District II",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504107000",
+      "code": "0504107000",
+      "name": "Claveria"
+    }
+  },
+  {
+    "id": "0504107017",
+    "code": "0504107017",
+    "name": "Quezon",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504107000",
+      "code": "0504107000",
+      "name": "Claveria"
+    }
+  },
+  {
+    "id": "0504107018",
+    "code": "0504107018",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504107000",
+      "code": "0504107000",
+      "name": "Claveria"
+    }
+  },
+  {
+    "id": "0504107019",
+    "code": "0504107019",
+    "name": "San Ramon",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504107000",
+      "code": "0504107000",
+      "name": "Claveria"
+    }
+  },
+  {
+    "id": "0504107020",
+    "code": "0504107020",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504107000",
+      "code": "0504107000",
+      "name": "Claveria"
+    }
+  },
+  {
+    "id": "0504107021",
+    "code": "0504107021",
+    "name": "Taguilid",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504107000",
+      "code": "0504107000",
+      "name": "Claveria"
+    }
+  }
+]

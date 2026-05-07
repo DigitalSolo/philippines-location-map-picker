@@ -1,0 +1,611 @@
+[
+  {
+    "id": "0806418001",
+    "code": "0806418001",
+    "name": "Anahawan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806418000",
+      "code": "0806418000",
+      "name": "Tomas Oppus"
+    }
+  },
+  {
+    "id": "0806418002",
+    "code": "0806418002",
+    "name": "Banday",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806418000",
+      "code": "0806418000",
+      "name": "Tomas Oppus"
+    }
+  },
+  {
+    "id": "0806418022",
+    "code": "0806418022",
+    "name": "Biasong",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806418000",
+      "code": "0806418000",
+      "name": "Tomas Oppus"
+    }
+  },
+  {
+    "id": "0806418003",
+    "code": "0806418003",
+    "name": "Bogo",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806418000",
+      "code": "0806418000",
+      "name": "Tomas Oppus"
+    }
+  },
+  {
+    "id": "0806418004",
+    "code": "0806418004",
+    "name": "Cabascan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806418000",
+      "code": "0806418000",
+      "name": "Tomas Oppus"
+    }
+  },
+  {
+    "id": "0806418005",
+    "code": "0806418005",
+    "name": "Camansi",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806418000",
+      "code": "0806418000",
+      "name": "Tomas Oppus"
+    }
+  },
+  {
+    "id": "0806418006",
+    "code": "0806418006",
+    "name": "Cambite",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806418000",
+      "code": "0806418000",
+      "name": "Tomas Oppus"
+    }
+  },
+  {
+    "id": "0806418007",
+    "code": "0806418007",
+    "name": "Canlupao",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806418000",
+      "code": "0806418000",
+      "name": "Tomas Oppus"
+    }
+  },
+  {
+    "id": "0806418008",
+    "code": "0806418008",
+    "name": "Carnaga",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806418000",
+      "code": "0806418000",
+      "name": "Tomas Oppus"
+    }
+  },
+  {
+    "id": "0806418009",
+    "code": "0806418009",
+    "name": "Cawayan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806418000",
+      "code": "0806418000",
+      "name": "Tomas Oppus"
+    }
+  },
+  {
+    "id": "0806418023",
+    "code": "0806418023",
+    "name": "Higosoan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806418000",
+      "code": "0806418000",
+      "name": "Tomas Oppus"
+    }
+  },
+  {
+    "id": "0806418010",
+    "code": "0806418010",
+    "name": "Hinagtikan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806418000",
+      "code": "0806418000",
+      "name": "Tomas Oppus"
+    }
+  },
+  {
+    "id": "0806418011",
+    "code": "0806418011",
+    "name": "Hinapo",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806418000",
+      "code": "0806418000",
+      "name": "Tomas Oppus"
+    }
+  },
+  {
+    "id": "0806418012",
+    "code": "0806418012",
+    "name": "Hugpa",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806418000",
+      "code": "0806418000",
+      "name": "Tomas Oppus"
+    }
+  },
+  {
+    "id": "0806418013",
+    "code": "0806418013",
+    "name": "Iniguihan Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806418000",
+      "code": "0806418000",
+      "name": "Tomas Oppus"
+    }
+  },
+  {
+    "id": "0806418014",
+    "code": "0806418014",
+    "name": "Looc",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806418000",
+      "code": "0806418000",
+      "name": "Tomas Oppus"
+    }
+  },
+  {
+    "id": "0806418027",
+    "code": "0806418027",
+    "name": "Luan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806418000",
+      "code": "0806418000",
+      "name": "Tomas Oppus"
+    }
+  },
+  {
+    "id": "0806418015",
+    "code": "0806418015",
+    "name": "Maanyag",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806418000",
+      "code": "0806418000",
+      "name": "Tomas Oppus"
+    }
+  },
+  {
+    "id": "0806418024",
+    "code": "0806418024",
+    "name": "Mag-ata",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806418000",
+      "code": "0806418000",
+      "name": "Tomas Oppus"
+    }
+  },
+  {
+    "id": "0806418028",
+    "code": "0806418028",
+    "name": "Mapgap",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806418000",
+      "code": "0806418000",
+      "name": "Tomas Oppus"
+    }
+  },
+  {
+    "id": "0806418016",
+    "code": "0806418016",
+    "name": "Maslog",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806418000",
+      "code": "0806418000",
+      "name": "Tomas Oppus"
+    }
+  },
+  {
+    "id": "0806418017",
+    "code": "0806418017",
+    "name": "Punong",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806418000",
+      "code": "0806418000",
+      "name": "Tomas Oppus"
+    }
+  },
+  {
+    "id": "0806418018",
+    "code": "0806418018",
+    "name": "Rizal",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806418000",
+      "code": "0806418000",
+      "name": "Tomas Oppus"
+    }
+  },
+  {
+    "id": "0806418029",
+    "code": "0806418029",
+    "name": "San Agustin",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806418000",
+      "code": "0806418000",
+      "name": "Tomas Oppus"
+    }
+  },
+  {
+    "id": "0806418025",
+    "code": "0806418025",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806418000",
+      "code": "0806418000",
+      "name": "Tomas Oppus"
+    }
+  },
+  {
+    "id": "0806418019",
+    "code": "0806418019",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806418000",
+      "code": "0806418000",
+      "name": "Tomas Oppus"
+    }
+  },
+  {
+    "id": "0806418020",
+    "code": "0806418020",
+    "name": "San Miguel",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806418000",
+      "code": "0806418000",
+      "name": "Tomas Oppus"
+    }
+  },
+  {
+    "id": "0806418026",
+    "code": "0806418026",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806418000",
+      "code": "0806418000",
+      "name": "Tomas Oppus"
+    }
+  },
+  {
+    "id": "0806418021",
+    "code": "0806418021",
+    "name": "Tinago",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806418000",
+      "code": "0806418000",
+      "name": "Tomas Oppus"
+    }
+  }
+]

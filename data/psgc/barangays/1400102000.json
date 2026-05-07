@@ -1,0 +1,170 @@
+[
+  {
+    "id": "1400102001",
+    "code": "1400102001",
+    "name": "Amti",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400102000",
+      "code": "1400102000",
+      "name": "Boliney"
+    }
+  },
+  {
+    "id": "1400102002",
+    "code": "1400102002",
+    "name": "Bao-yan",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400102000",
+      "code": "1400102000",
+      "name": "Boliney"
+    }
+  },
+  {
+    "id": "1400102003",
+    "code": "1400102003",
+    "name": "Danac East",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400102000",
+      "code": "1400102000",
+      "name": "Boliney"
+    }
+  },
+  {
+    "id": "1400102008",
+    "code": "1400102008",
+    "name": "Danac West",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400102000",
+      "code": "1400102000",
+      "name": "Boliney"
+    }
+  },
+  {
+    "id": "1400102004",
+    "code": "1400102004",
+    "name": "Dao-angan",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400102000",
+      "code": "1400102000",
+      "name": "Boliney"
+    }
+  },
+  {
+    "id": "1400102005",
+    "code": "1400102005",
+    "name": "Dumagas",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400102000",
+      "code": "1400102000",
+      "name": "Boliney"
+    }
+  },
+  {
+    "id": "1400102006",
+    "code": "1400102006",
+    "name": "Kilong-Olao",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400102000",
+      "code": "1400102000",
+      "name": "Boliney"
+    }
+  },
+  {
+    "id": "1400102007",
+    "code": "1400102007",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400102000",
+      "code": "1400102000",
+      "name": "Boliney"
+    }
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "0102917001",
+    "code": "0102917001",
+    "name": "Cabaroan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102917000",
+      "code": "0102917000",
+      "name": "San Emilio"
+    }
+  },
+  {
+    "id": "0102917002",
+    "code": "0102917002",
+    "name": "Kalumsing",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102917000",
+      "code": "0102917000",
+      "name": "San Emilio"
+    }
+  },
+  {
+    "id": "0102917003",
+    "code": "0102917003",
+    "name": "Lancuas",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102917000",
+      "code": "0102917000",
+      "name": "San Emilio"
+    }
+  },
+  {
+    "id": "0102917004",
+    "code": "0102917004",
+    "name": "Matibuey",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102917000",
+      "code": "0102917000",
+      "name": "San Emilio"
+    }
+  },
+  {
+    "id": "0102917005",
+    "code": "0102917005",
+    "name": "Paltoc",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102917000",
+      "code": "0102917000",
+      "name": "San Emilio"
+    }
+  },
+  {
+    "id": "0102917008",
+    "code": "0102917008",
+    "name": "San Miliano",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102917000",
+      "code": "0102917000",
+      "name": "San Emilio"
+    }
+  },
+  {
+    "id": "0102917006",
+    "code": "0102917006",
+    "name": "Sibsibbu",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102917000",
+      "code": "0102917000",
+      "name": "San Emilio"
+    }
+  },
+  {
+    "id": "0102917007",
+    "code": "0102917007",
+    "name": "Tiagan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102917000",
+      "code": "0102917000",
+      "name": "San Emilio"
+    }
+  }
+]

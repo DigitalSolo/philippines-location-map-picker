@@ -1,0 +1,107 @@
+[
+  {
+    "id": "1400111002",
+    "code": "1400111002",
+    "name": "Ba-i",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400111000",
+      "code": "1400111000",
+      "name": "Lagayan"
+    }
+  },
+  {
+    "id": "1400111004",
+    "code": "1400111004",
+    "name": "Collago",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400111000",
+      "code": "1400111000",
+      "name": "Lagayan"
+    }
+  },
+  {
+    "id": "1400111005",
+    "code": "1400111005",
+    "name": "Pang-ot",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400111000",
+      "code": "1400111000",
+      "name": "Lagayan"
+    }
+  },
+  {
+    "id": "1400111006",
+    "code": "1400111006",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400111000",
+      "code": "1400111000",
+      "name": "Lagayan"
+    }
+  },
+  {
+    "id": "1400111007",
+    "code": "1400111007",
+    "name": "Pulot",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400111000",
+      "code": "1400111000",
+      "name": "Lagayan"
+    }
+  }
+]

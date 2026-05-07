@@ -1,0 +1,1283 @@
+[
+  {
+    "id": "1704001001",
+    "code": "1704001001",
+    "name": "Agot",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001002",
+    "code": "1704001002",
+    "name": "Agumaymayan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001003",
+    "code": "1704001003",
+    "name": "Amoingon",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001004",
+    "code": "1704001004",
+    "name": "Apitong",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001005",
+    "code": "1704001005",
+    "name": "Balagasan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001006",
+    "code": "1704001006",
+    "name": "Balaring",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001007",
+    "code": "1704001007",
+    "name": "Balimbing",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001008",
+    "code": "1704001008",
+    "name": "Balogo",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001010",
+    "code": "1704001010",
+    "name": "Bamban",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001009",
+    "code": "1704001009",
+    "name": "Bangbangalon",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001011",
+    "code": "1704001011",
+    "name": "Bantad",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001012",
+    "code": "1704001012",
+    "name": "Bantay",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001013",
+    "code": "1704001013",
+    "name": "Bayuti",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001014",
+    "code": "1704001014",
+    "name": "Binunga",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001015",
+    "code": "1704001015",
+    "name": "Boi",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001016",
+    "code": "1704001016",
+    "name": "Boton",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001017",
+    "code": "1704001017",
+    "name": "Buliasnin",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001018",
+    "code": "1704001018",
+    "name": "Bunganay",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001020",
+    "code": "1704001020",
+    "name": "Caganhao",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001021",
+    "code": "1704001021",
+    "name": "Canat",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001022",
+    "code": "1704001022",
+    "name": "Catubugan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001023",
+    "code": "1704001023",
+    "name": "Cawit",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001024",
+    "code": "1704001024",
+    "name": "Daig",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001025",
+    "code": "1704001025",
+    "name": "Daypay",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001026",
+    "code": "1704001026",
+    "name": "Duyay",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001029",
+    "code": "1704001029",
+    "name": "Hinapulan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001027",
+    "code": "1704001027",
+    "name": "Ihatub",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001061",
+    "code": "1704001061",
+    "name": "Isok I",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001028",
+    "code": "1704001028",
+    "name": "Isok II Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001030",
+    "code": "1704001030",
+    "name": "Laylay",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001031",
+    "code": "1704001031",
+    "name": "Lupac",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001032",
+    "code": "1704001032",
+    "name": "Mahinhin",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001033",
+    "code": "1704001033",
+    "name": "Mainit",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001034",
+    "code": "1704001034",
+    "name": "Malbog",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001019",
+    "code": "1704001019",
+    "name": "Maligaya",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001035",
+    "code": "1704001035",
+    "name": "Malusak",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001036",
+    "code": "1704001036",
+    "name": "Mansiwat",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001037",
+    "code": "1704001037",
+    "name": "Mataas Na Bayan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001038",
+    "code": "1704001038",
+    "name": "Maybo",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001039",
+    "code": "1704001039",
+    "name": "Mercado",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001040",
+    "code": "1704001040",
+    "name": "Murallon",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001041",
+    "code": "1704001041",
+    "name": "Ogbac",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001042",
+    "code": "1704001042",
+    "name": "Pawa",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001043",
+    "code": "1704001043",
+    "name": "Pili",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001044",
+    "code": "1704001044",
+    "name": "Poctoy",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001045",
+    "code": "1704001045",
+    "name": "Poras",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001046",
+    "code": "1704001046",
+    "name": "Puting Buhangin",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001047",
+    "code": "1704001047",
+    "name": "Puyog",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001048",
+    "code": "1704001048",
+    "name": "Sabong",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001049",
+    "code": "1704001049",
+    "name": "San Miguel",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001050",
+    "code": "1704001050",
+    "name": "Santol",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001051",
+    "code": "1704001051",
+    "name": "Sawi",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001052",
+    "code": "1704001052",
+    "name": "Tabi",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001053",
+    "code": "1704001053",
+    "name": "Tabigue",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001054",
+    "code": "1704001054",
+    "name": "Tagwak",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001055",
+    "code": "1704001055",
+    "name": "Tambunan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001056",
+    "code": "1704001056",
+    "name": "Tampus",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001057",
+    "code": "1704001057",
+    "name": "Tanza",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001058",
+    "code": "1704001058",
+    "name": "Tugos",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001059",
+    "code": "1704001059",
+    "name": "Tumagabok",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  },
+  {
+    "id": "1704001060",
+    "code": "1704001060",
+    "name": "Tumapon",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704001000",
+      "code": "1704001000",
+      "name": "Boac"
+    }
+  }
+]

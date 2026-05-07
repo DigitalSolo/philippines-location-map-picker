@@ -1,0 +1,275 @@
+[
+  {
+    "id": "0907204001",
+    "code": "0907204001",
+    "name": "El Paraiso",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907204000",
+      "code": "0907204000",
+      "name": "La Libertad"
+    }
+  },
+  {
+    "id": "0907204002",
+    "code": "0907204002",
+    "name": "La Union",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907204000",
+      "code": "0907204000",
+      "name": "La Libertad"
+    }
+  },
+  {
+    "id": "0907204003",
+    "code": "0907204003",
+    "name": "La Victoria",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907204000",
+      "code": "0907204000",
+      "name": "La Libertad"
+    }
+  },
+  {
+    "id": "0907204004",
+    "code": "0907204004",
+    "name": "Mauswagon",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907204000",
+      "code": "0907204000",
+      "name": "La Libertad"
+    }
+  },
+  {
+    "id": "0907204005",
+    "code": "0907204005",
+    "name": "Mercedes",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907204000",
+      "code": "0907204000",
+      "name": "La Libertad"
+    }
+  },
+  {
+    "id": "0907204006",
+    "code": "0907204006",
+    "name": "New Argao",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907204000",
+      "code": "0907204000",
+      "name": "La Libertad"
+    }
+  },
+  {
+    "id": "0907204007",
+    "code": "0907204007",
+    "name": "New Bataan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907204000",
+      "code": "0907204000",
+      "name": "La Libertad"
+    }
+  },
+  {
+    "id": "0907204008",
+    "code": "0907204008",
+    "name": "New Carcar",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907204000",
+      "code": "0907204000",
+      "name": "La Libertad"
+    }
+  },
+  {
+    "id": "0907204009",
+    "code": "0907204009",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907204000",
+      "code": "0907204000",
+      "name": "La Libertad"
+    }
+  },
+  {
+    "id": "0907204010",
+    "code": "0907204010",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907204000",
+      "code": "0907204000",
+      "name": "La Libertad"
+    }
+  },
+  {
+    "id": "0907204011",
+    "code": "0907204011",
+    "name": "Santa Catalina",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907204000",
+      "code": "0907204000",
+      "name": "La Libertad"
+    }
+  },
+  {
+    "id": "0907204012",
+    "code": "0907204012",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907204000",
+      "code": "0907204000",
+      "name": "La Libertad"
+    }
+  },
+  {
+    "id": "0907204013",
+    "code": "0907204013",
+    "name": "Singaran",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907204000",
+      "code": "0907204000",
+      "name": "La Libertad"
+    }
+  }
+]

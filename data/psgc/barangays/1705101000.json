@@ -1,0 +1,212 @@
+[
+  {
+    "id": "1705101009",
+    "code": "1705101009",
+    "name": "Armado",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705101000",
+      "code": "1705101000",
+      "name": "Abra De Ilog"
+    }
+  },
+  {
+    "id": "1705101001",
+    "code": "1705101001",
+    "name": "Balao",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705101000",
+      "code": "1705101000",
+      "name": "Abra De Ilog"
+    }
+  },
+  {
+    "id": "1705101002",
+    "code": "1705101002",
+    "name": "Cabacao",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705101000",
+      "code": "1705101000",
+      "name": "Abra De Ilog"
+    }
+  },
+  {
+    "id": "1705101003",
+    "code": "1705101003",
+    "name": "Lumangbayan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705101000",
+      "code": "1705101000",
+      "name": "Abra De Ilog"
+    }
+  },
+  {
+    "id": "1705101004",
+    "code": "1705101004",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705101000",
+      "code": "1705101000",
+      "name": "Abra De Ilog"
+    }
+  },
+  {
+    "id": "1705101005",
+    "code": "1705101005",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705101000",
+      "code": "1705101000",
+      "name": "Abra De Ilog"
+    }
+  },
+  {
+    "id": "1705101010",
+    "code": "1705101010",
+    "name": "Sta. Maria",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705101000",
+      "code": "1705101000",
+      "name": "Abra De Ilog"
+    }
+  },
+  {
+    "id": "1705101006",
+    "code": "1705101006",
+    "name": "Tibag",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705101000",
+      "code": "1705101000",
+      "name": "Abra De Ilog"
+    }
+  },
+  {
+    "id": "1705101007",
+    "code": "1705101007",
+    "name": "Udalo",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705101000",
+      "code": "1705101000",
+      "name": "Abra De Ilog"
+    }
+  },
+  {
+    "id": "1705101008",
+    "code": "1705101008",
+    "name": "Wawa",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705101000",
+      "code": "1705101000",
+      "name": "Abra De Ilog"
+    }
+  }
+]

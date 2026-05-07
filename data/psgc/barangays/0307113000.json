@@ -1,0 +1,527 @@
+[
+  {
+    "id": "0307113001",
+    "code": "0307113001",
+    "name": "Babuyan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307100000",
+      "code": "0307100000",
+      "name": "Zambales"
+    },
+    "city_municipality": {
+      "id": "0307113000",
+      "code": "0307113000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0307113003",
+    "code": "0307113003",
+    "name": "Bangcol",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307100000",
+      "code": "0307100000",
+      "name": "Zambales"
+    },
+    "city_municipality": {
+      "id": "0307113000",
+      "code": "0307113000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0307113004",
+    "code": "0307113004",
+    "name": "Bayto",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307100000",
+      "code": "0307100000",
+      "name": "Zambales"
+    },
+    "city_municipality": {
+      "id": "0307113000",
+      "code": "0307113000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0307113005",
+    "code": "0307113005",
+    "name": "Biay",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307100000",
+      "code": "0307100000",
+      "name": "Zambales"
+    },
+    "city_municipality": {
+      "id": "0307113000",
+      "code": "0307113000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0307113002",
+    "code": "0307113002",
+    "name": "Bolitoc",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307100000",
+      "code": "0307100000",
+      "name": "Zambales"
+    },
+    "city_municipality": {
+      "id": "0307113000",
+      "code": "0307113000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0307113030",
+    "code": "0307113030",
+    "name": "Bulawon",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307100000",
+      "code": "0307100000",
+      "name": "Zambales"
+    },
+    "city_municipality": {
+      "id": "0307113000",
+      "code": "0307113000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0307113007",
+    "code": "0307113007",
+    "name": "Canaynayan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307100000",
+      "code": "0307100000",
+      "name": "Zambales"
+    },
+    "city_municipality": {
+      "id": "0307113000",
+      "code": "0307113000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0307113008",
+    "code": "0307113008",
+    "name": "Gama",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307100000",
+      "code": "0307100000",
+      "name": "Zambales"
+    },
+    "city_municipality": {
+      "id": "0307113000",
+      "code": "0307113000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0307113009",
+    "code": "0307113009",
+    "name": "Guinabon",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307100000",
+      "code": "0307100000",
+      "name": "Zambales"
+    },
+    "city_municipality": {
+      "id": "0307113000",
+      "code": "0307113000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0307113010",
+    "code": "0307113010",
+    "name": "Guisguis",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307100000",
+      "code": "0307100000",
+      "name": "Zambales"
+    },
+    "city_municipality": {
+      "id": "0307113000",
+      "code": "0307113000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0307113011",
+    "code": "0307113011",
+    "name": "Lipay",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307100000",
+      "code": "0307100000",
+      "name": "Zambales"
+    },
+    "city_municipality": {
+      "id": "0307113000",
+      "code": "0307113000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0307113012",
+    "code": "0307113012",
+    "name": "Lomboy",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307100000",
+      "code": "0307100000",
+      "name": "Zambales"
+    },
+    "city_municipality": {
+      "id": "0307113000",
+      "code": "0307113000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0307113013",
+    "code": "0307113013",
+    "name": "Lucapon North",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307100000",
+      "code": "0307100000",
+      "name": "Zambales"
+    },
+    "city_municipality": {
+      "id": "0307113000",
+      "code": "0307113000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0307113014",
+    "code": "0307113014",
+    "name": "Lucapon South",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307100000",
+      "code": "0307100000",
+      "name": "Zambales"
+    },
+    "city_municipality": {
+      "id": "0307113000",
+      "code": "0307113000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0307113015",
+    "code": "0307113015",
+    "name": "Malabago",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307100000",
+      "code": "0307100000",
+      "name": "Zambales"
+    },
+    "city_municipality": {
+      "id": "0307113000",
+      "code": "0307113000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0307113016",
+    "code": "0307113016",
+    "name": "Naulo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307100000",
+      "code": "0307100000",
+      "name": "Zambales"
+    },
+    "city_municipality": {
+      "id": "0307113000",
+      "code": "0307113000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0307113018",
+    "code": "0307113018",
+    "name": "Pagatpat",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307100000",
+      "code": "0307100000",
+      "name": "Zambales"
+    },
+    "city_municipality": {
+      "id": "0307113000",
+      "code": "0307113000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0307113019",
+    "code": "0307113019",
+    "name": "Pamonoran",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307100000",
+      "code": "0307100000",
+      "name": "Zambales"
+    },
+    "city_municipality": {
+      "id": "0307113000",
+      "code": "0307113000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0307113017",
+    "code": "0307113017",
+    "name": "Poblacion North",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307100000",
+      "code": "0307100000",
+      "name": "Zambales"
+    },
+    "city_municipality": {
+      "id": "0307113000",
+      "code": "0307113000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0307113024",
+    "code": "0307113024",
+    "name": "Poblacion South",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307100000",
+      "code": "0307100000",
+      "name": "Zambales"
+    },
+    "city_municipality": {
+      "id": "0307113000",
+      "code": "0307113000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0307113022",
+    "code": "0307113022",
+    "name": "Sabang",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307100000",
+      "code": "0307100000",
+      "name": "Zambales"
+    },
+    "city_municipality": {
+      "id": "0307113000",
+      "code": "0307113000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0307113023",
+    "code": "0307113023",
+    "name": "San Fernando",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307100000",
+      "code": "0307100000",
+      "name": "Zambales"
+    },
+    "city_municipality": {
+      "id": "0307113000",
+      "code": "0307113000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0307113025",
+    "code": "0307113025",
+    "name": "Tabalong",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307100000",
+      "code": "0307100000",
+      "name": "Zambales"
+    },
+    "city_municipality": {
+      "id": "0307113000",
+      "code": "0307113000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0307113028",
+    "code": "0307113028",
+    "name": "Tubotubo North",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307100000",
+      "code": "0307100000",
+      "name": "Zambales"
+    },
+    "city_municipality": {
+      "id": "0307113000",
+      "code": "0307113000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0307113029",
+    "code": "0307113029",
+    "name": "Tubotubo South",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307100000",
+      "code": "0307100000",
+      "name": "Zambales"
+    },
+    "city_municipality": {
+      "id": "0307113000",
+      "code": "0307113000",
+      "name": "Santa Cruz"
+    }
+  }
+]

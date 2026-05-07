@@ -1,0 +1,170 @@
+[
+  {
+    "id": "0205001001",
+    "code": "0205001001",
+    "name": "Ammoweg",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205001000",
+      "code": "0205001000",
+      "name": "Ambaguio"
+    }
+  },
+  {
+    "id": "0205001004",
+    "code": "0205001004",
+    "name": "Camandag",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205001000",
+      "code": "0205001000",
+      "name": "Ambaguio"
+    }
+  },
+  {
+    "id": "0205001010",
+    "code": "0205001010",
+    "name": "Dulli",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205001000",
+      "code": "0205001000",
+      "name": "Ambaguio"
+    }
+  },
+  {
+    "id": "0205001005",
+    "code": "0205001005",
+    "name": "Labang",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205001000",
+      "code": "0205001000",
+      "name": "Ambaguio"
+    }
+  },
+  {
+    "id": "0205001006",
+    "code": "0205001006",
+    "name": "Napo",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205001000",
+      "code": "0205001000",
+      "name": "Ambaguio"
+    }
+  },
+  {
+    "id": "0205001007",
+    "code": "0205001007",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205001000",
+      "code": "0205001000",
+      "name": "Ambaguio"
+    }
+  },
+  {
+    "id": "0205001008",
+    "code": "0205001008",
+    "name": "Salingsingan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205001000",
+      "code": "0205001000",
+      "name": "Ambaguio"
+    }
+  },
+  {
+    "id": "0205001009",
+    "code": "0205001009",
+    "name": "Tiblac",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205001000",
+      "code": "0205001000",
+      "name": "Ambaguio"
+    }
+  }
+]

@@ -1,0 +1,1619 @@
+[
+  {
+    "id": "0105511001",
+    "code": "0105511001",
+    "name": "Alinggan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511003",
+    "code": "0105511003",
+    "name": "Amancosiling Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511004",
+    "code": "0105511004",
+    "name": "Amancosiling Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511002",
+    "code": "0105511002",
+    "name": "Amanperez",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511005",
+    "code": "0105511005",
+    "name": "Ambayat I",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511006",
+    "code": "0105511006",
+    "name": "Ambayat II",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511007",
+    "code": "0105511007",
+    "name": "Apalen",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511008",
+    "code": "0105511008",
+    "name": "Asin",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511009",
+    "code": "0105511009",
+    "name": "Ataynan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511010",
+    "code": "0105511010",
+    "name": "Bacnono",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511011",
+    "code": "0105511011",
+    "name": "Balaybuaya",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511012",
+    "code": "0105511012",
+    "name": "Banaban",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511013",
+    "code": "0105511013",
+    "name": "Bani",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511014",
+    "code": "0105511014",
+    "name": "Batangcaoa",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511015",
+    "code": "0105511015",
+    "name": "Beleng",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511016",
+    "code": "0105511016",
+    "name": "Bical Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511017",
+    "code": "0105511017",
+    "name": "Bical Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511018",
+    "code": "0105511018",
+    "name": "Bongato East",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511019",
+    "code": "0105511019",
+    "name": "Bongato West",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511020",
+    "code": "0105511020",
+    "name": "Buayaen",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511021",
+    "code": "0105511021",
+    "name": "Buenlag 1st",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511022",
+    "code": "0105511022",
+    "name": "Buenlag 2nd",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511023",
+    "code": "0105511023",
+    "name": "Cadre Site",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511024",
+    "code": "0105511024",
+    "name": "Carungay",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511025",
+    "code": "0105511025",
+    "name": "Caturay",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511065",
+    "code": "0105511065",
+    "name": "Darawey",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511027",
+    "code": "0105511027",
+    "name": "Duera",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511028",
+    "code": "0105511028",
+    "name": "Dusoc",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511029",
+    "code": "0105511029",
+    "name": "Hermoza",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511030",
+    "code": "0105511030",
+    "name": "Idong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511031",
+    "code": "0105511031",
+    "name": "Inanlorenza",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511032",
+    "code": "0105511032",
+    "name": "Inirangan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511033",
+    "code": "0105511033",
+    "name": "Iton",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511034",
+    "code": "0105511034",
+    "name": "Langiran",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511035",
+    "code": "0105511035",
+    "name": "Ligue",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511036",
+    "code": "0105511036",
+    "name": "M. H. del Pilar",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511037",
+    "code": "0105511037",
+    "name": "Macayocayo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511038",
+    "code": "0105511038",
+    "name": "Magsaysay",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511039",
+    "code": "0105511039",
+    "name": "Maigpa",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511040",
+    "code": "0105511040",
+    "name": "Malimpec",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511041",
+    "code": "0105511041",
+    "name": "Malioer",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511042",
+    "code": "0105511042",
+    "name": "Managos",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511043",
+    "code": "0105511043",
+    "name": "Manambong Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511044",
+    "code": "0105511044",
+    "name": "Manambong Parte",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511045",
+    "code": "0105511045",
+    "name": "Manambong Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511046",
+    "code": "0105511046",
+    "name": "Mangayao",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511047",
+    "code": "0105511047",
+    "name": "Nalsian Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511048",
+    "code": "0105511048",
+    "name": "Nalsian Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511049",
+    "code": "0105511049",
+    "name": "Pangdel",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511050",
+    "code": "0105511050",
+    "name": "Pantol",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511051",
+    "code": "0105511051",
+    "name": "Paragos",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511053",
+    "code": "0105511053",
+    "name": "Poblacion Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511054",
+    "code": "0105511054",
+    "name": "Pugo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511055",
+    "code": "0105511055",
+    "name": "Reynado",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511056",
+    "code": "0105511056",
+    "name": "San Gabriel 1st",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511057",
+    "code": "0105511057",
+    "name": "San Gabriel 2nd",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511058",
+    "code": "0105511058",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511059",
+    "code": "0105511059",
+    "name": "Sancagulis",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511060",
+    "code": "0105511060",
+    "name": "Sanlibo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511061",
+    "code": "0105511061",
+    "name": "Sapang",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511062",
+    "code": "0105511062",
+    "name": "Tamaro",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511063",
+    "code": "0105511063",
+    "name": "Tambac",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511064",
+    "code": "0105511064",
+    "name": "Tampog",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511066",
+    "code": "0105511066",
+    "name": "Tanolong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511067",
+    "code": "0105511067",
+    "name": "Tatarac",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511068",
+    "code": "0105511068",
+    "name": "Telbang",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511069",
+    "code": "0105511069",
+    "name": "Tococ East",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511070",
+    "code": "0105511070",
+    "name": "Tococ West",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511071",
+    "code": "0105511071",
+    "name": "Warding",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511072",
+    "code": "0105511072",
+    "name": "Wawa",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511073",
+    "code": "0105511073",
+    "name": "Zone I",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511074",
+    "code": "0105511074",
+    "name": "Zone II",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511075",
+    "code": "0105511075",
+    "name": "Zone III",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511076",
+    "code": "0105511076",
+    "name": "Zone IV",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511077",
+    "code": "0105511077",
+    "name": "Zone V",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511078",
+    "code": "0105511078",
+    "name": "Zone VI",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  },
+  {
+    "id": "0105511079",
+    "code": "0105511079",
+    "name": "Zone VII",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105511000",
+      "code": "0105511000",
+      "name": "Bayambang"
+    }
+  }
+]

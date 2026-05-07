@@ -1,0 +1,359 @@
+[
+  {
+    "id": "0907225001",
+    "code": "0907225001",
+    "name": "Baluno",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907225000",
+      "code": "0907225000",
+      "name": "Godod"
+    }
+  },
+  {
+    "id": "0907225002",
+    "code": "0907225002",
+    "name": "Banuangan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907225000",
+      "code": "0907225000",
+      "name": "Godod"
+    }
+  },
+  {
+    "id": "0907225003",
+    "code": "0907225003",
+    "name": "Bunawan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907225000",
+      "code": "0907225000",
+      "name": "Godod"
+    }
+  },
+  {
+    "id": "0907225004",
+    "code": "0907225004",
+    "name": "Dilucot",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907225000",
+      "code": "0907225000",
+      "name": "Godod"
+    }
+  },
+  {
+    "id": "0907225005",
+    "code": "0907225005",
+    "name": "Dipopor",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907225000",
+      "code": "0907225000",
+      "name": "Godod"
+    }
+  },
+  {
+    "id": "0907225006",
+    "code": "0907225006",
+    "name": "Guisapong",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907225000",
+      "code": "0907225000",
+      "name": "Godod"
+    }
+  },
+  {
+    "id": "0907225007",
+    "code": "0907225007",
+    "name": "Limbonga",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907225000",
+      "code": "0907225000",
+      "name": "Godod"
+    }
+  },
+  {
+    "id": "0907225008",
+    "code": "0907225008",
+    "name": "Lomogom",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907225000",
+      "code": "0907225000",
+      "name": "Godod"
+    }
+  },
+  {
+    "id": "0907225009",
+    "code": "0907225009",
+    "name": "Mauswagon",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907225000",
+      "code": "0907225000",
+      "name": "Godod"
+    }
+  },
+  {
+    "id": "0907225010",
+    "code": "0907225010",
+    "name": "Miampic",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907225000",
+      "code": "0907225000",
+      "name": "Godod"
+    }
+  },
+  {
+    "id": "0907225011",
+    "code": "0907225011",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907225000",
+      "code": "0907225000",
+      "name": "Godod"
+    }
+  },
+  {
+    "id": "0907225012",
+    "code": "0907225012",
+    "name": "Raba",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907225000",
+      "code": "0907225000",
+      "name": "Godod"
+    }
+  },
+  {
+    "id": "0907225013",
+    "code": "0907225013",
+    "name": "Rambon",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907225000",
+      "code": "0907225000",
+      "name": "Godod"
+    }
+  },
+  {
+    "id": "0907225014",
+    "code": "0907225014",
+    "name": "San Pedro",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907225000",
+      "code": "0907225000",
+      "name": "Godod"
+    }
+  },
+  {
+    "id": "0907225015",
+    "code": "0907225015",
+    "name": "Sarawagan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907225000",
+      "code": "0907225000",
+      "name": "Godod"
+    }
+  },
+  {
+    "id": "0907225016",
+    "code": "0907225016",
+    "name": "Sianan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907225000",
+      "code": "0907225000",
+      "name": "Godod"
+    }
+  },
+  {
+    "id": "0907225017",
+    "code": "0907225017",
+    "name": "Sioran",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907225000",
+      "code": "0907225000",
+      "name": "Godod"
+    }
+  }
+]

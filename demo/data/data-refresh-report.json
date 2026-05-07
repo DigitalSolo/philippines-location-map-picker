@@ -1,0 +1,128 @@
+{
+  "generatedAt": "2026-05-07T10:04:17.858Z",
+  "copyDemo": true,
+  "allowProductionFail": true,
+  "commands": [
+    {
+      "script": "verify-static-data.js",
+      "command": "node tools/verify-static-data.js --strict 0",
+      "status": 0,
+      "stdout": "",
+      "stderr": "",
+      "ok": true,
+      "required": true
+    },
+    {
+      "script": "check-host-api-freeze.js",
+      "command": "node tools/check-host-api-freeze.js",
+      "status": 0,
+      "stdout": "",
+      "stderr": "",
+      "ok": true,
+      "required": true
+    },
+    {
+      "script": "check-production-hardening.js",
+      "command": "node tools/check-production-hardening.js",
+      "status": 0,
+      "stdout": "",
+      "stderr": "",
+      "ok": true,
+      "required": true
+    },
+    {
+      "script": "check-vendor-consumption.js",
+      "command": "node tools/check-vendor-consumption.js",
+      "status": 0,
+      "stdout": "",
+      "stderr": "",
+      "ok": true,
+      "required": true
+    },
+    {
+      "script": "check-release-readiness.js",
+      "command": "node tools/check-release-readiness.js --scope pilot",
+      "status": 0,
+      "stdout": "",
+      "stderr": "",
+      "ok": true,
+      "required": true
+    },
+    {
+      "script": "check-release-readiness.js",
+      "command": "node tools/check-release-readiness.js --scope production",
+      "status": 0,
+      "stdout": "",
+      "stderr": "",
+      "ok": true,
+      "required": false
+    },
+    {
+      "script": "check-production-readiness.js",
+      "command": "node tools/check-production-readiness.js --geometry-policy limited",
+      "status": 0,
+      "stdout": "",
+      "stderr": "",
+      "ok": true,
+      "required": false
+    }
+  ],
+  "copied": [
+    {
+      "from": "data/static-data-report.json",
+      "to": "demo/data/static-data-report.json"
+    },
+    {
+      "from": "data/static-data-verification-report.json",
+      "to": "demo/data/static-data-verification-report.json"
+    },
+    {
+      "from": "data/host-api-freeze-report.json",
+      "to": "demo/data/host-api-freeze-report.json"
+    },
+    {
+      "from": "data/production-hardening-report.json",
+      "to": "demo/data/production-hardening-report.json"
+    },
+    {
+      "from": "data/vendor-consumption-report.json",
+      "to": "demo/data/vendor-consumption-report.json"
+    },
+    {
+      "from": "data/release-readiness-pilot-report.json",
+      "to": "demo/data/release-readiness-pilot-report.json"
+    },
+    {
+      "from": "data/release-readiness-production-report.json",
+      "to": "demo/data/release-readiness-production-report.json"
+    },
+    {
+      "from": "data/production-readiness-report.json",
+      "to": "demo/data/production-readiness-report.json"
+    },
+    {
+      "from": "data/production-psgc-cache-report.json",
+      "to": "demo/data/production-psgc-cache-report.json"
+    },
+    {
+      "from": "data/psgc-source-validation-report.json",
+      "to": "demo/data/psgc-source-validation-report.json"
+    },
+    {
+      "from": "data/production-psgc-thresholds-report.json",
+      "to": "demo/data/production-psgc-thresholds-report.json"
+    },
+    {
+      "from": "data/github-publish-readiness-report.json",
+      "to": "demo/data/github-publish-readiness-report.json"
+    },
+    {
+      "from": "data/official-psgc-source-report.json",
+      "to": "demo/data/official-psgc-source-report.json"
+    }
+  ],
+  "missing": [],
+  "warnings": [],
+  "failures": [],
+  "ok": true
+}

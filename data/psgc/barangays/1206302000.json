@@ -1,0 +1,464 @@
+[
+  {
+    "id": "1206302002",
+    "code": "1206302002",
+    "name": "Benitez",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206302000",
+      "code": "1206302000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "1206302003",
+    "code": "1206302003",
+    "name": "Cabudian",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206302000",
+      "code": "1206302000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "1206302004",
+    "code": "1206302004",
+    "name": "Cabuling",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206302000",
+      "code": "1206302000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "1206302005",
+    "code": "1206302005",
+    "name": "Cinco",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206302000",
+      "code": "1206302000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "1206302006",
+    "code": "1206302006",
+    "name": "Derilon",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206302000",
+      "code": "1206302000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "1206302007",
+    "code": "1206302007",
+    "name": "El Nonok",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206302000",
+      "code": "1206302000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "1206302008",
+    "code": "1206302008",
+    "name": "Improgo Village",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206302000",
+      "code": "1206302000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "1206302009",
+    "code": "1206302009",
+    "name": "Kusan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206302000",
+      "code": "1206302000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "1206302010",
+    "code": "1206302010",
+    "name": "Lam-Apos",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206302000",
+      "code": "1206302000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "1206302011",
+    "code": "1206302011",
+    "name": "Lamba",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206302000",
+      "code": "1206302000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "1206302012",
+    "code": "1206302012",
+    "name": "Lambingi",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206302000",
+      "code": "1206302000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "1206302013",
+    "code": "1206302013",
+    "name": "Lampari",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206302000",
+      "code": "1206302000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "1206302014",
+    "code": "1206302014",
+    "name": "Liwanay",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206302000",
+      "code": "1206302000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "1206302015",
+    "code": "1206302015",
+    "name": "Malaya",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206302000",
+      "code": "1206302000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "1206302016",
+    "code": "1206302016",
+    "name": "Punong Grande",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206302000",
+      "code": "1206302000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "1206302017",
+    "code": "1206302017",
+    "name": "Rang-ay",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206302000",
+      "code": "1206302000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "1206302018",
+    "code": "1206302018",
+    "name": "Reyes",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206302000",
+      "code": "1206302000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "1206302019",
+    "code": "1206302019",
+    "name": "Rizal",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206302000",
+      "code": "1206302000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "1206302020",
+    "code": "1206302020",
+    "name": "Rizal Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206302000",
+      "code": "1206302000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "1206302021",
+    "code": "1206302021",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206302000",
+      "code": "1206302000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "1206302022",
+    "code": "1206302022",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206302000",
+      "code": "1206302000",
+      "name": "Banga"
+    }
+  },
+  {
+    "id": "1206302024",
+    "code": "1206302024",
+    "name": "Yangco Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206302000",
+      "code": "1206302000",
+      "name": "Banga"
+    }
+  }
+]

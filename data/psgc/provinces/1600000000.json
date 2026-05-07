@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1600200000",
+    "code": "1600200000",
+    "name": "Agusan del Norte",
+    "type": "province",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    }
+  },
+  {
+    "id": "1600300000",
+    "code": "1600300000",
+    "name": "Agusan del Sur",
+    "type": "province",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    }
+  },
+  {
+    "id": "1608500000",
+    "code": "1608500000",
+    "name": "Dinagat Islands",
+    "type": "province",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    }
+  },
+  {
+    "id": "1606700000",
+    "code": "1606700000",
+    "name": "Surigao del Norte",
+    "type": "province",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    }
+  },
+  {
+    "id": "1606800000",
+    "code": "1606800000",
+    "name": "Surigao del Sur",
+    "type": "province",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    }
+  }
+]

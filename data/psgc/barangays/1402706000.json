@@ -1,0 +1,569 @@
+[
+  {
+    "id": "1402706001",
+    "code": "1402706001",
+    "name": "Aduyongan",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1402700000",
+      "code": "1402700000",
+      "name": "Ifugao"
+    },
+    "city_municipality": {
+      "id": "1402706000",
+      "code": "1402706000",
+      "name": "Mayoyao"
+    }
+  },
+  {
+    "id": "1402706002",
+    "code": "1402706002",
+    "name": "Alimit",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1402700000",
+      "code": "1402700000",
+      "name": "Ifugao"
+    },
+    "city_municipality": {
+      "id": "1402706000",
+      "code": "1402706000",
+      "name": "Mayoyao"
+    }
+  },
+  {
+    "id": "1402706003",
+    "code": "1402706003",
+    "name": "Ayangan",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1402700000",
+      "code": "1402700000",
+      "name": "Ifugao"
+    },
+    "city_municipality": {
+      "id": "1402706000",
+      "code": "1402706000",
+      "name": "Mayoyao"
+    }
+  },
+  {
+    "id": "1402706004",
+    "code": "1402706004",
+    "name": "Balangbang",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1402700000",
+      "code": "1402700000",
+      "name": "Ifugao"
+    },
+    "city_municipality": {
+      "id": "1402706000",
+      "code": "1402706000",
+      "name": "Mayoyao"
+    }
+  },
+  {
+    "id": "1402706005",
+    "code": "1402706005",
+    "name": "Banao",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1402700000",
+      "code": "1402700000",
+      "name": "Ifugao"
+    },
+    "city_municipality": {
+      "id": "1402706000",
+      "code": "1402706000",
+      "name": "Mayoyao"
+    }
+  },
+  {
+    "id": "1402706006",
+    "code": "1402706006",
+    "name": "Banhal",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1402700000",
+      "code": "1402700000",
+      "name": "Ifugao"
+    },
+    "city_municipality": {
+      "id": "1402706000",
+      "code": "1402706000",
+      "name": "Mayoyao"
+    }
+  },
+  {
+    "id": "1402706035",
+    "code": "1402706035",
+    "name": "Bato-Alatbang",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1402700000",
+      "code": "1402700000",
+      "name": "Ifugao"
+    },
+    "city_municipality": {
+      "id": "1402706000",
+      "code": "1402706000",
+      "name": "Mayoyao"
+    }
+  },
+  {
+    "id": "1402706007",
+    "code": "1402706007",
+    "name": "Bongan",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1402700000",
+      "code": "1402700000",
+      "name": "Ifugao"
+    },
+    "city_municipality": {
+      "id": "1402706000",
+      "code": "1402706000",
+      "name": "Mayoyao"
+    }
+  },
+  {
+    "id": "1402706009",
+    "code": "1402706009",
+    "name": "Buninan",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1402700000",
+      "code": "1402700000",
+      "name": "Ifugao"
+    },
+    "city_municipality": {
+      "id": "1402706000",
+      "code": "1402706000",
+      "name": "Mayoyao"
+    }
+  },
+  {
+    "id": "1402706010",
+    "code": "1402706010",
+    "name": "Chaya",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1402700000",
+      "code": "1402700000",
+      "name": "Ifugao"
+    },
+    "city_municipality": {
+      "id": "1402706000",
+      "code": "1402706000",
+      "name": "Mayoyao"
+    }
+  },
+  {
+    "id": "1402706011",
+    "code": "1402706011",
+    "name": "Chumang",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1402700000",
+      "code": "1402700000",
+      "name": "Ifugao"
+    },
+    "city_municipality": {
+      "id": "1402706000",
+      "code": "1402706000",
+      "name": "Mayoyao"
+    }
+  },
+  {
+    "id": "1402706036",
+    "code": "1402706036",
+    "name": "Epeng",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1402700000",
+      "code": "1402700000",
+      "name": "Ifugao"
+    },
+    "city_municipality": {
+      "id": "1402706000",
+      "code": "1402706000",
+      "name": "Mayoyao"
+    }
+  },
+  {
+    "id": "1402706014",
+    "code": "1402706014",
+    "name": "Guinihon",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1402700000",
+      "code": "1402700000",
+      "name": "Ifugao"
+    },
+    "city_municipality": {
+      "id": "1402706000",
+      "code": "1402706000",
+      "name": "Mayoyao"
+    }
+  },
+  {
+    "id": "1402706015",
+    "code": "1402706015",
+    "name": "Inwaloy",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1402700000",
+      "code": "1402700000",
+      "name": "Ifugao"
+    },
+    "city_municipality": {
+      "id": "1402706000",
+      "code": "1402706000",
+      "name": "Mayoyao"
+    }
+  },
+  {
+    "id": "1402706018",
+    "code": "1402706018",
+    "name": "Langayan",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1402700000",
+      "code": "1402700000",
+      "name": "Ifugao"
+    },
+    "city_municipality": {
+      "id": "1402706000",
+      "code": "1402706000",
+      "name": "Mayoyao"
+    }
+  },
+  {
+    "id": "1402706019",
+    "code": "1402706019",
+    "name": "Liwo",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1402700000",
+      "code": "1402700000",
+      "name": "Ifugao"
+    },
+    "city_municipality": {
+      "id": "1402706000",
+      "code": "1402706000",
+      "name": "Mayoyao"
+    }
+  },
+  {
+    "id": "1402706020",
+    "code": "1402706020",
+    "name": "Maga",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1402700000",
+      "code": "1402700000",
+      "name": "Ifugao"
+    },
+    "city_municipality": {
+      "id": "1402706000",
+      "code": "1402706000",
+      "name": "Mayoyao"
+    }
+  },
+  {
+    "id": "1402706021",
+    "code": "1402706021",
+    "name": "Magulon",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1402700000",
+      "code": "1402700000",
+      "name": "Ifugao"
+    },
+    "city_municipality": {
+      "id": "1402706000",
+      "code": "1402706000",
+      "name": "Mayoyao"
+    }
+  },
+  {
+    "id": "1402706022",
+    "code": "1402706022",
+    "name": "Mapawoy",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1402700000",
+      "code": "1402700000",
+      "name": "Ifugao"
+    },
+    "city_municipality": {
+      "id": "1402706000",
+      "code": "1402706000",
+      "name": "Mayoyao"
+    }
+  },
+  {
+    "id": "1402706023",
+    "code": "1402706023",
+    "name": "Mayoyao Proper",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1402700000",
+      "code": "1402700000",
+      "name": "Ifugao"
+    },
+    "city_municipality": {
+      "id": "1402706000",
+      "code": "1402706000",
+      "name": "Mayoyao"
+    }
+  },
+  {
+    "id": "1402706024",
+    "code": "1402706024",
+    "name": "Mongol",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1402700000",
+      "code": "1402700000",
+      "name": "Ifugao"
+    },
+    "city_municipality": {
+      "id": "1402706000",
+      "code": "1402706000",
+      "name": "Mayoyao"
+    }
+  },
+  {
+    "id": "1402706025",
+    "code": "1402706025",
+    "name": "Nalbu",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1402700000",
+      "code": "1402700000",
+      "name": "Ifugao"
+    },
+    "city_municipality": {
+      "id": "1402706000",
+      "code": "1402706000",
+      "name": "Mayoyao"
+    }
+  },
+  {
+    "id": "1402706026",
+    "code": "1402706026",
+    "name": "Nattum",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1402700000",
+      "code": "1402700000",
+      "name": "Ifugao"
+    },
+    "city_municipality": {
+      "id": "1402706000",
+      "code": "1402706000",
+      "name": "Mayoyao"
+    }
+  },
+  {
+    "id": "1402706027",
+    "code": "1402706027",
+    "name": "Palaad",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1402700000",
+      "code": "1402700000",
+      "name": "Ifugao"
+    },
+    "city_municipality": {
+      "id": "1402706000",
+      "code": "1402706000",
+      "name": "Mayoyao"
+    }
+  },
+  {
+    "id": "1402706028",
+    "code": "1402706028",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1402700000",
+      "code": "1402700000",
+      "name": "Ifugao"
+    },
+    "city_municipality": {
+      "id": "1402706000",
+      "code": "1402706000",
+      "name": "Mayoyao"
+    }
+  },
+  {
+    "id": "1402706030",
+    "code": "1402706030",
+    "name": "Talboc",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1402700000",
+      "code": "1402700000",
+      "name": "Ifugao"
+    },
+    "city_municipality": {
+      "id": "1402706000",
+      "code": "1402706000",
+      "name": "Mayoyao"
+    }
+  },
+  {
+    "id": "1402706033",
+    "code": "1402706033",
+    "name": "Tulaed",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1402700000",
+      "code": "1402700000",
+      "name": "Ifugao"
+    },
+    "city_municipality": {
+      "id": "1402706000",
+      "code": "1402706000",
+      "name": "Mayoyao"
+    }
+  }
+]

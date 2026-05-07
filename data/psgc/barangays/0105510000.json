@@ -1,0 +1,380 @@
+[
+  {
+    "id": "0105510001",
+    "code": "0105510001",
+    "name": "Artacho",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105510000",
+      "code": "0105510000",
+      "name": "Bautista"
+    }
+  },
+  {
+    "id": "0105510021",
+    "code": "0105510021",
+    "name": "Baluyot",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105510000",
+      "code": "0105510000",
+      "name": "Bautista"
+    }
+  },
+  {
+    "id": "0105510003",
+    "code": "0105510003",
+    "name": "Cabuaan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105510000",
+      "code": "0105510000",
+      "name": "Bautista"
+    }
+  },
+  {
+    "id": "0105510004",
+    "code": "0105510004",
+    "name": "Cacandongan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105510000",
+      "code": "0105510000",
+      "name": "Bautista"
+    }
+  },
+  {
+    "id": "0105510006",
+    "code": "0105510006",
+    "name": "Diaz",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105510000",
+      "code": "0105510000",
+      "name": "Bautista"
+    }
+  },
+  {
+    "id": "0105510017",
+    "code": "0105510017",
+    "name": "Ketegan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105510000",
+      "code": "0105510000",
+      "name": "Bautista"
+    }
+  },
+  {
+    "id": "0105510007",
+    "code": "0105510007",
+    "name": "Nandacan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105510000",
+      "code": "0105510000",
+      "name": "Bautista"
+    }
+  },
+  {
+    "id": "0105510009",
+    "code": "0105510009",
+    "name": "Nibaliw Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105510000",
+      "code": "0105510000",
+      "name": "Bautista"
+    }
+  },
+  {
+    "id": "0105510010",
+    "code": "0105510010",
+    "name": "Nibaliw Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105510000",
+      "code": "0105510000",
+      "name": "Bautista"
+    }
+  },
+  {
+    "id": "0105510011",
+    "code": "0105510011",
+    "name": "Palisoc",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105510000",
+      "code": "0105510000",
+      "name": "Bautista"
+    }
+  },
+  {
+    "id": "0105510012",
+    "code": "0105510012",
+    "name": "Poblacion East",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105510000",
+      "code": "0105510000",
+      "name": "Bautista"
+    }
+  },
+  {
+    "id": "0105510013",
+    "code": "0105510013",
+    "name": "Poblacion West",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105510000",
+      "code": "0105510000",
+      "name": "Bautista"
+    }
+  },
+  {
+    "id": "0105510014",
+    "code": "0105510014",
+    "name": "Pogo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105510000",
+      "code": "0105510000",
+      "name": "Bautista"
+    }
+  },
+  {
+    "id": "0105510015",
+    "code": "0105510015",
+    "name": "Poponto",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105510000",
+      "code": "0105510000",
+      "name": "Bautista"
+    }
+  },
+  {
+    "id": "0105510016",
+    "code": "0105510016",
+    "name": "Primicias",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105510000",
+      "code": "0105510000",
+      "name": "Bautista"
+    }
+  },
+  {
+    "id": "0105510018",
+    "code": "0105510018",
+    "name": "Sinabaan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105510000",
+      "code": "0105510000",
+      "name": "Bautista"
+    }
+  },
+  {
+    "id": "0105510019",
+    "code": "0105510019",
+    "name": "Vacante",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105510000",
+      "code": "0105510000",
+      "name": "Bautista"
+    }
+  },
+  {
+    "id": "0105510020",
+    "code": "0105510020",
+    "name": "Villanueva",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105510000",
+      "code": "0105510000",
+      "name": "Bautista"
+    }
+  }
+]

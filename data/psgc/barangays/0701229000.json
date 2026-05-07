@@ -1,0 +1,590 @@
+[
+  {
+    "id": "0701229001",
+    "code": "0701229001",
+    "name": "Agape",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701229000",
+      "code": "0701229000",
+      "name": "Loboc"
+    }
+  },
+  {
+    "id": "0701229002",
+    "code": "0701229002",
+    "name": "Alegria",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701229000",
+      "code": "0701229000",
+      "name": "Loboc"
+    }
+  },
+  {
+    "id": "0701229003",
+    "code": "0701229003",
+    "name": "Bagumbayan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701229000",
+      "code": "0701229000",
+      "name": "Loboc"
+    }
+  },
+  {
+    "id": "0701229004",
+    "code": "0701229004",
+    "name": "Bahian",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701229000",
+      "code": "0701229000",
+      "name": "Loboc"
+    }
+  },
+  {
+    "id": "0701229005",
+    "code": "0701229005",
+    "name": "Bonbon Lower",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701229000",
+      "code": "0701229000",
+      "name": "Loboc"
+    }
+  },
+  {
+    "id": "0701229006",
+    "code": "0701229006",
+    "name": "Bonbon Upper",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701229000",
+      "code": "0701229000",
+      "name": "Loboc"
+    }
+  },
+  {
+    "id": "0701229007",
+    "code": "0701229007",
+    "name": "Buenavista",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701229000",
+      "code": "0701229000",
+      "name": "Loboc"
+    }
+  },
+  {
+    "id": "0701229008",
+    "code": "0701229008",
+    "name": "Bugho",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701229000",
+      "code": "0701229000",
+      "name": "Loboc"
+    }
+  },
+  {
+    "id": "0701229009",
+    "code": "0701229009",
+    "name": "Cabadiangan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701229000",
+      "code": "0701229000",
+      "name": "Loboc"
+    }
+  },
+  {
+    "id": "0701229010",
+    "code": "0701229010",
+    "name": "Calunasan Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701229000",
+      "code": "0701229000",
+      "name": "Loboc"
+    }
+  },
+  {
+    "id": "0701229011",
+    "code": "0701229011",
+    "name": "Calunasan Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701229000",
+      "code": "0701229000",
+      "name": "Loboc"
+    }
+  },
+  {
+    "id": "0701229012",
+    "code": "0701229012",
+    "name": "Camayaan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701229000",
+      "code": "0701229000",
+      "name": "Loboc"
+    }
+  },
+  {
+    "id": "0701229013",
+    "code": "0701229013",
+    "name": "Cambance",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701229000",
+      "code": "0701229000",
+      "name": "Loboc"
+    }
+  },
+  {
+    "id": "0701229014",
+    "code": "0701229014",
+    "name": "Candabong",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701229000",
+      "code": "0701229000",
+      "name": "Loboc"
+    }
+  },
+  {
+    "id": "0701229015",
+    "code": "0701229015",
+    "name": "Candasag",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701229000",
+      "code": "0701229000",
+      "name": "Loboc"
+    }
+  },
+  {
+    "id": "0701229016",
+    "code": "0701229016",
+    "name": "Canlasid",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701229000",
+      "code": "0701229000",
+      "name": "Loboc"
+    }
+  },
+  {
+    "id": "0701229017",
+    "code": "0701229017",
+    "name": "Gon-ob",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701229000",
+      "code": "0701229000",
+      "name": "Loboc"
+    }
+  },
+  {
+    "id": "0701229018",
+    "code": "0701229018",
+    "name": "Gotozon",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701229000",
+      "code": "0701229000",
+      "name": "Loboc"
+    }
+  },
+  {
+    "id": "0701229019",
+    "code": "0701229019",
+    "name": "Jimilian",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701229000",
+      "code": "0701229000",
+      "name": "Loboc"
+    }
+  },
+  {
+    "id": "0701229020",
+    "code": "0701229020",
+    "name": "Oy",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701229000",
+      "code": "0701229000",
+      "name": "Loboc"
+    }
+  },
+  {
+    "id": "0701229022",
+    "code": "0701229022",
+    "name": "Poblacion Ondol",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701229000",
+      "code": "0701229000",
+      "name": "Loboc"
+    }
+  },
+  {
+    "id": "0701229021",
+    "code": "0701229021",
+    "name": "Poblacion Sawang",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701229000",
+      "code": "0701229000",
+      "name": "Loboc"
+    }
+  },
+  {
+    "id": "0701229023",
+    "code": "0701229023",
+    "name": "Quinoguitan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701229000",
+      "code": "0701229000",
+      "name": "Loboc"
+    }
+  },
+  {
+    "id": "0701229024",
+    "code": "0701229024",
+    "name": "Taytay",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701229000",
+      "code": "0701229000",
+      "name": "Loboc"
+    }
+  },
+  {
+    "id": "0701229025",
+    "code": "0701229025",
+    "name": "Tigbao",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701229000",
+      "code": "0701229000",
+      "name": "Loboc"
+    }
+  },
+  {
+    "id": "0701229026",
+    "code": "0701229026",
+    "name": "Ugpong",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701229000",
+      "code": "0701229000",
+      "name": "Loboc"
+    }
+  },
+  {
+    "id": "0701229027",
+    "code": "0701229027",
+    "name": "Valladolid",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701229000",
+      "code": "0701229000",
+      "name": "Loboc"
+    }
+  },
+  {
+    "id": "0701229028",
+    "code": "0701229028",
+    "name": "Villaflor",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701229000",
+      "code": "0701229000",
+      "name": "Loboc"
+    }
+  }
+]

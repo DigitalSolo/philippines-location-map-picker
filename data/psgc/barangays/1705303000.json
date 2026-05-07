@@ -1,0 +1,275 @@
+[
+  {
+    "id": "1705303001",
+    "code": "1705303001",
+    "name": "Balogo",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705303000",
+      "code": "1705303000",
+      "name": "Araceli"
+    }
+  },
+  {
+    "id": "1705303004",
+    "code": "1705303004",
+    "name": "Dagman",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705303000",
+      "code": "1705303000",
+      "name": "Araceli"
+    }
+  },
+  {
+    "id": "1705303005",
+    "code": "1705303005",
+    "name": "Dalayawon",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705303000",
+      "code": "1705303000",
+      "name": "Araceli"
+    }
+  },
+  {
+    "id": "1705303006",
+    "code": "1705303006",
+    "name": "Lumacad",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705303000",
+      "code": "1705303000",
+      "name": "Araceli"
+    }
+  },
+  {
+    "id": "1705303007",
+    "code": "1705303007",
+    "name": "Madoldolon",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705303000",
+      "code": "1705303000",
+      "name": "Araceli"
+    }
+  },
+  {
+    "id": "1705303008",
+    "code": "1705303008",
+    "name": "Mauringuen",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705303000",
+      "code": "1705303000",
+      "name": "Araceli"
+    }
+  },
+  {
+    "id": "1705303009",
+    "code": "1705303009",
+    "name": "Osmeña",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705303000",
+      "code": "1705303000",
+      "name": "Araceli"
+    }
+  },
+  {
+    "id": "1705303015",
+    "code": "1705303015",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705303000",
+      "code": "1705303000",
+      "name": "Araceli"
+    }
+  },
+  {
+    "id": "1705303010",
+    "code": "1705303010",
+    "name": "San Jose De Oro",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705303000",
+      "code": "1705303000",
+      "name": "Araceli"
+    }
+  },
+  {
+    "id": "1705303011",
+    "code": "1705303011",
+    "name": "Sto. Niño",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705303000",
+      "code": "1705303000",
+      "name": "Araceli"
+    }
+  },
+  {
+    "id": "1705303012",
+    "code": "1705303012",
+    "name": "Taloto",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705303000",
+      "code": "1705303000",
+      "name": "Araceli"
+    }
+  },
+  {
+    "id": "1705303013",
+    "code": "1705303013",
+    "name": "Tinintinan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705303000",
+      "code": "1705303000",
+      "name": "Araceli"
+    }
+  },
+  {
+    "id": "1705303014",
+    "code": "1705303014",
+    "name": "Tudela",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705303000",
+      "code": "1705303000",
+      "name": "Araceli"
+    }
+  }
+]

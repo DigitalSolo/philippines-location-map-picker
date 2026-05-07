@@ -1,0 +1,401 @@
+[
+  {
+    "id": "0401013002",
+    "code": "0401013002",
+    "name": "Bagong Pook",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401013000",
+      "code": "0401013000",
+      "name": "Lian"
+    }
+  },
+  {
+    "id": "0401013003",
+    "code": "0401013003",
+    "name": "Balibago",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401013000",
+      "code": "0401013000",
+      "name": "Lian"
+    }
+  },
+  {
+    "id": "0401013016",
+    "code": "0401013016",
+    "name": "Barangay 1",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401013000",
+      "code": "0401013000",
+      "name": "Lian"
+    }
+  },
+  {
+    "id": "0401013017",
+    "code": "0401013017",
+    "name": "Barangay 2",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401013000",
+      "code": "0401013000",
+      "name": "Lian"
+    }
+  },
+  {
+    "id": "0401013018",
+    "code": "0401013018",
+    "name": "Barangay 3",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401013000",
+      "code": "0401013000",
+      "name": "Lian"
+    }
+  },
+  {
+    "id": "0401013019",
+    "code": "0401013019",
+    "name": "Barangay 4",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401013000",
+      "code": "0401013000",
+      "name": "Lian"
+    }
+  },
+  {
+    "id": "0401013020",
+    "code": "0401013020",
+    "name": "Barangay 5",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401013000",
+      "code": "0401013000",
+      "name": "Lian"
+    }
+  },
+  {
+    "id": "0401013004",
+    "code": "0401013004",
+    "name": "Binubusan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401013000",
+      "code": "0401013000",
+      "name": "Lian"
+    }
+  },
+  {
+    "id": "0401013005",
+    "code": "0401013005",
+    "name": "Bungahan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401013000",
+      "code": "0401013000",
+      "name": "Lian"
+    }
+  },
+  {
+    "id": "0401013007",
+    "code": "0401013007",
+    "name": "Cumba",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401013000",
+      "code": "0401013000",
+      "name": "Lian"
+    }
+  },
+  {
+    "id": "0401013008",
+    "code": "0401013008",
+    "name": "Humayingan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401013000",
+      "code": "0401013000",
+      "name": "Lian"
+    }
+  },
+  {
+    "id": "0401013009",
+    "code": "0401013009",
+    "name": "Kapito",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401013000",
+      "code": "0401013000",
+      "name": "Lian"
+    }
+  },
+  {
+    "id": "0401013012",
+    "code": "0401013012",
+    "name": "Lumaniag",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401013000",
+      "code": "0401013000",
+      "name": "Lian"
+    }
+  },
+  {
+    "id": "0401013013",
+    "code": "0401013013",
+    "name": "Luyahan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401013000",
+      "code": "0401013000",
+      "name": "Lian"
+    }
+  },
+  {
+    "id": "0401013014",
+    "code": "0401013014",
+    "name": "Malaruhatan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401013000",
+      "code": "0401013000",
+      "name": "Lian"
+    }
+  },
+  {
+    "id": "0401013015",
+    "code": "0401013015",
+    "name": "Matabungkay",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401013000",
+      "code": "0401013000",
+      "name": "Lian"
+    }
+  },
+  {
+    "id": "0401013021",
+    "code": "0401013021",
+    "name": "Prenza",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401013000",
+      "code": "0401013000",
+      "name": "Lian"
+    }
+  },
+  {
+    "id": "0401013022",
+    "code": "0401013022",
+    "name": "Puting-Kahoy",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401013000",
+      "code": "0401013000",
+      "name": "Lian"
+    }
+  },
+  {
+    "id": "0401013023",
+    "code": "0401013023",
+    "name": "San Diego",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401013000",
+      "code": "0401013000",
+      "name": "Lian"
+    }
+  }
+]

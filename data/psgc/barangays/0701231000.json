@@ -1,0 +1,464 @@
+[
+  {
+    "id": "0701231001",
+    "code": "0701231001",
+    "name": "Abaca",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701231000",
+      "code": "0701231000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0701231002",
+    "code": "0701231002",
+    "name": "Abad Santos",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701231000",
+      "code": "0701231000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0701231003",
+    "code": "0701231003",
+    "name": "Aguipo",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701231000",
+      "code": "0701231000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0701231005",
+    "code": "0701231005",
+    "name": "Baybayon",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701231000",
+      "code": "0701231000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0701231006",
+    "code": "0701231006",
+    "name": "Bulawan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701231000",
+      "code": "0701231000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0701231007",
+    "code": "0701231007",
+    "name": "Cabidian",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701231000",
+      "code": "0701231000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0701231009",
+    "code": "0701231009",
+    "name": "Cawayanan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701231000",
+      "code": "0701231000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0701231004",
+    "code": "0701231004",
+    "name": "Concepcion",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701231000",
+      "code": "0701231000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0701231010",
+    "code": "0701231010",
+    "name": "Del Mar",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701231000",
+      "code": "0701231000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0701231011",
+    "code": "0701231011",
+    "name": "Lungsoda-an",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701231000",
+      "code": "0701231000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0701231012",
+    "code": "0701231012",
+    "name": "Marcelo",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701231000",
+      "code": "0701231000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0701231013",
+    "code": "0701231013",
+    "name": "Minol",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701231000",
+      "code": "0701231000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0701231014",
+    "code": "0701231014",
+    "name": "Paraiso",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701231000",
+      "code": "0701231000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0701231015",
+    "code": "0701231015",
+    "name": "Poblacion I",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701231000",
+      "code": "0701231000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0701231016",
+    "code": "0701231016",
+    "name": "Poblacion II",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701231000",
+      "code": "0701231000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0701231017",
+    "code": "0701231017",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701231000",
+      "code": "0701231000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0701231018",
+    "code": "0701231018",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701231000",
+      "code": "0701231000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0701231019",
+    "code": "0701231019",
+    "name": "San Rafael",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701231000",
+      "code": "0701231000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0701231020",
+    "code": "0701231020",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701231000",
+      "code": "0701231000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0701231021",
+    "code": "0701231021",
+    "name": "Tambo",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701231000",
+      "code": "0701231000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0701231022",
+    "code": "0701231022",
+    "name": "Tangkigan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701231000",
+      "code": "0701231000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0701231023",
+    "code": "0701231023",
+    "name": "Valaga",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701231000",
+      "code": "0701231000",
+      "name": "Mabini"
+    }
+  }
+]

@@ -1,0 +1,443 @@
+[
+  {
+    "id": "0600617001",
+    "code": "0600617001",
+    "name": "Alegre",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600617000",
+      "code": "0600617000",
+      "name": "Tibiao"
+    }
+  },
+  {
+    "id": "0600617002",
+    "code": "0600617002",
+    "name": "Amar",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600617000",
+      "code": "0600617000",
+      "name": "Tibiao"
+    }
+  },
+  {
+    "id": "0600617003",
+    "code": "0600617003",
+    "name": "Bandoja",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600617000",
+      "code": "0600617000",
+      "name": "Tibiao"
+    }
+  },
+  {
+    "id": "0600617004",
+    "code": "0600617004",
+    "name": "Castillo",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600617000",
+      "code": "0600617000",
+      "name": "Tibiao"
+    }
+  },
+  {
+    "id": "0600617005",
+    "code": "0600617005",
+    "name": "Esparagoza",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600617000",
+      "code": "0600617000",
+      "name": "Tibiao"
+    }
+  },
+  {
+    "id": "0600617006",
+    "code": "0600617006",
+    "name": "Importante",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600617000",
+      "code": "0600617000",
+      "name": "Tibiao"
+    }
+  },
+  {
+    "id": "0600617007",
+    "code": "0600617007",
+    "name": "La Paz",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600617000",
+      "code": "0600617000",
+      "name": "Tibiao"
+    }
+  },
+  {
+    "id": "0600617008",
+    "code": "0600617008",
+    "name": "Malabor",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600617000",
+      "code": "0600617000",
+      "name": "Tibiao"
+    }
+  },
+  {
+    "id": "0600617009",
+    "code": "0600617009",
+    "name": "Martinez",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600617000",
+      "code": "0600617000",
+      "name": "Tibiao"
+    }
+  },
+  {
+    "id": "0600617010",
+    "code": "0600617010",
+    "name": "Natividad",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600617000",
+      "code": "0600617000",
+      "name": "Tibiao"
+    }
+  },
+  {
+    "id": "0600617011",
+    "code": "0600617011",
+    "name": "Pitac",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600617000",
+      "code": "0600617000",
+      "name": "Tibiao"
+    }
+  },
+  {
+    "id": "0600617012",
+    "code": "0600617012",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600617000",
+      "code": "0600617000",
+      "name": "Tibiao"
+    }
+  },
+  {
+    "id": "0600617013",
+    "code": "0600617013",
+    "name": "Salazar",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600617000",
+      "code": "0600617000",
+      "name": "Tibiao"
+    }
+  },
+  {
+    "id": "0600617014",
+    "code": "0600617014",
+    "name": "San Francisco Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600617000",
+      "code": "0600617000",
+      "name": "Tibiao"
+    }
+  },
+  {
+    "id": "0600617015",
+    "code": "0600617015",
+    "name": "San Francisco Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600617000",
+      "code": "0600617000",
+      "name": "Tibiao"
+    }
+  },
+  {
+    "id": "0600617016",
+    "code": "0600617016",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600617000",
+      "code": "0600617000",
+      "name": "Tibiao"
+    }
+  },
+  {
+    "id": "0600617017",
+    "code": "0600617017",
+    "name": "Sta. Ana",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600617000",
+      "code": "0600617000",
+      "name": "Tibiao"
+    }
+  },
+  {
+    "id": "0600617018",
+    "code": "0600617018",
+    "name": "Sta. Justa",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600617000",
+      "code": "0600617000",
+      "name": "Tibiao"
+    }
+  },
+  {
+    "id": "0600617019",
+    "code": "0600617019",
+    "name": "Sto. Rosario",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600617000",
+      "code": "0600617000",
+      "name": "Tibiao"
+    }
+  },
+  {
+    "id": "0600617020",
+    "code": "0600617020",
+    "name": "Tigbaboy",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600617000",
+      "code": "0600617000",
+      "name": "Tibiao"
+    }
+  },
+  {
+    "id": "0600617021",
+    "code": "0600617021",
+    "name": "Tuno",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600617000",
+      "code": "0600617000",
+      "name": "Tibiao"
+    }
+  }
+]

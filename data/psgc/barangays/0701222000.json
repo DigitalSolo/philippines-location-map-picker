@@ -1,0 +1,632 @@
+[
+  {
+    "id": "0701222001",
+    "code": "0701222001",
+    "name": "Abijilan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701222000",
+      "code": "0701222000",
+      "name": "Garcia Hernandez"
+    }
+  },
+  {
+    "id": "0701222002",
+    "code": "0701222002",
+    "name": "Antipolo",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701222000",
+      "code": "0701222000",
+      "name": "Garcia Hernandez"
+    }
+  },
+  {
+    "id": "0701222003",
+    "code": "0701222003",
+    "name": "Basiao",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701222000",
+      "code": "0701222000",
+      "name": "Garcia Hernandez"
+    }
+  },
+  {
+    "id": "0701222004",
+    "code": "0701222004",
+    "name": "Cagwang",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701222000",
+      "code": "0701222000",
+      "name": "Garcia Hernandez"
+    }
+  },
+  {
+    "id": "0701222005",
+    "code": "0701222005",
+    "name": "Calma",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701222000",
+      "code": "0701222000",
+      "name": "Garcia Hernandez"
+    }
+  },
+  {
+    "id": "0701222006",
+    "code": "0701222006",
+    "name": "Cambuyo",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701222000",
+      "code": "0701222000",
+      "name": "Garcia Hernandez"
+    }
+  },
+  {
+    "id": "0701222007",
+    "code": "0701222007",
+    "name": "Canayaon East",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701222000",
+      "code": "0701222000",
+      "name": "Garcia Hernandez"
+    }
+  },
+  {
+    "id": "0701222008",
+    "code": "0701222008",
+    "name": "Canayaon West",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701222000",
+      "code": "0701222000",
+      "name": "Garcia Hernandez"
+    }
+  },
+  {
+    "id": "0701222009",
+    "code": "0701222009",
+    "name": "Candanas",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701222000",
+      "code": "0701222000",
+      "name": "Garcia Hernandez"
+    }
+  },
+  {
+    "id": "0701222010",
+    "code": "0701222010",
+    "name": "Candulao",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701222000",
+      "code": "0701222000",
+      "name": "Garcia Hernandez"
+    }
+  },
+  {
+    "id": "0701222011",
+    "code": "0701222011",
+    "name": "Catmon",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701222000",
+      "code": "0701222000",
+      "name": "Garcia Hernandez"
+    }
+  },
+  {
+    "id": "0701222012",
+    "code": "0701222012",
+    "name": "Cayam",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701222000",
+      "code": "0701222000",
+      "name": "Garcia Hernandez"
+    }
+  },
+  {
+    "id": "0701222013",
+    "code": "0701222013",
+    "name": "Cupa",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701222000",
+      "code": "0701222000",
+      "name": "Garcia Hernandez"
+    }
+  },
+  {
+    "id": "0701222014",
+    "code": "0701222014",
+    "name": "Datag",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701222000",
+      "code": "0701222000",
+      "name": "Garcia Hernandez"
+    }
+  },
+  {
+    "id": "0701222015",
+    "code": "0701222015",
+    "name": "Estaca",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701222000",
+      "code": "0701222000",
+      "name": "Garcia Hernandez"
+    }
+  },
+  {
+    "id": "0701222016",
+    "code": "0701222016",
+    "name": "Libertad",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701222000",
+      "code": "0701222000",
+      "name": "Garcia Hernandez"
+    }
+  },
+  {
+    "id": "0701222017",
+    "code": "0701222017",
+    "name": "Lungsodaan East",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701222000",
+      "code": "0701222000",
+      "name": "Garcia Hernandez"
+    }
+  },
+  {
+    "id": "0701222018",
+    "code": "0701222018",
+    "name": "Lungsodaan West",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701222000",
+      "code": "0701222000",
+      "name": "Garcia Hernandez"
+    }
+  },
+  {
+    "id": "0701222019",
+    "code": "0701222019",
+    "name": "Malinao",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701222000",
+      "code": "0701222000",
+      "name": "Garcia Hernandez"
+    }
+  },
+  {
+    "id": "0701222020",
+    "code": "0701222020",
+    "name": "Manaba",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701222000",
+      "code": "0701222000",
+      "name": "Garcia Hernandez"
+    }
+  },
+  {
+    "id": "0701222021",
+    "code": "0701222021",
+    "name": "Pasong",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701222000",
+      "code": "0701222000",
+      "name": "Garcia Hernandez"
+    }
+  },
+  {
+    "id": "0701222022",
+    "code": "0701222022",
+    "name": "Poblacion East",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701222000",
+      "code": "0701222000",
+      "name": "Garcia Hernandez"
+    }
+  },
+  {
+    "id": "0701222023",
+    "code": "0701222023",
+    "name": "Poblacion West",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701222000",
+      "code": "0701222000",
+      "name": "Garcia Hernandez"
+    }
+  },
+  {
+    "id": "0701222024",
+    "code": "0701222024",
+    "name": "Sacaon",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701222000",
+      "code": "0701222000",
+      "name": "Garcia Hernandez"
+    }
+  },
+  {
+    "id": "0701222025",
+    "code": "0701222025",
+    "name": "Sampong",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701222000",
+      "code": "0701222000",
+      "name": "Garcia Hernandez"
+    }
+  },
+  {
+    "id": "0701222026",
+    "code": "0701222026",
+    "name": "Tabuan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701222000",
+      "code": "0701222000",
+      "name": "Garcia Hernandez"
+    }
+  },
+  {
+    "id": "0701222027",
+    "code": "0701222027",
+    "name": "Togbongon",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701222000",
+      "code": "0701222000",
+      "name": "Garcia Hernandez"
+    }
+  },
+  {
+    "id": "0701222028",
+    "code": "0701222028",
+    "name": "Ulbujan East",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701222000",
+      "code": "0701222000",
+      "name": "Garcia Hernandez"
+    }
+  },
+  {
+    "id": "0701222029",
+    "code": "0701222029",
+    "name": "Ulbujan West",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701222000",
+      "code": "0701222000",
+      "name": "Garcia Hernandez"
+    }
+  },
+  {
+    "id": "0701222030",
+    "code": "0701222030",
+    "name": "Victoria",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701222000",
+      "code": "0701222000",
+      "name": "Garcia Hernandez"
+    }
+  }
+]

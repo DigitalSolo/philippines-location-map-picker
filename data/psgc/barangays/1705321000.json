@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1705321004",
+    "code": "1705321004",
+    "name": "Pag-Asa",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705321000",
+      "code": "1705321000",
+      "name": "Kalayaan"
+    }
+  }
+]

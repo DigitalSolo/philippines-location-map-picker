@@ -1,0 +1,380 @@
+[
+  {
+    "id": "0201522001",
+    "code": "0201522001",
+    "name": "Bangan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201522000",
+      "code": "0201522000",
+      "name": "Sanchez Mira"
+    }
+  },
+  {
+    "id": "0201522002",
+    "code": "0201522002",
+    "name": "Callungan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201522000",
+      "code": "0201522000",
+      "name": "Sanchez Mira"
+    }
+  },
+  {
+    "id": "0201522003",
+    "code": "0201522003",
+    "name": "Centro I",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201522000",
+      "code": "0201522000",
+      "name": "Sanchez Mira"
+    }
+  },
+  {
+    "id": "0201522004",
+    "code": "0201522004",
+    "name": "Centro II",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201522000",
+      "code": "0201522000",
+      "name": "Sanchez Mira"
+    }
+  },
+  {
+    "id": "0201522005",
+    "code": "0201522005",
+    "name": "Dacal",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201522000",
+      "code": "0201522000",
+      "name": "Sanchez Mira"
+    }
+  },
+  {
+    "id": "0201522006",
+    "code": "0201522006",
+    "name": "Dagueray",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201522000",
+      "code": "0201522000",
+      "name": "Sanchez Mira"
+    }
+  },
+  {
+    "id": "0201522008",
+    "code": "0201522008",
+    "name": "Dammang",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201522000",
+      "code": "0201522000",
+      "name": "Sanchez Mira"
+    }
+  },
+  {
+    "id": "0201522009",
+    "code": "0201522009",
+    "name": "Kittag",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201522000",
+      "code": "0201522000",
+      "name": "Sanchez Mira"
+    }
+  },
+  {
+    "id": "0201522010",
+    "code": "0201522010",
+    "name": "Langagan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201522000",
+      "code": "0201522000",
+      "name": "Sanchez Mira"
+    }
+  },
+  {
+    "id": "0201522011",
+    "code": "0201522011",
+    "name": "Magacan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201522000",
+      "code": "0201522000",
+      "name": "Sanchez Mira"
+    }
+  },
+  {
+    "id": "0201522012",
+    "code": "0201522012",
+    "name": "Marzan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201522000",
+      "code": "0201522000",
+      "name": "Sanchez Mira"
+    }
+  },
+  {
+    "id": "0201522013",
+    "code": "0201522013",
+    "name": "Masisit",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201522000",
+      "code": "0201522000",
+      "name": "Sanchez Mira"
+    }
+  },
+  {
+    "id": "0201522014",
+    "code": "0201522014",
+    "name": "Nagrangtayan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201522000",
+      "code": "0201522000",
+      "name": "Sanchez Mira"
+    }
+  },
+  {
+    "id": "0201522015",
+    "code": "0201522015",
+    "name": "Namuac",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201522000",
+      "code": "0201522000",
+      "name": "Sanchez Mira"
+    }
+  },
+  {
+    "id": "0201522016",
+    "code": "0201522016",
+    "name": "San Andres",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201522000",
+      "code": "0201522000",
+      "name": "Sanchez Mira"
+    }
+  },
+  {
+    "id": "0201522017",
+    "code": "0201522017",
+    "name": "Santiago",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201522000",
+      "code": "0201522000",
+      "name": "Sanchez Mira"
+    }
+  },
+  {
+    "id": "0201522018",
+    "code": "0201522018",
+    "name": "Santor",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201522000",
+      "code": "0201522000",
+      "name": "Sanchez Mira"
+    }
+  },
+  {
+    "id": "0201522019",
+    "code": "0201522019",
+    "name": "Tokitok",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201522000",
+      "code": "0201522000",
+      "name": "Sanchez Mira"
+    }
+  }
+]

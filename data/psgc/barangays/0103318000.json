@@ -1,0 +1,233 @@
+[
+  {
+    "id": "0103318002",
+    "code": "0103318002",
+    "name": "Corrooy",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103318000",
+      "code": "0103318000",
+      "name": "Santol"
+    }
+  },
+  {
+    "id": "0103318003",
+    "code": "0103318003",
+    "name": "Lettac Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103318000",
+      "code": "0103318000",
+      "name": "Santol"
+    }
+  },
+  {
+    "id": "0103318004",
+    "code": "0103318004",
+    "name": "Lettac Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103318000",
+      "code": "0103318000",
+      "name": "Santol"
+    }
+  },
+  {
+    "id": "0103318005",
+    "code": "0103318005",
+    "name": "Mangaan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103318000",
+      "code": "0103318000",
+      "name": "Santol"
+    }
+  },
+  {
+    "id": "0103318008",
+    "code": "0103318008",
+    "name": "Paagan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103318000",
+      "code": "0103318000",
+      "name": "Santol"
+    }
+  },
+  {
+    "id": "0103318010",
+    "code": "0103318010",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103318000",
+      "code": "0103318000",
+      "name": "Santol"
+    }
+  },
+  {
+    "id": "0103318011",
+    "code": "0103318011",
+    "name": "Puguil",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103318000",
+      "code": "0103318000",
+      "name": "Santol"
+    }
+  },
+  {
+    "id": "0103318012",
+    "code": "0103318012",
+    "name": "Ramot",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103318000",
+      "code": "0103318000",
+      "name": "Santol"
+    }
+  },
+  {
+    "id": "0103318013",
+    "code": "0103318013",
+    "name": "Sapdaan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103318000",
+      "code": "0103318000",
+      "name": "Santol"
+    }
+  },
+  {
+    "id": "0103318014",
+    "code": "0103318014",
+    "name": "Sasaba",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103318000",
+      "code": "0103318000",
+      "name": "Santol"
+    }
+  },
+  {
+    "id": "0103318015",
+    "code": "0103318015",
+    "name": "Tubaday",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103318000",
+      "code": "0103318000",
+      "name": "Santol"
+    }
+  }
+]

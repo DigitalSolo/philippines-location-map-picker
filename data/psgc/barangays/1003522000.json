@@ -1,0 +1,506 @@
+[
+  {
+    "id": "1003522001",
+    "code": "1003522001",
+    "name": "Barakanas",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003522000",
+      "code": "1003522000",
+      "name": "Tubod"
+    }
+  },
+  {
+    "id": "1003522002",
+    "code": "1003522002",
+    "name": "Baris",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003522000",
+      "code": "1003522000",
+      "name": "Tubod"
+    }
+  },
+  {
+    "id": "1003522003",
+    "code": "1003522003",
+    "name": "Bualan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003522000",
+      "code": "1003522000",
+      "name": "Tubod"
+    }
+  },
+  {
+    "id": "1003522004",
+    "code": "1003522004",
+    "name": "Bulod",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003522000",
+      "code": "1003522000",
+      "name": "Tubod"
+    }
+  },
+  {
+    "id": "1003522005",
+    "code": "1003522005",
+    "name": "Camp V",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003522000",
+      "code": "1003522000",
+      "name": "Tubod"
+    }
+  },
+  {
+    "id": "1003522006",
+    "code": "1003522006",
+    "name": "Candis",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003522000",
+      "code": "1003522000",
+      "name": "Tubod"
+    }
+  },
+  {
+    "id": "1003522007",
+    "code": "1003522007",
+    "name": "Caniogan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003522000",
+      "code": "1003522000",
+      "name": "Tubod"
+    }
+  },
+  {
+    "id": "1003522008",
+    "code": "1003522008",
+    "name": "Dalama",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003522000",
+      "code": "1003522000",
+      "name": "Tubod"
+    }
+  },
+  {
+    "id": "1003522010",
+    "code": "1003522010",
+    "name": "Kakai Renabor",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003522000",
+      "code": "1003522000",
+      "name": "Tubod"
+    }
+  },
+  {
+    "id": "1003522011",
+    "code": "1003522011",
+    "name": "Kalilangan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003522000",
+      "code": "1003522000",
+      "name": "Tubod"
+    }
+  },
+  {
+    "id": "1003522012",
+    "code": "1003522012",
+    "name": "Licapao",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003522000",
+      "code": "1003522000",
+      "name": "Tubod"
+    }
+  },
+  {
+    "id": "1003522014",
+    "code": "1003522014",
+    "name": "Malingao",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003522000",
+      "code": "1003522000",
+      "name": "Tubod"
+    }
+  },
+  {
+    "id": "1003522015",
+    "code": "1003522015",
+    "name": "Palao",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003522000",
+      "code": "1003522000",
+      "name": "Tubod"
+    }
+  },
+  {
+    "id": "1003522016",
+    "code": "1003522016",
+    "name": "Patudan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003522000",
+      "code": "1003522000",
+      "name": "Tubod"
+    }
+  },
+  {
+    "id": "1003522017",
+    "code": "1003522017",
+    "name": "Pigcarangan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003522000",
+      "code": "1003522000",
+      "name": "Tubod"
+    }
+  },
+  {
+    "id": "1003522018",
+    "code": "1003522018",
+    "name": "Pinpin",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003522000",
+      "code": "1003522000",
+      "name": "Tubod"
+    }
+  },
+  {
+    "id": "1003522019",
+    "code": "1003522019",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003522000",
+      "code": "1003522000",
+      "name": "Tubod"
+    }
+  },
+  {
+    "id": "1003522020",
+    "code": "1003522020",
+    "name": "Pualas",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003522000",
+      "code": "1003522000",
+      "name": "Tubod"
+    }
+  },
+  {
+    "id": "1003522021",
+    "code": "1003522021",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003522000",
+      "code": "1003522000",
+      "name": "Tubod"
+    }
+  },
+  {
+    "id": "1003522022",
+    "code": "1003522022",
+    "name": "Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003522000",
+      "code": "1003522000",
+      "name": "Tubod"
+    }
+  },
+  {
+    "id": "1003522023",
+    "code": "1003522023",
+    "name": "Taden",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003522000",
+      "code": "1003522000",
+      "name": "Tubod"
+    }
+  },
+  {
+    "id": "1003522025",
+    "code": "1003522025",
+    "name": "Taguranao",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003522000",
+      "code": "1003522000",
+      "name": "Tubod"
+    }
+  },
+  {
+    "id": "1003522024",
+    "code": "1003522024",
+    "name": "Tangueguiron",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003522000",
+      "code": "1003522000",
+      "name": "Tubod"
+    }
+  },
+  {
+    "id": "1003522026",
+    "code": "1003522026",
+    "name": "Tubaran",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003522000",
+      "code": "1003522000",
+      "name": "Tubod"
+    }
+  }
+]

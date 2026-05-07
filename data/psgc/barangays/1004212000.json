@@ -1,0 +1,695 @@
+[
+  {
+    "id": "1004212001",
+    "code": "1004212001",
+    "name": "Agunod",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004212000",
+      "code": "1004212000",
+      "name": "Plaridel"
+    }
+  },
+  {
+    "id": "1004212002",
+    "code": "1004212002",
+    "name": "Bato",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004212000",
+      "code": "1004212000",
+      "name": "Plaridel"
+    }
+  },
+  {
+    "id": "1004212003",
+    "code": "1004212003",
+    "name": "Buena Voluntad",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004212000",
+      "code": "1004212000",
+      "name": "Plaridel"
+    }
+  },
+  {
+    "id": "1004212004",
+    "code": "1004212004",
+    "name": "Calaca-an",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004212000",
+      "code": "1004212000",
+      "name": "Plaridel"
+    }
+  },
+  {
+    "id": "1004212005",
+    "code": "1004212005",
+    "name": "Cartagena Proper",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004212000",
+      "code": "1004212000",
+      "name": "Plaridel"
+    }
+  },
+  {
+    "id": "1004212006",
+    "code": "1004212006",
+    "name": "Catarman",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004212000",
+      "code": "1004212000",
+      "name": "Plaridel"
+    }
+  },
+  {
+    "id": "1004212007",
+    "code": "1004212007",
+    "name": "Cebulin",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004212000",
+      "code": "1004212000",
+      "name": "Plaridel"
+    }
+  },
+  {
+    "id": "1004212008",
+    "code": "1004212008",
+    "name": "Clarin",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004212000",
+      "code": "1004212000",
+      "name": "Plaridel"
+    }
+  },
+  {
+    "id": "1004212009",
+    "code": "1004212009",
+    "name": "Danao",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004212000",
+      "code": "1004212000",
+      "name": "Plaridel"
+    }
+  },
+  {
+    "id": "1004212010",
+    "code": "1004212010",
+    "name": "Deboloc",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004212000",
+      "code": "1004212000",
+      "name": "Plaridel"
+    }
+  },
+  {
+    "id": "1004212011",
+    "code": "1004212011",
+    "name": "Divisoria",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004212000",
+      "code": "1004212000",
+      "name": "Plaridel"
+    }
+  },
+  {
+    "id": "1004212012",
+    "code": "1004212012",
+    "name": "Eastern Looc",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004212000",
+      "code": "1004212000",
+      "name": "Plaridel"
+    }
+  },
+  {
+    "id": "1004212013",
+    "code": "1004212013",
+    "name": "Ilisan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004212000",
+      "code": "1004212000",
+      "name": "Plaridel"
+    }
+  },
+  {
+    "id": "1004212014",
+    "code": "1004212014",
+    "name": "Katipunan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004212000",
+      "code": "1004212000",
+      "name": "Plaridel"
+    }
+  },
+  {
+    "id": "1004212015",
+    "code": "1004212015",
+    "name": "Kauswagan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004212000",
+      "code": "1004212000",
+      "name": "Plaridel"
+    }
+  },
+  {
+    "id": "1004212016",
+    "code": "1004212016",
+    "name": "Lao Proper",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004212000",
+      "code": "1004212000",
+      "name": "Plaridel"
+    }
+  },
+  {
+    "id": "1004212017",
+    "code": "1004212017",
+    "name": "Lao Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004212000",
+      "code": "1004212000",
+      "name": "Plaridel"
+    }
+  },
+  {
+    "id": "1004212018",
+    "code": "1004212018",
+    "name": "Looc Proper",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004212000",
+      "code": "1004212000",
+      "name": "Plaridel"
+    }
+  },
+  {
+    "id": "1004212019",
+    "code": "1004212019",
+    "name": "Mamanga Daku",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004212000",
+      "code": "1004212000",
+      "name": "Plaridel"
+    }
+  },
+  {
+    "id": "1004212020",
+    "code": "1004212020",
+    "name": "Mamanga Gamay",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004212000",
+      "code": "1004212000",
+      "name": "Plaridel"
+    }
+  },
+  {
+    "id": "1004212021",
+    "code": "1004212021",
+    "name": "Mangidkid",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004212000",
+      "code": "1004212000",
+      "name": "Plaridel"
+    }
+  },
+  {
+    "id": "1004212022",
+    "code": "1004212022",
+    "name": "New Cartagena",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004212000",
+      "code": "1004212000",
+      "name": "Plaridel"
+    }
+  },
+  {
+    "id": "1004212023",
+    "code": "1004212023",
+    "name": "New Look",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004212000",
+      "code": "1004212000",
+      "name": "Plaridel"
+    }
+  },
+  {
+    "id": "1004212024",
+    "code": "1004212024",
+    "name": "Northern Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004212000",
+      "code": "1004212000",
+      "name": "Plaridel"
+    }
+  },
+  {
+    "id": "1004212025",
+    "code": "1004212025",
+    "name": "Panalsalan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004212000",
+      "code": "1004212000",
+      "name": "Plaridel"
+    }
+  },
+  {
+    "id": "1004212026",
+    "code": "1004212026",
+    "name": "Puntod",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004212000",
+      "code": "1004212000",
+      "name": "Plaridel"
+    }
+  },
+  {
+    "id": "1004212027",
+    "code": "1004212027",
+    "name": "Quirino",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004212000",
+      "code": "1004212000",
+      "name": "Plaridel"
+    }
+  },
+  {
+    "id": "1004212028",
+    "code": "1004212028",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004212000",
+      "code": "1004212000",
+      "name": "Plaridel"
+    }
+  },
+  {
+    "id": "1004212029",
+    "code": "1004212029",
+    "name": "Southern Looc",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004212000",
+      "code": "1004212000",
+      "name": "Plaridel"
+    }
+  },
+  {
+    "id": "1004212030",
+    "code": "1004212030",
+    "name": "Southern Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004212000",
+      "code": "1004212000",
+      "name": "Plaridel"
+    }
+  },
+  {
+    "id": "1004212031",
+    "code": "1004212031",
+    "name": "Tipolo",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004212000",
+      "code": "1004212000",
+      "name": "Plaridel"
+    }
+  },
+  {
+    "id": "1004212032",
+    "code": "1004212032",
+    "name": "Unidos",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004212000",
+      "code": "1004212000",
+      "name": "Plaridel"
+    }
+  },
+  {
+    "id": "1004212033",
+    "code": "1004212033",
+    "name": "Usocan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004212000",
+      "code": "1004212000",
+      "name": "Plaridel"
+    }
+  }
+]

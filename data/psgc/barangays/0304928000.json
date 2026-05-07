@@ -1,0 +1,695 @@
+[
+  {
+    "id": "0304928022",
+    "code": "0304928022",
+    "name": "Aguinaldo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304928000",
+      "code": "0304928000",
+      "name": "Santa Rosa"
+    }
+  },
+  {
+    "id": "0304928023",
+    "code": "0304928023",
+    "name": "Berang",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304928000",
+      "code": "0304928000",
+      "name": "Santa Rosa"
+    }
+  },
+  {
+    "id": "0304928024",
+    "code": "0304928024",
+    "name": "Burgos",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304928000",
+      "code": "0304928000",
+      "name": "Santa Rosa"
+    }
+  },
+  {
+    "id": "0304928001",
+    "code": "0304928001",
+    "name": "Cojuangco",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304928000",
+      "code": "0304928000",
+      "name": "Santa Rosa"
+    }
+  },
+  {
+    "id": "0304928025",
+    "code": "0304928025",
+    "name": "Del Pilar",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304928000",
+      "code": "0304928000",
+      "name": "Santa Rosa"
+    }
+  },
+  {
+    "id": "0304928026",
+    "code": "0304928026",
+    "name": "Gomez",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304928000",
+      "code": "0304928000",
+      "name": "Santa Rosa"
+    }
+  },
+  {
+    "id": "0304928027",
+    "code": "0304928027",
+    "name": "Inspector",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304928000",
+      "code": "0304928000",
+      "name": "Santa Rosa"
+    }
+  },
+  {
+    "id": "0304928028",
+    "code": "0304928028",
+    "name": "Isla",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304928000",
+      "code": "0304928000",
+      "name": "Santa Rosa"
+    }
+  },
+  {
+    "id": "0304928002",
+    "code": "0304928002",
+    "name": "La Fuente",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304928000",
+      "code": "0304928000",
+      "name": "Santa Rosa"
+    }
+  },
+  {
+    "id": "0304928003",
+    "code": "0304928003",
+    "name": "Liwayway",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304928000",
+      "code": "0304928000",
+      "name": "Santa Rosa"
+    }
+  },
+  {
+    "id": "0304928029",
+    "code": "0304928029",
+    "name": "Lourdes",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304928000",
+      "code": "0304928000",
+      "name": "Santa Rosa"
+    }
+  },
+  {
+    "id": "0304928030",
+    "code": "0304928030",
+    "name": "Luna",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304928000",
+      "code": "0304928000",
+      "name": "Santa Rosa"
+    }
+  },
+  {
+    "id": "0304928031",
+    "code": "0304928031",
+    "name": "Mabini",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304928000",
+      "code": "0304928000",
+      "name": "Santa Rosa"
+    }
+  },
+  {
+    "id": "0304928004",
+    "code": "0304928004",
+    "name": "Malacañang",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304928000",
+      "code": "0304928000",
+      "name": "Santa Rosa"
+    }
+  },
+  {
+    "id": "0304928005",
+    "code": "0304928005",
+    "name": "Maliolio",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304928000",
+      "code": "0304928000",
+      "name": "Santa Rosa"
+    }
+  },
+  {
+    "id": "0304928007",
+    "code": "0304928007",
+    "name": "Mapalad",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304928000",
+      "code": "0304928000",
+      "name": "Santa Rosa"
+    }
+  },
+  {
+    "id": "0304928011",
+    "code": "0304928011",
+    "name": "Rajal Centro",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304928000",
+      "code": "0304928000",
+      "name": "Santa Rosa"
+    }
+  },
+  {
+    "id": "0304928012",
+    "code": "0304928012",
+    "name": "Rajal Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304928000",
+      "code": "0304928000",
+      "name": "Santa Rosa"
+    }
+  },
+  {
+    "id": "0304928013",
+    "code": "0304928013",
+    "name": "Rajal Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304928000",
+      "code": "0304928000",
+      "name": "Santa Rosa"
+    }
+  },
+  {
+    "id": "0304928010",
+    "code": "0304928010",
+    "name": "Rizal",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304928000",
+      "code": "0304928000",
+      "name": "Santa Rosa"
+    }
+  },
+  {
+    "id": "0304928015",
+    "code": "0304928015",
+    "name": "San Gregorio",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304928000",
+      "code": "0304928000",
+      "name": "Santa Rosa"
+    }
+  },
+  {
+    "id": "0304928032",
+    "code": "0304928032",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304928000",
+      "code": "0304928000",
+      "name": "Santa Rosa"
+    }
+  },
+  {
+    "id": "0304928033",
+    "code": "0304928033",
+    "name": "San Josep",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304928000",
+      "code": "0304928000",
+      "name": "Santa Rosa"
+    }
+  },
+  {
+    "id": "0304928016",
+    "code": "0304928016",
+    "name": "San Mariano",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304928000",
+      "code": "0304928000",
+      "name": "Santa Rosa"
+    }
+  },
+  {
+    "id": "0304928017",
+    "code": "0304928017",
+    "name": "San Pedro",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304928000",
+      "code": "0304928000",
+      "name": "Santa Rosa"
+    }
+  },
+  {
+    "id": "0304928034",
+    "code": "0304928034",
+    "name": "Santa Teresita",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304928000",
+      "code": "0304928000",
+      "name": "Santa Rosa"
+    }
+  },
+  {
+    "id": "0304928018",
+    "code": "0304928018",
+    "name": "Santo Rosario",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304928000",
+      "code": "0304928000",
+      "name": "Santa Rosa"
+    }
+  },
+  {
+    "id": "0304928035",
+    "code": "0304928035",
+    "name": "Sapsap",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304928000",
+      "code": "0304928000",
+      "name": "Santa Rosa"
+    }
+  },
+  {
+    "id": "0304928019",
+    "code": "0304928019",
+    "name": "Soledad",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304928000",
+      "code": "0304928000",
+      "name": "Santa Rosa"
+    }
+  },
+  {
+    "id": "0304928036",
+    "code": "0304928036",
+    "name": "Tagpos",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304928000",
+      "code": "0304928000",
+      "name": "Santa Rosa"
+    }
+  },
+  {
+    "id": "0304928037",
+    "code": "0304928037",
+    "name": "Tramo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304928000",
+      "code": "0304928000",
+      "name": "Santa Rosa"
+    }
+  },
+  {
+    "id": "0304928020",
+    "code": "0304928020",
+    "name": "Valenzuela",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304928000",
+      "code": "0304928000",
+      "name": "Santa Rosa"
+    }
+  },
+  {
+    "id": "0304928021",
+    "code": "0304928021",
+    "name": "Zamora",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304928000",
+      "code": "0304928000",
+      "name": "Santa Rosa"
+    }
+  }
+]

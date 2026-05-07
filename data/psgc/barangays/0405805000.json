@@ -1,0 +1,149 @@
+[
+  {
+    "id": "0405805014",
+    "code": "0405805014",
+    "name": "San Andres",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405805000",
+      "code": "0405805000",
+      "name": "Cainta"
+    }
+  },
+  {
+    "id": "0405805015",
+    "code": "0405805015",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405805000",
+      "code": "0405805000",
+      "name": "Cainta"
+    }
+  },
+  {
+    "id": "0405805016",
+    "code": "0405805016",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405805000",
+      "code": "0405805000",
+      "name": "Cainta"
+    }
+  },
+  {
+    "id": "0405805017",
+    "code": "0405805017",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405805000",
+      "code": "0405805000",
+      "name": "Cainta"
+    }
+  },
+  {
+    "id": "0405805018",
+    "code": "0405805018",
+    "name": "Santa Rosa",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405805000",
+      "code": "0405805000",
+      "name": "Cainta"
+    }
+  },
+  {
+    "id": "0405805020",
+    "code": "0405805020",
+    "name": "Santo Domingo",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405805000",
+      "code": "0405805000",
+      "name": "Cainta"
+    }
+  },
+  {
+    "id": "0405805019",
+    "code": "0405805019",
+    "name": "Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405805000",
+      "code": "0405805000",
+      "name": "Cainta"
+    }
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1704001000",
+    "code": "1704001000",
+    "name": "Boac",
+    "type": "city_municipality",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    }
+  },
+  {
+    "id": "1704002000",
+    "code": "1704002000",
+    "name": "Buenavista",
+    "type": "city_municipality",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    }
+  },
+  {
+    "id": "1704003000",
+    "code": "1704003000",
+    "name": "Gasan",
+    "type": "city_municipality",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    }
+  },
+  {
+    "id": "1704004000",
+    "code": "1704004000",
+    "name": "Mogpog",
+    "type": "city_municipality",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    }
+  },
+  {
+    "id": "1704005000",
+    "code": "1704005000",
+    "name": "Santa Cruz",
+    "type": "city_municipality",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    }
+  },
+  {
+    "id": "1704006000",
+    "code": "1704006000",
+    "name": "Torrijos",
+    "type": "city_municipality",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    }
+  }
+]

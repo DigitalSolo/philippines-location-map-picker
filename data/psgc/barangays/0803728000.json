@@ -1,0 +1,737 @@
+[
+  {
+    "id": "0803728001",
+    "code": "0803728001",
+    "name": "Bagacay East",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803728000",
+      "code": "0803728000",
+      "name": "La Paz"
+    }
+  },
+  {
+    "id": "0803728002",
+    "code": "0803728002",
+    "name": "Bagacay West",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803728000",
+      "code": "0803728000",
+      "name": "La Paz"
+    }
+  },
+  {
+    "id": "0803728004",
+    "code": "0803728004",
+    "name": "Bocawon",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803728000",
+      "code": "0803728000",
+      "name": "La Paz"
+    }
+  },
+  {
+    "id": "0803728003",
+    "code": "0803728003",
+    "name": "Bongtod",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803728000",
+      "code": "0803728000",
+      "name": "La Paz"
+    }
+  },
+  {
+    "id": "0803728005",
+    "code": "0803728005",
+    "name": "Buracan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803728000",
+      "code": "0803728000",
+      "name": "La Paz"
+    }
+  },
+  {
+    "id": "0803728006",
+    "code": "0803728006",
+    "name": "Caabangan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803728000",
+      "code": "0803728000",
+      "name": "La Paz"
+    }
+  },
+  {
+    "id": "0803728007",
+    "code": "0803728007",
+    "name": "Cacao",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803728000",
+      "code": "0803728000",
+      "name": "La Paz"
+    }
+  },
+  {
+    "id": "0803728008",
+    "code": "0803728008",
+    "name": "Cagngaran",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803728000",
+      "code": "0803728000",
+      "name": "La Paz"
+    }
+  },
+  {
+    "id": "0803728009",
+    "code": "0803728009",
+    "name": "Calabnian",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803728000",
+      "code": "0803728000",
+      "name": "La Paz"
+    }
+  },
+  {
+    "id": "0803728010",
+    "code": "0803728010",
+    "name": "Calaghusan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803728000",
+      "code": "0803728000",
+      "name": "La Paz"
+    }
+  },
+  {
+    "id": "0803728011",
+    "code": "0803728011",
+    "name": "Caltayan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803728000",
+      "code": "0803728000",
+      "name": "La Paz"
+    }
+  },
+  {
+    "id": "0803728012",
+    "code": "0803728012",
+    "name": "Canbañez",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803728000",
+      "code": "0803728000",
+      "name": "La Paz"
+    }
+  },
+  {
+    "id": "0803728013",
+    "code": "0803728013",
+    "name": "Cogon",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803728000",
+      "code": "0803728000",
+      "name": "La Paz"
+    }
+  },
+  {
+    "id": "0803728014",
+    "code": "0803728014",
+    "name": "Duyog",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803728000",
+      "code": "0803728000",
+      "name": "La Paz"
+    }
+  },
+  {
+    "id": "0803728015",
+    "code": "0803728015",
+    "name": "Gimiranat East",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803728000",
+      "code": "0803728000",
+      "name": "La Paz"
+    }
+  },
+  {
+    "id": "0803728016",
+    "code": "0803728016",
+    "name": "Gimiranat West",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803728000",
+      "code": "0803728000",
+      "name": "La Paz"
+    }
+  },
+  {
+    "id": "0803728017",
+    "code": "0803728017",
+    "name": "Limba",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803728000",
+      "code": "0803728000",
+      "name": "La Paz"
+    }
+  },
+  {
+    "id": "0803728018",
+    "code": "0803728018",
+    "name": "Lubi-lubi",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803728000",
+      "code": "0803728000",
+      "name": "La Paz"
+    }
+  },
+  {
+    "id": "0803728019",
+    "code": "0803728019",
+    "name": "Luneta",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803728000",
+      "code": "0803728000",
+      "name": "La Paz"
+    }
+  },
+  {
+    "id": "0803728020",
+    "code": "0803728020",
+    "name": "Mag-aso",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803728000",
+      "code": "0803728000",
+      "name": "La Paz"
+    }
+  },
+  {
+    "id": "0803728021",
+    "code": "0803728021",
+    "name": "Moroboro",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803728000",
+      "code": "0803728000",
+      "name": "La Paz"
+    }
+  },
+  {
+    "id": "0803728022",
+    "code": "0803728022",
+    "name": "Pansud",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803728000",
+      "code": "0803728000",
+      "name": "La Paz"
+    }
+  },
+  {
+    "id": "0803728023",
+    "code": "0803728023",
+    "name": "Pawa",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803728000",
+      "code": "0803728000",
+      "name": "La Paz"
+    }
+  },
+  {
+    "id": "0803728024",
+    "code": "0803728024",
+    "name": "Piliway",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803728000",
+      "code": "0803728000",
+      "name": "La Paz"
+    }
+  },
+  {
+    "id": "0803728025",
+    "code": "0803728025",
+    "name": "Poblacion District 1",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803728000",
+      "code": "0803728000",
+      "name": "La Paz"
+    }
+  },
+  {
+    "id": "0803728026",
+    "code": "0803728026",
+    "name": "Poblacion District 2",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803728000",
+      "code": "0803728000",
+      "name": "La Paz"
+    }
+  },
+  {
+    "id": "0803728027",
+    "code": "0803728027",
+    "name": "Poblacion District 3",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803728000",
+      "code": "0803728000",
+      "name": "La Paz"
+    }
+  },
+  {
+    "id": "0803728028",
+    "code": "0803728028",
+    "name": "Poblacion District 4",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803728000",
+      "code": "0803728000",
+      "name": "La Paz"
+    }
+  },
+  {
+    "id": "0803728029",
+    "code": "0803728029",
+    "name": "Quiong",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803728000",
+      "code": "0803728000",
+      "name": "La Paz"
+    }
+  },
+  {
+    "id": "0803728030",
+    "code": "0803728030",
+    "name": "Rizal",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803728000",
+      "code": "0803728000",
+      "name": "La Paz"
+    }
+  },
+  {
+    "id": "0803728031",
+    "code": "0803728031",
+    "name": "San Victoray",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803728000",
+      "code": "0803728000",
+      "name": "La Paz"
+    }
+  },
+  {
+    "id": "0803728032",
+    "code": "0803728032",
+    "name": "Santa Ana",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803728000",
+      "code": "0803728000",
+      "name": "La Paz"
+    }
+  },
+  {
+    "id": "0803728033",
+    "code": "0803728033",
+    "name": "Santa Elena",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803728000",
+      "code": "0803728000",
+      "name": "La Paz"
+    }
+  },
+  {
+    "id": "0803728034",
+    "code": "0803728034",
+    "name": "Tabang",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803728000",
+      "code": "0803728000",
+      "name": "La Paz"
+    }
+  },
+  {
+    "id": "0803728035",
+    "code": "0803728035",
+    "name": "Tarugan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803728000",
+      "code": "0803728000",
+      "name": "La Paz"
+    }
+  }
+]

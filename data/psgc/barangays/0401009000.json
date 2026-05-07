@@ -1,0 +1,443 @@
+[
+  {
+    "id": "0401009001",
+    "code": "0401009001",
+    "name": "Balagbag",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401009000",
+      "code": "0401009000",
+      "name": "Cuenca"
+    }
+  },
+  {
+    "id": "0401009015",
+    "code": "0401009015",
+    "name": "Barangay 1",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401009000",
+      "code": "0401009000",
+      "name": "Cuenca"
+    }
+  },
+  {
+    "id": "0401009016",
+    "code": "0401009016",
+    "name": "Barangay 2",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401009000",
+      "code": "0401009000",
+      "name": "Cuenca"
+    }
+  },
+  {
+    "id": "0401009017",
+    "code": "0401009017",
+    "name": "Barangay 3",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401009000",
+      "code": "0401009000",
+      "name": "Cuenca"
+    }
+  },
+  {
+    "id": "0401009018",
+    "code": "0401009018",
+    "name": "Barangay 4",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401009000",
+      "code": "0401009000",
+      "name": "Cuenca"
+    }
+  },
+  {
+    "id": "0401009019",
+    "code": "0401009019",
+    "name": "Barangay 5",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401009000",
+      "code": "0401009000",
+      "name": "Cuenca"
+    }
+  },
+  {
+    "id": "0401009020",
+    "code": "0401009020",
+    "name": "Barangay 6",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401009000",
+      "code": "0401009000",
+      "name": "Cuenca"
+    }
+  },
+  {
+    "id": "0401009021",
+    "code": "0401009021",
+    "name": "Barangay 7",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401009000",
+      "code": "0401009000",
+      "name": "Cuenca"
+    }
+  },
+  {
+    "id": "0401009022",
+    "code": "0401009022",
+    "name": "Barangay 8",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401009000",
+      "code": "0401009000",
+      "name": "Cuenca"
+    }
+  },
+  {
+    "id": "0401009002",
+    "code": "0401009002",
+    "name": "Bungahan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401009000",
+      "code": "0401009000",
+      "name": "Cuenca"
+    }
+  },
+  {
+    "id": "0401009003",
+    "code": "0401009003",
+    "name": "Calumayin",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401009000",
+      "code": "0401009000",
+      "name": "Cuenca"
+    }
+  },
+  {
+    "id": "0401009005",
+    "code": "0401009005",
+    "name": "Dalipit East",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401009000",
+      "code": "0401009000",
+      "name": "Cuenca"
+    }
+  },
+  {
+    "id": "0401009006",
+    "code": "0401009006",
+    "name": "Dalipit West",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401009000",
+      "code": "0401009000",
+      "name": "Cuenca"
+    }
+  },
+  {
+    "id": "0401009007",
+    "code": "0401009007",
+    "name": "Dita",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401009000",
+      "code": "0401009000",
+      "name": "Cuenca"
+    }
+  },
+  {
+    "id": "0401009008",
+    "code": "0401009008",
+    "name": "Don Juan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401009000",
+      "code": "0401009000",
+      "name": "Cuenca"
+    }
+  },
+  {
+    "id": "0401009009",
+    "code": "0401009009",
+    "name": "Emmanuel",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401009000",
+      "code": "0401009000",
+      "name": "Cuenca"
+    }
+  },
+  {
+    "id": "0401009010",
+    "code": "0401009010",
+    "name": "Ibabao",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401009000",
+      "code": "0401009000",
+      "name": "Cuenca"
+    }
+  },
+  {
+    "id": "0401009011",
+    "code": "0401009011",
+    "name": "Labac",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401009000",
+      "code": "0401009000",
+      "name": "Cuenca"
+    }
+  },
+  {
+    "id": "0401009012",
+    "code": "0401009012",
+    "name": "Pinagkaisahan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401009000",
+      "code": "0401009000",
+      "name": "Cuenca"
+    }
+  },
+  {
+    "id": "0401009013",
+    "code": "0401009013",
+    "name": "San Felipe",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401009000",
+      "code": "0401009000",
+      "name": "Cuenca"
+    }
+  },
+  {
+    "id": "0401009014",
+    "code": "0401009014",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401009000",
+      "code": "0401009000",
+      "name": "Cuenca"
+    }
+  }
+]

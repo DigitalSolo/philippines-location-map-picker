@@ -1,0 +1,485 @@
+[
+  {
+    "id": "0806001001",
+    "code": "0806001001",
+    "name": "Bacjao",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806001000",
+      "code": "0806001000",
+      "name": "Almagro"
+    }
+  },
+  {
+    "id": "0806001004",
+    "code": "0806001004",
+    "name": "Biasong I",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806001000",
+      "code": "0806001000",
+      "name": "Almagro"
+    }
+  },
+  {
+    "id": "0806001026",
+    "code": "0806001026",
+    "name": "Biasong II",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806001000",
+      "code": "0806001000",
+      "name": "Almagro"
+    }
+  },
+  {
+    "id": "0806001005",
+    "code": "0806001005",
+    "name": "Costa Rica",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806001000",
+      "code": "0806001000",
+      "name": "Almagro"
+    }
+  },
+  {
+    "id": "0806001027",
+    "code": "0806001027",
+    "name": "Costa Rica II",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806001000",
+      "code": "0806001000",
+      "name": "Almagro"
+    }
+  },
+  {
+    "id": "0806001007",
+    "code": "0806001007",
+    "name": "Guin-ansan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806001000",
+      "code": "0806001000",
+      "name": "Almagro"
+    }
+  },
+  {
+    "id": "0806001025",
+    "code": "0806001025",
+    "name": "Imelda",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806001000",
+      "code": "0806001000",
+      "name": "Almagro"
+    }
+  },
+  {
+    "id": "0806001008",
+    "code": "0806001008",
+    "name": "Kerikite",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806001000",
+      "code": "0806001000",
+      "name": "Almagro"
+    }
+  },
+  {
+    "id": "0806001011",
+    "code": "0806001011",
+    "name": "Lunang I",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806001000",
+      "code": "0806001000",
+      "name": "Almagro"
+    }
+  },
+  {
+    "id": "0806001012",
+    "code": "0806001012",
+    "name": "Lunang II",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806001000",
+      "code": "0806001000",
+      "name": "Almagro"
+    }
+  },
+  {
+    "id": "0806001028",
+    "code": "0806001028",
+    "name": "Mabuhay",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806001000",
+      "code": "0806001000",
+      "name": "Almagro"
+    }
+  },
+  {
+    "id": "0806001029",
+    "code": "0806001029",
+    "name": "Magsaysay",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806001000",
+      "code": "0806001000",
+      "name": "Almagro"
+    }
+  },
+  {
+    "id": "0806001013",
+    "code": "0806001013",
+    "name": "Malobago",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806001000",
+      "code": "0806001000",
+      "name": "Almagro"
+    }
+  },
+  {
+    "id": "0806001014",
+    "code": "0806001014",
+    "name": "Marasbaras",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806001000",
+      "code": "0806001000",
+      "name": "Almagro"
+    }
+  },
+  {
+    "id": "0806001017",
+    "code": "0806001017",
+    "name": "Panjobjoban I",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806001000",
+      "code": "0806001000",
+      "name": "Almagro"
+    }
+  },
+  {
+    "id": "0806001030",
+    "code": "0806001030",
+    "name": "Panjobjoban II",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806001000",
+      "code": "0806001000",
+      "name": "Almagro"
+    }
+  },
+  {
+    "id": "0806001019",
+    "code": "0806001019",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806001000",
+      "code": "0806001000",
+      "name": "Almagro"
+    }
+  },
+  {
+    "id": "0806001031",
+    "code": "0806001031",
+    "name": "Roño",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806001000",
+      "code": "0806001000",
+      "name": "Almagro"
+    }
+  },
+  {
+    "id": "0806001032",
+    "code": "0806001032",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806001000",
+      "code": "0806001000",
+      "name": "Almagro"
+    }
+  },
+  {
+    "id": "0806001033",
+    "code": "0806001033",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806001000",
+      "code": "0806001000",
+      "name": "Almagro"
+    }
+  },
+  {
+    "id": "0806001023",
+    "code": "0806001023",
+    "name": "Talahid",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806001000",
+      "code": "0806001000",
+      "name": "Almagro"
+    }
+  },
+  {
+    "id": "0806001024",
+    "code": "0806001024",
+    "name": "Tonga-tonga",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806001000",
+      "code": "0806001000",
+      "name": "Almagro"
+    }
+  },
+  {
+    "id": "0806001034",
+    "code": "0806001034",
+    "name": "Veloso",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806001000",
+      "code": "0806001000",
+      "name": "Almagro"
+    }
+  }
+]

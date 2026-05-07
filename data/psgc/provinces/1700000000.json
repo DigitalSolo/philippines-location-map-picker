@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1704000000",
+    "code": "1704000000",
+    "name": "Marinduque",
+    "type": "province",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    }
+  },
+  {
+    "id": "1705100000",
+    "code": "1705100000",
+    "name": "Occidental Mindoro",
+    "type": "province",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    }
+  },
+  {
+    "id": "1705200000",
+    "code": "1705200000",
+    "name": "Oriental Mindoro",
+    "type": "province",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    }
+  },
+  {
+    "id": "1705300000",
+    "code": "1705300000",
+    "name": "Palawan",
+    "type": "province",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    }
+  },
+  {
+    "id": "1705900000",
+    "code": "1705900000",
+    "name": "Romblon",
+    "type": "province",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    }
+  }
+]

@@ -1,0 +1,485 @@
+[
+  {
+    "id": "1705315001",
+    "code": "1705315001",
+    "name": "Antipuluan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705315000",
+      "code": "1705315000",
+      "name": "Narra"
+    }
+  },
+  {
+    "id": "1705315002",
+    "code": "1705315002",
+    "name": "Aramaywan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705315000",
+      "code": "1705315000",
+      "name": "Narra"
+    }
+  },
+  {
+    "id": "1705315022",
+    "code": "1705315022",
+    "name": "Bagong Sikat",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705315000",
+      "code": "1705315000",
+      "name": "Narra"
+    }
+  },
+  {
+    "id": "1705315003",
+    "code": "1705315003",
+    "name": "Batang-batang",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705315000",
+      "code": "1705315000",
+      "name": "Narra"
+    }
+  },
+  {
+    "id": "1705315004",
+    "code": "1705315004",
+    "name": "Bato-bato",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705315000",
+      "code": "1705315000",
+      "name": "Narra"
+    }
+  },
+  {
+    "id": "1705315005",
+    "code": "1705315005",
+    "name": "Burirao",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705315000",
+      "code": "1705315000",
+      "name": "Narra"
+    }
+  },
+  {
+    "id": "1705315006",
+    "code": "1705315006",
+    "name": "Caguisan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705315000",
+      "code": "1705315000",
+      "name": "Narra"
+    }
+  },
+  {
+    "id": "1705315007",
+    "code": "1705315007",
+    "name": "Calategas",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705315000",
+      "code": "1705315000",
+      "name": "Narra"
+    }
+  },
+  {
+    "id": "1705315008",
+    "code": "1705315008",
+    "name": "Dumagueña",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705315000",
+      "code": "1705315000",
+      "name": "Narra"
+    }
+  },
+  {
+    "id": "1705315009",
+    "code": "1705315009",
+    "name": "Elvita",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705315000",
+      "code": "1705315000",
+      "name": "Narra"
+    }
+  },
+  {
+    "id": "1705315010",
+    "code": "1705315010",
+    "name": "Estrella Village",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705315000",
+      "code": "1705315000",
+      "name": "Narra"
+    }
+  },
+  {
+    "id": "1705315011",
+    "code": "1705315011",
+    "name": "Ipilan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705315000",
+      "code": "1705315000",
+      "name": "Narra"
+    }
+  },
+  {
+    "id": "1705315012",
+    "code": "1705315012",
+    "name": "Malatgao",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705315000",
+      "code": "1705315000",
+      "name": "Narra"
+    }
+  },
+  {
+    "id": "1705315013",
+    "code": "1705315013",
+    "name": "Malinao",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705315000",
+      "code": "1705315000",
+      "name": "Narra"
+    }
+  },
+  {
+    "id": "1705315014",
+    "code": "1705315014",
+    "name": "Narra",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705315000",
+      "code": "1705315000",
+      "name": "Narra"
+    }
+  },
+  {
+    "id": "1705315015",
+    "code": "1705315015",
+    "name": "Panacan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705315000",
+      "code": "1705315000",
+      "name": "Narra"
+    }
+  },
+  {
+    "id": "1705315023",
+    "code": "1705315023",
+    "name": "Panacan 2",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705315000",
+      "code": "1705315000",
+      "name": "Narra"
+    }
+  },
+  {
+    "id": "1705315016",
+    "code": "1705315016",
+    "name": "Princess Urduja",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705315000",
+      "code": "1705315000",
+      "name": "Narra"
+    }
+  },
+  {
+    "id": "1705315017",
+    "code": "1705315017",
+    "name": "Sandoval",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705315000",
+      "code": "1705315000",
+      "name": "Narra"
+    }
+  },
+  {
+    "id": "1705315018",
+    "code": "1705315018",
+    "name": "Tacras",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705315000",
+      "code": "1705315000",
+      "name": "Narra"
+    }
+  },
+  {
+    "id": "1705315019",
+    "code": "1705315019",
+    "name": "Taritien",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705315000",
+      "code": "1705315000",
+      "name": "Narra"
+    }
+  },
+  {
+    "id": "1705315020",
+    "code": "1705315020",
+    "name": "Teresa",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705315000",
+      "code": "1705315000",
+      "name": "Narra"
+    }
+  },
+  {
+    "id": "1705315021",
+    "code": "1705315021",
+    "name": "Tinagong Dagat",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705315000",
+      "code": "1705315000",
+      "name": "Narra"
+    }
+  }
+]

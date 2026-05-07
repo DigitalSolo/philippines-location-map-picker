@@ -1,0 +1,380 @@
+[
+  {
+    "id": "0203119002",
+    "code": "0203119002",
+    "name": "Binmonton",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203119000",
+      "code": "0203119000",
+      "name": "Mallig"
+    }
+  },
+  {
+    "id": "0203119003",
+    "code": "0203119003",
+    "name": "Casili",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203119000",
+      "code": "0203119000",
+      "name": "Mallig"
+    }
+  },
+  {
+    "id": "0203119004",
+    "code": "0203119004",
+    "name": "Centro I",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203119000",
+      "code": "0203119000",
+      "name": "Mallig"
+    }
+  },
+  {
+    "id": "0203119009",
+    "code": "0203119009",
+    "name": "Centro II",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203119000",
+      "code": "0203119000",
+      "name": "Mallig"
+    }
+  },
+  {
+    "id": "0203119005",
+    "code": "0203119005",
+    "name": "Holy Friday",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203119000",
+      "code": "0203119000",
+      "name": "Mallig"
+    }
+  },
+  {
+    "id": "0203119006",
+    "code": "0203119006",
+    "name": "Maligaya",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203119000",
+      "code": "0203119000",
+      "name": "Mallig"
+    }
+  },
+  {
+    "id": "0203119007",
+    "code": "0203119007",
+    "name": "Manano",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203119000",
+      "code": "0203119000",
+      "name": "Mallig"
+    }
+  },
+  {
+    "id": "0203119008",
+    "code": "0203119008",
+    "name": "Olango",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203119000",
+      "code": "0203119000",
+      "name": "Mallig"
+    }
+  },
+  {
+    "id": "0203119010",
+    "code": "0203119010",
+    "name": "Rang-ayan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203119000",
+      "code": "0203119000",
+      "name": "Mallig"
+    }
+  },
+  {
+    "id": "0203119011",
+    "code": "0203119011",
+    "name": "San Jose Norte I",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203119000",
+      "code": "0203119000",
+      "name": "Mallig"
+    }
+  },
+  {
+    "id": "0203119016",
+    "code": "0203119016",
+    "name": "San Jose Norte II",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203119000",
+      "code": "0203119000",
+      "name": "Mallig"
+    }
+  },
+  {
+    "id": "0203119012",
+    "code": "0203119012",
+    "name": "San Jose Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203119000",
+      "code": "0203119000",
+      "name": "Mallig"
+    }
+  },
+  {
+    "id": "0203119001",
+    "code": "0203119001",
+    "name": "San Pedro",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203119000",
+      "code": "0203119000",
+      "name": "Mallig"
+    }
+  },
+  {
+    "id": "0203119017",
+    "code": "0203119017",
+    "name": "San Ramon",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203119000",
+      "code": "0203119000",
+      "name": "Mallig"
+    }
+  },
+  {
+    "id": "0203119013",
+    "code": "0203119013",
+    "name": "Siempre Viva Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203119000",
+      "code": "0203119000",
+      "name": "Mallig"
+    }
+  },
+  {
+    "id": "0203119018",
+    "code": "0203119018",
+    "name": "Siempre Viva Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203119000",
+      "code": "0203119000",
+      "name": "Mallig"
+    }
+  },
+  {
+    "id": "0203119014",
+    "code": "0203119014",
+    "name": "Trinidad",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203119000",
+      "code": "0203119000",
+      "name": "Mallig"
+    }
+  },
+  {
+    "id": "0203119015",
+    "code": "0203119015",
+    "name": "Victoria",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203119000",
+      "code": "0203119000",
+      "name": "Mallig"
+    }
+  }
+]

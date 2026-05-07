@@ -1,0 +1,317 @@
+[
+  {
+    "id": "1004307001",
+    "code": "1004307001",
+    "name": "Amoros",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004307000",
+      "code": "1004307000",
+      "name": "City of El Salvador"
+    }
+  },
+  {
+    "id": "1004307002",
+    "code": "1004307002",
+    "name": "Bolisong",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004307000",
+      "code": "1004307000",
+      "name": "City of El Salvador"
+    }
+  },
+  {
+    "id": "1004307003",
+    "code": "1004307003",
+    "name": "Bolobolo",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004307000",
+      "code": "1004307000",
+      "name": "City of El Salvador"
+    }
+  },
+  {
+    "id": "1004307004",
+    "code": "1004307004",
+    "name": "Calongonan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004307000",
+      "code": "1004307000",
+      "name": "City of El Salvador"
+    }
+  },
+  {
+    "id": "1004307006",
+    "code": "1004307006",
+    "name": "Cogon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004307000",
+      "code": "1004307000",
+      "name": "City of El Salvador"
+    }
+  },
+  {
+    "id": "1004307007",
+    "code": "1004307007",
+    "name": "Himaya",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004307000",
+      "code": "1004307000",
+      "name": "City of El Salvador"
+    }
+  },
+  {
+    "id": "1004307008",
+    "code": "1004307008",
+    "name": "Hinigdaan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004307000",
+      "code": "1004307000",
+      "name": "City of El Salvador"
+    }
+  },
+  {
+    "id": "1004307010",
+    "code": "1004307010",
+    "name": "Kalabaylabay",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004307000",
+      "code": "1004307000",
+      "name": "City of El Salvador"
+    }
+  },
+  {
+    "id": "1004307013",
+    "code": "1004307013",
+    "name": "Kibonbon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004307000",
+      "code": "1004307000",
+      "name": "City of El Salvador"
+    }
+  },
+  {
+    "id": "1004307011",
+    "code": "1004307011",
+    "name": "Molugan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004307000",
+      "code": "1004307000",
+      "name": "City of El Salvador"
+    }
+  },
+  {
+    "id": "1004307012",
+    "code": "1004307012",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004307000",
+      "code": "1004307000",
+      "name": "City of El Salvador"
+    }
+  },
+  {
+    "id": "1004307014",
+    "code": "1004307014",
+    "name": "Sambulawan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004307000",
+      "code": "1004307000",
+      "name": "City of El Salvador"
+    }
+  },
+  {
+    "id": "1004307015",
+    "code": "1004307015",
+    "name": "Sinaloc",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004307000",
+      "code": "1004307000",
+      "name": "City of El Salvador"
+    }
+  },
+  {
+    "id": "1004307016",
+    "code": "1004307016",
+    "name": "Taytay",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004307000",
+      "code": "1004307000",
+      "name": "City of El Salvador"
+    }
+  },
+  {
+    "id": "1004307018",
+    "code": "1004307018",
+    "name": "Ulaliman",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004307000",
+      "code": "1004307000",
+      "name": "City of El Salvador"
+    }
+  }
+]

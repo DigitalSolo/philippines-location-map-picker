@@ -1,0 +1,968 @@
+[
+  {
+    "id": "0603021001",
+    "code": "0603021001",
+    "name": "Alameda",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603021000",
+      "code": "0603021000",
+      "name": "Igbaras"
+    }
+  },
+  {
+    "id": "0603021002",
+    "code": "0603021002",
+    "name": "Amorogtong",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603021000",
+      "code": "0603021000",
+      "name": "Igbaras"
+    }
+  },
+  {
+    "id": "0603021003",
+    "code": "0603021003",
+    "name": "Anilawan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603021000",
+      "code": "0603021000",
+      "name": "Igbaras"
+    }
+  },
+  {
+    "id": "0603021004",
+    "code": "0603021004",
+    "name": "Bagacay",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603021000",
+      "code": "0603021000",
+      "name": "Igbaras"
+    }
+  },
+  {
+    "id": "0603021005",
+    "code": "0603021005",
+    "name": "Bagacayan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603021000",
+      "code": "0603021000",
+      "name": "Igbaras"
+    }
+  },
+  {
+    "id": "0603021006",
+    "code": "0603021006",
+    "name": "Bagay",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603021000",
+      "code": "0603021000",
+      "name": "Igbaras"
+    }
+  },
+  {
+    "id": "0603021007",
+    "code": "0603021007",
+    "name": "Balibagan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603021000",
+      "code": "0603021000",
+      "name": "Igbaras"
+    }
+  },
+  {
+    "id": "0603021033",
+    "code": "0603021033",
+    "name": "Barangay 1 Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603021000",
+      "code": "0603021000",
+      "name": "Igbaras"
+    }
+  },
+  {
+    "id": "0603021034",
+    "code": "0603021034",
+    "name": "Barangay 2 Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603021000",
+      "code": "0603021000",
+      "name": "Igbaras"
+    }
+  },
+  {
+    "id": "0603021035",
+    "code": "0603021035",
+    "name": "Barangay 3 Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603021000",
+      "code": "0603021000",
+      "name": "Igbaras"
+    }
+  },
+  {
+    "id": "0603021036",
+    "code": "0603021036",
+    "name": "Barangay 4 Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603021000",
+      "code": "0603021000",
+      "name": "Igbaras"
+    }
+  },
+  {
+    "id": "0603021037",
+    "code": "0603021037",
+    "name": "Barangay 5 Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603021000",
+      "code": "0603021000",
+      "name": "Igbaras"
+    }
+  },
+  {
+    "id": "0603021038",
+    "code": "0603021038",
+    "name": "Barangay 6 Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603021000",
+      "code": "0603021000",
+      "name": "Igbaras"
+    }
+  },
+  {
+    "id": "0603021008",
+    "code": "0603021008",
+    "name": "Barasan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603021000",
+      "code": "0603021000",
+      "name": "Igbaras"
+    }
+  },
+  {
+    "id": "0603021009",
+    "code": "0603021009",
+    "name": "Binanua-an",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603021000",
+      "code": "0603021000",
+      "name": "Igbaras"
+    }
+  },
+  {
+    "id": "0603021010",
+    "code": "0603021010",
+    "name": "Boclod",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603021000",
+      "code": "0603021000",
+      "name": "Igbaras"
+    }
+  },
+  {
+    "id": "0603021011",
+    "code": "0603021011",
+    "name": "Buenavista",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603021000",
+      "code": "0603021000",
+      "name": "Igbaras"
+    }
+  },
+  {
+    "id": "0603021012",
+    "code": "0603021012",
+    "name": "Buga",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603021000",
+      "code": "0603021000",
+      "name": "Igbaras"
+    }
+  },
+  {
+    "id": "0603021013",
+    "code": "0603021013",
+    "name": "Bugnay",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603021000",
+      "code": "0603021000",
+      "name": "Igbaras"
+    }
+  },
+  {
+    "id": "0603021014",
+    "code": "0603021014",
+    "name": "Calampitao",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603021000",
+      "code": "0603021000",
+      "name": "Igbaras"
+    }
+  },
+  {
+    "id": "0603021015",
+    "code": "0603021015",
+    "name": "Cale",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603021000",
+      "code": "0603021000",
+      "name": "Igbaras"
+    }
+  },
+  {
+    "id": "0603021017",
+    "code": "0603021017",
+    "name": "Catiringan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603021000",
+      "code": "0603021000",
+      "name": "Igbaras"
+    }
+  },
+  {
+    "id": "0603021016",
+    "code": "0603021016",
+    "name": "Corucuan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603021000",
+      "code": "0603021000",
+      "name": "Igbaras"
+    }
+  },
+  {
+    "id": "0603021018",
+    "code": "0603021018",
+    "name": "Igcabugao",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603021000",
+      "code": "0603021000",
+      "name": "Igbaras"
+    }
+  },
+  {
+    "id": "0603021019",
+    "code": "0603021019",
+    "name": "Igpigus",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603021000",
+      "code": "0603021000",
+      "name": "Igbaras"
+    }
+  },
+  {
+    "id": "0603021020",
+    "code": "0603021020",
+    "name": "Igtalongon",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603021000",
+      "code": "0603021000",
+      "name": "Igbaras"
+    }
+  },
+  {
+    "id": "0603021021",
+    "code": "0603021021",
+    "name": "Indaluyon",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603021000",
+      "code": "0603021000",
+      "name": "Igbaras"
+    }
+  },
+  {
+    "id": "0603021022",
+    "code": "0603021022",
+    "name": "Jovellar",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603021000",
+      "code": "0603021000",
+      "name": "Igbaras"
+    }
+  },
+  {
+    "id": "0603021023",
+    "code": "0603021023",
+    "name": "Kinagdan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603021000",
+      "code": "0603021000",
+      "name": "Igbaras"
+    }
+  },
+  {
+    "id": "0603021024",
+    "code": "0603021024",
+    "name": "Lab-on",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603021000",
+      "code": "0603021000",
+      "name": "Igbaras"
+    }
+  },
+  {
+    "id": "0603021025",
+    "code": "0603021025",
+    "name": "Lacay Dol-Dol",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603021000",
+      "code": "0603021000",
+      "name": "Igbaras"
+    }
+  },
+  {
+    "id": "0603021026",
+    "code": "0603021026",
+    "name": "Lumangan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603021000",
+      "code": "0603021000",
+      "name": "Igbaras"
+    }
+  },
+  {
+    "id": "0603021027",
+    "code": "0603021027",
+    "name": "Lutungan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603021000",
+      "code": "0603021000",
+      "name": "Igbaras"
+    }
+  },
+  {
+    "id": "0603021028",
+    "code": "0603021028",
+    "name": "Mantangon",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603021000",
+      "code": "0603021000",
+      "name": "Igbaras"
+    }
+  },
+  {
+    "id": "0603021029",
+    "code": "0603021029",
+    "name": "Mulangan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603021000",
+      "code": "0603021000",
+      "name": "Igbaras"
+    }
+  },
+  {
+    "id": "0603021030",
+    "code": "0603021030",
+    "name": "Pasong",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603021000",
+      "code": "0603021000",
+      "name": "Igbaras"
+    }
+  },
+  {
+    "id": "0603021031",
+    "code": "0603021031",
+    "name": "Passi",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603021000",
+      "code": "0603021000",
+      "name": "Igbaras"
+    }
+  },
+  {
+    "id": "0603021032",
+    "code": "0603021032",
+    "name": "Pinaopawan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603021000",
+      "code": "0603021000",
+      "name": "Igbaras"
+    }
+  },
+  {
+    "id": "0603021039",
+    "code": "0603021039",
+    "name": "Riro-an",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603021000",
+      "code": "0603021000",
+      "name": "Igbaras"
+    }
+  },
+  {
+    "id": "0603021040",
+    "code": "0603021040",
+    "name": "San Ambrosio",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603021000",
+      "code": "0603021000",
+      "name": "Igbaras"
+    }
+  },
+  {
+    "id": "0603021041",
+    "code": "0603021041",
+    "name": "Santa Barbara",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603021000",
+      "code": "0603021000",
+      "name": "Igbaras"
+    }
+  },
+  {
+    "id": "0603021042",
+    "code": "0603021042",
+    "name": "Signe",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603021000",
+      "code": "0603021000",
+      "name": "Igbaras"
+    }
+  },
+  {
+    "id": "0603021043",
+    "code": "0603021043",
+    "name": "Tabiac",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603021000",
+      "code": "0603021000",
+      "name": "Igbaras"
+    }
+  },
+  {
+    "id": "0603021044",
+    "code": "0603021044",
+    "name": "Talayatay",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603021000",
+      "code": "0603021000",
+      "name": "Igbaras"
+    }
+  },
+  {
+    "id": "0603021045",
+    "code": "0603021045",
+    "name": "Taytay",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603021000",
+      "code": "0603021000",
+      "name": "Igbaras"
+    }
+  },
+  {
+    "id": "0603021046",
+    "code": "0603021046",
+    "name": "Tigbanaba",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603021000",
+      "code": "0603021000",
+      "name": "Igbaras"
+    }
+  }
+]

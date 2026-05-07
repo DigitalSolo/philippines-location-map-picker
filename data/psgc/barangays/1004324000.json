@@ -1,0 +1,212 @@
+[
+  {
+    "id": "1004324001",
+    "code": "1004324001",
+    "name": "Baluarte",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004324000",
+      "code": "1004324000",
+      "name": "Tagoloan"
+    }
+  },
+  {
+    "id": "1004324002",
+    "code": "1004324002",
+    "name": "Casinglot",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004324000",
+      "code": "1004324000",
+      "name": "Tagoloan"
+    }
+  },
+  {
+    "id": "1004324003",
+    "code": "1004324003",
+    "name": "Gracia",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004324000",
+      "code": "1004324000",
+      "name": "Tagoloan"
+    }
+  },
+  {
+    "id": "1004324004",
+    "code": "1004324004",
+    "name": "Mohon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004324000",
+      "code": "1004324000",
+      "name": "Tagoloan"
+    }
+  },
+  {
+    "id": "1004324005",
+    "code": "1004324005",
+    "name": "Natumolan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004324000",
+      "code": "1004324000",
+      "name": "Tagoloan"
+    }
+  },
+  {
+    "id": "1004324006",
+    "code": "1004324006",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004324000",
+      "code": "1004324000",
+      "name": "Tagoloan"
+    }
+  },
+  {
+    "id": "1004324007",
+    "code": "1004324007",
+    "name": "Rosario",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004324000",
+      "code": "1004324000",
+      "name": "Tagoloan"
+    }
+  },
+  {
+    "id": "1004324008",
+    "code": "1004324008",
+    "name": "Santa Ana",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004324000",
+      "code": "1004324000",
+      "name": "Tagoloan"
+    }
+  },
+  {
+    "id": "1004324009",
+    "code": "1004324009",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004324000",
+      "code": "1004324000",
+      "name": "Tagoloan"
+    }
+  },
+  {
+    "id": "1004324010",
+    "code": "1004324010",
+    "name": "Sugbongcogon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004324000",
+      "code": "1004324000",
+      "name": "Tagoloan"
+    }
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "0200901005",
+    "code": "0200901005",
+    "name": "Chanarian",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0200900000",
+      "code": "0200900000",
+      "name": "Batanes"
+    },
+    "city_municipality": {
+      "id": "0200901000",
+      "code": "0200901000",
+      "name": "Basco"
+    }
+  },
+  {
+    "id": "0200901002",
+    "code": "0200901002",
+    "name": "Ihubok I",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0200900000",
+      "code": "0200900000",
+      "name": "Batanes"
+    },
+    "city_municipality": {
+      "id": "0200901000",
+      "code": "0200901000",
+      "name": "Basco"
+    }
+  },
+  {
+    "id": "0200901001",
+    "code": "0200901001",
+    "name": "Ihubok II",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0200900000",
+      "code": "0200900000",
+      "name": "Batanes"
+    },
+    "city_municipality": {
+      "id": "0200901000",
+      "code": "0200901000",
+      "name": "Basco"
+    }
+  },
+  {
+    "id": "0200901006",
+    "code": "0200901006",
+    "name": "Kayhuvokan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0200900000",
+      "code": "0200900000",
+      "name": "Batanes"
+    },
+    "city_municipality": {
+      "id": "0200901000",
+      "code": "0200901000",
+      "name": "Basco"
+    }
+  },
+  {
+    "id": "0200901003",
+    "code": "0200901003",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0200900000",
+      "code": "0200900000",
+      "name": "Batanes"
+    },
+    "city_municipality": {
+      "id": "0200901000",
+      "code": "0200901000",
+      "name": "Basco"
+    }
+  },
+  {
+    "id": "0200901004",
+    "code": "0200901004",
+    "name": "San Joaquin",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0200900000",
+      "code": "0200900000",
+      "name": "Batanes"
+    },
+    "city_municipality": {
+      "id": "0200901000",
+      "code": "0200901000",
+      "name": "Basco"
+    }
+  }
+]

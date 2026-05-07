@@ -1,0 +1,863 @@
+[
+  {
+    "id": "0806004001",
+    "code": "0806004001",
+    "name": "Antol",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806004000",
+      "code": "0806004000",
+      "name": "Calbiga"
+    }
+  },
+  {
+    "id": "0806004002",
+    "code": "0806004002",
+    "name": "Bacyaran",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806004000",
+      "code": "0806004000",
+      "name": "Calbiga"
+    }
+  },
+  {
+    "id": "0806004028",
+    "code": "0806004028",
+    "name": "Barangay 1",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806004000",
+      "code": "0806004000",
+      "name": "Calbiga"
+    }
+  },
+  {
+    "id": "0806004029",
+    "code": "0806004029",
+    "name": "Barangay 2",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806004000",
+      "code": "0806004000",
+      "name": "Calbiga"
+    }
+  },
+  {
+    "id": "0806004030",
+    "code": "0806004030",
+    "name": "Barangay 3",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806004000",
+      "code": "0806004000",
+      "name": "Calbiga"
+    }
+  },
+  {
+    "id": "0806004031",
+    "code": "0806004031",
+    "name": "Barangay 4",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806004000",
+      "code": "0806004000",
+      "name": "Calbiga"
+    }
+  },
+  {
+    "id": "0806004032",
+    "code": "0806004032",
+    "name": "Barangay 5",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806004000",
+      "code": "0806004000",
+      "name": "Calbiga"
+    }
+  },
+  {
+    "id": "0806004033",
+    "code": "0806004033",
+    "name": "Barangay 6",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806004000",
+      "code": "0806004000",
+      "name": "Calbiga"
+    }
+  },
+  {
+    "id": "0806004034",
+    "code": "0806004034",
+    "name": "Barangay 7",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806004000",
+      "code": "0806004000",
+      "name": "Calbiga"
+    }
+  },
+  {
+    "id": "0806004004",
+    "code": "0806004004",
+    "name": "Barobaybay",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806004000",
+      "code": "0806004000",
+      "name": "Calbiga"
+    }
+  },
+  {
+    "id": "0806004003",
+    "code": "0806004003",
+    "name": "Beri",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806004000",
+      "code": "0806004000",
+      "name": "Calbiga"
+    }
+  },
+  {
+    "id": "0806004005",
+    "code": "0806004005",
+    "name": "Binanggaran",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806004000",
+      "code": "0806004000",
+      "name": "Calbiga"
+    }
+  },
+  {
+    "id": "0806004006",
+    "code": "0806004006",
+    "name": "Borong",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806004000",
+      "code": "0806004000",
+      "name": "Calbiga"
+    }
+  },
+  {
+    "id": "0806004007",
+    "code": "0806004007",
+    "name": "Bulao",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806004000",
+      "code": "0806004000",
+      "name": "Calbiga"
+    }
+  },
+  {
+    "id": "0806004008",
+    "code": "0806004008",
+    "name": "Buluan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806004000",
+      "code": "0806004000",
+      "name": "Calbiga"
+    }
+  },
+  {
+    "id": "0806004009",
+    "code": "0806004009",
+    "name": "Caamlongan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806004000",
+      "code": "0806004000",
+      "name": "Calbiga"
+    }
+  },
+  {
+    "id": "0806004010",
+    "code": "0806004010",
+    "name": "Calayaan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806004000",
+      "code": "0806004000",
+      "name": "Calbiga"
+    }
+  },
+  {
+    "id": "0806004011",
+    "code": "0806004011",
+    "name": "Calingonan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806004000",
+      "code": "0806004000",
+      "name": "Calbiga"
+    }
+  },
+  {
+    "id": "0806004012",
+    "code": "0806004012",
+    "name": "Canbagtic",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806004000",
+      "code": "0806004000",
+      "name": "Calbiga"
+    }
+  },
+  {
+    "id": "0806004013",
+    "code": "0806004013",
+    "name": "Canticum",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806004000",
+      "code": "0806004000",
+      "name": "Calbiga"
+    }
+  },
+  {
+    "id": "0806004014",
+    "code": "0806004014",
+    "name": "Daligan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806004000",
+      "code": "0806004000",
+      "name": "Calbiga"
+    }
+  },
+  {
+    "id": "0806004015",
+    "code": "0806004015",
+    "name": "Guinbanga",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806004000",
+      "code": "0806004000",
+      "name": "Calbiga"
+    }
+  },
+  {
+    "id": "0806004042",
+    "code": "0806004042",
+    "name": "Hindang",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806004000",
+      "code": "0806004000",
+      "name": "Calbiga"
+    }
+  },
+  {
+    "id": "0806004016",
+    "code": "0806004016",
+    "name": "Hubasan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806004000",
+      "code": "0806004000",
+      "name": "Calbiga"
+    }
+  },
+  {
+    "id": "0806004017",
+    "code": "0806004017",
+    "name": "Literon",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806004000",
+      "code": "0806004000",
+      "name": "Calbiga"
+    }
+  },
+  {
+    "id": "0806004018",
+    "code": "0806004018",
+    "name": "Lubang",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806004000",
+      "code": "0806004000",
+      "name": "Calbiga"
+    }
+  },
+  {
+    "id": "0806004020",
+    "code": "0806004020",
+    "name": "Macaalan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806004000",
+      "code": "0806004000",
+      "name": "Calbiga"
+    }
+  },
+  {
+    "id": "0806004019",
+    "code": "0806004019",
+    "name": "Mahangcao",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806004000",
+      "code": "0806004000",
+      "name": "Calbiga"
+    }
+  },
+  {
+    "id": "0806004021",
+    "code": "0806004021",
+    "name": "Malabal",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806004000",
+      "code": "0806004000",
+      "name": "Calbiga"
+    }
+  },
+  {
+    "id": "0806004022",
+    "code": "0806004022",
+    "name": "Minata",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806004000",
+      "code": "0806004000",
+      "name": "Calbiga"
+    }
+  },
+  {
+    "id": "0806004024",
+    "code": "0806004024",
+    "name": "Otoc",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806004000",
+      "code": "0806004000",
+      "name": "Calbiga"
+    }
+  },
+  {
+    "id": "0806004025",
+    "code": "0806004025",
+    "name": "Panayuran",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806004000",
+      "code": "0806004000",
+      "name": "Calbiga"
+    }
+  },
+  {
+    "id": "0806004026",
+    "code": "0806004026",
+    "name": "Pasigay",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806004000",
+      "code": "0806004000",
+      "name": "Calbiga"
+    }
+  },
+  {
+    "id": "0806004027",
+    "code": "0806004027",
+    "name": "Patong",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806004000",
+      "code": "0806004000",
+      "name": "Calbiga"
+    }
+  },
+  {
+    "id": "0806004035",
+    "code": "0806004035",
+    "name": "Polangi",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806004000",
+      "code": "0806004000",
+      "name": "Calbiga"
+    }
+  },
+  {
+    "id": "0806004036",
+    "code": "0806004036",
+    "name": "Rawis",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806004000",
+      "code": "0806004000",
+      "name": "Calbiga"
+    }
+  },
+  {
+    "id": "0806004037",
+    "code": "0806004037",
+    "name": "San Ignacio",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806004000",
+      "code": "0806004000",
+      "name": "Calbiga"
+    }
+  },
+  {
+    "id": "0806004038",
+    "code": "0806004038",
+    "name": "San Mauricio",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806004000",
+      "code": "0806004000",
+      "name": "Calbiga"
+    }
+  },
+  {
+    "id": "0806004039",
+    "code": "0806004039",
+    "name": "Sinalangtan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806004000",
+      "code": "0806004000",
+      "name": "Calbiga"
+    }
+  },
+  {
+    "id": "0806004040",
+    "code": "0806004040",
+    "name": "Timbangan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806004000",
+      "code": "0806004000",
+      "name": "Calbiga"
+    }
+  },
+  {
+    "id": "0806004041",
+    "code": "0806004041",
+    "name": "Tinago",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806004000",
+      "code": "0806004000",
+      "name": "Calbiga"
+    }
+  }
+]

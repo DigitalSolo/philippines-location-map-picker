@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <link rel="icon" href="/favicon.ico">
+  <meta charset="utf-8">
+  <title>Philippines Location Map Picker Demo</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script type="module" src="./demo.js"></script>
+  <style>
+    body{background:#f6f8fb;color:#0f172a;font-family:Arial,Helvetica,sans-serif;margin:0}.page{margin:0 auto;max-width:1240px;padding:24px}.demo-grid{display:grid;gap:18px;grid-template-columns:minmax(0,1fr)}.card{background:#fff;border:1px solid #dbe4ef;border-radius:18px;box-shadow:0 16px 44px rgba(15,23,42,.08);padding:18px}.toolbar,.button-row{align-items:end;display:flex;flex-wrap:wrap;gap:12px;margin:18px 0}.button-row{align-items:center;margin:14px 0}.field{display:grid;gap:6px}.field label{font-size:.8rem;font-weight:800;text-transform:uppercase}.field select{border:1px solid #cbd5e1;border-radius:12px;font:inherit;padding:9px 12px}.demo-location-instance{--plmp-primary:#2563eb;--plmp-primary-hover:#1d4ed8;--plmp-map-height:420px}.demo-status{background:#e0f2fe;border:1px solid #7dd3fc;border-radius:14px;color:#075985;font-weight:700;margin:0;padding:10px 12px}.demo-status.is-warning{background:#fef3c7;border-color:#f59e0b;color:#92400e}.demo-status.is-error{background:#fee2e2;border-color:#f87171;color:#991b1b}.demo-status.is-success{background:#dcfce7;border-color:#86efac;color:#166534}.checklist{color:#475569;font-size:.92rem;line-height:1.45;margin:14px 0 0;padding-left:20px}.qa-strip{display:grid;gap:10px;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));margin:14px 0}.qa-card{background:#f8fafc;border:1px solid #dbe4ef;border-radius:14px;padding:10px 12px}.qa-card strong{display:block;font-size:.78rem;text-transform:uppercase}.qa-card span{color:#334155;font-weight:800}.hidden-form,.sample-settings{display:grid;gap:10px;margin-top:14px}.hidden-form input[type="text"]{border:1px solid #cbd5e1;border-radius:12px;font:inherit;padding:9px 12px}.hidden-form__grid{display:grid;gap:10px;grid-template-columns:repeat(auto-fit,minmax(170px,1fr))}.hidden-form__grid .field label{text-transform:none}.hidden-form__grid input[readonly]{background:#f8fafc;color:#334155}.sample-settings{border-top:1px solid #dbe4ef;padding-top:14px}.qa-runner{margin-bottom:18px}.qa-runner__header{align-items:flex-start;display:flex;flex-wrap:wrap;gap:12px;justify-content:space-between}.qa-runner__header h2{margin:0}.qa-runner__list{display:grid;gap:10px;margin-top:14px}.qa-runner__case{background:#f8fafc;border:1px solid #dbe4ef;border-radius:14px;display:grid;gap:8px;padding:12px}.qa-runner__case.is-pass{border-color:#86efac}.qa-runner__case.is-fail{border-color:#fca5a5}.qa-runner__case h3{font-size:1rem;margin:0}.qa-runner__case p{color:#475569;line-height:1.4;margin:0}.qa-runner__actions{align-items:center;display:flex;flex-wrap:wrap;gap:8px}.qa-runner__notes{border:1px solid #cbd5e1;border-radius:12px;font:inherit;min-height:64px;padding:9px 12px;width:100%;box-sizing:border-box}.qa-runner__notes-label{font-size:.78rem;font-weight:800;text-transform:uppercase;color:#334155}.qa-runner__badge{border-radius:999px;background:#e2e8f0;color:#334155;font-size:.78rem;font-weight:800;padding:3px 8px;text-transform:uppercase}.qa-runner__badge.is-pass{background:#dcfce7;color:#166534}.qa-runner__badge.is-fail{background:#fee2e2;color:#991b1b}.coverage-grid{display:grid;gap:10px;grid-template-columns:repeat(auto-fit,minmax(155px,1fr));margin-top:12px}.coverage-card{background:#f8fafc;border:1px solid #dbe4ef;border-radius:14px;padding:10px 12px}.coverage-card strong{display:block;font-size:.78rem;text-transform:uppercase}.coverage-card span{font-size:1.2rem;font-weight:900}.coverage-card small{color:#64748b;display:block;margin-top:3px}.sample-settings__header{align-items:center;display:flex;flex-wrap:wrap;gap:10px;justify-content:space-between}.sample-settings__header h3{margin:0}.sample-settings__copy-status{color:#64748b;font-size:.9rem;font-weight:700}.note{color:#64748b;font-size:.92rem;line-height:1.45}code{background:#e2e8f0;border-radius:6px;padding:1px 5px}pre{background:#0f172a;border-radius:14px;color:#dbeafe;font-size:.85rem;overflow:auto;padding:14px;white-space:pre-wrap}button.demo-button{background:#2563eb;border:0;border-radius:999px;color:#fff;cursor:pointer;font-weight:800;padding:10px 16px}button.demo-button--secondary{background:#e2e8f0;color:#0f172a}button.demo-button--danger{background:#b91c1c}button.demo-button:disabled{cursor:progress;opacity:.7}.demo-is-busy,.demo-is-busy *{cursor:progress!important}@media(max-width:860px){.demo-grid{grid-template-columns:1fr}.page{padding:14px}}
+  </style>
+</head>
+<body>
+  <main class="page">
+    <h1>Philippines Location Map Picker</h1>
+    <p>The default demo mode is static. It uses local PSGC hierarchy and local geometry from the package <code>data</code> folder, so the normal path does not depend on third-party runtime calls.</p>
+
+    <div class="toolbar">
+      <div class="field">
+        <label for="scenarioMode">Scenario</label>
+        <select id="scenarioMode">
+          <option value="custom">Custom</option>
+          <option value="basic-picker" selected>Basic picker</option>
+          <option value="centered-pin-picker">Centered pin picker</option>
+          <option value="free-pin-picker">Free pin picker</option>
+          <option value="static-hierarchy-static-geometry">Static hierarchy + static geometry</option>
+          <option value="live-hierarchy-live-geometry">Live hierarchy + live geometry</option>
+          <option value="browser-location-hint">Browser location hint</option>
+          <option value="dirty-touched-guard">Dirty/touched guard</option>
+          <option value="sample-settings-copy">Sample settings copy panel</option>
+          <option value="readonly-saved">Read-only saved address</option>
+          <option value="disabled-saved">Disabled saved address</option>
+          <option value="pin-required">Validation: pin required</option>
+          <option value="geoip-hint">GeoIP hint mock</option>
+          <option value="hidden-inputs">Hidden input form post</option>
+          <option value="dark-compact">Dark compact</option>
+          <option value="modal-tall">Modal tall map</option>
+          <option value="responsive">Responsive map</option>
+          <option value="reverse-no-geometry-match">Reverse-fill no geometry match</option>
+          <option value="missing-static-files">Missing static files failure</option>
+        </select>
+      </div>
+      <div class="field"><label for="providerMode">Provider mode</label><select id="providerMode"><option value="static">Static hierarchy + static geometry</option><option value="mixed">Live hierarchy + static geometry</option><option value="live">Live hierarchy + live geometry</option></select></div>
+      <div class="field"><label for="themeMode">Theme</label><select id="themeMode"><option value="light">Light</option><option value="dark">Dark</option><option value="auto">Auto</option></select></div>
+      <div class="field"><label for="sizeMode">Size</label><select id="sizeMode"><option value="compact">Compact</option><option value="comfortable" selected>Comfortable</option><option value="spacious">Spacious</option></select></div>
+      <div class="field"><label for="densityMode">Density</label><select id="densityMode"><option value="tight">Tight</option><option value="normal" selected>Normal</option><option value="relaxed">Relaxed</option></select></div>
+      <div class="field"><label for="displayMode">Display</label><select id="displayMode"><option value="embedded" selected>Embedded</option><option value="modal">Modal shell class</option></select></div>
+      <div class="field"><label for="pinMode">Pin mode</label><select id="pinMode"><option value="centered" selected>Centered pin</option><option value="free">Free pin</option></select></div>
+      <div class="field"><label for="mapSizeMode">Map size</label><select id="mapSizeMode"><option value="short">Short</option><option value="standard" selected>Standard</option><option value="tall">Tall</option><option value="wide">Wide max</option><option value="responsive">Responsive clamp</option></select></div>
+      <div class="field"><label for="debugMode">Debug panel</label><select id="debugMode"><option value="off" selected>Off</option><option value="on">On</option></select></div>
+      <p class="demo-status" id="demoStatus">Loading...</p>
+    </div>
+
+    <section class="card qa-runner" aria-labelledby="qaRunnerTitle">
+      <div class="qa-runner__header">
+        <div>
+          <h2 id="qaRunnerTitle">Final browser QA pass</h2>
+          <p class="note">Use this click-through matrix before shipping. Load each case, exercise the listed actions in the component, then mark Pass or Fail. Results are stored in this browser only and can be exported as JSON or Markdown.</p>
+        </div>
+        <div class="button-row">
+          <button class="demo-button demo-button--secondary" type="button" id="resetQaButton">Reset QA pass</button>
+          <button class="demo-button" type="button" id="exportQaButton">Copy QA JSON</button>
+          <button class="demo-button demo-button--secondary" type="button" id="exportQaMarkdownButton">Copy QA Markdown</button>
+          <span class="sample-settings__copy-status" id="qaRunnerStatus" aria-live="polite"></span>
+        </div>
+      </div>
+      <div class="coverage-grid" id="qaSummaryGrid" aria-label="QA pass summary"></div>
+      <div class="qa-runner__list" id="qaRunnerList"></div>
+    </section>
+
+    <section class="card" aria-labelledby="hardeningTitle">
+      <h2 id="hardeningTitle">Production hardening check</h2>
+      <p class="note" id="hardeningSummary">Loading production hardening report...</p>
+      <div class="coverage-grid" id="hardeningGrid"></div>
+      <p class="note">This check verifies no CDN asset dependency, local/static demo consumption, strict-CSP-friendly host guidance, modal/accessibility guardrails, and clear failure states. Live provider modes are still development/test-only.</p>
+    </section>
+
+    <section class="card" aria-labelledby="staticCoverageTitle">
+      <h2 id="staticCoverageTitle">Static data coverage check</h2>
+      <p class="note" id="coverageSummary">Loading static data reports...</p>
+      <div class="coverage-grid" id="coverageGrid"></div>
+      <p class="note">Pilot/demo validity is separate from production readiness. Production requires nationwide PSGC hierarchy coverage. Full reverse-fill requires nationwide barangay geometry; otherwise reverse-fill remains limited to cached geometry areas. Keep delivery-zone and business-rule checks in the host app.</p>
+    </section>
+
+    <div class="demo-grid">
+      <section class="card">
+        <h2>Reusable component</h2>
+        <div class="qa-strip" aria-label="QA state summary">
+          <div class="qa-card"><strong>Validation</strong><span id="qaValidation">Unknown</span></div>
+          <div class="qa-card"><strong>Dirty</strong><span id="qaDirty">Unknown</span></div>
+          <div class="qa-card"><strong>Touched</strong><span id="qaTouched">Unknown</span></div>
+          <div class="qa-card"><strong>Interaction</strong><span id="qaInteraction">Unknown</span></div>
+        </div>
+        <div id="component"></div>
+        <div class="button-row">
+          <button class="demo-button" type="button" id="reverseButton">Reverse-fill picker from pin</button>
+          <button class="demo-button" type="button" id="browserLocationButton">Use browser location</button>
+          <button class="demo-button" type="button" id="geoIpButton">Run mock GeoIP hint</button>
+          <button class="demo-button demo-button--secondary" type="button" id="validateButton">Validate</button>
+          <button class="demo-button demo-button--secondary" type="button" id="savedValueButton">Load saved value</button>
+          <button class="demo-button demo-button--secondary" type="button" id="resetDirtyButton">Reset dirty baseline</button>
+          <button class="demo-button demo-button--danger" type="button" id="clearButton">Clear</button>
+        </div>
+        <form class="hidden-form" id="demoForm" action="#" method="post">
+          <p class="note">This form proves the hidden input contract. Submit is intercepted in the demo, but the same hidden fields are what a host app would post.</p>
+          <input type="hidden" id="hiddenRegionId" name="region_id"><input type="hidden" id="hiddenRegionName" name="region_name"><input type="hidden" id="hiddenProvinceId" name="province_id"><input type="hidden" id="hiddenProvinceName" name="province_name"><input type="hidden" id="hiddenCityId" name="city_id"><input type="hidden" id="hiddenCityName" name="city_name"><input type="hidden" id="hiddenBarangayId" name="barangay_id"><input type="hidden" id="hiddenBarangayName" name="barangay_name"><input type="hidden" id="hiddenLabel" name="location_label"><input type="hidden" id="hiddenPinLat" name="pin_lat"><input type="hidden" id="hiddenPinLng" name="pin_lng"><input type="hidden" id="hiddenValueJson" name="location_picker_value_json"><input type="hidden" id="hiddenLocationJson" name="location_json"><input type="hidden" id="hiddenPinJson" name="pin_json"><input type="hidden" id="hiddenGeometryJson" name="geometry_json"><input type="hidden" id="hiddenIsValid" name="is_valid"><input type="hidden" id="hiddenValidationJson" name="validation_json"><input type="hidden" id="hiddenIsDirty" name="is_dirty"><input type="hidden" id="hiddenDirtyJson" name="dirty_json"><input type="hidden" id="hiddenTouchedJson" name="touched_json"><input type="hidden" id="hiddenStatusLevel" name="status_level"><input type="hidden" id="hiddenStatusCode" name="status_code"><input type="hidden" id="hiddenStatusMessage" name="status_message"><input type="hidden" id="hiddenStatusJson" name="status_json"><input type="hidden" id="hiddenLastErrorJson" name="last_error_json"><input type="hidden" id="hiddenDebugJson" name="debug_json">
+          <div class="hidden-form__grid" aria-label="Hidden input preview">
+            <div class="field"><label for="previewLabel">Posted label</label><input id="previewLabel" type="text" readonly></div>
+            <div class="field"><label for="previewBarangay">Posted barangay_id</label><input id="previewBarangay" type="text" readonly></div>
+            <div class="field"><label for="previewPin">Posted pin</label><input id="previewPin" type="text" readonly></div>
+            <div class="field"><label for="previewValidity">Posted validity</label><input id="previewValidity" type="text" readonly></div>
+          </div>
+          <button class="demo-button" type="submit" id="submitButton">Simulate form submit</button>
+        </form>
+        <ul class="checklist"><li>Static mode is the production-oriented path.</li><li><code>?mode=live</code> and <code>?mode=mixed</code> are development/testing paths only.</li><li>Zoom buttons should not place or move the pin.</li><li>Mouse-wheel zoom should stay centered under the pointer.</li><li>Reverse-fill returns only boundary/bounds matches unless a provider is explicitly configured for nearest-centroid testing.</li><li>Static mode uses package data from the package-relative <code>data</code> folder.</li><li>The demo exposes provider, theme, size, density, display, pin mode, debug, and map sizing options.</li><li>Use the scenario selector as a quick smoke-test matrix before checking individual controls.</li><li>Browser location requires HTTPS or localhost and browser permission.</li></ul>
+        <section class="sample-settings" aria-labelledby="sampleSettingsTitle">
+          <div class="sample-settings__header">
+            <h3 id="sampleSettingsTitle">Sample settings for this page</h3>
+            <div class="button-row">
+              <button class="demo-button demo-button--secondary" type="button" id="copySettingsButton">Copy settings</button>
+              <span class="sample-settings__copy-status" id="copySettingsStatus" aria-live="polite"></span>
+            </div>
+          </div>
+          <p class="note">This updates whenever you change the scenario, provider, theme, density, display, pin mode, map size, or debug setting. It is a host-page starter config; adjust mount nodes and hidden input selectors to match the host form.</p>
+          <pre id="sampleSettingsOutput">Loading settings sample...</pre>
+        </section>
+        <h3>Current state</h3><pre id="output">{}</pre>
+      </section>
+    </div>
+  </main>
+</body>
+</html>

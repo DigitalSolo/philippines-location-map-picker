@@ -1,0 +1,401 @@
+[
+  {
+    "id": "0203116001",
+    "code": "0203116001",
+    "name": "Bustamante",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203116000",
+      "code": "0203116000",
+      "name": "Luna"
+    }
+  },
+  {
+    "id": "0203116002",
+    "code": "0203116002",
+    "name": "Centro 1",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203116000",
+      "code": "0203116000",
+      "name": "Luna"
+    }
+  },
+  {
+    "id": "0203116003",
+    "code": "0203116003",
+    "name": "Centro 2",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203116000",
+      "code": "0203116000",
+      "name": "Luna"
+    }
+  },
+  {
+    "id": "0203116004",
+    "code": "0203116004",
+    "name": "Centro 3",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203116000",
+      "code": "0203116000",
+      "name": "Luna"
+    }
+  },
+  {
+    "id": "0203116005",
+    "code": "0203116005",
+    "name": "Concepcion",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203116000",
+      "code": "0203116000",
+      "name": "Luna"
+    }
+  },
+  {
+    "id": "0203116006",
+    "code": "0203116006",
+    "name": "Dadap",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203116000",
+      "code": "0203116000",
+      "name": "Luna"
+    }
+  },
+  {
+    "id": "0203116007",
+    "code": "0203116007",
+    "name": "Harana",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203116000",
+      "code": "0203116000",
+      "name": "Luna"
+    }
+  },
+  {
+    "id": "0203116008",
+    "code": "0203116008",
+    "name": "Lalog 1",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203116000",
+      "code": "0203116000",
+      "name": "Luna"
+    }
+  },
+  {
+    "id": "0203116009",
+    "code": "0203116009",
+    "name": "Lalog 2",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203116000",
+      "code": "0203116000",
+      "name": "Luna"
+    }
+  },
+  {
+    "id": "0203116010",
+    "code": "0203116010",
+    "name": "Luyao",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203116000",
+      "code": "0203116000",
+      "name": "Luna"
+    }
+  },
+  {
+    "id": "0203116011",
+    "code": "0203116011",
+    "name": "Macañao",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203116000",
+      "code": "0203116000",
+      "name": "Luna"
+    }
+  },
+  {
+    "id": "0203116012",
+    "code": "0203116012",
+    "name": "Macugay",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203116000",
+      "code": "0203116000",
+      "name": "Luna"
+    }
+  },
+  {
+    "id": "0203116013",
+    "code": "0203116013",
+    "name": "Mambabanga",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203116000",
+      "code": "0203116000",
+      "name": "Luna"
+    }
+  },
+  {
+    "id": "0203116014",
+    "code": "0203116014",
+    "name": "Pulay",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203116000",
+      "code": "0203116000",
+      "name": "Luna"
+    }
+  },
+  {
+    "id": "0203116015",
+    "code": "0203116015",
+    "name": "Puroc",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203116000",
+      "code": "0203116000",
+      "name": "Luna"
+    }
+  },
+  {
+    "id": "0203116016",
+    "code": "0203116016",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203116000",
+      "code": "0203116000",
+      "name": "Luna"
+    }
+  },
+  {
+    "id": "0203116017",
+    "code": "0203116017",
+    "name": "San Miguel",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203116000",
+      "code": "0203116000",
+      "name": "Luna"
+    }
+  },
+  {
+    "id": "0203116018",
+    "code": "0203116018",
+    "name": "Santo Domingo",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203116000",
+      "code": "0203116000",
+      "name": "Luna"
+    }
+  },
+  {
+    "id": "0203116019",
+    "code": "0203116019",
+    "name": "Union Kalinga",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203116000",
+      "code": "0203116000",
+      "name": "Luna"
+    }
+  }
+]

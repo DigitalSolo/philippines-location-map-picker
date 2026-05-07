@@ -1,0 +1,170 @@
+[
+  {
+    "id": "1003510001",
+    "code": "1003510001",
+    "name": "Busque",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003510000",
+      "code": "1003510000",
+      "name": "Linamon"
+    }
+  },
+  {
+    "id": "1003510002",
+    "code": "1003510002",
+    "name": "Larapan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003510000",
+      "code": "1003510000",
+      "name": "Linamon"
+    }
+  },
+  {
+    "id": "1003510003",
+    "code": "1003510003",
+    "name": "Magoong",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003510000",
+      "code": "1003510000",
+      "name": "Linamon"
+    }
+  },
+  {
+    "id": "1003510004",
+    "code": "1003510004",
+    "name": "Napo",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003510000",
+      "code": "1003510000",
+      "name": "Linamon"
+    }
+  },
+  {
+    "id": "1003510005",
+    "code": "1003510005",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003510000",
+      "code": "1003510000",
+      "name": "Linamon"
+    }
+  },
+  {
+    "id": "1003510006",
+    "code": "1003510006",
+    "name": "Purakan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003510000",
+      "code": "1003510000",
+      "name": "Linamon"
+    }
+  },
+  {
+    "id": "1003510007",
+    "code": "1003510007",
+    "name": "Robocon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003510000",
+      "code": "1003510000",
+      "name": "Linamon"
+    }
+  },
+  {
+    "id": "1003510008",
+    "code": "1003510008",
+    "name": "Samburon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003510000",
+      "code": "1003510000",
+      "name": "Linamon"
+    }
+  }
+]

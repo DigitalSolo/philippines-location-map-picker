@@ -1,0 +1,57 @@
+[
+  {
+    "id": "0200900000",
+    "code": "0200900000",
+    "name": "Batanes",
+    "type": "province",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    }
+  },
+  {
+    "id": "0201500000",
+    "code": "0201500000",
+    "name": "Cagayan",
+    "type": "province",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    }
+  },
+  {
+    "id": "0203100000",
+    "code": "0203100000",
+    "name": "Isabela",
+    "type": "province",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    }
+  },
+  {
+    "id": "0205000000",
+    "code": "0205000000",
+    "name": "Nueva Vizcaya",
+    "type": "province",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    }
+  },
+  {
+    "id": "0205700000",
+    "code": "0205700000",
+    "name": "Quirino",
+    "type": "province",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    }
+  }
+]

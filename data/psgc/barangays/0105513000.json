@@ -1,0 +1,695 @@
+[
+  {
+    "id": "0105513001",
+    "code": "0105513001",
+    "name": "Amancoro",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105513000",
+      "code": "0105513000",
+      "name": "Binmaley"
+    }
+  },
+  {
+    "id": "0105513002",
+    "code": "0105513002",
+    "name": "Balagan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105513000",
+      "code": "0105513000",
+      "name": "Binmaley"
+    }
+  },
+  {
+    "id": "0105513003",
+    "code": "0105513003",
+    "name": "Balogo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105513000",
+      "code": "0105513000",
+      "name": "Binmaley"
+    }
+  },
+  {
+    "id": "0105513004",
+    "code": "0105513004",
+    "name": "Basing",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105513000",
+      "code": "0105513000",
+      "name": "Binmaley"
+    }
+  },
+  {
+    "id": "0105513005",
+    "code": "0105513005",
+    "name": "Baybay Lopez",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105513000",
+      "code": "0105513000",
+      "name": "Binmaley"
+    }
+  },
+  {
+    "id": "0105513006",
+    "code": "0105513006",
+    "name": "Baybay Polong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105513000",
+      "code": "0105513000",
+      "name": "Binmaley"
+    }
+  },
+  {
+    "id": "0105513007",
+    "code": "0105513007",
+    "name": "Biec",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105513000",
+      "code": "0105513000",
+      "name": "Binmaley"
+    }
+  },
+  {
+    "id": "0105513008",
+    "code": "0105513008",
+    "name": "Buenlag",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105513000",
+      "code": "0105513000",
+      "name": "Binmaley"
+    }
+  },
+  {
+    "id": "0105513009",
+    "code": "0105513009",
+    "name": "Calit",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105513000",
+      "code": "0105513000",
+      "name": "Binmaley"
+    }
+  },
+  {
+    "id": "0105513034",
+    "code": "0105513034",
+    "name": "Caloocan Dupo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105513000",
+      "code": "0105513000",
+      "name": "Binmaley"
+    }
+  },
+  {
+    "id": "0105513010",
+    "code": "0105513010",
+    "name": "Caloocan Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105513000",
+      "code": "0105513000",
+      "name": "Binmaley"
+    }
+  },
+  {
+    "id": "0105513011",
+    "code": "0105513011",
+    "name": "Caloocan Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105513000",
+      "code": "0105513000",
+      "name": "Binmaley"
+    }
+  },
+  {
+    "id": "0105513012",
+    "code": "0105513012",
+    "name": "Camaley",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105513000",
+      "code": "0105513000",
+      "name": "Binmaley"
+    }
+  },
+  {
+    "id": "0105513013",
+    "code": "0105513013",
+    "name": "Canaoalan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105513000",
+      "code": "0105513000",
+      "name": "Binmaley"
+    }
+  },
+  {
+    "id": "0105513014",
+    "code": "0105513014",
+    "name": "Dulag",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105513000",
+      "code": "0105513000",
+      "name": "Binmaley"
+    }
+  },
+  {
+    "id": "0105513015",
+    "code": "0105513015",
+    "name": "Gayaman",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105513000",
+      "code": "0105513000",
+      "name": "Binmaley"
+    }
+  },
+  {
+    "id": "0105513016",
+    "code": "0105513016",
+    "name": "Linoc",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105513000",
+      "code": "0105513000",
+      "name": "Binmaley"
+    }
+  },
+  {
+    "id": "0105513017",
+    "code": "0105513017",
+    "name": "Lomboy",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105513000",
+      "code": "0105513000",
+      "name": "Binmaley"
+    }
+  },
+  {
+    "id": "0105513019",
+    "code": "0105513019",
+    "name": "Malindong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105513000",
+      "code": "0105513000",
+      "name": "Binmaley"
+    }
+  },
+  {
+    "id": "0105513020",
+    "code": "0105513020",
+    "name": "Manat",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105513000",
+      "code": "0105513000",
+      "name": "Binmaley"
+    }
+  },
+  {
+    "id": "0105513018",
+    "code": "0105513018",
+    "name": "Nagpalangan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105513000",
+      "code": "0105513000",
+      "name": "Binmaley"
+    }
+  },
+  {
+    "id": "0105513021",
+    "code": "0105513021",
+    "name": "Naguilayan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105513000",
+      "code": "0105513000",
+      "name": "Binmaley"
+    }
+  },
+  {
+    "id": "0105513022",
+    "code": "0105513022",
+    "name": "Pallas",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105513000",
+      "code": "0105513000",
+      "name": "Binmaley"
+    }
+  },
+  {
+    "id": "0105513023",
+    "code": "0105513023",
+    "name": "Papagueyan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105513000",
+      "code": "0105513000",
+      "name": "Binmaley"
+    }
+  },
+  {
+    "id": "0105513024",
+    "code": "0105513024",
+    "name": "Parayao",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105513000",
+      "code": "0105513000",
+      "name": "Binmaley"
+    }
+  },
+  {
+    "id": "0105513026",
+    "code": "0105513026",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105513000",
+      "code": "0105513000",
+      "name": "Binmaley"
+    }
+  },
+  {
+    "id": "0105513027",
+    "code": "0105513027",
+    "name": "Pototan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105513000",
+      "code": "0105513000",
+      "name": "Binmaley"
+    }
+  },
+  {
+    "id": "0105513028",
+    "code": "0105513028",
+    "name": "Sabangan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105513000",
+      "code": "0105513000",
+      "name": "Binmaley"
+    }
+  },
+  {
+    "id": "0105513029",
+    "code": "0105513029",
+    "name": "Salapingao",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105513000",
+      "code": "0105513000",
+      "name": "Binmaley"
+    }
+  },
+  {
+    "id": "0105513030",
+    "code": "0105513030",
+    "name": "San Isidro Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105513000",
+      "code": "0105513000",
+      "name": "Binmaley"
+    }
+  },
+  {
+    "id": "0105513031",
+    "code": "0105513031",
+    "name": "San Isidro Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105513000",
+      "code": "0105513000",
+      "name": "Binmaley"
+    }
+  },
+  {
+    "id": "0105513032",
+    "code": "0105513032",
+    "name": "Santa Rosa",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105513000",
+      "code": "0105513000",
+      "name": "Binmaley"
+    }
+  },
+  {
+    "id": "0105513033",
+    "code": "0105513033",
+    "name": "Tombor",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105513000",
+      "code": "0105513000",
+      "name": "Binmaley"
+    }
+  }
+]

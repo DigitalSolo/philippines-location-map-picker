@@ -1,0 +1,527 @@
+[
+  {
+    "id": "0501725001",
+    "code": "0501725001",
+    "name": "Ayugan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501725000",
+      "code": "0501725000",
+      "name": "Ocampo"
+    }
+  },
+  {
+    "id": "0501725002",
+    "code": "0501725002",
+    "name": "Cabariwan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501725000",
+      "code": "0501725000",
+      "name": "Ocampo"
+    }
+  },
+  {
+    "id": "0501725003",
+    "code": "0501725003",
+    "name": "Cagmanaba",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501725000",
+      "code": "0501725000",
+      "name": "Ocampo"
+    }
+  },
+  {
+    "id": "0501725004",
+    "code": "0501725004",
+    "name": "Del Rosario",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501725000",
+      "code": "0501725000",
+      "name": "Ocampo"
+    }
+  },
+  {
+    "id": "0501725005",
+    "code": "0501725005",
+    "name": "Gatbo",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501725000",
+      "code": "0501725000",
+      "name": "Ocampo"
+    }
+  },
+  {
+    "id": "0501725006",
+    "code": "0501725006",
+    "name": "Guinaban",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501725000",
+      "code": "0501725000",
+      "name": "Ocampo"
+    }
+  },
+  {
+    "id": "0501725007",
+    "code": "0501725007",
+    "name": "Hanawan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501725000",
+      "code": "0501725000",
+      "name": "Ocampo"
+    }
+  },
+  {
+    "id": "0501725008",
+    "code": "0501725008",
+    "name": "Hibago",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501725000",
+      "code": "0501725000",
+      "name": "Ocampo"
+    }
+  },
+  {
+    "id": "0501725009",
+    "code": "0501725009",
+    "name": "La Purisima Nuevo",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501725000",
+      "code": "0501725000",
+      "name": "Ocampo"
+    }
+  },
+  {
+    "id": "0501725010",
+    "code": "0501725010",
+    "name": "May-Ogob",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501725000",
+      "code": "0501725000",
+      "name": "Ocampo"
+    }
+  },
+  {
+    "id": "0501725011",
+    "code": "0501725011",
+    "name": "New Moriones",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501725000",
+      "code": "0501725000",
+      "name": "Ocampo"
+    }
+  },
+  {
+    "id": "0501725012",
+    "code": "0501725012",
+    "name": "Old Moriones",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501725000",
+      "code": "0501725000",
+      "name": "Ocampo"
+    }
+  },
+  {
+    "id": "0501725013",
+    "code": "0501725013",
+    "name": "Pinit",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501725000",
+      "code": "0501725000",
+      "name": "Ocampo"
+    }
+  },
+  {
+    "id": "0501725014",
+    "code": "0501725014",
+    "name": "Poblacion Central",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501725000",
+      "code": "0501725000",
+      "name": "Ocampo"
+    }
+  },
+  {
+    "id": "0501725015",
+    "code": "0501725015",
+    "name": "Poblacion East",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501725000",
+      "code": "0501725000",
+      "name": "Ocampo"
+    }
+  },
+  {
+    "id": "0501725016",
+    "code": "0501725016",
+    "name": "Poblacion West",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501725000",
+      "code": "0501725000",
+      "name": "Ocampo"
+    }
+  },
+  {
+    "id": "0501725017",
+    "code": "0501725017",
+    "name": "Salvacion",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501725000",
+      "code": "0501725000",
+      "name": "Ocampo"
+    }
+  },
+  {
+    "id": "0501725018",
+    "code": "0501725018",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501725000",
+      "code": "0501725000",
+      "name": "Ocampo"
+    }
+  },
+  {
+    "id": "0501725019",
+    "code": "0501725019",
+    "name": "San Francisco",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501725000",
+      "code": "0501725000",
+      "name": "Ocampo"
+    }
+  },
+  {
+    "id": "0501725020",
+    "code": "0501725020",
+    "name": "San Jose Oras",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501725000",
+      "code": "0501725000",
+      "name": "Ocampo"
+    }
+  },
+  {
+    "id": "0501725022",
+    "code": "0501725022",
+    "name": "San Roque Commonal",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501725000",
+      "code": "0501725000",
+      "name": "Ocampo"
+    }
+  },
+  {
+    "id": "0501725023",
+    "code": "0501725023",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501725000",
+      "code": "0501725000",
+      "name": "Ocampo"
+    }
+  },
+  {
+    "id": "0501725024",
+    "code": "0501725024",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501725000",
+      "code": "0501725000",
+      "name": "Ocampo"
+    }
+  },
+  {
+    "id": "0501725025",
+    "code": "0501725025",
+    "name": "Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501725000",
+      "code": "0501725000",
+      "name": "Ocampo"
+    }
+  },
+  {
+    "id": "0501725026",
+    "code": "0501725026",
+    "name": "Villaflorida",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501725000",
+      "code": "0501725000",
+      "name": "Ocampo"
+    }
+  }
+]

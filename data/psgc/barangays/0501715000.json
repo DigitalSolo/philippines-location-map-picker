@@ -1,0 +1,716 @@
+[
+  {
+    "id": "0501715001",
+    "code": "0501715001",
+    "name": "Abucayan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501715000",
+      "code": "0501715000",
+      "name": "Goa"
+    }
+  },
+  {
+    "id": "0501715002",
+    "code": "0501715002",
+    "name": "Bagumbayan Grande",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501715000",
+      "code": "0501715000",
+      "name": "Goa"
+    }
+  },
+  {
+    "id": "0501715003",
+    "code": "0501715003",
+    "name": "Bagumbayan Pequeño",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501715000",
+      "code": "0501715000",
+      "name": "Goa"
+    }
+  },
+  {
+    "id": "0501715004",
+    "code": "0501715004",
+    "name": "Balaynan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501715000",
+      "code": "0501715000",
+      "name": "Goa"
+    }
+  },
+  {
+    "id": "0501715005",
+    "code": "0501715005",
+    "name": "Belen",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501715000",
+      "code": "0501715000",
+      "name": "Goa"
+    }
+  },
+  {
+    "id": "0501715006",
+    "code": "0501715006",
+    "name": "Buyo",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501715000",
+      "code": "0501715000",
+      "name": "Goa"
+    }
+  },
+  {
+    "id": "0501715007",
+    "code": "0501715007",
+    "name": "Cagaycay",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501715000",
+      "code": "0501715000",
+      "name": "Goa"
+    }
+  },
+  {
+    "id": "0501715008",
+    "code": "0501715008",
+    "name": "Catagbacan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501715000",
+      "code": "0501715000",
+      "name": "Goa"
+    }
+  },
+  {
+    "id": "0501715009",
+    "code": "0501715009",
+    "name": "Digdigon",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501715000",
+      "code": "0501715000",
+      "name": "Goa"
+    }
+  },
+  {
+    "id": "0501715010",
+    "code": "0501715010",
+    "name": "Gimaga",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501715000",
+      "code": "0501715000",
+      "name": "Goa"
+    }
+  },
+  {
+    "id": "0501715011",
+    "code": "0501715011",
+    "name": "Halawig-Gogon",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501715000",
+      "code": "0501715000",
+      "name": "Goa"
+    }
+  },
+  {
+    "id": "0501715013",
+    "code": "0501715013",
+    "name": "Hiwacloy",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501715000",
+      "code": "0501715000",
+      "name": "Goa"
+    }
+  },
+  {
+    "id": "0501715014",
+    "code": "0501715014",
+    "name": "La Purisima",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501715000",
+      "code": "0501715000",
+      "name": "Goa"
+    }
+  },
+  {
+    "id": "0501715015",
+    "code": "0501715015",
+    "name": "Lamon",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501715000",
+      "code": "0501715000",
+      "name": "Goa"
+    }
+  },
+  {
+    "id": "0501715016",
+    "code": "0501715016",
+    "name": "Matacla",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501715000",
+      "code": "0501715000",
+      "name": "Goa"
+    }
+  },
+  {
+    "id": "0501715017",
+    "code": "0501715017",
+    "name": "Maymatan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501715000",
+      "code": "0501715000",
+      "name": "Goa"
+    }
+  },
+  {
+    "id": "0501715018",
+    "code": "0501715018",
+    "name": "Maysalay",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501715000",
+      "code": "0501715000",
+      "name": "Goa"
+    }
+  },
+  {
+    "id": "0501715019",
+    "code": "0501715019",
+    "name": "Napawon",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501715000",
+      "code": "0501715000",
+      "name": "Goa"
+    }
+  },
+  {
+    "id": "0501715020",
+    "code": "0501715020",
+    "name": "Panday",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501715000",
+      "code": "0501715000",
+      "name": "Goa"
+    }
+  },
+  {
+    "id": "0501715021",
+    "code": "0501715021",
+    "name": "Payatan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501715000",
+      "code": "0501715000",
+      "name": "Goa"
+    }
+  },
+  {
+    "id": "0501715022",
+    "code": "0501715022",
+    "name": "Pinaglabanan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501715000",
+      "code": "0501715000",
+      "name": "Goa"
+    }
+  },
+  {
+    "id": "0501715023",
+    "code": "0501715023",
+    "name": "Salog",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501715000",
+      "code": "0501715000",
+      "name": "Goa"
+    }
+  },
+  {
+    "id": "0501715024",
+    "code": "0501715024",
+    "name": "San Benito",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501715000",
+      "code": "0501715000",
+      "name": "Goa"
+    }
+  },
+  {
+    "id": "0501715026",
+    "code": "0501715026",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501715000",
+      "code": "0501715000",
+      "name": "Goa"
+    }
+  },
+  {
+    "id": "0501715025",
+    "code": "0501715025",
+    "name": "San Isidro West",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501715000",
+      "code": "0501715000",
+      "name": "Goa"
+    }
+  },
+  {
+    "id": "0501715027",
+    "code": "0501715027",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501715000",
+      "code": "0501715000",
+      "name": "Goa"
+    }
+  },
+  {
+    "id": "0501715028",
+    "code": "0501715028",
+    "name": "San Juan Bautista",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501715000",
+      "code": "0501715000",
+      "name": "Goa"
+    }
+  },
+  {
+    "id": "0501715029",
+    "code": "0501715029",
+    "name": "San Juan Evangelista",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501715000",
+      "code": "0501715000",
+      "name": "Goa"
+    }
+  },
+  {
+    "id": "0501715030",
+    "code": "0501715030",
+    "name": "San Pedro",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501715000",
+      "code": "0501715000",
+      "name": "Goa"
+    }
+  },
+  {
+    "id": "0501715031",
+    "code": "0501715031",
+    "name": "Scout Fuentebella",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501715000",
+      "code": "0501715000",
+      "name": "Goa"
+    }
+  },
+  {
+    "id": "0501715032",
+    "code": "0501715032",
+    "name": "Tabgon",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501715000",
+      "code": "0501715000",
+      "name": "Goa"
+    }
+  },
+  {
+    "id": "0501715033",
+    "code": "0501715033",
+    "name": "Tagongtong",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501715000",
+      "code": "0501715000",
+      "name": "Goa"
+    }
+  },
+  {
+    "id": "0501715034",
+    "code": "0501715034",
+    "name": "Tamban",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501715000",
+      "code": "0501715000",
+      "name": "Goa"
+    }
+  },
+  {
+    "id": "0501715035",
+    "code": "0501715035",
+    "name": "Taytay",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501715000",
+      "code": "0501715000",
+      "name": "Goa"
+    }
+  }
+]

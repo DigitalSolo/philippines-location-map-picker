@@ -1,0 +1,527 @@
+[
+  {
+    "id": "0501722001",
+    "code": "0501722001",
+    "name": "Antipolo",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501722000",
+      "code": "0501722000",
+      "name": "Minalabac"
+    }
+  },
+  {
+    "id": "0501722002",
+    "code": "0501722002",
+    "name": "Bagolatao",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501722000",
+      "code": "0501722000",
+      "name": "Minalabac"
+    }
+  },
+  {
+    "id": "0501722003",
+    "code": "0501722003",
+    "name": "Bagongbong",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501722000",
+      "code": "0501722000",
+      "name": "Minalabac"
+    }
+  },
+  {
+    "id": "0501722004",
+    "code": "0501722004",
+    "name": "Baliuag Nuevo",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501722000",
+      "code": "0501722000",
+      "name": "Minalabac"
+    }
+  },
+  {
+    "id": "0501722005",
+    "code": "0501722005",
+    "name": "Baliuag Viejo",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501722000",
+      "code": "0501722000",
+      "name": "Minalabac"
+    }
+  },
+  {
+    "id": "0501722006",
+    "code": "0501722006",
+    "name": "Catanusan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501722000",
+      "code": "0501722000",
+      "name": "Minalabac"
+    }
+  },
+  {
+    "id": "0501722007",
+    "code": "0501722007",
+    "name": "Del Carmen-Del Rosario",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501722000",
+      "code": "0501722000",
+      "name": "Minalabac"
+    }
+  },
+  {
+    "id": "0501722008",
+    "code": "0501722008",
+    "name": "Del Socorro",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501722000",
+      "code": "0501722000",
+      "name": "Minalabac"
+    }
+  },
+  {
+    "id": "0501722009",
+    "code": "0501722009",
+    "name": "Hamoraon",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501722000",
+      "code": "0501722000",
+      "name": "Minalabac"
+    }
+  },
+  {
+    "id": "0501722010",
+    "code": "0501722010",
+    "name": "Hobo",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501722000",
+      "code": "0501722000",
+      "name": "Minalabac"
+    }
+  },
+  {
+    "id": "0501722011",
+    "code": "0501722011",
+    "name": "Irayang Solong",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501722000",
+      "code": "0501722000",
+      "name": "Minalabac"
+    }
+  },
+  {
+    "id": "0501722012",
+    "code": "0501722012",
+    "name": "Magadap",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501722000",
+      "code": "0501722000",
+      "name": "Minalabac"
+    }
+  },
+  {
+    "id": "0501722013",
+    "code": "0501722013",
+    "name": "Malitbog",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501722000",
+      "code": "0501722000",
+      "name": "Minalabac"
+    }
+  },
+  {
+    "id": "0501722014",
+    "code": "0501722014",
+    "name": "Manapao",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501722000",
+      "code": "0501722000",
+      "name": "Minalabac"
+    }
+  },
+  {
+    "id": "0501722015",
+    "code": "0501722015",
+    "name": "Mataoroc",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501722000",
+      "code": "0501722000",
+      "name": "Minalabac"
+    }
+  },
+  {
+    "id": "0501722016",
+    "code": "0501722016",
+    "name": "Sagrada",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501722000",
+      "code": "0501722000",
+      "name": "Minalabac"
+    }
+  },
+  {
+    "id": "0501722017",
+    "code": "0501722017",
+    "name": "Salingogon",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501722000",
+      "code": "0501722000",
+      "name": "Minalabac"
+    }
+  },
+  {
+    "id": "0501722018",
+    "code": "0501722018",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501722000",
+      "code": "0501722000",
+      "name": "Minalabac"
+    }
+  },
+  {
+    "id": "0501722019",
+    "code": "0501722019",
+    "name": "San Felipe-Santiago",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501722000",
+      "code": "0501722000",
+      "name": "Minalabac"
+    }
+  },
+  {
+    "id": "0501722020",
+    "code": "0501722020",
+    "name": "San Francisco",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501722000",
+      "code": "0501722000",
+      "name": "Minalabac"
+    }
+  },
+  {
+    "id": "0501722021",
+    "code": "0501722021",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501722000",
+      "code": "0501722000",
+      "name": "Minalabac"
+    }
+  },
+  {
+    "id": "0501722022",
+    "code": "0501722022",
+    "name": "San Juan-San Lorenzo",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501722000",
+      "code": "0501722000",
+      "name": "Minalabac"
+    }
+  },
+  {
+    "id": "0501722023",
+    "code": "0501722023",
+    "name": "Taban",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501722000",
+      "code": "0501722000",
+      "name": "Minalabac"
+    }
+  },
+  {
+    "id": "0501722024",
+    "code": "0501722024",
+    "name": "Tariric",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501722000",
+      "code": "0501722000",
+      "name": "Minalabac"
+    }
+  },
+  {
+    "id": "0501722025",
+    "code": "0501722025",
+    "name": "Timbang",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501722000",
+      "code": "0501722000",
+      "name": "Minalabac"
+    }
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "id": "0105514001",
+    "code": "0105514001",
+    "name": "Arnedo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105514000",
+      "code": "0105514000",
+      "name": "Bolinao"
+    }
+  },
+  {
+    "id": "0105514002",
+    "code": "0105514002",
+    "name": "Balingasay",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105514000",
+      "code": "0105514000",
+      "name": "Bolinao"
+    }
+  },
+  {
+    "id": "0105514003",
+    "code": "0105514003",
+    "name": "Binabalian",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105514000",
+      "code": "0105514000",
+      "name": "Bolinao"
+    }
+  },
+  {
+    "id": "0105514004",
+    "code": "0105514004",
+    "name": "Cabuyao",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105514000",
+      "code": "0105514000",
+      "name": "Bolinao"
+    }
+  },
+  {
+    "id": "0105514005",
+    "code": "0105514005",
+    "name": "Catuday",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105514000",
+      "code": "0105514000",
+      "name": "Bolinao"
+    }
+  },
+  {
+    "id": "0105514006",
+    "code": "0105514006",
+    "name": "Catungi",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105514000",
+      "code": "0105514000",
+      "name": "Bolinao"
+    }
+  },
+  {
+    "id": "0105514007",
+    "code": "0105514007",
+    "name": "Concordia",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105514000",
+      "code": "0105514000",
+      "name": "Bolinao"
+    }
+  },
+  {
+    "id": "0105514008",
+    "code": "0105514008",
+    "name": "Culang",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105514000",
+      "code": "0105514000",
+      "name": "Bolinao"
+    }
+  },
+  {
+    "id": "0105514009",
+    "code": "0105514009",
+    "name": "Dewey",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105514000",
+      "code": "0105514000",
+      "name": "Bolinao"
+    }
+  },
+  {
+    "id": "0105514010",
+    "code": "0105514010",
+    "name": "Estanza",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105514000",
+      "code": "0105514000",
+      "name": "Bolinao"
+    }
+  },
+  {
+    "id": "0105514011",
+    "code": "0105514011",
+    "name": "Germinal",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105514000",
+      "code": "0105514000",
+      "name": "Bolinao"
+    }
+  },
+  {
+    "id": "0105514012",
+    "code": "0105514012",
+    "name": "Goyoden",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105514000",
+      "code": "0105514000",
+      "name": "Bolinao"
+    }
+  },
+  {
+    "id": "0105514013",
+    "code": "0105514013",
+    "name": "Ilogmalino",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105514000",
+      "code": "0105514000",
+      "name": "Bolinao"
+    }
+  },
+  {
+    "id": "0105514014",
+    "code": "0105514014",
+    "name": "Lambes",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105514000",
+      "code": "0105514000",
+      "name": "Bolinao"
+    }
+  },
+  {
+    "id": "0105514015",
+    "code": "0105514015",
+    "name": "Liwa-liwa",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105514000",
+      "code": "0105514000",
+      "name": "Bolinao"
+    }
+  },
+  {
+    "id": "0105514016",
+    "code": "0105514016",
+    "name": "Lucero",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105514000",
+      "code": "0105514000",
+      "name": "Bolinao"
+    }
+  },
+  {
+    "id": "0105514017",
+    "code": "0105514017",
+    "name": "Luciente 1.0",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105514000",
+      "code": "0105514000",
+      "name": "Bolinao"
+    }
+  },
+  {
+    "id": "0105514018",
+    "code": "0105514018",
+    "name": "Luciente 2.0",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105514000",
+      "code": "0105514000",
+      "name": "Bolinao"
+    }
+  },
+  {
+    "id": "0105514019",
+    "code": "0105514019",
+    "name": "Luna",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105514000",
+      "code": "0105514000",
+      "name": "Bolinao"
+    }
+  },
+  {
+    "id": "0105514020",
+    "code": "0105514020",
+    "name": "Patar",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105514000",
+      "code": "0105514000",
+      "name": "Bolinao"
+    }
+  },
+  {
+    "id": "0105514021",
+    "code": "0105514021",
+    "name": "Pilar",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105514000",
+      "code": "0105514000",
+      "name": "Bolinao"
+    }
+  },
+  {
+    "id": "0105514023",
+    "code": "0105514023",
+    "name": "Salud",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105514000",
+      "code": "0105514000",
+      "name": "Bolinao"
+    }
+  },
+  {
+    "id": "0105514024",
+    "code": "0105514024",
+    "name": "Samang Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105514000",
+      "code": "0105514000",
+      "name": "Bolinao"
+    }
+  },
+  {
+    "id": "0105514025",
+    "code": "0105514025",
+    "name": "Samang Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105514000",
+      "code": "0105514000",
+      "name": "Bolinao"
+    }
+  },
+  {
+    "id": "0105514026",
+    "code": "0105514026",
+    "name": "Sampaloc",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105514000",
+      "code": "0105514000",
+      "name": "Bolinao"
+    }
+  },
+  {
+    "id": "0105514027",
+    "code": "0105514027",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105514000",
+      "code": "0105514000",
+      "name": "Bolinao"
+    }
+  },
+  {
+    "id": "0105514028",
+    "code": "0105514028",
+    "name": "Tara",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105514000",
+      "code": "0105514000",
+      "name": "Bolinao"
+    }
+  },
+  {
+    "id": "0105514029",
+    "code": "0105514029",
+    "name": "Tupa",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105514000",
+      "code": "0105514000",
+      "name": "Bolinao"
+    }
+  },
+  {
+    "id": "0105514030",
+    "code": "0105514030",
+    "name": "Victory",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105514000",
+      "code": "0105514000",
+      "name": "Bolinao"
+    }
+  },
+  {
+    "id": "0105514031",
+    "code": "0105514031",
+    "name": "Zaragoza",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105514000",
+      "code": "0105514000",
+      "name": "Bolinao"
+    }
+  }
+]

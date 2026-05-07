@@ -1,0 +1,485 @@
+[
+  {
+    "id": "1705210001",
+    "code": "1705210001",
+    "name": "Bacawan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705210000",
+      "code": "1705210000",
+      "name": "Pola"
+    }
+  },
+  {
+    "id": "1705210002",
+    "code": "1705210002",
+    "name": "Bacungan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705210000",
+      "code": "1705210000",
+      "name": "Pola"
+    }
+  },
+  {
+    "id": "1705210004",
+    "code": "1705210004",
+    "name": "Batuhan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705210000",
+      "code": "1705210000",
+      "name": "Pola"
+    }
+  },
+  {
+    "id": "1705210005",
+    "code": "1705210005",
+    "name": "Bayanan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705210000",
+      "code": "1705210000",
+      "name": "Pola"
+    }
+  },
+  {
+    "id": "1705210006",
+    "code": "1705210006",
+    "name": "Biga",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705210000",
+      "code": "1705210000",
+      "name": "Pola"
+    }
+  },
+  {
+    "id": "1705210007",
+    "code": "1705210007",
+    "name": "Buhay Na Tubig",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705210000",
+      "code": "1705210000",
+      "name": "Pola"
+    }
+  },
+  {
+    "id": "1705210009",
+    "code": "1705210009",
+    "name": "Calima",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705210000",
+      "code": "1705210000",
+      "name": "Pola"
+    }
+  },
+  {
+    "id": "1705210008",
+    "code": "1705210008",
+    "name": "Calubasanhon",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705210000",
+      "code": "1705210000",
+      "name": "Pola"
+    }
+  },
+  {
+    "id": "1705210024",
+    "code": "1705210024",
+    "name": "Campamento",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705210000",
+      "code": "1705210000",
+      "name": "Pola"
+    }
+  },
+  {
+    "id": "1705210010",
+    "code": "1705210010",
+    "name": "Casiligan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705210000",
+      "code": "1705210000",
+      "name": "Pola"
+    }
+  },
+  {
+    "id": "1705210011",
+    "code": "1705210011",
+    "name": "Malibago",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705210000",
+      "code": "1705210000",
+      "name": "Pola"
+    }
+  },
+  {
+    "id": "1705210012",
+    "code": "1705210012",
+    "name": "Maluanluan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705210000",
+      "code": "1705210000",
+      "name": "Pola"
+    }
+  },
+  {
+    "id": "1705210013",
+    "code": "1705210013",
+    "name": "Matulatula",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705210000",
+      "code": "1705210000",
+      "name": "Pola"
+    }
+  },
+  {
+    "id": "1705210025",
+    "code": "1705210025",
+    "name": "Misong",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705210000",
+      "code": "1705210000",
+      "name": "Pola"
+    }
+  },
+  {
+    "id": "1705210014",
+    "code": "1705210014",
+    "name": "Pahilahan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705210000",
+      "code": "1705210000",
+      "name": "Pola"
+    }
+  },
+  {
+    "id": "1705210015",
+    "code": "1705210015",
+    "name": "Panikihan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705210000",
+      "code": "1705210000",
+      "name": "Pola"
+    }
+  },
+  {
+    "id": "1705210019",
+    "code": "1705210019",
+    "name": "Pula",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705210000",
+      "code": "1705210000",
+      "name": "Pola"
+    }
+  },
+  {
+    "id": "1705210020",
+    "code": "1705210020",
+    "name": "Puting Cacao",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705210000",
+      "code": "1705210000",
+      "name": "Pola"
+    }
+  },
+  {
+    "id": "1705210021",
+    "code": "1705210021",
+    "name": "Tagbakin",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705210000",
+      "code": "1705210000",
+      "name": "Pola"
+    }
+  },
+  {
+    "id": "1705210022",
+    "code": "1705210022",
+    "name": "Tagumpay",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705210000",
+      "code": "1705210000",
+      "name": "Pola"
+    }
+  },
+  {
+    "id": "1705210023",
+    "code": "1705210023",
+    "name": "Tiguihan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705210000",
+      "code": "1705210000",
+      "name": "Pola"
+    }
+  },
+  {
+    "id": "1705210017",
+    "code": "1705210017",
+    "name": "Zone I",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705210000",
+      "code": "1705210000",
+      "name": "Pola"
+    }
+  },
+  {
+    "id": "1705210018",
+    "code": "1705210018",
+    "name": "Zone II",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705210000",
+      "code": "1705210000",
+      "name": "Pola"
+    }
+  }
+]

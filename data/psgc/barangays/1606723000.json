@@ -1,0 +1,296 @@
+[
+  {
+    "id": "1606723014",
+    "code": "1606723014",
+    "name": "Albino Taruc",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606723000",
+      "code": "1606723000",
+      "name": "Socorro"
+    }
+  },
+  {
+    "id": "1606723001",
+    "code": "1606723001",
+    "name": "Del Pilar",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606723000",
+      "code": "1606723000",
+      "name": "Socorro"
+    }
+  },
+  {
+    "id": "1606723002",
+    "code": "1606723002",
+    "name": "Helene",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606723000",
+      "code": "1606723000",
+      "name": "Socorro"
+    }
+  },
+  {
+    "id": "1606723003",
+    "code": "1606723003",
+    "name": "Honrado",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606723000",
+      "code": "1606723000",
+      "name": "Socorro"
+    }
+  },
+  {
+    "id": "1606723004",
+    "code": "1606723004",
+    "name": "Navarro",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606723000",
+      "code": "1606723000",
+      "name": "Socorro"
+    }
+  },
+  {
+    "id": "1606723005",
+    "code": "1606723005",
+    "name": "Nueva Estrella",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606723000",
+      "code": "1606723000",
+      "name": "Socorro"
+    }
+  },
+  {
+    "id": "1606723006",
+    "code": "1606723006",
+    "name": "Pamosaingan",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606723000",
+      "code": "1606723000",
+      "name": "Socorro"
+    }
+  },
+  {
+    "id": "1606723007",
+    "code": "1606723007",
+    "name": "Rizal",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606723000",
+      "code": "1606723000",
+      "name": "Socorro"
+    }
+  },
+  {
+    "id": "1606723008",
+    "code": "1606723008",
+    "name": "Salog",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606723000",
+      "code": "1606723000",
+      "name": "Socorro"
+    }
+  },
+  {
+    "id": "1606723009",
+    "code": "1606723009",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606723000",
+      "code": "1606723000",
+      "name": "Socorro"
+    }
+  },
+  {
+    "id": "1606723010",
+    "code": "1606723010",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606723000",
+      "code": "1606723000",
+      "name": "Socorro"
+    }
+  },
+  {
+    "id": "1606723011",
+    "code": "1606723011",
+    "name": "Sering",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606723000",
+      "code": "1606723000",
+      "name": "Socorro"
+    }
+  },
+  {
+    "id": "1606723012",
+    "code": "1606723012",
+    "name": "Songkoy",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606723000",
+      "code": "1606723000",
+      "name": "Socorro"
+    }
+  },
+  {
+    "id": "1606723013",
+    "code": "1606723013",
+    "name": "Sudlon",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606723000",
+      "code": "1606723000",
+      "name": "Socorro"
+    }
+  }
+]

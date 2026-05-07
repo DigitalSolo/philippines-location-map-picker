@@ -1,0 +1,114 @@
+[
+  {
+    "id": "1608501000",
+    "code": "1608501000",
+    "name": "Basilisa",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1608500000",
+      "code": "1608500000",
+      "name": "Dinagat Islands"
+    }
+  },
+  {
+    "id": "1608502000",
+    "code": "1608502000",
+    "name": "Cagdianao",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1608500000",
+      "code": "1608500000",
+      "name": "Dinagat Islands"
+    }
+  },
+  {
+    "id": "1608503000",
+    "code": "1608503000",
+    "name": "Dinagat",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1608500000",
+      "code": "1608500000",
+      "name": "Dinagat Islands"
+    }
+  },
+  {
+    "id": "1608504000",
+    "code": "1608504000",
+    "name": "Libjo",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1608500000",
+      "code": "1608500000",
+      "name": "Dinagat Islands"
+    }
+  },
+  {
+    "id": "1608505000",
+    "code": "1608505000",
+    "name": "Loreto",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1608500000",
+      "code": "1608500000",
+      "name": "Dinagat Islands"
+    }
+  },
+  {
+    "id": "1608506000",
+    "code": "1608506000",
+    "name": "San Jose",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1608500000",
+      "code": "1608500000",
+      "name": "Dinagat Islands"
+    }
+  },
+  {
+    "id": "1608507000",
+    "code": "1608507000",
+    "name": "Tubajon",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1608500000",
+      "code": "1608500000",
+      "name": "Dinagat Islands"
+    }
+  }
+]

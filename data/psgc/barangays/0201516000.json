@@ -1,0 +1,737 @@
+[
+  {
+    "id": "0201516001",
+    "code": "0201516001",
+    "name": "Abagao",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201516000",
+      "code": "0201516000",
+      "name": "Lal-Lo"
+    }
+  },
+  {
+    "id": "0201516002",
+    "code": "0201516002",
+    "name": "Alaguia",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201516000",
+      "code": "0201516000",
+      "name": "Lal-Lo"
+    }
+  },
+  {
+    "id": "0201516003",
+    "code": "0201516003",
+    "name": "Bagumbayan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201516000",
+      "code": "0201516000",
+      "name": "Lal-Lo"
+    }
+  },
+  {
+    "id": "0201516004",
+    "code": "0201516004",
+    "name": "Bangag",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201516000",
+      "code": "0201516000",
+      "name": "Lal-Lo"
+    }
+  },
+  {
+    "id": "0201516005",
+    "code": "0201516005",
+    "name": "Bical",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201516000",
+      "code": "0201516000",
+      "name": "Lal-Lo"
+    }
+  },
+  {
+    "id": "0201516006",
+    "code": "0201516006",
+    "name": "Bicud",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201516000",
+      "code": "0201516000",
+      "name": "Lal-Lo"
+    }
+  },
+  {
+    "id": "0201516007",
+    "code": "0201516007",
+    "name": "Binag",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201516000",
+      "code": "0201516000",
+      "name": "Lal-Lo"
+    }
+  },
+  {
+    "id": "0201516008",
+    "code": "0201516008",
+    "name": "Cabayabasan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201516000",
+      "code": "0201516000",
+      "name": "Lal-Lo"
+    }
+  },
+  {
+    "id": "0201516009",
+    "code": "0201516009",
+    "name": "Cagoran",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201516000",
+      "code": "0201516000",
+      "name": "Lal-Lo"
+    }
+  },
+  {
+    "id": "0201516010",
+    "code": "0201516010",
+    "name": "Cambong",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201516000",
+      "code": "0201516000",
+      "name": "Lal-Lo"
+    }
+  },
+  {
+    "id": "0201516011",
+    "code": "0201516011",
+    "name": "Catayauan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201516000",
+      "code": "0201516000",
+      "name": "Lal-Lo"
+    }
+  },
+  {
+    "id": "0201516012",
+    "code": "0201516012",
+    "name": "Catugan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201516000",
+      "code": "0201516000",
+      "name": "Lal-Lo"
+    }
+  },
+  {
+    "id": "0201516013",
+    "code": "0201516013",
+    "name": "Centro",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201516000",
+      "code": "0201516000",
+      "name": "Lal-Lo"
+    }
+  },
+  {
+    "id": "0201516014",
+    "code": "0201516014",
+    "name": "Cullit",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201516000",
+      "code": "0201516000",
+      "name": "Lal-Lo"
+    }
+  },
+  {
+    "id": "0201516015",
+    "code": "0201516015",
+    "name": "Dagupan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201516000",
+      "code": "0201516000",
+      "name": "Lal-Lo"
+    }
+  },
+  {
+    "id": "0201516016",
+    "code": "0201516016",
+    "name": "Dalaya",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201516000",
+      "code": "0201516000",
+      "name": "Lal-Lo"
+    }
+  },
+  {
+    "id": "0201516017",
+    "code": "0201516017",
+    "name": "Fabrica",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201516000",
+      "code": "0201516000",
+      "name": "Lal-Lo"
+    }
+  },
+  {
+    "id": "0201516018",
+    "code": "0201516018",
+    "name": "Fusina",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201516000",
+      "code": "0201516000",
+      "name": "Lal-Lo"
+    }
+  },
+  {
+    "id": "0201516019",
+    "code": "0201516019",
+    "name": "Jurisdiction",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201516000",
+      "code": "0201516000",
+      "name": "Lal-Lo"
+    }
+  },
+  {
+    "id": "0201516020",
+    "code": "0201516020",
+    "name": "Lalafugan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201516000",
+      "code": "0201516000",
+      "name": "Lal-Lo"
+    }
+  },
+  {
+    "id": "0201516021",
+    "code": "0201516021",
+    "name": "Logac",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201516000",
+      "code": "0201516000",
+      "name": "Lal-Lo"
+    }
+  },
+  {
+    "id": "0201516022",
+    "code": "0201516022",
+    "name": "Magallungon (Sta. Teresa)",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201516000",
+      "code": "0201516000",
+      "name": "Lal-Lo"
+    }
+  },
+  {
+    "id": "0201516023",
+    "code": "0201516023",
+    "name": "Magapit",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201516000",
+      "code": "0201516000",
+      "name": "Lal-Lo"
+    }
+  },
+  {
+    "id": "0201516024",
+    "code": "0201516024",
+    "name": "Malanao",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201516000",
+      "code": "0201516000",
+      "name": "Lal-Lo"
+    }
+  },
+  {
+    "id": "0201516025",
+    "code": "0201516025",
+    "name": "Maxingal",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201516000",
+      "code": "0201516000",
+      "name": "Lal-Lo"
+    }
+  },
+  {
+    "id": "0201516026",
+    "code": "0201516026",
+    "name": "Naguilian",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201516000",
+      "code": "0201516000",
+      "name": "Lal-Lo"
+    }
+  },
+  {
+    "id": "0201516027",
+    "code": "0201516027",
+    "name": "Paranum",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201516000",
+      "code": "0201516000",
+      "name": "Lal-Lo"
+    }
+  },
+  {
+    "id": "0201516028",
+    "code": "0201516028",
+    "name": "Rosario",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201516000",
+      "code": "0201516000",
+      "name": "Lal-Lo"
+    }
+  },
+  {
+    "id": "0201516029",
+    "code": "0201516029",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201516000",
+      "code": "0201516000",
+      "name": "Lal-Lo"
+    }
+  },
+  {
+    "id": "0201516030",
+    "code": "0201516030",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201516000",
+      "code": "0201516000",
+      "name": "Lal-Lo"
+    }
+  },
+  {
+    "id": "0201516031",
+    "code": "0201516031",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201516000",
+      "code": "0201516000",
+      "name": "Lal-Lo"
+    }
+  },
+  {
+    "id": "0201516032",
+    "code": "0201516032",
+    "name": "San Lorenzo",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201516000",
+      "code": "0201516000",
+      "name": "Lal-Lo"
+    }
+  },
+  {
+    "id": "0201516033",
+    "code": "0201516033",
+    "name": "San Mariano",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201516000",
+      "code": "0201516000",
+      "name": "Lal-Lo"
+    }
+  },
+  {
+    "id": "0201516034",
+    "code": "0201516034",
+    "name": "Sta. Maria",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201516000",
+      "code": "0201516000",
+      "name": "Lal-Lo"
+    }
+  },
+  {
+    "id": "0201516035",
+    "code": "0201516035",
+    "name": "Tucalana",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201516000",
+      "code": "0201516000",
+      "name": "Lal-Lo"
+    }
+  }
+]

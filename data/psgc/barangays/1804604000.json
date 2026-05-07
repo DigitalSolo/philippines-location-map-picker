@@ -1,0 +1,737 @@
+[
+  {
+    "id": "1804604001",
+    "code": "1804604001",
+    "name": "Barangay I",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804604000",
+      "code": "1804604000",
+      "name": "City of Bais"
+    }
+  },
+  {
+    "id": "1804604002",
+    "code": "1804604002",
+    "name": "Barangay II",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804604000",
+      "code": "1804604000",
+      "name": "City of Bais"
+    }
+  },
+  {
+    "id": "1804604003",
+    "code": "1804604003",
+    "name": "Basak",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804604000",
+      "code": "1804604000",
+      "name": "City of Bais"
+    }
+  },
+  {
+    "id": "1804604004",
+    "code": "1804604004",
+    "name": "Biñohon",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804604000",
+      "code": "1804604000",
+      "name": "City of Bais"
+    }
+  },
+  {
+    "id": "1804604005",
+    "code": "1804604005",
+    "name": "Cabanlutan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804604000",
+      "code": "1804604000",
+      "name": "City of Bais"
+    }
+  },
+  {
+    "id": "1804604006",
+    "code": "1804604006",
+    "name": "Calasga-an",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804604000",
+      "code": "1804604000",
+      "name": "City of Bais"
+    }
+  },
+  {
+    "id": "1804604007",
+    "code": "1804604007",
+    "name": "Cambagahan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804604000",
+      "code": "1804604000",
+      "name": "City of Bais"
+    }
+  },
+  {
+    "id": "1804604008",
+    "code": "1804604008",
+    "name": "Cambaguio",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804604000",
+      "code": "1804604000",
+      "name": "City of Bais"
+    }
+  },
+  {
+    "id": "1804604009",
+    "code": "1804604009",
+    "name": "Cambanjao",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804604000",
+      "code": "1804604000",
+      "name": "City of Bais"
+    }
+  },
+  {
+    "id": "1804604010",
+    "code": "1804604010",
+    "name": "Cambuilao",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804604000",
+      "code": "1804604000",
+      "name": "City of Bais"
+    }
+  },
+  {
+    "id": "1804604011",
+    "code": "1804604011",
+    "name": "Canlargo",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804604000",
+      "code": "1804604000",
+      "name": "City of Bais"
+    }
+  },
+  {
+    "id": "1804604012",
+    "code": "1804604012",
+    "name": "Capiñahan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804604000",
+      "code": "1804604000",
+      "name": "City of Bais"
+    }
+  },
+  {
+    "id": "1804604013",
+    "code": "1804604013",
+    "name": "Consolacion",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804604000",
+      "code": "1804604000",
+      "name": "City of Bais"
+    }
+  },
+  {
+    "id": "1804604014",
+    "code": "1804604014",
+    "name": "Dansulan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804604000",
+      "code": "1804604000",
+      "name": "City of Bais"
+    }
+  },
+  {
+    "id": "1804604015",
+    "code": "1804604015",
+    "name": "Hangyad",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804604000",
+      "code": "1804604000",
+      "name": "City of Bais"
+    }
+  },
+  {
+    "id": "1804604030",
+    "code": "1804604030",
+    "name": "Katacgahan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804604000",
+      "code": "1804604000",
+      "name": "City of Bais"
+    }
+  },
+  {
+    "id": "1804604017",
+    "code": "1804604017",
+    "name": "La Paz",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804604000",
+      "code": "1804604000",
+      "name": "City of Bais"
+    }
+  },
+  {
+    "id": "1804604018",
+    "code": "1804604018",
+    "name": "Lo-oc",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804604000",
+      "code": "1804604000",
+      "name": "City of Bais"
+    }
+  },
+  {
+    "id": "1804604019",
+    "code": "1804604019",
+    "name": "Lonoy",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804604000",
+      "code": "1804604000",
+      "name": "City of Bais"
+    }
+  },
+  {
+    "id": "1804604020",
+    "code": "1804604020",
+    "name": "Mabunao",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804604000",
+      "code": "1804604000",
+      "name": "City of Bais"
+    }
+  },
+  {
+    "id": "1804604021",
+    "code": "1804604021",
+    "name": "Manlipac",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804604000",
+      "code": "1804604000",
+      "name": "City of Bais"
+    }
+  },
+  {
+    "id": "1804604022",
+    "code": "1804604022",
+    "name": "Mansangaban",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804604000",
+      "code": "1804604000",
+      "name": "City of Bais"
+    }
+  },
+  {
+    "id": "1804604023",
+    "code": "1804604023",
+    "name": "Okiot",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804604000",
+      "code": "1804604000",
+      "name": "City of Bais"
+    }
+  },
+  {
+    "id": "1804604024",
+    "code": "1804604024",
+    "name": "Olympia",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804604000",
+      "code": "1804604000",
+      "name": "City of Bais"
+    }
+  },
+  {
+    "id": "1804604025",
+    "code": "1804604025",
+    "name": "Panala-an",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804604000",
+      "code": "1804604000",
+      "name": "City of Bais"
+    }
+  },
+  {
+    "id": "1804604026",
+    "code": "1804604026",
+    "name": "Panam-angan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804604000",
+      "code": "1804604000",
+      "name": "City of Bais"
+    }
+  },
+  {
+    "id": "1804604027",
+    "code": "1804604027",
+    "name": "Rosario",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804604000",
+      "code": "1804604000",
+      "name": "City of Bais"
+    }
+  },
+  {
+    "id": "1804604028",
+    "code": "1804604028",
+    "name": "Sab-ahan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804604000",
+      "code": "1804604000",
+      "name": "City of Bais"
+    }
+  },
+  {
+    "id": "1804604029",
+    "code": "1804604029",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804604000",
+      "code": "1804604000",
+      "name": "City of Bais"
+    }
+  },
+  {
+    "id": "1804604031",
+    "code": "1804604031",
+    "name": "Tagpo",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804604000",
+      "code": "1804604000",
+      "name": "City of Bais"
+    }
+  },
+  {
+    "id": "1804604032",
+    "code": "1804604032",
+    "name": "Talungon",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804604000",
+      "code": "1804604000",
+      "name": "City of Bais"
+    }
+  },
+  {
+    "id": "1804604033",
+    "code": "1804604033",
+    "name": "Tamisu",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804604000",
+      "code": "1804604000",
+      "name": "City of Bais"
+    }
+  },
+  {
+    "id": "1804604034",
+    "code": "1804604034",
+    "name": "Tamogong",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804604000",
+      "code": "1804604000",
+      "name": "City of Bais"
+    }
+  },
+  {
+    "id": "1804604035",
+    "code": "1804604035",
+    "name": "Tangculogan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804604000",
+      "code": "1804604000",
+      "name": "City of Bais"
+    }
+  },
+  {
+    "id": "1804604036",
+    "code": "1804604036",
+    "name": "Valencia",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804604000",
+      "code": "1804604000",
+      "name": "City of Bais"
+    }
+  }
+]

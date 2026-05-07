@@ -1,0 +1,149 @@
+[
+  {
+    "id": "1908802001",
+    "code": "1908802001",
+    "name": "Digal",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1908800000",
+      "code": "1908800000",
+      "name": "Maguindanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1908802000",
+      "code": "1908802000",
+      "name": "Buluan"
+    }
+  },
+  {
+    "id": "1908802002",
+    "code": "1908802002",
+    "name": "Lower Siling",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1908800000",
+      "code": "1908800000",
+      "name": "Maguindanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1908802000",
+      "code": "1908802000",
+      "name": "Buluan"
+    }
+  },
+  {
+    "id": "1908802003",
+    "code": "1908802003",
+    "name": "Maslabeng",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1908800000",
+      "code": "1908800000",
+      "name": "Maguindanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1908802000",
+      "code": "1908802000",
+      "name": "Buluan"
+    }
+  },
+  {
+    "id": "1908802004",
+    "code": "1908802004",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1908800000",
+      "code": "1908800000",
+      "name": "Maguindanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1908802000",
+      "code": "1908802000",
+      "name": "Buluan"
+    }
+  },
+  {
+    "id": "1908802005",
+    "code": "1908802005",
+    "name": "Popol",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1908800000",
+      "code": "1908800000",
+      "name": "Maguindanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1908802000",
+      "code": "1908802000",
+      "name": "Buluan"
+    }
+  },
+  {
+    "id": "1908802006",
+    "code": "1908802006",
+    "name": "Talitay",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1908800000",
+      "code": "1908800000",
+      "name": "Maguindanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1908802000",
+      "code": "1908802000",
+      "name": "Buluan"
+    }
+  },
+  {
+    "id": "1908802007",
+    "code": "1908802007",
+    "name": "Upper Siling",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1908800000",
+      "code": "1908800000",
+      "name": "Maguindanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1908802000",
+      "code": "1908802000",
+      "name": "Buluan"
+    }
+  }
+]

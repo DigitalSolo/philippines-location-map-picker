@@ -1,0 +1,548 @@
+[
+  {
+    "id": "0502006001",
+    "code": "0502006001",
+    "name": "Bagawang",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502006000",
+      "code": "0502006000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0502006002",
+    "code": "0502006002",
+    "name": "Balagñonan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502006000",
+      "code": "0502006000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0502006003",
+    "code": "0502006003",
+    "name": "Baldoc",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502006000",
+      "code": "0502006000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0502006004",
+    "code": "0502006004",
+    "name": "Canlubi",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502006000",
+      "code": "0502006000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0502006006",
+    "code": "0502006006",
+    "name": "Catamban",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502006000",
+      "code": "0502006000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0502006007",
+    "code": "0502006007",
+    "name": "Cobo",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502006000",
+      "code": "0502006000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0502006009",
+    "code": "0502006009",
+    "name": "Hiyop",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502006000",
+      "code": "0502006000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0502006010",
+    "code": "0502006010",
+    "name": "Libod",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502006000",
+      "code": "0502006000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0502006011",
+    "code": "0502006011",
+    "name": "Lourdes",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502006000",
+      "code": "0502006000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0502006012",
+    "code": "0502006012",
+    "name": "Lumabao",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502006000",
+      "code": "0502006000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0502006013",
+    "code": "0502006013",
+    "name": "Marambong",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502006000",
+      "code": "0502006000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0502006014",
+    "code": "0502006014",
+    "name": "Napo",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502006000",
+      "code": "0502006000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0502006015",
+    "code": "0502006015",
+    "name": "Oga",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502006000",
+      "code": "0502006000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0502006016",
+    "code": "0502006016",
+    "name": "Pandan Del Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502006000",
+      "code": "0502006000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0502006017",
+    "code": "0502006017",
+    "name": "Pandan Del Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502006000",
+      "code": "0502006000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0502006018",
+    "code": "0502006018",
+    "name": "Panuto",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502006000",
+      "code": "0502006000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0502006022",
+    "code": "0502006022",
+    "name": "Porot",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502006000",
+      "code": "0502006000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0502006019",
+    "code": "0502006019",
+    "name": "Salvacion",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502006000",
+      "code": "0502006000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0502006020",
+    "code": "0502006020",
+    "name": "San Andres",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502006000",
+      "code": "0502006000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0502006021",
+    "code": "0502006021",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502006000",
+      "code": "0502006000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0502006023",
+    "code": "0502006023",
+    "name": "San Rafael",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502006000",
+      "code": "0502006000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0502006024",
+    "code": "0502006024",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502006000",
+      "code": "0502006000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0502006005",
+    "code": "0502006005",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502006000",
+      "code": "0502006000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0502006025",
+    "code": "0502006025",
+    "name": "Tabugoc",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502006000",
+      "code": "0502006000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0502006026",
+    "code": "0502006026",
+    "name": "Tokio",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502006000",
+      "code": "0502006000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0502006027",
+    "code": "0502006027",
+    "name": "Wagdas",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502006000",
+      "code": "0502006000",
+      "name": "Pandan"
+    }
+  }
+]

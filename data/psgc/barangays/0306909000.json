@@ -1,0 +1,779 @@
+[
+  {
+    "id": "0306909001",
+    "code": "0306909001",
+    "name": "Ablang-Sapang",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306909000",
+      "code": "0306909000",
+      "name": "Moncada"
+    }
+  },
+  {
+    "id": "0306909002",
+    "code": "0306909002",
+    "name": "Aringin",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306909000",
+      "code": "0306909000",
+      "name": "Moncada"
+    }
+  },
+  {
+    "id": "0306909003",
+    "code": "0306909003",
+    "name": "Atencio",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306909000",
+      "code": "0306909000",
+      "name": "Moncada"
+    }
+  },
+  {
+    "id": "0306909004",
+    "code": "0306909004",
+    "name": "Banaoang East",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306909000",
+      "code": "0306909000",
+      "name": "Moncada"
+    }
+  },
+  {
+    "id": "0306909005",
+    "code": "0306909005",
+    "name": "Banaoang West",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306909000",
+      "code": "0306909000",
+      "name": "Moncada"
+    }
+  },
+  {
+    "id": "0306909006",
+    "code": "0306909006",
+    "name": "Baquero Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306909000",
+      "code": "0306909000",
+      "name": "Moncada"
+    }
+  },
+  {
+    "id": "0306909007",
+    "code": "0306909007",
+    "name": "Baquero Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306909000",
+      "code": "0306909000",
+      "name": "Moncada"
+    }
+  },
+  {
+    "id": "0306909008",
+    "code": "0306909008",
+    "name": "Burgos",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306909000",
+      "code": "0306909000",
+      "name": "Moncada"
+    }
+  },
+  {
+    "id": "0306909009",
+    "code": "0306909009",
+    "name": "Calamay",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306909000",
+      "code": "0306909000",
+      "name": "Moncada"
+    }
+  },
+  {
+    "id": "0306909010",
+    "code": "0306909010",
+    "name": "Calapan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306909000",
+      "code": "0306909000",
+      "name": "Moncada"
+    }
+  },
+  {
+    "id": "0306909011",
+    "code": "0306909011",
+    "name": "Camangaan East",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306909000",
+      "code": "0306909000",
+      "name": "Moncada"
+    }
+  },
+  {
+    "id": "0306909012",
+    "code": "0306909012",
+    "name": "Camangaan West",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306909000",
+      "code": "0306909000",
+      "name": "Moncada"
+    }
+  },
+  {
+    "id": "0306909013",
+    "code": "0306909013",
+    "name": "Camposanto 1 - Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306909000",
+      "code": "0306909000",
+      "name": "Moncada"
+    }
+  },
+  {
+    "id": "0306909014",
+    "code": "0306909014",
+    "name": "Camposanto 1 - Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306909000",
+      "code": "0306909000",
+      "name": "Moncada"
+    }
+  },
+  {
+    "id": "0306909015",
+    "code": "0306909015",
+    "name": "Camposanto 2",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306909000",
+      "code": "0306909000",
+      "name": "Moncada"
+    }
+  },
+  {
+    "id": "0306909016",
+    "code": "0306909016",
+    "name": "Capaoayan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306909000",
+      "code": "0306909000",
+      "name": "Moncada"
+    }
+  },
+  {
+    "id": "0306909017",
+    "code": "0306909017",
+    "name": "Lapsing",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306909000",
+      "code": "0306909000",
+      "name": "Moncada"
+    }
+  },
+  {
+    "id": "0306909018",
+    "code": "0306909018",
+    "name": "Mabini",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306909000",
+      "code": "0306909000",
+      "name": "Moncada"
+    }
+  },
+  {
+    "id": "0306909019",
+    "code": "0306909019",
+    "name": "Maluac",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306909000",
+      "code": "0306909000",
+      "name": "Moncada"
+    }
+  },
+  {
+    "id": "0306909020",
+    "code": "0306909020",
+    "name": "Poblacion 1",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306909000",
+      "code": "0306909000",
+      "name": "Moncada"
+    }
+  },
+  {
+    "id": "0306909021",
+    "code": "0306909021",
+    "name": "Poblacion 2",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306909000",
+      "code": "0306909000",
+      "name": "Moncada"
+    }
+  },
+  {
+    "id": "0306909022",
+    "code": "0306909022",
+    "name": "Poblacion 3",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306909000",
+      "code": "0306909000",
+      "name": "Moncada"
+    }
+  },
+  {
+    "id": "0306909023",
+    "code": "0306909023",
+    "name": "Poblacion 4",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306909000",
+      "code": "0306909000",
+      "name": "Moncada"
+    }
+  },
+  {
+    "id": "0306909024",
+    "code": "0306909024",
+    "name": "Rizal",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306909000",
+      "code": "0306909000",
+      "name": "Moncada"
+    }
+  },
+  {
+    "id": "0306909025",
+    "code": "0306909025",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306909000",
+      "code": "0306909000",
+      "name": "Moncada"
+    }
+  },
+  {
+    "id": "0306909026",
+    "code": "0306909026",
+    "name": "San Julian",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306909000",
+      "code": "0306909000",
+      "name": "Moncada"
+    }
+  },
+  {
+    "id": "0306909027",
+    "code": "0306909027",
+    "name": "San Leon",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306909000",
+      "code": "0306909000",
+      "name": "Moncada"
+    }
+  },
+  {
+    "id": "0306909028",
+    "code": "0306909028",
+    "name": "San Pedro",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306909000",
+      "code": "0306909000",
+      "name": "Moncada"
+    }
+  },
+  {
+    "id": "0306909029",
+    "code": "0306909029",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306909000",
+      "code": "0306909000",
+      "name": "Moncada"
+    }
+  },
+  {
+    "id": "0306909030",
+    "code": "0306909030",
+    "name": "Santa Lucia East",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306909000",
+      "code": "0306909000",
+      "name": "Moncada"
+    }
+  },
+  {
+    "id": "0306909031",
+    "code": "0306909031",
+    "name": "Santa Lucia West",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306909000",
+      "code": "0306909000",
+      "name": "Moncada"
+    }
+  },
+  {
+    "id": "0306909032",
+    "code": "0306909032",
+    "name": "Santa Maria",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306909000",
+      "code": "0306909000",
+      "name": "Moncada"
+    }
+  },
+  {
+    "id": "0306909033",
+    "code": "0306909033",
+    "name": "Santa Monica",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306909000",
+      "code": "0306909000",
+      "name": "Moncada"
+    }
+  },
+  {
+    "id": "0306909035",
+    "code": "0306909035",
+    "name": "Tolega Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306909000",
+      "code": "0306909000",
+      "name": "Moncada"
+    }
+  },
+  {
+    "id": "0306909036",
+    "code": "0306909036",
+    "name": "Tolega Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306909000",
+      "code": "0306909000",
+      "name": "Moncada"
+    }
+  },
+  {
+    "id": "0306909034",
+    "code": "0306909034",
+    "name": "Tubectubang",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306909000",
+      "code": "0306909000",
+      "name": "Moncada"
+    }
+  },
+  {
+    "id": "0306909038",
+    "code": "0306909038",
+    "name": "Villa",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306909000",
+      "code": "0306909000",
+      "name": "Moncada"
+    }
+  }
+]

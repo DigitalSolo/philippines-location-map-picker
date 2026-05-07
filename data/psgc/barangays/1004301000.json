@@ -1,0 +1,338 @@
+[
+  {
+    "id": "1004301001",
+    "code": "1004301001",
+    "name": "Baybay",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004301000",
+      "code": "1004301000",
+      "name": "Alubijid"
+    }
+  },
+  {
+    "id": "1004301002",
+    "code": "1004301002",
+    "name": "Benigwayan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004301000",
+      "code": "1004301000",
+      "name": "Alubijid"
+    }
+  },
+  {
+    "id": "1004301003",
+    "code": "1004301003",
+    "name": "Calatcat",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004301000",
+      "code": "1004301000",
+      "name": "Alubijid"
+    }
+  },
+  {
+    "id": "1004301004",
+    "code": "1004301004",
+    "name": "Lagtang",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004301000",
+      "code": "1004301000",
+      "name": "Alubijid"
+    }
+  },
+  {
+    "id": "1004301005",
+    "code": "1004301005",
+    "name": "Lanao",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004301000",
+      "code": "1004301000",
+      "name": "Alubijid"
+    }
+  },
+  {
+    "id": "1004301006",
+    "code": "1004301006",
+    "name": "Loguilo",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004301000",
+      "code": "1004301000",
+      "name": "Alubijid"
+    }
+  },
+  {
+    "id": "1004301007",
+    "code": "1004301007",
+    "name": "Lourdes",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004301000",
+      "code": "1004301000",
+      "name": "Alubijid"
+    }
+  },
+  {
+    "id": "1004301008",
+    "code": "1004301008",
+    "name": "Lumbo",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004301000",
+      "code": "1004301000",
+      "name": "Alubijid"
+    }
+  },
+  {
+    "id": "1004301009",
+    "code": "1004301009",
+    "name": "Molocboloc",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004301000",
+      "code": "1004301000",
+      "name": "Alubijid"
+    }
+  },
+  {
+    "id": "1004301010",
+    "code": "1004301010",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004301000",
+      "code": "1004301000",
+      "name": "Alubijid"
+    }
+  },
+  {
+    "id": "1004301011",
+    "code": "1004301011",
+    "name": "Sampatulog",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004301000",
+      "code": "1004301000",
+      "name": "Alubijid"
+    }
+  },
+  {
+    "id": "1004301012",
+    "code": "1004301012",
+    "name": "Sungay",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004301000",
+      "code": "1004301000",
+      "name": "Alubijid"
+    }
+  },
+  {
+    "id": "1004301013",
+    "code": "1004301013",
+    "name": "Talaba",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004301000",
+      "code": "1004301000",
+      "name": "Alubijid"
+    }
+  },
+  {
+    "id": "1004301014",
+    "code": "1004301014",
+    "name": "Taparak",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004301000",
+      "code": "1004301000",
+      "name": "Alubijid"
+    }
+  },
+  {
+    "id": "1004301015",
+    "code": "1004301015",
+    "name": "Tugasnon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004301000",
+      "code": "1004301000",
+      "name": "Alubijid"
+    }
+  },
+  {
+    "id": "1004301016",
+    "code": "1004301016",
+    "name": "Tula",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004301000",
+      "code": "1004301000",
+      "name": "Alubijid"
+    }
+  }
+]

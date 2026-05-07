@@ -1,0 +1,926 @@
+[
+  {
+    "id": "0305408001",
+    "code": "0305408001",
+    "name": "Balantacan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305408000",
+      "code": "0305408000",
+      "name": "Lubao"
+    }
+  },
+  {
+    "id": "0305408003",
+    "code": "0305408003",
+    "name": "Bancal Pugad",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305408000",
+      "code": "0305408000",
+      "name": "Lubao"
+    }
+  },
+  {
+    "id": "0305408002",
+    "code": "0305408002",
+    "name": "Bancal Sinubli",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305408000",
+      "code": "0305408000",
+      "name": "Lubao"
+    }
+  },
+  {
+    "id": "0305408004",
+    "code": "0305408004",
+    "name": "Baruya",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305408000",
+      "code": "0305408000",
+      "name": "Lubao"
+    }
+  },
+  {
+    "id": "0305408005",
+    "code": "0305408005",
+    "name": "Calangain",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305408000",
+      "code": "0305408000",
+      "name": "Lubao"
+    }
+  },
+  {
+    "id": "0305408006",
+    "code": "0305408006",
+    "name": "Concepcion",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305408000",
+      "code": "0305408000",
+      "name": "Lubao"
+    }
+  },
+  {
+    "id": "0305408008",
+    "code": "0305408008",
+    "name": "De La Paz",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305408000",
+      "code": "0305408000",
+      "name": "Lubao"
+    }
+  },
+  {
+    "id": "0305408007",
+    "code": "0305408007",
+    "name": "Del Carmen",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305408000",
+      "code": "0305408000",
+      "name": "Lubao"
+    }
+  },
+  {
+    "id": "0305408009",
+    "code": "0305408009",
+    "name": "Don Ignacio Dimson",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305408000",
+      "code": "0305408000",
+      "name": "Lubao"
+    }
+  },
+  {
+    "id": "0305408010",
+    "code": "0305408010",
+    "name": "Lourdes",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305408000",
+      "code": "0305408000",
+      "name": "Lubao"
+    }
+  },
+  {
+    "id": "0305408011",
+    "code": "0305408011",
+    "name": "Prado Siongco",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305408000",
+      "code": "0305408000",
+      "name": "Lubao"
+    }
+  },
+  {
+    "id": "0305408012",
+    "code": "0305408012",
+    "name": "Remedios",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305408000",
+      "code": "0305408000",
+      "name": "Lubao"
+    }
+  },
+  {
+    "id": "0305408013",
+    "code": "0305408013",
+    "name": "San Agustin",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305408000",
+      "code": "0305408000",
+      "name": "Lubao"
+    }
+  },
+  {
+    "id": "0305408014",
+    "code": "0305408014",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305408000",
+      "code": "0305408000",
+      "name": "Lubao"
+    }
+  },
+  {
+    "id": "0305408015",
+    "code": "0305408015",
+    "name": "San Francisco",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305408000",
+      "code": "0305408000",
+      "name": "Lubao"
+    }
+  },
+  {
+    "id": "0305408016",
+    "code": "0305408016",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305408000",
+      "code": "0305408000",
+      "name": "Lubao"
+    }
+  },
+  {
+    "id": "0305408017",
+    "code": "0305408017",
+    "name": "San Jose Apunan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305408000",
+      "code": "0305408000",
+      "name": "Lubao"
+    }
+  },
+  {
+    "id": "0305408018",
+    "code": "0305408018",
+    "name": "San Jose Gumi",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305408000",
+      "code": "0305408000",
+      "name": "Lubao"
+    }
+  },
+  {
+    "id": "0305408019",
+    "code": "0305408019",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305408000",
+      "code": "0305408000",
+      "name": "Lubao"
+    }
+  },
+  {
+    "id": "0305408020",
+    "code": "0305408020",
+    "name": "San Matias",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305408000",
+      "code": "0305408000",
+      "name": "Lubao"
+    }
+  },
+  {
+    "id": "0305408021",
+    "code": "0305408021",
+    "name": "San Miguel",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305408000",
+      "code": "0305408000",
+      "name": "Lubao"
+    }
+  },
+  {
+    "id": "0305408022",
+    "code": "0305408022",
+    "name": "San Nicolas 1st",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305408000",
+      "code": "0305408000",
+      "name": "Lubao"
+    }
+  },
+  {
+    "id": "0305408023",
+    "code": "0305408023",
+    "name": "San Nicolas 2nd",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305408000",
+      "code": "0305408000",
+      "name": "Lubao"
+    }
+  },
+  {
+    "id": "0305408024",
+    "code": "0305408024",
+    "name": "San Pablo 1st",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305408000",
+      "code": "0305408000",
+      "name": "Lubao"
+    }
+  },
+  {
+    "id": "0305408025",
+    "code": "0305408025",
+    "name": "San Pablo 2nd",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305408000",
+      "code": "0305408000",
+      "name": "Lubao"
+    }
+  },
+  {
+    "id": "0305408026",
+    "code": "0305408026",
+    "name": "San Pedro Palcarangan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305408000",
+      "code": "0305408000",
+      "name": "Lubao"
+    }
+  },
+  {
+    "id": "0305408027",
+    "code": "0305408027",
+    "name": "San Pedro Saug",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305408000",
+      "code": "0305408000",
+      "name": "Lubao"
+    }
+  },
+  {
+    "id": "0305408029",
+    "code": "0305408029",
+    "name": "San Roque Arbol",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305408000",
+      "code": "0305408000",
+      "name": "Lubao"
+    }
+  },
+  {
+    "id": "0305408030",
+    "code": "0305408030",
+    "name": "San Roque Dau",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305408000",
+      "code": "0305408000",
+      "name": "Lubao"
+    }
+  },
+  {
+    "id": "0305408031",
+    "code": "0305408031",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305408000",
+      "code": "0305408000",
+      "name": "Lubao"
+    }
+  },
+  {
+    "id": "0305408032",
+    "code": "0305408032",
+    "name": "Santa Barbara",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305408000",
+      "code": "0305408000",
+      "name": "Lubao"
+    }
+  },
+  {
+    "id": "0305408033",
+    "code": "0305408033",
+    "name": "Santa Catalina",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305408000",
+      "code": "0305408000",
+      "name": "Lubao"
+    }
+  },
+  {
+    "id": "0305408034",
+    "code": "0305408034",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305408000",
+      "code": "0305408000",
+      "name": "Lubao"
+    }
+  },
+  {
+    "id": "0305408035",
+    "code": "0305408035",
+    "name": "Santa Lucia",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305408000",
+      "code": "0305408000",
+      "name": "Lubao"
+    }
+  },
+  {
+    "id": "0305408036",
+    "code": "0305408036",
+    "name": "Santa Maria",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305408000",
+      "code": "0305408000",
+      "name": "Lubao"
+    }
+  },
+  {
+    "id": "0305408037",
+    "code": "0305408037",
+    "name": "Santa Monica",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305408000",
+      "code": "0305408000",
+      "name": "Lubao"
+    }
+  },
+  {
+    "id": "0305408038",
+    "code": "0305408038",
+    "name": "Santa Rita",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305408000",
+      "code": "0305408000",
+      "name": "Lubao"
+    }
+  },
+  {
+    "id": "0305408040",
+    "code": "0305408040",
+    "name": "Santa Teresa 1st",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305408000",
+      "code": "0305408000",
+      "name": "Lubao"
+    }
+  },
+  {
+    "id": "0305408041",
+    "code": "0305408041",
+    "name": "Santa Teresa 2nd",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305408000",
+      "code": "0305408000",
+      "name": "Lubao"
+    }
+  },
+  {
+    "id": "0305408042",
+    "code": "0305408042",
+    "name": "Santiago",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305408000",
+      "code": "0305408000",
+      "name": "Lubao"
+    }
+  },
+  {
+    "id": "0305408046",
+    "code": "0305408046",
+    "name": "Santo Cristo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305408000",
+      "code": "0305408000",
+      "name": "Lubao"
+    }
+  },
+  {
+    "id": "0305408043",
+    "code": "0305408043",
+    "name": "Santo Domingo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305408000",
+      "code": "0305408000",
+      "name": "Lubao"
+    }
+  },
+  {
+    "id": "0305408044",
+    "code": "0305408044",
+    "name": "Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305408000",
+      "code": "0305408000",
+      "name": "Lubao"
+    }
+  },
+  {
+    "id": "0305408045",
+    "code": "0305408045",
+    "name": "Santo Tomas",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305408000",
+      "code": "0305408000",
+      "name": "Lubao"
+    }
+  }
+]

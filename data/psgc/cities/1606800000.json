@@ -1,0 +1,306 @@
+[
+  {
+    "id": "1606801000",
+    "code": "1606801000",
+    "name": "Barobo",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    }
+  },
+  {
+    "id": "1606802000",
+    "code": "1606802000",
+    "name": "Bayabas",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    }
+  },
+  {
+    "id": "1606804000",
+    "code": "1606804000",
+    "name": "Cagwait",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    }
+  },
+  {
+    "id": "1606805000",
+    "code": "1606805000",
+    "name": "Cantilan",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    }
+  },
+  {
+    "id": "1606806000",
+    "code": "1606806000",
+    "name": "Carmen",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    }
+  },
+  {
+    "id": "1606807000",
+    "code": "1606807000",
+    "name": "Carrascal",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    }
+  },
+  {
+    "id": "1606803000",
+    "code": "1606803000",
+    "name": "City of Bislig",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    }
+  },
+  {
+    "id": "1606819000",
+    "code": "1606819000",
+    "name": "City of Tandag",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    }
+  },
+  {
+    "id": "1606808000",
+    "code": "1606808000",
+    "name": "Cortes",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    }
+  },
+  {
+    "id": "1606809000",
+    "code": "1606809000",
+    "name": "Hinatuan",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    }
+  },
+  {
+    "id": "1606810000",
+    "code": "1606810000",
+    "name": "Lanuza",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    }
+  },
+  {
+    "id": "1606811000",
+    "code": "1606811000",
+    "name": "Lianga",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    }
+  },
+  {
+    "id": "1606812000",
+    "code": "1606812000",
+    "name": "Lingig",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    }
+  },
+  {
+    "id": "1606813000",
+    "code": "1606813000",
+    "name": "Madrid",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    }
+  },
+  {
+    "id": "1606814000",
+    "code": "1606814000",
+    "name": "Marihatag",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    }
+  },
+  {
+    "id": "1606815000",
+    "code": "1606815000",
+    "name": "San Agustin",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    }
+  },
+  {
+    "id": "1606816000",
+    "code": "1606816000",
+    "name": "San Miguel",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    }
+  },
+  {
+    "id": "1606817000",
+    "code": "1606817000",
+    "name": "Tagbina",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    }
+  },
+  {
+    "id": "1606818000",
+    "code": "1606818000",
+    "name": "Tago",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    }
+  }
+]

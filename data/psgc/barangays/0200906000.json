@@ -1,0 +1,86 @@
+[
+  {
+    "id": "0200906002",
+    "code": "0200906002",
+    "name": "Imnajbu",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0200900000",
+      "code": "0200900000",
+      "name": "Batanes"
+    },
+    "city_municipality": {
+      "id": "0200906000",
+      "code": "0200906000",
+      "name": "Uyugan"
+    }
+  },
+  {
+    "id": "0200906003",
+    "code": "0200906003",
+    "name": "Itbud",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0200900000",
+      "code": "0200900000",
+      "name": "Batanes"
+    },
+    "city_municipality": {
+      "id": "0200906000",
+      "code": "0200906000",
+      "name": "Uyugan"
+    }
+  },
+  {
+    "id": "0200906004",
+    "code": "0200906004",
+    "name": "Kayuganan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0200900000",
+      "code": "0200900000",
+      "name": "Batanes"
+    },
+    "city_municipality": {
+      "id": "0200906000",
+      "code": "0200906000",
+      "name": "Uyugan"
+    }
+  },
+  {
+    "id": "0200906001",
+    "code": "0200906001",
+    "name": "Kayvaluganan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0200900000",
+      "code": "0200900000",
+      "name": "Batanes"
+    },
+    "city_municipality": {
+      "id": "0200906000",
+      "code": "0200906000",
+      "name": "Uyugan"
+    }
+  }
+]

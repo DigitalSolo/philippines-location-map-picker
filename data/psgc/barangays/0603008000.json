@@ -1,0 +1,548 @@
+[
+  {
+    "id": "0603008002",
+    "code": "0603008002",
+    "name": "Bugnay",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603008000",
+      "code": "0603008000",
+      "name": "Barotac Viejo"
+    }
+  },
+  {
+    "id": "0603008004",
+    "code": "0603008004",
+    "name": "California",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603008000",
+      "code": "0603008000",
+      "name": "Barotac Viejo"
+    }
+  },
+  {
+    "id": "0603008006",
+    "code": "0603008006",
+    "name": "De la Peña",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603008000",
+      "code": "0603008000",
+      "name": "Barotac Viejo"
+    }
+  },
+  {
+    "id": "0603008005",
+    "code": "0603008005",
+    "name": "Del Pilar",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603008000",
+      "code": "0603008000",
+      "name": "Barotac Viejo"
+    }
+  },
+  {
+    "id": "0603008007",
+    "code": "0603008007",
+    "name": "General Luna",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603008000",
+      "code": "0603008000",
+      "name": "Barotac Viejo"
+    }
+  },
+  {
+    "id": "0603008009",
+    "code": "0603008009",
+    "name": "La Fortuna",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603008000",
+      "code": "0603008000",
+      "name": "Barotac Viejo"
+    }
+  },
+  {
+    "id": "0603008010",
+    "code": "0603008010",
+    "name": "Lipata",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603008000",
+      "code": "0603008000",
+      "name": "Barotac Viejo"
+    }
+  },
+  {
+    "id": "0603008011",
+    "code": "0603008011",
+    "name": "Natividad",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603008000",
+      "code": "0603008000",
+      "name": "Barotac Viejo"
+    }
+  },
+  {
+    "id": "0603008012",
+    "code": "0603008012",
+    "name": "Nueva Invencion",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603008000",
+      "code": "0603008000",
+      "name": "Barotac Viejo"
+    }
+  },
+  {
+    "id": "0603008013",
+    "code": "0603008013",
+    "name": "Nueva Sevilla",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603008000",
+      "code": "0603008000",
+      "name": "Barotac Viejo"
+    }
+  },
+  {
+    "id": "0603008014",
+    "code": "0603008014",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603008000",
+      "code": "0603008000",
+      "name": "Barotac Viejo"
+    }
+  },
+  {
+    "id": "0603008016",
+    "code": "0603008016",
+    "name": "Puerto Princesa",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603008000",
+      "code": "0603008000",
+      "name": "Barotac Viejo"
+    }
+  },
+  {
+    "id": "0603008017",
+    "code": "0603008017",
+    "name": "Rizal",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603008000",
+      "code": "0603008000",
+      "name": "Barotac Viejo"
+    }
+  },
+  {
+    "id": "0603008019",
+    "code": "0603008019",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603008000",
+      "code": "0603008000",
+      "name": "Barotac Viejo"
+    }
+  },
+  {
+    "id": "0603008021",
+    "code": "0603008021",
+    "name": "San Fernando",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603008000",
+      "code": "0603008000",
+      "name": "Barotac Viejo"
+    }
+  },
+  {
+    "id": "0603008023",
+    "code": "0603008023",
+    "name": "San Francisco",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603008000",
+      "code": "0603008000",
+      "name": "Barotac Viejo"
+    }
+  },
+  {
+    "id": "0603008024",
+    "code": "0603008024",
+    "name": "San Geronimo",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603008000",
+      "code": "0603008000",
+      "name": "Barotac Viejo"
+    }
+  },
+  {
+    "id": "0603008025",
+    "code": "0603008025",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603008000",
+      "code": "0603008000",
+      "name": "Barotac Viejo"
+    }
+  },
+  {
+    "id": "0603008026",
+    "code": "0603008026",
+    "name": "San Lucas",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603008000",
+      "code": "0603008000",
+      "name": "Barotac Viejo"
+    }
+  },
+  {
+    "id": "0603008027",
+    "code": "0603008027",
+    "name": "San Miguel",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603008000",
+      "code": "0603008000",
+      "name": "Barotac Viejo"
+    }
+  },
+  {
+    "id": "0603008029",
+    "code": "0603008029",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603008000",
+      "code": "0603008000",
+      "name": "Barotac Viejo"
+    }
+  },
+  {
+    "id": "0603008030",
+    "code": "0603008030",
+    "name": "Santiago",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603008000",
+      "code": "0603008000",
+      "name": "Barotac Viejo"
+    }
+  },
+  {
+    "id": "0603008031",
+    "code": "0603008031",
+    "name": "Santo Domingo",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603008000",
+      "code": "0603008000",
+      "name": "Barotac Viejo"
+    }
+  },
+  {
+    "id": "0603008032",
+    "code": "0603008032",
+    "name": "Santo Tomas",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603008000",
+      "code": "0603008000",
+      "name": "Barotac Viejo"
+    }
+  },
+  {
+    "id": "0603008033",
+    "code": "0603008033",
+    "name": "Ugasan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603008000",
+      "code": "0603008000",
+      "name": "Barotac Viejo"
+    }
+  },
+  {
+    "id": "0603008034",
+    "code": "0603008034",
+    "name": "Vista Alegre",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603008000",
+      "code": "0603008000",
+      "name": "Barotac Viejo"
+    }
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "0501713001",
+    "code": "0501713001",
+    "name": "Cagbunga",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501713000",
+      "code": "0501713000",
+      "name": "Gainza"
+    }
+  },
+  {
+    "id": "0501713002",
+    "code": "0501713002",
+    "name": "Dahilig",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501713000",
+      "code": "0501713000",
+      "name": "Gainza"
+    }
+  },
+  {
+    "id": "0501713008",
+    "code": "0501713008",
+    "name": "District I",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501713000",
+      "code": "0501713000",
+      "name": "Gainza"
+    }
+  },
+  {
+    "id": "0501713009",
+    "code": "0501713009",
+    "name": "District II",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501713000",
+      "code": "0501713000",
+      "name": "Gainza"
+    }
+  },
+  {
+    "id": "0501713004",
+    "code": "0501713004",
+    "name": "Loob",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501713000",
+      "code": "0501713000",
+      "name": "Gainza"
+    }
+  },
+  {
+    "id": "0501713005",
+    "code": "0501713005",
+    "name": "Malbong",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501713000",
+      "code": "0501713000",
+      "name": "Gainza"
+    }
+  },
+  {
+    "id": "0501713006",
+    "code": "0501713006",
+    "name": "Namuat",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501713000",
+      "code": "0501713000",
+      "name": "Gainza"
+    }
+  },
+  {
+    "id": "0501713007",
+    "code": "0501713007",
+    "name": "Sampaloc",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501713000",
+      "code": "0501713000",
+      "name": "Gainza"
+    }
+  }
+]

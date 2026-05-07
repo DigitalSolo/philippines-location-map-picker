@@ -1,0 +1,569 @@
+[
+  {
+    "id": "0501605001",
+    "code": "0501605001",
+    "name": "Bagong Bayan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501605000",
+      "code": "0501605000",
+      "name": "Jose Panganiban"
+    }
+  },
+  {
+    "id": "0501605002",
+    "code": "0501605002",
+    "name": "Calero",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501605000",
+      "code": "0501605000",
+      "name": "Jose Panganiban"
+    }
+  },
+  {
+    "id": "0501605003",
+    "code": "0501605003",
+    "name": "Dahican",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501605000",
+      "code": "0501605000",
+      "name": "Jose Panganiban"
+    }
+  },
+  {
+    "id": "0501605004",
+    "code": "0501605004",
+    "name": "Dayhagan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501605000",
+      "code": "0501605000",
+      "name": "Jose Panganiban"
+    }
+  },
+  {
+    "id": "0501605005",
+    "code": "0501605005",
+    "name": "Larap",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501605000",
+      "code": "0501605000",
+      "name": "Jose Panganiban"
+    }
+  },
+  {
+    "id": "0501605006",
+    "code": "0501605006",
+    "name": "Luklukan Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501605000",
+      "code": "0501605000",
+      "name": "Jose Panganiban"
+    }
+  },
+  {
+    "id": "0501605007",
+    "code": "0501605007",
+    "name": "Luklukan Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501605000",
+      "code": "0501605000",
+      "name": "Jose Panganiban"
+    }
+  },
+  {
+    "id": "0501605008",
+    "code": "0501605008",
+    "name": "Motherlode",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501605000",
+      "code": "0501605000",
+      "name": "Jose Panganiban"
+    }
+  },
+  {
+    "id": "0501605009",
+    "code": "0501605009",
+    "name": "Nakalaya",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501605000",
+      "code": "0501605000",
+      "name": "Jose Panganiban"
+    }
+  },
+  {
+    "id": "0501605014",
+    "code": "0501605014",
+    "name": "North Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501605000",
+      "code": "0501605000",
+      "name": "Jose Panganiban"
+    }
+  },
+  {
+    "id": "0501605010",
+    "code": "0501605010",
+    "name": "Osmeña",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501605000",
+      "code": "0501605000",
+      "name": "Jose Panganiban"
+    }
+  },
+  {
+    "id": "0501605011",
+    "code": "0501605011",
+    "name": "Pag-Asa",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501605000",
+      "code": "0501605000",
+      "name": "Jose Panganiban"
+    }
+  },
+  {
+    "id": "0501605012",
+    "code": "0501605012",
+    "name": "Parang",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501605000",
+      "code": "0501605000",
+      "name": "Jose Panganiban"
+    }
+  },
+  {
+    "id": "0501605013",
+    "code": "0501605013",
+    "name": "Plaridel",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501605000",
+      "code": "0501605000",
+      "name": "Jose Panganiban"
+    }
+  },
+  {
+    "id": "0501605016",
+    "code": "0501605016",
+    "name": "Salvacion",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501605000",
+      "code": "0501605000",
+      "name": "Jose Panganiban"
+    }
+  },
+  {
+    "id": "0501605017",
+    "code": "0501605017",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501605000",
+      "code": "0501605000",
+      "name": "Jose Panganiban"
+    }
+  },
+  {
+    "id": "0501605018",
+    "code": "0501605018",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501605000",
+      "code": "0501605000",
+      "name": "Jose Panganiban"
+    }
+  },
+  {
+    "id": "0501605019",
+    "code": "0501605019",
+    "name": "San Martin",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501605000",
+      "code": "0501605000",
+      "name": "Jose Panganiban"
+    }
+  },
+  {
+    "id": "0501605020",
+    "code": "0501605020",
+    "name": "San Pedro",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501605000",
+      "code": "0501605000",
+      "name": "Jose Panganiban"
+    }
+  },
+  {
+    "id": "0501605021",
+    "code": "0501605021",
+    "name": "San Rafael",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501605000",
+      "code": "0501605000",
+      "name": "Jose Panganiban"
+    }
+  },
+  {
+    "id": "0501605022",
+    "code": "0501605022",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501605000",
+      "code": "0501605000",
+      "name": "Jose Panganiban"
+    }
+  },
+  {
+    "id": "0501605023",
+    "code": "0501605023",
+    "name": "Santa Elena",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501605000",
+      "code": "0501605000",
+      "name": "Jose Panganiban"
+    }
+  },
+  {
+    "id": "0501605024",
+    "code": "0501605024",
+    "name": "Santa Milagrosa",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501605000",
+      "code": "0501605000",
+      "name": "Jose Panganiban"
+    }
+  },
+  {
+    "id": "0501605025",
+    "code": "0501605025",
+    "name": "Santa Rosa Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501605000",
+      "code": "0501605000",
+      "name": "Jose Panganiban"
+    }
+  },
+  {
+    "id": "0501605026",
+    "code": "0501605026",
+    "name": "Santa Rosa Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501605000",
+      "code": "0501605000",
+      "name": "Jose Panganiban"
+    }
+  },
+  {
+    "id": "0501605015",
+    "code": "0501605015",
+    "name": "South Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501605000",
+      "code": "0501605000",
+      "name": "Jose Panganiban"
+    }
+  },
+  {
+    "id": "0501605027",
+    "code": "0501605027",
+    "name": "Tamisan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501605000",
+      "code": "0501605000",
+      "name": "Jose Panganiban"
+    }
+  }
+]

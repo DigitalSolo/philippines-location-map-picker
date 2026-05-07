@@ -1,0 +1,170 @@
+[
+  {
+    "id": "0906602001",
+    "code": "0906602001",
+    "name": "Alat",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0906600000",
+      "code": "0906600000",
+      "name": "Sulu"
+    },
+    "city_municipality": {
+      "id": "0906602000",
+      "code": "0906602000",
+      "name": "Jolo"
+    }
+  },
+  {
+    "id": "0906602002",
+    "code": "0906602002",
+    "name": "Asturias",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0906600000",
+      "code": "0906600000",
+      "name": "Sulu"
+    },
+    "city_municipality": {
+      "id": "0906602000",
+      "code": "0906602000",
+      "name": "Jolo"
+    }
+  },
+  {
+    "id": "0906602003",
+    "code": "0906602003",
+    "name": "Bus-bus",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0906600000",
+      "code": "0906600000",
+      "name": "Sulu"
+    },
+    "city_municipality": {
+      "id": "0906602000",
+      "code": "0906602000",
+      "name": "Jolo"
+    }
+  },
+  {
+    "id": "0906602004",
+    "code": "0906602004",
+    "name": "Chinese Pier",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0906600000",
+      "code": "0906600000",
+      "name": "Sulu"
+    },
+    "city_municipality": {
+      "id": "0906602000",
+      "code": "0906602000",
+      "name": "Jolo"
+    }
+  },
+  {
+    "id": "0906602007",
+    "code": "0906602007",
+    "name": "San Raymundo",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0906600000",
+      "code": "0906600000",
+      "name": "Sulu"
+    },
+    "city_municipality": {
+      "id": "0906602000",
+      "code": "0906602000",
+      "name": "Jolo"
+    }
+  },
+  {
+    "id": "0906602008",
+    "code": "0906602008",
+    "name": "Takut-takut",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0906600000",
+      "code": "0906600000",
+      "name": "Sulu"
+    },
+    "city_municipality": {
+      "id": "0906602000",
+      "code": "0906602000",
+      "name": "Jolo"
+    }
+  },
+  {
+    "id": "0906602009",
+    "code": "0906602009",
+    "name": "Tulay",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0906600000",
+      "code": "0906600000",
+      "name": "Sulu"
+    },
+    "city_municipality": {
+      "id": "0906602000",
+      "code": "0906602000",
+      "name": "Jolo"
+    }
+  },
+  {
+    "id": "0906602010",
+    "code": "0906602010",
+    "name": "Walled City",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0906600000",
+      "code": "0906600000",
+      "name": "Sulu"
+    },
+    "city_municipality": {
+      "id": "0906602000",
+      "code": "0906602000",
+      "name": "Jolo"
+    }
+  }
+]

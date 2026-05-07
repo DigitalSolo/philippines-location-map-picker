@@ -1,0 +1,485 @@
+[
+  {
+    "id": "1705309001",
+    "code": "1705309001",
+    "name": "Banuang Daan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705309000",
+      "code": "1705309000",
+      "name": "Coron"
+    }
+  },
+  {
+    "id": "1705309016",
+    "code": "1705309016",
+    "name": "Barangay I",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705309000",
+      "code": "1705309000",
+      "name": "Coron"
+    }
+  },
+  {
+    "id": "1705309017",
+    "code": "1705309017",
+    "name": "Barangay II",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705309000",
+      "code": "1705309000",
+      "name": "Coron"
+    }
+  },
+  {
+    "id": "1705309018",
+    "code": "1705309018",
+    "name": "Barangay III",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705309000",
+      "code": "1705309000",
+      "name": "Coron"
+    }
+  },
+  {
+    "id": "1705309019",
+    "code": "1705309019",
+    "name": "Barangay IV",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705309000",
+      "code": "1705309000",
+      "name": "Coron"
+    }
+  },
+  {
+    "id": "1705309020",
+    "code": "1705309020",
+    "name": "Barangay V",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705309000",
+      "code": "1705309000",
+      "name": "Coron"
+    }
+  },
+  {
+    "id": "1705309032",
+    "code": "1705309032",
+    "name": "Barangay VI",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705309000",
+      "code": "1705309000",
+      "name": "Coron"
+    }
+  },
+  {
+    "id": "1705309002",
+    "code": "1705309002",
+    "name": "Bintuan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705309000",
+      "code": "1705309000",
+      "name": "Coron"
+    }
+  },
+  {
+    "id": "1705309003",
+    "code": "1705309003",
+    "name": "Borac",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705309000",
+      "code": "1705309000",
+      "name": "Coron"
+    }
+  },
+  {
+    "id": "1705309004",
+    "code": "1705309004",
+    "name": "Buenavista",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705309000",
+      "code": "1705309000",
+      "name": "Coron"
+    }
+  },
+  {
+    "id": "1705309005",
+    "code": "1705309005",
+    "name": "Bulalacao",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705309000",
+      "code": "1705309000",
+      "name": "Coron"
+    }
+  },
+  {
+    "id": "1705309006",
+    "code": "1705309006",
+    "name": "Cabugao",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705309000",
+      "code": "1705309000",
+      "name": "Coron"
+    }
+  },
+  {
+    "id": "1705309008",
+    "code": "1705309008",
+    "name": "Decabobo",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705309000",
+      "code": "1705309000",
+      "name": "Coron"
+    }
+  },
+  {
+    "id": "1705309009",
+    "code": "1705309009",
+    "name": "Decalachao",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705309000",
+      "code": "1705309000",
+      "name": "Coron"
+    }
+  },
+  {
+    "id": "1705309010",
+    "code": "1705309010",
+    "name": "Guadalupe",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705309000",
+      "code": "1705309000",
+      "name": "Coron"
+    }
+  },
+  {
+    "id": "1705309011",
+    "code": "1705309011",
+    "name": "Lajala",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705309000",
+      "code": "1705309000",
+      "name": "Coron"
+    }
+  },
+  {
+    "id": "1705309012",
+    "code": "1705309012",
+    "name": "Malawig",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705309000",
+      "code": "1705309000",
+      "name": "Coron"
+    }
+  },
+  {
+    "id": "1705309013",
+    "code": "1705309013",
+    "name": "Marcilla",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705309000",
+      "code": "1705309000",
+      "name": "Coron"
+    }
+  },
+  {
+    "id": "1705309022",
+    "code": "1705309022",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705309000",
+      "code": "1705309000",
+      "name": "Coron"
+    }
+  },
+  {
+    "id": "1705309023",
+    "code": "1705309023",
+    "name": "San Nicolas",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705309000",
+      "code": "1705309000",
+      "name": "Coron"
+    }
+  },
+  {
+    "id": "1705309024",
+    "code": "1705309024",
+    "name": "Tagumpay",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705309000",
+      "code": "1705309000",
+      "name": "Coron"
+    }
+  },
+  {
+    "id": "1705309025",
+    "code": "1705309025",
+    "name": "Tara",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705309000",
+      "code": "1705309000",
+      "name": "Coron"
+    }
+  },
+  {
+    "id": "1705309026",
+    "code": "1705309026",
+    "name": "Turda",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705309000",
+      "code": "1705309000",
+      "name": "Coron"
+    }
+  }
+]

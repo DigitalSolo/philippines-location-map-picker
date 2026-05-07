@@ -1,0 +1,443 @@
+[
+  {
+    "id": "0702241002",
+    "code": "0702241002",
+    "name": "Balud",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702241000",
+      "code": "0702241000",
+      "name": "San Fernando"
+    }
+  },
+  {
+    "id": "0702241003",
+    "code": "0702241003",
+    "name": "Balungag",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702241000",
+      "code": "0702241000",
+      "name": "San Fernando"
+    }
+  },
+  {
+    "id": "0702241005",
+    "code": "0702241005",
+    "name": "Basak",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702241000",
+      "code": "0702241000",
+      "name": "San Fernando"
+    }
+  },
+  {
+    "id": "0702241007",
+    "code": "0702241007",
+    "name": "Bugho",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702241000",
+      "code": "0702241000",
+      "name": "San Fernando"
+    }
+  },
+  {
+    "id": "0702241008",
+    "code": "0702241008",
+    "name": "Cabatbatan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702241000",
+      "code": "0702241000",
+      "name": "San Fernando"
+    }
+  },
+  {
+    "id": "0702241009",
+    "code": "0702241009",
+    "name": "Greenhills",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702241000",
+      "code": "0702241000",
+      "name": "San Fernando"
+    }
+  },
+  {
+    "id": "0702241024",
+    "code": "0702241024",
+    "name": "Ilaya",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702241000",
+      "code": "0702241000",
+      "name": "San Fernando"
+    }
+  },
+  {
+    "id": "0702241010",
+    "code": "0702241010",
+    "name": "Lantawan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702241000",
+      "code": "0702241000",
+      "name": "San Fernando"
+    }
+  },
+  {
+    "id": "0702241011",
+    "code": "0702241011",
+    "name": "Liburon",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702241000",
+      "code": "0702241000",
+      "name": "San Fernando"
+    }
+  },
+  {
+    "id": "0702241012",
+    "code": "0702241012",
+    "name": "Magsico",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702241000",
+      "code": "0702241000",
+      "name": "San Fernando"
+    }
+  },
+  {
+    "id": "0702241014",
+    "code": "0702241014",
+    "name": "Panadtaran",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702241000",
+      "code": "0702241000",
+      "name": "San Fernando"
+    }
+  },
+  {
+    "id": "0702241015",
+    "code": "0702241015",
+    "name": "Pitalo",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702241000",
+      "code": "0702241000",
+      "name": "San Fernando"
+    }
+  },
+  {
+    "id": "0702241013",
+    "code": "0702241013",
+    "name": "Poblacion North",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702241000",
+      "code": "0702241000",
+      "name": "San Fernando"
+    }
+  },
+  {
+    "id": "0702241018",
+    "code": "0702241018",
+    "name": "Poblacion South",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702241000",
+      "code": "0702241000",
+      "name": "San Fernando"
+    }
+  },
+  {
+    "id": "0702241016",
+    "code": "0702241016",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702241000",
+      "code": "0702241000",
+      "name": "San Fernando"
+    }
+  },
+  {
+    "id": "0702241017",
+    "code": "0702241017",
+    "name": "Sangat",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702241000",
+      "code": "0702241000",
+      "name": "San Fernando"
+    }
+  },
+  {
+    "id": "0702241019",
+    "code": "0702241019",
+    "name": "Tabionan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702241000",
+      "code": "0702241000",
+      "name": "San Fernando"
+    }
+  },
+  {
+    "id": "0702241020",
+    "code": "0702241020",
+    "name": "Tananas",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702241000",
+      "code": "0702241000",
+      "name": "San Fernando"
+    }
+  },
+  {
+    "id": "0702241021",
+    "code": "0702241021",
+    "name": "Tinubdan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702241000",
+      "code": "0702241000",
+      "name": "San Fernando"
+    }
+  },
+  {
+    "id": "0702241022",
+    "code": "0702241022",
+    "name": "Tonggo",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702241000",
+      "code": "0702241000",
+      "name": "San Fernando"
+    }
+  },
+  {
+    "id": "0702241023",
+    "code": "0702241023",
+    "name": "Tubod",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702241000",
+      "code": "0702241000",
+      "name": "San Fernando"
+    }
+  }
+]

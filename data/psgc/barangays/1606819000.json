@@ -1,0 +1,443 @@
+[
+  {
+    "id": "1606819001",
+    "code": "1606819001",
+    "name": "Awasian",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606819000",
+      "code": "1606819000",
+      "name": "City of Tandag"
+    }
+  },
+  {
+    "id": "1606819002",
+    "code": "1606819002",
+    "name": "Bagong Lungsod",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606819000",
+      "code": "1606819000",
+      "name": "City of Tandag"
+    }
+  },
+  {
+    "id": "1606819003",
+    "code": "1606819003",
+    "name": "Bioto",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606819000",
+      "code": "1606819000",
+      "name": "City of Tandag"
+    }
+  },
+  {
+    "id": "1606819005",
+    "code": "1606819005",
+    "name": "Bongtod Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606819000",
+      "code": "1606819000",
+      "name": "City of Tandag"
+    }
+  },
+  {
+    "id": "1606819004",
+    "code": "1606819004",
+    "name": "Buenavista",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606819000",
+      "code": "1606819000",
+      "name": "City of Tandag"
+    }
+  },
+  {
+    "id": "1606819006",
+    "code": "1606819006",
+    "name": "Dagocdoc",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606819000",
+      "code": "1606819000",
+      "name": "City of Tandag"
+    }
+  },
+  {
+    "id": "1606819008",
+    "code": "1606819008",
+    "name": "Mabua",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606819000",
+      "code": "1606819000",
+      "name": "City of Tandag"
+    }
+  },
+  {
+    "id": "1606819009",
+    "code": "1606819009",
+    "name": "Mabuhay",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606819000",
+      "code": "1606819000",
+      "name": "City of Tandag"
+    }
+  },
+  {
+    "id": "1606819010",
+    "code": "1606819010",
+    "name": "Maitum",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606819000",
+      "code": "1606819000",
+      "name": "City of Tandag"
+    }
+  },
+  {
+    "id": "1606819011",
+    "code": "1606819011",
+    "name": "Maticdum",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606819000",
+      "code": "1606819000",
+      "name": "City of Tandag"
+    }
+  },
+  {
+    "id": "1606819012",
+    "code": "1606819012",
+    "name": "Pandanon",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606819000",
+      "code": "1606819000",
+      "name": "City of Tandag"
+    }
+  },
+  {
+    "id": "1606819013",
+    "code": "1606819013",
+    "name": "Pangi",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606819000",
+      "code": "1606819000",
+      "name": "City of Tandag"
+    }
+  },
+  {
+    "id": "1606819014",
+    "code": "1606819014",
+    "name": "Quezon",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606819000",
+      "code": "1606819000",
+      "name": "City of Tandag"
+    }
+  },
+  {
+    "id": "1606819015",
+    "code": "1606819015",
+    "name": "Rosario",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606819000",
+      "code": "1606819000",
+      "name": "City of Tandag"
+    }
+  },
+  {
+    "id": "1606819016",
+    "code": "1606819016",
+    "name": "Salvacion",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606819000",
+      "code": "1606819000",
+      "name": "City of Tandag"
+    }
+  },
+  {
+    "id": "1606819017",
+    "code": "1606819017",
+    "name": "San Agustin Norte",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606819000",
+      "code": "1606819000",
+      "name": "City of Tandag"
+    }
+  },
+  {
+    "id": "1606819018",
+    "code": "1606819018",
+    "name": "San Agustin Sur",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606819000",
+      "code": "1606819000",
+      "name": "City of Tandag"
+    }
+  },
+  {
+    "id": "1606819019",
+    "code": "1606819019",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606819000",
+      "code": "1606819000",
+      "name": "City of Tandag"
+    }
+  },
+  {
+    "id": "1606819020",
+    "code": "1606819020",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606819000",
+      "code": "1606819000",
+      "name": "City of Tandag"
+    }
+  },
+  {
+    "id": "1606819021",
+    "code": "1606819021",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606819000",
+      "code": "1606819000",
+      "name": "City of Tandag"
+    }
+  },
+  {
+    "id": "1606819022",
+    "code": "1606819022",
+    "name": "Telaje",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606819000",
+      "code": "1606819000",
+      "name": "City of Tandag"
+    }
+  }
+]

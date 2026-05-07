@@ -1,0 +1,485 @@
+[
+  {
+    "id": "0300810001",
+    "code": "0300810001",
+    "name": "Arellano",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300810000",
+      "code": "0300810000",
+      "name": "Orion"
+    }
+  },
+  {
+    "id": "0300810002",
+    "code": "0300810002",
+    "name": "Bagumbayan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300810000",
+      "code": "0300810000",
+      "name": "Orion"
+    }
+  },
+  {
+    "id": "0300810003",
+    "code": "0300810003",
+    "name": "Balagtas",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300810000",
+      "code": "0300810000",
+      "name": "Orion"
+    }
+  },
+  {
+    "id": "0300810004",
+    "code": "0300810004",
+    "name": "Balut",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300810000",
+      "code": "0300810000",
+      "name": "Orion"
+    }
+  },
+  {
+    "id": "0300810007",
+    "code": "0300810007",
+    "name": "Bantan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300810000",
+      "code": "0300810000",
+      "name": "Orion"
+    }
+  },
+  {
+    "id": "0300810008",
+    "code": "0300810008",
+    "name": "Bilolo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300810000",
+      "code": "0300810000",
+      "name": "Orion"
+    }
+  },
+  {
+    "id": "0300810009",
+    "code": "0300810009",
+    "name": "Calungusan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300810000",
+      "code": "0300810000",
+      "name": "Orion"
+    }
+  },
+  {
+    "id": "0300810010",
+    "code": "0300810010",
+    "name": "Camachile",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300810000",
+      "code": "0300810000",
+      "name": "Orion"
+    }
+  },
+  {
+    "id": "0300810011",
+    "code": "0300810011",
+    "name": "Daang Bago",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300810000",
+      "code": "0300810000",
+      "name": "Orion"
+    }
+  },
+  {
+    "id": "0300810012",
+    "code": "0300810012",
+    "name": "Daang Bilolo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300810000",
+      "code": "0300810000",
+      "name": "Orion"
+    }
+  },
+  {
+    "id": "0300810013",
+    "code": "0300810013",
+    "name": "Daang Pare",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300810000",
+      "code": "0300810000",
+      "name": "Orion"
+    }
+  },
+  {
+    "id": "0300810014",
+    "code": "0300810014",
+    "name": "General Lim",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300810000",
+      "code": "0300810000",
+      "name": "Orion"
+    }
+  },
+  {
+    "id": "0300810016",
+    "code": "0300810016",
+    "name": "Kapunitan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300810000",
+      "code": "0300810000",
+      "name": "Orion"
+    }
+  },
+  {
+    "id": "0300810017",
+    "code": "0300810017",
+    "name": "Lati",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300810000",
+      "code": "0300810000",
+      "name": "Orion"
+    }
+  },
+  {
+    "id": "0300810018",
+    "code": "0300810018",
+    "name": "Lusungan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300810000",
+      "code": "0300810000",
+      "name": "Orion"
+    }
+  },
+  {
+    "id": "0300810020",
+    "code": "0300810020",
+    "name": "Puting Buhangin",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300810000",
+      "code": "0300810000",
+      "name": "Orion"
+    }
+  },
+  {
+    "id": "0300810021",
+    "code": "0300810021",
+    "name": "Sabatan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300810000",
+      "code": "0300810000",
+      "name": "Orion"
+    }
+  },
+  {
+    "id": "0300810022",
+    "code": "0300810022",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300810000",
+      "code": "0300810000",
+      "name": "Orion"
+    }
+  },
+  {
+    "id": "0300810030",
+    "code": "0300810030",
+    "name": "Santa Elena",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300810000",
+      "code": "0300810000",
+      "name": "Orion"
+    }
+  },
+  {
+    "id": "0300810024",
+    "code": "0300810024",
+    "name": "Santo Domingo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300810000",
+      "code": "0300810000",
+      "name": "Orion"
+    }
+  },
+  {
+    "id": "0300810027",
+    "code": "0300810027",
+    "name": "Villa Angeles",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300810000",
+      "code": "0300810000",
+      "name": "Orion"
+    }
+  },
+  {
+    "id": "0300810028",
+    "code": "0300810028",
+    "name": "Wakas",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300810000",
+      "code": "0300810000",
+      "name": "Orion"
+    }
+  },
+  {
+    "id": "0300810029",
+    "code": "0300810029",
+    "name": "Wawa",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300810000",
+      "code": "0300810000",
+      "name": "Orion"
+    }
+  }
+]

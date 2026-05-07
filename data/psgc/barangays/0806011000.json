@@ -1,0 +1,422 @@
+[
+  {
+    "id": "0806011001",
+    "code": "0806011001",
+    "name": "Angyap",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806011000",
+      "code": "0806011000",
+      "name": "Matuguinao"
+    }
+  },
+  {
+    "id": "0806011021",
+    "code": "0806011021",
+    "name": "Bag-otan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806011000",
+      "code": "0806011000",
+      "name": "Matuguinao"
+    }
+  },
+  {
+    "id": "0806011004",
+    "code": "0806011004",
+    "name": "Barruz",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806011000",
+      "code": "0806011000",
+      "name": "Matuguinao"
+    }
+  },
+  {
+    "id": "0806011005",
+    "code": "0806011005",
+    "name": "Camonoan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806011000",
+      "code": "0806011000",
+      "name": "Matuguinao"
+    }
+  },
+  {
+    "id": "0806011006",
+    "code": "0806011006",
+    "name": "Carolina",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806011000",
+      "code": "0806011000",
+      "name": "Matuguinao"
+    }
+  },
+  {
+    "id": "0806011007",
+    "code": "0806011007",
+    "name": "Deit",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806011000",
+      "code": "0806011000",
+      "name": "Matuguinao"
+    }
+  },
+  {
+    "id": "0806011008",
+    "code": "0806011008",
+    "name": "Del Rosario",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806011000",
+      "code": "0806011000",
+      "name": "Matuguinao"
+    }
+  },
+  {
+    "id": "0806011022",
+    "code": "0806011022",
+    "name": "Inubod",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806011000",
+      "code": "0806011000",
+      "name": "Matuguinao"
+    }
+  },
+  {
+    "id": "0806011009",
+    "code": "0806011009",
+    "name": "Libertad",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806011000",
+      "code": "0806011000",
+      "name": "Matuguinao"
+    }
+  },
+  {
+    "id": "0806011010",
+    "code": "0806011010",
+    "name": "Ligaya",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806011000",
+      "code": "0806011000",
+      "name": "Matuguinao"
+    }
+  },
+  {
+    "id": "0806011011",
+    "code": "0806011011",
+    "name": "Mabuligon Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806011000",
+      "code": "0806011000",
+      "name": "Matuguinao"
+    }
+  },
+  {
+    "id": "0806011012",
+    "code": "0806011012",
+    "name": "Maduroto Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806011000",
+      "code": "0806011000",
+      "name": "Matuguinao"
+    }
+  },
+  {
+    "id": "0806011013",
+    "code": "0806011013",
+    "name": "Mahanud",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806011000",
+      "code": "0806011000",
+      "name": "Matuguinao"
+    }
+  },
+  {
+    "id": "0806011014",
+    "code": "0806011014",
+    "name": "Mahayag",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806011000",
+      "code": "0806011000",
+      "name": "Matuguinao"
+    }
+  },
+  {
+    "id": "0806011016",
+    "code": "0806011016",
+    "name": "Nagpapacao",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806011000",
+      "code": "0806011000",
+      "name": "Matuguinao"
+    }
+  },
+  {
+    "id": "0806011017",
+    "code": "0806011017",
+    "name": "Rizal",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806011000",
+      "code": "0806011000",
+      "name": "Matuguinao"
+    }
+  },
+  {
+    "id": "0806011018",
+    "code": "0806011018",
+    "name": "Salvacion",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806011000",
+      "code": "0806011000",
+      "name": "Matuguinao"
+    }
+  },
+  {
+    "id": "0806011019",
+    "code": "0806011019",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806011000",
+      "code": "0806011000",
+      "name": "Matuguinao"
+    }
+  },
+  {
+    "id": "0806011023",
+    "code": "0806011023",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806011000",
+      "code": "0806011000",
+      "name": "Matuguinao"
+    }
+  },
+  {
+    "id": "0806011020",
+    "code": "0806011020",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806011000",
+      "code": "0806011000",
+      "name": "Matuguinao"
+    }
+  }
+]

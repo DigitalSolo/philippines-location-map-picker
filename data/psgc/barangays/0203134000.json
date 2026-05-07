@@ -1,0 +1,422 @@
+[
+  {
+    "id": "0203134001",
+    "code": "0203134001",
+    "name": "Bangad",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203134000",
+      "code": "0203134000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0203134002",
+    "code": "0203134002",
+    "name": "Buenavista",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203134000",
+      "code": "0203134000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0203134004",
+    "code": "0203134004",
+    "name": "Calamagui East",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203134000",
+      "code": "0203134000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0203134003",
+    "code": "0203134003",
+    "name": "Calamagui North",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203134000",
+      "code": "0203134000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0203134005",
+    "code": "0203134005",
+    "name": "Calamagui West",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203134000",
+      "code": "0203134000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0203134007",
+    "code": "0203134007",
+    "name": "Divisoria",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203134000",
+      "code": "0203134000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0203134008",
+    "code": "0203134008",
+    "name": "Lingaling",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203134000",
+      "code": "0203134000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0203134010",
+    "code": "0203134010",
+    "name": "Mozzozzin North",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203134000",
+      "code": "0203134000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0203134009",
+    "code": "0203134009",
+    "name": "Mozzozzin Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203134000",
+      "code": "0203134000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0203134011",
+    "code": "0203134011",
+    "name": "Naganacan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203134000",
+      "code": "0203134000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0203134012",
+    "code": "0203134012",
+    "name": "Poblacion 1",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203134000",
+      "code": "0203134000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0203134013",
+    "code": "0203134013",
+    "name": "Poblacion 2",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203134000",
+      "code": "0203134000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0203134014",
+    "code": "0203134014",
+    "name": "Poblacion 3",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203134000",
+      "code": "0203134000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0203134015",
+    "code": "0203134015",
+    "name": "Quinagabian",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203134000",
+      "code": "0203134000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0203134016",
+    "code": "0203134016",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203134000",
+      "code": "0203134000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0203134017",
+    "code": "0203134017",
+    "name": "San Isidro East",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203134000",
+      "code": "0203134000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0203134018",
+    "code": "0203134018",
+    "name": "San Isidro West",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203134000",
+      "code": "0203134000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0203134020",
+    "code": "0203134020",
+    "name": "San Rafael East",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203134000",
+      "code": "0203134000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0203134019",
+    "code": "0203134019",
+    "name": "San Rafael West",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203134000",
+      "code": "0203134000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0203134021",
+    "code": "0203134021",
+    "name": "Villabuena",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203134000",
+      "code": "0203134000",
+      "name": "Santa Maria"
+    }
+  }
+]

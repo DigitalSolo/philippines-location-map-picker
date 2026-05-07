@@ -1,0 +1,191 @@
+[
+  {
+    "id": "1900708001",
+    "code": "1900708001",
+    "name": "Caddayan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900708000",
+      "code": "1900708000",
+      "name": "Akbar"
+    }
+  },
+  {
+    "id": "1900708002",
+    "code": "1900708002",
+    "name": "Linongan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900708000",
+      "code": "1900708000",
+      "name": "Akbar"
+    }
+  },
+  {
+    "id": "1900708003",
+    "code": "1900708003",
+    "name": "Lower Bato-bato",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900708000",
+      "code": "1900708000",
+      "name": "Akbar"
+    }
+  },
+  {
+    "id": "1900708004",
+    "code": "1900708004",
+    "name": "Mangalut",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900708000",
+      "code": "1900708000",
+      "name": "Akbar"
+    }
+  },
+  {
+    "id": "1900708005",
+    "code": "1900708005",
+    "name": "Manguso",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900708000",
+      "code": "1900708000",
+      "name": "Akbar"
+    }
+  },
+  {
+    "id": "1900708006",
+    "code": "1900708006",
+    "name": "Paguengan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900708000",
+      "code": "1900708000",
+      "name": "Akbar"
+    }
+  },
+  {
+    "id": "1900708007",
+    "code": "1900708007",
+    "name": "Semut",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900708000",
+      "code": "1900708000",
+      "name": "Akbar"
+    }
+  },
+  {
+    "id": "1900708008",
+    "code": "1900708008",
+    "name": "Upper Bato-bato",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900708000",
+      "code": "1900708000",
+      "name": "Akbar"
+    }
+  },
+  {
+    "id": "1900708009",
+    "code": "1900708009",
+    "name": "Upper Sinangkapan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900708000",
+      "code": "1900708000",
+      "name": "Akbar"
+    }
+  }
+]

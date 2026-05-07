@@ -1,0 +1,632 @@
+[
+  {
+    "id": "0802607028",
+    "code": "0802607028",
+    "name": "Aguinaldo",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802607000",
+      "code": "0802607000",
+      "name": "General Macarthur"
+    }
+  },
+  {
+    "id": "0802607001",
+    "code": "0802607001",
+    "name": "Alang-alang",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802607000",
+      "code": "0802607000",
+      "name": "General Macarthur"
+    }
+  },
+  {
+    "id": "0802607002",
+    "code": "0802607002",
+    "name": "Binalay",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802607000",
+      "code": "0802607000",
+      "name": "General Macarthur"
+    }
+  },
+  {
+    "id": "0802607003",
+    "code": "0802607003",
+    "name": "Calutan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802607000",
+      "code": "0802607000",
+      "name": "General Macarthur"
+    }
+  },
+  {
+    "id": "0802607004",
+    "code": "0802607004",
+    "name": "Camcuevas",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802607000",
+      "code": "0802607000",
+      "name": "General Macarthur"
+    }
+  },
+  {
+    "id": "0802607005",
+    "code": "0802607005",
+    "name": "Domrog",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802607000",
+      "code": "0802607000",
+      "name": "General Macarthur"
+    }
+  },
+  {
+    "id": "0802607018",
+    "code": "0802607018",
+    "name": "Laurel",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802607000",
+      "code": "0802607000",
+      "name": "General Macarthur"
+    }
+  },
+  {
+    "id": "0802607006",
+    "code": "0802607006",
+    "name": "Limbujan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802607000",
+      "code": "0802607000",
+      "name": "General Macarthur"
+    }
+  },
+  {
+    "id": "0802607027",
+    "code": "0802607027",
+    "name": "Macapagal",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802607000",
+      "code": "0802607000",
+      "name": "General Macarthur"
+    }
+  },
+  {
+    "id": "0802607007",
+    "code": "0802607007",
+    "name": "Magsaysay",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802607000",
+      "code": "0802607000",
+      "name": "General Macarthur"
+    }
+  },
+  {
+    "id": "0802607008",
+    "code": "0802607008",
+    "name": "Osmeña",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802607000",
+      "code": "0802607000",
+      "name": "General Macarthur"
+    }
+  },
+  {
+    "id": "0802607009",
+    "code": "0802607009",
+    "name": "Pingan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802607000",
+      "code": "0802607000",
+      "name": "General Macarthur"
+    }
+  },
+  {
+    "id": "0802607010",
+    "code": "0802607010",
+    "name": "Poblacion Barangay 1",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802607000",
+      "code": "0802607000",
+      "name": "General Macarthur"
+    }
+  },
+  {
+    "id": "0802607011",
+    "code": "0802607011",
+    "name": "Poblacion Barangay 2",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802607000",
+      "code": "0802607000",
+      "name": "General Macarthur"
+    }
+  },
+  {
+    "id": "0802607012",
+    "code": "0802607012",
+    "name": "Poblacion Barangay 3",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802607000",
+      "code": "0802607000",
+      "name": "General Macarthur"
+    }
+  },
+  {
+    "id": "0802607013",
+    "code": "0802607013",
+    "name": "Poblacion Barangay 4",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802607000",
+      "code": "0802607000",
+      "name": "General Macarthur"
+    }
+  },
+  {
+    "id": "0802607014",
+    "code": "0802607014",
+    "name": "Poblacion Barangay 5",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802607000",
+      "code": "0802607000",
+      "name": "General Macarthur"
+    }
+  },
+  {
+    "id": "0802607015",
+    "code": "0802607015",
+    "name": "Poblacion Barangay 6",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802607000",
+      "code": "0802607000",
+      "name": "General Macarthur"
+    }
+  },
+  {
+    "id": "0802607016",
+    "code": "0802607016",
+    "name": "Poblacion Barangay 7",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802607000",
+      "code": "0802607000",
+      "name": "General Macarthur"
+    }
+  },
+  {
+    "id": "0802607017",
+    "code": "0802607017",
+    "name": "Poblacion Barangay 8",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802607000",
+      "code": "0802607000",
+      "name": "General Macarthur"
+    }
+  },
+  {
+    "id": "0802607029",
+    "code": "0802607029",
+    "name": "Quezon",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802607000",
+      "code": "0802607000",
+      "name": "General Macarthur"
+    }
+  },
+  {
+    "id": "0802607020",
+    "code": "0802607020",
+    "name": "Quirino",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802607000",
+      "code": "0802607000",
+      "name": "General Macarthur"
+    }
+  },
+  {
+    "id": "0802607019",
+    "code": "0802607019",
+    "name": "Roxas",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802607000",
+      "code": "0802607000",
+      "name": "General Macarthur"
+    }
+  },
+  {
+    "id": "0802607021",
+    "code": "0802607021",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802607000",
+      "code": "0802607000",
+      "name": "General Macarthur"
+    }
+  },
+  {
+    "id": "0802607022",
+    "code": "0802607022",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802607000",
+      "code": "0802607000",
+      "name": "General Macarthur"
+    }
+  },
+  {
+    "id": "0802607023",
+    "code": "0802607023",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802607000",
+      "code": "0802607000",
+      "name": "General Macarthur"
+    }
+  },
+  {
+    "id": "0802607024",
+    "code": "0802607024",
+    "name": "Santa Fe",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802607000",
+      "code": "0802607000",
+      "name": "General Macarthur"
+    }
+  },
+  {
+    "id": "0802607030",
+    "code": "0802607030",
+    "name": "Tandang Sora",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802607000",
+      "code": "0802607000",
+      "name": "General Macarthur"
+    }
+  },
+  {
+    "id": "0802607025",
+    "code": "0802607025",
+    "name": "Tugop",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802607000",
+      "code": "0802607000",
+      "name": "General Macarthur"
+    }
+  },
+  {
+    "id": "0802607026",
+    "code": "0802607026",
+    "name": "Vigan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802607000",
+      "code": "0802607000",
+      "name": "General Macarthur"
+    }
+  }
+]

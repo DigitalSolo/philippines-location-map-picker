@@ -1,0 +1,716 @@
+[
+  {
+    "id": "0401016002",
+    "code": "0401016002",
+    "name": "Anilao East",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401016000",
+      "code": "0401016000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0401016001",
+    "code": "0401016001",
+    "name": "Anilao Proper",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401016000",
+      "code": "0401016000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0401016003",
+    "code": "0401016003",
+    "name": "Bagalangit",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401016000",
+      "code": "0401016000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0401016004",
+    "code": "0401016004",
+    "name": "Bulacan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401016000",
+      "code": "0401016000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0401016005",
+    "code": "0401016005",
+    "name": "Calamias",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401016000",
+      "code": "0401016000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0401016006",
+    "code": "0401016006",
+    "name": "Estrella",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401016000",
+      "code": "0401016000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0401016007",
+    "code": "0401016007",
+    "name": "Gasang",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401016000",
+      "code": "0401016000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0401016008",
+    "code": "0401016008",
+    "name": "Laurel",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401016000",
+      "code": "0401016000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0401016009",
+    "code": "0401016009",
+    "name": "Ligaya",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401016000",
+      "code": "0401016000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0401016010",
+    "code": "0401016010",
+    "name": "Mainaga",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401016000",
+      "code": "0401016000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0401016011",
+    "code": "0401016011",
+    "name": "Mainit",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401016000",
+      "code": "0401016000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0401016012",
+    "code": "0401016012",
+    "name": "Majuben",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401016000",
+      "code": "0401016000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0401016014",
+    "code": "0401016014",
+    "name": "Malimatoc I",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401016000",
+      "code": "0401016000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0401016015",
+    "code": "0401016015",
+    "name": "Malimatoc II",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401016000",
+      "code": "0401016000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0401016016",
+    "code": "0401016016",
+    "name": "Nag-Iba",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401016000",
+      "code": "0401016000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0401016017",
+    "code": "0401016017",
+    "name": "Pilahan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401016000",
+      "code": "0401016000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0401016018",
+    "code": "0401016018",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401016000",
+      "code": "0401016000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0401016019",
+    "code": "0401016019",
+    "name": "Pulang Lupa",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401016000",
+      "code": "0401016000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0401016020",
+    "code": "0401016020",
+    "name": "Pulong Anahao",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401016000",
+      "code": "0401016000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0401016021",
+    "code": "0401016021",
+    "name": "Pulong Balibaguhan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401016000",
+      "code": "0401016000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0401016022",
+    "code": "0401016022",
+    "name": "Pulong Niogan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401016000",
+      "code": "0401016000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0401016023",
+    "code": "0401016023",
+    "name": "Saguing",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401016000",
+      "code": "0401016000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0401016024",
+    "code": "0401016024",
+    "name": "Sampaguita",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401016000",
+      "code": "0401016000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0401016025",
+    "code": "0401016025",
+    "name": "San Francisco",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401016000",
+      "code": "0401016000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0401016026",
+    "code": "0401016026",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401016000",
+      "code": "0401016000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0401016027",
+    "code": "0401016027",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401016000",
+      "code": "0401016000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0401016028",
+    "code": "0401016028",
+    "name": "San Teodoro",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401016000",
+      "code": "0401016000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0401016029",
+    "code": "0401016029",
+    "name": "Santa Ana",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401016000",
+      "code": "0401016000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0401016030",
+    "code": "0401016030",
+    "name": "Santa Mesa",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401016000",
+      "code": "0401016000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0401016031",
+    "code": "0401016031",
+    "name": "Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401016000",
+      "code": "0401016000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0401016032",
+    "code": "0401016032",
+    "name": "Santo Tomas",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401016000",
+      "code": "0401016000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0401016033",
+    "code": "0401016033",
+    "name": "Solo",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401016000",
+      "code": "0401016000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0401016035",
+    "code": "0401016035",
+    "name": "Talaga East",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401016000",
+      "code": "0401016000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0401016034",
+    "code": "0401016034",
+    "name": "Talaga Proper",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401016000",
+      "code": "0401016000",
+      "name": "Mabini"
+    }
+  }
+]

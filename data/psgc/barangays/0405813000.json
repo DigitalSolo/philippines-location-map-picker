@@ -1,0 +1,107 @@
+[
+  {
+    "id": "0405813001",
+    "code": "0405813001",
+    "name": "Dolores",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405813000",
+      "code": "0405813000",
+      "name": "Taytay"
+    }
+  },
+  {
+    "id": "0405813002",
+    "code": "0405813002",
+    "name": "Muzon",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405813000",
+      "code": "0405813000",
+      "name": "Taytay"
+    }
+  },
+  {
+    "id": "0405813003",
+    "code": "0405813003",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405813000",
+      "code": "0405813000",
+      "name": "Taytay"
+    }
+  },
+  {
+    "id": "0405813004",
+    "code": "0405813004",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405813000",
+      "code": "0405813000",
+      "name": "Taytay"
+    }
+  },
+  {
+    "id": "0405813005",
+    "code": "0405813005",
+    "name": "Santa Ana",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405813000",
+      "code": "0405813000",
+      "name": "Taytay"
+    }
+  }
+]

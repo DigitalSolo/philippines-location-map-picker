@@ -1,0 +1,317 @@
+[
+  {
+    "id": "0306914001",
+    "code": "0306914001",
+    "name": "Colubot",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306914000",
+      "code": "0306914000",
+      "name": "San Manuel"
+    }
+  },
+  {
+    "id": "0306914002",
+    "code": "0306914002",
+    "name": "Lanat",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306914000",
+      "code": "0306914000",
+      "name": "San Manuel"
+    }
+  },
+  {
+    "id": "0306914003",
+    "code": "0306914003",
+    "name": "Legaspi",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306914000",
+      "code": "0306914000",
+      "name": "San Manuel"
+    }
+  },
+  {
+    "id": "0306914004",
+    "code": "0306914004",
+    "name": "Mangandingay",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306914000",
+      "code": "0306914000",
+      "name": "San Manuel"
+    }
+  },
+  {
+    "id": "0306914005",
+    "code": "0306914005",
+    "name": "Matarannoc",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306914000",
+      "code": "0306914000",
+      "name": "San Manuel"
+    }
+  },
+  {
+    "id": "0306914006",
+    "code": "0306914006",
+    "name": "Pacpaco",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306914000",
+      "code": "0306914000",
+      "name": "San Manuel"
+    }
+  },
+  {
+    "id": "0306914007",
+    "code": "0306914007",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306914000",
+      "code": "0306914000",
+      "name": "San Manuel"
+    }
+  },
+  {
+    "id": "0306914008",
+    "code": "0306914008",
+    "name": "Salcedo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306914000",
+      "code": "0306914000",
+      "name": "San Manuel"
+    }
+  },
+  {
+    "id": "0306914009",
+    "code": "0306914009",
+    "name": "San Agustin",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306914000",
+      "code": "0306914000",
+      "name": "San Manuel"
+    }
+  },
+  {
+    "id": "0306914010",
+    "code": "0306914010",
+    "name": "San Felipe",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306914000",
+      "code": "0306914000",
+      "name": "San Manuel"
+    }
+  },
+  {
+    "id": "0306914011",
+    "code": "0306914011",
+    "name": "San Jacinto",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306914000",
+      "code": "0306914000",
+      "name": "San Manuel"
+    }
+  },
+  {
+    "id": "0306914012",
+    "code": "0306914012",
+    "name": "San Miguel",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306914000",
+      "code": "0306914000",
+      "name": "San Manuel"
+    }
+  },
+  {
+    "id": "0306914013",
+    "code": "0306914013",
+    "name": "San Narciso",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306914000",
+      "code": "0306914000",
+      "name": "San Manuel"
+    }
+  },
+  {
+    "id": "0306914014",
+    "code": "0306914014",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306914000",
+      "code": "0306914000",
+      "name": "San Manuel"
+    }
+  },
+  {
+    "id": "0306914015",
+    "code": "0306914015",
+    "name": "Santa Maria",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306914000",
+      "code": "0306914000",
+      "name": "San Manuel"
+    }
+  }
+]

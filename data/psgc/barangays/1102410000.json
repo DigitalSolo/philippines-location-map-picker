@@ -1,0 +1,695 @@
+[
+  {
+    "id": "1102410001",
+    "code": "1102410001",
+    "name": "Asbang",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102410000",
+      "code": "1102410000",
+      "name": "Matanao"
+    }
+  },
+  {
+    "id": "1102410002",
+    "code": "1102410002",
+    "name": "Asinan",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102410000",
+      "code": "1102410000",
+      "name": "Matanao"
+    }
+  },
+  {
+    "id": "1102410003",
+    "code": "1102410003",
+    "name": "Bagumbayan",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102410000",
+      "code": "1102410000",
+      "name": "Matanao"
+    }
+  },
+  {
+    "id": "1102410004",
+    "code": "1102410004",
+    "name": "Bangkal",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102410000",
+      "code": "1102410000",
+      "name": "Matanao"
+    }
+  },
+  {
+    "id": "1102410005",
+    "code": "1102410005",
+    "name": "Buas",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102410000",
+      "code": "1102410000",
+      "name": "Matanao"
+    }
+  },
+  {
+    "id": "1102410006",
+    "code": "1102410006",
+    "name": "Buri",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102410000",
+      "code": "1102410000",
+      "name": "Matanao"
+    }
+  },
+  {
+    "id": "1102410021",
+    "code": "1102410021",
+    "name": "Cabligan",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102410000",
+      "code": "1102410000",
+      "name": "Matanao"
+    }
+  },
+  {
+    "id": "1102410007",
+    "code": "1102410007",
+    "name": "Camanchiles",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102410000",
+      "code": "1102410000",
+      "name": "Matanao"
+    }
+  },
+  {
+    "id": "1102410008",
+    "code": "1102410008",
+    "name": "Ceboza",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102410000",
+      "code": "1102410000",
+      "name": "Matanao"
+    }
+  },
+  {
+    "id": "1102410009",
+    "code": "1102410009",
+    "name": "Colonsabak",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102410000",
+      "code": "1102410000",
+      "name": "Matanao"
+    }
+  },
+  {
+    "id": "1102410010",
+    "code": "1102410010",
+    "name": "Dongan-Pekong",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102410000",
+      "code": "1102410000",
+      "name": "Matanao"
+    }
+  },
+  {
+    "id": "1102410012",
+    "code": "1102410012",
+    "name": "Kabasagan",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102410000",
+      "code": "1102410000",
+      "name": "Matanao"
+    }
+  },
+  {
+    "id": "1102410013",
+    "code": "1102410013",
+    "name": "Kapok",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102410000",
+      "code": "1102410000",
+      "name": "Matanao"
+    }
+  },
+  {
+    "id": "1102410014",
+    "code": "1102410014",
+    "name": "Kauswagan",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102410000",
+      "code": "1102410000",
+      "name": "Matanao"
+    }
+  },
+  {
+    "id": "1102410015",
+    "code": "1102410015",
+    "name": "Kibao",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102410000",
+      "code": "1102410000",
+      "name": "Matanao"
+    }
+  },
+  {
+    "id": "1102410016",
+    "code": "1102410016",
+    "name": "La Suerte",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102410000",
+      "code": "1102410000",
+      "name": "Matanao"
+    }
+  },
+  {
+    "id": "1102410017",
+    "code": "1102410017",
+    "name": "Langa-an",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102410000",
+      "code": "1102410000",
+      "name": "Matanao"
+    }
+  },
+  {
+    "id": "1102410019",
+    "code": "1102410019",
+    "name": "Lower Marber",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102410000",
+      "code": "1102410000",
+      "name": "Matanao"
+    }
+  },
+  {
+    "id": "1102410022",
+    "code": "1102410022",
+    "name": "Manga",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102410000",
+      "code": "1102410000",
+      "name": "Matanao"
+    }
+  },
+  {
+    "id": "1102410023",
+    "code": "1102410023",
+    "name": "New Katipunan",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102410000",
+      "code": "1102410000",
+      "name": "Matanao"
+    }
+  },
+  {
+    "id": "1102410024",
+    "code": "1102410024",
+    "name": "New Murcia",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102410000",
+      "code": "1102410000",
+      "name": "Matanao"
+    }
+  },
+  {
+    "id": "1102410025",
+    "code": "1102410025",
+    "name": "New Visayas",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102410000",
+      "code": "1102410000",
+      "name": "Matanao"
+    }
+  },
+  {
+    "id": "1102410026",
+    "code": "1102410026",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102410000",
+      "code": "1102410000",
+      "name": "Matanao"
+    }
+  },
+  {
+    "id": "1102410027",
+    "code": "1102410027",
+    "name": "Saboy",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102410000",
+      "code": "1102410000",
+      "name": "Matanao"
+    }
+  },
+  {
+    "id": "1102410028",
+    "code": "1102410028",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102410000",
+      "code": "1102410000",
+      "name": "Matanao"
+    }
+  },
+  {
+    "id": "1102410029",
+    "code": "1102410029",
+    "name": "San Miguel",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102410000",
+      "code": "1102410000",
+      "name": "Matanao"
+    }
+  },
+  {
+    "id": "1102410030",
+    "code": "1102410030",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102410000",
+      "code": "1102410000",
+      "name": "Matanao"
+    }
+  },
+  {
+    "id": "1102410031",
+    "code": "1102410031",
+    "name": "Saub",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102410000",
+      "code": "1102410000",
+      "name": "Matanao"
+    }
+  },
+  {
+    "id": "1102410032",
+    "code": "1102410032",
+    "name": "Sinaragan",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102410000",
+      "code": "1102410000",
+      "name": "Matanao"
+    }
+  },
+  {
+    "id": "1102410033",
+    "code": "1102410033",
+    "name": "Sinawilan",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102410000",
+      "code": "1102410000",
+      "name": "Matanao"
+    }
+  },
+  {
+    "id": "1102410034",
+    "code": "1102410034",
+    "name": "Tamlangon",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102410000",
+      "code": "1102410000",
+      "name": "Matanao"
+    }
+  },
+  {
+    "id": "1102410036",
+    "code": "1102410036",
+    "name": "Tibongbong",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102410000",
+      "code": "1102410000",
+      "name": "Matanao"
+    }
+  },
+  {
+    "id": "1102410035",
+    "code": "1102410035",
+    "name": "Towak",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102410000",
+      "code": "1102410000",
+      "name": "Matanao"
+    }
+  }
+]

@@ -1,0 +1,989 @@
+[
+  {
+    "id": "1004209001",
+    "code": "1004209001",
+    "name": "Apil",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  },
+  {
+    "id": "1004209002",
+    "code": "1004209002",
+    "name": "Binuangan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  },
+  {
+    "id": "1004209003",
+    "code": "1004209003",
+    "name": "Bolibol",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  },
+  {
+    "id": "1004209004",
+    "code": "1004209004",
+    "name": "Buenavista",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  },
+  {
+    "id": "1004209005",
+    "code": "1004209005",
+    "name": "Bunga",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  },
+  {
+    "id": "1004209006",
+    "code": "1004209006",
+    "name": "Buntawan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  },
+  {
+    "id": "1004209007",
+    "code": "1004209007",
+    "name": "Burgos",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  },
+  {
+    "id": "1004209008",
+    "code": "1004209008",
+    "name": "Canubay",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  },
+  {
+    "id": "1004209027",
+    "code": "1004209027",
+    "name": "Ciriaco C. Pastrano",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  },
+  {
+    "id": "1004209009",
+    "code": "1004209009",
+    "name": "Clarin Settlement",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  },
+  {
+    "id": "1004209011",
+    "code": "1004209011",
+    "name": "Dolipos Alto",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  },
+  {
+    "id": "1004209010",
+    "code": "1004209010",
+    "name": "Dolipos Bajo",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  },
+  {
+    "id": "1004209012",
+    "code": "1004209012",
+    "name": "Dulapo",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  },
+  {
+    "id": "1004209013",
+    "code": "1004209013",
+    "name": "Dullan Norte",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  },
+  {
+    "id": "1004209014",
+    "code": "1004209014",
+    "name": "Dullan Sur",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  },
+  {
+    "id": "1004209015",
+    "code": "1004209015",
+    "name": "Lamac Lower",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  },
+  {
+    "id": "1004209016",
+    "code": "1004209016",
+    "name": "Lamac Upper",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  },
+  {
+    "id": "1004209017",
+    "code": "1004209017",
+    "name": "Langcangan Lower",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  },
+  {
+    "id": "1004209018",
+    "code": "1004209018",
+    "name": "Langcangan Proper",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  },
+  {
+    "id": "1004209019",
+    "code": "1004209019",
+    "name": "Langcangan Upper",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  },
+  {
+    "id": "1004209020",
+    "code": "1004209020",
+    "name": "Layawan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  },
+  {
+    "id": "1004209021",
+    "code": "1004209021",
+    "name": "Loboc Lower",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  },
+  {
+    "id": "1004209022",
+    "code": "1004209022",
+    "name": "Loboc Upper",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  },
+  {
+    "id": "1004209024",
+    "code": "1004209024",
+    "name": "Malindang",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  },
+  {
+    "id": "1004209025",
+    "code": "1004209025",
+    "name": "Mialen",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  },
+  {
+    "id": "1004209026",
+    "code": "1004209026",
+    "name": "Mobod",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  },
+  {
+    "id": "1004209028",
+    "code": "1004209028",
+    "name": "Paypayan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  },
+  {
+    "id": "1004209029",
+    "code": "1004209029",
+    "name": "Pines",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  },
+  {
+    "id": "1004209030",
+    "code": "1004209030",
+    "name": "Poblacion I",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  },
+  {
+    "id": "1004209031",
+    "code": "1004209031",
+    "name": "Poblacion II",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  },
+  {
+    "id": "1004209023",
+    "code": "1004209023",
+    "name": "Rizal Lower",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  },
+  {
+    "id": "1004209046",
+    "code": "1004209046",
+    "name": "Rizal Upper",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  },
+  {
+    "id": "1004209033",
+    "code": "1004209033",
+    "name": "San Vicente Alto",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  },
+  {
+    "id": "1004209034",
+    "code": "1004209034",
+    "name": "San Vicente Bajo",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  },
+  {
+    "id": "1004209035",
+    "code": "1004209035",
+    "name": "Sebucal",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  },
+  {
+    "id": "1004209036",
+    "code": "1004209036",
+    "name": "Senote",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  },
+  {
+    "id": "1004209037",
+    "code": "1004209037",
+    "name": "Taboc Norte",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  },
+  {
+    "id": "1004209038",
+    "code": "1004209038",
+    "name": "Taboc Sur",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  },
+  {
+    "id": "1004209039",
+    "code": "1004209039",
+    "name": "Talairon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  },
+  {
+    "id": "1004209040",
+    "code": "1004209040",
+    "name": "Talic",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  },
+  {
+    "id": "1004209042",
+    "code": "1004209042",
+    "name": "Tipan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  },
+  {
+    "id": "1004209041",
+    "code": "1004209041",
+    "name": "Toliyok",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  },
+  {
+    "id": "1004209043",
+    "code": "1004209043",
+    "name": "Tuyabang Alto",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  },
+  {
+    "id": "1004209044",
+    "code": "1004209044",
+    "name": "Tuyabang Bajo",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  },
+  {
+    "id": "1004209045",
+    "code": "1004209045",
+    "name": "Tuyabang Proper",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  },
+  {
+    "id": "1004209047",
+    "code": "1004209047",
+    "name": "Victoria",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  },
+  {
+    "id": "1004209048",
+    "code": "1004209048",
+    "name": "Villaflor",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004209000",
+      "code": "1004209000",
+      "name": "City of Oroquieta"
+    }
+  }
+]

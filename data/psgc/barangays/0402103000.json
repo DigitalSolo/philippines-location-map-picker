@@ -1,0 +1,989 @@
+[
+  {
+    "id": "0402103076",
+    "code": "0402103076",
+    "name": "Aniban 1",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  },
+  {
+    "id": "0402103077",
+    "code": "0402103077",
+    "name": "Aniban 2",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  },
+  {
+    "id": "0402103004",
+    "code": "0402103004",
+    "name": "Bayanan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  },
+  {
+    "id": "0402103007",
+    "code": "0402103007",
+    "name": "Dulong Bayan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  },
+  {
+    "id": "0402103008",
+    "code": "0402103008",
+    "name": "Habay I",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  },
+  {
+    "id": "0402103034",
+    "code": "0402103034",
+    "name": "Habay II",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  },
+  {
+    "id": "0402103078",
+    "code": "0402103078",
+    "name": "Kaingin Digman",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  },
+  {
+    "id": "0402103079",
+    "code": "0402103079",
+    "name": "Ligas 1",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  },
+  {
+    "id": "0402103036",
+    "code": "0402103036",
+    "name": "Ligas 2",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  },
+  {
+    "id": "0402103080",
+    "code": "0402103080",
+    "name": "Mabolo",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  },
+  {
+    "id": "0402103012",
+    "code": "0402103012",
+    "name": "Maliksi 1",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  },
+  {
+    "id": "0402103081",
+    "code": "0402103081",
+    "name": "Maliksi 2",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  },
+  {
+    "id": "0402103013",
+    "code": "0402103013",
+    "name": "Mambog 1",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  },
+  {
+    "id": "0402103082",
+    "code": "0402103082",
+    "name": "Mambog 2",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  },
+  {
+    "id": "0402103042",
+    "code": "0402103042",
+    "name": "Mambog 3",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  },
+  {
+    "id": "0402103043",
+    "code": "0402103043",
+    "name": "Mambog 4",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  },
+  {
+    "id": "0402103014",
+    "code": "0402103014",
+    "name": "Molino I",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  },
+  {
+    "id": "0402103045",
+    "code": "0402103045",
+    "name": "Molino II",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  },
+  {
+    "id": "0402103046",
+    "code": "0402103046",
+    "name": "Molino III",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  },
+  {
+    "id": "0402103047",
+    "code": "0402103047",
+    "name": "Molino IV",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  },
+  {
+    "id": "0402103048",
+    "code": "0402103048",
+    "name": "Molino V",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  },
+  {
+    "id": "0402103049",
+    "code": "0402103049",
+    "name": "Molino VI",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  },
+  {
+    "id": "0402103050",
+    "code": "0402103050",
+    "name": "Molino VII",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  },
+  {
+    "id": "0402103083",
+    "code": "0402103083",
+    "name": "Niog",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  },
+  {
+    "id": "0402103018",
+    "code": "0402103018",
+    "name": "P.F. Espiritu 1",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  },
+  {
+    "id": "0402103084",
+    "code": "0402103084",
+    "name": "P.F. Espiritu 2",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  },
+  {
+    "id": "0402103055",
+    "code": "0402103055",
+    "name": "P.F. Espiritu 3",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  },
+  {
+    "id": "0402103085",
+    "code": "0402103085",
+    "name": "P.F. Espiritu 4",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  },
+  {
+    "id": "0402103058",
+    "code": "0402103058",
+    "name": "P.F. Espiritu 5",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  },
+  {
+    "id": "0402103059",
+    "code": "0402103059",
+    "name": "P.F. Espiritu 6",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  },
+  {
+    "id": "0402103086",
+    "code": "0402103086",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  },
+  {
+    "id": "0402103026",
+    "code": "0402103026",
+    "name": "Queens Row Central",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  },
+  {
+    "id": "0402103027",
+    "code": "0402103027",
+    "name": "Queens Row East",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  },
+  {
+    "id": "0402103028",
+    "code": "0402103028",
+    "name": "Queens Row West",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  },
+  {
+    "id": "0402103087",
+    "code": "0402103087",
+    "name": "Real",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  },
+  {
+    "id": "0402103088",
+    "code": "0402103088",
+    "name": "Salinas 2",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  },
+  {
+    "id": "0402103020",
+    "code": "0402103020",
+    "name": "Salinas I",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  },
+  {
+    "id": "0402103021",
+    "code": "0402103021",
+    "name": "San Nicolas 1",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  },
+  {
+    "id": "0402103064",
+    "code": "0402103064",
+    "name": "San Nicolas II",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  },
+  {
+    "id": "0402103065",
+    "code": "0402103065",
+    "name": "San Nicolas III",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  },
+  {
+    "id": "0402103089",
+    "code": "0402103089",
+    "name": "Sinbanali",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  },
+  {
+    "id": "0402103090",
+    "code": "0402103090",
+    "name": "Talaba 1",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  },
+  {
+    "id": "0402103066",
+    "code": "0402103066",
+    "name": "Talaba 2",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  },
+  {
+    "id": "0402103091",
+    "code": "0402103091",
+    "name": "Talaba 3",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  },
+  {
+    "id": "0402103092",
+    "code": "0402103092",
+    "name": "Zapote 1",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  },
+  {
+    "id": "0402103093",
+    "code": "0402103093",
+    "name": "Zapote 2",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  },
+  {
+    "id": "0402103075",
+    "code": "0402103075",
+    "name": "Zapote 3",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402103000",
+      "code": "0402103000",
+      "name": "City of Bacoor"
+    }
+  }
+]

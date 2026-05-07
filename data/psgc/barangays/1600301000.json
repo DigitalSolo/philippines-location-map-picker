@@ -1,0 +1,905 @@
+[
+  {
+    "id": "1600301028",
+    "code": "1600301028",
+    "name": "Berseba",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600301000",
+      "code": "1600301000",
+      "name": "City of Bayugan"
+    }
+  },
+  {
+    "id": "1600301029",
+    "code": "1600301029",
+    "name": "Bucac",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600301000",
+      "code": "1600301000",
+      "name": "City of Bayugan"
+    }
+  },
+  {
+    "id": "1600301030",
+    "code": "1600301030",
+    "name": "Cagbas",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600301000",
+      "code": "1600301000",
+      "name": "City of Bayugan"
+    }
+  },
+  {
+    "id": "1600301001",
+    "code": "1600301001",
+    "name": "Calaitan",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600301000",
+      "code": "1600301000",
+      "name": "City of Bayugan"
+    }
+  },
+  {
+    "id": "1600301031",
+    "code": "1600301031",
+    "name": "Canayugan",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600301000",
+      "code": "1600301000",
+      "name": "City of Bayugan"
+    }
+  },
+  {
+    "id": "1600301002",
+    "code": "1600301002",
+    "name": "Charito",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600301000",
+      "code": "1600301000",
+      "name": "City of Bayugan"
+    }
+  },
+  {
+    "id": "1600301032",
+    "code": "1600301032",
+    "name": "Claro Cortez",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600301000",
+      "code": "1600301000",
+      "name": "City of Bayugan"
+    }
+  },
+  {
+    "id": "1600301003",
+    "code": "1600301003",
+    "name": "Fili",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600301000",
+      "code": "1600301000",
+      "name": "City of Bayugan"
+    }
+  },
+  {
+    "id": "1600301033",
+    "code": "1600301033",
+    "name": "Gamao",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600301000",
+      "code": "1600301000",
+      "name": "City of Bayugan"
+    }
+  },
+  {
+    "id": "1600301034",
+    "code": "1600301034",
+    "name": "Getsemane",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600301000",
+      "code": "1600301000",
+      "name": "City of Bayugan"
+    }
+  },
+  {
+    "id": "1600301035",
+    "code": "1600301035",
+    "name": "Grace Estate",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600301000",
+      "code": "1600301000",
+      "name": "City of Bayugan"
+    }
+  },
+  {
+    "id": "1600301004",
+    "code": "1600301004",
+    "name": "Hamogaway",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600301000",
+      "code": "1600301000",
+      "name": "City of Bayugan"
+    }
+  },
+  {
+    "id": "1600301006",
+    "code": "1600301006",
+    "name": "Katipunan",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600301000",
+      "code": "1600301000",
+      "name": "City of Bayugan"
+    }
+  },
+  {
+    "id": "1600301007",
+    "code": "1600301007",
+    "name": "Mabuhay",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600301000",
+      "code": "1600301000",
+      "name": "City of Bayugan"
+    }
+  },
+  {
+    "id": "1600301036",
+    "code": "1600301036",
+    "name": "Magkiangkang",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600301000",
+      "code": "1600301000",
+      "name": "City of Bayugan"
+    }
+  },
+  {
+    "id": "1600301037",
+    "code": "1600301037",
+    "name": "Mahayag",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600301000",
+      "code": "1600301000",
+      "name": "City of Bayugan"
+    }
+  },
+  {
+    "id": "1600301009",
+    "code": "1600301009",
+    "name": "Marcelina",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600301000",
+      "code": "1600301000",
+      "name": "City of Bayugan"
+    }
+  },
+  {
+    "id": "1600301010",
+    "code": "1600301010",
+    "name": "Maygatasan",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600301000",
+      "code": "1600301000",
+      "name": "City of Bayugan"
+    }
+  },
+  {
+    "id": "1600301038",
+    "code": "1600301038",
+    "name": "Montivesta",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600301000",
+      "code": "1600301000",
+      "name": "City of Bayugan"
+    }
+  },
+  {
+    "id": "1600301039",
+    "code": "1600301039",
+    "name": "Mt. Ararat",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600301000",
+      "code": "1600301000",
+      "name": "City of Bayugan"
+    }
+  },
+  {
+    "id": "1600301040",
+    "code": "1600301040",
+    "name": "Mt. Carmel",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600301000",
+      "code": "1600301000",
+      "name": "City of Bayugan"
+    }
+  },
+  {
+    "id": "1600301041",
+    "code": "1600301041",
+    "name": "Mt. Olive",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600301000",
+      "code": "1600301000",
+      "name": "City of Bayugan"
+    }
+  },
+  {
+    "id": "1600301042",
+    "code": "1600301042",
+    "name": "New Salem",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600301000",
+      "code": "1600301000",
+      "name": "City of Bayugan"
+    }
+  },
+  {
+    "id": "1600301011",
+    "code": "1600301011",
+    "name": "Noli",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600301000",
+      "code": "1600301000",
+      "name": "City of Bayugan"
+    }
+  },
+  {
+    "id": "1600301013",
+    "code": "1600301013",
+    "name": "Osmeña",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600301000",
+      "code": "1600301000",
+      "name": "City of Bayugan"
+    }
+  },
+  {
+    "id": "1600301014",
+    "code": "1600301014",
+    "name": "Panaytay",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600301000",
+      "code": "1600301000",
+      "name": "City of Bayugan"
+    }
+  },
+  {
+    "id": "1600301043",
+    "code": "1600301043",
+    "name": "Pinagalaan",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600301000",
+      "code": "1600301000",
+      "name": "City of Bayugan"
+    }
+  },
+  {
+    "id": "1600301016",
+    "code": "1600301016",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600301000",
+      "code": "1600301000",
+      "name": "City of Bayugan"
+    }
+  },
+  {
+    "id": "1600301017",
+    "code": "1600301017",
+    "name": "Sagmone",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600301000",
+      "code": "1600301000",
+      "name": "City of Bayugan"
+    }
+  },
+  {
+    "id": "1600301018",
+    "code": "1600301018",
+    "name": "Saguma",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600301000",
+      "code": "1600301000",
+      "name": "City of Bayugan"
+    }
+  },
+  {
+    "id": "1600301019",
+    "code": "1600301019",
+    "name": "Salvacion",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600301000",
+      "code": "1600301000",
+      "name": "City of Bayugan"
+    }
+  },
+  {
+    "id": "1600301044",
+    "code": "1600301044",
+    "name": "San Agustin",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600301000",
+      "code": "1600301000",
+      "name": "City of Bayugan"
+    }
+  },
+  {
+    "id": "1600301020",
+    "code": "1600301020",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600301000",
+      "code": "1600301000",
+      "name": "City of Bayugan"
+    }
+  },
+  {
+    "id": "1600301045",
+    "code": "1600301045",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600301000",
+      "code": "1600301000",
+      "name": "City of Bayugan"
+    }
+  },
+  {
+    "id": "1600301023",
+    "code": "1600301023",
+    "name": "Santa Irene",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600301000",
+      "code": "1600301000",
+      "name": "City of Bayugan"
+    }
+  },
+  {
+    "id": "1600301046",
+    "code": "1600301046",
+    "name": "Santa Teresita",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600301000",
+      "code": "1600301000",
+      "name": "City of Bayugan"
+    }
+  },
+  {
+    "id": "1600301047",
+    "code": "1600301047",
+    "name": "Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600301000",
+      "code": "1600301000",
+      "name": "City of Bayugan"
+    }
+  },
+  {
+    "id": "1600301024",
+    "code": "1600301024",
+    "name": "Taglatawan",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600301000",
+      "code": "1600301000",
+      "name": "City of Bayugan"
+    }
+  },
+  {
+    "id": "1600301048",
+    "code": "1600301048",
+    "name": "Taglibas",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600301000",
+      "code": "1600301000",
+      "name": "City of Bayugan"
+    }
+  },
+  {
+    "id": "1600301049",
+    "code": "1600301049",
+    "name": "Tagubay",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600301000",
+      "code": "1600301000",
+      "name": "City of Bayugan"
+    }
+  },
+  {
+    "id": "1600301025",
+    "code": "1600301025",
+    "name": "Verdu",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600301000",
+      "code": "1600301000",
+      "name": "City of Bayugan"
+    }
+  },
+  {
+    "id": "1600301050",
+    "code": "1600301050",
+    "name": "Villa Undayon",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600301000",
+      "code": "1600301000",
+      "name": "City of Bayugan"
+    }
+  },
+  {
+    "id": "1600301027",
+    "code": "1600301027",
+    "name": "Wawa",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600301000",
+      "code": "1600301000",
+      "name": "City of Bayugan"
+    }
+  }
+]

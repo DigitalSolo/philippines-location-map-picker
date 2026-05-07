@@ -1,0 +1,170 @@
+[
+  {
+    "id": "1600208001",
+    "code": "1600208001",
+    "name": "Buhang",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600200000",
+      "code": "1600200000",
+      "name": "Agusan del Norte"
+    },
+    "city_municipality": {
+      "id": "1600208000",
+      "code": "1600208000",
+      "name": "Magallanes"
+    }
+  },
+  {
+    "id": "1600208002",
+    "code": "1600208002",
+    "name": "Caloc-an",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600200000",
+      "code": "1600200000",
+      "name": "Agusan del Norte"
+    },
+    "city_municipality": {
+      "id": "1600208000",
+      "code": "1600208000",
+      "name": "Magallanes"
+    }
+  },
+  {
+    "id": "1600208003",
+    "code": "1600208003",
+    "name": "Guiasan",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600200000",
+      "code": "1600200000",
+      "name": "Agusan del Norte"
+    },
+    "city_municipality": {
+      "id": "1600208000",
+      "code": "1600208000",
+      "name": "Magallanes"
+    }
+  },
+  {
+    "id": "1600208009",
+    "code": "1600208009",
+    "name": "Marcos",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600200000",
+      "code": "1600200000",
+      "name": "Agusan del Norte"
+    },
+    "city_municipality": {
+      "id": "1600208000",
+      "code": "1600208000",
+      "name": "Magallanes"
+    }
+  },
+  {
+    "id": "1600208005",
+    "code": "1600208005",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600200000",
+      "code": "1600200000",
+      "name": "Agusan del Norte"
+    },
+    "city_municipality": {
+      "id": "1600208000",
+      "code": "1600208000",
+      "name": "Magallanes"
+    }
+  },
+  {
+    "id": "1600208010",
+    "code": "1600208010",
+    "name": "Sto. Niño",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600200000",
+      "code": "1600200000",
+      "name": "Agusan del Norte"
+    },
+    "city_municipality": {
+      "id": "1600208000",
+      "code": "1600208000",
+      "name": "Magallanes"
+    }
+  },
+  {
+    "id": "1600208011",
+    "code": "1600208011",
+    "name": "Sto. Rosario",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600200000",
+      "code": "1600200000",
+      "name": "Agusan del Norte"
+    },
+    "city_municipality": {
+      "id": "1600208000",
+      "code": "1600208000",
+      "name": "Magallanes"
+    }
+  },
+  {
+    "id": "1600208008",
+    "code": "1600208008",
+    "name": "Taod-oy",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600200000",
+      "code": "1600200000",
+      "name": "Agusan del Norte"
+    },
+    "city_municipality": {
+      "id": "1600208000",
+      "code": "1600208000",
+      "name": "Magallanes"
+    }
+  }
+]

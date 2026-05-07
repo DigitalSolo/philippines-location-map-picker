@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1900700000",
+    "code": "1900700000",
+    "name": "Basilan",
+    "type": "province",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    }
+  },
+  {
+    "id": "1903600000",
+    "code": "1903600000",
+    "name": "Lanao del Sur",
+    "type": "province",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    }
+  },
+  {
+    "id": "1908700000",
+    "code": "1908700000",
+    "name": "Maguindanao del Norte",
+    "type": "province",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    }
+  },
+  {
+    "id": "1908800000",
+    "code": "1908800000",
+    "name": "Maguindanao del Sur",
+    "type": "province",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    }
+  },
+  {
+    "id": "1999900000",
+    "code": "1999900000",
+    "name": "Special Geographic Area",
+    "type": "province",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    }
+  },
+  {
+    "id": "1907000000",
+    "code": "1907000000",
+    "name": "Tawi-Tawi",
+    "type": "province",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    }
+  }
+]

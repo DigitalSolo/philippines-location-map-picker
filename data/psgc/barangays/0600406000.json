@@ -1,0 +1,737 @@
+[
+  {
+    "id": "0600406001",
+    "code": "0600406001",
+    "name": "Agbago",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600406000",
+      "code": "0600406000",
+      "name": "Ibajay"
+    }
+  },
+  {
+    "id": "0600406002",
+    "code": "0600406002",
+    "name": "Agdugayan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600406000",
+      "code": "0600406000",
+      "name": "Ibajay"
+    }
+  },
+  {
+    "id": "0600406003",
+    "code": "0600406003",
+    "name": "Antipolo",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600406000",
+      "code": "0600406000",
+      "name": "Ibajay"
+    }
+  },
+  {
+    "id": "0600406004",
+    "code": "0600406004",
+    "name": "Aparicio",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600406000",
+      "code": "0600406000",
+      "name": "Ibajay"
+    }
+  },
+  {
+    "id": "0600406005",
+    "code": "0600406005",
+    "name": "Aquino",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600406000",
+      "code": "0600406000",
+      "name": "Ibajay"
+    }
+  },
+  {
+    "id": "0600406006",
+    "code": "0600406006",
+    "name": "Aslum",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600406000",
+      "code": "0600406000",
+      "name": "Ibajay"
+    }
+  },
+  {
+    "id": "0600406007",
+    "code": "0600406007",
+    "name": "Bagacay",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600406000",
+      "code": "0600406000",
+      "name": "Ibajay"
+    }
+  },
+  {
+    "id": "0600406008",
+    "code": "0600406008",
+    "name": "Batuan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600406000",
+      "code": "0600406000",
+      "name": "Ibajay"
+    }
+  },
+  {
+    "id": "0600406009",
+    "code": "0600406009",
+    "name": "Buenavista",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600406000",
+      "code": "0600406000",
+      "name": "Ibajay"
+    }
+  },
+  {
+    "id": "0600406010",
+    "code": "0600406010",
+    "name": "Bugtongbato",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600406000",
+      "code": "0600406000",
+      "name": "Ibajay"
+    }
+  },
+  {
+    "id": "0600406011",
+    "code": "0600406011",
+    "name": "Cabugao",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600406000",
+      "code": "0600406000",
+      "name": "Ibajay"
+    }
+  },
+  {
+    "id": "0600406012",
+    "code": "0600406012",
+    "name": "Capilijan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600406000",
+      "code": "0600406000",
+      "name": "Ibajay"
+    }
+  },
+  {
+    "id": "0600406013",
+    "code": "0600406013",
+    "name": "Colongcolong",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600406000",
+      "code": "0600406000",
+      "name": "Ibajay"
+    }
+  },
+  {
+    "id": "0600406014",
+    "code": "0600406014",
+    "name": "Laguinbanwa",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600406000",
+      "code": "0600406000",
+      "name": "Ibajay"
+    }
+  },
+  {
+    "id": "0600406015",
+    "code": "0600406015",
+    "name": "Mabusao",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600406000",
+      "code": "0600406000",
+      "name": "Ibajay"
+    }
+  },
+  {
+    "id": "0600406016",
+    "code": "0600406016",
+    "name": "Malindog",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600406000",
+      "code": "0600406000",
+      "name": "Ibajay"
+    }
+  },
+  {
+    "id": "0600406017",
+    "code": "0600406017",
+    "name": "Maloco",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600406000",
+      "code": "0600406000",
+      "name": "Ibajay"
+    }
+  },
+  {
+    "id": "0600406018",
+    "code": "0600406018",
+    "name": "Mina-a",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600406000",
+      "code": "0600406000",
+      "name": "Ibajay"
+    }
+  },
+  {
+    "id": "0600406019",
+    "code": "0600406019",
+    "name": "Monlaque",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600406000",
+      "code": "0600406000",
+      "name": "Ibajay"
+    }
+  },
+  {
+    "id": "0600406020",
+    "code": "0600406020",
+    "name": "Naile",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600406000",
+      "code": "0600406000",
+      "name": "Ibajay"
+    }
+  },
+  {
+    "id": "0600406021",
+    "code": "0600406021",
+    "name": "Naisud",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600406000",
+      "code": "0600406000",
+      "name": "Ibajay"
+    }
+  },
+  {
+    "id": "0600406022",
+    "code": "0600406022",
+    "name": "Naligusan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600406000",
+      "code": "0600406000",
+      "name": "Ibajay"
+    }
+  },
+  {
+    "id": "0600406023",
+    "code": "0600406023",
+    "name": "Ondoy",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600406000",
+      "code": "0600406000",
+      "name": "Ibajay"
+    }
+  },
+  {
+    "id": "0600406024",
+    "code": "0600406024",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600406000",
+      "code": "0600406000",
+      "name": "Ibajay"
+    }
+  },
+  {
+    "id": "0600406025",
+    "code": "0600406025",
+    "name": "Polo",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600406000",
+      "code": "0600406000",
+      "name": "Ibajay"
+    }
+  },
+  {
+    "id": "0600406026",
+    "code": "0600406026",
+    "name": "Regador",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600406000",
+      "code": "0600406000",
+      "name": "Ibajay"
+    }
+  },
+  {
+    "id": "0600406027",
+    "code": "0600406027",
+    "name": "Rivera",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600406000",
+      "code": "0600406000",
+      "name": "Ibajay"
+    }
+  },
+  {
+    "id": "0600406028",
+    "code": "0600406028",
+    "name": "Rizal",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600406000",
+      "code": "0600406000",
+      "name": "Ibajay"
+    }
+  },
+  {
+    "id": "0600406029",
+    "code": "0600406029",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600406000",
+      "code": "0600406000",
+      "name": "Ibajay"
+    }
+  },
+  {
+    "id": "0600406030",
+    "code": "0600406030",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600406000",
+      "code": "0600406000",
+      "name": "Ibajay"
+    }
+  },
+  {
+    "id": "0600406031",
+    "code": "0600406031",
+    "name": "Sta. Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600406000",
+      "code": "0600406000",
+      "name": "Ibajay"
+    }
+  },
+  {
+    "id": "0600406032",
+    "code": "0600406032",
+    "name": "Tagbaya",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600406000",
+      "code": "0600406000",
+      "name": "Ibajay"
+    }
+  },
+  {
+    "id": "0600406033",
+    "code": "0600406033",
+    "name": "Tul-ang",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600406000",
+      "code": "0600406000",
+      "name": "Ibajay"
+    }
+  },
+  {
+    "id": "0600406034",
+    "code": "0600406034",
+    "name": "Unat",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600406000",
+      "code": "0600406000",
+      "name": "Ibajay"
+    }
+  },
+  {
+    "id": "0600406035",
+    "code": "0600406035",
+    "name": "Yawan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600406000",
+      "code": "0600406000",
+      "name": "Ibajay"
+    }
+  }
+]

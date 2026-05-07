@@ -1,0 +1,989 @@
+[
+  {
+    "id": "0600608001",
+    "code": "0600608001",
+    "name": "Apdo",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  },
+  {
+    "id": "0600608002",
+    "code": "0600608002",
+    "name": "Asluman",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  },
+  {
+    "id": "0600608003",
+    "code": "0600608003",
+    "name": "Banawon",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  },
+  {
+    "id": "0600608005",
+    "code": "0600608005",
+    "name": "Bia-an",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  },
+  {
+    "id": "0600608006",
+    "code": "0600608006",
+    "name": "Bongbongan I-II",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  },
+  {
+    "id": "0600608008",
+    "code": "0600608008",
+    "name": "Bongbongan III",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  },
+  {
+    "id": "0600608009",
+    "code": "0600608009",
+    "name": "Botbot",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  },
+  {
+    "id": "0600608010",
+    "code": "0600608010",
+    "name": "Budbudan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  },
+  {
+    "id": "0600608011",
+    "code": "0600608011",
+    "name": "Buhang",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  },
+  {
+    "id": "0600608012",
+    "code": "0600608012",
+    "name": "Calacja I",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  },
+  {
+    "id": "0600608013",
+    "code": "0600608013",
+    "name": "Calacja II",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  },
+  {
+    "id": "0600608014",
+    "code": "0600608014",
+    "name": "Calala",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  },
+  {
+    "id": "0600608015",
+    "code": "0600608015",
+    "name": "Cantulan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  },
+  {
+    "id": "0600608016",
+    "code": "0600608016",
+    "name": "Caridad",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  },
+  {
+    "id": "0600608017",
+    "code": "0600608017",
+    "name": "Caromangay",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  },
+  {
+    "id": "0600608018",
+    "code": "0600608018",
+    "name": "Casalngan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  },
+  {
+    "id": "0600608019",
+    "code": "0600608019",
+    "name": "Dangcalan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  },
+  {
+    "id": "0600608020",
+    "code": "0600608020",
+    "name": "Del Pilar",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  },
+  {
+    "id": "0600608021",
+    "code": "0600608021",
+    "name": "Fabrica",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  },
+  {
+    "id": "0600608022",
+    "code": "0600608022",
+    "name": "Funda",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  },
+  {
+    "id": "0600608023",
+    "code": "0600608023",
+    "name": "General Fullon",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  },
+  {
+    "id": "0600608030",
+    "code": "0600608030",
+    "name": "Gov. Evelio B. Javier",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  },
+  {
+    "id": "0600608024",
+    "code": "0600608024",
+    "name": "Guintas",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  },
+  {
+    "id": "0600608025",
+    "code": "0600608025",
+    "name": "Igbical",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  },
+  {
+    "id": "0600608026",
+    "code": "0600608026",
+    "name": "Igbucagay",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  },
+  {
+    "id": "0600608027",
+    "code": "0600608027",
+    "name": "Inabasan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  },
+  {
+    "id": "0600608028",
+    "code": "0600608028",
+    "name": "Ingwan-Batangan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  },
+  {
+    "id": "0600608029",
+    "code": "0600608029",
+    "name": "La Paz",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  },
+  {
+    "id": "0600608031",
+    "code": "0600608031",
+    "name": "Linaban",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  },
+  {
+    "id": "0600608033",
+    "code": "0600608033",
+    "name": "Malandog",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  },
+  {
+    "id": "0600608034",
+    "code": "0600608034",
+    "name": "Mapatag",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  },
+  {
+    "id": "0600608035",
+    "code": "0600608035",
+    "name": "Masanag",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  },
+  {
+    "id": "0600608036",
+    "code": "0600608036",
+    "name": "Nalihawan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  },
+  {
+    "id": "0600608037",
+    "code": "0600608037",
+    "name": "Pamandayan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  },
+  {
+    "id": "0600608038",
+    "code": "0600608038",
+    "name": "Pasu-Jungao",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  },
+  {
+    "id": "0600608039",
+    "code": "0600608039",
+    "name": "Piapi I",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  },
+  {
+    "id": "0600608040",
+    "code": "0600608040",
+    "name": "Piapi II",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  },
+  {
+    "id": "0600608041",
+    "code": "0600608041",
+    "name": "Piapi III",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  },
+  {
+    "id": "0600608042",
+    "code": "0600608042",
+    "name": "Pili 1, 2, 3",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  },
+  {
+    "id": "0600608045",
+    "code": "0600608045",
+    "name": "Poblacion 1",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  },
+  {
+    "id": "0600608046",
+    "code": "0600608046",
+    "name": "Poblacion 2",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  },
+  {
+    "id": "0600608047",
+    "code": "0600608047",
+    "name": "Poblacion 3",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  },
+  {
+    "id": "0600608048",
+    "code": "0600608048",
+    "name": "Poblacion 4",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  },
+  {
+    "id": "0600608049",
+    "code": "0600608049",
+    "name": "Poblacion 5",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  },
+  {
+    "id": "0600608050",
+    "code": "0600608050",
+    "name": "Pu-ao",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  },
+  {
+    "id": "0600608051",
+    "code": "0600608051",
+    "name": "Suloc",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  },
+  {
+    "id": "0600608053",
+    "code": "0600608053",
+    "name": "Villavert-Jimenez",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600608000",
+      "code": "0600608000",
+      "name": "Hamtic"
+    }
+  }
+]

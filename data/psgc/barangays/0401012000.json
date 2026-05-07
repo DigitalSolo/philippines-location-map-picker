@@ -1,0 +1,968 @@
+[
+  {
+    "id": "0401012001",
+    "code": "0401012001",
+    "name": "Anak-Dagat",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401012000",
+      "code": "0401012000",
+      "name": "Lemery"
+    }
+  },
+  {
+    "id": "0401012002",
+    "code": "0401012002",
+    "name": "Arumahan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401012000",
+      "code": "0401012000",
+      "name": "Lemery"
+    }
+  },
+  {
+    "id": "0401012003",
+    "code": "0401012003",
+    "name": "Ayao-iyao",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401012000",
+      "code": "0401012000",
+      "name": "Lemery"
+    }
+  },
+  {
+    "id": "0401012004",
+    "code": "0401012004",
+    "name": "Bagong Pook",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401012000",
+      "code": "0401012000",
+      "name": "Lemery"
+    }
+  },
+  {
+    "id": "0401012005",
+    "code": "0401012005",
+    "name": "Bagong Sikat",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401012000",
+      "code": "0401012000",
+      "name": "Lemery"
+    }
+  },
+  {
+    "id": "0401012006",
+    "code": "0401012006",
+    "name": "Balanga",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401012000",
+      "code": "0401012000",
+      "name": "Lemery"
+    }
+  },
+  {
+    "id": "0401012007",
+    "code": "0401012007",
+    "name": "Bukal",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401012000",
+      "code": "0401012000",
+      "name": "Lemery"
+    }
+  },
+  {
+    "id": "0401012009",
+    "code": "0401012009",
+    "name": "Cahilan I",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401012000",
+      "code": "0401012000",
+      "name": "Lemery"
+    }
+  },
+  {
+    "id": "0401012010",
+    "code": "0401012010",
+    "name": "Cahilan II",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401012000",
+      "code": "0401012000",
+      "name": "Lemery"
+    }
+  },
+  {
+    "id": "0401012011",
+    "code": "0401012011",
+    "name": "Dayapan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401012000",
+      "code": "0401012000",
+      "name": "Lemery"
+    }
+  },
+  {
+    "id": "0401012032",
+    "code": "0401012032",
+    "name": "District I",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401012000",
+      "code": "0401012000",
+      "name": "Lemery"
+    }
+  },
+  {
+    "id": "0401012033",
+    "code": "0401012033",
+    "name": "District II",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401012000",
+      "code": "0401012000",
+      "name": "Lemery"
+    }
+  },
+  {
+    "id": "0401012034",
+    "code": "0401012034",
+    "name": "District III",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401012000",
+      "code": "0401012000",
+      "name": "Lemery"
+    }
+  },
+  {
+    "id": "0401012035",
+    "code": "0401012035",
+    "name": "District IV",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401012000",
+      "code": "0401012000",
+      "name": "Lemery"
+    }
+  },
+  {
+    "id": "0401012012",
+    "code": "0401012012",
+    "name": "Dita",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401012000",
+      "code": "0401012000",
+      "name": "Lemery"
+    }
+  },
+  {
+    "id": "0401012013",
+    "code": "0401012013",
+    "name": "Gulod",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401012000",
+      "code": "0401012000",
+      "name": "Lemery"
+    }
+  },
+  {
+    "id": "0401012014",
+    "code": "0401012014",
+    "name": "Lucky",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401012000",
+      "code": "0401012000",
+      "name": "Lemery"
+    }
+  },
+  {
+    "id": "0401012015",
+    "code": "0401012015",
+    "name": "Maguihan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401012000",
+      "code": "0401012000",
+      "name": "Lemery"
+    }
+  },
+  {
+    "id": "0401012016",
+    "code": "0401012016",
+    "name": "Mahabang Dahilig",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401012000",
+      "code": "0401012000",
+      "name": "Lemery"
+    }
+  },
+  {
+    "id": "0401012017",
+    "code": "0401012017",
+    "name": "Mahayahay",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401012000",
+      "code": "0401012000",
+      "name": "Lemery"
+    }
+  },
+  {
+    "id": "0401012018",
+    "code": "0401012018",
+    "name": "Maigsing Dahilig",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401012000",
+      "code": "0401012000",
+      "name": "Lemery"
+    }
+  },
+  {
+    "id": "0401012020",
+    "code": "0401012020",
+    "name": "Maligaya",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401012000",
+      "code": "0401012000",
+      "name": "Lemery"
+    }
+  },
+  {
+    "id": "0401012021",
+    "code": "0401012021",
+    "name": "Malinis",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401012000",
+      "code": "0401012000",
+      "name": "Lemery"
+    }
+  },
+  {
+    "id": "0401012022",
+    "code": "0401012022",
+    "name": "Masalisi",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401012000",
+      "code": "0401012000",
+      "name": "Lemery"
+    }
+  },
+  {
+    "id": "0401012023",
+    "code": "0401012023",
+    "name": "Mataas Na Bayan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401012000",
+      "code": "0401012000",
+      "name": "Lemery"
+    }
+  },
+  {
+    "id": "0401012024",
+    "code": "0401012024",
+    "name": "Matingain I",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401012000",
+      "code": "0401012000",
+      "name": "Lemery"
+    }
+  },
+  {
+    "id": "0401012025",
+    "code": "0401012025",
+    "name": "Matingain II",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401012000",
+      "code": "0401012000",
+      "name": "Lemery"
+    }
+  },
+  {
+    "id": "0401012026",
+    "code": "0401012026",
+    "name": "Mayasang",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401012000",
+      "code": "0401012000",
+      "name": "Lemery"
+    }
+  },
+  {
+    "id": "0401012027",
+    "code": "0401012027",
+    "name": "Niugan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401012000",
+      "code": "0401012000",
+      "name": "Lemery"
+    }
+  },
+  {
+    "id": "0401012028",
+    "code": "0401012028",
+    "name": "Nonong Casto",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401012000",
+      "code": "0401012000",
+      "name": "Lemery"
+    }
+  },
+  {
+    "id": "0401012029",
+    "code": "0401012029",
+    "name": "Palanas",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401012000",
+      "code": "0401012000",
+      "name": "Lemery"
+    }
+  },
+  {
+    "id": "0401012030",
+    "code": "0401012030",
+    "name": "Payapa Ibaba",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401012000",
+      "code": "0401012000",
+      "name": "Lemery"
+    }
+  },
+  {
+    "id": "0401012031",
+    "code": "0401012031",
+    "name": "Payapa Ilaya",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401012000",
+      "code": "0401012000",
+      "name": "Lemery"
+    }
+  },
+  {
+    "id": "0401012036",
+    "code": "0401012036",
+    "name": "Rizal",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401012000",
+      "code": "0401012000",
+      "name": "Lemery"
+    }
+  },
+  {
+    "id": "0401012037",
+    "code": "0401012037",
+    "name": "Sambal Ibaba",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401012000",
+      "code": "0401012000",
+      "name": "Lemery"
+    }
+  },
+  {
+    "id": "0401012038",
+    "code": "0401012038",
+    "name": "Sambal Ilaya",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401012000",
+      "code": "0401012000",
+      "name": "Lemery"
+    }
+  },
+  {
+    "id": "0401012039",
+    "code": "0401012039",
+    "name": "San Isidro Ibaba",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401012000",
+      "code": "0401012000",
+      "name": "Lemery"
+    }
+  },
+  {
+    "id": "0401012040",
+    "code": "0401012040",
+    "name": "San Isidro Itaas",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401012000",
+      "code": "0401012000",
+      "name": "Lemery"
+    }
+  },
+  {
+    "id": "0401012041",
+    "code": "0401012041",
+    "name": "Sangalang",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401012000",
+      "code": "0401012000",
+      "name": "Lemery"
+    }
+  },
+  {
+    "id": "0401012048",
+    "code": "0401012048",
+    "name": "Sinisian East",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401012000",
+      "code": "0401012000",
+      "name": "Lemery"
+    }
+  },
+  {
+    "id": "0401012049",
+    "code": "0401012049",
+    "name": "Sinisian West",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401012000",
+      "code": "0401012000",
+      "name": "Lemery"
+    }
+  },
+  {
+    "id": "0401012043",
+    "code": "0401012043",
+    "name": "Talaga",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401012000",
+      "code": "0401012000",
+      "name": "Lemery"
+    }
+  },
+  {
+    "id": "0401012044",
+    "code": "0401012044",
+    "name": "Tubigan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401012000",
+      "code": "0401012000",
+      "name": "Lemery"
+    }
+  },
+  {
+    "id": "0401012045",
+    "code": "0401012045",
+    "name": "Tubuan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401012000",
+      "code": "0401012000",
+      "name": "Lemery"
+    }
+  },
+  {
+    "id": "0401012046",
+    "code": "0401012046",
+    "name": "Wawa Ibaba",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401012000",
+      "code": "0401012000",
+      "name": "Lemery"
+    }
+  },
+  {
+    "id": "0401012047",
+    "code": "0401012047",
+    "name": "Wawa Ilaya",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401012000",
+      "code": "0401012000",
+      "name": "Lemery"
+    }
+  }
+]

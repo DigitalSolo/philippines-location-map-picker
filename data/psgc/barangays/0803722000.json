@@ -1,0 +1,506 @@
+[
+  {
+    "id": "0803722001",
+    "code": "0803722001",
+    "name": "Anislag",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803722000",
+      "code": "0803722000",
+      "name": "Isabel"
+    }
+  },
+  {
+    "id": "0803722002",
+    "code": "0803722002",
+    "name": "Antipolo",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803722000",
+      "code": "0803722000",
+      "name": "Isabel"
+    }
+  },
+  {
+    "id": "0803722003",
+    "code": "0803722003",
+    "name": "Apale",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803722000",
+      "code": "0803722000",
+      "name": "Isabel"
+    }
+  },
+  {
+    "id": "0803722004",
+    "code": "0803722004",
+    "name": "Bantigue",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803722000",
+      "code": "0803722000",
+      "name": "Isabel"
+    }
+  },
+  {
+    "id": "0803722005",
+    "code": "0803722005",
+    "name": "Benog",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803722000",
+      "code": "0803722000",
+      "name": "Isabel"
+    }
+  },
+  {
+    "id": "0803722006",
+    "code": "0803722006",
+    "name": "Bilwang",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803722000",
+      "code": "0803722000",
+      "name": "Isabel"
+    }
+  },
+  {
+    "id": "0803722007",
+    "code": "0803722007",
+    "name": "Can-andan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803722000",
+      "code": "0803722000",
+      "name": "Isabel"
+    }
+  },
+  {
+    "id": "0803722008",
+    "code": "0803722008",
+    "name": "Cangag",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803722000",
+      "code": "0803722000",
+      "name": "Isabel"
+    }
+  },
+  {
+    "id": "0803722009",
+    "code": "0803722009",
+    "name": "Consolacion",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803722000",
+      "code": "0803722000",
+      "name": "Isabel"
+    }
+  },
+  {
+    "id": "0803722010",
+    "code": "0803722010",
+    "name": "Honan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803722000",
+      "code": "0803722000",
+      "name": "Isabel"
+    }
+  },
+  {
+    "id": "0803722011",
+    "code": "0803722011",
+    "name": "Libertad",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803722000",
+      "code": "0803722000",
+      "name": "Isabel"
+    }
+  },
+  {
+    "id": "0803722012",
+    "code": "0803722012",
+    "name": "Mahayag",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803722000",
+      "code": "0803722000",
+      "name": "Isabel"
+    }
+  },
+  {
+    "id": "0803722013",
+    "code": "0803722013",
+    "name": "Marvel",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803722000",
+      "code": "0803722000",
+      "name": "Isabel"
+    }
+  },
+  {
+    "id": "0803722014",
+    "code": "0803722014",
+    "name": "Matlang",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803722000",
+      "code": "0803722000",
+      "name": "Isabel"
+    }
+  },
+  {
+    "id": "0803722015",
+    "code": "0803722015",
+    "name": "Monte Alegre",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803722000",
+      "code": "0803722000",
+      "name": "Isabel"
+    }
+  },
+  {
+    "id": "0803722017",
+    "code": "0803722017",
+    "name": "Puting Bato",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803722000",
+      "code": "0803722000",
+      "name": "Isabel"
+    }
+  },
+  {
+    "id": "0803722018",
+    "code": "0803722018",
+    "name": "San Francisco",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803722000",
+      "code": "0803722000",
+      "name": "Isabel"
+    }
+  },
+  {
+    "id": "0803722019",
+    "code": "0803722019",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803722000",
+      "code": "0803722000",
+      "name": "Isabel"
+    }
+  },
+  {
+    "id": "0803722020",
+    "code": "0803722020",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803722000",
+      "code": "0803722000",
+      "name": "Isabel"
+    }
+  },
+  {
+    "id": "0803722021",
+    "code": "0803722021",
+    "name": "Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803722000",
+      "code": "0803722000",
+      "name": "Isabel"
+    }
+  },
+  {
+    "id": "0803722022",
+    "code": "0803722022",
+    "name": "Santo Rosario",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803722000",
+      "code": "0803722000",
+      "name": "Isabel"
+    }
+  },
+  {
+    "id": "0803722023",
+    "code": "0803722023",
+    "name": "Tabunok",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803722000",
+      "code": "0803722000",
+      "name": "Isabel"
+    }
+  },
+  {
+    "id": "0803722024",
+    "code": "0803722024",
+    "name": "Tolingon",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803722000",
+      "code": "0803722000",
+      "name": "Isabel"
+    }
+  },
+  {
+    "id": "0803722025",
+    "code": "0803722025",
+    "name": "Tubod",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803722000",
+      "code": "0803722000",
+      "name": "Isabel"
+    }
+  }
+]

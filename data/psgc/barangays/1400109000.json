@@ -1,0 +1,128 @@
+[
+  {
+    "id": "1400109001",
+    "code": "1400109001",
+    "name": "Bacag",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400109000",
+      "code": "1400109000",
+      "name": "Lacub"
+    }
+  },
+  {
+    "id": "1400109002",
+    "code": "1400109002",
+    "name": "Buneg",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400109000",
+      "code": "1400109000",
+      "name": "Lacub"
+    }
+  },
+  {
+    "id": "1400109003",
+    "code": "1400109003",
+    "name": "Guinguinabang",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400109000",
+      "code": "1400109000",
+      "name": "Lacub"
+    }
+  },
+  {
+    "id": "1400109004",
+    "code": "1400109004",
+    "name": "Lan-ag",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400109000",
+      "code": "1400109000",
+      "name": "Lacub"
+    }
+  },
+  {
+    "id": "1400109005",
+    "code": "1400109005",
+    "name": "Pacoc",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400109000",
+      "code": "1400109000",
+      "name": "Lacub"
+    }
+  },
+  {
+    "id": "1400109006",
+    "code": "1400109006",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400109000",
+      "code": "1400109000",
+      "name": "Lacub"
+    }
+  }
+]

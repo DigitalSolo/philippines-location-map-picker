@@ -1,0 +1,485 @@
+[
+  {
+    "id": "0102808001",
+    "code": "0102808001",
+    "name": "Anggapang Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102808000",
+      "code": "0102808000",
+      "name": "Currimao"
+    }
+  },
+  {
+    "id": "0102808002",
+    "code": "0102808002",
+    "name": "Anggapang Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102808000",
+      "code": "0102808000",
+      "name": "Currimao"
+    }
+  },
+  {
+    "id": "0102808003",
+    "code": "0102808003",
+    "name": "Bimmanga",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102808000",
+      "code": "0102808000",
+      "name": "Currimao"
+    }
+  },
+  {
+    "id": "0102808004",
+    "code": "0102808004",
+    "name": "Cabuusan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102808000",
+      "code": "0102808000",
+      "name": "Currimao"
+    }
+  },
+  {
+    "id": "0102808005",
+    "code": "0102808005",
+    "name": "Comcomloong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102808000",
+      "code": "0102808000",
+      "name": "Currimao"
+    }
+  },
+  {
+    "id": "0102808006",
+    "code": "0102808006",
+    "name": "Gaang",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102808000",
+      "code": "0102808000",
+      "name": "Currimao"
+    }
+  },
+  {
+    "id": "0102808007",
+    "code": "0102808007",
+    "name": "Lang-ayan-Baramban",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102808000",
+      "code": "0102808000",
+      "name": "Currimao"
+    }
+  },
+  {
+    "id": "0102808008",
+    "code": "0102808008",
+    "name": "Lioes",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102808000",
+      "code": "0102808000",
+      "name": "Currimao"
+    }
+  },
+  {
+    "id": "0102808009",
+    "code": "0102808009",
+    "name": "Maglaoi Centro",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102808000",
+      "code": "0102808000",
+      "name": "Currimao"
+    }
+  },
+  {
+    "id": "0102808010",
+    "code": "0102808010",
+    "name": "Maglaoi Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102808000",
+      "code": "0102808000",
+      "name": "Currimao"
+    }
+  },
+  {
+    "id": "0102808011",
+    "code": "0102808011",
+    "name": "Maglaoi Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102808000",
+      "code": "0102808000",
+      "name": "Currimao"
+    }
+  },
+  {
+    "id": "0102808013",
+    "code": "0102808013",
+    "name": "Paguludan-Salindeg",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102808000",
+      "code": "0102808000",
+      "name": "Currimao"
+    }
+  },
+  {
+    "id": "0102808014",
+    "code": "0102808014",
+    "name": "Pangil",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102808000",
+      "code": "0102808000",
+      "name": "Currimao"
+    }
+  },
+  {
+    "id": "0102808015",
+    "code": "0102808015",
+    "name": "Pias Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102808000",
+      "code": "0102808000",
+      "name": "Currimao"
+    }
+  },
+  {
+    "id": "0102808016",
+    "code": "0102808016",
+    "name": "Pias Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102808000",
+      "code": "0102808000",
+      "name": "Currimao"
+    }
+  },
+  {
+    "id": "0102808017",
+    "code": "0102808017",
+    "name": "Poblacion I",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102808000",
+      "code": "0102808000",
+      "name": "Currimao"
+    }
+  },
+  {
+    "id": "0102808018",
+    "code": "0102808018",
+    "name": "Poblacion II",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102808000",
+      "code": "0102808000",
+      "name": "Currimao"
+    }
+  },
+  {
+    "id": "0102808019",
+    "code": "0102808019",
+    "name": "Salugan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102808000",
+      "code": "0102808000",
+      "name": "Currimao"
+    }
+  },
+  {
+    "id": "0102808020",
+    "code": "0102808020",
+    "name": "San Simeon",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102808000",
+      "code": "0102808000",
+      "name": "Currimao"
+    }
+  },
+  {
+    "id": "0102808021",
+    "code": "0102808021",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102808000",
+      "code": "0102808000",
+      "name": "Currimao"
+    }
+  },
+  {
+    "id": "0102808022",
+    "code": "0102808022",
+    "name": "Tapao-Tigue",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102808000",
+      "code": "0102808000",
+      "name": "Currimao"
+    }
+  },
+  {
+    "id": "0102808023",
+    "code": "0102808023",
+    "name": "Torre",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102808000",
+      "code": "0102808000",
+      "name": "Currimao"
+    }
+  },
+  {
+    "id": "0102808024",
+    "code": "0102808024",
+    "name": "Victoria",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102808000",
+      "code": "0102808000",
+      "name": "Currimao"
+    }
+  }
+]

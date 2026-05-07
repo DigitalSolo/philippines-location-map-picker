@@ -1,0 +1,464 @@
+[
+  {
+    "id": "0907209001",
+    "code": "0907209001",
+    "name": "Adante",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907209000",
+      "code": "0907209000",
+      "name": "Piñan"
+    }
+  },
+  {
+    "id": "0907209002",
+    "code": "0907209002",
+    "name": "Bacuyong",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907209000",
+      "code": "0907209000",
+      "name": "Piñan"
+    }
+  },
+  {
+    "id": "0907209003",
+    "code": "0907209003",
+    "name": "Bagong Silang",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907209000",
+      "code": "0907209000",
+      "name": "Piñan"
+    }
+  },
+  {
+    "id": "0907209004",
+    "code": "0907209004",
+    "name": "Calican",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907209000",
+      "code": "0907209000",
+      "name": "Piñan"
+    }
+  },
+  {
+    "id": "0907209006",
+    "code": "0907209006",
+    "name": "Del Pilar",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907209000",
+      "code": "0907209000",
+      "name": "Piñan"
+    }
+  },
+  {
+    "id": "0907209008",
+    "code": "0907209008",
+    "name": "Desin",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907209000",
+      "code": "0907209000",
+      "name": "Piñan"
+    }
+  },
+  {
+    "id": "0907209007",
+    "code": "0907209007",
+    "name": "Dilawa",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907209000",
+      "code": "0907209000",
+      "name": "Piñan"
+    }
+  },
+  {
+    "id": "0907209009",
+    "code": "0907209009",
+    "name": "Dionum",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907209000",
+      "code": "0907209000",
+      "name": "Piñan"
+    }
+  },
+  {
+    "id": "0907209010",
+    "code": "0907209010",
+    "name": "Lapu-lapu",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907209000",
+      "code": "0907209000",
+      "name": "Piñan"
+    }
+  },
+  {
+    "id": "0907209011",
+    "code": "0907209011",
+    "name": "Lower Gumay",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907209000",
+      "code": "0907209000",
+      "name": "Piñan"
+    }
+  },
+  {
+    "id": "0907209012",
+    "code": "0907209012",
+    "name": "Luzvilla",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907209000",
+      "code": "0907209000",
+      "name": "Piñan"
+    }
+  },
+  {
+    "id": "0907209013",
+    "code": "0907209013",
+    "name": "Poblacion North",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907209000",
+      "code": "0907209000",
+      "name": "Piñan"
+    }
+  },
+  {
+    "id": "0907209024",
+    "code": "0907209024",
+    "name": "Poblacion South",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907209000",
+      "code": "0907209000",
+      "name": "Piñan"
+    }
+  },
+  {
+    "id": "0907209015",
+    "code": "0907209015",
+    "name": "Santa Fe",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907209000",
+      "code": "0907209000",
+      "name": "Piñan"
+    }
+  },
+  {
+    "id": "0907209016",
+    "code": "0907209016",
+    "name": "Segabe",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907209000",
+      "code": "0907209000",
+      "name": "Piñan"
+    }
+  },
+  {
+    "id": "0907209017",
+    "code": "0907209017",
+    "name": "Sikitan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907209000",
+      "code": "0907209000",
+      "name": "Piñan"
+    }
+  },
+  {
+    "id": "0907209018",
+    "code": "0907209018",
+    "name": "Silano",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907209000",
+      "code": "0907209000",
+      "name": "Piñan"
+    }
+  },
+  {
+    "id": "0907209019",
+    "code": "0907209019",
+    "name": "Teresita",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907209000",
+      "code": "0907209000",
+      "name": "Piñan"
+    }
+  },
+  {
+    "id": "0907209020",
+    "code": "0907209020",
+    "name": "Tinaytayan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907209000",
+      "code": "0907209000",
+      "name": "Piñan"
+    }
+  },
+  {
+    "id": "0907209005",
+    "code": "0907209005",
+    "name": "Ubay",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907209000",
+      "code": "0907209000",
+      "name": "Piñan"
+    }
+  },
+  {
+    "id": "0907209022",
+    "code": "0907209022",
+    "name": "Upper Gumay",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907209000",
+      "code": "0907209000",
+      "name": "Piñan"
+    }
+  },
+  {
+    "id": "0907209023",
+    "code": "0907209023",
+    "name": "Villarico",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907209000",
+      "code": "0907209000",
+      "name": "Piñan"
+    }
+  }
+]

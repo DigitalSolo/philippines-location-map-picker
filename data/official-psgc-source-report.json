@@ -1,0 +1,13 @@
+{
+  "generatedAt": "2026-05-07T09:59:37.662Z",
+  "packageVersion": "1.0.62",
+  "source": "Philippine Statistics Authority PSGC 1Q 2026 Publication Datafile",
+  "sourceUrl": "https://psa.gov.ph/system/files/scd/PSGC-1Q-2026-Publication-Datafile.xlsx",
+  "pageUrl": "https://psa.gov.ph/classification/psgc",
+  "asOf": "2026-03-31",
+  "notes": [
+    "The source Excel workbook was downloaded from PSA and converted from the PSGC worksheet to CSV before importing.",
+    "Leading-zero PSGC codes were preserved during conversion.",
+    "The bundled package contains generated static JSON hierarchy files, not the original Excel workbook."
+  ]
+}

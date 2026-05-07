@@ -1,0 +1,464 @@
+[
+  {
+    "id": "1705305001",
+    "code": "1705305001",
+    "name": "Bono-bono",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705305000",
+      "code": "1705305000",
+      "name": "Bataraza"
+    }
+  },
+  {
+    "id": "1705305002",
+    "code": "1705305002",
+    "name": "Bulalacao",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705305000",
+      "code": "1705305000",
+      "name": "Bataraza"
+    }
+  },
+  {
+    "id": "1705305003",
+    "code": "1705305003",
+    "name": "Buliluyan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705305000",
+      "code": "1705305000",
+      "name": "Bataraza"
+    }
+  },
+  {
+    "id": "1705305004",
+    "code": "1705305004",
+    "name": "Culandanum",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705305000",
+      "code": "1705305000",
+      "name": "Bataraza"
+    }
+  },
+  {
+    "id": "1705305005",
+    "code": "1705305005",
+    "name": "Igang-igang",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705305000",
+      "code": "1705305000",
+      "name": "Bataraza"
+    }
+  },
+  {
+    "id": "1705305006",
+    "code": "1705305006",
+    "name": "Inogbong",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705305000",
+      "code": "1705305000",
+      "name": "Bataraza"
+    }
+  },
+  {
+    "id": "1705305007",
+    "code": "1705305007",
+    "name": "Iwahig",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705305000",
+      "code": "1705305000",
+      "name": "Bataraza"
+    }
+  },
+  {
+    "id": "1705305008",
+    "code": "1705305008",
+    "name": "Malihud",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705305000",
+      "code": "1705305000",
+      "name": "Bataraza"
+    }
+  },
+  {
+    "id": "1705305009",
+    "code": "1705305009",
+    "name": "Malitub",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705305000",
+      "code": "1705305000",
+      "name": "Bataraza"
+    }
+  },
+  {
+    "id": "1705305010",
+    "code": "1705305010",
+    "name": "Marangas",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705305000",
+      "code": "1705305000",
+      "name": "Bataraza"
+    }
+  },
+  {
+    "id": "1705305011",
+    "code": "1705305011",
+    "name": "Ocayan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705305000",
+      "code": "1705305000",
+      "name": "Bataraza"
+    }
+  },
+  {
+    "id": "1705305012",
+    "code": "1705305012",
+    "name": "Puring",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705305000",
+      "code": "1705305000",
+      "name": "Bataraza"
+    }
+  },
+  {
+    "id": "1705305013",
+    "code": "1705305013",
+    "name": "Rio Tuba",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705305000",
+      "code": "1705305000",
+      "name": "Bataraza"
+    }
+  },
+  {
+    "id": "1705305014",
+    "code": "1705305014",
+    "name": "Sandoval",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705305000",
+      "code": "1705305000",
+      "name": "Bataraza"
+    }
+  },
+  {
+    "id": "1705305015",
+    "code": "1705305015",
+    "name": "Sapa",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705305000",
+      "code": "1705305000",
+      "name": "Bataraza"
+    }
+  },
+  {
+    "id": "1705305016",
+    "code": "1705305016",
+    "name": "Sarong",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705305000",
+      "code": "1705305000",
+      "name": "Bataraza"
+    }
+  },
+  {
+    "id": "1705305017",
+    "code": "1705305017",
+    "name": "Sumbiling",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705305000",
+      "code": "1705305000",
+      "name": "Bataraza"
+    }
+  },
+  {
+    "id": "1705305018",
+    "code": "1705305018",
+    "name": "Tabud",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705305000",
+      "code": "1705305000",
+      "name": "Bataraza"
+    }
+  },
+  {
+    "id": "1705305019",
+    "code": "1705305019",
+    "name": "Tagnato",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705305000",
+      "code": "1705305000",
+      "name": "Bataraza"
+    }
+  },
+  {
+    "id": "1705305020",
+    "code": "1705305020",
+    "name": "Tagolango",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705305000",
+      "code": "1705305000",
+      "name": "Bataraza"
+    }
+  },
+  {
+    "id": "1705305021",
+    "code": "1705305021",
+    "name": "Taratak",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705305000",
+      "code": "1705305000",
+      "name": "Bataraza"
+    }
+  },
+  {
+    "id": "1705305022",
+    "code": "1705305022",
+    "name": "Tarusan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705305000",
+      "code": "1705305000",
+      "name": "Bataraza"
+    }
+  }
+]

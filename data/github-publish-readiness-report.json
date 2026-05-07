@@ -1,0 +1,110 @@
+{
+  "generatedAt": "2026-05-07T13:17:22.271Z",
+  "mode": "production",
+  "version": "1.0.65",
+  "summary": {
+    "requiredFiles": 27,
+    "requiredDirs": 7,
+    "forbiddenPathCount": 0,
+    "distFiles": {
+      "es": 168725,
+      "umd": 138113,
+      "css": 20935
+    },
+    "productionHierarchyReady": true,
+    "productionReverseFillReady": false,
+    "psgcCounts": {
+      "regions": 18,
+      "provinceFiles": 17,
+      "provinces": 84,
+      "cityFiles": 98,
+      "cities": 1656,
+      "barangayFiles": 1655,
+      "barangays": 42010
+    },
+    "thresholds": {
+      "regions": 18,
+      "provinces": 82,
+      "citiesAndMunicipalities": 1642,
+      "barangays": 42010,
+      "barangayPolygons": 42010
+    },
+    "hostApiOk": true,
+    "hardeningOk": true,
+    "vendorConsumptionOk": true
+  },
+  "commands": [
+    {
+      "script": "write-production-thresholds-report.js",
+      "command": "node tools/write-production-thresholds-report.js",
+      "status": 0,
+      "stdout": "",
+      "stderr": "",
+      "ok": true,
+      "required": true
+    },
+    {
+      "script": "verify-static-data.js",
+      "command": "node tools/verify-static-data.js --strict 0",
+      "status": 0,
+      "stdout": "",
+      "stderr": "",
+      "ok": true,
+      "required": true
+    },
+    {
+      "script": "check-host-api-freeze.js",
+      "command": "node tools/check-host-api-freeze.js",
+      "status": 0,
+      "stdout": "",
+      "stderr": "",
+      "ok": true,
+      "required": true
+    },
+    {
+      "script": "check-production-hardening.js",
+      "command": "node tools/check-production-hardening.js",
+      "status": 0,
+      "stdout": "",
+      "stderr": "",
+      "ok": true,
+      "required": true
+    },
+    {
+      "script": "check-vendor-consumption.js",
+      "command": "node tools/check-vendor-consumption.js",
+      "status": 0,
+      "stdout": "",
+      "stderr": "",
+      "ok": true,
+      "required": true
+    },
+    {
+      "script": "check-release-readiness.js",
+      "command": "node tools/check-release-readiness.js --scope production",
+      "status": 0,
+      "stdout": "",
+      "stderr": "",
+      "ok": true,
+      "required": true
+    },
+    {
+      "script": "check-production-readiness.js",
+      "command": "node tools/check-production-readiness.js --geometry-policy limited",
+      "status": 0,
+      "stdout": "",
+      "stderr": "",
+      "ok": true,
+      "required": true
+    }
+  ],
+  "warnings": [
+    {
+      "code": "local_only_directory_present",
+      "message": "node_modules exists locally and is ignored for publish checks. Do not commit or package it.",
+      "path": "node_modules"
+    }
+  ],
+  "failures": [],
+  "ok": true
+}

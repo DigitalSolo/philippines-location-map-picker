@@ -1,0 +1,695 @@
+[
+  {
+    "id": "1004216001",
+    "code": "1004216001",
+    "name": "Balon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004216000",
+      "code": "1004216000",
+      "name": "Tudela"
+    }
+  },
+  {
+    "id": "1004216002",
+    "code": "1004216002",
+    "name": "Barra",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004216000",
+      "code": "1004216000",
+      "name": "Tudela"
+    }
+  },
+  {
+    "id": "1004216003",
+    "code": "1004216003",
+    "name": "Basirang",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004216000",
+      "code": "1004216000",
+      "name": "Tudela"
+    }
+  },
+  {
+    "id": "1004216004",
+    "code": "1004216004",
+    "name": "Bongabong",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004216000",
+      "code": "1004216000",
+      "name": "Tudela"
+    }
+  },
+  {
+    "id": "1004216005",
+    "code": "1004216005",
+    "name": "Buenavista",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004216000",
+      "code": "1004216000",
+      "name": "Tudela"
+    }
+  },
+  {
+    "id": "1004216006",
+    "code": "1004216006",
+    "name": "Cabol-anonan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004216000",
+      "code": "1004216000",
+      "name": "Tudela"
+    }
+  },
+  {
+    "id": "1004216007",
+    "code": "1004216007",
+    "name": "Cahayag",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004216000",
+      "code": "1004216000",
+      "name": "Tudela"
+    }
+  },
+  {
+    "id": "1004216014",
+    "code": "1004216014",
+    "name": "Calambutan Bajo",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004216000",
+      "code": "1004216000",
+      "name": "Tudela"
+    }
+  },
+  {
+    "id": "1004216015",
+    "code": "1004216015",
+    "name": "Calambutan Settlement",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004216000",
+      "code": "1004216000",
+      "name": "Tudela"
+    }
+  },
+  {
+    "id": "1004216008",
+    "code": "1004216008",
+    "name": "Camating",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004216000",
+      "code": "1004216000",
+      "name": "Tudela"
+    }
+  },
+  {
+    "id": "1004216009",
+    "code": "1004216009",
+    "name": "Canibungan Proper",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004216000",
+      "code": "1004216000",
+      "name": "Tudela"
+    }
+  },
+  {
+    "id": "1004216010",
+    "code": "1004216010",
+    "name": "Casilak San Agustin",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004216000",
+      "code": "1004216000",
+      "name": "Tudela"
+    }
+  },
+  {
+    "id": "1004216011",
+    "code": "1004216011",
+    "name": "Centro Hulpa",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004216000",
+      "code": "1004216000",
+      "name": "Tudela"
+    }
+  },
+  {
+    "id": "1004216012",
+    "code": "1004216012",
+    "name": "Centro Napu",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004216000",
+      "code": "1004216000",
+      "name": "Tudela"
+    }
+  },
+  {
+    "id": "1004216013",
+    "code": "1004216013",
+    "name": "Centro Upper",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004216000",
+      "code": "1004216000",
+      "name": "Tudela"
+    }
+  },
+  {
+    "id": "1004216016",
+    "code": "1004216016",
+    "name": "Duanguican",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004216000",
+      "code": "1004216000",
+      "name": "Tudela"
+    }
+  },
+  {
+    "id": "1004216017",
+    "code": "1004216017",
+    "name": "Gala",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004216000",
+      "code": "1004216000",
+      "name": "Tudela"
+    }
+  },
+  {
+    "id": "1004216018",
+    "code": "1004216018",
+    "name": "Gumbil",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004216000",
+      "code": "1004216000",
+      "name": "Tudela"
+    }
+  },
+  {
+    "id": "1004216021",
+    "code": "1004216021",
+    "name": "Locso-on",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004216000",
+      "code": "1004216000",
+      "name": "Tudela"
+    }
+  },
+  {
+    "id": "1004216022",
+    "code": "1004216022",
+    "name": "Maikay",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004216000",
+      "code": "1004216000",
+      "name": "Tudela"
+    }
+  },
+  {
+    "id": "1004216023",
+    "code": "1004216023",
+    "name": "Maribojoc",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004216000",
+      "code": "1004216000",
+      "name": "Tudela"
+    }
+  },
+  {
+    "id": "1004216024",
+    "code": "1004216024",
+    "name": "Mitugas",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004216000",
+      "code": "1004216000",
+      "name": "Tudela"
+    }
+  },
+  {
+    "id": "1004216025",
+    "code": "1004216025",
+    "name": "Nailon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004216000",
+      "code": "1004216000",
+      "name": "Tudela"
+    }
+  },
+  {
+    "id": "1004216026",
+    "code": "1004216026",
+    "name": "Namut",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004216000",
+      "code": "1004216000",
+      "name": "Tudela"
+    }
+  },
+  {
+    "id": "1004216027",
+    "code": "1004216027",
+    "name": "Napurog",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004216000",
+      "code": "1004216000",
+      "name": "Tudela"
+    }
+  },
+  {
+    "id": "1004216028",
+    "code": "1004216028",
+    "name": "Pan-ay Diot",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004216000",
+      "code": "1004216000",
+      "name": "Tudela"
+    }
+  },
+  {
+    "id": "1004216029",
+    "code": "1004216029",
+    "name": "San Nicolas",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004216000",
+      "code": "1004216000",
+      "name": "Tudela"
+    }
+  },
+  {
+    "id": "1004216032",
+    "code": "1004216032",
+    "name": "Sebac",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004216000",
+      "code": "1004216000",
+      "name": "Tudela"
+    }
+  },
+  {
+    "id": "1004216034",
+    "code": "1004216034",
+    "name": "Silongon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004216000",
+      "code": "1004216000",
+      "name": "Tudela"
+    }
+  },
+  {
+    "id": "1004216035",
+    "code": "1004216035",
+    "name": "Sinuza",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004216000",
+      "code": "1004216000",
+      "name": "Tudela"
+    }
+  },
+  {
+    "id": "1004216036",
+    "code": "1004216036",
+    "name": "Taguima",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004216000",
+      "code": "1004216000",
+      "name": "Tudela"
+    }
+  },
+  {
+    "id": "1004216038",
+    "code": "1004216038",
+    "name": "Tigdok",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004216000",
+      "code": "1004216000",
+      "name": "Tudela"
+    }
+  },
+  {
+    "id": "1004216039",
+    "code": "1004216039",
+    "name": "Yahong",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004216000",
+      "code": "1004216000",
+      "name": "Tudela"
+    }
+  }
+]

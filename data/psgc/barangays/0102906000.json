@@ -1,0 +1,884 @@
+[
+  {
+    "id": "0102906001",
+    "code": "0102906001",
+    "name": "Allangigan Primero",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102906000",
+      "code": "0102906000",
+      "name": "City of Candon"
+    }
+  },
+  {
+    "id": "0102906002",
+    "code": "0102906002",
+    "name": "Allangigan Segundo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102906000",
+      "code": "0102906000",
+      "name": "City of Candon"
+    }
+  },
+  {
+    "id": "0102906003",
+    "code": "0102906003",
+    "name": "Amguid",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102906000",
+      "code": "0102906000",
+      "name": "City of Candon"
+    }
+  },
+  {
+    "id": "0102906004",
+    "code": "0102906004",
+    "name": "Ayudante",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102906000",
+      "code": "0102906000",
+      "name": "City of Candon"
+    }
+  },
+  {
+    "id": "0102906005",
+    "code": "0102906005",
+    "name": "Bagani Camposanto",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102906000",
+      "code": "0102906000",
+      "name": "City of Candon"
+    }
+  },
+  {
+    "id": "0102906006",
+    "code": "0102906006",
+    "name": "Bagani Gabor",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102906000",
+      "code": "0102906000",
+      "name": "City of Candon"
+    }
+  },
+  {
+    "id": "0102906007",
+    "code": "0102906007",
+    "name": "Bagani Tocgo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102906000",
+      "code": "0102906000",
+      "name": "City of Candon"
+    }
+  },
+  {
+    "id": "0102906008",
+    "code": "0102906008",
+    "name": "Bagani Ubbog",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102906000",
+      "code": "0102906000",
+      "name": "City of Candon"
+    }
+  },
+  {
+    "id": "0102906009",
+    "code": "0102906009",
+    "name": "Bagar",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102906000",
+      "code": "0102906000",
+      "name": "City of Candon"
+    }
+  },
+  {
+    "id": "0102906010",
+    "code": "0102906010",
+    "name": "Balingaoan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102906000",
+      "code": "0102906000",
+      "name": "City of Candon"
+    }
+  },
+  {
+    "id": "0102906015",
+    "code": "0102906015",
+    "name": "Bugnay",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102906000",
+      "code": "0102906000",
+      "name": "City of Candon"
+    }
+  },
+  {
+    "id": "0102906016",
+    "code": "0102906016",
+    "name": "Calaoaan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102906000",
+      "code": "0102906000",
+      "name": "City of Candon"
+    }
+  },
+  {
+    "id": "0102906017",
+    "code": "0102906017",
+    "name": "Calongbuyan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102906000",
+      "code": "0102906000",
+      "name": "City of Candon"
+    }
+  },
+  {
+    "id": "0102906018",
+    "code": "0102906018",
+    "name": "Caterman",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102906000",
+      "code": "0102906000",
+      "name": "City of Candon"
+    }
+  },
+  {
+    "id": "0102906019",
+    "code": "0102906019",
+    "name": "Cubcubbuot",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102906000",
+      "code": "0102906000",
+      "name": "City of Candon"
+    }
+  },
+  {
+    "id": "0102906020",
+    "code": "0102906020",
+    "name": "Darapidap",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102906000",
+      "code": "0102906000",
+      "name": "City of Candon"
+    }
+  },
+  {
+    "id": "0102906022",
+    "code": "0102906022",
+    "name": "Langlangca Primero",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102906000",
+      "code": "0102906000",
+      "name": "City of Candon"
+    }
+  },
+  {
+    "id": "0102906023",
+    "code": "0102906023",
+    "name": "Langlangca Segundo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102906000",
+      "code": "0102906000",
+      "name": "City of Candon"
+    }
+  },
+  {
+    "id": "0102906024",
+    "code": "0102906024",
+    "name": "Oaig-Daya",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102906000",
+      "code": "0102906000",
+      "name": "City of Candon"
+    }
+  },
+  {
+    "id": "0102906025",
+    "code": "0102906025",
+    "name": "Palacapac",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102906000",
+      "code": "0102906000",
+      "name": "City of Candon"
+    }
+  },
+  {
+    "id": "0102906026",
+    "code": "0102906026",
+    "name": "Paras",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102906000",
+      "code": "0102906000",
+      "name": "City of Candon"
+    }
+  },
+  {
+    "id": "0102906027",
+    "code": "0102906027",
+    "name": "Parioc Primero",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102906000",
+      "code": "0102906000",
+      "name": "City of Candon"
+    }
+  },
+  {
+    "id": "0102906028",
+    "code": "0102906028",
+    "name": "Parioc Segundo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102906000",
+      "code": "0102906000",
+      "name": "City of Candon"
+    }
+  },
+  {
+    "id": "0102906029",
+    "code": "0102906029",
+    "name": "Patpata Primero",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102906000",
+      "code": "0102906000",
+      "name": "City of Candon"
+    }
+  },
+  {
+    "id": "0102906030",
+    "code": "0102906030",
+    "name": "Patpata Segundo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102906000",
+      "code": "0102906000",
+      "name": "City of Candon"
+    }
+  },
+  {
+    "id": "0102906031",
+    "code": "0102906031",
+    "name": "Paypayad",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102906000",
+      "code": "0102906000",
+      "name": "City of Candon"
+    }
+  },
+  {
+    "id": "0102906032",
+    "code": "0102906032",
+    "name": "Salvador Primero",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102906000",
+      "code": "0102906000",
+      "name": "City of Candon"
+    }
+  },
+  {
+    "id": "0102906033",
+    "code": "0102906033",
+    "name": "Salvador Segundo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102906000",
+      "code": "0102906000",
+      "name": "City of Candon"
+    }
+  },
+  {
+    "id": "0102906034",
+    "code": "0102906034",
+    "name": "San Agustin",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102906000",
+      "code": "0102906000",
+      "name": "City of Candon"
+    }
+  },
+  {
+    "id": "0102906035",
+    "code": "0102906035",
+    "name": "San Andres",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102906000",
+      "code": "0102906000",
+      "name": "City of Candon"
+    }
+  },
+  {
+    "id": "0102906036",
+    "code": "0102906036",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102906000",
+      "code": "0102906000",
+      "name": "City of Candon"
+    }
+  },
+  {
+    "id": "0102906037",
+    "code": "0102906037",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102906000",
+      "code": "0102906000",
+      "name": "City of Candon"
+    }
+  },
+  {
+    "id": "0102906038",
+    "code": "0102906038",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102906000",
+      "code": "0102906000",
+      "name": "City of Candon"
+    }
+  },
+  {
+    "id": "0102906039",
+    "code": "0102906039",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102906000",
+      "code": "0102906000",
+      "name": "City of Candon"
+    }
+  },
+  {
+    "id": "0102906040",
+    "code": "0102906040",
+    "name": "San Nicolas",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102906000",
+      "code": "0102906000",
+      "name": "City of Candon"
+    }
+  },
+  {
+    "id": "0102906041",
+    "code": "0102906041",
+    "name": "San Pedro",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102906000",
+      "code": "0102906000",
+      "name": "City of Candon"
+    }
+  },
+  {
+    "id": "0102906042",
+    "code": "0102906042",
+    "name": "Santo Tomas",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102906000",
+      "code": "0102906000",
+      "name": "City of Candon"
+    }
+  },
+  {
+    "id": "0102906043",
+    "code": "0102906043",
+    "name": "Tablac",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102906000",
+      "code": "0102906000",
+      "name": "City of Candon"
+    }
+  },
+  {
+    "id": "0102906044",
+    "code": "0102906044",
+    "name": "Talogtog",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102906000",
+      "code": "0102906000",
+      "name": "City of Candon"
+    }
+  },
+  {
+    "id": "0102906045",
+    "code": "0102906045",
+    "name": "Tamurong Primero",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102906000",
+      "code": "0102906000",
+      "name": "City of Candon"
+    }
+  },
+  {
+    "id": "0102906046",
+    "code": "0102906046",
+    "name": "Tamurong Segundo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102906000",
+      "code": "0102906000",
+      "name": "City of Candon"
+    }
+  },
+  {
+    "id": "0102906048",
+    "code": "0102906048",
+    "name": "Villarica",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102906000",
+      "code": "0102906000",
+      "name": "City of Candon"
+    }
+  }
+]

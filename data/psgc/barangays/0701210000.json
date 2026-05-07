@@ -1,0 +1,695 @@
+[
+  {
+    "id": "0701210001",
+    "code": "0701210001",
+    "name": "Abucayan Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701210000",
+      "code": "0701210000",
+      "name": "Calape"
+    }
+  },
+  {
+    "id": "0701210002",
+    "code": "0701210002",
+    "name": "Abucayan Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701210000",
+      "code": "0701210000",
+      "name": "Calape"
+    }
+  },
+  {
+    "id": "0701210003",
+    "code": "0701210003",
+    "name": "Banlasan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701210000",
+      "code": "0701210000",
+      "name": "Calape"
+    }
+  },
+  {
+    "id": "0701210004",
+    "code": "0701210004",
+    "name": "Bentig",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701210000",
+      "code": "0701210000",
+      "name": "Calape"
+    }
+  },
+  {
+    "id": "0701210005",
+    "code": "0701210005",
+    "name": "Binogawan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701210000",
+      "code": "0701210000",
+      "name": "Calape"
+    }
+  },
+  {
+    "id": "0701210006",
+    "code": "0701210006",
+    "name": "Bonbon",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701210000",
+      "code": "0701210000",
+      "name": "Calape"
+    }
+  },
+  {
+    "id": "0701210007",
+    "code": "0701210007",
+    "name": "Cabayugan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701210000",
+      "code": "0701210000",
+      "name": "Calape"
+    }
+  },
+  {
+    "id": "0701210008",
+    "code": "0701210008",
+    "name": "Cabudburan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701210000",
+      "code": "0701210000",
+      "name": "Calape"
+    }
+  },
+  {
+    "id": "0701210009",
+    "code": "0701210009",
+    "name": "Calunasan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701210000",
+      "code": "0701210000",
+      "name": "Calape"
+    }
+  },
+  {
+    "id": "0701210010",
+    "code": "0701210010",
+    "name": "Camias",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701210000",
+      "code": "0701210000",
+      "name": "Calape"
+    }
+  },
+  {
+    "id": "0701210011",
+    "code": "0701210011",
+    "name": "Canguha",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701210000",
+      "code": "0701210000",
+      "name": "Calape"
+    }
+  },
+  {
+    "id": "0701210012",
+    "code": "0701210012",
+    "name": "Catmonan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701210000",
+      "code": "0701210000",
+      "name": "Calape"
+    }
+  },
+  {
+    "id": "0701210013",
+    "code": "0701210013",
+    "name": "Desamparados",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701210000",
+      "code": "0701210000",
+      "name": "Calape"
+    }
+  },
+  {
+    "id": "0701210014",
+    "code": "0701210014",
+    "name": "Kahayag",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701210000",
+      "code": "0701210000",
+      "name": "Calape"
+    }
+  },
+  {
+    "id": "0701210015",
+    "code": "0701210015",
+    "name": "Kinabag-an",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701210000",
+      "code": "0701210000",
+      "name": "Calape"
+    }
+  },
+  {
+    "id": "0701210016",
+    "code": "0701210016",
+    "name": "Labuon",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701210000",
+      "code": "0701210000",
+      "name": "Calape"
+    }
+  },
+  {
+    "id": "0701210017",
+    "code": "0701210017",
+    "name": "Lawis",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701210000",
+      "code": "0701210000",
+      "name": "Calape"
+    }
+  },
+  {
+    "id": "0701210018",
+    "code": "0701210018",
+    "name": "Liboron",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701210000",
+      "code": "0701210000",
+      "name": "Calape"
+    }
+  },
+  {
+    "id": "0701210019",
+    "code": "0701210019",
+    "name": "Lo-oc",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701210000",
+      "code": "0701210000",
+      "name": "Calape"
+    }
+  },
+  {
+    "id": "0701210020",
+    "code": "0701210020",
+    "name": "Lomboy",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701210000",
+      "code": "0701210000",
+      "name": "Calape"
+    }
+  },
+  {
+    "id": "0701210021",
+    "code": "0701210021",
+    "name": "Lucob",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701210000",
+      "code": "0701210000",
+      "name": "Calape"
+    }
+  },
+  {
+    "id": "0701210022",
+    "code": "0701210022",
+    "name": "Madangog",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701210000",
+      "code": "0701210000",
+      "name": "Calape"
+    }
+  },
+  {
+    "id": "0701210023",
+    "code": "0701210023",
+    "name": "Magtongtong",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701210000",
+      "code": "0701210000",
+      "name": "Calape"
+    }
+  },
+  {
+    "id": "0701210024",
+    "code": "0701210024",
+    "name": "Mandaug",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701210000",
+      "code": "0701210000",
+      "name": "Calape"
+    }
+  },
+  {
+    "id": "0701210025",
+    "code": "0701210025",
+    "name": "Mantatao",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701210000",
+      "code": "0701210000",
+      "name": "Calape"
+    }
+  },
+  {
+    "id": "0701210027",
+    "code": "0701210027",
+    "name": "Sampoangon",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701210000",
+      "code": "0701210000",
+      "name": "Calape"
+    }
+  },
+  {
+    "id": "0701210028",
+    "code": "0701210028",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701210000",
+      "code": "0701210000",
+      "name": "Calape"
+    }
+  },
+  {
+    "id": "0701210029",
+    "code": "0701210029",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701210000",
+      "code": "0701210000",
+      "name": "Calape"
+    }
+  },
+  {
+    "id": "0701210030",
+    "code": "0701210030",
+    "name": "Sojoton",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701210000",
+      "code": "0701210000",
+      "name": "Calape"
+    }
+  },
+  {
+    "id": "0701210031",
+    "code": "0701210031",
+    "name": "Talisay",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701210000",
+      "code": "0701210000",
+      "name": "Calape"
+    }
+  },
+  {
+    "id": "0701210032",
+    "code": "0701210032",
+    "name": "Tinibgan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701210000",
+      "code": "0701210000",
+      "name": "Calape"
+    }
+  },
+  {
+    "id": "0701210033",
+    "code": "0701210033",
+    "name": "Tultugan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701210000",
+      "code": "0701210000",
+      "name": "Calape"
+    }
+  },
+  {
+    "id": "0701210034",
+    "code": "0701210034",
+    "name": "Ulbujan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701210000",
+      "code": "0701210000",
+      "name": "Calape"
+    }
+  }
+]

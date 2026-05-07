@@ -1,0 +1,149 @@
+[
+  {
+    "id": "0102910001",
+    "code": "0102910001",
+    "name": "Alfonso",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102910000",
+      "code": "0102910000",
+      "name": "Gregorio del Pilar"
+    }
+  },
+  {
+    "id": "0102910002",
+    "code": "0102910002",
+    "name": "Bussot",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102910000",
+      "code": "0102910000",
+      "name": "Gregorio del Pilar"
+    }
+  },
+  {
+    "id": "0102910003",
+    "code": "0102910003",
+    "name": "Concepcion",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102910000",
+      "code": "0102910000",
+      "name": "Gregorio del Pilar"
+    }
+  },
+  {
+    "id": "0102910004",
+    "code": "0102910004",
+    "name": "Dapdappig",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102910000",
+      "code": "0102910000",
+      "name": "Gregorio del Pilar"
+    }
+  },
+  {
+    "id": "0102910005",
+    "code": "0102910005",
+    "name": "Matue-Butarag",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102910000",
+      "code": "0102910000",
+      "name": "Gregorio del Pilar"
+    }
+  },
+  {
+    "id": "0102910007",
+    "code": "0102910007",
+    "name": "Poblacion Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102910000",
+      "code": "0102910000",
+      "name": "Gregorio del Pilar"
+    }
+  },
+  {
+    "id": "0102910008",
+    "code": "0102910008",
+    "name": "Poblacion Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102910000",
+      "code": "0102910000",
+      "name": "Gregorio del Pilar"
+    }
+  }
+]

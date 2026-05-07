@@ -1,0 +1,290 @@
+[
+  {
+    "id": "0500501000",
+    "code": "0500501000",
+    "name": "Bacacay",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    }
+  },
+  {
+    "id": "0500502000",
+    "code": "0500502000",
+    "name": "Camalig",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    }
+  },
+  {
+    "id": "0500506000",
+    "code": "0500506000",
+    "name": "City of Legazpi",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    }
+  },
+  {
+    "id": "0500508000",
+    "code": "0500508000",
+    "name": "City of Ligao",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    }
+  },
+  {
+    "id": "0500517000",
+    "code": "0500517000",
+    "name": "City of Tabaco",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    }
+  },
+  {
+    "id": "0500503000",
+    "code": "0500503000",
+    "name": "Daraga",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    }
+  },
+  {
+    "id": "0500504000",
+    "code": "0500504000",
+    "name": "Guinobatan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    }
+  },
+  {
+    "id": "0500505000",
+    "code": "0500505000",
+    "name": "Jovellar",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    }
+  },
+  {
+    "id": "0500507000",
+    "code": "0500507000",
+    "name": "Libon",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    }
+  },
+  {
+    "id": "0500509000",
+    "code": "0500509000",
+    "name": "Malilipot",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    }
+  },
+  {
+    "id": "0500510000",
+    "code": "0500510000",
+    "name": "Malinao",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    }
+  },
+  {
+    "id": "0500511000",
+    "code": "0500511000",
+    "name": "Manito",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    }
+  },
+  {
+    "id": "0500512000",
+    "code": "0500512000",
+    "name": "Oas",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    }
+  },
+  {
+    "id": "0500513000",
+    "code": "0500513000",
+    "name": "Pio Duran",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    }
+  },
+  {
+    "id": "0500514000",
+    "code": "0500514000",
+    "name": "Polangui",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    }
+  },
+  {
+    "id": "0500515000",
+    "code": "0500515000",
+    "name": "Rapu-Rapu",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    }
+  },
+  {
+    "id": "0500516000",
+    "code": "0500516000",
+    "name": "Santo Domingo",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    }
+  },
+  {
+    "id": "0500518000",
+    "code": "0500518000",
+    "name": "Tiwi",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    }
+  }
+]

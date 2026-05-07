@@ -1,0 +1,653 @@
+[
+  {
+    "id": "0201526001",
+    "code": "0201526001",
+    "name": "Abariongan Ruar",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201526000",
+      "code": "0201526000",
+      "name": "Santo Niño"
+    }
+  },
+  {
+    "id": "0201526002",
+    "code": "0201526002",
+    "name": "Abariongan Uneg",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201526000",
+      "code": "0201526000",
+      "name": "Santo Niño"
+    }
+  },
+  {
+    "id": "0201526003",
+    "code": "0201526003",
+    "name": "Balagan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201526000",
+      "code": "0201526000",
+      "name": "Santo Niño"
+    }
+  },
+  {
+    "id": "0201526004",
+    "code": "0201526004",
+    "name": "Balanni",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201526000",
+      "code": "0201526000",
+      "name": "Santo Niño"
+    }
+  },
+  {
+    "id": "0201526006",
+    "code": "0201526006",
+    "name": "Cabayo",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201526000",
+      "code": "0201526000",
+      "name": "Santo Niño"
+    }
+  },
+  {
+    "id": "0201526007",
+    "code": "0201526007",
+    "name": "Calapangan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201526000",
+      "code": "0201526000",
+      "name": "Santo Niño"
+    }
+  },
+  {
+    "id": "0201526008",
+    "code": "0201526008",
+    "name": "Calassitan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201526000",
+      "code": "0201526000",
+      "name": "Santo Niño"
+    }
+  },
+  {
+    "id": "0201526009",
+    "code": "0201526009",
+    "name": "Campo",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201526000",
+      "code": "0201526000",
+      "name": "Santo Niño"
+    }
+  },
+  {
+    "id": "0201526010",
+    "code": "0201526010",
+    "name": "Centro Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201526000",
+      "code": "0201526000",
+      "name": "Santo Niño"
+    }
+  },
+  {
+    "id": "0201526011",
+    "code": "0201526011",
+    "name": "Centro Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201526000",
+      "code": "0201526000",
+      "name": "Santo Niño"
+    }
+  },
+  {
+    "id": "0201526012",
+    "code": "0201526012",
+    "name": "Dungao",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201526000",
+      "code": "0201526000",
+      "name": "Santo Niño"
+    }
+  },
+  {
+    "id": "0201526014",
+    "code": "0201526014",
+    "name": "Lattac",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201526000",
+      "code": "0201526000",
+      "name": "Santo Niño"
+    }
+  },
+  {
+    "id": "0201526015",
+    "code": "0201526015",
+    "name": "Lipatan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201526000",
+      "code": "0201526000",
+      "name": "Santo Niño"
+    }
+  },
+  {
+    "id": "0201526016",
+    "code": "0201526016",
+    "name": "Lubo",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201526000",
+      "code": "0201526000",
+      "name": "Santo Niño"
+    }
+  },
+  {
+    "id": "0201526017",
+    "code": "0201526017",
+    "name": "Mabitbitnong",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201526000",
+      "code": "0201526000",
+      "name": "Santo Niño"
+    }
+  },
+  {
+    "id": "0201526018",
+    "code": "0201526018",
+    "name": "Mapitac",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201526000",
+      "code": "0201526000",
+      "name": "Santo Niño"
+    }
+  },
+  {
+    "id": "0201526019",
+    "code": "0201526019",
+    "name": "Masical",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201526000",
+      "code": "0201526000",
+      "name": "Santo Niño"
+    }
+  },
+  {
+    "id": "0201526020",
+    "code": "0201526020",
+    "name": "Matalao",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201526000",
+      "code": "0201526000",
+      "name": "Santo Niño"
+    }
+  },
+  {
+    "id": "0201526021",
+    "code": "0201526021",
+    "name": "Nag-uma",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201526000",
+      "code": "0201526000",
+      "name": "Santo Niño"
+    }
+  },
+  {
+    "id": "0201526022",
+    "code": "0201526022",
+    "name": "Namuccayan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201526000",
+      "code": "0201526000",
+      "name": "Santo Niño"
+    }
+  },
+  {
+    "id": "0201526023",
+    "code": "0201526023",
+    "name": "Niug Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201526000",
+      "code": "0201526000",
+      "name": "Santo Niño"
+    }
+  },
+  {
+    "id": "0201526024",
+    "code": "0201526024",
+    "name": "Niug Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201526000",
+      "code": "0201526000",
+      "name": "Santo Niño"
+    }
+  },
+  {
+    "id": "0201526025",
+    "code": "0201526025",
+    "name": "Palusao",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201526000",
+      "code": "0201526000",
+      "name": "Santo Niño"
+    }
+  },
+  {
+    "id": "0201526026",
+    "code": "0201526026",
+    "name": "San Manuel",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201526000",
+      "code": "0201526000",
+      "name": "Santo Niño"
+    }
+  },
+  {
+    "id": "0201526027",
+    "code": "0201526027",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201526000",
+      "code": "0201526000",
+      "name": "Santo Niño"
+    }
+  },
+  {
+    "id": "0201526028",
+    "code": "0201526028",
+    "name": "Santa Felicitas",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201526000",
+      "code": "0201526000",
+      "name": "Santo Niño"
+    }
+  },
+  {
+    "id": "0201526029",
+    "code": "0201526029",
+    "name": "Santa Maria",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201526000",
+      "code": "0201526000",
+      "name": "Santo Niño"
+    }
+  },
+  {
+    "id": "0201526030",
+    "code": "0201526030",
+    "name": "Sidiran",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201526000",
+      "code": "0201526000",
+      "name": "Santo Niño"
+    }
+  },
+  {
+    "id": "0201526031",
+    "code": "0201526031",
+    "name": "Tabang",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201526000",
+      "code": "0201526000",
+      "name": "Santo Niño"
+    }
+  },
+  {
+    "id": "0201526032",
+    "code": "0201526032",
+    "name": "Tamucco",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201526000",
+      "code": "0201526000",
+      "name": "Santo Niño"
+    }
+  },
+  {
+    "id": "0201526033",
+    "code": "0201526033",
+    "name": "Virginia",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201526000",
+      "code": "0201526000",
+      "name": "Santo Niño"
+    }
+  }
+]

@@ -1,0 +1,758 @@
+[
+  {
+    "id": "0103305028",
+    "code": "0103305028",
+    "name": "Almeida",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103305000",
+      "code": "0103305000",
+      "name": "Balaoan"
+    }
+  },
+  {
+    "id": "0103305037",
+    "code": "0103305037",
+    "name": "Antonino",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103305000",
+      "code": "0103305000",
+      "name": "Balaoan"
+    }
+  },
+  {
+    "id": "0103305001",
+    "code": "0103305001",
+    "name": "Apatut",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103305000",
+      "code": "0103305000",
+      "name": "Balaoan"
+    }
+  },
+  {
+    "id": "0103305002",
+    "code": "0103305002",
+    "name": "Ar-arampang",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103305000",
+      "code": "0103305000",
+      "name": "Balaoan"
+    }
+  },
+  {
+    "id": "0103305003",
+    "code": "0103305003",
+    "name": "Baracbac Este",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103305000",
+      "code": "0103305000",
+      "name": "Balaoan"
+    }
+  },
+  {
+    "id": "0103305004",
+    "code": "0103305004",
+    "name": "Baracbac Oeste",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103305000",
+      "code": "0103305000",
+      "name": "Balaoan"
+    }
+  },
+  {
+    "id": "0103305005",
+    "code": "0103305005",
+    "name": "Bet-ang",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103305000",
+      "code": "0103305000",
+      "name": "Balaoan"
+    }
+  },
+  {
+    "id": "0103305006",
+    "code": "0103305006",
+    "name": "Bulbulala",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103305000",
+      "code": "0103305000",
+      "name": "Balaoan"
+    }
+  },
+  {
+    "id": "0103305007",
+    "code": "0103305007",
+    "name": "Bungol",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103305000",
+      "code": "0103305000",
+      "name": "Balaoan"
+    }
+  },
+  {
+    "id": "0103305008",
+    "code": "0103305008",
+    "name": "Butubut Este",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103305000",
+      "code": "0103305000",
+      "name": "Balaoan"
+    }
+  },
+  {
+    "id": "0103305009",
+    "code": "0103305009",
+    "name": "Butubut Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103305000",
+      "code": "0103305000",
+      "name": "Balaoan"
+    }
+  },
+  {
+    "id": "0103305010",
+    "code": "0103305010",
+    "name": "Butubut Oeste",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103305000",
+      "code": "0103305000",
+      "name": "Balaoan"
+    }
+  },
+  {
+    "id": "0103305011",
+    "code": "0103305011",
+    "name": "Butubut Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103305000",
+      "code": "0103305000",
+      "name": "Balaoan"
+    }
+  },
+  {
+    "id": "0103305012",
+    "code": "0103305012",
+    "name": "Cabuaan Oeste",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103305000",
+      "code": "0103305000",
+      "name": "Balaoan"
+    }
+  },
+  {
+    "id": "0103305013",
+    "code": "0103305013",
+    "name": "Calliat",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103305000",
+      "code": "0103305000",
+      "name": "Balaoan"
+    }
+  },
+  {
+    "id": "0103305014",
+    "code": "0103305014",
+    "name": "Calungbuyan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103305000",
+      "code": "0103305000",
+      "name": "Balaoan"
+    }
+  },
+  {
+    "id": "0103305015",
+    "code": "0103305015",
+    "name": "Camiling",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103305000",
+      "code": "0103305000",
+      "name": "Balaoan"
+    }
+  },
+  {
+    "id": "0103305031",
+    "code": "0103305031",
+    "name": "Dr. Camilo Osias Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103305000",
+      "code": "0103305000",
+      "name": "Balaoan"
+    }
+  },
+  {
+    "id": "0103305016",
+    "code": "0103305016",
+    "name": "Guinaburan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103305000",
+      "code": "0103305000",
+      "name": "Balaoan"
+    }
+  },
+  {
+    "id": "0103305017",
+    "code": "0103305017",
+    "name": "Masupe",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103305000",
+      "code": "0103305000",
+      "name": "Balaoan"
+    }
+  },
+  {
+    "id": "0103305018",
+    "code": "0103305018",
+    "name": "Nagsabaran Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103305000",
+      "code": "0103305000",
+      "name": "Balaoan"
+    }
+  },
+  {
+    "id": "0103305019",
+    "code": "0103305019",
+    "name": "Nagsabaran Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103305000",
+      "code": "0103305000",
+      "name": "Balaoan"
+    }
+  },
+  {
+    "id": "0103305020",
+    "code": "0103305020",
+    "name": "Nalasin",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103305000",
+      "code": "0103305000",
+      "name": "Balaoan"
+    }
+  },
+  {
+    "id": "0103305021",
+    "code": "0103305021",
+    "name": "Napaset",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103305000",
+      "code": "0103305000",
+      "name": "Balaoan"
+    }
+  },
+  {
+    "id": "0103305026",
+    "code": "0103305026",
+    "name": "Pa-o",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103305000",
+      "code": "0103305000",
+      "name": "Balaoan"
+    }
+  },
+  {
+    "id": "0103305022",
+    "code": "0103305022",
+    "name": "Pagbennecan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103305000",
+      "code": "0103305000",
+      "name": "Balaoan"
+    }
+  },
+  {
+    "id": "0103305023",
+    "code": "0103305023",
+    "name": "Pagleddegan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103305000",
+      "code": "0103305000",
+      "name": "Balaoan"
+    }
+  },
+  {
+    "id": "0103305024",
+    "code": "0103305024",
+    "name": "Pantar Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103305000",
+      "code": "0103305000",
+      "name": "Balaoan"
+    }
+  },
+  {
+    "id": "0103305025",
+    "code": "0103305025",
+    "name": "Pantar Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103305000",
+      "code": "0103305000",
+      "name": "Balaoan"
+    }
+  },
+  {
+    "id": "0103305029",
+    "code": "0103305029",
+    "name": "Paraoir",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103305000",
+      "code": "0103305000",
+      "name": "Balaoan"
+    }
+  },
+  {
+    "id": "0103305030",
+    "code": "0103305030",
+    "name": "Patpata",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103305000",
+      "code": "0103305000",
+      "name": "Balaoan"
+    }
+  },
+  {
+    "id": "0103305032",
+    "code": "0103305032",
+    "name": "Sablut",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103305000",
+      "code": "0103305000",
+      "name": "Balaoan"
+    }
+  },
+  {
+    "id": "0103305033",
+    "code": "0103305033",
+    "name": "San Pablo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103305000",
+      "code": "0103305000",
+      "name": "Balaoan"
+    }
+  },
+  {
+    "id": "0103305034",
+    "code": "0103305034",
+    "name": "Sinapangan Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103305000",
+      "code": "0103305000",
+      "name": "Balaoan"
+    }
+  },
+  {
+    "id": "0103305035",
+    "code": "0103305035",
+    "name": "Sinapangan Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103305000",
+      "code": "0103305000",
+      "name": "Balaoan"
+    }
+  },
+  {
+    "id": "0103305036",
+    "code": "0103305036",
+    "name": "Tallipugo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103305000",
+      "code": "0103305000",
+      "name": "Balaoan"
+    }
+  }
+]

@@ -1,0 +1,233 @@
+[
+  {
+    "id": "1705111001",
+    "code": "1705111001",
+    "name": "Alacaak",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705111000",
+      "code": "1705111000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1705111002",
+    "code": "1705111002",
+    "name": "Barahan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705111000",
+      "code": "1705111000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1705111003",
+    "code": "1705111003",
+    "name": "Casague",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705111000",
+      "code": "1705111000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1705111004",
+    "code": "1705111004",
+    "name": "Dayap",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705111000",
+      "code": "1705111000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1705111012",
+    "code": "1705111012",
+    "name": "Kurtinganan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705111000",
+      "code": "1705111000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1705111006",
+    "code": "1705111006",
+    "name": "Lumangbayan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705111000",
+      "code": "1705111000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1705111007",
+    "code": "1705111007",
+    "name": "Mulawin",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705111000",
+      "code": "1705111000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1705111008",
+    "code": "1705111008",
+    "name": "Pinagturilan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705111000",
+      "code": "1705111000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1705111009",
+    "code": "1705111009",
+    "name": "Poblacion I",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705111000",
+      "code": "1705111000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1705111011",
+    "code": "1705111011",
+    "name": "Poblacion II",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705111000",
+      "code": "1705111000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1705111010",
+    "code": "1705111010",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705111000",
+      "code": "1705111000",
+      "name": "Santa Cruz"
+    }
+  }
+]

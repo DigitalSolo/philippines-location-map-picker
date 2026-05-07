@@ -1,0 +1,338 @@
+[
+  {
+    "id": "0907217001",
+    "code": "0907217001",
+    "name": "Bagacay",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907217000",
+      "code": "0907217000",
+      "name": "Sibutad"
+    }
+  },
+  {
+    "id": "0907217002",
+    "code": "0907217002",
+    "name": "Calilic",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907217000",
+      "code": "0907217000",
+      "name": "Sibutad"
+    }
+  },
+  {
+    "id": "0907217003",
+    "code": "0907217003",
+    "name": "Calube",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907217000",
+      "code": "0907217000",
+      "name": "Sibutad"
+    }
+  },
+  {
+    "id": "0907217005",
+    "code": "0907217005",
+    "name": "Delapa",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907217000",
+      "code": "0907217000",
+      "name": "Sibutad"
+    }
+  },
+  {
+    "id": "0907217004",
+    "code": "0907217004",
+    "name": "Kanim",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907217000",
+      "code": "0907217000",
+      "name": "Sibutad"
+    }
+  },
+  {
+    "id": "0907217006",
+    "code": "0907217006",
+    "name": "Libay",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907217000",
+      "code": "0907217000",
+      "name": "Sibutad"
+    }
+  },
+  {
+    "id": "0907217007",
+    "code": "0907217007",
+    "name": "Magsaysay",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907217000",
+      "code": "0907217000",
+      "name": "Sibutad"
+    }
+  },
+  {
+    "id": "0907217008",
+    "code": "0907217008",
+    "name": "Marapong",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907217000",
+      "code": "0907217000",
+      "name": "Sibutad"
+    }
+  },
+  {
+    "id": "0907217009",
+    "code": "0907217009",
+    "name": "Minlasag",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907217000",
+      "code": "0907217000",
+      "name": "Sibutad"
+    }
+  },
+  {
+    "id": "0907217010",
+    "code": "0907217010",
+    "name": "Oyan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907217000",
+      "code": "0907217000",
+      "name": "Sibutad"
+    }
+  },
+  {
+    "id": "0907217011",
+    "code": "0907217011",
+    "name": "Panganuran",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907217000",
+      "code": "0907217000",
+      "name": "Sibutad"
+    }
+  },
+  {
+    "id": "0907217012",
+    "code": "0907217012",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907217000",
+      "code": "0907217000",
+      "name": "Sibutad"
+    }
+  },
+  {
+    "id": "0907217013",
+    "code": "0907217013",
+    "name": "Sawang",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907217000",
+      "code": "0907217000",
+      "name": "Sibutad"
+    }
+  },
+  {
+    "id": "0907217014",
+    "code": "0907217014",
+    "name": "Sibuloc",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907217000",
+      "code": "0907217000",
+      "name": "Sibutad"
+    }
+  },
+  {
+    "id": "0907217015",
+    "code": "0907217015",
+    "name": "Sinipay",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907217000",
+      "code": "0907217000",
+      "name": "Sibutad"
+    }
+  },
+  {
+    "id": "0907217016",
+    "code": "0907217016",
+    "name": "Sipaloc",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907217000",
+      "code": "0907217000",
+      "name": "Sibutad"
+    }
+  }
+]

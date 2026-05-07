@@ -1,0 +1,548 @@
+[
+  {
+    "id": "0401010001",
+    "code": "0401010001",
+    "name": "Bago",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401010000",
+      "code": "0401010000",
+      "name": "Ibaan"
+    }
+  },
+  {
+    "id": "0401010002",
+    "code": "0401010002",
+    "name": "Balanga",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401010000",
+      "code": "0401010000",
+      "name": "Ibaan"
+    }
+  },
+  {
+    "id": "0401010003",
+    "code": "0401010003",
+    "name": "Bungahan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401010000",
+      "code": "0401010000",
+      "name": "Ibaan"
+    }
+  },
+  {
+    "id": "0401010004",
+    "code": "0401010004",
+    "name": "Calamias",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401010000",
+      "code": "0401010000",
+      "name": "Ibaan"
+    }
+  },
+  {
+    "id": "0401010005",
+    "code": "0401010005",
+    "name": "Catandala",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401010000",
+      "code": "0401010000",
+      "name": "Ibaan"
+    }
+  },
+  {
+    "id": "0401010006",
+    "code": "0401010006",
+    "name": "Coliat",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401010000",
+      "code": "0401010000",
+      "name": "Ibaan"
+    }
+  },
+  {
+    "id": "0401010007",
+    "code": "0401010007",
+    "name": "Dayapan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401010000",
+      "code": "0401010000",
+      "name": "Ibaan"
+    }
+  },
+  {
+    "id": "0401010008",
+    "code": "0401010008",
+    "name": "Lapu-lapu",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401010000",
+      "code": "0401010000",
+      "name": "Ibaan"
+    }
+  },
+  {
+    "id": "0401010009",
+    "code": "0401010009",
+    "name": "Lucsuhin",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401010000",
+      "code": "0401010000",
+      "name": "Ibaan"
+    }
+  },
+  {
+    "id": "0401010010",
+    "code": "0401010010",
+    "name": "Mabalor",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401010000",
+      "code": "0401010000",
+      "name": "Ibaan"
+    }
+  },
+  {
+    "id": "0401010011",
+    "code": "0401010011",
+    "name": "Malainin",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401010000",
+      "code": "0401010000",
+      "name": "Ibaan"
+    }
+  },
+  {
+    "id": "0401010012",
+    "code": "0401010012",
+    "name": "Matala",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401010000",
+      "code": "0401010000",
+      "name": "Ibaan"
+    }
+  },
+  {
+    "id": "0401010013",
+    "code": "0401010013",
+    "name": "Munting-Tubig",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401010000",
+      "code": "0401010000",
+      "name": "Ibaan"
+    }
+  },
+  {
+    "id": "0401010014",
+    "code": "0401010014",
+    "name": "Palindan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401010000",
+      "code": "0401010000",
+      "name": "Ibaan"
+    }
+  },
+  {
+    "id": "0401010015",
+    "code": "0401010015",
+    "name": "Pangao",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401010000",
+      "code": "0401010000",
+      "name": "Ibaan"
+    }
+  },
+  {
+    "id": "0401010016",
+    "code": "0401010016",
+    "name": "Panghayaan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401010000",
+      "code": "0401010000",
+      "name": "Ibaan"
+    }
+  },
+  {
+    "id": "0401010017",
+    "code": "0401010017",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401010000",
+      "code": "0401010000",
+      "name": "Ibaan"
+    }
+  },
+  {
+    "id": "0401010018",
+    "code": "0401010018",
+    "name": "Quilo",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401010000",
+      "code": "0401010000",
+      "name": "Ibaan"
+    }
+  },
+  {
+    "id": "0401010019",
+    "code": "0401010019",
+    "name": "Sabang",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401010000",
+      "code": "0401010000",
+      "name": "Ibaan"
+    }
+  },
+  {
+    "id": "0401010020",
+    "code": "0401010020",
+    "name": "Salaban I",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401010000",
+      "code": "0401010000",
+      "name": "Ibaan"
+    }
+  },
+  {
+    "id": "0401010028",
+    "code": "0401010028",
+    "name": "Salaban II",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401010000",
+      "code": "0401010000",
+      "name": "Ibaan"
+    }
+  },
+  {
+    "id": "0401010022",
+    "code": "0401010022",
+    "name": "San Agustin",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401010000",
+      "code": "0401010000",
+      "name": "Ibaan"
+    }
+  },
+  {
+    "id": "0401010023",
+    "code": "0401010023",
+    "name": "Sandalan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401010000",
+      "code": "0401010000",
+      "name": "Ibaan"
+    }
+  },
+  {
+    "id": "0401010024",
+    "code": "0401010024",
+    "name": "Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401010000",
+      "code": "0401010000",
+      "name": "Ibaan"
+    }
+  },
+  {
+    "id": "0401010025",
+    "code": "0401010025",
+    "name": "Talaibon",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401010000",
+      "code": "0401010000",
+      "name": "Ibaan"
+    }
+  },
+  {
+    "id": "0401010027",
+    "code": "0401010027",
+    "name": "Tulay Na Patpat",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401010000",
+      "code": "0401010000",
+      "name": "Ibaan"
+    }
+  }
+]

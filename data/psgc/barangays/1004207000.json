@@ -1,0 +1,506 @@
+[
+  {
+    "id": "1004207001",
+    "code": "1004207001",
+    "name": "Adorable",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004207000",
+      "code": "1004207000",
+      "name": "Jimenez"
+    }
+  },
+  {
+    "id": "1004207002",
+    "code": "1004207002",
+    "name": "Butuay",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004207000",
+      "code": "1004207000",
+      "name": "Jimenez"
+    }
+  },
+  {
+    "id": "1004207003",
+    "code": "1004207003",
+    "name": "Carmen",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004207000",
+      "code": "1004207000",
+      "name": "Jimenez"
+    }
+  },
+  {
+    "id": "1004207004",
+    "code": "1004207004",
+    "name": "Corrales",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004207000",
+      "code": "1004207000",
+      "name": "Jimenez"
+    }
+  },
+  {
+    "id": "1004207005",
+    "code": "1004207005",
+    "name": "Dicoloc",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004207000",
+      "code": "1004207000",
+      "name": "Jimenez"
+    }
+  },
+  {
+    "id": "1004207006",
+    "code": "1004207006",
+    "name": "Gata",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004207000",
+      "code": "1004207000",
+      "name": "Jimenez"
+    }
+  },
+  {
+    "id": "1004207007",
+    "code": "1004207007",
+    "name": "Guintomoyan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004207000",
+      "code": "1004207000",
+      "name": "Jimenez"
+    }
+  },
+  {
+    "id": "1004207009",
+    "code": "1004207009",
+    "name": "Macabayao",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004207000",
+      "code": "1004207000",
+      "name": "Jimenez"
+    }
+  },
+  {
+    "id": "1004207008",
+    "code": "1004207008",
+    "name": "Malibacsan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004207000",
+      "code": "1004207000",
+      "name": "Jimenez"
+    }
+  },
+  {
+    "id": "1004207010",
+    "code": "1004207010",
+    "name": "Matugas Alto",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004207000",
+      "code": "1004207000",
+      "name": "Jimenez"
+    }
+  },
+  {
+    "id": "1004207011",
+    "code": "1004207011",
+    "name": "Matugas Bajo",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004207000",
+      "code": "1004207000",
+      "name": "Jimenez"
+    }
+  },
+  {
+    "id": "1004207012",
+    "code": "1004207012",
+    "name": "Mialem",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004207000",
+      "code": "1004207000",
+      "name": "Jimenez"
+    }
+  },
+  {
+    "id": "1004207016",
+    "code": "1004207016",
+    "name": "Nacional",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004207000",
+      "code": "1004207000",
+      "name": "Jimenez"
+    }
+  },
+  {
+    "id": "1004207014",
+    "code": "1004207014",
+    "name": "Naga",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004207000",
+      "code": "1004207000",
+      "name": "Jimenez"
+    }
+  },
+  {
+    "id": "1004207015",
+    "code": "1004207015",
+    "name": "Palilan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004207000",
+      "code": "1004207000",
+      "name": "Jimenez"
+    }
+  },
+  {
+    "id": "1004207017",
+    "code": "1004207017",
+    "name": "Rizal",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004207000",
+      "code": "1004207000",
+      "name": "Jimenez"
+    }
+  },
+  {
+    "id": "1004207018",
+    "code": "1004207018",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004207000",
+      "code": "1004207000",
+      "name": "Jimenez"
+    }
+  },
+  {
+    "id": "1004207019",
+    "code": "1004207019",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004207000",
+      "code": "1004207000",
+      "name": "Jimenez"
+    }
+  },
+  {
+    "id": "1004207023",
+    "code": "1004207023",
+    "name": "Seti",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004207000",
+      "code": "1004207000",
+      "name": "Jimenez"
+    }
+  },
+  {
+    "id": "1004207020",
+    "code": "1004207020",
+    "name": "Sibaroc",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004207000",
+      "code": "1004207000",
+      "name": "Jimenez"
+    }
+  },
+  {
+    "id": "1004207021",
+    "code": "1004207021",
+    "name": "Sinara Alto",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004207000",
+      "code": "1004207000",
+      "name": "Jimenez"
+    }
+  },
+  {
+    "id": "1004207022",
+    "code": "1004207022",
+    "name": "Sinara Bajo",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004207000",
+      "code": "1004207000",
+      "name": "Jimenez"
+    }
+  },
+  {
+    "id": "1004207024",
+    "code": "1004207024",
+    "name": "Tabo-o",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004207000",
+      "code": "1004207000",
+      "name": "Jimenez"
+    }
+  },
+  {
+    "id": "1004207025",
+    "code": "1004207025",
+    "name": "Taraka",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004207000",
+      "code": "1004207000",
+      "name": "Jimenez"
+    }
+  }
+]

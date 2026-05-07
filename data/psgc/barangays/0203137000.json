@@ -1,0 +1,968 @@
+[
+  {
+    "id": "0203137001",
+    "code": "0203137001",
+    "name": "Annafunan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203137000",
+      "code": "0203137000",
+      "name": "Tumauini"
+    }
+  },
+  {
+    "id": "0203137002",
+    "code": "0203137002",
+    "name": "Antagan I",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203137000",
+      "code": "0203137000",
+      "name": "Tumauini"
+    }
+  },
+  {
+    "id": "0203137003",
+    "code": "0203137003",
+    "name": "Antagan II",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203137000",
+      "code": "0203137000",
+      "name": "Tumauini"
+    }
+  },
+  {
+    "id": "0203137005",
+    "code": "0203137005",
+    "name": "Arcon",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203137000",
+      "code": "0203137000",
+      "name": "Tumauini"
+    }
+  },
+  {
+    "id": "0203137007",
+    "code": "0203137007",
+    "name": "Balug",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203137000",
+      "code": "0203137000",
+      "name": "Tumauini"
+    }
+  },
+  {
+    "id": "0203137008",
+    "code": "0203137008",
+    "name": "Banig",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203137000",
+      "code": "0203137000",
+      "name": "Tumauini"
+    }
+  },
+  {
+    "id": "0203137009",
+    "code": "0203137009",
+    "name": "Bantug",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203137000",
+      "code": "0203137000",
+      "name": "Tumauini"
+    }
+  },
+  {
+    "id": "0203137037",
+    "code": "0203137037",
+    "name": "Barangay District 1",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203137000",
+      "code": "0203137000",
+      "name": "Tumauini"
+    }
+  },
+  {
+    "id": "0203137038",
+    "code": "0203137038",
+    "name": "Barangay District 2",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203137000",
+      "code": "0203137000",
+      "name": "Tumauini"
+    }
+  },
+  {
+    "id": "0203137039",
+    "code": "0203137039",
+    "name": "Barangay District 3",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203137000",
+      "code": "0203137000",
+      "name": "Tumauini"
+    }
+  },
+  {
+    "id": "0203137040",
+    "code": "0203137040",
+    "name": "Barangay District 4",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203137000",
+      "code": "0203137000",
+      "name": "Tumauini"
+    }
+  },
+  {
+    "id": "0203137010",
+    "code": "0203137010",
+    "name": "Bayabo East",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203137000",
+      "code": "0203137000",
+      "name": "Tumauini"
+    }
+  },
+  {
+    "id": "0203137012",
+    "code": "0203137012",
+    "name": "Caligayan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203137000",
+      "code": "0203137000",
+      "name": "Tumauini"
+    }
+  },
+  {
+    "id": "0203137013",
+    "code": "0203137013",
+    "name": "Camasi",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203137000",
+      "code": "0203137000",
+      "name": "Tumauini"
+    }
+  },
+  {
+    "id": "0203137014",
+    "code": "0203137014",
+    "name": "Carpentero",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203137000",
+      "code": "0203137000",
+      "name": "Tumauini"
+    }
+  },
+  {
+    "id": "0203137015",
+    "code": "0203137015",
+    "name": "Compania",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203137000",
+      "code": "0203137000",
+      "name": "Tumauini"
+    }
+  },
+  {
+    "id": "0203137016",
+    "code": "0203137016",
+    "name": "Cumabao",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203137000",
+      "code": "0203137000",
+      "name": "Tumauini"
+    }
+  },
+  {
+    "id": "0203137021",
+    "code": "0203137021",
+    "name": "Fermeldy",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203137000",
+      "code": "0203137000",
+      "name": "Tumauini"
+    }
+  },
+  {
+    "id": "0203137018",
+    "code": "0203137018",
+    "name": "Fugu Abajo",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203137000",
+      "code": "0203137000",
+      "name": "Tumauini"
+    }
+  },
+  {
+    "id": "0203137019",
+    "code": "0203137019",
+    "name": "Fugu Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203137000",
+      "code": "0203137000",
+      "name": "Tumauini"
+    }
+  },
+  {
+    "id": "0203137020",
+    "code": "0203137020",
+    "name": "Fugu Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203137000",
+      "code": "0203137000",
+      "name": "Tumauini"
+    }
+  },
+  {
+    "id": "0203137022",
+    "code": "0203137022",
+    "name": "Lalauanan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203137000",
+      "code": "0203137000",
+      "name": "Tumauini"
+    }
+  },
+  {
+    "id": "0203137023",
+    "code": "0203137023",
+    "name": "Lanna",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203137000",
+      "code": "0203137000",
+      "name": "Tumauini"
+    }
+  },
+  {
+    "id": "0203137024",
+    "code": "0203137024",
+    "name": "Lapogan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203137000",
+      "code": "0203137000",
+      "name": "Tumauini"
+    }
+  },
+  {
+    "id": "0203137025",
+    "code": "0203137025",
+    "name": "Lingaling",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203137000",
+      "code": "0203137000",
+      "name": "Tumauini"
+    }
+  },
+  {
+    "id": "0203137026",
+    "code": "0203137026",
+    "name": "Liwanag",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203137000",
+      "code": "0203137000",
+      "name": "Tumauini"
+    }
+  },
+  {
+    "id": "0203137029",
+    "code": "0203137029",
+    "name": "Malamag East",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203137000",
+      "code": "0203137000",
+      "name": "Tumauini"
+    }
+  },
+  {
+    "id": "0203137030",
+    "code": "0203137030",
+    "name": "Malamag West",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203137000",
+      "code": "0203137000",
+      "name": "Tumauini"
+    }
+  },
+  {
+    "id": "0203137031",
+    "code": "0203137031",
+    "name": "Maligaya",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203137000",
+      "code": "0203137000",
+      "name": "Tumauini"
+    }
+  },
+  {
+    "id": "0203137032",
+    "code": "0203137032",
+    "name": "Minanga",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203137000",
+      "code": "0203137000",
+      "name": "Tumauini"
+    }
+  },
+  {
+    "id": "0203137055",
+    "code": "0203137055",
+    "name": "Moldero",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203137000",
+      "code": "0203137000",
+      "name": "Tumauini"
+    }
+  },
+  {
+    "id": "0203137033",
+    "code": "0203137033",
+    "name": "Namnama",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203137000",
+      "code": "0203137000",
+      "name": "Tumauini"
+    }
+  },
+  {
+    "id": "0203137035",
+    "code": "0203137035",
+    "name": "Paragu",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203137000",
+      "code": "0203137000",
+      "name": "Tumauini"
+    }
+  },
+  {
+    "id": "0203137036",
+    "code": "0203137036",
+    "name": "Pilitan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203137000",
+      "code": "0203137000",
+      "name": "Tumauini"
+    }
+  },
+  {
+    "id": "0203137041",
+    "code": "0203137041",
+    "name": "San Mateo",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203137000",
+      "code": "0203137000",
+      "name": "Tumauini"
+    }
+  },
+  {
+    "id": "0203137042",
+    "code": "0203137042",
+    "name": "San Pedro",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203137000",
+      "code": "0203137000",
+      "name": "Tumauini"
+    }
+  },
+  {
+    "id": "0203137044",
+    "code": "0203137044",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203137000",
+      "code": "0203137000",
+      "name": "Tumauini"
+    }
+  },
+  {
+    "id": "0203137045",
+    "code": "0203137045",
+    "name": "Santa",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203137000",
+      "code": "0203137000",
+      "name": "Tumauini"
+    }
+  },
+  {
+    "id": "0203137048",
+    "code": "0203137048",
+    "name": "Sinippil",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203137000",
+      "code": "0203137000",
+      "name": "Tumauini"
+    }
+  },
+  {
+    "id": "0203137050",
+    "code": "0203137050",
+    "name": "Sisim Abajo",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203137000",
+      "code": "0203137000",
+      "name": "Tumauini"
+    }
+  },
+  {
+    "id": "0203137051",
+    "code": "0203137051",
+    "name": "Sisim Alto",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203137000",
+      "code": "0203137000",
+      "name": "Tumauini"
+    }
+  },
+  {
+    "id": "0203137046",
+    "code": "0203137046",
+    "name": "Sta. Catalina",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203137000",
+      "code": "0203137000",
+      "name": "Tumauini"
+    }
+  },
+  {
+    "id": "0203137027",
+    "code": "0203137027",
+    "name": "Sta. Visitacion",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203137000",
+      "code": "0203137000",
+      "name": "Tumauini"
+    }
+  },
+  {
+    "id": "0203137047",
+    "code": "0203137047",
+    "name": "Sto. Niño",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203137000",
+      "code": "0203137000",
+      "name": "Tumauini"
+    }
+  },
+  {
+    "id": "0203137053",
+    "code": "0203137053",
+    "name": "Tunggui",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203137000",
+      "code": "0203137000",
+      "name": "Tumauini"
+    }
+  },
+  {
+    "id": "0203137054",
+    "code": "0203137054",
+    "name": "Ugad",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203137000",
+      "code": "0203137000",
+      "name": "Tumauini"
+    }
+  }
+]

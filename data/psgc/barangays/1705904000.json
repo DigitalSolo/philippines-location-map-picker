@@ -1,0 +1,149 @@
+[
+  {
+    "id": "1705904001",
+    "code": "1705904001",
+    "name": "Balogo",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705900000",
+      "code": "1705900000",
+      "name": "Romblon"
+    },
+    "city_municipality": {
+      "id": "1705904000",
+      "code": "1705904000",
+      "name": "Calatrava"
+    }
+  },
+  {
+    "id": "1705904002",
+    "code": "1705904002",
+    "name": "Linao",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705900000",
+      "code": "1705900000",
+      "name": "Romblon"
+    },
+    "city_municipality": {
+      "id": "1705904000",
+      "code": "1705904000",
+      "name": "Calatrava"
+    }
+  },
+  {
+    "id": "1705904004",
+    "code": "1705904004",
+    "name": "Pagsangahan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705900000",
+      "code": "1705900000",
+      "name": "Romblon"
+    },
+    "city_municipality": {
+      "id": "1705904000",
+      "code": "1705904000",
+      "name": "Calatrava"
+    }
+  },
+  {
+    "id": "1705904005",
+    "code": "1705904005",
+    "name": "Pangulo",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705900000",
+      "code": "1705900000",
+      "name": "Romblon"
+    },
+    "city_municipality": {
+      "id": "1705904000",
+      "code": "1705904000",
+      "name": "Calatrava"
+    }
+  },
+  {
+    "id": "1705904003",
+    "code": "1705904003",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705900000",
+      "code": "1705900000",
+      "name": "Romblon"
+    },
+    "city_municipality": {
+      "id": "1705904000",
+      "code": "1705904000",
+      "name": "Calatrava"
+    }
+  },
+  {
+    "id": "1705904006",
+    "code": "1705904006",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705900000",
+      "code": "1705900000",
+      "name": "Romblon"
+    },
+    "city_municipality": {
+      "id": "1705904000",
+      "code": "1705904000",
+      "name": "Calatrava"
+    }
+  },
+  {
+    "id": "1705904007",
+    "code": "1705904007",
+    "name": "Talisay",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705900000",
+      "code": "1705900000",
+      "name": "Romblon"
+    },
+    "city_municipality": {
+      "id": "1705904000",
+      "code": "1705904000",
+      "name": "Calatrava"
+    }
+  }
+]

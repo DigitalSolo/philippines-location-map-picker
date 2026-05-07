@@ -1,0 +1,548 @@
+[
+  {
+    "id": "0403426001",
+    "code": "0403426001",
+    "name": "Alipit",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403426000",
+      "code": "0403426000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0403426002",
+    "code": "0403426002",
+    "name": "Bagumbayan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403426000",
+      "code": "0403426000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0403426014",
+    "code": "0403426014",
+    "name": "Barangay I",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403426000",
+      "code": "0403426000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0403426015",
+    "code": "0403426015",
+    "name": "Barangay II",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403426000",
+      "code": "0403426000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0403426016",
+    "code": "0403426016",
+    "name": "Barangay III",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403426000",
+      "code": "0403426000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0403426017",
+    "code": "0403426017",
+    "name": "Barangay IV",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403426000",
+      "code": "0403426000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0403426018",
+    "code": "0403426018",
+    "name": "Barangay V",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403426000",
+      "code": "0403426000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0403426003",
+    "code": "0403426003",
+    "name": "Bubukal",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403426000",
+      "code": "0403426000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0403426004",
+    "code": "0403426004",
+    "name": "Calios",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403426000",
+      "code": "0403426000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0403426005",
+    "code": "0403426005",
+    "name": "Duhat",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403426000",
+      "code": "0403426000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0403426006",
+    "code": "0403426006",
+    "name": "Gatid",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403426000",
+      "code": "0403426000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0403426007",
+    "code": "0403426007",
+    "name": "Jasaan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403426000",
+      "code": "0403426000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0403426008",
+    "code": "0403426008",
+    "name": "Labuin",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403426000",
+      "code": "0403426000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0403426009",
+    "code": "0403426009",
+    "name": "Malinao",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403426000",
+      "code": "0403426000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0403426010",
+    "code": "0403426010",
+    "name": "Oogong",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403426000",
+      "code": "0403426000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0403426011",
+    "code": "0403426011",
+    "name": "Pagsawitan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403426000",
+      "code": "0403426000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0403426012",
+    "code": "0403426012",
+    "name": "Palasan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403426000",
+      "code": "0403426000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0403426013",
+    "code": "0403426013",
+    "name": "Patimbao",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403426000",
+      "code": "0403426000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0403426019",
+    "code": "0403426019",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403426000",
+      "code": "0403426000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0403426020",
+    "code": "0403426020",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403426000",
+      "code": "0403426000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0403426021",
+    "code": "0403426021",
+    "name": "San Pablo Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403426000",
+      "code": "0403426000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0403426022",
+    "code": "0403426022",
+    "name": "San Pablo Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403426000",
+      "code": "0403426000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0403426023",
+    "code": "0403426023",
+    "name": "Santisima Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403426000",
+      "code": "0403426000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0403426024",
+    "code": "0403426024",
+    "name": "Santo Angel Central",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403426000",
+      "code": "0403426000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0403426025",
+    "code": "0403426025",
+    "name": "Santo Angel Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403426000",
+      "code": "0403426000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "0403426026",
+    "code": "0403426026",
+    "name": "Santo Angel Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403426000",
+      "code": "0403426000",
+      "name": "Santa Cruz"
+    }
+  }
+]

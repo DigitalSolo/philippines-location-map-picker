@@ -1,0 +1,611 @@
+[
+  {
+    "id": "1004205002",
+    "code": "1004205002",
+    "name": "Bernad",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004205000",
+      "code": "1004205000",
+      "name": "Clarin"
+    }
+  },
+  {
+    "id": "1004205003",
+    "code": "1004205003",
+    "name": "Bito-on",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004205000",
+      "code": "1004205000",
+      "name": "Clarin"
+    }
+  },
+  {
+    "id": "1004205004",
+    "code": "1004205004",
+    "name": "Cabunga-an",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004205000",
+      "code": "1004205000",
+      "name": "Clarin"
+    }
+  },
+  {
+    "id": "1004205005",
+    "code": "1004205005",
+    "name": "Canibungan Daku",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004205000",
+      "code": "1004205000",
+      "name": "Clarin"
+    }
+  },
+  {
+    "id": "1004205006",
+    "code": "1004205006",
+    "name": "Canibungan Putol",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004205000",
+      "code": "1004205000",
+      "name": "Clarin"
+    }
+  },
+  {
+    "id": "1004205007",
+    "code": "1004205007",
+    "name": "Canipacan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004205000",
+      "code": "1004205000",
+      "name": "Clarin"
+    }
+  },
+  {
+    "id": "1004205008",
+    "code": "1004205008",
+    "name": "Dalingap",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004205000",
+      "code": "1004205000",
+      "name": "Clarin"
+    }
+  },
+  {
+    "id": "1004205009",
+    "code": "1004205009",
+    "name": "Dela Paz",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004205000",
+      "code": "1004205000",
+      "name": "Clarin"
+    }
+  },
+  {
+    "id": "1004205010",
+    "code": "1004205010",
+    "name": "Dolores",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004205000",
+      "code": "1004205000",
+      "name": "Clarin"
+    }
+  },
+  {
+    "id": "1004205011",
+    "code": "1004205011",
+    "name": "Gata Daku",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004205000",
+      "code": "1004205000",
+      "name": "Clarin"
+    }
+  },
+  {
+    "id": "1004205012",
+    "code": "1004205012",
+    "name": "Gata Diot",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004205000",
+      "code": "1004205000",
+      "name": "Clarin"
+    }
+  },
+  {
+    "id": "1004205013",
+    "code": "1004205013",
+    "name": "Guba",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004205000",
+      "code": "1004205000",
+      "name": "Clarin"
+    }
+  },
+  {
+    "id": "1004205014",
+    "code": "1004205014",
+    "name": "Kinangay Norte",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004205000",
+      "code": "1004205000",
+      "name": "Clarin"
+    }
+  },
+  {
+    "id": "1004205015",
+    "code": "1004205015",
+    "name": "Kinangay Sur",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004205000",
+      "code": "1004205000",
+      "name": "Clarin"
+    }
+  },
+  {
+    "id": "1004205016",
+    "code": "1004205016",
+    "name": "Lapasan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004205000",
+      "code": "1004205000",
+      "name": "Clarin"
+    }
+  },
+  {
+    "id": "1004205017",
+    "code": "1004205017",
+    "name": "Lupagan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004205000",
+      "code": "1004205000",
+      "name": "Clarin"
+    }
+  },
+  {
+    "id": "1004205018",
+    "code": "1004205018",
+    "name": "Malibangcao",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004205000",
+      "code": "1004205000",
+      "name": "Clarin"
+    }
+  },
+  {
+    "id": "1004205019",
+    "code": "1004205019",
+    "name": "Masabud",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004205000",
+      "code": "1004205000",
+      "name": "Clarin"
+    }
+  },
+  {
+    "id": "1004205020",
+    "code": "1004205020",
+    "name": "Mialen",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004205000",
+      "code": "1004205000",
+      "name": "Clarin"
+    }
+  },
+  {
+    "id": "1004205021",
+    "code": "1004205021",
+    "name": "Pan-ay",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004205000",
+      "code": "1004205000",
+      "name": "Clarin"
+    }
+  },
+  {
+    "id": "1004205022",
+    "code": "1004205022",
+    "name": "Penacio",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004205000",
+      "code": "1004205000",
+      "name": "Clarin"
+    }
+  },
+  {
+    "id": "1004205023",
+    "code": "1004205023",
+    "name": "Poblacion I",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004205000",
+      "code": "1004205000",
+      "name": "Clarin"
+    }
+  },
+  {
+    "id": "1004205028",
+    "code": "1004205028",
+    "name": "Poblacion II",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004205000",
+      "code": "1004205000",
+      "name": "Clarin"
+    }
+  },
+  {
+    "id": "1004205029",
+    "code": "1004205029",
+    "name": "Poblacion III",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004205000",
+      "code": "1004205000",
+      "name": "Clarin"
+    }
+  },
+  {
+    "id": "1004205030",
+    "code": "1004205030",
+    "name": "Poblacion IV",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004205000",
+      "code": "1004205000",
+      "name": "Clarin"
+    }
+  },
+  {
+    "id": "1004205026",
+    "code": "1004205026",
+    "name": "Sebasi",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004205000",
+      "code": "1004205000",
+      "name": "Clarin"
+    }
+  },
+  {
+    "id": "1004205024",
+    "code": "1004205024",
+    "name": "Segatic Daku",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004205000",
+      "code": "1004205000",
+      "name": "Clarin"
+    }
+  },
+  {
+    "id": "1004205025",
+    "code": "1004205025",
+    "name": "Segatic Diot",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004205000",
+      "code": "1004205000",
+      "name": "Clarin"
+    }
+  },
+  {
+    "id": "1004205027",
+    "code": "1004205027",
+    "name": "Tinacla-an",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004205000",
+      "code": "1004205000",
+      "name": "Clarin"
+    }
+  }
+]

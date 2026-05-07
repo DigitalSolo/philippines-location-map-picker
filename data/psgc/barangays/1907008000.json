@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1907008002",
+    "code": "1907008002",
+    "name": "Likud Bakkao",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907008000",
+      "code": "1907008000",
+      "name": "Turtle Islands"
+    }
+  },
+  {
+    "id": "1907008001",
+    "code": "1907008001",
+    "name": "Taganak Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907008000",
+      "code": "1907008000",
+      "name": "Turtle Islands"
+    }
+  }
+]

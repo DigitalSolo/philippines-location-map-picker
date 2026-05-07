@@ -1,0 +1,590 @@
+[
+  {
+    "id": "0908305001",
+    "code": "0908305001",
+    "name": "Bacalan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908305000",
+      "code": "0908305000",
+      "name": "Ipil"
+    }
+  },
+  {
+    "id": "0908305002",
+    "code": "0908305002",
+    "name": "Bangkerohan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908305000",
+      "code": "0908305000",
+      "name": "Ipil"
+    }
+  },
+  {
+    "id": "0908305003",
+    "code": "0908305003",
+    "name": "Bulu-an",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908305000",
+      "code": "0908305000",
+      "name": "Ipil"
+    }
+  },
+  {
+    "id": "0908305040",
+    "code": "0908305040",
+    "name": "Caparan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908305000",
+      "code": "0908305000",
+      "name": "Ipil"
+    }
+  },
+  {
+    "id": "0908305041",
+    "code": "0908305041",
+    "name": "Domandan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908305000",
+      "code": "0908305000",
+      "name": "Ipil"
+    }
+  },
+  {
+    "id": "0908305006",
+    "code": "0908305006",
+    "name": "Don Andres",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908305000",
+      "code": "0908305000",
+      "name": "Ipil"
+    }
+  },
+  {
+    "id": "0908305042",
+    "code": "0908305042",
+    "name": "Doña Josefa",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908305000",
+      "code": "0908305000",
+      "name": "Ipil"
+    }
+  },
+  {
+    "id": "0908305008",
+    "code": "0908305008",
+    "name": "Guituan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908305000",
+      "code": "0908305000",
+      "name": "Ipil"
+    }
+  },
+  {
+    "id": "0908305009",
+    "code": "0908305009",
+    "name": "Ipil Heights",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908305000",
+      "code": "0908305000",
+      "name": "Ipil"
+    }
+  },
+  {
+    "id": "0908305012",
+    "code": "0908305012",
+    "name": "Labi",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908305000",
+      "code": "0908305000",
+      "name": "Ipil"
+    }
+  },
+  {
+    "id": "0908305043",
+    "code": "0908305043",
+    "name": "Logan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908305000",
+      "code": "0908305000",
+      "name": "Ipil"
+    }
+  },
+  {
+    "id": "0908305013",
+    "code": "0908305013",
+    "name": "Lower Ipil Heights",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908305000",
+      "code": "0908305000",
+      "name": "Ipil"
+    }
+  },
+  {
+    "id": "0908305015",
+    "code": "0908305015",
+    "name": "Lower Taway",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908305000",
+      "code": "0908305000",
+      "name": "Ipil"
+    }
+  },
+  {
+    "id": "0908305016",
+    "code": "0908305016",
+    "name": "Lumbia",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908305000",
+      "code": "0908305000",
+      "name": "Ipil"
+    }
+  },
+  {
+    "id": "0908305044",
+    "code": "0908305044",
+    "name": "Maasin",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908305000",
+      "code": "0908305000",
+      "name": "Ipil"
+    }
+  },
+  {
+    "id": "0908305018",
+    "code": "0908305018",
+    "name": "Magdaup",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908305000",
+      "code": "0908305000",
+      "name": "Ipil"
+    }
+  },
+  {
+    "id": "0908305039",
+    "code": "0908305039",
+    "name": "Makilas",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908305000",
+      "code": "0908305000",
+      "name": "Ipil"
+    }
+  },
+  {
+    "id": "0908305022",
+    "code": "0908305022",
+    "name": "Pangi",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908305000",
+      "code": "0908305000",
+      "name": "Ipil"
+    }
+  },
+  {
+    "id": "0908305023",
+    "code": "0908305023",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908305000",
+      "code": "0908305000",
+      "name": "Ipil"
+    }
+  },
+  {
+    "id": "0908305024",
+    "code": "0908305024",
+    "name": "Sanito",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908305000",
+      "code": "0908305000",
+      "name": "Ipil"
+    }
+  },
+  {
+    "id": "0908305027",
+    "code": "0908305027",
+    "name": "Suclema",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908305000",
+      "code": "0908305000",
+      "name": "Ipil"
+    }
+  },
+  {
+    "id": "0908305029",
+    "code": "0908305029",
+    "name": "Taway",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908305000",
+      "code": "0908305000",
+      "name": "Ipil"
+    }
+  },
+  {
+    "id": "0908305030",
+    "code": "0908305030",
+    "name": "Tenan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908305000",
+      "code": "0908305000",
+      "name": "Ipil"
+    }
+  },
+  {
+    "id": "0908305032",
+    "code": "0908305032",
+    "name": "Tiayon",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908305000",
+      "code": "0908305000",
+      "name": "Ipil"
+    }
+  },
+  {
+    "id": "0908305034",
+    "code": "0908305034",
+    "name": "Timalang",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908305000",
+      "code": "0908305000",
+      "name": "Ipil"
+    }
+  },
+  {
+    "id": "0908305035",
+    "code": "0908305035",
+    "name": "Tomitom",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908305000",
+      "code": "0908305000",
+      "name": "Ipil"
+    }
+  },
+  {
+    "id": "0908305037",
+    "code": "0908305037",
+    "name": "Upper Pangi",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908305000",
+      "code": "0908305000",
+      "name": "Ipil"
+    }
+  },
+  {
+    "id": "0908305038",
+    "code": "0908305038",
+    "name": "Veteran's Village",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908305000",
+      "code": "0908305000",
+      "name": "Ipil"
+    }
+  }
+]

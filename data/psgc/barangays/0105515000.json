@@ -1,0 +1,506 @@
+[
+  {
+    "id": "0105515001",
+    "code": "0105515001",
+    "name": "Angarian",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105515000",
+      "code": "0105515000",
+      "name": "Bugallon"
+    }
+  },
+  {
+    "id": "0105515002",
+    "code": "0105515002",
+    "name": "Asinan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105515000",
+      "code": "0105515000",
+      "name": "Bugallon"
+    }
+  },
+  {
+    "id": "0105515004",
+    "code": "0105515004",
+    "name": "Bacabac",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105515000",
+      "code": "0105515000",
+      "name": "Bugallon"
+    }
+  },
+  {
+    "id": "0105515003",
+    "code": "0105515003",
+    "name": "Banaga",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105515000",
+      "code": "0105515000",
+      "name": "Bugallon"
+    }
+  },
+  {
+    "id": "0105515005",
+    "code": "0105515005",
+    "name": "Bolaoen",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105515000",
+      "code": "0105515000",
+      "name": "Bugallon"
+    }
+  },
+  {
+    "id": "0105515006",
+    "code": "0105515006",
+    "name": "Buenlag",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105515000",
+      "code": "0105515000",
+      "name": "Bugallon"
+    }
+  },
+  {
+    "id": "0105515007",
+    "code": "0105515007",
+    "name": "Cabayaoasan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105515000",
+      "code": "0105515000",
+      "name": "Bugallon"
+    }
+  },
+  {
+    "id": "0105515008",
+    "code": "0105515008",
+    "name": "Cayanga",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105515000",
+      "code": "0105515000",
+      "name": "Bugallon"
+    }
+  },
+  {
+    "id": "0105515009",
+    "code": "0105515009",
+    "name": "Gueset",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105515000",
+      "code": "0105515000",
+      "name": "Bugallon"
+    }
+  },
+  {
+    "id": "0105515010",
+    "code": "0105515010",
+    "name": "Hacienda",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105515000",
+      "code": "0105515000",
+      "name": "Bugallon"
+    }
+  },
+  {
+    "id": "0105515011",
+    "code": "0105515011",
+    "name": "Laguit Centro",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105515000",
+      "code": "0105515000",
+      "name": "Bugallon"
+    }
+  },
+  {
+    "id": "0105515012",
+    "code": "0105515012",
+    "name": "Laguit Padilla",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105515000",
+      "code": "0105515000",
+      "name": "Bugallon"
+    }
+  },
+  {
+    "id": "0105515013",
+    "code": "0105515013",
+    "name": "Magtaking",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105515000",
+      "code": "0105515000",
+      "name": "Bugallon"
+    }
+  },
+  {
+    "id": "0105515014",
+    "code": "0105515014",
+    "name": "Pangascasan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105515000",
+      "code": "0105515000",
+      "name": "Bugallon"
+    }
+  },
+  {
+    "id": "0105515015",
+    "code": "0105515015",
+    "name": "Pantal",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105515000",
+      "code": "0105515000",
+      "name": "Bugallon"
+    }
+  },
+  {
+    "id": "0105515016",
+    "code": "0105515016",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105515000",
+      "code": "0105515000",
+      "name": "Bugallon"
+    }
+  },
+  {
+    "id": "0105515017",
+    "code": "0105515017",
+    "name": "Polong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105515000",
+      "code": "0105515000",
+      "name": "Bugallon"
+    }
+  },
+  {
+    "id": "0105515018",
+    "code": "0105515018",
+    "name": "Portic",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105515000",
+      "code": "0105515000",
+      "name": "Bugallon"
+    }
+  },
+  {
+    "id": "0105515019",
+    "code": "0105515019",
+    "name": "Salasa",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105515000",
+      "code": "0105515000",
+      "name": "Bugallon"
+    }
+  },
+  {
+    "id": "0105515020",
+    "code": "0105515020",
+    "name": "Salomague Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105515000",
+      "code": "0105515000",
+      "name": "Bugallon"
+    }
+  },
+  {
+    "id": "0105515021",
+    "code": "0105515021",
+    "name": "Salomague Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105515000",
+      "code": "0105515000",
+      "name": "Bugallon"
+    }
+  },
+  {
+    "id": "0105515022",
+    "code": "0105515022",
+    "name": "Samat",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105515000",
+      "code": "0105515000",
+      "name": "Bugallon"
+    }
+  },
+  {
+    "id": "0105515023",
+    "code": "0105515023",
+    "name": "San Francisco",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105515000",
+      "code": "0105515000",
+      "name": "Bugallon"
+    }
+  },
+  {
+    "id": "0105515024",
+    "code": "0105515024",
+    "name": "Umanday",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105515000",
+      "code": "0105515000",
+      "name": "Bugallon"
+    }
+  }
+]

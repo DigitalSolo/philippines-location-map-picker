@@ -1,0 +1,275 @@
+[
+  {
+    "id": "1804512001",
+    "code": "1804512001",
+    "name": "Alim",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804512000",
+      "code": "1804512000",
+      "name": "Hinoba-an"
+    }
+  },
+  {
+    "id": "1804512002",
+    "code": "1804512002",
+    "name": "Asia",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804512000",
+      "code": "1804512000",
+      "name": "Hinoba-an"
+    }
+  },
+  {
+    "id": "1804512003",
+    "code": "1804512003",
+    "name": "Bacuyangan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804512000",
+      "code": "1804512000",
+      "name": "Hinoba-an"
+    }
+  },
+  {
+    "id": "1804512004",
+    "code": "1804512004",
+    "name": "Barangay I",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804512000",
+      "code": "1804512000",
+      "name": "Hinoba-an"
+    }
+  },
+  {
+    "id": "1804512005",
+    "code": "1804512005",
+    "name": "Barangay II",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804512000",
+      "code": "1804512000",
+      "name": "Hinoba-an"
+    }
+  },
+  {
+    "id": "1804512006",
+    "code": "1804512006",
+    "name": "Bulwangan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804512000",
+      "code": "1804512000",
+      "name": "Hinoba-an"
+    }
+  },
+  {
+    "id": "1804512007",
+    "code": "1804512007",
+    "name": "Culipapa",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804512000",
+      "code": "1804512000",
+      "name": "Hinoba-an"
+    }
+  },
+  {
+    "id": "1804512008",
+    "code": "1804512008",
+    "name": "Damutan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804512000",
+      "code": "1804512000",
+      "name": "Hinoba-an"
+    }
+  },
+  {
+    "id": "1804512009",
+    "code": "1804512009",
+    "name": "Daug",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804512000",
+      "code": "1804512000",
+      "name": "Hinoba-an"
+    }
+  },
+  {
+    "id": "1804512010",
+    "code": "1804512010",
+    "name": "Po-ok",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804512000",
+      "code": "1804512000",
+      "name": "Hinoba-an"
+    }
+  },
+  {
+    "id": "1804512011",
+    "code": "1804512011",
+    "name": "San Rafael",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804512000",
+      "code": "1804512000",
+      "name": "Hinoba-an"
+    }
+  },
+  {
+    "id": "1804512012",
+    "code": "1804512012",
+    "name": "Sangke",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804512000",
+      "code": "1804512000",
+      "name": "Hinoba-an"
+    }
+  },
+  {
+    "id": "1804512013",
+    "code": "1804512013",
+    "name": "Talacagay",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804512000",
+      "code": "1804512000",
+      "name": "Hinoba-an"
+    }
+  }
+]

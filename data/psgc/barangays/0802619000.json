@@ -1,0 +1,863 @@
+[
+  {
+    "id": "0802619001",
+    "code": "0802619001",
+    "name": "Abejao",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802619000",
+      "code": "0802619000",
+      "name": "Salcedo"
+    }
+  },
+  {
+    "id": "0802619002",
+    "code": "0802619002",
+    "name": "Alog",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802619000",
+      "code": "0802619000",
+      "name": "Salcedo"
+    }
+  },
+  {
+    "id": "0802619003",
+    "code": "0802619003",
+    "name": "Asgad",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802619000",
+      "code": "0802619000",
+      "name": "Salcedo"
+    }
+  },
+  {
+    "id": "0802619004",
+    "code": "0802619004",
+    "name": "Bagtong",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802619000",
+      "code": "0802619000",
+      "name": "Salcedo"
+    }
+  },
+  {
+    "id": "0802619005",
+    "code": "0802619005",
+    "name": "Balud",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802619000",
+      "code": "0802619000",
+      "name": "Salcedo"
+    }
+  },
+  {
+    "id": "0802619006",
+    "code": "0802619006",
+    "name": "Barangay 1",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802619000",
+      "code": "0802619000",
+      "name": "Salcedo"
+    }
+  },
+  {
+    "id": "0802619016",
+    "code": "0802619016",
+    "name": "Barangay 10",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802619000",
+      "code": "0802619000",
+      "name": "Salcedo"
+    }
+  },
+  {
+    "id": "0802619017",
+    "code": "0802619017",
+    "name": "Barangay 11",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802619000",
+      "code": "0802619000",
+      "name": "Salcedo"
+    }
+  },
+  {
+    "id": "0802619018",
+    "code": "0802619018",
+    "name": "Barangay 12",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802619000",
+      "code": "0802619000",
+      "name": "Salcedo"
+    }
+  },
+  {
+    "id": "0802619007",
+    "code": "0802619007",
+    "name": "Barangay 13",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802619000",
+      "code": "0802619000",
+      "name": "Salcedo"
+    }
+  },
+  {
+    "id": "0802619008",
+    "code": "0802619008",
+    "name": "Barangay 2",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802619000",
+      "code": "0802619000",
+      "name": "Salcedo"
+    }
+  },
+  {
+    "id": "0802619009",
+    "code": "0802619009",
+    "name": "Barangay 3",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802619000",
+      "code": "0802619000",
+      "name": "Salcedo"
+    }
+  },
+  {
+    "id": "0802619010",
+    "code": "0802619010",
+    "name": "Barangay 4",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802619000",
+      "code": "0802619000",
+      "name": "Salcedo"
+    }
+  },
+  {
+    "id": "0802619011",
+    "code": "0802619011",
+    "name": "Barangay 5",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802619000",
+      "code": "0802619000",
+      "name": "Salcedo"
+    }
+  },
+  {
+    "id": "0802619012",
+    "code": "0802619012",
+    "name": "Barangay 6",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802619000",
+      "code": "0802619000",
+      "name": "Salcedo"
+    }
+  },
+  {
+    "id": "0802619013",
+    "code": "0802619013",
+    "name": "Barangay 7",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802619000",
+      "code": "0802619000",
+      "name": "Salcedo"
+    }
+  },
+  {
+    "id": "0802619014",
+    "code": "0802619014",
+    "name": "Barangay 8",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802619000",
+      "code": "0802619000",
+      "name": "Salcedo"
+    }
+  },
+  {
+    "id": "0802619015",
+    "code": "0802619015",
+    "name": "Barangay 9",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802619000",
+      "code": "0802619000",
+      "name": "Salcedo"
+    }
+  },
+  {
+    "id": "0802619020",
+    "code": "0802619020",
+    "name": "Buabua",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802619000",
+      "code": "0802619000",
+      "name": "Salcedo"
+    }
+  },
+  {
+    "id": "0802619021",
+    "code": "0802619021",
+    "name": "Burak",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802619000",
+      "code": "0802619000",
+      "name": "Salcedo"
+    }
+  },
+  {
+    "id": "0802619022",
+    "code": "0802619022",
+    "name": "Butig",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802619000",
+      "code": "0802619000",
+      "name": "Salcedo"
+    }
+  },
+  {
+    "id": "0802619023",
+    "code": "0802619023",
+    "name": "Cagaut",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802619000",
+      "code": "0802619000",
+      "name": "Salcedo"
+    }
+  },
+  {
+    "id": "0802619024",
+    "code": "0802619024",
+    "name": "Camanga",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802619000",
+      "code": "0802619000",
+      "name": "Salcedo"
+    }
+  },
+  {
+    "id": "0802619025",
+    "code": "0802619025",
+    "name": "Cantomoja",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802619000",
+      "code": "0802619000",
+      "name": "Salcedo"
+    }
+  },
+  {
+    "id": "0802619026",
+    "code": "0802619026",
+    "name": "Carapdapan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802619000",
+      "code": "0802619000",
+      "name": "Salcedo"
+    }
+  },
+  {
+    "id": "0802619027",
+    "code": "0802619027",
+    "name": "Caridad",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802619000",
+      "code": "0802619000",
+      "name": "Salcedo"
+    }
+  },
+  {
+    "id": "0802619028",
+    "code": "0802619028",
+    "name": "Casili-on",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802619000",
+      "code": "0802619000",
+      "name": "Salcedo"
+    }
+  },
+  {
+    "id": "0802619029",
+    "code": "0802619029",
+    "name": "Iberan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802619000",
+      "code": "0802619000",
+      "name": "Salcedo"
+    }
+  },
+  {
+    "id": "0802619030",
+    "code": "0802619030",
+    "name": "Jagnaya",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802619000",
+      "code": "0802619000",
+      "name": "Salcedo"
+    }
+  },
+  {
+    "id": "0802619031",
+    "code": "0802619031",
+    "name": "Lusod",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802619000",
+      "code": "0802619000",
+      "name": "Salcedo"
+    }
+  },
+  {
+    "id": "0802619032",
+    "code": "0802619032",
+    "name": "Malbog",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802619000",
+      "code": "0802619000",
+      "name": "Salcedo"
+    }
+  },
+  {
+    "id": "0802619033",
+    "code": "0802619033",
+    "name": "Maliwaliw",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802619000",
+      "code": "0802619000",
+      "name": "Salcedo"
+    }
+  },
+  {
+    "id": "0802619035",
+    "code": "0802619035",
+    "name": "Matarinao",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802619000",
+      "code": "0802619000",
+      "name": "Salcedo"
+    }
+  },
+  {
+    "id": "0802619037",
+    "code": "0802619037",
+    "name": "Naparaan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802619000",
+      "code": "0802619000",
+      "name": "Salcedo"
+    }
+  },
+  {
+    "id": "0802619051",
+    "code": "0802619051",
+    "name": "Palanas",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802619000",
+      "code": "0802619000",
+      "name": "Salcedo"
+    }
+  },
+  {
+    "id": "0802619046",
+    "code": "0802619046",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802619000",
+      "code": "0802619000",
+      "name": "Salcedo"
+    }
+  },
+  {
+    "id": "0802619047",
+    "code": "0802619047",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802619000",
+      "code": "0802619000",
+      "name": "Salcedo"
+    }
+  },
+  {
+    "id": "0802619041",
+    "code": "0802619041",
+    "name": "Seguinon",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802619000",
+      "code": "0802619000",
+      "name": "Salcedo"
+    }
+  },
+  {
+    "id": "0802619049",
+    "code": "0802619049",
+    "name": "Tacla-on",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802619000",
+      "code": "0802619000",
+      "name": "Salcedo"
+    }
+  },
+  {
+    "id": "0802619050",
+    "code": "0802619050",
+    "name": "Tagbacan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802619000",
+      "code": "0802619000",
+      "name": "Salcedo"
+    }
+  },
+  {
+    "id": "0802619052",
+    "code": "0802619052",
+    "name": "Talangdawan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802619000",
+      "code": "0802619000",
+      "name": "Salcedo"
+    }
+  }
+]

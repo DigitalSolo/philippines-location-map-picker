@@ -1,0 +1,212 @@
+[
+  {
+    "id": "0103304001",
+    "code": "0103304001",
+    "name": "Alibangsay",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103304000",
+      "code": "0103304000",
+      "name": "Bagulin"
+    }
+  },
+  {
+    "id": "0103304002",
+    "code": "0103304002",
+    "name": "Baay",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103304000",
+      "code": "0103304000",
+      "name": "Bagulin"
+    }
+  },
+  {
+    "id": "0103304003",
+    "code": "0103304003",
+    "name": "Cambaly",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103304000",
+      "code": "0103304000",
+      "name": "Bagulin"
+    }
+  },
+  {
+    "id": "0103304004",
+    "code": "0103304004",
+    "name": "Cardiz",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103304000",
+      "code": "0103304000",
+      "name": "Bagulin"
+    }
+  },
+  {
+    "id": "0103304005",
+    "code": "0103304005",
+    "name": "Dagup",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103304000",
+      "code": "0103304000",
+      "name": "Bagulin"
+    }
+  },
+  {
+    "id": "0103304006",
+    "code": "0103304006",
+    "name": "Libbo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103304000",
+      "code": "0103304000",
+      "name": "Bagulin"
+    }
+  },
+  {
+    "id": "0103304007",
+    "code": "0103304007",
+    "name": "Suyo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103304000",
+      "code": "0103304000",
+      "name": "Bagulin"
+    }
+  },
+  {
+    "id": "0103304008",
+    "code": "0103304008",
+    "name": "Tagudtud",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103304000",
+      "code": "0103304000",
+      "name": "Bagulin"
+    }
+  },
+  {
+    "id": "0103304009",
+    "code": "0103304009",
+    "name": "Tio-angan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103304000",
+      "code": "0103304000",
+      "name": "Bagulin"
+    }
+  },
+  {
+    "id": "0103304010",
+    "code": "0103304010",
+    "name": "Wallayan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103304000",
+      "code": "0103304000",
+      "name": "Bagulin"
+    }
+  }
+]

@@ -1,0 +1,611 @@
+[
+  {
+    "id": "0603038001",
+    "code": "0603038001",
+    "name": "Agdaliran",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603038000",
+      "code": "0603038000",
+      "name": "San Dionisio"
+    }
+  },
+  {
+    "id": "0603038002",
+    "code": "0603038002",
+    "name": "Amayong",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603038000",
+      "code": "0603038000",
+      "name": "San Dionisio"
+    }
+  },
+  {
+    "id": "0603038003",
+    "code": "0603038003",
+    "name": "Bagacay",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603038000",
+      "code": "0603038000",
+      "name": "San Dionisio"
+    }
+  },
+  {
+    "id": "0603038004",
+    "code": "0603038004",
+    "name": "Batuan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603038000",
+      "code": "0603038000",
+      "name": "San Dionisio"
+    }
+  },
+  {
+    "id": "0603038005",
+    "code": "0603038005",
+    "name": "Bondulan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603038000",
+      "code": "0603038000",
+      "name": "San Dionisio"
+    }
+  },
+  {
+    "id": "0603038006",
+    "code": "0603038006",
+    "name": "Boroñgon",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603038000",
+      "code": "0603038000",
+      "name": "San Dionisio"
+    }
+  },
+  {
+    "id": "0603038007",
+    "code": "0603038007",
+    "name": "Canas",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603038000",
+      "code": "0603038000",
+      "name": "San Dionisio"
+    }
+  },
+  {
+    "id": "0603038008",
+    "code": "0603038008",
+    "name": "Capinang",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603038000",
+      "code": "0603038000",
+      "name": "San Dionisio"
+    }
+  },
+  {
+    "id": "0603038009",
+    "code": "0603038009",
+    "name": "Cubay",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603038000",
+      "code": "0603038000",
+      "name": "San Dionisio"
+    }
+  },
+  {
+    "id": "0603038010",
+    "code": "0603038010",
+    "name": "Cudionan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603038000",
+      "code": "0603038000",
+      "name": "San Dionisio"
+    }
+  },
+  {
+    "id": "0603038011",
+    "code": "0603038011",
+    "name": "Dugman",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603038000",
+      "code": "0603038000",
+      "name": "San Dionisio"
+    }
+  },
+  {
+    "id": "0603038012",
+    "code": "0603038012",
+    "name": "Hacienda Conchita",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603038000",
+      "code": "0603038000",
+      "name": "San Dionisio"
+    }
+  },
+  {
+    "id": "0603038013",
+    "code": "0603038013",
+    "name": "Madanlog",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603038000",
+      "code": "0603038000",
+      "name": "San Dionisio"
+    }
+  },
+  {
+    "id": "0603038014",
+    "code": "0603038014",
+    "name": "Mandu-awak",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603038000",
+      "code": "0603038000",
+      "name": "San Dionisio"
+    }
+  },
+  {
+    "id": "0603038015",
+    "code": "0603038015",
+    "name": "Moto",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603038000",
+      "code": "0603038000",
+      "name": "San Dionisio"
+    }
+  },
+  {
+    "id": "0603038016",
+    "code": "0603038016",
+    "name": "Naborot",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603038000",
+      "code": "0603038000",
+      "name": "San Dionisio"
+    }
+  },
+  {
+    "id": "0603038017",
+    "code": "0603038017",
+    "name": "Nipa",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603038000",
+      "code": "0603038000",
+      "name": "San Dionisio"
+    }
+  },
+  {
+    "id": "0603038018",
+    "code": "0603038018",
+    "name": "Odiongan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603038000",
+      "code": "0603038000",
+      "name": "San Dionisio"
+    }
+  },
+  {
+    "id": "0603038019",
+    "code": "0603038019",
+    "name": "Pangi",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603038000",
+      "code": "0603038000",
+      "name": "San Dionisio"
+    }
+  },
+  {
+    "id": "0603038020",
+    "code": "0603038020",
+    "name": "Pase",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603038000",
+      "code": "0603038000",
+      "name": "San Dionisio"
+    }
+  },
+  {
+    "id": "0603038021",
+    "code": "0603038021",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603038000",
+      "code": "0603038000",
+      "name": "San Dionisio"
+    }
+  },
+  {
+    "id": "0603038022",
+    "code": "0603038022",
+    "name": "San Nicolas",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603038000",
+      "code": "0603038000",
+      "name": "San Dionisio"
+    }
+  },
+  {
+    "id": "0603038024",
+    "code": "0603038024",
+    "name": "Santol",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603038000",
+      "code": "0603038000",
+      "name": "San Dionisio"
+    }
+  },
+  {
+    "id": "0603038025",
+    "code": "0603038025",
+    "name": "Siempreviva",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603038000",
+      "code": "0603038000",
+      "name": "San Dionisio"
+    }
+  },
+  {
+    "id": "0603038026",
+    "code": "0603038026",
+    "name": "Sua",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603038000",
+      "code": "0603038000",
+      "name": "San Dionisio"
+    }
+  },
+  {
+    "id": "0603038027",
+    "code": "0603038027",
+    "name": "Talo-ato",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603038000",
+      "code": "0603038000",
+      "name": "San Dionisio"
+    }
+  },
+  {
+    "id": "0603038028",
+    "code": "0603038028",
+    "name": "Tamangi",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603038000",
+      "code": "0603038000",
+      "name": "San Dionisio"
+    }
+  },
+  {
+    "id": "0603038029",
+    "code": "0603038029",
+    "name": "Tiabas",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603038000",
+      "code": "0603038000",
+      "name": "San Dionisio"
+    }
+  },
+  {
+    "id": "0603038030",
+    "code": "0603038030",
+    "name": "Tuble",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603038000",
+      "code": "0603038000",
+      "name": "San Dionisio"
+    }
+  }
+]

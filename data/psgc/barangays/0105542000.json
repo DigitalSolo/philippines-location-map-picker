@@ -1,0 +1,401 @@
+[
+  {
+    "id": "0105542001",
+    "code": "0105542001",
+    "name": "Baquioen",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105542000",
+      "code": "0105542000",
+      "name": "Sual"
+    }
+  },
+  {
+    "id": "0105542002",
+    "code": "0105542002",
+    "name": "Baybay Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105542000",
+      "code": "0105542000",
+      "name": "Sual"
+    }
+  },
+  {
+    "id": "0105542003",
+    "code": "0105542003",
+    "name": "Baybay Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105542000",
+      "code": "0105542000",
+      "name": "Sual"
+    }
+  },
+  {
+    "id": "0105542004",
+    "code": "0105542004",
+    "name": "Bolaoen",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105542000",
+      "code": "0105542000",
+      "name": "Sual"
+    }
+  },
+  {
+    "id": "0105542005",
+    "code": "0105542005",
+    "name": "Cabalitian",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105542000",
+      "code": "0105542000",
+      "name": "Sual"
+    }
+  },
+  {
+    "id": "0105542006",
+    "code": "0105542006",
+    "name": "Calumbuyan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105542000",
+      "code": "0105542000",
+      "name": "Sual"
+    }
+  },
+  {
+    "id": "0105542007",
+    "code": "0105542007",
+    "name": "Camagsingalan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105542000",
+      "code": "0105542000",
+      "name": "Sual"
+    }
+  },
+  {
+    "id": "0105542008",
+    "code": "0105542008",
+    "name": "Caoayan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105542000",
+      "code": "0105542000",
+      "name": "Sual"
+    }
+  },
+  {
+    "id": "0105542009",
+    "code": "0105542009",
+    "name": "Capantolan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105542000",
+      "code": "0105542000",
+      "name": "Sual"
+    }
+  },
+  {
+    "id": "0105542010",
+    "code": "0105542010",
+    "name": "Macaycayawan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105542000",
+      "code": "0105542000",
+      "name": "Sual"
+    }
+  },
+  {
+    "id": "0105542011",
+    "code": "0105542011",
+    "name": "Paitan East",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105542000",
+      "code": "0105542000",
+      "name": "Sual"
+    }
+  },
+  {
+    "id": "0105542012",
+    "code": "0105542012",
+    "name": "Paitan West",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105542000",
+      "code": "0105542000",
+      "name": "Sual"
+    }
+  },
+  {
+    "id": "0105542013",
+    "code": "0105542013",
+    "name": "Pangascasan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105542000",
+      "code": "0105542000",
+      "name": "Sual"
+    }
+  },
+  {
+    "id": "0105542014",
+    "code": "0105542014",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105542000",
+      "code": "0105542000",
+      "name": "Sual"
+    }
+  },
+  {
+    "id": "0105542015",
+    "code": "0105542015",
+    "name": "Santo Domingo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105542000",
+      "code": "0105542000",
+      "name": "Sual"
+    }
+  },
+  {
+    "id": "0105542016",
+    "code": "0105542016",
+    "name": "Seselangen",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105542000",
+      "code": "0105542000",
+      "name": "Sual"
+    }
+  },
+  {
+    "id": "0105542018",
+    "code": "0105542018",
+    "name": "Sioasio East",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105542000",
+      "code": "0105542000",
+      "name": "Sual"
+    }
+  },
+  {
+    "id": "0105542019",
+    "code": "0105542019",
+    "name": "Sioasio West",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105542000",
+      "code": "0105542000",
+      "name": "Sual"
+    }
+  },
+  {
+    "id": "0105542020",
+    "code": "0105542020",
+    "name": "Victoria",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105542000",
+      "code": "0105542000",
+      "name": "Sual"
+    }
+  }
+]

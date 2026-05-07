@@ -1,0 +1,695 @@
+[
+  {
+    "id": "0305405001",
+    "code": "0305405001",
+    "name": "Bahay Pare",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305405000",
+      "code": "0305405000",
+      "name": "Candaba"
+    }
+  },
+  {
+    "id": "0305405002",
+    "code": "0305405002",
+    "name": "Bambang",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305405000",
+      "code": "0305405000",
+      "name": "Candaba"
+    }
+  },
+  {
+    "id": "0305405003",
+    "code": "0305405003",
+    "name": "Barangca",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305405000",
+      "code": "0305405000",
+      "name": "Candaba"
+    }
+  },
+  {
+    "id": "0305405004",
+    "code": "0305405004",
+    "name": "Barit",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305405000",
+      "code": "0305405000",
+      "name": "Candaba"
+    }
+  },
+  {
+    "id": "0305405005",
+    "code": "0305405005",
+    "name": "Buas",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305405000",
+      "code": "0305405000",
+      "name": "Candaba"
+    }
+  },
+  {
+    "id": "0305405008",
+    "code": "0305405008",
+    "name": "Cuayang Bugtong",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305405000",
+      "code": "0305405000",
+      "name": "Candaba"
+    }
+  },
+  {
+    "id": "0305405009",
+    "code": "0305405009",
+    "name": "Dalayap",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305405000",
+      "code": "0305405000",
+      "name": "Candaba"
+    }
+  },
+  {
+    "id": "0305405010",
+    "code": "0305405010",
+    "name": "Dulong Ilog",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305405000",
+      "code": "0305405000",
+      "name": "Candaba"
+    }
+  },
+  {
+    "id": "0305405011",
+    "code": "0305405011",
+    "name": "Gulap",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305405000",
+      "code": "0305405000",
+      "name": "Candaba"
+    }
+  },
+  {
+    "id": "0305405012",
+    "code": "0305405012",
+    "name": "Lanang",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305405000",
+      "code": "0305405000",
+      "name": "Candaba"
+    }
+  },
+  {
+    "id": "0305405013",
+    "code": "0305405013",
+    "name": "Lourdes",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305405000",
+      "code": "0305405000",
+      "name": "Candaba"
+    }
+  },
+  {
+    "id": "0305405014",
+    "code": "0305405014",
+    "name": "Magumbali",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305405000",
+      "code": "0305405000",
+      "name": "Candaba"
+    }
+  },
+  {
+    "id": "0305405015",
+    "code": "0305405015",
+    "name": "Mandasig",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305405000",
+      "code": "0305405000",
+      "name": "Candaba"
+    }
+  },
+  {
+    "id": "0305405016",
+    "code": "0305405016",
+    "name": "Mandili",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305405000",
+      "code": "0305405000",
+      "name": "Candaba"
+    }
+  },
+  {
+    "id": "0305405017",
+    "code": "0305405017",
+    "name": "Mangga",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305405000",
+      "code": "0305405000",
+      "name": "Candaba"
+    }
+  },
+  {
+    "id": "0305405018",
+    "code": "0305405018",
+    "name": "Mapaniqui",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305405000",
+      "code": "0305405000",
+      "name": "Candaba"
+    }
+  },
+  {
+    "id": "0305405020",
+    "code": "0305405020",
+    "name": "Paligui",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305405000",
+      "code": "0305405000",
+      "name": "Candaba"
+    }
+  },
+  {
+    "id": "0305405021",
+    "code": "0305405021",
+    "name": "Pangclara",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305405000",
+      "code": "0305405000",
+      "name": "Candaba"
+    }
+  },
+  {
+    "id": "0305405022",
+    "code": "0305405022",
+    "name": "Pansinao",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305405000",
+      "code": "0305405000",
+      "name": "Candaba"
+    }
+  },
+  {
+    "id": "0305405023",
+    "code": "0305405023",
+    "name": "Paralaya",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305405000",
+      "code": "0305405000",
+      "name": "Candaba"
+    }
+  },
+  {
+    "id": "0305405024",
+    "code": "0305405024",
+    "name": "Pasig",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305405000",
+      "code": "0305405000",
+      "name": "Candaba"
+    }
+  },
+  {
+    "id": "0305405025",
+    "code": "0305405025",
+    "name": "Pescadores",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305405000",
+      "code": "0305405000",
+      "name": "Candaba"
+    }
+  },
+  {
+    "id": "0305405026",
+    "code": "0305405026",
+    "name": "Pulong Gubat",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305405000",
+      "code": "0305405000",
+      "name": "Candaba"
+    }
+  },
+  {
+    "id": "0305405027",
+    "code": "0305405027",
+    "name": "Pulong Palazan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305405000",
+      "code": "0305405000",
+      "name": "Candaba"
+    }
+  },
+  {
+    "id": "0305405028",
+    "code": "0305405028",
+    "name": "Salapungan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305405000",
+      "code": "0305405000",
+      "name": "Candaba"
+    }
+  },
+  {
+    "id": "0305405029",
+    "code": "0305405029",
+    "name": "San Agustin",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305405000",
+      "code": "0305405000",
+      "name": "Candaba"
+    }
+  },
+  {
+    "id": "0305405031",
+    "code": "0305405031",
+    "name": "Santo Rosario",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305405000",
+      "code": "0305405000",
+      "name": "Candaba"
+    }
+  },
+  {
+    "id": "0305405032",
+    "code": "0305405032",
+    "name": "Tagulod",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305405000",
+      "code": "0305405000",
+      "name": "Candaba"
+    }
+  },
+  {
+    "id": "0305405033",
+    "code": "0305405033",
+    "name": "Talang",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305405000",
+      "code": "0305405000",
+      "name": "Candaba"
+    }
+  },
+  {
+    "id": "0305405034",
+    "code": "0305405034",
+    "name": "Tenejero",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305405000",
+      "code": "0305405000",
+      "name": "Candaba"
+    }
+  },
+  {
+    "id": "0305405035",
+    "code": "0305405035",
+    "name": "Vizal San Pablo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305405000",
+      "code": "0305405000",
+      "name": "Candaba"
+    }
+  },
+  {
+    "id": "0305405036",
+    "code": "0305405036",
+    "name": "Vizal Santo Cristo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305405000",
+      "code": "0305405000",
+      "name": "Candaba"
+    }
+  },
+  {
+    "id": "0305405037",
+    "code": "0305405037",
+    "name": "Vizal Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305405000",
+      "code": "0305405000",
+      "name": "Candaba"
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "0102800000",
+    "code": "0102800000",
+    "name": "Ilocos Norte",
+    "type": "province",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    }
+  },
+  {
+    "id": "0102900000",
+    "code": "0102900000",
+    "name": "Ilocos Sur",
+    "type": "province",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    }
+  },
+  {
+    "id": "0103300000",
+    "code": "0103300000",
+    "name": "La Union",
+    "type": "province",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    }
+  },
+  {
+    "id": "0105500000",
+    "code": "0105500000",
+    "name": "Pangasinan",
+    "type": "province",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    }
+  }
+]

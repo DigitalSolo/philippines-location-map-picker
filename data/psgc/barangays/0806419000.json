@@ -1,0 +1,128 @@
+[
+  {
+    "id": "0806419001",
+    "code": "0806419001",
+    "name": "Cabulihan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806419000",
+      "code": "0806419000",
+      "name": "Limasawa"
+    }
+  },
+  {
+    "id": "0806419002",
+    "code": "0806419002",
+    "name": "Lugsongan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806419000",
+      "code": "0806419000",
+      "name": "Limasawa"
+    }
+  },
+  {
+    "id": "0806419003",
+    "code": "0806419003",
+    "name": "Magallanes",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806419000",
+      "code": "0806419000",
+      "name": "Limasawa"
+    }
+  },
+  {
+    "id": "0806419004",
+    "code": "0806419004",
+    "name": "San Agustin",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806419000",
+      "code": "0806419000",
+      "name": "Limasawa"
+    }
+  },
+  {
+    "id": "0806419005",
+    "code": "0806419005",
+    "name": "San Bernardo",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806419000",
+      "code": "0806419000",
+      "name": "Limasawa"
+    }
+  },
+  {
+    "id": "0806419006",
+    "code": "0806419006",
+    "name": "Triana",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806419000",
+      "code": "0806419000",
+      "name": "Limasawa"
+    }
+  }
+]

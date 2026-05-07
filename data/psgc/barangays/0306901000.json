@@ -1,0 +1,380 @@
+[
+  {
+    "id": "0306901001",
+    "code": "0306901001",
+    "name": "Baguindoc",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306901000",
+      "code": "0306901000",
+      "name": "Anao"
+    }
+  },
+  {
+    "id": "0306901003",
+    "code": "0306901003",
+    "name": "Bantog",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306901000",
+      "code": "0306901000",
+      "name": "Anao"
+    }
+  },
+  {
+    "id": "0306901006",
+    "code": "0306901006",
+    "name": "Campos",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306901000",
+      "code": "0306901000",
+      "name": "Anao"
+    }
+  },
+  {
+    "id": "0306901008",
+    "code": "0306901008",
+    "name": "Carmen",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306901000",
+      "code": "0306901000",
+      "name": "Anao"
+    }
+  },
+  {
+    "id": "0306901009",
+    "code": "0306901009",
+    "name": "Casili",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306901000",
+      "code": "0306901000",
+      "name": "Anao"
+    }
+  },
+  {
+    "id": "0306901010",
+    "code": "0306901010",
+    "name": "Don Ramon",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306901000",
+      "code": "0306901000",
+      "name": "Anao"
+    }
+  },
+  {
+    "id": "0306901011",
+    "code": "0306901011",
+    "name": "Hernando",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306901000",
+      "code": "0306901000",
+      "name": "Anao"
+    }
+  },
+  {
+    "id": "0306901013",
+    "code": "0306901013",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306901000",
+      "code": "0306901000",
+      "name": "Anao"
+    }
+  },
+  {
+    "id": "0306901015",
+    "code": "0306901015",
+    "name": "Rizal",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306901000",
+      "code": "0306901000",
+      "name": "Anao"
+    }
+  },
+  {
+    "id": "0306901016",
+    "code": "0306901016",
+    "name": "San Francisco East",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306901000",
+      "code": "0306901000",
+      "name": "Anao"
+    }
+  },
+  {
+    "id": "0306901017",
+    "code": "0306901017",
+    "name": "San Francisco West",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306901000",
+      "code": "0306901000",
+      "name": "Anao"
+    }
+  },
+  {
+    "id": "0306901018",
+    "code": "0306901018",
+    "name": "San Jose North",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306901000",
+      "code": "0306901000",
+      "name": "Anao"
+    }
+  },
+  {
+    "id": "0306901019",
+    "code": "0306901019",
+    "name": "San Jose South",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306901000",
+      "code": "0306901000",
+      "name": "Anao"
+    }
+  },
+  {
+    "id": "0306901020",
+    "code": "0306901020",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306901000",
+      "code": "0306901000",
+      "name": "Anao"
+    }
+  },
+  {
+    "id": "0306901021",
+    "code": "0306901021",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306901000",
+      "code": "0306901000",
+      "name": "Anao"
+    }
+  },
+  {
+    "id": "0306901022",
+    "code": "0306901022",
+    "name": "Santo Domingo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306901000",
+      "code": "0306901000",
+      "name": "Anao"
+    }
+  },
+  {
+    "id": "0306901023",
+    "code": "0306901023",
+    "name": "Sinense",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306901000",
+      "code": "0306901000",
+      "name": "Anao"
+    }
+  },
+  {
+    "id": "0306901024",
+    "code": "0306901024",
+    "name": "Suaverdez",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306901000",
+      "code": "0306901000",
+      "name": "Anao"
+    }
+  }
+]

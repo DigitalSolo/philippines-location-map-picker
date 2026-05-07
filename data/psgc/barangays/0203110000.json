@@ -1,0 +1,128 @@
+[
+  {
+    "id": "0203110001",
+    "code": "0203110001",
+    "name": "Ayod",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203110000",
+      "code": "0203110000",
+      "name": "Dinapigue"
+    }
+  },
+  {
+    "id": "0203110003",
+    "code": "0203110003",
+    "name": "Bucal Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203110000",
+      "code": "0203110000",
+      "name": "Dinapigue"
+    }
+  },
+  {
+    "id": "0203110002",
+    "code": "0203110002",
+    "name": "Bucal Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203110000",
+      "code": "0203110000",
+      "name": "Dinapigue"
+    }
+  },
+  {
+    "id": "0203110004",
+    "code": "0203110004",
+    "name": "Dibulo",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203110000",
+      "code": "0203110000",
+      "name": "Dinapigue"
+    }
+  },
+  {
+    "id": "0203110005",
+    "code": "0203110005",
+    "name": "Digumased",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203110000",
+      "code": "0203110000",
+      "name": "Dinapigue"
+    }
+  },
+  {
+    "id": "0203110006",
+    "code": "0203110006",
+    "name": "Dimaluade",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203110000",
+      "code": "0203110000",
+      "name": "Dinapigue"
+    }
+  }
+]

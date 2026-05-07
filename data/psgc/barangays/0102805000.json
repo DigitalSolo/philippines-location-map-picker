@@ -1,0 +1,905 @@
+[
+  {
+    "id": "0102805023",
+    "code": "0102805023",
+    "name": "Ablan Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102805000",
+      "code": "0102805000",
+      "name": "City of Batac"
+    }
+  },
+  {
+    "id": "0102805022",
+    "code": "0102805022",
+    "name": "Acosta Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102805000",
+      "code": "0102805000",
+      "name": "City of Batac"
+    }
+  },
+  {
+    "id": "0102805001",
+    "code": "0102805001",
+    "name": "Aglipay",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102805000",
+      "code": "0102805000",
+      "name": "City of Batac"
+    }
+  },
+  {
+    "id": "0102805002",
+    "code": "0102805002",
+    "name": "Baay",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102805000",
+      "code": "0102805000",
+      "name": "City of Batac"
+    }
+  },
+  {
+    "id": "0102805003",
+    "code": "0102805003",
+    "name": "Baligat",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102805000",
+      "code": "0102805000",
+      "name": "City of Batac"
+    }
+  },
+  {
+    "id": "0102805005",
+    "code": "0102805005",
+    "name": "Baoa East",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102805000",
+      "code": "0102805000",
+      "name": "City of Batac"
+    }
+  },
+  {
+    "id": "0102805006",
+    "code": "0102805006",
+    "name": "Baoa West",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102805000",
+      "code": "0102805000",
+      "name": "City of Batac"
+    }
+  },
+  {
+    "id": "0102805007",
+    "code": "0102805007",
+    "name": "Barani",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102805000",
+      "code": "0102805000",
+      "name": "City of Batac"
+    }
+  },
+  {
+    "id": "0102805009",
+    "code": "0102805009",
+    "name": "Ben-agan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102805000",
+      "code": "0102805000",
+      "name": "City of Batac"
+    }
+  },
+  {
+    "id": "0102805010",
+    "code": "0102805010",
+    "name": "Bil-loca",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102805000",
+      "code": "0102805000",
+      "name": "City of Batac"
+    }
+  },
+  {
+    "id": "0102805011",
+    "code": "0102805011",
+    "name": "Biningan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102805000",
+      "code": "0102805000",
+      "name": "City of Batac"
+    }
+  },
+  {
+    "id": "0102805004",
+    "code": "0102805004",
+    "name": "Bungon",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102805000",
+      "code": "0102805000",
+      "name": "City of Batac"
+    }
+  },
+  {
+    "id": "0102805012",
+    "code": "0102805012",
+    "name": "Callaguip",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102805000",
+      "code": "0102805000",
+      "name": "City of Batac"
+    }
+  },
+  {
+    "id": "0102805013",
+    "code": "0102805013",
+    "name": "Camandingan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102805000",
+      "code": "0102805000",
+      "name": "City of Batac"
+    }
+  },
+  {
+    "id": "0102805014",
+    "code": "0102805014",
+    "name": "Camguidan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102805000",
+      "code": "0102805000",
+      "name": "City of Batac"
+    }
+  },
+  {
+    "id": "0102805015",
+    "code": "0102805015",
+    "name": "Cangrunaan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102805000",
+      "code": "0102805000",
+      "name": "City of Batac"
+    }
+  },
+  {
+    "id": "0102805016",
+    "code": "0102805016",
+    "name": "Capacuan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102805000",
+      "code": "0102805000",
+      "name": "City of Batac"
+    }
+  },
+  {
+    "id": "0102805017",
+    "code": "0102805017",
+    "name": "Caunayan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102805000",
+      "code": "0102805000",
+      "name": "City of Batac"
+    }
+  },
+  {
+    "id": "0102805019",
+    "code": "0102805019",
+    "name": "Colo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102805000",
+      "code": "0102805000",
+      "name": "City of Batac"
+    }
+  },
+  {
+    "id": "0102805021",
+    "code": "0102805021",
+    "name": "Dariwdiw",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102805000",
+      "code": "0102805000",
+      "name": "City of Batac"
+    }
+  },
+  {
+    "id": "0102805024",
+    "code": "0102805024",
+    "name": "Lacub",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102805000",
+      "code": "0102805000",
+      "name": "City of Batac"
+    }
+  },
+  {
+    "id": "0102805025",
+    "code": "0102805025",
+    "name": "Mabaleng",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102805000",
+      "code": "0102805000",
+      "name": "City of Batac"
+    }
+  },
+  {
+    "id": "0102805026",
+    "code": "0102805026",
+    "name": "Magnuang",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102805000",
+      "code": "0102805000",
+      "name": "City of Batac"
+    }
+  },
+  {
+    "id": "0102805027",
+    "code": "0102805027",
+    "name": "Maipalig",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102805000",
+      "code": "0102805000",
+      "name": "City of Batac"
+    }
+  },
+  {
+    "id": "0102805028",
+    "code": "0102805028",
+    "name": "Nagbacalan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102805000",
+      "code": "0102805000",
+      "name": "City of Batac"
+    }
+  },
+  {
+    "id": "0102805029",
+    "code": "0102805029",
+    "name": "Naguirangan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102805000",
+      "code": "0102805000",
+      "name": "City of Batac"
+    }
+  },
+  {
+    "id": "0102805031",
+    "code": "0102805031",
+    "name": "Palongpong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102805000",
+      "code": "0102805000",
+      "name": "City of Batac"
+    }
+  },
+  {
+    "id": "0102805032",
+    "code": "0102805032",
+    "name": "Palpalicong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102805000",
+      "code": "0102805000",
+      "name": "City of Batac"
+    }
+  },
+  {
+    "id": "0102805033",
+    "code": "0102805033",
+    "name": "Parangopong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102805000",
+      "code": "0102805000",
+      "name": "City of Batac"
+    }
+  },
+  {
+    "id": "0102805034",
+    "code": "0102805034",
+    "name": "Payao",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102805000",
+      "code": "0102805000",
+      "name": "City of Batac"
+    }
+  },
+  {
+    "id": "0102805020",
+    "code": "0102805020",
+    "name": "Pimentel",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102805000",
+      "code": "0102805000",
+      "name": "City of Batac"
+    }
+  },
+  {
+    "id": "0102805035",
+    "code": "0102805035",
+    "name": "Quiling Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102805000",
+      "code": "0102805000",
+      "name": "City of Batac"
+    }
+  },
+  {
+    "id": "0102805036",
+    "code": "0102805036",
+    "name": "Quiling Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102805000",
+      "code": "0102805000",
+      "name": "City of Batac"
+    }
+  },
+  {
+    "id": "0102805037",
+    "code": "0102805037",
+    "name": "Quiom",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102805000",
+      "code": "0102805000",
+      "name": "City of Batac"
+    }
+  },
+  {
+    "id": "0102805038",
+    "code": "0102805038",
+    "name": "Rayuray",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102805000",
+      "code": "0102805000",
+      "name": "City of Batac"
+    }
+  },
+  {
+    "id": "0102805030",
+    "code": "0102805030",
+    "name": "Ricarte Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102805000",
+      "code": "0102805000",
+      "name": "City of Batac"
+    }
+  },
+  {
+    "id": "0102805039",
+    "code": "0102805039",
+    "name": "San Julian",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102805000",
+      "code": "0102805000",
+      "name": "City of Batac"
+    }
+  },
+  {
+    "id": "0102805040",
+    "code": "0102805040",
+    "name": "San Mateo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102805000",
+      "code": "0102805000",
+      "name": "City of Batac"
+    }
+  },
+  {
+    "id": "0102805041",
+    "code": "0102805041",
+    "name": "San Pedro",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102805000",
+      "code": "0102805000",
+      "name": "City of Batac"
+    }
+  },
+  {
+    "id": "0102805042",
+    "code": "0102805042",
+    "name": "Suabit",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102805000",
+      "code": "0102805000",
+      "name": "City of Batac"
+    }
+  },
+  {
+    "id": "0102805043",
+    "code": "0102805043",
+    "name": "Sumader",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102805000",
+      "code": "0102805000",
+      "name": "City of Batac"
+    }
+  },
+  {
+    "id": "0102805044",
+    "code": "0102805044",
+    "name": "Tabug",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102805000",
+      "code": "0102805000",
+      "name": "City of Batac"
+    }
+  },
+  {
+    "id": "0102805018",
+    "code": "0102805018",
+    "name": "Valdez Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102805000",
+      "code": "0102805000",
+      "name": "City of Batac"
+    }
+  }
+]

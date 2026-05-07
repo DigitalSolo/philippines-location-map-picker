@@ -1,0 +1,401 @@
+[
+  {
+    "id": "0600610001",
+    "code": "0600610001",
+    "name": "Barusbus",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600610000",
+      "code": "0600610000",
+      "name": "Libertad"
+    }
+  },
+  {
+    "id": "0600610002",
+    "code": "0600610002",
+    "name": "Bulanao",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600610000",
+      "code": "0600610000",
+      "name": "Libertad"
+    }
+  },
+  {
+    "id": "0600610013",
+    "code": "0600610013",
+    "name": "Centro Este",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600610000",
+      "code": "0600610000",
+      "name": "Libertad"
+    }
+  },
+  {
+    "id": "0600610014",
+    "code": "0600610014",
+    "name": "Centro Weste",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600610000",
+      "code": "0600610000",
+      "name": "Libertad"
+    }
+  },
+  {
+    "id": "0600610004",
+    "code": "0600610004",
+    "name": "Codiong",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600610000",
+      "code": "0600610000",
+      "name": "Libertad"
+    }
+  },
+  {
+    "id": "0600610003",
+    "code": "0600610003",
+    "name": "Cubay",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600610000",
+      "code": "0600610000",
+      "name": "Libertad"
+    }
+  },
+  {
+    "id": "0600610005",
+    "code": "0600610005",
+    "name": "Igcagay",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600610000",
+      "code": "0600610000",
+      "name": "Libertad"
+    }
+  },
+  {
+    "id": "0600610006",
+    "code": "0600610006",
+    "name": "Inyawan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600610000",
+      "code": "0600610000",
+      "name": "Libertad"
+    }
+  },
+  {
+    "id": "0600610007",
+    "code": "0600610007",
+    "name": "Lindero",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600610000",
+      "code": "0600610000",
+      "name": "Libertad"
+    }
+  },
+  {
+    "id": "0600610008",
+    "code": "0600610008",
+    "name": "Maramig",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600610000",
+      "code": "0600610000",
+      "name": "Libertad"
+    }
+  },
+  {
+    "id": "0600610010",
+    "code": "0600610010",
+    "name": "Pajo",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600610000",
+      "code": "0600610000",
+      "name": "Libertad"
+    }
+  },
+  {
+    "id": "0600610011",
+    "code": "0600610011",
+    "name": "Panangkilon",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600610000",
+      "code": "0600610000",
+      "name": "Libertad"
+    }
+  },
+  {
+    "id": "0600610012",
+    "code": "0600610012",
+    "name": "Paz",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600610000",
+      "code": "0600610000",
+      "name": "Libertad"
+    }
+  },
+  {
+    "id": "0600610009",
+    "code": "0600610009",
+    "name": "Pucio",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600610000",
+      "code": "0600610000",
+      "name": "Libertad"
+    }
+  },
+  {
+    "id": "0600610015",
+    "code": "0600610015",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600610000",
+      "code": "0600610000",
+      "name": "Libertad"
+    }
+  },
+  {
+    "id": "0600610018",
+    "code": "0600610018",
+    "name": "Taboc",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600610000",
+      "code": "0600610000",
+      "name": "Libertad"
+    }
+  },
+  {
+    "id": "0600610016",
+    "code": "0600610016",
+    "name": "Tinigbas",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600610000",
+      "code": "0600610000",
+      "name": "Libertad"
+    }
+  },
+  {
+    "id": "0600610017",
+    "code": "0600610017",
+    "name": "Tinindugan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600610000",
+      "code": "0600610000",
+      "name": "Libertad"
+    }
+  },
+  {
+    "id": "0600610019",
+    "code": "0600610019",
+    "name": "Union",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600610000",
+      "code": "0600610000",
+      "name": "Libertad"
+    }
+  }
+]

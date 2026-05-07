@@ -1,0 +1,548 @@
+[
+  {
+    "id": "1903630001",
+    "code": "1903630001",
+    "name": "Amoyong",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903630000",
+      "code": "1903630000",
+      "name": "Wao"
+    }
+  },
+  {
+    "id": "1903630002",
+    "code": "1903630002",
+    "name": "Balatin",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903630000",
+      "code": "1903630000",
+      "name": "Wao"
+    }
+  },
+  {
+    "id": "1903630003",
+    "code": "1903630003",
+    "name": "Banga",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903630000",
+      "code": "1903630000",
+      "name": "Wao"
+    }
+  },
+  {
+    "id": "1903630007",
+    "code": "1903630007",
+    "name": "Bo-ot",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903630000",
+      "code": "1903630000",
+      "name": "Wao"
+    }
+  },
+  {
+    "id": "1903630006",
+    "code": "1903630006",
+    "name": "Buntongun",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903630000",
+      "code": "1903630000",
+      "name": "Wao"
+    }
+  },
+  {
+    "id": "1903630009",
+    "code": "1903630009",
+    "name": "Cebuano Group",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903630000",
+      "code": "1903630000",
+      "name": "Wao"
+    }
+  },
+  {
+    "id": "1903630010",
+    "code": "1903630010",
+    "name": "Christian Village",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903630000",
+      "code": "1903630000",
+      "name": "Wao"
+    }
+  },
+  {
+    "id": "1903630011",
+    "code": "1903630011",
+    "name": "Eastern Wao",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903630000",
+      "code": "1903630000",
+      "name": "Wao"
+    }
+  },
+  {
+    "id": "1903630012",
+    "code": "1903630012",
+    "name": "Extension Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903630000",
+      "code": "1903630000",
+      "name": "Wao"
+    }
+  },
+  {
+    "id": "1903630014",
+    "code": "1903630014",
+    "name": "Gata",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903630000",
+      "code": "1903630000",
+      "name": "Wao"
+    }
+  },
+  {
+    "id": "1903630016",
+    "code": "1903630016",
+    "name": "Kabatangan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903630000",
+      "code": "1903630000",
+      "name": "Wao"
+    }
+  },
+  {
+    "id": "1903630017",
+    "code": "1903630017",
+    "name": "Kadingilan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903630000",
+      "code": "1903630000",
+      "name": "Wao"
+    }
+  },
+  {
+    "id": "1903630019",
+    "code": "1903630019",
+    "name": "Katutungan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903630000",
+      "code": "1903630000",
+      "name": "Wao"
+    }
+  },
+  {
+    "id": "1903630021",
+    "code": "1903630021",
+    "name": "Kilikili East",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903630000",
+      "code": "1903630000",
+      "name": "Wao"
+    }
+  },
+  {
+    "id": "1903630022",
+    "code": "1903630022",
+    "name": "Kilikili West",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903630000",
+      "code": "1903630000",
+      "name": "Wao"
+    }
+  },
+  {
+    "id": "1903630025",
+    "code": "1903630025",
+    "name": "Malaigang",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903630000",
+      "code": "1903630000",
+      "name": "Wao"
+    }
+  },
+  {
+    "id": "1903630026",
+    "code": "1903630026",
+    "name": "Manila Group",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903630000",
+      "code": "1903630000",
+      "name": "Wao"
+    }
+  },
+  {
+    "id": "1903630029",
+    "code": "1903630029",
+    "name": "Milaya",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903630000",
+      "code": "1903630000",
+      "name": "Wao"
+    }
+  },
+  {
+    "id": "1903630030",
+    "code": "1903630030",
+    "name": "Mimbuaya",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903630000",
+      "code": "1903630000",
+      "name": "Wao"
+    }
+  },
+  {
+    "id": "1903630031",
+    "code": "1903630031",
+    "name": "Muslim Village",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903630000",
+      "code": "1903630000",
+      "name": "Wao"
+    }
+  },
+  {
+    "id": "1903630033",
+    "code": "1903630033",
+    "name": "Pagalongan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903630000",
+      "code": "1903630000",
+      "name": "Wao"
+    }
+  },
+  {
+    "id": "1903630034",
+    "code": "1903630034",
+    "name": "Panang",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903630000",
+      "code": "1903630000",
+      "name": "Wao"
+    }
+  },
+  {
+    "id": "1903630035",
+    "code": "1903630035",
+    "name": "Park Area",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903630000",
+      "code": "1903630000",
+      "name": "Wao"
+    }
+  },
+  {
+    "id": "1903630036",
+    "code": "1903630036",
+    "name": "Pilintangan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903630000",
+      "code": "1903630000",
+      "name": "Wao"
+    }
+  },
+  {
+    "id": "1903630038",
+    "code": "1903630038",
+    "name": "Serran Village",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903630000",
+      "code": "1903630000",
+      "name": "Wao"
+    }
+  },
+  {
+    "id": "1903630042",
+    "code": "1903630042",
+    "name": "Western Wao",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903630000",
+      "code": "1903630000",
+      "name": "Wao"
+    }
+  }
+]

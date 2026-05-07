@@ -1,0 +1,485 @@
+[
+  {
+    "id": "1806102001",
+    "code": "1806102001",
+    "name": "Bagacay",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806102000",
+      "code": "1806102000",
+      "name": "Larena"
+    }
+  },
+  {
+    "id": "1806102002",
+    "code": "1806102002",
+    "name": "Balolang",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806102000",
+      "code": "1806102000",
+      "name": "Larena"
+    }
+  },
+  {
+    "id": "1806102003",
+    "code": "1806102003",
+    "name": "Basac",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806102000",
+      "code": "1806102000",
+      "name": "Larena"
+    }
+  },
+  {
+    "id": "1806102004",
+    "code": "1806102004",
+    "name": "Bintangan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806102000",
+      "code": "1806102000",
+      "name": "Larena"
+    }
+  },
+  {
+    "id": "1806102005",
+    "code": "1806102005",
+    "name": "Bontod",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806102000",
+      "code": "1806102000",
+      "name": "Larena"
+    }
+  },
+  {
+    "id": "1806102006",
+    "code": "1806102006",
+    "name": "Cabulihan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806102000",
+      "code": "1806102000",
+      "name": "Larena"
+    }
+  },
+  {
+    "id": "1806102007",
+    "code": "1806102007",
+    "name": "Calunasan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806102000",
+      "code": "1806102000",
+      "name": "Larena"
+    }
+  },
+  {
+    "id": "1806102008",
+    "code": "1806102008",
+    "name": "Candigum",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806102000",
+      "code": "1806102000",
+      "name": "Larena"
+    }
+  },
+  {
+    "id": "1806102009",
+    "code": "1806102009",
+    "name": "Cang-allas",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806102000",
+      "code": "1806102000",
+      "name": "Larena"
+    }
+  },
+  {
+    "id": "1806102010",
+    "code": "1806102010",
+    "name": "Cang-apa",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806102000",
+      "code": "1806102000",
+      "name": "Larena"
+    }
+  },
+  {
+    "id": "1806102011",
+    "code": "1806102011",
+    "name": "Cangbagsa",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806102000",
+      "code": "1806102000",
+      "name": "Larena"
+    }
+  },
+  {
+    "id": "1806102012",
+    "code": "1806102012",
+    "name": "Cangmalalag",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806102000",
+      "code": "1806102000",
+      "name": "Larena"
+    }
+  },
+  {
+    "id": "1806102013",
+    "code": "1806102013",
+    "name": "Canlambo",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806102000",
+      "code": "1806102000",
+      "name": "Larena"
+    }
+  },
+  {
+    "id": "1806102014",
+    "code": "1806102014",
+    "name": "Canlasog",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806102000",
+      "code": "1806102000",
+      "name": "Larena"
+    }
+  },
+  {
+    "id": "1806102015",
+    "code": "1806102015",
+    "name": "Catamboan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806102000",
+      "code": "1806102000",
+      "name": "Larena"
+    }
+  },
+  {
+    "id": "1806102016",
+    "code": "1806102016",
+    "name": "Helen",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806102000",
+      "code": "1806102000",
+      "name": "Larena"
+    }
+  },
+  {
+    "id": "1806102017",
+    "code": "1806102017",
+    "name": "Nonoc",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806102000",
+      "code": "1806102000",
+      "name": "Larena"
+    }
+  },
+  {
+    "id": "1806102018",
+    "code": "1806102018",
+    "name": "North Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806102000",
+      "code": "1806102000",
+      "name": "Larena"
+    }
+  },
+  {
+    "id": "1806102020",
+    "code": "1806102020",
+    "name": "Ponong",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806102000",
+      "code": "1806102000",
+      "name": "Larena"
+    }
+  },
+  {
+    "id": "1806102021",
+    "code": "1806102021",
+    "name": "Sabang",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806102000",
+      "code": "1806102000",
+      "name": "Larena"
+    }
+  },
+  {
+    "id": "1806102022",
+    "code": "1806102022",
+    "name": "Sandugan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806102000",
+      "code": "1806102000",
+      "name": "Larena"
+    }
+  },
+  {
+    "id": "1806102019",
+    "code": "1806102019",
+    "name": "South Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806102000",
+      "code": "1806102000",
+      "name": "Larena"
+    }
+  },
+  {
+    "id": "1806102023",
+    "code": "1806102023",
+    "name": "Taculing",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806102000",
+      "code": "1806102000",
+      "name": "Larena"
+    }
+  }
+]

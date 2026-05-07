@@ -1,0 +1,338 @@
+[
+  {
+    "id": "0305402000",
+    "code": "0305402000",
+    "name": "Apalit",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    }
+  },
+  {
+    "id": "0305403000",
+    "code": "0305403000",
+    "name": "Arayat",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    }
+  },
+  {
+    "id": "0305404000",
+    "code": "0305404000",
+    "name": "Bacolor",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    }
+  },
+  {
+    "id": "0305405000",
+    "code": "0305405000",
+    "name": "Candaba",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    }
+  },
+  {
+    "id": "0305416000",
+    "code": "0305416000",
+    "name": "City of San Fernando",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    }
+  },
+  {
+    "id": "0305406000",
+    "code": "0305406000",
+    "name": "Floridablanca",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    }
+  },
+  {
+    "id": "0305407000",
+    "code": "0305407000",
+    "name": "Guagua",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    }
+  },
+  {
+    "id": "0305408000",
+    "code": "0305408000",
+    "name": "Lubao",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    }
+  },
+  {
+    "id": "0305409000",
+    "code": "0305409000",
+    "name": "Mabalacat City",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    }
+  },
+  {
+    "id": "0305410000",
+    "code": "0305410000",
+    "name": "Macabebe",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    }
+  },
+  {
+    "id": "0305411000",
+    "code": "0305411000",
+    "name": "Magalang",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    }
+  },
+  {
+    "id": "0305412000",
+    "code": "0305412000",
+    "name": "Masantol",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    }
+  },
+  {
+    "id": "0305413000",
+    "code": "0305413000",
+    "name": "Mexico",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    }
+  },
+  {
+    "id": "0305414000",
+    "code": "0305414000",
+    "name": "Minalin",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    }
+  },
+  {
+    "id": "0305415000",
+    "code": "0305415000",
+    "name": "Porac",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    }
+  },
+  {
+    "id": "0305417000",
+    "code": "0305417000",
+    "name": "San Luis",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    }
+  },
+  {
+    "id": "0305418000",
+    "code": "0305418000",
+    "name": "San Simon",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    }
+  },
+  {
+    "id": "0305419000",
+    "code": "0305419000",
+    "name": "Santa Ana",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    }
+  },
+  {
+    "id": "0305420000",
+    "code": "0305420000",
+    "name": "Santa Rita",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    }
+  },
+  {
+    "id": "0305422000",
+    "code": "0305422000",
+    "name": "Sasmuan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    }
+  },
+  {
+    "id": "0305421000",
+    "code": "0305421000",
+    "name": "Sto. Tomas",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    }
+  }
+]

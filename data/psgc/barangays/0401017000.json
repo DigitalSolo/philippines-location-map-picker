@@ -1,0 +1,317 @@
+[
+  {
+    "id": "0401017001",
+    "code": "0401017001",
+    "name": "Bagong Pook",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401017000",
+      "code": "0401017000",
+      "name": "Malvar"
+    }
+  },
+  {
+    "id": "0401017002",
+    "code": "0401017002",
+    "name": "Bilucao",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401017000",
+      "code": "0401017000",
+      "name": "Malvar"
+    }
+  },
+  {
+    "id": "0401017003",
+    "code": "0401017003",
+    "name": "Bulihan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401017000",
+      "code": "0401017000",
+      "name": "Malvar"
+    }
+  },
+  {
+    "id": "0401017005",
+    "code": "0401017005",
+    "name": "Luta Del Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401017000",
+      "code": "0401017000",
+      "name": "Malvar"
+    }
+  },
+  {
+    "id": "0401017006",
+    "code": "0401017006",
+    "name": "Luta Del Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401017000",
+      "code": "0401017000",
+      "name": "Malvar"
+    }
+  },
+  {
+    "id": "0401017008",
+    "code": "0401017008",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401017000",
+      "code": "0401017000",
+      "name": "Malvar"
+    }
+  },
+  {
+    "id": "0401017012",
+    "code": "0401017012",
+    "name": "San Andres",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401017000",
+      "code": "0401017000",
+      "name": "Malvar"
+    }
+  },
+  {
+    "id": "0401017013",
+    "code": "0401017013",
+    "name": "San Fernando",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401017000",
+      "code": "0401017000",
+      "name": "Malvar"
+    }
+  },
+  {
+    "id": "0401017004",
+    "code": "0401017004",
+    "name": "San Gregorio",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401017000",
+      "code": "0401017000",
+      "name": "Malvar"
+    }
+  },
+  {
+    "id": "0401017015",
+    "code": "0401017015",
+    "name": "San Isidro East",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401017000",
+      "code": "0401017000",
+      "name": "Malvar"
+    }
+  },
+  {
+    "id": "0401017016",
+    "code": "0401017016",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401017000",
+      "code": "0401017000",
+      "name": "Malvar"
+    }
+  },
+  {
+    "id": "0401017018",
+    "code": "0401017018",
+    "name": "San Pedro I",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401017000",
+      "code": "0401017000",
+      "name": "Malvar"
+    }
+  },
+  {
+    "id": "0401017017",
+    "code": "0401017017",
+    "name": "San Pedro II",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401017000",
+      "code": "0401017000",
+      "name": "Malvar"
+    }
+  },
+  {
+    "id": "0401017019",
+    "code": "0401017019",
+    "name": "San Pioquinto",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401017000",
+      "code": "0401017000",
+      "name": "Malvar"
+    }
+  },
+  {
+    "id": "0401017020",
+    "code": "0401017020",
+    "name": "Santiago",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401017000",
+      "code": "0401017000",
+      "name": "Malvar"
+    }
+  }
+]

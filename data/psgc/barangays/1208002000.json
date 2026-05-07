@@ -1,0 +1,653 @@
+[
+  {
+    "id": "1208002001",
+    "code": "1208002001",
+    "name": "Baliton",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208002000",
+      "code": "1208002000",
+      "name": "Glan"
+    }
+  },
+  {
+    "id": "1208002002",
+    "code": "1208002002",
+    "name": "Batotuling",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208002000",
+      "code": "1208002000",
+      "name": "Glan"
+    }
+  },
+  {
+    "id": "1208002003",
+    "code": "1208002003",
+    "name": "Batulaki",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208002000",
+      "code": "1208002000",
+      "name": "Glan"
+    }
+  },
+  {
+    "id": "1208002004",
+    "code": "1208002004",
+    "name": "Big Margus",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208002000",
+      "code": "1208002000",
+      "name": "Glan"
+    }
+  },
+  {
+    "id": "1208002005",
+    "code": "1208002005",
+    "name": "Burias",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208002000",
+      "code": "1208002000",
+      "name": "Glan"
+    }
+  },
+  {
+    "id": "1208002006",
+    "code": "1208002006",
+    "name": "Cablalan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208002000",
+      "code": "1208002000",
+      "name": "Glan"
+    }
+  },
+  {
+    "id": "1208002007",
+    "code": "1208002007",
+    "name": "Calabanit",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208002000",
+      "code": "1208002000",
+      "name": "Glan"
+    }
+  },
+  {
+    "id": "1208002008",
+    "code": "1208002008",
+    "name": "Calpidong",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208002000",
+      "code": "1208002000",
+      "name": "Glan"
+    }
+  },
+  {
+    "id": "1208002009",
+    "code": "1208002009",
+    "name": "Congan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208002000",
+      "code": "1208002000",
+      "name": "Glan"
+    }
+  },
+  {
+    "id": "1208002010",
+    "code": "1208002010",
+    "name": "Cross",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208002000",
+      "code": "1208002000",
+      "name": "Glan"
+    }
+  },
+  {
+    "id": "1208002011",
+    "code": "1208002011",
+    "name": "Datalbukay",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208002000",
+      "code": "1208002000",
+      "name": "Glan"
+    }
+  },
+  {
+    "id": "1208002012",
+    "code": "1208002012",
+    "name": "E. Alegado",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208002000",
+      "code": "1208002000",
+      "name": "Glan"
+    }
+  },
+  {
+    "id": "1208002013",
+    "code": "1208002013",
+    "name": "Glan Padidu",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208002000",
+      "code": "1208002000",
+      "name": "Glan"
+    }
+  },
+  {
+    "id": "1208002014",
+    "code": "1208002014",
+    "name": "Gumasa",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208002000",
+      "code": "1208002000",
+      "name": "Glan"
+    }
+  },
+  {
+    "id": "1208002015",
+    "code": "1208002015",
+    "name": "Ilaya",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208002000",
+      "code": "1208002000",
+      "name": "Glan"
+    }
+  },
+  {
+    "id": "1208002016",
+    "code": "1208002016",
+    "name": "Kaltuad",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208002000",
+      "code": "1208002000",
+      "name": "Glan"
+    }
+  },
+  {
+    "id": "1208002017",
+    "code": "1208002017",
+    "name": "Kapatan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208002000",
+      "code": "1208002000",
+      "name": "Glan"
+    }
+  },
+  {
+    "id": "1208002018",
+    "code": "1208002018",
+    "name": "Lago",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208002000",
+      "code": "1208002000",
+      "name": "Glan"
+    }
+  },
+  {
+    "id": "1208002019",
+    "code": "1208002019",
+    "name": "Laguimit",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208002000",
+      "code": "1208002000",
+      "name": "Glan"
+    }
+  },
+  {
+    "id": "1208002020",
+    "code": "1208002020",
+    "name": "Mudan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208002000",
+      "code": "1208002000",
+      "name": "Glan"
+    }
+  },
+  {
+    "id": "1208002021",
+    "code": "1208002021",
+    "name": "New Aklan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208002000",
+      "code": "1208002000",
+      "name": "Glan"
+    }
+  },
+  {
+    "id": "1208002022",
+    "code": "1208002022",
+    "name": "Pangyan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208002000",
+      "code": "1208002000",
+      "name": "Glan"
+    }
+  },
+  {
+    "id": "1208002023",
+    "code": "1208002023",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208002000",
+      "code": "1208002000",
+      "name": "Glan"
+    }
+  },
+  {
+    "id": "1208002024",
+    "code": "1208002024",
+    "name": "Rio Del Pilar",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208002000",
+      "code": "1208002000",
+      "name": "Glan"
+    }
+  },
+  {
+    "id": "1208002025",
+    "code": "1208002025",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208002000",
+      "code": "1208002000",
+      "name": "Glan"
+    }
+  },
+  {
+    "id": "1208002026",
+    "code": "1208002026",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208002000",
+      "code": "1208002000",
+      "name": "Glan"
+    }
+  },
+  {
+    "id": "1208002027",
+    "code": "1208002027",
+    "name": "Small Margus",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208002000",
+      "code": "1208002000",
+      "name": "Glan"
+    }
+  },
+  {
+    "id": "1208002028",
+    "code": "1208002028",
+    "name": "Sufatubo",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208002000",
+      "code": "1208002000",
+      "name": "Glan"
+    }
+  },
+  {
+    "id": "1208002029",
+    "code": "1208002029",
+    "name": "Taluya",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208002000",
+      "code": "1208002000",
+      "name": "Glan"
+    }
+  },
+  {
+    "id": "1208002030",
+    "code": "1208002030",
+    "name": "Tango",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208002000",
+      "code": "1208002000",
+      "name": "Glan"
+    }
+  },
+  {
+    "id": "1208002031",
+    "code": "1208002031",
+    "name": "Tapon",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208002000",
+      "code": "1208002000",
+      "name": "Glan"
+    }
+  }
+]

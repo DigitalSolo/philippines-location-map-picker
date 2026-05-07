@@ -1,0 +1,548 @@
+[
+  {
+    "id": "0907313002",
+    "code": "0907313002",
+    "name": "Bulawan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907313000",
+      "code": "0907313000",
+      "name": "Lapuyan"
+    }
+  },
+  {
+    "id": "0907313003",
+    "code": "0907313003",
+    "name": "Carpoc",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907313000",
+      "code": "0907313000",
+      "name": "Lapuyan"
+    }
+  },
+  {
+    "id": "0907313004",
+    "code": "0907313004",
+    "name": "Danganan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907313000",
+      "code": "0907313000",
+      "name": "Lapuyan"
+    }
+  },
+  {
+    "id": "0907313005",
+    "code": "0907313005",
+    "name": "Dansal",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907313000",
+      "code": "0907313000",
+      "name": "Lapuyan"
+    }
+  },
+  {
+    "id": "0907313007",
+    "code": "0907313007",
+    "name": "Dumara",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907313000",
+      "code": "0907313000",
+      "name": "Lapuyan"
+    }
+  },
+  {
+    "id": "0907313010",
+    "code": "0907313010",
+    "name": "Linokmadalum",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907313000",
+      "code": "0907313000",
+      "name": "Lapuyan"
+    }
+  },
+  {
+    "id": "0907313011",
+    "code": "0907313011",
+    "name": "Luanan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907313000",
+      "code": "0907313000",
+      "name": "Lapuyan"
+    }
+  },
+  {
+    "id": "0907313012",
+    "code": "0907313012",
+    "name": "Lubosan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907313000",
+      "code": "0907313000",
+      "name": "Lapuyan"
+    }
+  },
+  {
+    "id": "0907313013",
+    "code": "0907313013",
+    "name": "Mahalingeb",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907313000",
+      "code": "0907313000",
+      "name": "Lapuyan"
+    }
+  },
+  {
+    "id": "0907313014",
+    "code": "0907313014",
+    "name": "Mandeg",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907313000",
+      "code": "0907313000",
+      "name": "Lapuyan"
+    }
+  },
+  {
+    "id": "0907313015",
+    "code": "0907313015",
+    "name": "Maralag",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907313000",
+      "code": "0907313000",
+      "name": "Lapuyan"
+    }
+  },
+  {
+    "id": "0907313016",
+    "code": "0907313016",
+    "name": "Maruing",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907313000",
+      "code": "0907313000",
+      "name": "Lapuyan"
+    }
+  },
+  {
+    "id": "0907313017",
+    "code": "0907313017",
+    "name": "Molum",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907313000",
+      "code": "0907313000",
+      "name": "Lapuyan"
+    }
+  },
+  {
+    "id": "0907313018",
+    "code": "0907313018",
+    "name": "Pampang",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907313000",
+      "code": "0907313000",
+      "name": "Lapuyan"
+    }
+  },
+  {
+    "id": "0907313019",
+    "code": "0907313019",
+    "name": "Pantad",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907313000",
+      "code": "0907313000",
+      "name": "Lapuyan"
+    }
+  },
+  {
+    "id": "0907313020",
+    "code": "0907313020",
+    "name": "Pingalay",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907313000",
+      "code": "0907313000",
+      "name": "Lapuyan"
+    }
+  },
+  {
+    "id": "0907313034",
+    "code": "0907313034",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907313000",
+      "code": "0907313000",
+      "name": "Lapuyan"
+    }
+  },
+  {
+    "id": "0907313023",
+    "code": "0907313023",
+    "name": "Salambuyan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907313000",
+      "code": "0907313000",
+      "name": "Lapuyan"
+    }
+  },
+  {
+    "id": "0907313024",
+    "code": "0907313024",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907313000",
+      "code": "0907313000",
+      "name": "Lapuyan"
+    }
+  },
+  {
+    "id": "0907313025",
+    "code": "0907313025",
+    "name": "Sayog",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907313000",
+      "code": "0907313000",
+      "name": "Lapuyan"
+    }
+  },
+  {
+    "id": "0907313027",
+    "code": "0907313027",
+    "name": "Tabon",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907313000",
+      "code": "0907313000",
+      "name": "Lapuyan"
+    }
+  },
+  {
+    "id": "0907313028",
+    "code": "0907313028",
+    "name": "Talabob",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907313000",
+      "code": "0907313000",
+      "name": "Lapuyan"
+    }
+  },
+  {
+    "id": "0907313029",
+    "code": "0907313029",
+    "name": "Tiguha",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907313000",
+      "code": "0907313000",
+      "name": "Lapuyan"
+    }
+  },
+  {
+    "id": "0907313030",
+    "code": "0907313030",
+    "name": "Tininghalang",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907313000",
+      "code": "0907313000",
+      "name": "Lapuyan"
+    }
+  },
+  {
+    "id": "0907313031",
+    "code": "0907313031",
+    "name": "Tipasan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907313000",
+      "code": "0907313000",
+      "name": "Lapuyan"
+    }
+  },
+  {
+    "id": "0907313033",
+    "code": "0907313033",
+    "name": "Tugaya",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907313000",
+      "code": "0907313000",
+      "name": "Lapuyan"
+    }
+  }
+]

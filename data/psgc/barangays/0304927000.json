@@ -1,0 +1,317 @@
+[
+  {
+    "id": "0304927002",
+    "code": "0304927002",
+    "name": "Bonifacio District",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304927000",
+      "code": "0304927000",
+      "name": "San Leonardo"
+    }
+  },
+  {
+    "id": "0304927003",
+    "code": "0304927003",
+    "name": "Burgos District",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304927000",
+      "code": "0304927000",
+      "name": "San Leonardo"
+    }
+  },
+  {
+    "id": "0304927004",
+    "code": "0304927004",
+    "name": "Castellano",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304927000",
+      "code": "0304927000",
+      "name": "San Leonardo"
+    }
+  },
+  {
+    "id": "0304927005",
+    "code": "0304927005",
+    "name": "Diversion",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304927000",
+      "code": "0304927000",
+      "name": "San Leonardo"
+    }
+  },
+  {
+    "id": "0304927006",
+    "code": "0304927006",
+    "name": "Magpapalayoc",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304927000",
+      "code": "0304927000",
+      "name": "San Leonardo"
+    }
+  },
+  {
+    "id": "0304927007",
+    "code": "0304927007",
+    "name": "Mallorca",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304927000",
+      "code": "0304927000",
+      "name": "San Leonardo"
+    }
+  },
+  {
+    "id": "0304927008",
+    "code": "0304927008",
+    "name": "Mambangnan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304927000",
+      "code": "0304927000",
+      "name": "San Leonardo"
+    }
+  },
+  {
+    "id": "0304927009",
+    "code": "0304927009",
+    "name": "Nieves",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304927000",
+      "code": "0304927000",
+      "name": "San Leonardo"
+    }
+  },
+  {
+    "id": "0304927011",
+    "code": "0304927011",
+    "name": "Rizal District",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304927000",
+      "code": "0304927000",
+      "name": "San Leonardo"
+    }
+  },
+  {
+    "id": "0304927012",
+    "code": "0304927012",
+    "name": "San Anton",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304927000",
+      "code": "0304927000",
+      "name": "San Leonardo"
+    }
+  },
+  {
+    "id": "0304927010",
+    "code": "0304927010",
+    "name": "San Bartolome",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304927000",
+      "code": "0304927000",
+      "name": "San Leonardo"
+    }
+  },
+  {
+    "id": "0304927013",
+    "code": "0304927013",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304927000",
+      "code": "0304927000",
+      "name": "San Leonardo"
+    }
+  },
+  {
+    "id": "0304927014",
+    "code": "0304927014",
+    "name": "Tabuating",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304927000",
+      "code": "0304927000",
+      "name": "San Leonardo"
+    }
+  },
+  {
+    "id": "0304927015",
+    "code": "0304927015",
+    "name": "Tagumpay",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304927000",
+      "code": "0304927000",
+      "name": "San Leonardo"
+    }
+  },
+  {
+    "id": "0304927016",
+    "code": "0304927016",
+    "name": "Tambo Adorable",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    },
+    "city_municipality": {
+      "id": "0304927000",
+      "code": "0304927000",
+      "name": "San Leonardo"
+    }
+  }
+]

@@ -1,0 +1,842 @@
+[
+  {
+    "id": "1102315001",
+    "code": "1102315001",
+    "name": "A. O. Floirendo",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102315000",
+      "code": "1102315000",
+      "name": "City of Panabo"
+    }
+  },
+  {
+    "id": "1102315003",
+    "code": "1102315003",
+    "name": "Buenavista",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102315000",
+      "code": "1102315000",
+      "name": "City of Panabo"
+    }
+  },
+  {
+    "id": "1102315004",
+    "code": "1102315004",
+    "name": "Cacao",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102315000",
+      "code": "1102315000",
+      "name": "City of Panabo"
+    }
+  },
+  {
+    "id": "1102315005",
+    "code": "1102315005",
+    "name": "Cagangohan",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102315000",
+      "code": "1102315000",
+      "name": "City of Panabo"
+    }
+  },
+  {
+    "id": "1102315006",
+    "code": "1102315006",
+    "name": "Consolacion",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102315000",
+      "code": "1102315000",
+      "name": "City of Panabo"
+    }
+  },
+  {
+    "id": "1102315007",
+    "code": "1102315007",
+    "name": "Dapco",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102315000",
+      "code": "1102315000",
+      "name": "City of Panabo"
+    }
+  },
+  {
+    "id": "1102315002",
+    "code": "1102315002",
+    "name": "Datu Abdul Dadia",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102315000",
+      "code": "1102315000",
+      "name": "City of Panabo"
+    }
+  },
+  {
+    "id": "1102315009",
+    "code": "1102315009",
+    "name": "Gredu",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102315000",
+      "code": "1102315000",
+      "name": "City of Panabo"
+    }
+  },
+  {
+    "id": "1102315010",
+    "code": "1102315010",
+    "name": "J.P. Laurel",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102315000",
+      "code": "1102315000",
+      "name": "City of Panabo"
+    }
+  },
+  {
+    "id": "1102315011",
+    "code": "1102315011",
+    "name": "Kasilak",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102315000",
+      "code": "1102315000",
+      "name": "City of Panabo"
+    }
+  },
+  {
+    "id": "1102315012",
+    "code": "1102315012",
+    "name": "Katipunan",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102315000",
+      "code": "1102315000",
+      "name": "City of Panabo"
+    }
+  },
+  {
+    "id": "1102315013",
+    "code": "1102315013",
+    "name": "Katualan",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102315000",
+      "code": "1102315000",
+      "name": "City of Panabo"
+    }
+  },
+  {
+    "id": "1102315014",
+    "code": "1102315014",
+    "name": "Kauswagan",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102315000",
+      "code": "1102315000",
+      "name": "City of Panabo"
+    }
+  },
+  {
+    "id": "1102315015",
+    "code": "1102315015",
+    "name": "Kiotoy",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102315000",
+      "code": "1102315000",
+      "name": "City of Panabo"
+    }
+  },
+  {
+    "id": "1102315016",
+    "code": "1102315016",
+    "name": "Little Panay",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102315000",
+      "code": "1102315000",
+      "name": "City of Panabo"
+    }
+  },
+  {
+    "id": "1102315017",
+    "code": "1102315017",
+    "name": "Lower Panaga",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102315000",
+      "code": "1102315000",
+      "name": "City of Panabo"
+    }
+  },
+  {
+    "id": "1102315018",
+    "code": "1102315018",
+    "name": "Mabunao",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102315000",
+      "code": "1102315000",
+      "name": "City of Panabo"
+    }
+  },
+  {
+    "id": "1102315019",
+    "code": "1102315019",
+    "name": "Maduao",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102315000",
+      "code": "1102315000",
+      "name": "City of Panabo"
+    }
+  },
+  {
+    "id": "1102315020",
+    "code": "1102315020",
+    "name": "Malativas",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102315000",
+      "code": "1102315000",
+      "name": "City of Panabo"
+    }
+  },
+  {
+    "id": "1102315021",
+    "code": "1102315021",
+    "name": "Manay",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102315000",
+      "code": "1102315000",
+      "name": "City of Panabo"
+    }
+  },
+  {
+    "id": "1102315022",
+    "code": "1102315022",
+    "name": "Nanyo",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102315000",
+      "code": "1102315000",
+      "name": "City of Panabo"
+    }
+  },
+  {
+    "id": "1102315023",
+    "code": "1102315023",
+    "name": "New Malaga",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102315000",
+      "code": "1102315000",
+      "name": "City of Panabo"
+    }
+  },
+  {
+    "id": "1102315024",
+    "code": "1102315024",
+    "name": "New Malitbog",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102315000",
+      "code": "1102315000",
+      "name": "City of Panabo"
+    }
+  },
+  {
+    "id": "1102315025",
+    "code": "1102315025",
+    "name": "New Pandan",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102315000",
+      "code": "1102315000",
+      "name": "City of Panabo"
+    }
+  },
+  {
+    "id": "1102315026",
+    "code": "1102315026",
+    "name": "New Visayas",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102315000",
+      "code": "1102315000",
+      "name": "City of Panabo"
+    }
+  },
+  {
+    "id": "1102315027",
+    "code": "1102315027",
+    "name": "Quezon",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102315000",
+      "code": "1102315000",
+      "name": "City of Panabo"
+    }
+  },
+  {
+    "id": "1102315028",
+    "code": "1102315028",
+    "name": "Salvacion",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102315000",
+      "code": "1102315000",
+      "name": "City of Panabo"
+    }
+  },
+  {
+    "id": "1102315029",
+    "code": "1102315029",
+    "name": "San Francisco",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102315000",
+      "code": "1102315000",
+      "name": "City of Panabo"
+    }
+  },
+  {
+    "id": "1102315030",
+    "code": "1102315030",
+    "name": "San Nicolas",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102315000",
+      "code": "1102315000",
+      "name": "City of Panabo"
+    }
+  },
+  {
+    "id": "1102315041",
+    "code": "1102315041",
+    "name": "San Pedro",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102315000",
+      "code": "1102315000",
+      "name": "City of Panabo"
+    }
+  },
+  {
+    "id": "1102315031",
+    "code": "1102315031",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102315000",
+      "code": "1102315000",
+      "name": "City of Panabo"
+    }
+  },
+  {
+    "id": "1102315032",
+    "code": "1102315032",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102315000",
+      "code": "1102315000",
+      "name": "City of Panabo"
+    }
+  },
+  {
+    "id": "1102315033",
+    "code": "1102315033",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102315000",
+      "code": "1102315000",
+      "name": "City of Panabo"
+    }
+  },
+  {
+    "id": "1102315034",
+    "code": "1102315034",
+    "name": "Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102315000",
+      "code": "1102315000",
+      "name": "City of Panabo"
+    }
+  },
+  {
+    "id": "1102315035",
+    "code": "1102315035",
+    "name": "Sindaton",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102315000",
+      "code": "1102315000",
+      "name": "City of Panabo"
+    }
+  },
+  {
+    "id": "1102315036",
+    "code": "1102315036",
+    "name": "Southern Davao",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102315000",
+      "code": "1102315000",
+      "name": "City of Panabo"
+    }
+  },
+  {
+    "id": "1102315037",
+    "code": "1102315037",
+    "name": "Tagpore",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102315000",
+      "code": "1102315000",
+      "name": "City of Panabo"
+    }
+  },
+  {
+    "id": "1102315038",
+    "code": "1102315038",
+    "name": "Tibungol",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102315000",
+      "code": "1102315000",
+      "name": "City of Panabo"
+    }
+  },
+  {
+    "id": "1102315039",
+    "code": "1102315039",
+    "name": "Upper Licanan",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102315000",
+      "code": "1102315000",
+      "name": "City of Panabo"
+    }
+  },
+  {
+    "id": "1102315040",
+    "code": "1102315040",
+    "name": "Waterfall",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102315000",
+      "code": "1102315000",
+      "name": "City of Panabo"
+    }
+  }
+]

@@ -1,0 +1,548 @@
+[
+  {
+    "id": "0105525002",
+    "code": "0105525002",
+    "name": "Babasit",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105525000",
+      "code": "0105525000",
+      "name": "Manaoag"
+    }
+  },
+  {
+    "id": "0105525003",
+    "code": "0105525003",
+    "name": "Baguinay",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105525000",
+      "code": "0105525000",
+      "name": "Manaoag"
+    }
+  },
+  {
+    "id": "0105525004",
+    "code": "0105525004",
+    "name": "Baritao",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105525000",
+      "code": "0105525000",
+      "name": "Manaoag"
+    }
+  },
+  {
+    "id": "0105525005",
+    "code": "0105525005",
+    "name": "Bisal",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105525000",
+      "code": "0105525000",
+      "name": "Manaoag"
+    }
+  },
+  {
+    "id": "0105525007",
+    "code": "0105525007",
+    "name": "Bucao",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105525000",
+      "code": "0105525000",
+      "name": "Manaoag"
+    }
+  },
+  {
+    "id": "0105525009",
+    "code": "0105525009",
+    "name": "Cabanbanan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105525000",
+      "code": "0105525000",
+      "name": "Manaoag"
+    }
+  },
+  {
+    "id": "0105525014",
+    "code": "0105525014",
+    "name": "Calaocan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105525000",
+      "code": "0105525000",
+      "name": "Manaoag"
+    }
+  },
+  {
+    "id": "0105525019",
+    "code": "0105525019",
+    "name": "Inamotan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105525000",
+      "code": "0105525000",
+      "name": "Manaoag"
+    }
+  },
+  {
+    "id": "0105525023",
+    "code": "0105525023",
+    "name": "Lelemaan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105525000",
+      "code": "0105525000",
+      "name": "Manaoag"
+    }
+  },
+  {
+    "id": "0105525024",
+    "code": "0105525024",
+    "name": "Licsi",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105525000",
+      "code": "0105525000",
+      "name": "Manaoag"
+    }
+  },
+  {
+    "id": "0105525025",
+    "code": "0105525025",
+    "name": "Lipit Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105525000",
+      "code": "0105525000",
+      "name": "Manaoag"
+    }
+  },
+  {
+    "id": "0105525026",
+    "code": "0105525026",
+    "name": "Lipit Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105525000",
+      "code": "0105525000",
+      "name": "Manaoag"
+    }
+  },
+  {
+    "id": "0105525028",
+    "code": "0105525028",
+    "name": "Matolong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105525000",
+      "code": "0105525000",
+      "name": "Manaoag"
+    }
+  },
+  {
+    "id": "0105525030",
+    "code": "0105525030",
+    "name": "Mermer",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105525000",
+      "code": "0105525000",
+      "name": "Manaoag"
+    }
+  },
+  {
+    "id": "0105525031",
+    "code": "0105525031",
+    "name": "Nalsian",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105525000",
+      "code": "0105525000",
+      "name": "Manaoag"
+    }
+  },
+  {
+    "id": "0105525033",
+    "code": "0105525033",
+    "name": "Oraan East",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105525000",
+      "code": "0105525000",
+      "name": "Manaoag"
+    }
+  },
+  {
+    "id": "0105525034",
+    "code": "0105525034",
+    "name": "Oraan West",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105525000",
+      "code": "0105525000",
+      "name": "Manaoag"
+    }
+  },
+  {
+    "id": "0105525036",
+    "code": "0105525036",
+    "name": "Pantal",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105525000",
+      "code": "0105525000",
+      "name": "Manaoag"
+    }
+  },
+  {
+    "id": "0105525037",
+    "code": "0105525037",
+    "name": "Pao",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105525000",
+      "code": "0105525000",
+      "name": "Manaoag"
+    }
+  },
+  {
+    "id": "0105525027",
+    "code": "0105525027",
+    "name": "Parian",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105525000",
+      "code": "0105525000",
+      "name": "Manaoag"
+    }
+  },
+  {
+    "id": "0105525039",
+    "code": "0105525039",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105525000",
+      "code": "0105525000",
+      "name": "Manaoag"
+    }
+  },
+  {
+    "id": "0105525040",
+    "code": "0105525040",
+    "name": "Pugaro",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105525000",
+      "code": "0105525000",
+      "name": "Manaoag"
+    }
+  },
+  {
+    "id": "0105525041",
+    "code": "0105525041",
+    "name": "San Ramon",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105525000",
+      "code": "0105525000",
+      "name": "Manaoag"
+    }
+  },
+  {
+    "id": "0105525042",
+    "code": "0105525042",
+    "name": "Santa Ines",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105525000",
+      "code": "0105525000",
+      "name": "Manaoag"
+    }
+  },
+  {
+    "id": "0105525043",
+    "code": "0105525043",
+    "name": "Sapang",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105525000",
+      "code": "0105525000",
+      "name": "Manaoag"
+    }
+  },
+  {
+    "id": "0105525045",
+    "code": "0105525045",
+    "name": "Tebuel",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105525000",
+      "code": "0105525000",
+      "name": "Manaoag"
+    }
+  }
+]

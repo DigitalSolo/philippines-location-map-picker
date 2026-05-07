@@ -1,0 +1,317 @@
+[
+  {
+    "id": "1004202001",
+    "code": "1004202001",
+    "name": "Del Pilar",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004202000",
+      "code": "1004202000",
+      "name": "Baliangao"
+    }
+  },
+  {
+    "id": "1004202002",
+    "code": "1004202002",
+    "name": "Landing",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004202000",
+      "code": "1004202000",
+      "name": "Baliangao"
+    }
+  },
+  {
+    "id": "1004202003",
+    "code": "1004202003",
+    "name": "Lumipac",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004202000",
+      "code": "1004202000",
+      "name": "Baliangao"
+    }
+  },
+  {
+    "id": "1004202004",
+    "code": "1004202004",
+    "name": "Lusot",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004202000",
+      "code": "1004202000",
+      "name": "Baliangao"
+    }
+  },
+  {
+    "id": "1004202005",
+    "code": "1004202005",
+    "name": "Mabini",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004202000",
+      "code": "1004202000",
+      "name": "Baliangao"
+    }
+  },
+  {
+    "id": "1004202006",
+    "code": "1004202006",
+    "name": "Magsaysay",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004202000",
+      "code": "1004202000",
+      "name": "Baliangao"
+    }
+  },
+  {
+    "id": "1004202007",
+    "code": "1004202007",
+    "name": "Misom",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004202000",
+      "code": "1004202000",
+      "name": "Baliangao"
+    }
+  },
+  {
+    "id": "1004202008",
+    "code": "1004202008",
+    "name": "Mitacas",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004202000",
+      "code": "1004202000",
+      "name": "Baliangao"
+    }
+  },
+  {
+    "id": "1004202009",
+    "code": "1004202009",
+    "name": "Naburos",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004202000",
+      "code": "1004202000",
+      "name": "Baliangao"
+    }
+  },
+  {
+    "id": "1004202010",
+    "code": "1004202010",
+    "name": "Northern Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004202000",
+      "code": "1004202000",
+      "name": "Baliangao"
+    }
+  },
+  {
+    "id": "1004202011",
+    "code": "1004202011",
+    "name": "Punta Miray",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004202000",
+      "code": "1004202000",
+      "name": "Baliangao"
+    }
+  },
+  {
+    "id": "1004202012",
+    "code": "1004202012",
+    "name": "Punta Sulong",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004202000",
+      "code": "1004202000",
+      "name": "Baliangao"
+    }
+  },
+  {
+    "id": "1004202013",
+    "code": "1004202013",
+    "name": "Sinian",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004202000",
+      "code": "1004202000",
+      "name": "Baliangao"
+    }
+  },
+  {
+    "id": "1004202014",
+    "code": "1004202014",
+    "name": "Southern Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004202000",
+      "code": "1004202000",
+      "name": "Baliangao"
+    }
+  },
+  {
+    "id": "1004202015",
+    "code": "1004202015",
+    "name": "Tugas",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004202000",
+      "code": "1004202000",
+      "name": "Baliangao"
+    }
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1102322001",
+    "code": "1102322001",
+    "name": "Dagohoy",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102322000",
+      "code": "1102322000",
+      "name": "Talaingod"
+    }
+  },
+  {
+    "id": "1102322002",
+    "code": "1102322002",
+    "name": "Palma Gil",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102322000",
+      "code": "1102322000",
+      "name": "Talaingod"
+    }
+  },
+  {
+    "id": "1102322003",
+    "code": "1102322003",
+    "name": "Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102322000",
+      "code": "1102322000",
+      "name": "Talaingod"
+    }
+  }
+]

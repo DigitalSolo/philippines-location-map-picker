@@ -1,0 +1,464 @@
+[
+  {
+    "id": "0701240001",
+    "code": "0701240001",
+    "name": "Abachanan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701240000",
+      "code": "0701240000",
+      "name": "Sierra Bullones"
+    }
+  },
+  {
+    "id": "0701240002",
+    "code": "0701240002",
+    "name": "Anibongan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701240000",
+      "code": "0701240000",
+      "name": "Sierra Bullones"
+    }
+  },
+  {
+    "id": "0701240003",
+    "code": "0701240003",
+    "name": "Bugsoc",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701240000",
+      "code": "0701240000",
+      "name": "Sierra Bullones"
+    }
+  },
+  {
+    "id": "0701240009",
+    "code": "0701240009",
+    "name": "Cahayag",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701240000",
+      "code": "0701240000",
+      "name": "Sierra Bullones"
+    }
+  },
+  {
+    "id": "0701240004",
+    "code": "0701240004",
+    "name": "Canlangit",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701240000",
+      "code": "0701240000",
+      "name": "Sierra Bullones"
+    }
+  },
+  {
+    "id": "0701240005",
+    "code": "0701240005",
+    "name": "Canta-ub",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701240000",
+      "code": "0701240000",
+      "name": "Sierra Bullones"
+    }
+  },
+  {
+    "id": "0701240006",
+    "code": "0701240006",
+    "name": "Casilay",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701240000",
+      "code": "0701240000",
+      "name": "Sierra Bullones"
+    }
+  },
+  {
+    "id": "0701240007",
+    "code": "0701240007",
+    "name": "Danicop",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701240000",
+      "code": "0701240000",
+      "name": "Sierra Bullones"
+    }
+  },
+  {
+    "id": "0701240008",
+    "code": "0701240008",
+    "name": "Dusita",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701240000",
+      "code": "0701240000",
+      "name": "Sierra Bullones"
+    }
+  },
+  {
+    "id": "0701240010",
+    "code": "0701240010",
+    "name": "La Union",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701240000",
+      "code": "0701240000",
+      "name": "Sierra Bullones"
+    }
+  },
+  {
+    "id": "0701240011",
+    "code": "0701240011",
+    "name": "Lataban",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701240000",
+      "code": "0701240000",
+      "name": "Sierra Bullones"
+    }
+  },
+  {
+    "id": "0701240012",
+    "code": "0701240012",
+    "name": "Magsaysay",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701240000",
+      "code": "0701240000",
+      "name": "Sierra Bullones"
+    }
+  },
+  {
+    "id": "0701240014",
+    "code": "0701240014",
+    "name": "Man-od",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701240000",
+      "code": "0701240000",
+      "name": "Sierra Bullones"
+    }
+  },
+  {
+    "id": "0701240013",
+    "code": "0701240013",
+    "name": "Matin-ao",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701240000",
+      "code": "0701240000",
+      "name": "Sierra Bullones"
+    }
+  },
+  {
+    "id": "0701240015",
+    "code": "0701240015",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701240000",
+      "code": "0701240000",
+      "name": "Sierra Bullones"
+    }
+  },
+  {
+    "id": "0701240016",
+    "code": "0701240016",
+    "name": "Salvador",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701240000",
+      "code": "0701240000",
+      "name": "Sierra Bullones"
+    }
+  },
+  {
+    "id": "0701240017",
+    "code": "0701240017",
+    "name": "San Agustin",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701240000",
+      "code": "0701240000",
+      "name": "Sierra Bullones"
+    }
+  },
+  {
+    "id": "0701240018",
+    "code": "0701240018",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701240000",
+      "code": "0701240000",
+      "name": "Sierra Bullones"
+    }
+  },
+  {
+    "id": "0701240019",
+    "code": "0701240019",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701240000",
+      "code": "0701240000",
+      "name": "Sierra Bullones"
+    }
+  },
+  {
+    "id": "0701240020",
+    "code": "0701240020",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701240000",
+      "code": "0701240000",
+      "name": "Sierra Bullones"
+    }
+  },
+  {
+    "id": "0701240021",
+    "code": "0701240021",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701240000",
+      "code": "0701240000",
+      "name": "Sierra Bullones"
+    }
+  },
+  {
+    "id": "0701240022",
+    "code": "0701240022",
+    "name": "Villa Garcia",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701240000",
+      "code": "0701240000",
+      "name": "Sierra Bullones"
+    }
+  }
+]

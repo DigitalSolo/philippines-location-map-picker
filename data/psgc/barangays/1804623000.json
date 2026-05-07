@@ -1,0 +1,506 @@
+[
+  {
+    "id": "1804623001",
+    "code": "1804623001",
+    "name": "Apolong",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804623000",
+      "code": "1804623000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "1804623002",
+    "code": "1804623002",
+    "name": "Balabag East",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804623000",
+      "code": "1804623000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "1804623003",
+    "code": "1804623003",
+    "name": "Balabag West",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804623000",
+      "code": "1804623000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "1804623004",
+    "code": "1804623004",
+    "name": "Balayagmanok",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804623000",
+      "code": "1804623000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "1804623005",
+    "code": "1804623005",
+    "name": "Balili",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804623000",
+      "code": "1804623000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "1804623006",
+    "code": "1804623006",
+    "name": "Balugo",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804623000",
+      "code": "1804623000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "1804623008",
+    "code": "1804623008",
+    "name": "Bong-ao",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804623000",
+      "code": "1804623000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "1804623007",
+    "code": "1804623007",
+    "name": "Bongbong",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804623000",
+      "code": "1804623000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "1804623013",
+    "code": "1804623013",
+    "name": "Caidiocan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804623000",
+      "code": "1804623000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "1804623009",
+    "code": "1804623009",
+    "name": "Calayugan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804623000",
+      "code": "1804623000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "1804623010",
+    "code": "1804623010",
+    "name": "Cambucad",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804623000",
+      "code": "1804623000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "1804623011",
+    "code": "1804623011",
+    "name": "Dobdob",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804623000",
+      "code": "1804623000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "1804623012",
+    "code": "1804623012",
+    "name": "Jawa",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804623000",
+      "code": "1804623000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "1804623014",
+    "code": "1804623014",
+    "name": "Liptong",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804623000",
+      "code": "1804623000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "1804623015",
+    "code": "1804623015",
+    "name": "Lunga",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804623000",
+      "code": "1804623000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "1804623016",
+    "code": "1804623016",
+    "name": "Malabo",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804623000",
+      "code": "1804623000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "1804623017",
+    "code": "1804623017",
+    "name": "Malaunay",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804623000",
+      "code": "1804623000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "1804623018",
+    "code": "1804623018",
+    "name": "Mampas",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804623000",
+      "code": "1804623000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "1804623020",
+    "code": "1804623020",
+    "name": "North Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804623000",
+      "code": "1804623000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "1804623019",
+    "code": "1804623019",
+    "name": "Palinpinon",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804623000",
+      "code": "1804623000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "1804623022",
+    "code": "1804623022",
+    "name": "Puhagan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804623000",
+      "code": "1804623000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "1804623023",
+    "code": "1804623023",
+    "name": "Pulangbato",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804623000",
+      "code": "1804623000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "1804623024",
+    "code": "1804623024",
+    "name": "Sagbang",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804623000",
+      "code": "1804623000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "1804623021",
+    "code": "1804623021",
+    "name": "South Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804600000",
+      "code": "1804600000",
+      "name": "Negros Oriental"
+    },
+    "city_municipality": {
+      "id": "1804623000",
+      "code": "1804623000",
+      "name": "Valencia"
+    }
+  }
+]

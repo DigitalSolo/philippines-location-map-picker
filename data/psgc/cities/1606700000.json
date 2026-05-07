@@ -1,0 +1,338 @@
+[
+  {
+    "id": "1606701000",
+    "code": "1606701000",
+    "name": "Alegria",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    }
+  },
+  {
+    "id": "1606702000",
+    "code": "1606702000",
+    "name": "Bacuag",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    }
+  },
+  {
+    "id": "1606704000",
+    "code": "1606704000",
+    "name": "Burgos",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    }
+  },
+  {
+    "id": "1606724000",
+    "code": "1606724000",
+    "name": "City of Surigao",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    }
+  },
+  {
+    "id": "1606706000",
+    "code": "1606706000",
+    "name": "Claver",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    }
+  },
+  {
+    "id": "1606707000",
+    "code": "1606707000",
+    "name": "Dapa",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    }
+  },
+  {
+    "id": "1606708000",
+    "code": "1606708000",
+    "name": "Del Carmen",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    }
+  },
+  {
+    "id": "1606710000",
+    "code": "1606710000",
+    "name": "General Luna",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    }
+  },
+  {
+    "id": "1606711000",
+    "code": "1606711000",
+    "name": "Gigaquit",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    }
+  },
+  {
+    "id": "1606714000",
+    "code": "1606714000",
+    "name": "Mainit",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    }
+  },
+  {
+    "id": "1606715000",
+    "code": "1606715000",
+    "name": "Malimono",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    }
+  },
+  {
+    "id": "1606716000",
+    "code": "1606716000",
+    "name": "Pilar",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    }
+  },
+  {
+    "id": "1606717000",
+    "code": "1606717000",
+    "name": "Placer",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    }
+  },
+  {
+    "id": "1606718000",
+    "code": "1606718000",
+    "name": "San Benito",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    }
+  },
+  {
+    "id": "1606719000",
+    "code": "1606719000",
+    "name": "San Francisco",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    }
+  },
+  {
+    "id": "1606720000",
+    "code": "1606720000",
+    "name": "San Isidro",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    }
+  },
+  {
+    "id": "1606721000",
+    "code": "1606721000",
+    "name": "Santa Monica",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    }
+  },
+  {
+    "id": "1606722000",
+    "code": "1606722000",
+    "name": "Sison",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    }
+  },
+  {
+    "id": "1606723000",
+    "code": "1606723000",
+    "name": "Socorro",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    }
+  },
+  {
+    "id": "1606725000",
+    "code": "1606725000",
+    "name": "Tagana-An",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    }
+  },
+  {
+    "id": "1606727000",
+    "code": "1606727000",
+    "name": "Tubod",
+    "type": "city_municipality",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    }
+  }
+]

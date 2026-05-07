@@ -1,0 +1,863 @@
+[
+  {
+    "id": "0806020001",
+    "code": "0806020001",
+    "name": "Alcazar",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806020000",
+      "code": "0806020000",
+      "name": "Tarangnan"
+    }
+  },
+  {
+    "id": "0806020002",
+    "code": "0806020002",
+    "name": "Awang",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806020000",
+      "code": "0806020000",
+      "name": "Tarangnan"
+    }
+  },
+  {
+    "id": "0806020003",
+    "code": "0806020003",
+    "name": "Bahay",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806020000",
+      "code": "0806020000",
+      "name": "Tarangnan"
+    }
+  },
+  {
+    "id": "0806020004",
+    "code": "0806020004",
+    "name": "Balonga-as",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806020000",
+      "code": "0806020000",
+      "name": "Tarangnan"
+    }
+  },
+  {
+    "id": "0806020005",
+    "code": "0806020005",
+    "name": "Balugo",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806020000",
+      "code": "0806020000",
+      "name": "Tarangnan"
+    }
+  },
+  {
+    "id": "0806020007",
+    "code": "0806020007",
+    "name": "Bangon Gote",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806020000",
+      "code": "0806020000",
+      "name": "Tarangnan"
+    }
+  },
+  {
+    "id": "0806020008",
+    "code": "0806020008",
+    "name": "Baras",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806020000",
+      "code": "0806020000",
+      "name": "Tarangnan"
+    }
+  },
+  {
+    "id": "0806020009",
+    "code": "0806020009",
+    "name": "Binalayan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806020000",
+      "code": "0806020000",
+      "name": "Tarangnan"
+    }
+  },
+  {
+    "id": "0806020010",
+    "code": "0806020010",
+    "name": "Bisitahan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806020000",
+      "code": "0806020000",
+      "name": "Tarangnan"
+    }
+  },
+  {
+    "id": "0806020011",
+    "code": "0806020011",
+    "name": "Bonga",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806020000",
+      "code": "0806020000",
+      "name": "Tarangnan"
+    }
+  },
+  {
+    "id": "0806020013",
+    "code": "0806020013",
+    "name": "Cabunga-an",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806020000",
+      "code": "0806020000",
+      "name": "Tarangnan"
+    }
+  },
+  {
+    "id": "0806020014",
+    "code": "0806020014",
+    "name": "Cagtutulo",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806020000",
+      "code": "0806020000",
+      "name": "Tarangnan"
+    }
+  },
+  {
+    "id": "0806020018",
+    "code": "0806020018",
+    "name": "Cambatutay Nuevo",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806020000",
+      "code": "0806020000",
+      "name": "Tarangnan"
+    }
+  },
+  {
+    "id": "0806020019",
+    "code": "0806020019",
+    "name": "Cambatutay Viejo",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806020000",
+      "code": "0806020000",
+      "name": "Tarangnan"
+    }
+  },
+  {
+    "id": "0806020020",
+    "code": "0806020020",
+    "name": "Canunghan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806020000",
+      "code": "0806020000",
+      "name": "Tarangnan"
+    }
+  },
+  {
+    "id": "0806020021",
+    "code": "0806020021",
+    "name": "Catan-agan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806020000",
+      "code": "0806020000",
+      "name": "Tarangnan"
+    }
+  },
+  {
+    "id": "0806020022",
+    "code": "0806020022",
+    "name": "Dapdap",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806020000",
+      "code": "0806020000",
+      "name": "Tarangnan"
+    }
+  },
+  {
+    "id": "0806020023",
+    "code": "0806020023",
+    "name": "Gallego",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806020000",
+      "code": "0806020000",
+      "name": "Tarangnan"
+    }
+  },
+  {
+    "id": "0806020024",
+    "code": "0806020024",
+    "name": "Imelda Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806020000",
+      "code": "0806020000",
+      "name": "Tarangnan"
+    }
+  },
+  {
+    "id": "0806020026",
+    "code": "0806020026",
+    "name": "Lahong",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806020000",
+      "code": "0806020000",
+      "name": "Tarangnan"
+    }
+  },
+  {
+    "id": "0806020027",
+    "code": "0806020027",
+    "name": "Libucan Dacu",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806020000",
+      "code": "0806020000",
+      "name": "Tarangnan"
+    }
+  },
+  {
+    "id": "0806020028",
+    "code": "0806020028",
+    "name": "Libucan Gote",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806020000",
+      "code": "0806020000",
+      "name": "Tarangnan"
+    }
+  },
+  {
+    "id": "0806020025",
+    "code": "0806020025",
+    "name": "Lucerdoni",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806020000",
+      "code": "0806020000",
+      "name": "Tarangnan"
+    }
+  },
+  {
+    "id": "0806020029",
+    "code": "0806020029",
+    "name": "Majacob",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806020000",
+      "code": "0806020000",
+      "name": "Tarangnan"
+    }
+  },
+  {
+    "id": "0806020030",
+    "code": "0806020030",
+    "name": "Mancares",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806020000",
+      "code": "0806020000",
+      "name": "Tarangnan"
+    }
+  },
+  {
+    "id": "0806020031",
+    "code": "0806020031",
+    "name": "Marabut",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806020000",
+      "code": "0806020000",
+      "name": "Tarangnan"
+    }
+  },
+  {
+    "id": "0806020032",
+    "code": "0806020032",
+    "name": "Oeste - A",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806020000",
+      "code": "0806020000",
+      "name": "Tarangnan"
+    }
+  },
+  {
+    "id": "0806020033",
+    "code": "0806020033",
+    "name": "Oeste - B",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806020000",
+      "code": "0806020000",
+      "name": "Tarangnan"
+    }
+  },
+  {
+    "id": "0806020038",
+    "code": "0806020038",
+    "name": "Pajo",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806020000",
+      "code": "0806020000",
+      "name": "Tarangnan"
+    }
+  },
+  {
+    "id": "0806020039",
+    "code": "0806020039",
+    "name": "Palencia",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806020000",
+      "code": "0806020000",
+      "name": "Tarangnan"
+    }
+  },
+  {
+    "id": "0806020041",
+    "code": "0806020041",
+    "name": "Poblacion A",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806020000",
+      "code": "0806020000",
+      "name": "Tarangnan"
+    }
+  },
+  {
+    "id": "0806020042",
+    "code": "0806020042",
+    "name": "Poblacion B",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806020000",
+      "code": "0806020000",
+      "name": "Tarangnan"
+    }
+  },
+  {
+    "id": "0806020043",
+    "code": "0806020043",
+    "name": "Poblacion C",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806020000",
+      "code": "0806020000",
+      "name": "Tarangnan"
+    }
+  },
+  {
+    "id": "0806020044",
+    "code": "0806020044",
+    "name": "Poblacion D",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806020000",
+      "code": "0806020000",
+      "name": "Tarangnan"
+    }
+  },
+  {
+    "id": "0806020045",
+    "code": "0806020045",
+    "name": "Poblacion E",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806020000",
+      "code": "0806020000",
+      "name": "Tarangnan"
+    }
+  },
+  {
+    "id": "0806020047",
+    "code": "0806020047",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806020000",
+      "code": "0806020000",
+      "name": "Tarangnan"
+    }
+  },
+  {
+    "id": "0806020048",
+    "code": "0806020048",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806020000",
+      "code": "0806020000",
+      "name": "Tarangnan"
+    }
+  },
+  {
+    "id": "0806020049",
+    "code": "0806020049",
+    "name": "Sugod",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806020000",
+      "code": "0806020000",
+      "name": "Tarangnan"
+    }
+  },
+  {
+    "id": "0806020050",
+    "code": "0806020050",
+    "name": "Talinga",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806020000",
+      "code": "0806020000",
+      "name": "Tarangnan"
+    }
+  },
+  {
+    "id": "0806020051",
+    "code": "0806020051",
+    "name": "Tigdaranao",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806020000",
+      "code": "0806020000",
+      "name": "Tarangnan"
+    }
+  },
+  {
+    "id": "0806020052",
+    "code": "0806020052",
+    "name": "Tizon",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806020000",
+      "code": "0806020000",
+      "name": "Tarangnan"
+    }
+  }
+]

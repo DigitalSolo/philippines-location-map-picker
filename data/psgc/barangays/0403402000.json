@@ -1,0 +1,317 @@
+[
+  {
+    "id": "0403402001",
+    "code": "0403402001",
+    "name": "Bitin",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403402000",
+      "code": "0403402000",
+      "name": "Bay"
+    }
+  },
+  {
+    "id": "0403402002",
+    "code": "0403402002",
+    "name": "Calo",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403402000",
+      "code": "0403402000",
+      "name": "Bay"
+    }
+  },
+  {
+    "id": "0403402003",
+    "code": "0403402003",
+    "name": "Dila",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403402000",
+      "code": "0403402000",
+      "name": "Bay"
+    }
+  },
+  {
+    "id": "0403402004",
+    "code": "0403402004",
+    "name": "Maitim",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403402000",
+      "code": "0403402000",
+      "name": "Bay"
+    }
+  },
+  {
+    "id": "0403402005",
+    "code": "0403402005",
+    "name": "Masaya",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403402000",
+      "code": "0403402000",
+      "name": "Bay"
+    }
+  },
+  {
+    "id": "0403402006",
+    "code": "0403402006",
+    "name": "Paciano Rizal",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403402000",
+      "code": "0403402000",
+      "name": "Bay"
+    }
+  },
+  {
+    "id": "0403402009",
+    "code": "0403402009",
+    "name": "Puypuy",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403402000",
+      "code": "0403402000",
+      "name": "Bay"
+    }
+  },
+  {
+    "id": "0403402016",
+    "code": "0403402016",
+    "name": "San Agustin",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403402000",
+      "code": "0403402000",
+      "name": "Bay"
+    }
+  },
+  {
+    "id": "0403402010",
+    "code": "0403402010",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403402000",
+      "code": "0403402000",
+      "name": "Bay"
+    }
+  },
+  {
+    "id": "0403402011",
+    "code": "0403402011",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403402000",
+      "code": "0403402000",
+      "name": "Bay"
+    }
+  },
+  {
+    "id": "0403402017",
+    "code": "0403402017",
+    "name": "San Nicolas",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403402000",
+      "code": "0403402000",
+      "name": "Bay"
+    }
+  },
+  {
+    "id": "0403402012",
+    "code": "0403402012",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403402000",
+      "code": "0403402000",
+      "name": "Bay"
+    }
+  },
+  {
+    "id": "0403402013",
+    "code": "0403402013",
+    "name": "Santo Domingo",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403402000",
+      "code": "0403402000",
+      "name": "Bay"
+    }
+  },
+  {
+    "id": "0403402014",
+    "code": "0403402014",
+    "name": "Tagumpay",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403402000",
+      "code": "0403402000",
+      "name": "Bay"
+    }
+  },
+  {
+    "id": "0403402015",
+    "code": "0403402015",
+    "name": "Tranca",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403402000",
+      "code": "0403402000",
+      "name": "Bay"
+    }
+  }
+]

@@ -1,0 +1,611 @@
+[
+  {
+    "id": "0603007001",
+    "code": "0603007001",
+    "name": "Acuit",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603007000",
+      "code": "0603007000",
+      "name": "Barotac Nuevo"
+    }
+  },
+  {
+    "id": "0603007002",
+    "code": "0603007002",
+    "name": "Agcuyawan Calsada",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603007000",
+      "code": "0603007000",
+      "name": "Barotac Nuevo"
+    }
+  },
+  {
+    "id": "0603007003",
+    "code": "0603007003",
+    "name": "Agcuyawan Pulo",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603007000",
+      "code": "0603007000",
+      "name": "Barotac Nuevo"
+    }
+  },
+  {
+    "id": "0603007004",
+    "code": "0603007004",
+    "name": "Bagongbong",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603007000",
+      "code": "0603007000",
+      "name": "Barotac Nuevo"
+    }
+  },
+  {
+    "id": "0603007005",
+    "code": "0603007005",
+    "name": "Baras",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603007000",
+      "code": "0603007000",
+      "name": "Barotac Nuevo"
+    }
+  },
+  {
+    "id": "0603007006",
+    "code": "0603007006",
+    "name": "Bungca",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603007000",
+      "code": "0603007000",
+      "name": "Barotac Nuevo"
+    }
+  },
+  {
+    "id": "0603007007",
+    "code": "0603007007",
+    "name": "Cabilauan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603007000",
+      "code": "0603007000",
+      "name": "Barotac Nuevo"
+    }
+  },
+  {
+    "id": "0603007008",
+    "code": "0603007008",
+    "name": "Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603007000",
+      "code": "0603007000",
+      "name": "Barotac Nuevo"
+    }
+  },
+  {
+    "id": "0603007009",
+    "code": "0603007009",
+    "name": "Guintas",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603007000",
+      "code": "0603007000",
+      "name": "Barotac Nuevo"
+    }
+  },
+  {
+    "id": "0603007010",
+    "code": "0603007010",
+    "name": "Igbong",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603007000",
+      "code": "0603007000",
+      "name": "Barotac Nuevo"
+    }
+  },
+  {
+    "id": "0603007011",
+    "code": "0603007011",
+    "name": "Ilaud Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603007000",
+      "code": "0603007000",
+      "name": "Barotac Nuevo"
+    }
+  },
+  {
+    "id": "0603007012",
+    "code": "0603007012",
+    "name": "Ilaya Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603007000",
+      "code": "0603007000",
+      "name": "Barotac Nuevo"
+    }
+  },
+  {
+    "id": "0603007013",
+    "code": "0603007013",
+    "name": "Jalaud",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603007000",
+      "code": "0603007000",
+      "name": "Barotac Nuevo"
+    }
+  },
+  {
+    "id": "0603007014",
+    "code": "0603007014",
+    "name": "Lagubang",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603007000",
+      "code": "0603007000",
+      "name": "Barotac Nuevo"
+    }
+  },
+  {
+    "id": "0603007015",
+    "code": "0603007015",
+    "name": "Lanas",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603007000",
+      "code": "0603007000",
+      "name": "Barotac Nuevo"
+    }
+  },
+  {
+    "id": "0603007016",
+    "code": "0603007016",
+    "name": "Lico-an",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603007000",
+      "code": "0603007000",
+      "name": "Barotac Nuevo"
+    }
+  },
+  {
+    "id": "0603007017",
+    "code": "0603007017",
+    "name": "Linao",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603007000",
+      "code": "0603007000",
+      "name": "Barotac Nuevo"
+    }
+  },
+  {
+    "id": "0603007018",
+    "code": "0603007018",
+    "name": "Monpon",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603007000",
+      "code": "0603007000",
+      "name": "Barotac Nuevo"
+    }
+  },
+  {
+    "id": "0603007019",
+    "code": "0603007019",
+    "name": "Palaciawan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603007000",
+      "code": "0603007000",
+      "name": "Barotac Nuevo"
+    }
+  },
+  {
+    "id": "0603007020",
+    "code": "0603007020",
+    "name": "Patag",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603007000",
+      "code": "0603007000",
+      "name": "Barotac Nuevo"
+    }
+  },
+  {
+    "id": "0603007021",
+    "code": "0603007021",
+    "name": "Salihid",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603007000",
+      "code": "0603007000",
+      "name": "Barotac Nuevo"
+    }
+  },
+  {
+    "id": "0603007022",
+    "code": "0603007022",
+    "name": "So-ol",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603007000",
+      "code": "0603007000",
+      "name": "Barotac Nuevo"
+    }
+  },
+  {
+    "id": "0603007023",
+    "code": "0603007023",
+    "name": "Sohoton",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603007000",
+      "code": "0603007000",
+      "name": "Barotac Nuevo"
+    }
+  },
+  {
+    "id": "0603007024",
+    "code": "0603007024",
+    "name": "Tabuc-Suba",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603007000",
+      "code": "0603007000",
+      "name": "Barotac Nuevo"
+    }
+  },
+  {
+    "id": "0603007025",
+    "code": "0603007025",
+    "name": "Tabucan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603007000",
+      "code": "0603007000",
+      "name": "Barotac Nuevo"
+    }
+  },
+  {
+    "id": "0603007026",
+    "code": "0603007026",
+    "name": "Talisay",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603007000",
+      "code": "0603007000",
+      "name": "Barotac Nuevo"
+    }
+  },
+  {
+    "id": "0603007027",
+    "code": "0603007027",
+    "name": "Tinorian",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603007000",
+      "code": "0603007000",
+      "name": "Barotac Nuevo"
+    }
+  },
+  {
+    "id": "0603007028",
+    "code": "0603007028",
+    "name": "Tiwi",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603007000",
+      "code": "0603007000",
+      "name": "Barotac Nuevo"
+    }
+  },
+  {
+    "id": "0603007029",
+    "code": "0603007029",
+    "name": "Tubungan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603007000",
+      "code": "0603007000",
+      "name": "Barotac Nuevo"
+    }
+  }
+]

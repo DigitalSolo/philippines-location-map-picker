@@ -1,0 +1,706 @@
+[
+  {
+    "id": "1030900001",
+    "code": "1030900001",
+    "name": "Abuno",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "city_municipality": {
+      "id": "1030900000",
+      "code": "1030900000",
+      "name": "City of Iligan"
+    }
+  },
+  {
+    "id": "1030900038",
+    "code": "1030900038",
+    "name": "Acmac-Mariano Badelles Sr.",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "city_municipality": {
+      "id": "1030900000",
+      "code": "1030900000",
+      "name": "City of Iligan"
+    }
+  },
+  {
+    "id": "1030900031",
+    "code": "1030900031",
+    "name": "Bagong Silang",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "city_municipality": {
+      "id": "1030900000",
+      "code": "1030900000",
+      "name": "City of Iligan"
+    }
+  },
+  {
+    "id": "1030900002",
+    "code": "1030900002",
+    "name": "Bonbonon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "city_municipality": {
+      "id": "1030900000",
+      "code": "1030900000",
+      "name": "City of Iligan"
+    }
+  },
+  {
+    "id": "1030900003",
+    "code": "1030900003",
+    "name": "Bunawan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "city_municipality": {
+      "id": "1030900000",
+      "code": "1030900000",
+      "name": "City of Iligan"
+    }
+  },
+  {
+    "id": "1030900005",
+    "code": "1030900005",
+    "name": "Buru-un",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "city_municipality": {
+      "id": "1030900000",
+      "code": "1030900000",
+      "name": "City of Iligan"
+    }
+  },
+  {
+    "id": "1030900006",
+    "code": "1030900006",
+    "name": "Dalipuga",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "city_municipality": {
+      "id": "1030900000",
+      "code": "1030900000",
+      "name": "City of Iligan"
+    }
+  },
+  {
+    "id": "1030900032",
+    "code": "1030900032",
+    "name": "Del Carmen",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "city_municipality": {
+      "id": "1030900000",
+      "code": "1030900000",
+      "name": "City of Iligan"
+    }
+  },
+  {
+    "id": "1030900007",
+    "code": "1030900007",
+    "name": "Digkilaan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "city_municipality": {
+      "id": "1030900000",
+      "code": "1030900000",
+      "name": "City of Iligan"
+    }
+  },
+  {
+    "id": "1030900039",
+    "code": "1030900039",
+    "name": "Ditucalan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "city_municipality": {
+      "id": "1030900000",
+      "code": "1030900000",
+      "name": "City of Iligan"
+    }
+  },
+  {
+    "id": "1030900033",
+    "code": "1030900033",
+    "name": "Dulag",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "city_municipality": {
+      "id": "1030900000",
+      "code": "1030900000",
+      "name": "City of Iligan"
+    }
+  },
+  {
+    "id": "1030900008",
+    "code": "1030900008",
+    "name": "Hinaplanon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "city_municipality": {
+      "id": "1030900000",
+      "code": "1030900000",
+      "name": "City of Iligan"
+    }
+  },
+  {
+    "id": "1030900040",
+    "code": "1030900040",
+    "name": "Hindang",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "city_municipality": {
+      "id": "1030900000",
+      "code": "1030900000",
+      "name": "City of Iligan"
+    }
+  },
+  {
+    "id": "1030900010",
+    "code": "1030900010",
+    "name": "Kabacsanan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "city_municipality": {
+      "id": "1030900000",
+      "code": "1030900000",
+      "name": "City of Iligan"
+    }
+  },
+  {
+    "id": "1030900041",
+    "code": "1030900041",
+    "name": "Kalilangan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "city_municipality": {
+      "id": "1030900000",
+      "code": "1030900000",
+      "name": "City of Iligan"
+    }
+  },
+  {
+    "id": "1030900011",
+    "code": "1030900011",
+    "name": "Kiwalan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "city_municipality": {
+      "id": "1030900000",
+      "code": "1030900000",
+      "name": "City of Iligan"
+    }
+  },
+  {
+    "id": "1030900042",
+    "code": "1030900042",
+    "name": "Lanipao",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "city_municipality": {
+      "id": "1030900000",
+      "code": "1030900000",
+      "name": "City of Iligan"
+    }
+  },
+  {
+    "id": "1030900043",
+    "code": "1030900043",
+    "name": "Luinab",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "city_municipality": {
+      "id": "1030900000",
+      "code": "1030900000",
+      "name": "City of Iligan"
+    }
+  },
+  {
+    "id": "1030900012",
+    "code": "1030900012",
+    "name": "Mahayahay",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "city_municipality": {
+      "id": "1030900000",
+      "code": "1030900000",
+      "name": "City of Iligan"
+    }
+  },
+  {
+    "id": "1030900013",
+    "code": "1030900013",
+    "name": "Mainit",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "city_municipality": {
+      "id": "1030900000",
+      "code": "1030900000",
+      "name": "City of Iligan"
+    }
+  },
+  {
+    "id": "1030900014",
+    "code": "1030900014",
+    "name": "Mandulog",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "city_municipality": {
+      "id": "1030900000",
+      "code": "1030900000",
+      "name": "City of Iligan"
+    }
+  },
+  {
+    "id": "1030900015",
+    "code": "1030900015",
+    "name": "Maria Cristina",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "city_municipality": {
+      "id": "1030900000",
+      "code": "1030900000",
+      "name": "City of Iligan"
+    }
+  },
+  {
+    "id": "1030900016",
+    "code": "1030900016",
+    "name": "Palao",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "city_municipality": {
+      "id": "1030900000",
+      "code": "1030900000",
+      "name": "City of Iligan"
+    }
+  },
+  {
+    "id": "1030900044",
+    "code": "1030900044",
+    "name": "Panoroganan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "city_municipality": {
+      "id": "1030900000",
+      "code": "1030900000",
+      "name": "City of Iligan"
+    }
+  },
+  {
+    "id": "1030900017",
+    "code": "1030900017",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "city_municipality": {
+      "id": "1030900000",
+      "code": "1030900000",
+      "name": "City of Iligan"
+    }
+  },
+  {
+    "id": "1030900018",
+    "code": "1030900018",
+    "name": "Puga-an",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "city_municipality": {
+      "id": "1030900000",
+      "code": "1030900000",
+      "name": "City of Iligan"
+    }
+  },
+  {
+    "id": "1030900019",
+    "code": "1030900019",
+    "name": "Rogongon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "city_municipality": {
+      "id": "1030900000",
+      "code": "1030900000",
+      "name": "City of Iligan"
+    }
+  },
+  {
+    "id": "1030900034",
+    "code": "1030900034",
+    "name": "San Miguel",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "city_municipality": {
+      "id": "1030900000",
+      "code": "1030900000",
+      "name": "City of Iligan"
+    }
+  },
+  {
+    "id": "1030900045",
+    "code": "1030900045",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "city_municipality": {
+      "id": "1030900000",
+      "code": "1030900000",
+      "name": "City of Iligan"
+    }
+  },
+  {
+    "id": "1030900021",
+    "code": "1030900021",
+    "name": "Santa Elena",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "city_municipality": {
+      "id": "1030900000",
+      "code": "1030900000",
+      "name": "City of Iligan"
+    }
+  },
+  {
+    "id": "1030900022",
+    "code": "1030900022",
+    "name": "Santa Filomena",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "city_municipality": {
+      "id": "1030900000",
+      "code": "1030900000",
+      "name": "City of Iligan"
+    }
+  },
+  {
+    "id": "1030900035",
+    "code": "1030900035",
+    "name": "Santiago",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "city_municipality": {
+      "id": "1030900000",
+      "code": "1030900000",
+      "name": "City of Iligan"
+    }
+  },
+  {
+    "id": "1030900036",
+    "code": "1030900036",
+    "name": "Santo Rosario",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "city_municipality": {
+      "id": "1030900000",
+      "code": "1030900000",
+      "name": "City of Iligan"
+    }
+  },
+  {
+    "id": "1030900026",
+    "code": "1030900026",
+    "name": "Saray",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "city_municipality": {
+      "id": "1030900000",
+      "code": "1030900000",
+      "name": "City of Iligan"
+    }
+  },
+  {
+    "id": "1030900024",
+    "code": "1030900024",
+    "name": "Suarez",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "city_municipality": {
+      "id": "1030900000",
+      "code": "1030900000",
+      "name": "City of Iligan"
+    }
+  },
+  {
+    "id": "1030900025",
+    "code": "1030900025",
+    "name": "Tambacan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "city_municipality": {
+      "id": "1030900000",
+      "code": "1030900000",
+      "name": "City of Iligan"
+    }
+  },
+  {
+    "id": "1030900037",
+    "code": "1030900037",
+    "name": "Tibanga",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "city_municipality": {
+      "id": "1030900000",
+      "code": "1030900000",
+      "name": "City of Iligan"
+    }
+  },
+  {
+    "id": "1030900027",
+    "code": "1030900027",
+    "name": "Tipanoy",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "city_municipality": {
+      "id": "1030900000",
+      "code": "1030900000",
+      "name": "City of Iligan"
+    }
+  },
+  {
+    "id": "1030900028",
+    "code": "1030900028",
+    "name": "Tomas L. Cabili",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "city_municipality": {
+      "id": "1030900000",
+      "code": "1030900000",
+      "name": "City of Iligan"
+    }
+  },
+  {
+    "id": "1030900030",
+    "code": "1030900030",
+    "name": "Tubod",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "city_municipality": {
+      "id": "1030900000",
+      "code": "1030900000",
+      "name": "City of Iligan"
+    }
+  },
+  {
+    "id": "1030900046",
+    "code": "1030900046",
+    "name": "Ubaldo Laya",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "city_municipality": {
+      "id": "1030900000",
+      "code": "1030900000",
+      "name": "City of Iligan"
+    }
+  },
+  {
+    "id": "1030900047",
+    "code": "1030900047",
+    "name": "Upper Hinaplanon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "city_municipality": {
+      "id": "1030900000",
+      "code": "1030900000",
+      "name": "City of Iligan"
+    }
+  },
+  {
+    "id": "1030900029",
+    "code": "1030900029",
+    "name": "Upper Tominobo",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "city_municipality": {
+      "id": "1030900000",
+      "code": "1030900000",
+      "name": "City of Iligan"
+    }
+  },
+  {
+    "id": "1030900048",
+    "code": "1030900048",
+    "name": "Villa Verde",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "city_municipality": {
+      "id": "1030900000",
+      "code": "1030900000",
+      "name": "City of Iligan"
+    }
+  }
+]

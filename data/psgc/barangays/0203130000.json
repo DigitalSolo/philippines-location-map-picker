@@ -1,0 +1,401 @@
+[
+  {
+    "id": "0203130001",
+    "code": "0203130001",
+    "name": "Agliam",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203130000",
+      "code": "0203130000",
+      "name": "San Manuel"
+    }
+  },
+  {
+    "id": "0203130002",
+    "code": "0203130002",
+    "name": "Babanuang",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203130000",
+      "code": "0203130000",
+      "name": "San Manuel"
+    }
+  },
+  {
+    "id": "0203130003",
+    "code": "0203130003",
+    "name": "Cabaritan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203130000",
+      "code": "0203130000",
+      "name": "San Manuel"
+    }
+  },
+  {
+    "id": "0203130004",
+    "code": "0203130004",
+    "name": "Caraniogan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203130000",
+      "code": "0203130000",
+      "name": "San Manuel"
+    }
+  },
+  {
+    "id": "0203130011",
+    "code": "0203130011",
+    "name": "District 1",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203130000",
+      "code": "0203130000",
+      "name": "San Manuel"
+    }
+  },
+  {
+    "id": "0203130012",
+    "code": "0203130012",
+    "name": "District 2",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203130000",
+      "code": "0203130000",
+      "name": "San Manuel"
+    }
+  },
+  {
+    "id": "0203130013",
+    "code": "0203130013",
+    "name": "District 3",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203130000",
+      "code": "0203130000",
+      "name": "San Manuel"
+    }
+  },
+  {
+    "id": "0203130014",
+    "code": "0203130014",
+    "name": "District 4",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203130000",
+      "code": "0203130000",
+      "name": "San Manuel"
+    }
+  },
+  {
+    "id": "0203130006",
+    "code": "0203130006",
+    "name": "Eden",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203130000",
+      "code": "0203130000",
+      "name": "San Manuel"
+    }
+  },
+  {
+    "id": "0203130007",
+    "code": "0203130007",
+    "name": "Malalinta",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203130000",
+      "code": "0203130000",
+      "name": "San Manuel"
+    }
+  },
+  {
+    "id": "0203130008",
+    "code": "0203130008",
+    "name": "Mararigue",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203130000",
+      "code": "0203130000",
+      "name": "San Manuel"
+    }
+  },
+  {
+    "id": "0203130009",
+    "code": "0203130009",
+    "name": "Nueva Era",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203130000",
+      "code": "0203130000",
+      "name": "San Manuel"
+    }
+  },
+  {
+    "id": "0203130010",
+    "code": "0203130010",
+    "name": "Pisang",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203130000",
+      "code": "0203130000",
+      "name": "San Manuel"
+    }
+  },
+  {
+    "id": "0203130015",
+    "code": "0203130015",
+    "name": "San Francisco",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203130000",
+      "code": "0203130000",
+      "name": "San Manuel"
+    }
+  },
+  {
+    "id": "0203130016",
+    "code": "0203130016",
+    "name": "Sandiat Centro",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203130000",
+      "code": "0203130000",
+      "name": "San Manuel"
+    }
+  },
+  {
+    "id": "0203130017",
+    "code": "0203130017",
+    "name": "Sandiat East",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203130000",
+      "code": "0203130000",
+      "name": "San Manuel"
+    }
+  },
+  {
+    "id": "0203130018",
+    "code": "0203130018",
+    "name": "Sandiat West",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203130000",
+      "code": "0203130000",
+      "name": "San Manuel"
+    }
+  },
+  {
+    "id": "0203130019",
+    "code": "0203130019",
+    "name": "Sta. Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203130000",
+      "code": "0203130000",
+      "name": "San Manuel"
+    }
+  },
+  {
+    "id": "0203130020",
+    "code": "0203130020",
+    "name": "Villanueva",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203130000",
+      "code": "0203130000",
+      "name": "San Manuel"
+    }
+  }
+]

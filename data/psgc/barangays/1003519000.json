@@ -1,0 +1,359 @@
+[
+  {
+    "id": "1003519001",
+    "code": "1003519001",
+    "name": "Baning",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003519000",
+      "code": "1003519000",
+      "name": "Sapad"
+    }
+  },
+  {
+    "id": "1003519002",
+    "code": "1003519002",
+    "name": "Buriasan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003519000",
+      "code": "1003519000",
+      "name": "Sapad"
+    }
+  },
+  {
+    "id": "1003519004",
+    "code": "1003519004",
+    "name": "Dansalan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003519000",
+      "code": "1003519000",
+      "name": "Sapad"
+    }
+  },
+  {
+    "id": "1003519005",
+    "code": "1003519005",
+    "name": "Gamal",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003519000",
+      "code": "1003519000",
+      "name": "Sapad"
+    }
+  },
+  {
+    "id": "1003519006",
+    "code": "1003519006",
+    "name": "Inudaran I",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003519000",
+      "code": "1003519000",
+      "name": "Sapad"
+    }
+  },
+  {
+    "id": "1003519007",
+    "code": "1003519007",
+    "name": "Inudaran II",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003519000",
+      "code": "1003519000",
+      "name": "Sapad"
+    }
+  },
+  {
+    "id": "1003519008",
+    "code": "1003519008",
+    "name": "Karkum",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003519000",
+      "code": "1003519000",
+      "name": "Sapad"
+    }
+  },
+  {
+    "id": "1003519009",
+    "code": "1003519009",
+    "name": "Katipunan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003519000",
+      "code": "1003519000",
+      "name": "Sapad"
+    }
+  },
+  {
+    "id": "1003519010",
+    "code": "1003519010",
+    "name": "Mabugnao",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003519000",
+      "code": "1003519000",
+      "name": "Sapad"
+    }
+  },
+  {
+    "id": "1003519011",
+    "code": "1003519011",
+    "name": "Maito Salug",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003519000",
+      "code": "1003519000",
+      "name": "Sapad"
+    }
+  },
+  {
+    "id": "1003519012",
+    "code": "1003519012",
+    "name": "Mala Salug",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003519000",
+      "code": "1003519000",
+      "name": "Sapad"
+    }
+  },
+  {
+    "id": "1003519013",
+    "code": "1003519013",
+    "name": "Mama-anon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003519000",
+      "code": "1003519000",
+      "name": "Sapad"
+    }
+  },
+  {
+    "id": "1003519014",
+    "code": "1003519014",
+    "name": "Mapurog",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003519000",
+      "code": "1003519000",
+      "name": "Sapad"
+    }
+  },
+  {
+    "id": "1003519016",
+    "code": "1003519016",
+    "name": "Pancilan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003519000",
+      "code": "1003519000",
+      "name": "Sapad"
+    }
+  },
+  {
+    "id": "1003519017",
+    "code": "1003519017",
+    "name": "Panoloon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003519000",
+      "code": "1003519000",
+      "name": "Sapad"
+    }
+  },
+  {
+    "id": "1003519018",
+    "code": "1003519018",
+    "name": "Pili",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003519000",
+      "code": "1003519000",
+      "name": "Sapad"
+    }
+  },
+  {
+    "id": "1003519019",
+    "code": "1003519019",
+    "name": "Sapad",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003519000",
+      "code": "1003519000",
+      "name": "Sapad"
+    }
+  }
+]

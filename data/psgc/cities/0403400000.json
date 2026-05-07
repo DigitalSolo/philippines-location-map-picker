@@ -1,0 +1,482 @@
+[
+  {
+    "id": "0403401000",
+    "code": "0403401000",
+    "name": "Alaminos",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    }
+  },
+  {
+    "id": "0403402000",
+    "code": "0403402000",
+    "name": "Bay",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    }
+  },
+  {
+    "id": "0403406000",
+    "code": "0403406000",
+    "name": "Calauan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    }
+  },
+  {
+    "id": "0403407000",
+    "code": "0403407000",
+    "name": "Cavinti",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    }
+  },
+  {
+    "id": "0403403000",
+    "code": "0403403000",
+    "name": "City of Biñan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    }
+  },
+  {
+    "id": "0403404000",
+    "code": "0403404000",
+    "name": "City of Cabuyao",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    }
+  },
+  {
+    "id": "0403405000",
+    "code": "0403405000",
+    "name": "City of Calamba",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    }
+  },
+  {
+    "id": "0403424000",
+    "code": "0403424000",
+    "name": "City of San Pablo",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    }
+  },
+  {
+    "id": "0403425000",
+    "code": "0403425000",
+    "name": "City of San Pedro",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    }
+  },
+  {
+    "id": "0403428000",
+    "code": "0403428000",
+    "name": "City of Santa Rosa",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    }
+  },
+  {
+    "id": "0403408000",
+    "code": "0403408000",
+    "name": "Famy",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    }
+  },
+  {
+    "id": "0403409000",
+    "code": "0403409000",
+    "name": "Kalayaan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    }
+  },
+  {
+    "id": "0403410000",
+    "code": "0403410000",
+    "name": "Liliw",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    }
+  },
+  {
+    "id": "0403411000",
+    "code": "0403411000",
+    "name": "Los Baños",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    }
+  },
+  {
+    "id": "0403412000",
+    "code": "0403412000",
+    "name": "Luisiana",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    }
+  },
+  {
+    "id": "0403413000",
+    "code": "0403413000",
+    "name": "Lumban",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    }
+  },
+  {
+    "id": "0403414000",
+    "code": "0403414000",
+    "name": "Mabitac",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    }
+  },
+  {
+    "id": "0403415000",
+    "code": "0403415000",
+    "name": "Magdalena",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    }
+  },
+  {
+    "id": "0403416000",
+    "code": "0403416000",
+    "name": "Majayjay",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    }
+  },
+  {
+    "id": "0403417000",
+    "code": "0403417000",
+    "name": "Nagcarlan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    }
+  },
+  {
+    "id": "0403418000",
+    "code": "0403418000",
+    "name": "Paete",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    }
+  },
+  {
+    "id": "0403419000",
+    "code": "0403419000",
+    "name": "Pagsanjan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    }
+  },
+  {
+    "id": "0403420000",
+    "code": "0403420000",
+    "name": "Pakil",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    }
+  },
+  {
+    "id": "0403421000",
+    "code": "0403421000",
+    "name": "Pangil",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    }
+  },
+  {
+    "id": "0403422000",
+    "code": "0403422000",
+    "name": "Pila",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    }
+  },
+  {
+    "id": "0403423000",
+    "code": "0403423000",
+    "name": "Rizal",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    }
+  },
+  {
+    "id": "0403426000",
+    "code": "0403426000",
+    "name": "Santa Cruz",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    }
+  },
+  {
+    "id": "0403427000",
+    "code": "0403427000",
+    "name": "Santa Maria",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    }
+  },
+  {
+    "id": "0403429000",
+    "code": "0403429000",
+    "name": "Siniloan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    }
+  },
+  {
+    "id": "0403430000",
+    "code": "0403430000",
+    "name": "Victoria",
+    "type": "city_municipality",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    }
+  }
+]

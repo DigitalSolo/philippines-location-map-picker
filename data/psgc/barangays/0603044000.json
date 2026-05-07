@@ -1,0 +1,884 @@
+[
+  {
+    "id": "0603044001",
+    "code": "0603044001",
+    "name": "Aguirre",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603044000",
+      "code": "0603044000",
+      "name": "Sara"
+    }
+  },
+  {
+    "id": "0603044002",
+    "code": "0603044002",
+    "name": "Aldeguer",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603044000",
+      "code": "0603044000",
+      "name": "Sara"
+    }
+  },
+  {
+    "id": "0603044003",
+    "code": "0603044003",
+    "name": "Alibayog",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603044000",
+      "code": "0603044000",
+      "name": "Sara"
+    }
+  },
+  {
+    "id": "0603044004",
+    "code": "0603044004",
+    "name": "Anoring",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603044000",
+      "code": "0603044000",
+      "name": "Sara"
+    }
+  },
+  {
+    "id": "0603044005",
+    "code": "0603044005",
+    "name": "Apelo",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603044000",
+      "code": "0603044000",
+      "name": "Sara"
+    }
+  },
+  {
+    "id": "0603044006",
+    "code": "0603044006",
+    "name": "Apologista",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603044000",
+      "code": "0603044000",
+      "name": "Sara"
+    }
+  },
+  {
+    "id": "0603044007",
+    "code": "0603044007",
+    "name": "Aposaga",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603044000",
+      "code": "0603044000",
+      "name": "Sara"
+    }
+  },
+  {
+    "id": "0603044008",
+    "code": "0603044008",
+    "name": "Arante",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603044000",
+      "code": "0603044000",
+      "name": "Sara"
+    }
+  },
+  {
+    "id": "0603044009",
+    "code": "0603044009",
+    "name": "Ardemil",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603044000",
+      "code": "0603044000",
+      "name": "Sara"
+    }
+  },
+  {
+    "id": "0603044010",
+    "code": "0603044010",
+    "name": "Aspera",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603044000",
+      "code": "0603044000",
+      "name": "Sara"
+    }
+  },
+  {
+    "id": "0603044011",
+    "code": "0603044011",
+    "name": "Aswe-Pabriaga",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603044000",
+      "code": "0603044000",
+      "name": "Sara"
+    }
+  },
+  {
+    "id": "0603044012",
+    "code": "0603044012",
+    "name": "Bagaygay",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603044000",
+      "code": "0603044000",
+      "name": "Sara"
+    }
+  },
+  {
+    "id": "0603044013",
+    "code": "0603044013",
+    "name": "Bakabak",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603044000",
+      "code": "0603044000",
+      "name": "Sara"
+    }
+  },
+  {
+    "id": "0603044014",
+    "code": "0603044014",
+    "name": "Batitao",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603044000",
+      "code": "0603044000",
+      "name": "Sara"
+    }
+  },
+  {
+    "id": "0603044015",
+    "code": "0603044015",
+    "name": "Bato",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603044000",
+      "code": "0603044000",
+      "name": "Sara"
+    }
+  },
+  {
+    "id": "0603044017",
+    "code": "0603044017",
+    "name": "Castor",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603044000",
+      "code": "0603044000",
+      "name": "Sara"
+    }
+  },
+  {
+    "id": "0603044018",
+    "code": "0603044018",
+    "name": "Crespo",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603044000",
+      "code": "0603044000",
+      "name": "Sara"
+    }
+  },
+  {
+    "id": "0603044016",
+    "code": "0603044016",
+    "name": "Del Castillo",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603044000",
+      "code": "0603044000",
+      "name": "Sara"
+    }
+  },
+  {
+    "id": "0603044020",
+    "code": "0603044020",
+    "name": "Devera",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603044000",
+      "code": "0603044000",
+      "name": "Sara"
+    }
+  },
+  {
+    "id": "0603044021",
+    "code": "0603044021",
+    "name": "Domingo",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603044000",
+      "code": "0603044000",
+      "name": "Sara"
+    }
+  },
+  {
+    "id": "0603044022",
+    "code": "0603044022",
+    "name": "Ferraris",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603044000",
+      "code": "0603044000",
+      "name": "Sara"
+    }
+  },
+  {
+    "id": "0603044023",
+    "code": "0603044023",
+    "name": "Gildore",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603044000",
+      "code": "0603044000",
+      "name": "Sara"
+    }
+  },
+  {
+    "id": "0603044024",
+    "code": "0603044024",
+    "name": "Improgo",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603044000",
+      "code": "0603044000",
+      "name": "Sara"
+    }
+  },
+  {
+    "id": "0603044025",
+    "code": "0603044025",
+    "name": "Juaneza",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603044000",
+      "code": "0603044000",
+      "name": "Sara"
+    }
+  },
+  {
+    "id": "0603044026",
+    "code": "0603044026",
+    "name": "Labigan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603044000",
+      "code": "0603044000",
+      "name": "Sara"
+    }
+  },
+  {
+    "id": "0603044027",
+    "code": "0603044027",
+    "name": "Lanciola",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603044000",
+      "code": "0603044000",
+      "name": "Sara"
+    }
+  },
+  {
+    "id": "0603044028",
+    "code": "0603044028",
+    "name": "Latawan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603044000",
+      "code": "0603044000",
+      "name": "Sara"
+    }
+  },
+  {
+    "id": "0603044029",
+    "code": "0603044029",
+    "name": "Malapaya",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603044000",
+      "code": "0603044000",
+      "name": "Sara"
+    }
+  },
+  {
+    "id": "0603044030",
+    "code": "0603044030",
+    "name": "Muyco",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603044000",
+      "code": "0603044000",
+      "name": "Sara"
+    }
+  },
+  {
+    "id": "0603044031",
+    "code": "0603044031",
+    "name": "Padios",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603044000",
+      "code": "0603044000",
+      "name": "Sara"
+    }
+  },
+  {
+    "id": "0603044032",
+    "code": "0603044032",
+    "name": "Pasig",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603044000",
+      "code": "0603044000",
+      "name": "Sara"
+    }
+  },
+  {
+    "id": "0603044033",
+    "code": "0603044033",
+    "name": "Poblacion Ilawod",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603044000",
+      "code": "0603044000",
+      "name": "Sara"
+    }
+  },
+  {
+    "id": "0603044034",
+    "code": "0603044034",
+    "name": "Poblacion Ilaya",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603044000",
+      "code": "0603044000",
+      "name": "Sara"
+    }
+  },
+  {
+    "id": "0603044035",
+    "code": "0603044035",
+    "name": "Poblacion Market",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603044000",
+      "code": "0603044000",
+      "name": "Sara"
+    }
+  },
+  {
+    "id": "0603044036",
+    "code": "0603044036",
+    "name": "Posadas",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603044000",
+      "code": "0603044000",
+      "name": "Sara"
+    }
+  },
+  {
+    "id": "0603044037",
+    "code": "0603044037",
+    "name": "Preciosa",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603044000",
+      "code": "0603044000",
+      "name": "Sara"
+    }
+  },
+  {
+    "id": "0603044038",
+    "code": "0603044038",
+    "name": "Salcedo",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603044000",
+      "code": "0603044000",
+      "name": "Sara"
+    }
+  },
+  {
+    "id": "0603044039",
+    "code": "0603044039",
+    "name": "San Luis",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603044000",
+      "code": "0603044000",
+      "name": "Sara"
+    }
+  },
+  {
+    "id": "0603044040",
+    "code": "0603044040",
+    "name": "Tady",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603044000",
+      "code": "0603044000",
+      "name": "Sara"
+    }
+  },
+  {
+    "id": "0603044041",
+    "code": "0603044041",
+    "name": "Tentay",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603044000",
+      "code": "0603044000",
+      "name": "Sara"
+    }
+  },
+  {
+    "id": "0603044042",
+    "code": "0603044042",
+    "name": "Villahermosa",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603044000",
+      "code": "0603044000",
+      "name": "Sara"
+    }
+  },
+  {
+    "id": "0603044043",
+    "code": "0603044043",
+    "name": "Zerrudo",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603044000",
+      "code": "0603044000",
+      "name": "Sara"
+    }
+  }
+]

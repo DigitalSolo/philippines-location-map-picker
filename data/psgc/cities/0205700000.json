@@ -1,0 +1,98 @@
+[
+  {
+    "id": "0205701000",
+    "code": "0205701000",
+    "name": "Aglipay",
+    "type": "city_municipality",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    }
+  },
+  {
+    "id": "0205702000",
+    "code": "0205702000",
+    "name": "Cabarroguis",
+    "type": "city_municipality",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    }
+  },
+  {
+    "id": "0205703000",
+    "code": "0205703000",
+    "name": "Diffun",
+    "type": "city_municipality",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    }
+  },
+  {
+    "id": "0205704000",
+    "code": "0205704000",
+    "name": "Maddela",
+    "type": "city_municipality",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    }
+  },
+  {
+    "id": "0205706000",
+    "code": "0205706000",
+    "name": "Nagtipunan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    }
+  },
+  {
+    "id": "0205705000",
+    "code": "0205705000",
+    "name": "Saguday",
+    "type": "city_municipality",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    }
+  }
+]

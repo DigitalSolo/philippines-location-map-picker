@@ -1,0 +1,191 @@
+[
+  {
+    "id": "0205014009",
+    "code": "0205014009",
+    "name": "Bintawan Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205014000",
+      "code": "0205014000",
+      "name": "Villaverde"
+    }
+  },
+  {
+    "id": "0205014001",
+    "code": "0205014001",
+    "name": "Bintawan Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205014000",
+      "code": "0205014000",
+      "name": "Villaverde"
+    }
+  },
+  {
+    "id": "0205014003",
+    "code": "0205014003",
+    "name": "Cabuluan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205014000",
+      "code": "0205014000",
+      "name": "Villaverde"
+    }
+  },
+  {
+    "id": "0205014002",
+    "code": "0205014002",
+    "name": "Ibung",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205014000",
+      "code": "0205014000",
+      "name": "Villaverde"
+    }
+  },
+  {
+    "id": "0205014004",
+    "code": "0205014004",
+    "name": "Nagbitin",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205014000",
+      "code": "0205014000",
+      "name": "Villaverde"
+    }
+  },
+  {
+    "id": "0205014005",
+    "code": "0205014005",
+    "name": "Ocapon",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205014000",
+      "code": "0205014000",
+      "name": "Villaverde"
+    }
+  },
+  {
+    "id": "0205014006",
+    "code": "0205014006",
+    "name": "Pieza",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205014000",
+      "code": "0205014000",
+      "name": "Villaverde"
+    }
+  },
+  {
+    "id": "0205014008",
+    "code": "0205014008",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205014000",
+      "code": "0205014000",
+      "name": "Villaverde"
+    }
+  },
+  {
+    "id": "0205014007",
+    "code": "0205014007",
+    "name": "Sawmill",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205014000",
+      "code": "0205014000",
+      "name": "Villaverde"
+    }
+  }
+]

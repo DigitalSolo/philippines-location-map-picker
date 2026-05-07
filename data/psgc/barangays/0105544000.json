@@ -1,0 +1,1220 @@
+[
+  {
+    "id": "0105544001",
+    "code": "0105544001",
+    "name": "Abot Molina",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544002",
+    "code": "0105544002",
+    "name": "Alo-o",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544003",
+    "code": "0105544003",
+    "name": "Amaronan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544004",
+    "code": "0105544004",
+    "name": "Annam",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544005",
+    "code": "0105544005",
+    "name": "Bantug",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544006",
+    "code": "0105544006",
+    "name": "Baracbac",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544007",
+    "code": "0105544007",
+    "name": "Barat",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544008",
+    "code": "0105544008",
+    "name": "Buenavista",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544010",
+    "code": "0105544010",
+    "name": "Cabalitian",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544060",
+    "code": "0105544060",
+    "name": "Cabangaran",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544011",
+    "code": "0105544011",
+    "name": "Cabaruan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544012",
+    "code": "0105544012",
+    "name": "Cabatuan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544013",
+    "code": "0105544013",
+    "name": "Cadiz",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544014",
+    "code": "0105544014",
+    "name": "Calitlitan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544015",
+    "code": "0105544015",
+    "name": "Capas",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544061",
+    "code": "0105544061",
+    "name": "Carayungan Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544017",
+    "code": "0105544017",
+    "name": "Carosalesan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544018",
+    "code": "0105544018",
+    "name": "Casilan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544019",
+    "code": "0105544019",
+    "name": "Caurdanetaan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544020",
+    "code": "0105544020",
+    "name": "Concepcion",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544021",
+    "code": "0105544021",
+    "name": "Decreto",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544062",
+    "code": "0105544062",
+    "name": "Del Rosario",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544022",
+    "code": "0105544022",
+    "name": "Diaz",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544023",
+    "code": "0105544023",
+    "name": "Diket",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544024",
+    "code": "0105544024",
+    "name": "Don Justo Abalos",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544025",
+    "code": "0105544025",
+    "name": "Don Montano",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544026",
+    "code": "0105544026",
+    "name": "Esperanza",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544027",
+    "code": "0105544027",
+    "name": "Evangelista",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544028",
+    "code": "0105544028",
+    "name": "Flores",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544029",
+    "code": "0105544029",
+    "name": "Fulgosino",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544030",
+    "code": "0105544030",
+    "name": "Gonzales",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544031",
+    "code": "0105544031",
+    "name": "La Paz",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544032",
+    "code": "0105544032",
+    "name": "Labuan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544033",
+    "code": "0105544033",
+    "name": "Lauren",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544034",
+    "code": "0105544034",
+    "name": "Lubong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544036",
+    "code": "0105544036",
+    "name": "Luna Este",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544035",
+    "code": "0105544035",
+    "name": "Luna Weste",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544037",
+    "code": "0105544037",
+    "name": "Mantacdang",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544038",
+    "code": "0105544038",
+    "name": "Maseil-seil",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544039",
+    "code": "0105544039",
+    "name": "Nampalcan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544040",
+    "code": "0105544040",
+    "name": "Nancalabasaan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544041",
+    "code": "0105544041",
+    "name": "Pangangaan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544042",
+    "code": "0105544042",
+    "name": "Papallasen",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544044",
+    "code": "0105544044",
+    "name": "Pemienta",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544046",
+    "code": "0105544046",
+    "name": "Poblacion East",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544047",
+    "code": "0105544047",
+    "name": "Poblacion West",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544048",
+    "code": "0105544048",
+    "name": "Prado",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544049",
+    "code": "0105544049",
+    "name": "Resurreccion",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544050",
+    "code": "0105544050",
+    "name": "Ricos",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544051",
+    "code": "0105544051",
+    "name": "San Andres",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544052",
+    "code": "0105544052",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544053",
+    "code": "0105544053",
+    "name": "San Leon",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544054",
+    "code": "0105544054",
+    "name": "San Pablo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544055",
+    "code": "0105544055",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544056",
+    "code": "0105544056",
+    "name": "Santa Maria",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544057",
+    "code": "0105544057",
+    "name": "Santa Rosa",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544058",
+    "code": "0105544058",
+    "name": "Sinabaan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  },
+  {
+    "id": "0105544059",
+    "code": "0105544059",
+    "name": "Tanggal Sawang",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105544000",
+      "code": "0105544000",
+      "name": "Umingan"
+    }
+  }
+]

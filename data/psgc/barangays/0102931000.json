@@ -1,0 +1,128 @@
+[
+  {
+    "id": "0102931008",
+    "code": "0102931008",
+    "name": "Balbalayang",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102931000",
+      "code": "0102931000",
+      "name": "Sugpon"
+    }
+  },
+  {
+    "id": "0102931001",
+    "code": "0102931001",
+    "name": "Banga",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102931000",
+      "code": "0102931000",
+      "name": "Sugpon"
+    }
+  },
+  {
+    "id": "0102931002",
+    "code": "0102931002",
+    "name": "Caoayan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102931000",
+      "code": "0102931000",
+      "name": "Sugpon"
+    }
+  },
+  {
+    "id": "0102931005",
+    "code": "0102931005",
+    "name": "Danac",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102931000",
+      "code": "0102931000",
+      "name": "Sugpon"
+    }
+  },
+  {
+    "id": "0102931004",
+    "code": "0102931004",
+    "name": "Licungan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102931000",
+      "code": "0102931000",
+      "name": "Sugpon"
+    }
+  },
+  {
+    "id": "0102931007",
+    "code": "0102931007",
+    "name": "Pangotan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102931000",
+      "code": "0102931000",
+      "name": "Sugpon"
+    }
+  }
+]

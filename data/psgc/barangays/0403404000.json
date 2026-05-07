@@ -1,0 +1,380 @@
+[
+  {
+    "id": "0403404001",
+    "code": "0403404001",
+    "name": "Baclaran",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403404000",
+      "code": "0403404000",
+      "name": "City of Cabuyao"
+    }
+  },
+  {
+    "id": "0403404002",
+    "code": "0403404002",
+    "name": "Banaybanay",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403404000",
+      "code": "0403404000",
+      "name": "City of Cabuyao"
+    }
+  },
+  {
+    "id": "0403404003",
+    "code": "0403404003",
+    "name": "Banlic",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403404000",
+      "code": "0403404000",
+      "name": "City of Cabuyao"
+    }
+  },
+  {
+    "id": "0403404018",
+    "code": "0403404018",
+    "name": "Barangay Dos",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403404000",
+      "code": "0403404000",
+      "name": "City of Cabuyao"
+    }
+  },
+  {
+    "id": "0403404019",
+    "code": "0403404019",
+    "name": "Barangay Tres",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403404000",
+      "code": "0403404000",
+      "name": "City of Cabuyao"
+    }
+  },
+  {
+    "id": "0403404017",
+    "code": "0403404017",
+    "name": "Barangay Uno",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403404000",
+      "code": "0403404000",
+      "name": "City of Cabuyao"
+    }
+  },
+  {
+    "id": "0403404005",
+    "code": "0403404005",
+    "name": "Bigaa",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403404000",
+      "code": "0403404000",
+      "name": "City of Cabuyao"
+    }
+  },
+  {
+    "id": "0403404004",
+    "code": "0403404004",
+    "name": "Butong",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403404000",
+      "code": "0403404000",
+      "name": "City of Cabuyao"
+    }
+  },
+  {
+    "id": "0403404006",
+    "code": "0403404006",
+    "name": "Casile",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403404000",
+      "code": "0403404000",
+      "name": "City of Cabuyao"
+    }
+  },
+  {
+    "id": "0403404016",
+    "code": "0403404016",
+    "name": "Diezmo",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403404000",
+      "code": "0403404000",
+      "name": "City of Cabuyao"
+    }
+  },
+  {
+    "id": "0403404007",
+    "code": "0403404007",
+    "name": "Gulod",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403404000",
+      "code": "0403404000",
+      "name": "City of Cabuyao"
+    }
+  },
+  {
+    "id": "0403404009",
+    "code": "0403404009",
+    "name": "Mamatid",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403404000",
+      "code": "0403404000",
+      "name": "City of Cabuyao"
+    }
+  },
+  {
+    "id": "0403404010",
+    "code": "0403404010",
+    "name": "Marinig",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403404000",
+      "code": "0403404000",
+      "name": "City of Cabuyao"
+    }
+  },
+  {
+    "id": "0403404011",
+    "code": "0403404011",
+    "name": "Niugan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403404000",
+      "code": "0403404000",
+      "name": "City of Cabuyao"
+    }
+  },
+  {
+    "id": "0403404012",
+    "code": "0403404012",
+    "name": "Pittland",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403404000",
+      "code": "0403404000",
+      "name": "City of Cabuyao"
+    }
+  },
+  {
+    "id": "0403404013",
+    "code": "0403404013",
+    "name": "Pulo",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403404000",
+      "code": "0403404000",
+      "name": "City of Cabuyao"
+    }
+  },
+  {
+    "id": "0403404014",
+    "code": "0403404014",
+    "name": "Sala",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403404000",
+      "code": "0403404000",
+      "name": "City of Cabuyao"
+    }
+  },
+  {
+    "id": "0403404015",
+    "code": "0403404015",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403404000",
+      "code": "0403404000",
+      "name": "City of Cabuyao"
+    }
+  }
+]

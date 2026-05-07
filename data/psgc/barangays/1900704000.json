@@ -1,0 +1,422 @@
+[
+  {
+    "id": "1900704001",
+    "code": "1900704001",
+    "name": "Abong-Abong",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900704000",
+      "code": "1900704000",
+      "name": "Maluso"
+    }
+  },
+  {
+    "id": "1900704002",
+    "code": "1900704002",
+    "name": "Batungal",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900704000",
+      "code": "1900704000",
+      "name": "Maluso"
+    }
+  },
+  {
+    "id": "1900704003",
+    "code": "1900704003",
+    "name": "Calang Canas",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900704000",
+      "code": "1900704000",
+      "name": "Maluso"
+    }
+  },
+  {
+    "id": "1900704016",
+    "code": "1900704016",
+    "name": "Fuente Maluso",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900704000",
+      "code": "1900704000",
+      "name": "Maluso"
+    }
+  },
+  {
+    "id": "1900704004",
+    "code": "1900704004",
+    "name": "Guanan North",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900704000",
+      "code": "1900704000",
+      "name": "Maluso"
+    }
+  },
+  {
+    "id": "1900704005",
+    "code": "1900704005",
+    "name": "Guanan South",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900704000",
+      "code": "1900704000",
+      "name": "Maluso"
+    }
+  },
+  {
+    "id": "1900704006",
+    "code": "1900704006",
+    "name": "Limbubong",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900704000",
+      "code": "1900704000",
+      "name": "Maluso"
+    }
+  },
+  {
+    "id": "1900704007",
+    "code": "1900704007",
+    "name": "Mahayahay Lower",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900704000",
+      "code": "1900704000",
+      "name": "Maluso"
+    }
+  },
+  {
+    "id": "1900704019",
+    "code": "1900704019",
+    "name": "Mahayahay Upper",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900704000",
+      "code": "1900704000",
+      "name": "Maluso"
+    }
+  },
+  {
+    "id": "1900704008",
+    "code": "1900704008",
+    "name": "Muslim Area",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900704000",
+      "code": "1900704000",
+      "name": "Maluso"
+    }
+  },
+  {
+    "id": "1900704009",
+    "code": "1900704009",
+    "name": "Port Holland Zone I Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900704000",
+      "code": "1900704000",
+      "name": "Maluso"
+    }
+  },
+  {
+    "id": "1900704010",
+    "code": "1900704010",
+    "name": "Port Holland Zone II Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900704000",
+      "code": "1900704000",
+      "name": "Maluso"
+    }
+  },
+  {
+    "id": "1900704011",
+    "code": "1900704011",
+    "name": "Port Holland Zone III Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900704000",
+      "code": "1900704000",
+      "name": "Maluso"
+    }
+  },
+  {
+    "id": "1900704012",
+    "code": "1900704012",
+    "name": "Port Holland Zone IV",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900704000",
+      "code": "1900704000",
+      "name": "Maluso"
+    }
+  },
+  {
+    "id": "1900704020",
+    "code": "1900704020",
+    "name": "Port Holland Zone V",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900704000",
+      "code": "1900704000",
+      "name": "Maluso"
+    }
+  },
+  {
+    "id": "1900704015",
+    "code": "1900704015",
+    "name": "Taberlongan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900704000",
+      "code": "1900704000",
+      "name": "Maluso"
+    }
+  },
+  {
+    "id": "1900704017",
+    "code": "1900704017",
+    "name": "Tamuk",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900704000",
+      "code": "1900704000",
+      "name": "Maluso"
+    }
+  },
+  {
+    "id": "1900704013",
+    "code": "1900704013",
+    "name": "Townsite",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900704000",
+      "code": "1900704000",
+      "name": "Maluso"
+    }
+  },
+  {
+    "id": "1900704018",
+    "code": "1900704018",
+    "name": "Tubigan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900704000",
+      "code": "1900704000",
+      "name": "Maluso"
+    }
+  },
+  {
+    "id": "1900704021",
+    "code": "1900704021",
+    "name": "Upper Garlayan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1900700000",
+      "code": "1900700000",
+      "name": "Basilan"
+    },
+    "city_municipality": {
+      "id": "1900704000",
+      "code": "1900704000",
+      "name": "Maluso"
+    }
+  }
+]

@@ -1,0 +1,695 @@
+[
+  {
+    "id": "0702222001",
+    "code": "0702222001",
+    "name": "Ablayan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702222000",
+      "code": "0702222000",
+      "name": "Dalaguete"
+    }
+  },
+  {
+    "id": "0702222002",
+    "code": "0702222002",
+    "name": "Babayongan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702222000",
+      "code": "0702222000",
+      "name": "Dalaguete"
+    }
+  },
+  {
+    "id": "0702222003",
+    "code": "0702222003",
+    "name": "Balud",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702222000",
+      "code": "0702222000",
+      "name": "Dalaguete"
+    }
+  },
+  {
+    "id": "0702222004",
+    "code": "0702222004",
+    "name": "Banhigan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702222000",
+      "code": "0702222000",
+      "name": "Dalaguete"
+    }
+  },
+  {
+    "id": "0702222005",
+    "code": "0702222005",
+    "name": "Bulak",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702222000",
+      "code": "0702222000",
+      "name": "Dalaguete"
+    }
+  },
+  {
+    "id": "0702222007",
+    "code": "0702222007",
+    "name": "Caleriohan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702222000",
+      "code": "0702222000",
+      "name": "Dalaguete"
+    }
+  },
+  {
+    "id": "0702222006",
+    "code": "0702222006",
+    "name": "Caliongan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702222000",
+      "code": "0702222000",
+      "name": "Dalaguete"
+    }
+  },
+  {
+    "id": "0702222008",
+    "code": "0702222008",
+    "name": "Casay",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702222000",
+      "code": "0702222000",
+      "name": "Dalaguete"
+    }
+  },
+  {
+    "id": "0702222009",
+    "code": "0702222009",
+    "name": "Catolohan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702222000",
+      "code": "0702222000",
+      "name": "Dalaguete"
+    }
+  },
+  {
+    "id": "0702222010",
+    "code": "0702222010",
+    "name": "Cawayan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702222000",
+      "code": "0702222000",
+      "name": "Dalaguete"
+    }
+  },
+  {
+    "id": "0702222011",
+    "code": "0702222011",
+    "name": "Consolacion",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702222000",
+      "code": "0702222000",
+      "name": "Dalaguete"
+    }
+  },
+  {
+    "id": "0702222012",
+    "code": "0702222012",
+    "name": "Coro",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702222000",
+      "code": "0702222000",
+      "name": "Dalaguete"
+    }
+  },
+  {
+    "id": "0702222013",
+    "code": "0702222013",
+    "name": "Dugyan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702222000",
+      "code": "0702222000",
+      "name": "Dalaguete"
+    }
+  },
+  {
+    "id": "0702222014",
+    "code": "0702222014",
+    "name": "Dumalan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702222000",
+      "code": "0702222000",
+      "name": "Dalaguete"
+    }
+  },
+  {
+    "id": "0702222015",
+    "code": "0702222015",
+    "name": "Jolomaynon",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702222000",
+      "code": "0702222000",
+      "name": "Dalaguete"
+    }
+  },
+  {
+    "id": "0702222016",
+    "code": "0702222016",
+    "name": "Lanao",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702222000",
+      "code": "0702222000",
+      "name": "Dalaguete"
+    }
+  },
+  {
+    "id": "0702222017",
+    "code": "0702222017",
+    "name": "Langkas",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702222000",
+      "code": "0702222000",
+      "name": "Dalaguete"
+    }
+  },
+  {
+    "id": "0702222018",
+    "code": "0702222018",
+    "name": "Lumbang",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702222000",
+      "code": "0702222000",
+      "name": "Dalaguete"
+    }
+  },
+  {
+    "id": "0702222019",
+    "code": "0702222019",
+    "name": "Malones",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702222000",
+      "code": "0702222000",
+      "name": "Dalaguete"
+    }
+  },
+  {
+    "id": "0702222020",
+    "code": "0702222020",
+    "name": "Maloray",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702222000",
+      "code": "0702222000",
+      "name": "Dalaguete"
+    }
+  },
+  {
+    "id": "0702222021",
+    "code": "0702222021",
+    "name": "Mananggal",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702222000",
+      "code": "0702222000",
+      "name": "Dalaguete"
+    }
+  },
+  {
+    "id": "0702222023",
+    "code": "0702222023",
+    "name": "Manlapay",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702222000",
+      "code": "0702222000",
+      "name": "Dalaguete"
+    }
+  },
+  {
+    "id": "0702222024",
+    "code": "0702222024",
+    "name": "Mantalongon",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702222000",
+      "code": "0702222000",
+      "name": "Dalaguete"
+    }
+  },
+  {
+    "id": "0702222025",
+    "code": "0702222025",
+    "name": "Nalhub",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702222000",
+      "code": "0702222000",
+      "name": "Dalaguete"
+    }
+  },
+  {
+    "id": "0702222026",
+    "code": "0702222026",
+    "name": "Obo",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702222000",
+      "code": "0702222000",
+      "name": "Dalaguete"
+    }
+  },
+  {
+    "id": "0702222027",
+    "code": "0702222027",
+    "name": "Obong",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702222000",
+      "code": "0702222000",
+      "name": "Dalaguete"
+    }
+  },
+  {
+    "id": "0702222028",
+    "code": "0702222028",
+    "name": "Panas",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702222000",
+      "code": "0702222000",
+      "name": "Dalaguete"
+    }
+  },
+  {
+    "id": "0702222029",
+    "code": "0702222029",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702222000",
+      "code": "0702222000",
+      "name": "Dalaguete"
+    }
+  },
+  {
+    "id": "0702222030",
+    "code": "0702222030",
+    "name": "Sacsac",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702222000",
+      "code": "0702222000",
+      "name": "Dalaguete"
+    }
+  },
+  {
+    "id": "0702222033",
+    "code": "0702222033",
+    "name": "Salug",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702222000",
+      "code": "0702222000",
+      "name": "Dalaguete"
+    }
+  },
+  {
+    "id": "0702222034",
+    "code": "0702222034",
+    "name": "Tabon",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702222000",
+      "code": "0702222000",
+      "name": "Dalaguete"
+    }
+  },
+  {
+    "id": "0702222031",
+    "code": "0702222031",
+    "name": "Tapun",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702222000",
+      "code": "0702222000",
+      "name": "Dalaguete"
+    }
+  },
+  {
+    "id": "0702222032",
+    "code": "0702222032",
+    "name": "Tuba",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702222000",
+      "code": "0702222000",
+      "name": "Dalaguete"
+    }
+  }
+]

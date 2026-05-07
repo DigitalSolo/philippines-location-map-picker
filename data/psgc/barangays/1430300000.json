@@ -1,0 +1,2066 @@
+[
+  {
+    "id": "1430300125",
+    "code": "1430300125",
+    "name": "A. Bonifacio-Caguioa-Rimando",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300129",
+    "code": "1430300129",
+    "name": "Abanao-Zandueta-Kayong-Chugum-Otek",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300136",
+    "code": "1430300136",
+    "name": "Alfonso Tabora",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300126",
+    "code": "1430300126",
+    "name": "Ambiong",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300117",
+    "code": "1430300117",
+    "name": "Andres Bonifacio",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300001",
+    "code": "1430300001",
+    "name": "Apugan-Loakan",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300002",
+    "code": "1430300002",
+    "name": "Asin Road",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300003",
+    "code": "1430300003",
+    "name": "Atok Trail",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300067",
+    "code": "1430300067",
+    "name": "Aurora Hill Proper",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300078",
+    "code": "1430300078",
+    "name": "Aurora Hill, North Central",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300128",
+    "code": "1430300128",
+    "name": "Aurora Hill, South Central",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300130",
+    "code": "1430300130",
+    "name": "Bagong Lipunan",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300004",
+    "code": "1430300004",
+    "name": "Bakakeng Central",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300005",
+    "code": "1430300005",
+    "name": "Bakakeng North",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300068",
+    "code": "1430300068",
+    "name": "Bal-Marcoville",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300007",
+    "code": "1430300007",
+    "name": "Balsigan",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300010",
+    "code": "1430300010",
+    "name": "Bayan Park East",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300132",
+    "code": "1430300132",
+    "name": "Bayan Park Village",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300008",
+    "code": "1430300008",
+    "name": "Bayan Park West",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300131",
+    "code": "1430300131",
+    "name": "BGH Compound",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300012",
+    "code": "1430300012",
+    "name": "Brookside",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300011",
+    "code": "1430300011",
+    "name": "Brookspoint",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300013",
+    "code": "1430300013",
+    "name": "Cabinet Hill-Teacher's Camp",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300133",
+    "code": "1430300133",
+    "name": "Camdas Subdivision",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300017",
+    "code": "1430300017",
+    "name": "Camp 7",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300018",
+    "code": "1430300018",
+    "name": "Camp 8",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300016",
+    "code": "1430300016",
+    "name": "Camp Allen",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300019",
+    "code": "1430300019",
+    "name": "Campo Filipino",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300022",
+    "code": "1430300022",
+    "name": "City Camp Central",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300023",
+    "code": "1430300023",
+    "name": "City Camp Proper",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300025",
+    "code": "1430300025",
+    "name": "Country Club Village",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300026",
+    "code": "1430300026",
+    "name": "Cresencia Village",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300058",
+    "code": "1430300058",
+    "name": "Dagsian, Lower",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300028",
+    "code": "1430300028",
+    "name": "Dagsian, Upper",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300030",
+    "code": "1430300030",
+    "name": "Dizon Subdivision",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300135",
+    "code": "1430300135",
+    "name": "Dominican Hill-Mirador",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300137",
+    "code": "1430300137",
+    "name": "Dontogan",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300029",
+    "code": "1430300029",
+    "name": "DPS Area",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300035",
+    "code": "1430300035",
+    "name": "Engineers' Hill",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300036",
+    "code": "1430300036",
+    "name": "Fairview Village",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300138",
+    "code": "1430300138",
+    "name": "Ferdinand",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300037",
+    "code": "1430300037",
+    "name": "Fort del Pilar",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300144",
+    "code": "1430300144",
+    "name": "Gabriela Silang",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300062",
+    "code": "1430300062",
+    "name": "General Emilio F. Aguinaldo",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300039",
+    "code": "1430300039",
+    "name": "General Luna, Lower",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300038",
+    "code": "1430300038",
+    "name": "General Luna, Upper",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300040",
+    "code": "1430300040",
+    "name": "Gibraltar",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300041",
+    "code": "1430300041",
+    "name": "Greenwater Village",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300042",
+    "code": "1430300042",
+    "name": "Guisad Central",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300043",
+    "code": "1430300043",
+    "name": "Guisad Sorong",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300006",
+    "code": "1430300006",
+    "name": "Happy Hollow",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300139",
+    "code": "1430300139",
+    "name": "Happy Homes",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300140",
+    "code": "1430300140",
+    "name": "Harrison-Claudio Carantes",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300045",
+    "code": "1430300045",
+    "name": "Hillside",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300046",
+    "code": "1430300046",
+    "name": "Holy Ghost Extension",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300047",
+    "code": "1430300047",
+    "name": "Holy Ghost Proper",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300141",
+    "code": "1430300141",
+    "name": "Honeymoon",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300120",
+    "code": "1430300120",
+    "name": "Imelda R. Marcos",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300049",
+    "code": "1430300049",
+    "name": "Imelda Village",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300050",
+    "code": "1430300050",
+    "name": "Irisan",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300142",
+    "code": "1430300142",
+    "name": "Kabayanihan",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300053",
+    "code": "1430300053",
+    "name": "Kagitingan",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300051",
+    "code": "1430300051",
+    "name": "Kayang Extension",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300143",
+    "code": "1430300143",
+    "name": "Kayang-Hilltop",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300052",
+    "code": "1430300052",
+    "name": "Kias",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300119",
+    "code": "1430300119",
+    "name": "Legarda-Burnham-Kisad",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300145",
+    "code": "1430300145",
+    "name": "Liwanag-Loakan",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300054",
+    "code": "1430300054",
+    "name": "Loakan Proper",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300055",
+    "code": "1430300055",
+    "name": "Lopez Jaena",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300056",
+    "code": "1430300056",
+    "name": "Lourdes Subdivision Extension",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300059",
+    "code": "1430300059",
+    "name": "Lourdes Subdivision, Lower",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300122",
+    "code": "1430300122",
+    "name": "Lourdes Subdivision, Proper",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300063",
+    "code": "1430300063",
+    "name": "Lualhati",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300064",
+    "code": "1430300064",
+    "name": "Lucnab",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300066",
+    "code": "1430300066",
+    "name": "Magsaysay Private Road",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300065",
+    "code": "1430300065",
+    "name": "Magsaysay, Lower",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300159",
+    "code": "1430300159",
+    "name": "Magsaysay, Upper",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300147",
+    "code": "1430300147",
+    "name": "Malcolm Square-Perfecto",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300148",
+    "code": "1430300148",
+    "name": "Manuel A. Roxas",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300160",
+    "code": "1430300160",
+    "name": "Market Subdivision, Upper",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300154",
+    "code": "1430300154",
+    "name": "Middle Quezon Hill Subdivision",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300071",
+    "code": "1430300071",
+    "name": "Military Cut-off",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300072",
+    "code": "1430300072",
+    "name": "Mines View Park",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300074",
+    "code": "1430300074",
+    "name": "Modern Site, East",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300075",
+    "code": "1430300075",
+    "name": "Modern Site, West",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300091",
+    "code": "1430300091",
+    "name": "MRR-Queen Of Peace",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300076",
+    "code": "1430300076",
+    "name": "New Lucban",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300081",
+    "code": "1430300081",
+    "name": "Outlook Drive",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300082",
+    "code": "1430300082",
+    "name": "Pacdal",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300149",
+    "code": "1430300149",
+    "name": "Padre Burgos",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300161",
+    "code": "1430300161",
+    "name": "Padre Zamora",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300134",
+    "code": "1430300134",
+    "name": "Palma-Urbano",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300152",
+    "code": "1430300152",
+    "name": "Phil-Am",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300086",
+    "code": "1430300086",
+    "name": "Pinget",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300087",
+    "code": "1430300087",
+    "name": "Pinsao Pilot Project",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300088",
+    "code": "1430300088",
+    "name": "Pinsao Proper",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300089",
+    "code": "1430300089",
+    "name": "Poliwes",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300090",
+    "code": "1430300090",
+    "name": "Pucsusan",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300153",
+    "code": "1430300153",
+    "name": "Quezon Hill Proper",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300150",
+    "code": "1430300150",
+    "name": "Quezon Hill, Upper",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300034",
+    "code": "1430300034",
+    "name": "Quirino Hill, East",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300061",
+    "code": "1430300061",
+    "name": "Quirino Hill, Lower",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300069",
+    "code": "1430300069",
+    "name": "Quirino Hill, Middle",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300116",
+    "code": "1430300116",
+    "name": "Quirino Hill, West",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300124",
+    "code": "1430300124",
+    "name": "Quirino-Magsaysay, Upper",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300155",
+    "code": "1430300155",
+    "name": "Rizal Monument Area",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300092",
+    "code": "1430300092",
+    "name": "Rock Quarry, Lower",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300151",
+    "code": "1430300151",
+    "name": "Rock Quarry, Middle",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300114",
+    "code": "1430300114",
+    "name": "Rock Quarry, Upper",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300110",
+    "code": "1430300110",
+    "name": "Saint Joseph Village",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300094",
+    "code": "1430300094",
+    "name": "Salud Mitra",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300096",
+    "code": "1430300096",
+    "name": "San Antonio Village",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300097",
+    "code": "1430300097",
+    "name": "San Luis Village",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300098",
+    "code": "1430300098",
+    "name": "San Roque Village",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300099",
+    "code": "1430300099",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300079",
+    "code": "1430300079",
+    "name": "Sanitary Camp, North",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300109",
+    "code": "1430300109",
+    "name": "Sanitary Camp, South",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300100",
+    "code": "1430300100",
+    "name": "Santa Escolastica",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300101",
+    "code": "1430300101",
+    "name": "Santo Rosario",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300103",
+    "code": "1430300103",
+    "name": "Santo Tomas Proper",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300102",
+    "code": "1430300102",
+    "name": "Santo Tomas School Area",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300105",
+    "code": "1430300105",
+    "name": "Scout Barrio",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300106",
+    "code": "1430300106",
+    "name": "Session Road Area",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300107",
+    "code": "1430300107",
+    "name": "Slaughter House Area",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300156",
+    "code": "1430300156",
+    "name": "SLU-SVP Housing Village",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300157",
+    "code": "1430300157",
+    "name": "South Drive",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300111",
+    "code": "1430300111",
+    "name": "Teodora Alonzo",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300112",
+    "code": "1430300112",
+    "name": "Trancoville",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  },
+  {
+    "id": "1430300115",
+    "code": "1430300115",
+    "name": "Victoria Village",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "city_municipality": {
+      "id": "1430300000",
+      "code": "1430300000",
+      "name": "City of Baguio"
+    }
+  }
+]

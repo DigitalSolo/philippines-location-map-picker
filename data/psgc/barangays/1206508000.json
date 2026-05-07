@@ -1,0 +1,548 @@
+[
+  {
+    "id": "1206508001",
+    "code": "1206508001",
+    "name": "Caridad",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206500000",
+      "code": "1206500000",
+      "name": "Sultan Kudarat"
+    },
+    "city_municipality": {
+      "id": "1206508000",
+      "code": "1206508000",
+      "name": "Lambayong"
+    }
+  },
+  {
+    "id": "1206508002",
+    "code": "1206508002",
+    "name": "Didtaras",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206500000",
+      "code": "1206500000",
+      "name": "Sultan Kudarat"
+    },
+    "city_municipality": {
+      "id": "1206508000",
+      "code": "1206508000",
+      "name": "Lambayong"
+    }
+  },
+  {
+    "id": "1206508004",
+    "code": "1206508004",
+    "name": "Gansing",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206500000",
+      "code": "1206500000",
+      "name": "Sultan Kudarat"
+    },
+    "city_municipality": {
+      "id": "1206508000",
+      "code": "1206508000",
+      "name": "Lambayong"
+    }
+  },
+  {
+    "id": "1206508005",
+    "code": "1206508005",
+    "name": "Kabulakan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206500000",
+      "code": "1206500000",
+      "name": "Sultan Kudarat"
+    },
+    "city_municipality": {
+      "id": "1206508000",
+      "code": "1206508000",
+      "name": "Lambayong"
+    }
+  },
+  {
+    "id": "1206508006",
+    "code": "1206508006",
+    "name": "Kapingkong",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206500000",
+      "code": "1206500000",
+      "name": "Sultan Kudarat"
+    },
+    "city_municipality": {
+      "id": "1206508000",
+      "code": "1206508000",
+      "name": "Lambayong"
+    }
+  },
+  {
+    "id": "1206508007",
+    "code": "1206508007",
+    "name": "Katitisan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206500000",
+      "code": "1206500000",
+      "name": "Sultan Kudarat"
+    },
+    "city_municipality": {
+      "id": "1206508000",
+      "code": "1206508000",
+      "name": "Lambayong"
+    }
+  },
+  {
+    "id": "1206508008",
+    "code": "1206508008",
+    "name": "Lagao",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206500000",
+      "code": "1206500000",
+      "name": "Sultan Kudarat"
+    },
+    "city_municipality": {
+      "id": "1206508000",
+      "code": "1206508000",
+      "name": "Lambayong"
+    }
+  },
+  {
+    "id": "1206508009",
+    "code": "1206508009",
+    "name": "Lilit",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206500000",
+      "code": "1206500000",
+      "name": "Sultan Kudarat"
+    },
+    "city_municipality": {
+      "id": "1206508000",
+      "code": "1206508000",
+      "name": "Lambayong"
+    }
+  },
+  {
+    "id": "1206508010",
+    "code": "1206508010",
+    "name": "Madanding",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206500000",
+      "code": "1206500000",
+      "name": "Sultan Kudarat"
+    },
+    "city_municipality": {
+      "id": "1206508000",
+      "code": "1206508000",
+      "name": "Lambayong"
+    }
+  },
+  {
+    "id": "1206508011",
+    "code": "1206508011",
+    "name": "Maligaya",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206500000",
+      "code": "1206500000",
+      "name": "Sultan Kudarat"
+    },
+    "city_municipality": {
+      "id": "1206508000",
+      "code": "1206508000",
+      "name": "Lambayong"
+    }
+  },
+  {
+    "id": "1206508012",
+    "code": "1206508012",
+    "name": "Mamali",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206500000",
+      "code": "1206500000",
+      "name": "Sultan Kudarat"
+    },
+    "city_municipality": {
+      "id": "1206508000",
+      "code": "1206508000",
+      "name": "Lambayong"
+    }
+  },
+  {
+    "id": "1206508013",
+    "code": "1206508013",
+    "name": "Matiompong",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206500000",
+      "code": "1206500000",
+      "name": "Sultan Kudarat"
+    },
+    "city_municipality": {
+      "id": "1206508000",
+      "code": "1206508000",
+      "name": "Lambayong"
+    }
+  },
+  {
+    "id": "1206508014",
+    "code": "1206508014",
+    "name": "Midtapok",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206500000",
+      "code": "1206500000",
+      "name": "Sultan Kudarat"
+    },
+    "city_municipality": {
+      "id": "1206508000",
+      "code": "1206508000",
+      "name": "Lambayong"
+    }
+  },
+  {
+    "id": "1206508015",
+    "code": "1206508015",
+    "name": "New Cebu",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206500000",
+      "code": "1206500000",
+      "name": "Sultan Kudarat"
+    },
+    "city_municipality": {
+      "id": "1206508000",
+      "code": "1206508000",
+      "name": "Lambayong"
+    }
+  },
+  {
+    "id": "1206508016",
+    "code": "1206508016",
+    "name": "Palumbi",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206500000",
+      "code": "1206500000",
+      "name": "Sultan Kudarat"
+    },
+    "city_municipality": {
+      "id": "1206508000",
+      "code": "1206508000",
+      "name": "Lambayong"
+    }
+  },
+  {
+    "id": "1206508017",
+    "code": "1206508017",
+    "name": "Pidtiguian",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206500000",
+      "code": "1206500000",
+      "name": "Sultan Kudarat"
+    },
+    "city_municipality": {
+      "id": "1206508000",
+      "code": "1206508000",
+      "name": "Lambayong"
+    }
+  },
+  {
+    "id": "1206508018",
+    "code": "1206508018",
+    "name": "Pimbalayan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206500000",
+      "code": "1206500000",
+      "name": "Sultan Kudarat"
+    },
+    "city_municipality": {
+      "id": "1206508000",
+      "code": "1206508000",
+      "name": "Lambayong"
+    }
+  },
+  {
+    "id": "1206508019",
+    "code": "1206508019",
+    "name": "Pinguiaman",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206500000",
+      "code": "1206500000",
+      "name": "Sultan Kudarat"
+    },
+    "city_municipality": {
+      "id": "1206508000",
+      "code": "1206508000",
+      "name": "Lambayong"
+    }
+  },
+  {
+    "id": "1206508020",
+    "code": "1206508020",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206500000",
+      "code": "1206500000",
+      "name": "Sultan Kudarat"
+    },
+    "city_municipality": {
+      "id": "1206508000",
+      "code": "1206508000",
+      "name": "Lambayong"
+    }
+  },
+  {
+    "id": "1206508021",
+    "code": "1206508021",
+    "name": "Sadsalan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206500000",
+      "code": "1206500000",
+      "name": "Sultan Kudarat"
+    },
+    "city_municipality": {
+      "id": "1206508000",
+      "code": "1206508000",
+      "name": "Lambayong"
+    }
+  },
+  {
+    "id": "1206508022",
+    "code": "1206508022",
+    "name": "Seneben",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206500000",
+      "code": "1206500000",
+      "name": "Sultan Kudarat"
+    },
+    "city_municipality": {
+      "id": "1206508000",
+      "code": "1206508000",
+      "name": "Lambayong"
+    }
+  },
+  {
+    "id": "1206508023",
+    "code": "1206508023",
+    "name": "Sigayan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206500000",
+      "code": "1206500000",
+      "name": "Sultan Kudarat"
+    },
+    "city_municipality": {
+      "id": "1206508000",
+      "code": "1206508000",
+      "name": "Lambayong"
+    }
+  },
+  {
+    "id": "1206508024",
+    "code": "1206508024",
+    "name": "Tambak",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206500000",
+      "code": "1206500000",
+      "name": "Sultan Kudarat"
+    },
+    "city_municipality": {
+      "id": "1206508000",
+      "code": "1206508000",
+      "name": "Lambayong"
+    }
+  },
+  {
+    "id": "1206508025",
+    "code": "1206508025",
+    "name": "Tinumigues",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206500000",
+      "code": "1206500000",
+      "name": "Sultan Kudarat"
+    },
+    "city_municipality": {
+      "id": "1206508000",
+      "code": "1206508000",
+      "name": "Lambayong"
+    }
+  },
+  {
+    "id": "1206508027",
+    "code": "1206508027",
+    "name": "Tumiao",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206500000",
+      "code": "1206500000",
+      "name": "Sultan Kudarat"
+    },
+    "city_municipality": {
+      "id": "1206508000",
+      "code": "1206508000",
+      "name": "Lambayong"
+    }
+  },
+  {
+    "id": "1206508028",
+    "code": "1206508028",
+    "name": "Udtong",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206500000",
+      "code": "1206500000",
+      "name": "Sultan Kudarat"
+    },
+    "city_municipality": {
+      "id": "1206508000",
+      "code": "1206508000",
+      "name": "Lambayong"
+    }
+  }
+]

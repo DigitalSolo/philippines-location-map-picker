@@ -1,0 +1,130 @@
+[
+  {
+    "id": "0307701000",
+    "code": "0307701000",
+    "name": "Baler",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    }
+  },
+  {
+    "id": "0307702000",
+    "code": "0307702000",
+    "name": "Casiguran",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    }
+  },
+  {
+    "id": "0307703000",
+    "code": "0307703000",
+    "name": "Dilasag",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    }
+  },
+  {
+    "id": "0307704000",
+    "code": "0307704000",
+    "name": "Dinalungan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    }
+  },
+  {
+    "id": "0307705000",
+    "code": "0307705000",
+    "name": "Dingalan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    }
+  },
+  {
+    "id": "0307706000",
+    "code": "0307706000",
+    "name": "Dipaculao",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    }
+  },
+  {
+    "id": "0307707000",
+    "code": "0307707000",
+    "name": "Maria Aurora",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    }
+  },
+  {
+    "id": "0307708000",
+    "code": "0307708000",
+    "name": "San Luis",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    }
+  }
+]

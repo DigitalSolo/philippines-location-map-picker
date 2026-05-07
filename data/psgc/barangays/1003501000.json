@@ -1,0 +1,338 @@
+[
+  {
+    "id": "1003501001",
+    "code": "1003501001",
+    "name": "Alegria",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003501000",
+      "code": "1003501000",
+      "name": "Bacolod"
+    }
+  },
+  {
+    "id": "1003501002",
+    "code": "1003501002",
+    "name": "Babalaya",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003501000",
+      "code": "1003501000",
+      "name": "Bacolod"
+    }
+  },
+  {
+    "id": "1003501003",
+    "code": "1003501003",
+    "name": "Babalayan Townsite",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003501000",
+      "code": "1003501000",
+      "name": "Bacolod"
+    }
+  },
+  {
+    "id": "1003501005",
+    "code": "1003501005",
+    "name": "Binuni",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003501000",
+      "code": "1003501000",
+      "name": "Bacolod"
+    }
+  },
+  {
+    "id": "1003501020",
+    "code": "1003501020",
+    "name": "Delabayan West",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003501000",
+      "code": "1003501000",
+      "name": "Bacolod"
+    }
+  },
+  {
+    "id": "1003501006",
+    "code": "1003501006",
+    "name": "Demologan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003501000",
+      "code": "1003501000",
+      "name": "Bacolod"
+    }
+  },
+  {
+    "id": "1003501007",
+    "code": "1003501007",
+    "name": "Dimarao",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003501000",
+      "code": "1003501000",
+      "name": "Bacolod"
+    }
+  },
+  {
+    "id": "1003501008",
+    "code": "1003501008",
+    "name": "Esperanza",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003501000",
+      "code": "1003501000",
+      "name": "Bacolod"
+    }
+  },
+  {
+    "id": "1003501009",
+    "code": "1003501009",
+    "name": "Kahayag",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003501000",
+      "code": "1003501000",
+      "name": "Bacolod"
+    }
+  },
+  {
+    "id": "1003501010",
+    "code": "1003501010",
+    "name": "Liangan East",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003501000",
+      "code": "1003501000",
+      "name": "Bacolod"
+    }
+  },
+  {
+    "id": "1003501013",
+    "code": "1003501013",
+    "name": "Mati",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003501000",
+      "code": "1003501000",
+      "name": "Bacolod"
+    }
+  },
+  {
+    "id": "1003501016",
+    "code": "1003501016",
+    "name": "Minaulon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003501000",
+      "code": "1003501000",
+      "name": "Bacolod"
+    }
+  },
+  {
+    "id": "1003501017",
+    "code": "1003501017",
+    "name": "Pagayawan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003501000",
+      "code": "1003501000",
+      "name": "Bacolod"
+    }
+  },
+  {
+    "id": "1003501018",
+    "code": "1003501018",
+    "name": "Poblacion Bacolod",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003501000",
+      "code": "1003501000",
+      "name": "Bacolod"
+    }
+  },
+  {
+    "id": "1003501012",
+    "code": "1003501012",
+    "name": "Punod",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003501000",
+      "code": "1003501000",
+      "name": "Bacolod"
+    }
+  },
+  {
+    "id": "1003501019",
+    "code": "1003501019",
+    "name": "Rupagan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003501000",
+      "code": "1003501000",
+      "name": "Bacolod"
+    }
+  }
+]

@@ -1,0 +1,716 @@
+[
+  {
+    "id": "0105530001",
+    "code": "0105530001",
+    "name": "Alipangpang",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105530000",
+      "code": "0105530000",
+      "name": "Pozorrubio"
+    }
+  },
+  {
+    "id": "0105530002",
+    "code": "0105530002",
+    "name": "Amagbagan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105530000",
+      "code": "0105530000",
+      "name": "Pozorrubio"
+    }
+  },
+  {
+    "id": "0105530003",
+    "code": "0105530003",
+    "name": "Balacag",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105530000",
+      "code": "0105530000",
+      "name": "Pozorrubio"
+    }
+  },
+  {
+    "id": "0105530004",
+    "code": "0105530004",
+    "name": "Banding",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105530000",
+      "code": "0105530000",
+      "name": "Pozorrubio"
+    }
+  },
+  {
+    "id": "0105530006",
+    "code": "0105530006",
+    "name": "Bantugan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105530000",
+      "code": "0105530000",
+      "name": "Pozorrubio"
+    }
+  },
+  {
+    "id": "0105530007",
+    "code": "0105530007",
+    "name": "Batakil",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105530000",
+      "code": "0105530000",
+      "name": "Pozorrubio"
+    }
+  },
+  {
+    "id": "0105530008",
+    "code": "0105530008",
+    "name": "Bobonan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105530000",
+      "code": "0105530000",
+      "name": "Pozorrubio"
+    }
+  },
+  {
+    "id": "0105530009",
+    "code": "0105530009",
+    "name": "Buneg",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105530000",
+      "code": "0105530000",
+      "name": "Pozorrubio"
+    }
+  },
+  {
+    "id": "0105530010",
+    "code": "0105530010",
+    "name": "Cablong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105530000",
+      "code": "0105530000",
+      "name": "Pozorrubio"
+    }
+  },
+  {
+    "id": "0105530035",
+    "code": "0105530035",
+    "name": "Casanfernandoan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105530000",
+      "code": "0105530000",
+      "name": "Pozorrubio"
+    }
+  },
+  {
+    "id": "0105530011",
+    "code": "0105530011",
+    "name": "Castaño",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105530000",
+      "code": "0105530000",
+      "name": "Pozorrubio"
+    }
+  },
+  {
+    "id": "0105530012",
+    "code": "0105530012",
+    "name": "Dilan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105530000",
+      "code": "0105530000",
+      "name": "Pozorrubio"
+    }
+  },
+  {
+    "id": "0105530013",
+    "code": "0105530013",
+    "name": "Don Benito",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105530000",
+      "code": "0105530000",
+      "name": "Pozorrubio"
+    }
+  },
+  {
+    "id": "0105530014",
+    "code": "0105530014",
+    "name": "Haway",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105530000",
+      "code": "0105530000",
+      "name": "Pozorrubio"
+    }
+  },
+  {
+    "id": "0105530015",
+    "code": "0105530015",
+    "name": "Imbalbalatong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105530000",
+      "code": "0105530000",
+      "name": "Pozorrubio"
+    }
+  },
+  {
+    "id": "0105530016",
+    "code": "0105530016",
+    "name": "Inoman",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105530000",
+      "code": "0105530000",
+      "name": "Pozorrubio"
+    }
+  },
+  {
+    "id": "0105530017",
+    "code": "0105530017",
+    "name": "Laoac",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105530000",
+      "code": "0105530000",
+      "name": "Pozorrubio"
+    }
+  },
+  {
+    "id": "0105530018",
+    "code": "0105530018",
+    "name": "Maambal",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105530000",
+      "code": "0105530000",
+      "name": "Pozorrubio"
+    }
+  },
+  {
+    "id": "0105530019",
+    "code": "0105530019",
+    "name": "Malasin",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105530000",
+      "code": "0105530000",
+      "name": "Pozorrubio"
+    }
+  },
+  {
+    "id": "0105530020",
+    "code": "0105530020",
+    "name": "Malokiat",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105530000",
+      "code": "0105530000",
+      "name": "Pozorrubio"
+    }
+  },
+  {
+    "id": "0105530021",
+    "code": "0105530021",
+    "name": "Manaol",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105530000",
+      "code": "0105530000",
+      "name": "Pozorrubio"
+    }
+  },
+  {
+    "id": "0105530022",
+    "code": "0105530022",
+    "name": "Nama",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105530000",
+      "code": "0105530000",
+      "name": "Pozorrubio"
+    }
+  },
+  {
+    "id": "0105530023",
+    "code": "0105530023",
+    "name": "Nantangalan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105530000",
+      "code": "0105530000",
+      "name": "Pozorrubio"
+    }
+  },
+  {
+    "id": "0105530024",
+    "code": "0105530024",
+    "name": "Palacpalac",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105530000",
+      "code": "0105530000",
+      "name": "Pozorrubio"
+    }
+  },
+  {
+    "id": "0105530025",
+    "code": "0105530025",
+    "name": "Palguyod",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105530000",
+      "code": "0105530000",
+      "name": "Pozorrubio"
+    }
+  },
+  {
+    "id": "0105530026",
+    "code": "0105530026",
+    "name": "Poblacion I",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105530000",
+      "code": "0105530000",
+      "name": "Pozorrubio"
+    }
+  },
+  {
+    "id": "0105530027",
+    "code": "0105530027",
+    "name": "Poblacion II",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105530000",
+      "code": "0105530000",
+      "name": "Pozorrubio"
+    }
+  },
+  {
+    "id": "0105530028",
+    "code": "0105530028",
+    "name": "Poblacion III",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105530000",
+      "code": "0105530000",
+      "name": "Pozorrubio"
+    }
+  },
+  {
+    "id": "0105530029",
+    "code": "0105530029",
+    "name": "Poblacion IV",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105530000",
+      "code": "0105530000",
+      "name": "Pozorrubio"
+    }
+  },
+  {
+    "id": "0105530030",
+    "code": "0105530030",
+    "name": "Rosario",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105530000",
+      "code": "0105530000",
+      "name": "Pozorrubio"
+    }
+  },
+  {
+    "id": "0105530031",
+    "code": "0105530031",
+    "name": "Sugcong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105530000",
+      "code": "0105530000",
+      "name": "Pozorrubio"
+    }
+  },
+  {
+    "id": "0105530032",
+    "code": "0105530032",
+    "name": "Talogtog",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105530000",
+      "code": "0105530000",
+      "name": "Pozorrubio"
+    }
+  },
+  {
+    "id": "0105530033",
+    "code": "0105530033",
+    "name": "Tulnac",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105530000",
+      "code": "0105530000",
+      "name": "Pozorrubio"
+    }
+  },
+  {
+    "id": "0105530034",
+    "code": "0105530034",
+    "name": "Villegas",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105530000",
+      "code": "0105530000",
+      "name": "Pozorrubio"
+    }
+  }
+]

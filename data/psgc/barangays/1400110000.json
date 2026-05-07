@@ -1,0 +1,359 @@
+[
+  {
+    "id": "1400110001",
+    "code": "1400110001",
+    "name": "Aguet",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400110000",
+      "code": "1400110000",
+      "name": "Lagangilang"
+    }
+  },
+  {
+    "id": "1400110002",
+    "code": "1400110002",
+    "name": "Bacooc",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400110000",
+      "code": "1400110000",
+      "name": "Lagangilang"
+    }
+  },
+  {
+    "id": "1400110003",
+    "code": "1400110003",
+    "name": "Balais",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400110000",
+      "code": "1400110000",
+      "name": "Lagangilang"
+    }
+  },
+  {
+    "id": "1400110004",
+    "code": "1400110004",
+    "name": "Cayapa",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400110000",
+      "code": "1400110000",
+      "name": "Lagangilang"
+    }
+  },
+  {
+    "id": "1400110005",
+    "code": "1400110005",
+    "name": "Dalaguisen",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400110000",
+      "code": "1400110000",
+      "name": "Lagangilang"
+    }
+  },
+  {
+    "id": "1400110006",
+    "code": "1400110006",
+    "name": "Laang",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400110000",
+      "code": "1400110000",
+      "name": "Lagangilang"
+    }
+  },
+  {
+    "id": "1400110007",
+    "code": "1400110007",
+    "name": "Lagben",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400110000",
+      "code": "1400110000",
+      "name": "Lagangilang"
+    }
+  },
+  {
+    "id": "1400110008",
+    "code": "1400110008",
+    "name": "Laguiben",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400110000",
+      "code": "1400110000",
+      "name": "Lagangilang"
+    }
+  },
+  {
+    "id": "1400110009",
+    "code": "1400110009",
+    "name": "Nagtipulan",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400110000",
+      "code": "1400110000",
+      "name": "Lagangilang"
+    }
+  },
+  {
+    "id": "1400110010",
+    "code": "1400110010",
+    "name": "Nagtupacan",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400110000",
+      "code": "1400110000",
+      "name": "Lagangilang"
+    }
+  },
+  {
+    "id": "1400110011",
+    "code": "1400110011",
+    "name": "Paganao",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400110000",
+      "code": "1400110000",
+      "name": "Lagangilang"
+    }
+  },
+  {
+    "id": "1400110012",
+    "code": "1400110012",
+    "name": "Pawa",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400110000",
+      "code": "1400110000",
+      "name": "Lagangilang"
+    }
+  },
+  {
+    "id": "1400110013",
+    "code": "1400110013",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400110000",
+      "code": "1400110000",
+      "name": "Lagangilang"
+    }
+  },
+  {
+    "id": "1400110014",
+    "code": "1400110014",
+    "name": "Presentar",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400110000",
+      "code": "1400110000",
+      "name": "Lagangilang"
+    }
+  },
+  {
+    "id": "1400110015",
+    "code": "1400110015",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400110000",
+      "code": "1400110000",
+      "name": "Lagangilang"
+    }
+  },
+  {
+    "id": "1400110016",
+    "code": "1400110016",
+    "name": "Tagodtod",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400110000",
+      "code": "1400110000",
+      "name": "Lagangilang"
+    }
+  },
+  {
+    "id": "1400110017",
+    "code": "1400110017",
+    "name": "Taping",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400110000",
+      "code": "1400110000",
+      "name": "Lagangilang"
+    }
+  }
+]

@@ -1,0 +1,821 @@
+[
+  {
+    "id": "0401007002",
+    "code": "0401007002",
+    "name": "Baclas",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401007000",
+      "code": "0401007000",
+      "name": "City of Calaca"
+    }
+  },
+  {
+    "id": "0401007001",
+    "code": "0401007001",
+    "name": "Bagong Tubig",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401007000",
+      "code": "0401007000",
+      "name": "City of Calaca"
+    }
+  },
+  {
+    "id": "0401007003",
+    "code": "0401007003",
+    "name": "Balimbing",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401007000",
+      "code": "0401007000",
+      "name": "City of Calaca"
+    }
+  },
+  {
+    "id": "0401007004",
+    "code": "0401007004",
+    "name": "Bambang",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401007000",
+      "code": "0401007000",
+      "name": "City of Calaca"
+    }
+  },
+  {
+    "id": "0401007006",
+    "code": "0401007006",
+    "name": "Barangay 1",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401007000",
+      "code": "0401007000",
+      "name": "City of Calaca"
+    }
+  },
+  {
+    "id": "0401007007",
+    "code": "0401007007",
+    "name": "Barangay 2",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401007000",
+      "code": "0401007000",
+      "name": "City of Calaca"
+    }
+  },
+  {
+    "id": "0401007008",
+    "code": "0401007008",
+    "name": "Barangay 3",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401007000",
+      "code": "0401007000",
+      "name": "City of Calaca"
+    }
+  },
+  {
+    "id": "0401007009",
+    "code": "0401007009",
+    "name": "Barangay 4",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401007000",
+      "code": "0401007000",
+      "name": "City of Calaca"
+    }
+  },
+  {
+    "id": "0401007010",
+    "code": "0401007010",
+    "name": "Barangay 5",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401007000",
+      "code": "0401007000",
+      "name": "City of Calaca"
+    }
+  },
+  {
+    "id": "0401007011",
+    "code": "0401007011",
+    "name": "Barangay 6",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401007000",
+      "code": "0401007000",
+      "name": "City of Calaca"
+    }
+  },
+  {
+    "id": "0401007012",
+    "code": "0401007012",
+    "name": "Bisaya",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401007000",
+      "code": "0401007000",
+      "name": "City of Calaca"
+    }
+  },
+  {
+    "id": "0401007013",
+    "code": "0401007013",
+    "name": "Cahil",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401007000",
+      "code": "0401007000",
+      "name": "City of Calaca"
+    }
+  },
+  {
+    "id": "0401007015",
+    "code": "0401007015",
+    "name": "Calantas",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401007000",
+      "code": "0401007000",
+      "name": "City of Calaca"
+    }
+  },
+  {
+    "id": "0401007014",
+    "code": "0401007014",
+    "name": "Caluangan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401007000",
+      "code": "0401007000",
+      "name": "City of Calaca"
+    }
+  },
+  {
+    "id": "0401007016",
+    "code": "0401007016",
+    "name": "Camastilisan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401007000",
+      "code": "0401007000",
+      "name": "City of Calaca"
+    }
+  },
+  {
+    "id": "0401007018",
+    "code": "0401007018",
+    "name": "Coral Ni Bacal",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401007000",
+      "code": "0401007000",
+      "name": "City of Calaca"
+    }
+  },
+  {
+    "id": "0401007017",
+    "code": "0401007017",
+    "name": "Coral Ni Lopez",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401007000",
+      "code": "0401007000",
+      "name": "City of Calaca"
+    }
+  },
+  {
+    "id": "0401007019",
+    "code": "0401007019",
+    "name": "Dacanlao",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401007000",
+      "code": "0401007000",
+      "name": "City of Calaca"
+    }
+  },
+  {
+    "id": "0401007020",
+    "code": "0401007020",
+    "name": "Dila",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401007000",
+      "code": "0401007000",
+      "name": "City of Calaca"
+    }
+  },
+  {
+    "id": "0401007021",
+    "code": "0401007021",
+    "name": "Loma",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401007000",
+      "code": "0401007000",
+      "name": "City of Calaca"
+    }
+  },
+  {
+    "id": "0401007022",
+    "code": "0401007022",
+    "name": "Lumbang Calzada",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401007000",
+      "code": "0401007000",
+      "name": "City of Calaca"
+    }
+  },
+  {
+    "id": "0401007023",
+    "code": "0401007023",
+    "name": "Lumbang Na Bata",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401007000",
+      "code": "0401007000",
+      "name": "City of Calaca"
+    }
+  },
+  {
+    "id": "0401007024",
+    "code": "0401007024",
+    "name": "Lumbang Na Matanda",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401007000",
+      "code": "0401007000",
+      "name": "City of Calaca"
+    }
+  },
+  {
+    "id": "0401007025",
+    "code": "0401007025",
+    "name": "Madalunot",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401007000",
+      "code": "0401007000",
+      "name": "City of Calaca"
+    }
+  },
+  {
+    "id": "0401007027",
+    "code": "0401007027",
+    "name": "Makina",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401007000",
+      "code": "0401007000",
+      "name": "City of Calaca"
+    }
+  },
+  {
+    "id": "0401007028",
+    "code": "0401007028",
+    "name": "Matipok",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401007000",
+      "code": "0401007000",
+      "name": "City of Calaca"
+    }
+  },
+  {
+    "id": "0401007030",
+    "code": "0401007030",
+    "name": "Munting Coral",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401007000",
+      "code": "0401007000",
+      "name": "City of Calaca"
+    }
+  },
+  {
+    "id": "0401007031",
+    "code": "0401007031",
+    "name": "Niyugan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401007000",
+      "code": "0401007000",
+      "name": "City of Calaca"
+    }
+  },
+  {
+    "id": "0401007032",
+    "code": "0401007032",
+    "name": "Pantay",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401007000",
+      "code": "0401007000",
+      "name": "City of Calaca"
+    }
+  },
+  {
+    "id": "0401007035",
+    "code": "0401007035",
+    "name": "Puting Bato East",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401007000",
+      "code": "0401007000",
+      "name": "City of Calaca"
+    }
+  },
+  {
+    "id": "0401007033",
+    "code": "0401007033",
+    "name": "Puting Bato West",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401007000",
+      "code": "0401007000",
+      "name": "City of Calaca"
+    }
+  },
+  {
+    "id": "0401007034",
+    "code": "0401007034",
+    "name": "Puting Kahoy",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401007000",
+      "code": "0401007000",
+      "name": "City of Calaca"
+    }
+  },
+  {
+    "id": "0401007036",
+    "code": "0401007036",
+    "name": "Quisumbing",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401007000",
+      "code": "0401007000",
+      "name": "City of Calaca"
+    }
+  },
+  {
+    "id": "0401007037",
+    "code": "0401007037",
+    "name": "Salong",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401007000",
+      "code": "0401007000",
+      "name": "City of Calaca"
+    }
+  },
+  {
+    "id": "0401007039",
+    "code": "0401007039",
+    "name": "Sinisian",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401007000",
+      "code": "0401007000",
+      "name": "City of Calaca"
+    }
+  },
+  {
+    "id": "0401007041",
+    "code": "0401007041",
+    "name": "Taklang Anak",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401007000",
+      "code": "0401007000",
+      "name": "City of Calaca"
+    }
+  },
+  {
+    "id": "0401007042",
+    "code": "0401007042",
+    "name": "Talisay",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401007000",
+      "code": "0401007000",
+      "name": "City of Calaca"
+    }
+  },
+  {
+    "id": "0401007043",
+    "code": "0401007043",
+    "name": "Tamayo",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401007000",
+      "code": "0401007000",
+      "name": "City of Calaca"
+    }
+  },
+  {
+    "id": "0401007044",
+    "code": "0401007044",
+    "name": "Timbain",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401007000",
+      "code": "0401007000",
+      "name": "City of Calaca"
+    }
+  }
+]

@@ -1,0 +1,716 @@
+[
+  {
+    "id": "0402119001",
+    "code": "0402119001",
+    "name": "Asisan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402119000",
+      "code": "0402119000",
+      "name": "City of Tagaytay"
+    }
+  },
+  {
+    "id": "0402119002",
+    "code": "0402119002",
+    "name": "Bagong Tubig",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402119000",
+      "code": "0402119000",
+      "name": "City of Tagaytay"
+    }
+  },
+  {
+    "id": "0402119007",
+    "code": "0402119007",
+    "name": "Calabuso",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402119000",
+      "code": "0402119000",
+      "name": "City of Tagaytay"
+    }
+  },
+  {
+    "id": "0402119027",
+    "code": "0402119027",
+    "name": "Dapdap East",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402119000",
+      "code": "0402119000",
+      "name": "City of Tagaytay"
+    }
+  },
+  {
+    "id": "0402119003",
+    "code": "0402119003",
+    "name": "Dapdap West",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402119000",
+      "code": "0402119000",
+      "name": "City of Tagaytay"
+    }
+  },
+  {
+    "id": "0402119004",
+    "code": "0402119004",
+    "name": "Francisco",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402119000",
+      "code": "0402119000",
+      "name": "City of Tagaytay"
+    }
+  },
+  {
+    "id": "0402119028",
+    "code": "0402119028",
+    "name": "Guinhawa North",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402119000",
+      "code": "0402119000",
+      "name": "City of Tagaytay"
+    }
+  },
+  {
+    "id": "0402119005",
+    "code": "0402119005",
+    "name": "Guinhawa South",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402119000",
+      "code": "0402119000",
+      "name": "City of Tagaytay"
+    }
+  },
+  {
+    "id": "0402119023",
+    "code": "0402119023",
+    "name": "Iruhin East",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402119000",
+      "code": "0402119000",
+      "name": "City of Tagaytay"
+    }
+  },
+  {
+    "id": "0402119029",
+    "code": "0402119029",
+    "name": "Iruhin South",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402119000",
+      "code": "0402119000",
+      "name": "City of Tagaytay"
+    }
+  },
+  {
+    "id": "0402119006",
+    "code": "0402119006",
+    "name": "Iruhin West",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402119000",
+      "code": "0402119000",
+      "name": "City of Tagaytay"
+    }
+  },
+  {
+    "id": "0402119030",
+    "code": "0402119030",
+    "name": "Kaybagal East",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402119000",
+      "code": "0402119000",
+      "name": "City of Tagaytay"
+    }
+  },
+  {
+    "id": "0402119024",
+    "code": "0402119024",
+    "name": "Kaybagal North",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402119000",
+      "code": "0402119000",
+      "name": "City of Tagaytay"
+    }
+  },
+  {
+    "id": "0402119008",
+    "code": "0402119008",
+    "name": "Kaybagal South",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402119000",
+      "code": "0402119000",
+      "name": "City of Tagaytay"
+    }
+  },
+  {
+    "id": "0402119010",
+    "code": "0402119010",
+    "name": "Mag-Asawang Ilat",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402119000",
+      "code": "0402119000",
+      "name": "City of Tagaytay"
+    }
+  },
+  {
+    "id": "0402119031",
+    "code": "0402119031",
+    "name": "Maharlika East",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402119000",
+      "code": "0402119000",
+      "name": "City of Tagaytay"
+    }
+  },
+  {
+    "id": "0402119011",
+    "code": "0402119011",
+    "name": "Maharlika West",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402119000",
+      "code": "0402119000",
+      "name": "City of Tagaytay"
+    }
+  },
+  {
+    "id": "0402119032",
+    "code": "0402119032",
+    "name": "Maitim 2nd Central",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402119000",
+      "code": "0402119000",
+      "name": "City of Tagaytay"
+    }
+  },
+  {
+    "id": "0402119012",
+    "code": "0402119012",
+    "name": "Maitim 2nd East",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402119000",
+      "code": "0402119000",
+      "name": "City of Tagaytay"
+    }
+  },
+  {
+    "id": "0402119025",
+    "code": "0402119025",
+    "name": "Maitim 2nd West",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402119000",
+      "code": "0402119000",
+      "name": "City of Tagaytay"
+    }
+  },
+  {
+    "id": "0402119033",
+    "code": "0402119033",
+    "name": "Mendez Crossing East",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402119000",
+      "code": "0402119000",
+      "name": "City of Tagaytay"
+    }
+  },
+  {
+    "id": "0402119013",
+    "code": "0402119013",
+    "name": "Mendez Crossing West",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402119000",
+      "code": "0402119000",
+      "name": "City of Tagaytay"
+    }
+  },
+  {
+    "id": "0402119014",
+    "code": "0402119014",
+    "name": "Neogan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402119000",
+      "code": "0402119000",
+      "name": "City of Tagaytay"
+    }
+  },
+  {
+    "id": "0402119034",
+    "code": "0402119034",
+    "name": "Patutong Malaki North",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402119000",
+      "code": "0402119000",
+      "name": "City of Tagaytay"
+    }
+  },
+  {
+    "id": "0402119015",
+    "code": "0402119015",
+    "name": "Patutong Malaki South",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402119000",
+      "code": "0402119000",
+      "name": "City of Tagaytay"
+    }
+  },
+  {
+    "id": "0402119017",
+    "code": "0402119017",
+    "name": "Sambong",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402119000",
+      "code": "0402119000",
+      "name": "City of Tagaytay"
+    }
+  },
+  {
+    "id": "0402119018",
+    "code": "0402119018",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402119000",
+      "code": "0402119000",
+      "name": "City of Tagaytay"
+    }
+  },
+  {
+    "id": "0402119035",
+    "code": "0402119035",
+    "name": "Silang Junction North",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402119000",
+      "code": "0402119000",
+      "name": "City of Tagaytay"
+    }
+  },
+  {
+    "id": "0402119019",
+    "code": "0402119019",
+    "name": "Silang Junction South",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402119000",
+      "code": "0402119000",
+      "name": "City of Tagaytay"
+    }
+  },
+  {
+    "id": "0402119036",
+    "code": "0402119036",
+    "name": "Sungay North",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402119000",
+      "code": "0402119000",
+      "name": "City of Tagaytay"
+    }
+  },
+  {
+    "id": "0402119020",
+    "code": "0402119020",
+    "name": "Sungay South",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402119000",
+      "code": "0402119000",
+      "name": "City of Tagaytay"
+    }
+  },
+  {
+    "id": "0402119037",
+    "code": "0402119037",
+    "name": "Tolentino East",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402119000",
+      "code": "0402119000",
+      "name": "City of Tagaytay"
+    }
+  },
+  {
+    "id": "0402119021",
+    "code": "0402119021",
+    "name": "Tolentino West",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402119000",
+      "code": "0402119000",
+      "name": "City of Tagaytay"
+    }
+  },
+  {
+    "id": "0402119022",
+    "code": "0402119022",
+    "name": "Zambal",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402119000",
+      "code": "0402119000",
+      "name": "City of Tagaytay"
+    }
+  }
+]

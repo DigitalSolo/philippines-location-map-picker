@@ -1,0 +1,149 @@
+[
+  {
+    "id": "1003520001",
+    "code": "1003520001",
+    "name": "Dalamas",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003520000",
+      "code": "1003520000",
+      "name": "Tagoloan"
+    }
+  },
+  {
+    "id": "1003520002",
+    "code": "1003520002",
+    "name": "Darimbang",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003520000",
+      "code": "1003520000",
+      "name": "Tagoloan"
+    }
+  },
+  {
+    "id": "1003520003",
+    "code": "1003520003",
+    "name": "Dimayon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003520000",
+      "code": "1003520000",
+      "name": "Tagoloan"
+    }
+  },
+  {
+    "id": "1003520004",
+    "code": "1003520004",
+    "name": "Inagongan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003520000",
+      "code": "1003520000",
+      "name": "Tagoloan"
+    }
+  },
+  {
+    "id": "1003520005",
+    "code": "1003520005",
+    "name": "Kiazar",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003520000",
+      "code": "1003520000",
+      "name": "Tagoloan"
+    }
+  },
+  {
+    "id": "1003520006",
+    "code": "1003520006",
+    "name": "Malimbato",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003520000",
+      "code": "1003520000",
+      "name": "Tagoloan"
+    }
+  },
+  {
+    "id": "1003520007",
+    "code": "1003520007",
+    "name": "Panalawan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003520000",
+      "code": "1003520000",
+      "name": "Tagoloan"
+    }
+  }
+]

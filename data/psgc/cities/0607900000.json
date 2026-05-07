@@ -1,0 +1,82 @@
+[
+  {
+    "id": "0607901000",
+    "code": "0607901000",
+    "name": "Buenavista",
+    "type": "city_municipality",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0607900000",
+      "code": "0607900000",
+      "name": "Guimaras"
+    }
+  },
+  {
+    "id": "0607902000",
+    "code": "0607902000",
+    "name": "Jordan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0607900000",
+      "code": "0607900000",
+      "name": "Guimaras"
+    }
+  },
+  {
+    "id": "0607903000",
+    "code": "0607903000",
+    "name": "Nueva Valencia",
+    "type": "city_municipality",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0607900000",
+      "code": "0607900000",
+      "name": "Guimaras"
+    }
+  },
+  {
+    "id": "0607904000",
+    "code": "0607904000",
+    "name": "San Lorenzo",
+    "type": "city_municipality",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0607900000",
+      "code": "0607900000",
+      "name": "Guimaras"
+    }
+  },
+  {
+    "id": "0607905000",
+    "code": "0607905000",
+    "name": "Sibunag",
+    "type": "city_municipality",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0607900000",
+      "code": "0607900000",
+      "name": "Guimaras"
+    }
+  }
+]

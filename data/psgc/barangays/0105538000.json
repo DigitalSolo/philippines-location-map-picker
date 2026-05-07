@@ -1,0 +1,611 @@
+[
+  {
+    "id": "0105538001",
+    "code": "0105538001",
+    "name": "Alibago",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105538000",
+      "code": "0105538000",
+      "name": "Santa Barbara"
+    }
+  },
+  {
+    "id": "0105538002",
+    "code": "0105538002",
+    "name": "Balingueo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105538000",
+      "code": "0105538000",
+      "name": "Santa Barbara"
+    }
+  },
+  {
+    "id": "0105538003",
+    "code": "0105538003",
+    "name": "Banaoang",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105538000",
+      "code": "0105538000",
+      "name": "Santa Barbara"
+    }
+  },
+  {
+    "id": "0105538004",
+    "code": "0105538004",
+    "name": "Banzal",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105538000",
+      "code": "0105538000",
+      "name": "Santa Barbara"
+    }
+  },
+  {
+    "id": "0105538005",
+    "code": "0105538005",
+    "name": "Botao",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105538000",
+      "code": "0105538000",
+      "name": "Santa Barbara"
+    }
+  },
+  {
+    "id": "0105538006",
+    "code": "0105538006",
+    "name": "Cablong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105538000",
+      "code": "0105538000",
+      "name": "Santa Barbara"
+    }
+  },
+  {
+    "id": "0105538007",
+    "code": "0105538007",
+    "name": "Carusocan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105538000",
+      "code": "0105538000",
+      "name": "Santa Barbara"
+    }
+  },
+  {
+    "id": "0105538008",
+    "code": "0105538008",
+    "name": "Dalongue",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105538000",
+      "code": "0105538000",
+      "name": "Santa Barbara"
+    }
+  },
+  {
+    "id": "0105538009",
+    "code": "0105538009",
+    "name": "Erfe",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105538000",
+      "code": "0105538000",
+      "name": "Santa Barbara"
+    }
+  },
+  {
+    "id": "0105538010",
+    "code": "0105538010",
+    "name": "Gueguesangen",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105538000",
+      "code": "0105538000",
+      "name": "Santa Barbara"
+    }
+  },
+  {
+    "id": "0105538011",
+    "code": "0105538011",
+    "name": "Leet",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105538000",
+      "code": "0105538000",
+      "name": "Santa Barbara"
+    }
+  },
+  {
+    "id": "0105538012",
+    "code": "0105538012",
+    "name": "Malanay",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105538000",
+      "code": "0105538000",
+      "name": "Santa Barbara"
+    }
+  },
+  {
+    "id": "0105538013",
+    "code": "0105538013",
+    "name": "Maningding",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105538000",
+      "code": "0105538000",
+      "name": "Santa Barbara"
+    }
+  },
+  {
+    "id": "0105538014",
+    "code": "0105538014",
+    "name": "Maronong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105538000",
+      "code": "0105538000",
+      "name": "Santa Barbara"
+    }
+  },
+  {
+    "id": "0105538015",
+    "code": "0105538015",
+    "name": "Maticmatic",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105538000",
+      "code": "0105538000",
+      "name": "Santa Barbara"
+    }
+  },
+  {
+    "id": "0105538016",
+    "code": "0105538016",
+    "name": "Minien East",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105538000",
+      "code": "0105538000",
+      "name": "Santa Barbara"
+    }
+  },
+  {
+    "id": "0105538017",
+    "code": "0105538017",
+    "name": "Minien West",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105538000",
+      "code": "0105538000",
+      "name": "Santa Barbara"
+    }
+  },
+  {
+    "id": "0105538018",
+    "code": "0105538018",
+    "name": "Nilombot",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105538000",
+      "code": "0105538000",
+      "name": "Santa Barbara"
+    }
+  },
+  {
+    "id": "0105538019",
+    "code": "0105538019",
+    "name": "Patayac",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105538000",
+      "code": "0105538000",
+      "name": "Santa Barbara"
+    }
+  },
+  {
+    "id": "0105538020",
+    "code": "0105538020",
+    "name": "Payas",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105538000",
+      "code": "0105538000",
+      "name": "Santa Barbara"
+    }
+  },
+  {
+    "id": "0105538021",
+    "code": "0105538021",
+    "name": "Poblacion Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105538000",
+      "code": "0105538000",
+      "name": "Santa Barbara"
+    }
+  },
+  {
+    "id": "0105538022",
+    "code": "0105538022",
+    "name": "Poblacion Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105538000",
+      "code": "0105538000",
+      "name": "Santa Barbara"
+    }
+  },
+  {
+    "id": "0105538029",
+    "code": "0105538029",
+    "name": "Primicias",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105538000",
+      "code": "0105538000",
+      "name": "Santa Barbara"
+    }
+  },
+  {
+    "id": "0105538023",
+    "code": "0105538023",
+    "name": "Sapang",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105538000",
+      "code": "0105538000",
+      "name": "Santa Barbara"
+    }
+  },
+  {
+    "id": "0105538024",
+    "code": "0105538024",
+    "name": "Sonquil",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105538000",
+      "code": "0105538000",
+      "name": "Santa Barbara"
+    }
+  },
+  {
+    "id": "0105538025",
+    "code": "0105538025",
+    "name": "Tebag East",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105538000",
+      "code": "0105538000",
+      "name": "Santa Barbara"
+    }
+  },
+  {
+    "id": "0105538026",
+    "code": "0105538026",
+    "name": "Tebag West",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105538000",
+      "code": "0105538000",
+      "name": "Santa Barbara"
+    }
+  },
+  {
+    "id": "0105538027",
+    "code": "0105538027",
+    "name": "Tuliao",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105538000",
+      "code": "0105538000",
+      "name": "Santa Barbara"
+    }
+  },
+  {
+    "id": "0105538028",
+    "code": "0105538028",
+    "name": "Ventinilla",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105538000",
+      "code": "0105538000",
+      "name": "Santa Barbara"
+    }
+  }
+]

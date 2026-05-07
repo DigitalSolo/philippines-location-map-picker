@@ -1,0 +1,443 @@
+[
+  {
+    "id": "0702215001",
+    "code": "0702215001",
+    "name": "Baring",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702215000",
+      "code": "0702215000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0702215002",
+    "code": "0702215002",
+    "name": "Cantipay",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702215000",
+      "code": "0702215000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0702215004",
+    "code": "0702215004",
+    "name": "Cantukong",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702215000",
+      "code": "0702215000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0702215003",
+    "code": "0702215003",
+    "name": "Cantumog",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702215000",
+      "code": "0702215000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0702215005",
+    "code": "0702215005",
+    "name": "Caurasan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702215000",
+      "code": "0702215000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0702215009",
+    "code": "0702215009",
+    "name": "Cogon East",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702215000",
+      "code": "0702215000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0702215021",
+    "code": "0702215021",
+    "name": "Cogon West",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702215000",
+      "code": "0702215000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0702215006",
+    "code": "0702215006",
+    "name": "Corte",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702215000",
+      "code": "0702215000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0702215007",
+    "code": "0702215007",
+    "name": "Dawis Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702215000",
+      "code": "0702215000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0702215008",
+    "code": "0702215008",
+    "name": "Dawis Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702215000",
+      "code": "0702215000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0702215010",
+    "code": "0702215010",
+    "name": "Hagnaya",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702215000",
+      "code": "0702215000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0702215011",
+    "code": "0702215011",
+    "name": "Ipil",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702215000",
+      "code": "0702215000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0702215012",
+    "code": "0702215012",
+    "name": "Lanipga",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702215000",
+      "code": "0702215000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0702215013",
+    "code": "0702215013",
+    "name": "Liboron",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702215000",
+      "code": "0702215000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0702215014",
+    "code": "0702215014",
+    "name": "Lower Natimao-an",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702215000",
+      "code": "0702215000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0702215015",
+    "code": "0702215015",
+    "name": "Luyang",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702215000",
+      "code": "0702215000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0702215016",
+    "code": "0702215016",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702215000",
+      "code": "0702215000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0702215017",
+    "code": "0702215017",
+    "name": "Puente",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702215000",
+      "code": "0702215000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0702215018",
+    "code": "0702215018",
+    "name": "Sac-on",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702215000",
+      "code": "0702215000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0702215019",
+    "code": "0702215019",
+    "name": "Triumfo",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702215000",
+      "code": "0702215000",
+      "name": "Carmen"
+    }
+  },
+  {
+    "id": "0702215020",
+    "code": "0702215020",
+    "name": "Upper Natimao-an",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702215000",
+      "code": "0702215000",
+      "name": "Carmen"
+    }
+  }
+]

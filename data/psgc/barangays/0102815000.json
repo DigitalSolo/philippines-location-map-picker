@@ -1,0 +1,338 @@
+[
+  {
+    "id": "0102815001",
+    "code": "0102815001",
+    "name": "Aggasi",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102815000",
+      "code": "0102815000",
+      "name": "Pagudpud"
+    }
+  },
+  {
+    "id": "0102815003",
+    "code": "0102815003",
+    "name": "Baduang",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102815000",
+      "code": "0102815000",
+      "name": "Pagudpud"
+    }
+  },
+  {
+    "id": "0102815004",
+    "code": "0102815004",
+    "name": "Balaoi",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102815000",
+      "code": "0102815000",
+      "name": "Pagudpud"
+    }
+  },
+  {
+    "id": "0102815005",
+    "code": "0102815005",
+    "name": "Burayoc",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102815000",
+      "code": "0102815000",
+      "name": "Pagudpud"
+    }
+  },
+  {
+    "id": "0102815018",
+    "code": "0102815018",
+    "name": "Caparispisan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102815000",
+      "code": "0102815000",
+      "name": "Pagudpud"
+    }
+  },
+  {
+    "id": "0102815006",
+    "code": "0102815006",
+    "name": "Caunayan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102815000",
+      "code": "0102815000",
+      "name": "Pagudpud"
+    }
+  },
+  {
+    "id": "0102815007",
+    "code": "0102815007",
+    "name": "Dampig",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102815000",
+      "code": "0102815000",
+      "name": "Pagudpud"
+    }
+  },
+  {
+    "id": "0102815008",
+    "code": "0102815008",
+    "name": "Ligaya",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102815000",
+      "code": "0102815000",
+      "name": "Pagudpud"
+    }
+  },
+  {
+    "id": "0102815010",
+    "code": "0102815010",
+    "name": "Pancian",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102815000",
+      "code": "0102815000",
+      "name": "Pagudpud"
+    }
+  },
+  {
+    "id": "0102815011",
+    "code": "0102815011",
+    "name": "Pasaleng",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102815000",
+      "code": "0102815000",
+      "name": "Pagudpud"
+    }
+  },
+  {
+    "id": "0102815012",
+    "code": "0102815012",
+    "name": "Poblacion 1",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102815000",
+      "code": "0102815000",
+      "name": "Pagudpud"
+    }
+  },
+  {
+    "id": "0102815013",
+    "code": "0102815013",
+    "name": "Poblacion 2",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102815000",
+      "code": "0102815000",
+      "name": "Pagudpud"
+    }
+  },
+  {
+    "id": "0102815014",
+    "code": "0102815014",
+    "name": "Saguigui",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102815000",
+      "code": "0102815000",
+      "name": "Pagudpud"
+    }
+  },
+  {
+    "id": "0102815015",
+    "code": "0102815015",
+    "name": "Saud",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102815000",
+      "code": "0102815000",
+      "name": "Pagudpud"
+    }
+  },
+  {
+    "id": "0102815016",
+    "code": "0102815016",
+    "name": "Subec",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102815000",
+      "code": "0102815000",
+      "name": "Pagudpud"
+    }
+  },
+  {
+    "id": "0102815017",
+    "code": "0102815017",
+    "name": "Tarrag",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102815000",
+      "code": "0102815000",
+      "name": "Pagudpud"
+    }
+  }
+]

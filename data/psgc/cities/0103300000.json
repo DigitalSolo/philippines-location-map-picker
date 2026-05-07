@@ -1,0 +1,322 @@
+[
+  {
+    "id": "0103301000",
+    "code": "0103301000",
+    "name": "Agoo",
+    "type": "city_municipality",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    }
+  },
+  {
+    "id": "0103302000",
+    "code": "0103302000",
+    "name": "Aringay",
+    "type": "city_municipality",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    }
+  },
+  {
+    "id": "0103303000",
+    "code": "0103303000",
+    "name": "Bacnotan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    }
+  },
+  {
+    "id": "0103304000",
+    "code": "0103304000",
+    "name": "Bagulin",
+    "type": "city_municipality",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    }
+  },
+  {
+    "id": "0103305000",
+    "code": "0103305000",
+    "name": "Balaoan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    }
+  },
+  {
+    "id": "0103306000",
+    "code": "0103306000",
+    "name": "Bangar",
+    "type": "city_municipality",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    }
+  },
+  {
+    "id": "0103307000",
+    "code": "0103307000",
+    "name": "Bauang",
+    "type": "city_municipality",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    }
+  },
+  {
+    "id": "0103308000",
+    "code": "0103308000",
+    "name": "Burgos",
+    "type": "city_municipality",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    }
+  },
+  {
+    "id": "0103309000",
+    "code": "0103309000",
+    "name": "Caba",
+    "type": "city_municipality",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    }
+  },
+  {
+    "id": "0103314000",
+    "code": "0103314000",
+    "name": "City of San Fernando",
+    "type": "city_municipality",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    }
+  },
+  {
+    "id": "0103310000",
+    "code": "0103310000",
+    "name": "Luna",
+    "type": "city_municipality",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    }
+  },
+  {
+    "id": "0103311000",
+    "code": "0103311000",
+    "name": "Naguilian",
+    "type": "city_municipality",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    }
+  },
+  {
+    "id": "0103312000",
+    "code": "0103312000",
+    "name": "Pugo",
+    "type": "city_municipality",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    }
+  },
+  {
+    "id": "0103313000",
+    "code": "0103313000",
+    "name": "Rosario",
+    "type": "city_municipality",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    }
+  },
+  {
+    "id": "0103315000",
+    "code": "0103315000",
+    "name": "San Gabriel",
+    "type": "city_municipality",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    }
+  },
+  {
+    "id": "0103316000",
+    "code": "0103316000",
+    "name": "San Juan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    }
+  },
+  {
+    "id": "0103317000",
+    "code": "0103317000",
+    "name": "Santo Tomas",
+    "type": "city_municipality",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    }
+  },
+  {
+    "id": "0103318000",
+    "code": "0103318000",
+    "name": "Santol",
+    "type": "city_municipality",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    }
+  },
+  {
+    "id": "0103319000",
+    "code": "0103319000",
+    "name": "Sudipen",
+    "type": "city_municipality",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    }
+  },
+  {
+    "id": "0103320000",
+    "code": "0103320000",
+    "name": "Tubao",
+    "type": "city_municipality",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    }
+  }
+]

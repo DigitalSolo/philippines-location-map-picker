@@ -1,0 +1,695 @@
+[
+  {
+    "id": "0402108001",
+    "code": "0402108001",
+    "name": "Alingaro",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402108000",
+      "code": "0402108000",
+      "name": "City of General Trias"
+    }
+  },
+  {
+    "id": "0402108030",
+    "code": "0402108030",
+    "name": "Arnaldo Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402108000",
+      "code": "0402108000",
+      "name": "City of General Trias"
+    }
+  },
+  {
+    "id": "0402108002",
+    "code": "0402108002",
+    "name": "Bacao I",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402108000",
+      "code": "0402108000",
+      "name": "City of General Trias"
+    }
+  },
+  {
+    "id": "0402108031",
+    "code": "0402108031",
+    "name": "Bacao II",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402108000",
+      "code": "0402108000",
+      "name": "City of General Trias"
+    }
+  },
+  {
+    "id": "0402108007",
+    "code": "0402108007",
+    "name": "Bagumbayan Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402108000",
+      "code": "0402108000",
+      "name": "City of General Trias"
+    }
+  },
+  {
+    "id": "0402108011",
+    "code": "0402108011",
+    "name": "Biclatan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402108000",
+      "code": "0402108000",
+      "name": "City of General Trias"
+    }
+  },
+  {
+    "id": "0402108012",
+    "code": "0402108012",
+    "name": "Buenavista I",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402108000",
+      "code": "0402108000",
+      "name": "City of General Trias"
+    }
+  },
+  {
+    "id": "0402108032",
+    "code": "0402108032",
+    "name": "Buenavista II",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402108000",
+      "code": "0402108000",
+      "name": "City of General Trias"
+    }
+  },
+  {
+    "id": "0402108033",
+    "code": "0402108033",
+    "name": "Buenavista III",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402108000",
+      "code": "0402108000",
+      "name": "City of General Trias"
+    }
+  },
+  {
+    "id": "0402108013",
+    "code": "0402108013",
+    "name": "Corregidor Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402108000",
+      "code": "0402108000",
+      "name": "City of General Trias"
+    }
+  },
+  {
+    "id": "0402108005",
+    "code": "0402108005",
+    "name": "Dulong Bayan Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402108000",
+      "code": "0402108000",
+      "name": "City of General Trias"
+    }
+  },
+  {
+    "id": "0402108003",
+    "code": "0402108003",
+    "name": "Gov. Ferrer Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402108000",
+      "code": "0402108000",
+      "name": "City of General Trias"
+    }
+  },
+  {
+    "id": "0402108014",
+    "code": "0402108014",
+    "name": "Javalera",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402108000",
+      "code": "0402108000",
+      "name": "City of General Trias"
+    }
+  },
+  {
+    "id": "0402108015",
+    "code": "0402108015",
+    "name": "Manggahan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402108000",
+      "code": "0402108000",
+      "name": "City of General Trias"
+    }
+  },
+  {
+    "id": "0402108016",
+    "code": "0402108016",
+    "name": "Navarro",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402108000",
+      "code": "0402108000",
+      "name": "City of General Trias"
+    }
+  },
+  {
+    "id": "0402108009",
+    "code": "0402108009",
+    "name": "Ninety Sixth Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402108000",
+      "code": "0402108000",
+      "name": "City of General Trias"
+    }
+  },
+  {
+    "id": "0402108017",
+    "code": "0402108017",
+    "name": "Panungyanan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402108000",
+      "code": "0402108000",
+      "name": "City of General Trias"
+    }
+  },
+  {
+    "id": "0402108018",
+    "code": "0402108018",
+    "name": "Pasong Camachile I",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402108000",
+      "code": "0402108000",
+      "name": "City of General Trias"
+    }
+  },
+  {
+    "id": "0402108034",
+    "code": "0402108034",
+    "name": "Pasong Camachile II",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402108000",
+      "code": "0402108000",
+      "name": "City of General Trias"
+    }
+  },
+  {
+    "id": "0402108020",
+    "code": "0402108020",
+    "name": "Pasong Kawayan I",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402108000",
+      "code": "0402108000",
+      "name": "City of General Trias"
+    }
+  },
+  {
+    "id": "0402108021",
+    "code": "0402108021",
+    "name": "Pasong Kawayan II",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402108000",
+      "code": "0402108000",
+      "name": "City of General Trias"
+    }
+  },
+  {
+    "id": "0402108022",
+    "code": "0402108022",
+    "name": "Pinagtipunan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402108000",
+      "code": "0402108000",
+      "name": "City of General Trias"
+    }
+  },
+  {
+    "id": "0402108010",
+    "code": "0402108010",
+    "name": "Prinza Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402108000",
+      "code": "0402108000",
+      "name": "City of General Trias"
+    }
+  },
+  {
+    "id": "0402108004",
+    "code": "0402108004",
+    "name": "Sampalucan Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402108000",
+      "code": "0402108000",
+      "name": "City of General Trias"
+    }
+  },
+  {
+    "id": "0402108023",
+    "code": "0402108023",
+    "name": "San Francisco",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402108000",
+      "code": "0402108000",
+      "name": "City of General Trias"
+    }
+  },
+  {
+    "id": "0402108006",
+    "code": "0402108006",
+    "name": "San Gabriel Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402108000",
+      "code": "0402108000",
+      "name": "City of General Trias"
+    }
+  },
+  {
+    "id": "0402108025",
+    "code": "0402108025",
+    "name": "San Juan I",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402108000",
+      "code": "0402108000",
+      "name": "City of General Trias"
+    }
+  },
+  {
+    "id": "0402108035",
+    "code": "0402108035",
+    "name": "San Juan II",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402108000",
+      "code": "0402108000",
+      "name": "City of General Trias"
+    }
+  },
+  {
+    "id": "0402108026",
+    "code": "0402108026",
+    "name": "Santa Clara",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402108000",
+      "code": "0402108000",
+      "name": "City of General Trias"
+    }
+  },
+  {
+    "id": "0402108027",
+    "code": "0402108027",
+    "name": "Santiago",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402108000",
+      "code": "0402108000",
+      "name": "City of General Trias"
+    }
+  },
+  {
+    "id": "0402108028",
+    "code": "0402108028",
+    "name": "Tapia",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402108000",
+      "code": "0402108000",
+      "name": "City of General Trias"
+    }
+  },
+  {
+    "id": "0402108029",
+    "code": "0402108029",
+    "name": "Tejero",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402108000",
+      "code": "0402108000",
+      "name": "City of General Trias"
+    }
+  },
+  {
+    "id": "0402108008",
+    "code": "0402108008",
+    "name": "Vibora Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402108000",
+      "code": "0402108000",
+      "name": "City of General Trias"
+    }
+  }
+]

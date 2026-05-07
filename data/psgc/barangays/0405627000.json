@@ -1,0 +1,842 @@
+[
+  {
+    "id": "0405627001",
+    "code": "0405627001",
+    "name": "Abo-abo",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405627000",
+      "code": "0405627000",
+      "name": "Mauban"
+    }
+  },
+  {
+    "id": "0405627002",
+    "code": "0405627002",
+    "name": "Alitap",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405627000",
+      "code": "0405627000",
+      "name": "Mauban"
+    }
+  },
+  {
+    "id": "0405627003",
+    "code": "0405627003",
+    "name": "Baao",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405627000",
+      "code": "0405627000",
+      "name": "Mauban"
+    }
+  },
+  {
+    "id": "0405627020",
+    "code": "0405627020",
+    "name": "Bagong Bayan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405627000",
+      "code": "0405627000",
+      "name": "Mauban"
+    }
+  },
+  {
+    "id": "0405627004",
+    "code": "0405627004",
+    "name": "Balaybalay",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405627000",
+      "code": "0405627000",
+      "name": "Mauban"
+    }
+  },
+  {
+    "id": "0405627005",
+    "code": "0405627005",
+    "name": "Bato",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405627000",
+      "code": "0405627000",
+      "name": "Mauban"
+    }
+  },
+  {
+    "id": "0405627006",
+    "code": "0405627006",
+    "name": "Cagbalete I",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405627000",
+      "code": "0405627000",
+      "name": "Mauban"
+    }
+  },
+  {
+    "id": "0405627007",
+    "code": "0405627007",
+    "name": "Cagbalete II",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405627000",
+      "code": "0405627000",
+      "name": "Mauban"
+    }
+  },
+  {
+    "id": "0405627008",
+    "code": "0405627008",
+    "name": "Cagsiay I",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405627000",
+      "code": "0405627000",
+      "name": "Mauban"
+    }
+  },
+  {
+    "id": "0405627009",
+    "code": "0405627009",
+    "name": "Cagsiay II",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405627000",
+      "code": "0405627000",
+      "name": "Mauban"
+    }
+  },
+  {
+    "id": "0405627010",
+    "code": "0405627010",
+    "name": "Cagsiay III",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405627000",
+      "code": "0405627000",
+      "name": "Mauban"
+    }
+  },
+  {
+    "id": "0405627011",
+    "code": "0405627011",
+    "name": "Concepcion",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405627000",
+      "code": "0405627000",
+      "name": "Mauban"
+    }
+  },
+  {
+    "id": "0405627019",
+    "code": "0405627019",
+    "name": "Daungan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405627000",
+      "code": "0405627000",
+      "name": "Mauban"
+    }
+  },
+  {
+    "id": "0405627012",
+    "code": "0405627012",
+    "name": "Liwayway",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405627000",
+      "code": "0405627000",
+      "name": "Mauban"
+    }
+  },
+  {
+    "id": "0405627017",
+    "code": "0405627017",
+    "name": "Lual",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405627000",
+      "code": "0405627000",
+      "name": "Mauban"
+    }
+  },
+  {
+    "id": "0405627042",
+    "code": "0405627042",
+    "name": "Lual Rural",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405627000",
+      "code": "0405627000",
+      "name": "Mauban"
+    }
+  },
+  {
+    "id": "0405627013",
+    "code": "0405627013",
+    "name": "Lucutan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405627000",
+      "code": "0405627000",
+      "name": "Mauban"
+    }
+  },
+  {
+    "id": "0405627014",
+    "code": "0405627014",
+    "name": "Luya-luya",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405627000",
+      "code": "0405627000",
+      "name": "Mauban"
+    }
+  },
+  {
+    "id": "0405627018",
+    "code": "0405627018",
+    "name": "Mabato",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405627000",
+      "code": "0405627000",
+      "name": "Mauban"
+    }
+  },
+  {
+    "id": "0405627015",
+    "code": "0405627015",
+    "name": "Macasin",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405627000",
+      "code": "0405627000",
+      "name": "Mauban"
+    }
+  },
+  {
+    "id": "0405627024",
+    "code": "0405627024",
+    "name": "Polo",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405627000",
+      "code": "0405627000",
+      "name": "Mauban"
+    }
+  },
+  {
+    "id": "0405627025",
+    "code": "0405627025",
+    "name": "Remedios I",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405627000",
+      "code": "0405627000",
+      "name": "Mauban"
+    }
+  },
+  {
+    "id": "0405627026",
+    "code": "0405627026",
+    "name": "Remedios II",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405627000",
+      "code": "0405627000",
+      "name": "Mauban"
+    }
+  },
+  {
+    "id": "0405627022",
+    "code": "0405627022",
+    "name": "Rizaliana",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405627000",
+      "code": "0405627000",
+      "name": "Mauban"
+    }
+  },
+  {
+    "id": "0405627027",
+    "code": "0405627027",
+    "name": "Rosario",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405627000",
+      "code": "0405627000",
+      "name": "Mauban"
+    }
+  },
+  {
+    "id": "0405627021",
+    "code": "0405627021",
+    "name": "Sadsaran",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405627000",
+      "code": "0405627000",
+      "name": "Mauban"
+    }
+  },
+  {
+    "id": "0405627028",
+    "code": "0405627028",
+    "name": "San Gabriel",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405627000",
+      "code": "0405627000",
+      "name": "Mauban"
+    }
+  },
+  {
+    "id": "0405627029",
+    "code": "0405627029",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405627000",
+      "code": "0405627000",
+      "name": "Mauban"
+    }
+  },
+  {
+    "id": "0405627030",
+    "code": "0405627030",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405627000",
+      "code": "0405627000",
+      "name": "Mauban"
+    }
+  },
+  {
+    "id": "0405627031",
+    "code": "0405627031",
+    "name": "San Lorenzo",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405627000",
+      "code": "0405627000",
+      "name": "Mauban"
+    }
+  },
+  {
+    "id": "0405627032",
+    "code": "0405627032",
+    "name": "San Miguel",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405627000",
+      "code": "0405627000",
+      "name": "Mauban"
+    }
+  },
+  {
+    "id": "0405627033",
+    "code": "0405627033",
+    "name": "San Rafael",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405627000",
+      "code": "0405627000",
+      "name": "Mauban"
+    }
+  },
+  {
+    "id": "0405627034",
+    "code": "0405627034",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405627000",
+      "code": "0405627000",
+      "name": "Mauban"
+    }
+  },
+  {
+    "id": "0405627035",
+    "code": "0405627035",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405627000",
+      "code": "0405627000",
+      "name": "Mauban"
+    }
+  },
+  {
+    "id": "0405627036",
+    "code": "0405627036",
+    "name": "Santa Lucia",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405627000",
+      "code": "0405627000",
+      "name": "Mauban"
+    }
+  },
+  {
+    "id": "0405627037",
+    "code": "0405627037",
+    "name": "Santo Angel",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405627000",
+      "code": "0405627000",
+      "name": "Mauban"
+    }
+  },
+  {
+    "id": "0405627038",
+    "code": "0405627038",
+    "name": "Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405627000",
+      "code": "0405627000",
+      "name": "Mauban"
+    }
+  },
+  {
+    "id": "0405627039",
+    "code": "0405627039",
+    "name": "Santol",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405627000",
+      "code": "0405627000",
+      "name": "Mauban"
+    }
+  },
+  {
+    "id": "0405627040",
+    "code": "0405627040",
+    "name": "Soledad",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405627000",
+      "code": "0405627000",
+      "name": "Mauban"
+    }
+  },
+  {
+    "id": "0405627041",
+    "code": "0405627041",
+    "name": "Tapucan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405627000",
+      "code": "0405627000",
+      "name": "Mauban"
+    }
+  }
+]

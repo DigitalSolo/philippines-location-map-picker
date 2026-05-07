@@ -1,0 +1,485 @@
+[
+  {
+    "id": "1001308003",
+    "code": "1001308003",
+    "name": "Balintawak",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001308000",
+      "code": "1001308000",
+      "name": "Kibawe"
+    }
+  },
+  {
+    "id": "1001308036",
+    "code": "1001308036",
+    "name": "Bukang Liwayway",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001308000",
+      "code": "1001308000",
+      "name": "Kibawe"
+    }
+  },
+  {
+    "id": "1001308006",
+    "code": "1001308006",
+    "name": "Cagawasan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001308000",
+      "code": "1001308000",
+      "name": "Kibawe"
+    }
+  },
+  {
+    "id": "1001308007",
+    "code": "1001308007",
+    "name": "East Kibawe",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001308000",
+      "code": "1001308000",
+      "name": "Kibawe"
+    }
+  },
+  {
+    "id": "1001308008",
+    "code": "1001308008",
+    "name": "Gutapol",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001308000",
+      "code": "1001308000",
+      "name": "Kibawe"
+    }
+  },
+  {
+    "id": "1001308013",
+    "code": "1001308013",
+    "name": "Kiorao",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001308000",
+      "code": "1001308000",
+      "name": "Kibawe"
+    }
+  },
+  {
+    "id": "1001308014",
+    "code": "1001308014",
+    "name": "Kisawa",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001308000",
+      "code": "1001308000",
+      "name": "Kibawe"
+    }
+  },
+  {
+    "id": "1001308015",
+    "code": "1001308015",
+    "name": "Labuagon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001308000",
+      "code": "1001308000",
+      "name": "Kibawe"
+    }
+  },
+  {
+    "id": "1001308016",
+    "code": "1001308016",
+    "name": "Magsaysay",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001308000",
+      "code": "1001308000",
+      "name": "Kibawe"
+    }
+  },
+  {
+    "id": "1001308018",
+    "code": "1001308018",
+    "name": "Marapangi",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001308000",
+      "code": "1001308000",
+      "name": "Kibawe"
+    }
+  },
+  {
+    "id": "1001308019",
+    "code": "1001308019",
+    "name": "Mascariñas",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001308000",
+      "code": "1001308000",
+      "name": "Kibawe"
+    }
+  },
+  {
+    "id": "1001308020",
+    "code": "1001308020",
+    "name": "Natulongan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001308000",
+      "code": "1001308000",
+      "name": "Kibawe"
+    }
+  },
+  {
+    "id": "1001308021",
+    "code": "1001308021",
+    "name": "New Kidapawan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001308000",
+      "code": "1001308000",
+      "name": "Kibawe"
+    }
+  },
+  {
+    "id": "1001308023",
+    "code": "1001308023",
+    "name": "Old Kibawe",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001308000",
+      "code": "1001308000",
+      "name": "Kibawe"
+    }
+  },
+  {
+    "id": "1001308037",
+    "code": "1001308037",
+    "name": "Palma",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001308000",
+      "code": "1001308000",
+      "name": "Kibawe"
+    }
+  },
+  {
+    "id": "1001308011",
+    "code": "1001308011",
+    "name": "Pinamula",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001308000",
+      "code": "1001308000",
+      "name": "Kibawe"
+    }
+  },
+  {
+    "id": "1001308028",
+    "code": "1001308028",
+    "name": "Romagooc",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001308000",
+      "code": "1001308000",
+      "name": "Kibawe"
+    }
+  },
+  {
+    "id": "1001308030",
+    "code": "1001308030",
+    "name": "Sampaguita",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001308000",
+      "code": "1001308000",
+      "name": "Kibawe"
+    }
+  },
+  {
+    "id": "1001308031",
+    "code": "1001308031",
+    "name": "Sanipon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001308000",
+      "code": "1001308000",
+      "name": "Kibawe"
+    }
+  },
+  {
+    "id": "1001308032",
+    "code": "1001308032",
+    "name": "Spring",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001308000",
+      "code": "1001308000",
+      "name": "Kibawe"
+    }
+  },
+  {
+    "id": "1001308033",
+    "code": "1001308033",
+    "name": "Talahiron",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001308000",
+      "code": "1001308000",
+      "name": "Kibawe"
+    }
+  },
+  {
+    "id": "1001308034",
+    "code": "1001308034",
+    "name": "Tumaras",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001308000",
+      "code": "1001308000",
+      "name": "Kibawe"
+    }
+  },
+  {
+    "id": "1001308035",
+    "code": "1001308035",
+    "name": "West Kibawe",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001308000",
+      "code": "1001308000",
+      "name": "Kibawe"
+    }
+  }
+]

@@ -1,0 +1,296 @@
+[
+  {
+    "id": "1606813001",
+    "code": "1606813001",
+    "name": "Bagsac",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606813000",
+      "code": "1606813000",
+      "name": "Madrid"
+    }
+  },
+  {
+    "id": "1606813002",
+    "code": "1606813002",
+    "name": "Bayogo",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606813000",
+      "code": "1606813000",
+      "name": "Madrid"
+    }
+  },
+  {
+    "id": "1606813014",
+    "code": "1606813014",
+    "name": "Linibonan",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606813000",
+      "code": "1606813000",
+      "name": "Madrid"
+    }
+  },
+  {
+    "id": "1606813003",
+    "code": "1606813003",
+    "name": "Magsaysay",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606813000",
+      "code": "1606813000",
+      "name": "Madrid"
+    }
+  },
+  {
+    "id": "1606813004",
+    "code": "1606813004",
+    "name": "Manga",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606813000",
+      "code": "1606813000",
+      "name": "Madrid"
+    }
+  },
+  {
+    "id": "1606813005",
+    "code": "1606813005",
+    "name": "Panayogon",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606813000",
+      "code": "1606813000",
+      "name": "Madrid"
+    }
+  },
+  {
+    "id": "1606813006",
+    "code": "1606813006",
+    "name": "Patong Patong",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606813000",
+      "code": "1606813000",
+      "name": "Madrid"
+    }
+  },
+  {
+    "id": "1606813007",
+    "code": "1606813007",
+    "name": "Quirino",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606813000",
+      "code": "1606813000",
+      "name": "Madrid"
+    }
+  },
+  {
+    "id": "1606813008",
+    "code": "1606813008",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606813000",
+      "code": "1606813000",
+      "name": "Madrid"
+    }
+  },
+  {
+    "id": "1606813009",
+    "code": "1606813009",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606813000",
+      "code": "1606813000",
+      "name": "Madrid"
+    }
+  },
+  {
+    "id": "1606813010",
+    "code": "1606813010",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606813000",
+      "code": "1606813000",
+      "name": "Madrid"
+    }
+  },
+  {
+    "id": "1606813011",
+    "code": "1606813011",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606813000",
+      "code": "1606813000",
+      "name": "Madrid"
+    }
+  },
+  {
+    "id": "1606813012",
+    "code": "1606813012",
+    "name": "Songkit",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606813000",
+      "code": "1606813000",
+      "name": "Madrid"
+    }
+  },
+  {
+    "id": "1606813013",
+    "code": "1606813013",
+    "name": "Union",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606813000",
+      "code": "1606813000",
+      "name": "Madrid"
+    }
+  }
+]

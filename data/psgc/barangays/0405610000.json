@@ -1,0 +1,968 @@
+[
+  {
+    "id": "0405610001",
+    "code": "0405610001",
+    "name": "Ajos",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405610000",
+      "code": "0405610000",
+      "name": "Catanauan"
+    }
+  },
+  {
+    "id": "0405610002",
+    "code": "0405610002",
+    "name": "Anusan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405610000",
+      "code": "0405610000",
+      "name": "Catanauan"
+    }
+  },
+  {
+    "id": "0405610003",
+    "code": "0405610003",
+    "name": "Barangay 1",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405610000",
+      "code": "0405610000",
+      "name": "Catanauan"
+    }
+  },
+  {
+    "id": "0405610046",
+    "code": "0405610046",
+    "name": "Barangay 10",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405610000",
+      "code": "0405610000",
+      "name": "Catanauan"
+    }
+  },
+  {
+    "id": "0405610004",
+    "code": "0405610004",
+    "name": "Barangay 2",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405610000",
+      "code": "0405610000",
+      "name": "Catanauan"
+    }
+  },
+  {
+    "id": "0405610005",
+    "code": "0405610005",
+    "name": "Barangay 3",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405610000",
+      "code": "0405610000",
+      "name": "Catanauan"
+    }
+  },
+  {
+    "id": "0405610006",
+    "code": "0405610006",
+    "name": "Barangay 4",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405610000",
+      "code": "0405610000",
+      "name": "Catanauan"
+    }
+  },
+  {
+    "id": "0405610007",
+    "code": "0405610007",
+    "name": "Barangay 5",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405610000",
+      "code": "0405610000",
+      "name": "Catanauan"
+    }
+  },
+  {
+    "id": "0405610008",
+    "code": "0405610008",
+    "name": "Barangay 6",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405610000",
+      "code": "0405610000",
+      "name": "Catanauan"
+    }
+  },
+  {
+    "id": "0405610009",
+    "code": "0405610009",
+    "name": "Barangay 7",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405610000",
+      "code": "0405610000",
+      "name": "Catanauan"
+    }
+  },
+  {
+    "id": "0405610010",
+    "code": "0405610010",
+    "name": "Barangay 8",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405610000",
+      "code": "0405610000",
+      "name": "Catanauan"
+    }
+  },
+  {
+    "id": "0405610011",
+    "code": "0405610011",
+    "name": "Barangay 9",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405610000",
+      "code": "0405610000",
+      "name": "Catanauan"
+    }
+  },
+  {
+    "id": "0405610012",
+    "code": "0405610012",
+    "name": "Bolo",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405610000",
+      "code": "0405610000",
+      "name": "Catanauan"
+    }
+  },
+  {
+    "id": "0405610013",
+    "code": "0405610013",
+    "name": "Bulagsong",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405610000",
+      "code": "0405610000",
+      "name": "Catanauan"
+    }
+  },
+  {
+    "id": "0405610014",
+    "code": "0405610014",
+    "name": "Camandiison",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405610000",
+      "code": "0405610000",
+      "name": "Catanauan"
+    }
+  },
+  {
+    "id": "0405610015",
+    "code": "0405610015",
+    "name": "Canculajao",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405610000",
+      "code": "0405610000",
+      "name": "Catanauan"
+    }
+  },
+  {
+    "id": "0405610016",
+    "code": "0405610016",
+    "name": "Catumbo",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405610000",
+      "code": "0405610000",
+      "name": "Catanauan"
+    }
+  },
+  {
+    "id": "0405610017",
+    "code": "0405610017",
+    "name": "Cawayanin Ibaba",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405610000",
+      "code": "0405610000",
+      "name": "Catanauan"
+    }
+  },
+  {
+    "id": "0405610018",
+    "code": "0405610018",
+    "name": "Cawayanin Ilaya",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405610000",
+      "code": "0405610000",
+      "name": "Catanauan"
+    }
+  },
+  {
+    "id": "0405610019",
+    "code": "0405610019",
+    "name": "Cutcutan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405610000",
+      "code": "0405610000",
+      "name": "Catanauan"
+    }
+  },
+  {
+    "id": "0405610020",
+    "code": "0405610020",
+    "name": "Dahican",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405610000",
+      "code": "0405610000",
+      "name": "Catanauan"
+    }
+  },
+  {
+    "id": "0405610021",
+    "code": "0405610021",
+    "name": "Doongan Ibaba",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405610000",
+      "code": "0405610000",
+      "name": "Catanauan"
+    }
+  },
+  {
+    "id": "0405610022",
+    "code": "0405610022",
+    "name": "Doongan Ilaya",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405610000",
+      "code": "0405610000",
+      "name": "Catanauan"
+    }
+  },
+  {
+    "id": "0405610023",
+    "code": "0405610023",
+    "name": "Gatasan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405610000",
+      "code": "0405610000",
+      "name": "Catanauan"
+    }
+  },
+  {
+    "id": "0405610024",
+    "code": "0405610024",
+    "name": "Macpac",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405610000",
+      "code": "0405610000",
+      "name": "Catanauan"
+    }
+  },
+  {
+    "id": "0405610025",
+    "code": "0405610025",
+    "name": "Madulao",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405610000",
+      "code": "0405610000",
+      "name": "Catanauan"
+    }
+  },
+  {
+    "id": "0405610026",
+    "code": "0405610026",
+    "name": "Matandang Sabang Kanluran",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405610000",
+      "code": "0405610000",
+      "name": "Catanauan"
+    }
+  },
+  {
+    "id": "0405610027",
+    "code": "0405610027",
+    "name": "Matandang Sabang Silangan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405610000",
+      "code": "0405610000",
+      "name": "Catanauan"
+    }
+  },
+  {
+    "id": "0405610028",
+    "code": "0405610028",
+    "name": "Milagrosa",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405610000",
+      "code": "0405610000",
+      "name": "Catanauan"
+    }
+  },
+  {
+    "id": "0405610029",
+    "code": "0405610029",
+    "name": "Navitas",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405610000",
+      "code": "0405610000",
+      "name": "Catanauan"
+    }
+  },
+  {
+    "id": "0405610030",
+    "code": "0405610030",
+    "name": "Pacabit",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405610000",
+      "code": "0405610000",
+      "name": "Catanauan"
+    }
+  },
+  {
+    "id": "0405610031",
+    "code": "0405610031",
+    "name": "San Antonio Magkupa",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405610000",
+      "code": "0405610000",
+      "name": "Catanauan"
+    }
+  },
+  {
+    "id": "0405610032",
+    "code": "0405610032",
+    "name": "San Antonio Pala",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405610000",
+      "code": "0405610000",
+      "name": "Catanauan"
+    }
+  },
+  {
+    "id": "0405610033",
+    "code": "0405610033",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405610000",
+      "code": "0405610000",
+      "name": "Catanauan"
+    }
+  },
+  {
+    "id": "0405610034",
+    "code": "0405610034",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405610000",
+      "code": "0405610000",
+      "name": "Catanauan"
+    }
+  },
+  {
+    "id": "0405610035",
+    "code": "0405610035",
+    "name": "San Pablo",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405610000",
+      "code": "0405610000",
+      "name": "Catanauan"
+    }
+  },
+  {
+    "id": "0405610036",
+    "code": "0405610036",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405610000",
+      "code": "0405610000",
+      "name": "Catanauan"
+    }
+  },
+  {
+    "id": "0405610037",
+    "code": "0405610037",
+    "name": "San Vicente Kanluran",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405610000",
+      "code": "0405610000",
+      "name": "Catanauan"
+    }
+  },
+  {
+    "id": "0405610038",
+    "code": "0405610038",
+    "name": "San Vicente Silangan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405610000",
+      "code": "0405610000",
+      "name": "Catanauan"
+    }
+  },
+  {
+    "id": "0405610039",
+    "code": "0405610039",
+    "name": "Santa Maria",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405610000",
+      "code": "0405610000",
+      "name": "Catanauan"
+    }
+  },
+  {
+    "id": "0405610040",
+    "code": "0405610040",
+    "name": "Tagabas Ibaba",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405610000",
+      "code": "0405610000",
+      "name": "Catanauan"
+    }
+  },
+  {
+    "id": "0405610041",
+    "code": "0405610041",
+    "name": "Tagabas Ilaya",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405610000",
+      "code": "0405610000",
+      "name": "Catanauan"
+    }
+  },
+  {
+    "id": "0405610042",
+    "code": "0405610042",
+    "name": "Tagbacan Ibaba",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405610000",
+      "code": "0405610000",
+      "name": "Catanauan"
+    }
+  },
+  {
+    "id": "0405610043",
+    "code": "0405610043",
+    "name": "Tagbacan Ilaya",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405610000",
+      "code": "0405610000",
+      "name": "Catanauan"
+    }
+  },
+  {
+    "id": "0405610044",
+    "code": "0405610044",
+    "name": "Tagbacan Silangan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405610000",
+      "code": "0405610000",
+      "name": "Catanauan"
+    }
+  },
+  {
+    "id": "0405610045",
+    "code": "0405610045",
+    "name": "Tuhian",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405610000",
+      "code": "0405610000",
+      "name": "Catanauan"
+    }
+  }
+]

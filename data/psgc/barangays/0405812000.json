@@ -1,0 +1,422 @@
+[
+  {
+    "id": "0405812001",
+    "code": "0405812001",
+    "name": "Cayabu",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405812000",
+      "code": "0405812000",
+      "name": "Tanay"
+    }
+  },
+  {
+    "id": "0405812002",
+    "code": "0405812002",
+    "name": "Cuyambay",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405812000",
+      "code": "0405812000",
+      "name": "Tanay"
+    }
+  },
+  {
+    "id": "0405812003",
+    "code": "0405812003",
+    "name": "Daraitan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405812000",
+      "code": "0405812000",
+      "name": "Tanay"
+    }
+  },
+  {
+    "id": "0405812004",
+    "code": "0405812004",
+    "name": "Katipunan-Bayan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405812000",
+      "code": "0405812000",
+      "name": "Tanay"
+    }
+  },
+  {
+    "id": "0405812005",
+    "code": "0405812005",
+    "name": "Kaybuto",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405812000",
+      "code": "0405812000",
+      "name": "Tanay"
+    }
+  },
+  {
+    "id": "0405812006",
+    "code": "0405812006",
+    "name": "Laiban",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405812000",
+      "code": "0405812000",
+      "name": "Tanay"
+    }
+  },
+  {
+    "id": "0405812021",
+    "code": "0405812021",
+    "name": "Madilay-dilay",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405812000",
+      "code": "0405812000",
+      "name": "Tanay"
+    }
+  },
+  {
+    "id": "0405812007",
+    "code": "0405812007",
+    "name": "Mag-Ampon",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405812000",
+      "code": "0405812000",
+      "name": "Tanay"
+    }
+  },
+  {
+    "id": "0405812008",
+    "code": "0405812008",
+    "name": "Mamuyao",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405812000",
+      "code": "0405812000",
+      "name": "Tanay"
+    }
+  },
+  {
+    "id": "0405812009",
+    "code": "0405812009",
+    "name": "Pinagkamaligan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405812000",
+      "code": "0405812000",
+      "name": "Tanay"
+    }
+  },
+  {
+    "id": "0405812011",
+    "code": "0405812011",
+    "name": "Plaza Aldea",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405812000",
+      "code": "0405812000",
+      "name": "Tanay"
+    }
+  },
+  {
+    "id": "0405812012",
+    "code": "0405812012",
+    "name": "Sampaloc",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405812000",
+      "code": "0405812000",
+      "name": "Tanay"
+    }
+  },
+  {
+    "id": "0405812013",
+    "code": "0405812013",
+    "name": "San Andres",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405812000",
+      "code": "0405812000",
+      "name": "Tanay"
+    }
+  },
+  {
+    "id": "0405812014",
+    "code": "0405812014",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405812000",
+      "code": "0405812000",
+      "name": "Tanay"
+    }
+  },
+  {
+    "id": "0405812015",
+    "code": "0405812015",
+    "name": "Santa Inez",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405812000",
+      "code": "0405812000",
+      "name": "Tanay"
+    }
+  },
+  {
+    "id": "0405812016",
+    "code": "0405812016",
+    "name": "Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405812000",
+      "code": "0405812000",
+      "name": "Tanay"
+    }
+  },
+  {
+    "id": "0405812017",
+    "code": "0405812017",
+    "name": "Tabing Ilog",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405812000",
+      "code": "0405812000",
+      "name": "Tanay"
+    }
+  },
+  {
+    "id": "0405812018",
+    "code": "0405812018",
+    "name": "Tandang Kutyo",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405812000",
+      "code": "0405812000",
+      "name": "Tanay"
+    }
+  },
+  {
+    "id": "0405812019",
+    "code": "0405812019",
+    "name": "Tinucan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405812000",
+      "code": "0405812000",
+      "name": "Tanay"
+    }
+  },
+  {
+    "id": "0405812020",
+    "code": "0405812020",
+    "name": "Wawa",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405812000",
+      "code": "0405812000",
+      "name": "Tanay"
+    }
+  }
+]

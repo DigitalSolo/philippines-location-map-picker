@@ -1,0 +1,275 @@
+[
+  {
+    "id": "0307701001",
+    "code": "0307701001",
+    "name": "Barangay I",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307701000",
+      "code": "0307701000",
+      "name": "Baler"
+    }
+  },
+  {
+    "id": "0307701002",
+    "code": "0307701002",
+    "name": "Barangay II",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307701000",
+      "code": "0307701000",
+      "name": "Baler"
+    }
+  },
+  {
+    "id": "0307701003",
+    "code": "0307701003",
+    "name": "Barangay III",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307701000",
+      "code": "0307701000",
+      "name": "Baler"
+    }
+  },
+  {
+    "id": "0307701004",
+    "code": "0307701004",
+    "name": "Barangay IV",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307701000",
+      "code": "0307701000",
+      "name": "Baler"
+    }
+  },
+  {
+    "id": "0307701005",
+    "code": "0307701005",
+    "name": "Barangay V",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307701000",
+      "code": "0307701000",
+      "name": "Baler"
+    }
+  },
+  {
+    "id": "0307701006",
+    "code": "0307701006",
+    "name": "Buhangin",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307701000",
+      "code": "0307701000",
+      "name": "Baler"
+    }
+  },
+  {
+    "id": "0307701007",
+    "code": "0307701007",
+    "name": "Calabuanan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307701000",
+      "code": "0307701000",
+      "name": "Baler"
+    }
+  },
+  {
+    "id": "0307701008",
+    "code": "0307701008",
+    "name": "Obligacion",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307701000",
+      "code": "0307701000",
+      "name": "Baler"
+    }
+  },
+  {
+    "id": "0307701009",
+    "code": "0307701009",
+    "name": "Pingit",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307701000",
+      "code": "0307701000",
+      "name": "Baler"
+    }
+  },
+  {
+    "id": "0307701010",
+    "code": "0307701010",
+    "name": "Reserva",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307701000",
+      "code": "0307701000",
+      "name": "Baler"
+    }
+  },
+  {
+    "id": "0307701011",
+    "code": "0307701011",
+    "name": "Sabang",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307701000",
+      "code": "0307701000",
+      "name": "Baler"
+    }
+  },
+  {
+    "id": "0307701012",
+    "code": "0307701012",
+    "name": "Suclayin",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307701000",
+      "code": "0307701000",
+      "name": "Baler"
+    }
+  },
+  {
+    "id": "0307701013",
+    "code": "0307701013",
+    "name": "Zabali",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307701000",
+      "code": "0307701000",
+      "name": "Baler"
+    }
+  }
+]

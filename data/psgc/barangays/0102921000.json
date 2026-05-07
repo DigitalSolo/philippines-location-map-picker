@@ -1,0 +1,149 @@
+[
+  {
+    "id": "0102921001",
+    "code": "0102921001",
+    "name": "Bantaoay",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102921000",
+      "code": "0102921000",
+      "name": "San Vicente"
+    }
+  },
+  {
+    "id": "0102921002",
+    "code": "0102921002",
+    "name": "Bayubay Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102921000",
+      "code": "0102921000",
+      "name": "San Vicente"
+    }
+  },
+  {
+    "id": "0102921003",
+    "code": "0102921003",
+    "name": "Bayubay Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102921000",
+      "code": "0102921000",
+      "name": "San Vicente"
+    }
+  },
+  {
+    "id": "0102921004",
+    "code": "0102921004",
+    "name": "Lubong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102921000",
+      "code": "0102921000",
+      "name": "San Vicente"
+    }
+  },
+  {
+    "id": "0102921005",
+    "code": "0102921005",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102921000",
+      "code": "0102921000",
+      "name": "San Vicente"
+    }
+  },
+  {
+    "id": "0102921006",
+    "code": "0102921006",
+    "name": "Pudoc",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102921000",
+      "code": "0102921000",
+      "name": "San Vicente"
+    }
+  },
+  {
+    "id": "0102921007",
+    "code": "0102921007",
+    "name": "San Sebastian",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102921000",
+      "code": "0102921000",
+      "name": "San Vicente"
+    }
+  }
+]

@@ -1,0 +1,989 @@
+[
+  {
+    "id": "0500517001",
+    "code": "0500517001",
+    "name": "Agnas",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  },
+  {
+    "id": "0500517002",
+    "code": "0500517002",
+    "name": "Bacolod",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  },
+  {
+    "id": "0500517003",
+    "code": "0500517003",
+    "name": "Bangkilingan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  },
+  {
+    "id": "0500517004",
+    "code": "0500517004",
+    "name": "Bantayan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  },
+  {
+    "id": "0500517005",
+    "code": "0500517005",
+    "name": "Baranghawon",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  },
+  {
+    "id": "0500517006",
+    "code": "0500517006",
+    "name": "Basagan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  },
+  {
+    "id": "0500517007",
+    "code": "0500517007",
+    "name": "Basud",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  },
+  {
+    "id": "0500517008",
+    "code": "0500517008",
+    "name": "Bogñabong",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  },
+  {
+    "id": "0500517009",
+    "code": "0500517009",
+    "name": "Bombon",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  },
+  {
+    "id": "0500517010",
+    "code": "0500517010",
+    "name": "Bonot",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  },
+  {
+    "id": "0500517012",
+    "code": "0500517012",
+    "name": "Buang",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  },
+  {
+    "id": "0500517013",
+    "code": "0500517013",
+    "name": "Buhian",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  },
+  {
+    "id": "0500517014",
+    "code": "0500517014",
+    "name": "Cabagñan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  },
+  {
+    "id": "0500517015",
+    "code": "0500517015",
+    "name": "Cobo",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  },
+  {
+    "id": "0500517016",
+    "code": "0500517016",
+    "name": "Comon",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  },
+  {
+    "id": "0500517017",
+    "code": "0500517017",
+    "name": "Cormidal",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  },
+  {
+    "id": "0500517018",
+    "code": "0500517018",
+    "name": "Divino Rostro",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  },
+  {
+    "id": "0500517019",
+    "code": "0500517019",
+    "name": "Fatima",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  },
+  {
+    "id": "0500517020",
+    "code": "0500517020",
+    "name": "Guinobat",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  },
+  {
+    "id": "0500517021",
+    "code": "0500517021",
+    "name": "Hacienda",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  },
+  {
+    "id": "0500517022",
+    "code": "0500517022",
+    "name": "Magapo",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  },
+  {
+    "id": "0500517023",
+    "code": "0500517023",
+    "name": "Mariroc",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  },
+  {
+    "id": "0500517024",
+    "code": "0500517024",
+    "name": "Matagbac",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  },
+  {
+    "id": "0500517025",
+    "code": "0500517025",
+    "name": "Oras",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  },
+  {
+    "id": "0500517026",
+    "code": "0500517026",
+    "name": "Oson",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  },
+  {
+    "id": "0500517027",
+    "code": "0500517027",
+    "name": "Panal",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  },
+  {
+    "id": "0500517029",
+    "code": "0500517029",
+    "name": "Pawa",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  },
+  {
+    "id": "0500517030",
+    "code": "0500517030",
+    "name": "Pinagbobong",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  },
+  {
+    "id": "0500517031",
+    "code": "0500517031",
+    "name": "Quinale Cabasan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  },
+  {
+    "id": "0500517032",
+    "code": "0500517032",
+    "name": "Quinastillojan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  },
+  {
+    "id": "0500517033",
+    "code": "0500517033",
+    "name": "Rawis",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  },
+  {
+    "id": "0500517034",
+    "code": "0500517034",
+    "name": "Sagurong",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  },
+  {
+    "id": "0500517035",
+    "code": "0500517035",
+    "name": "Salvacion",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  },
+  {
+    "id": "0500517036",
+    "code": "0500517036",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  },
+  {
+    "id": "0500517037",
+    "code": "0500517037",
+    "name": "San Carlos",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  },
+  {
+    "id": "0500517011",
+    "code": "0500517011",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  },
+  {
+    "id": "0500517038",
+    "code": "0500517038",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  },
+  {
+    "id": "0500517039",
+    "code": "0500517039",
+    "name": "San Lorenzo",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  },
+  {
+    "id": "0500517040",
+    "code": "0500517040",
+    "name": "San Ramon",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  },
+  {
+    "id": "0500517041",
+    "code": "0500517041",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  },
+  {
+    "id": "0500517042",
+    "code": "0500517042",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  },
+  {
+    "id": "0500517044",
+    "code": "0500517044",
+    "name": "Santo Cristo",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  },
+  {
+    "id": "0500517045",
+    "code": "0500517045",
+    "name": "Sua-Igot",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  },
+  {
+    "id": "0500517046",
+    "code": "0500517046",
+    "name": "Tabiguian",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  },
+  {
+    "id": "0500517048",
+    "code": "0500517048",
+    "name": "Tagas",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  },
+  {
+    "id": "0500517049",
+    "code": "0500517049",
+    "name": "Tayhi",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  },
+  {
+    "id": "0500517050",
+    "code": "0500517050",
+    "name": "Visita",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500517000",
+      "code": "0500517000",
+      "name": "City of Tabaco"
+    }
+  }
+]

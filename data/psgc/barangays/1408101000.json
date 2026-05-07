@@ -1,0 +1,380 @@
+[
+  {
+    "id": "1408101001",
+    "code": "1408101001",
+    "name": "Butao",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1408100000",
+      "code": "1408100000",
+      "name": "Apayao"
+    },
+    "city_municipality": {
+      "id": "1408101000",
+      "code": "1408101000",
+      "name": "Calanasan"
+    }
+  },
+  {
+    "id": "1408101002",
+    "code": "1408101002",
+    "name": "Cadaclan",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1408100000",
+      "code": "1408100000",
+      "name": "Apayao"
+    },
+    "city_municipality": {
+      "id": "1408101000",
+      "code": "1408101000",
+      "name": "Calanasan"
+    }
+  },
+  {
+    "id": "1408101013",
+    "code": "1408101013",
+    "name": "Don Roque Ablan Sr.",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1408100000",
+      "code": "1408100000",
+      "name": "Apayao"
+    },
+    "city_municipality": {
+      "id": "1408101000",
+      "code": "1408101000",
+      "name": "Calanasan"
+    }
+  },
+  {
+    "id": "1408101014",
+    "code": "1408101014",
+    "name": "Eleazar",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1408100000",
+      "code": "1408100000",
+      "name": "Apayao"
+    },
+    "city_municipality": {
+      "id": "1408101000",
+      "code": "1408101000",
+      "name": "Calanasan"
+    }
+  },
+  {
+    "id": "1408101015",
+    "code": "1408101015",
+    "name": "Eva Puzon",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1408100000",
+      "code": "1408100000",
+      "name": "Apayao"
+    },
+    "city_municipality": {
+      "id": "1408101000",
+      "code": "1408101000",
+      "name": "Calanasan"
+    }
+  },
+  {
+    "id": "1408101016",
+    "code": "1408101016",
+    "name": "Kabugawan",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1408100000",
+      "code": "1408100000",
+      "name": "Apayao"
+    },
+    "city_municipality": {
+      "id": "1408101000",
+      "code": "1408101000",
+      "name": "Calanasan"
+    }
+  },
+  {
+    "id": "1408101003",
+    "code": "1408101003",
+    "name": "Langnao",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1408100000",
+      "code": "1408100000",
+      "name": "Apayao"
+    },
+    "city_municipality": {
+      "id": "1408101000",
+      "code": "1408101000",
+      "name": "Calanasan"
+    }
+  },
+  {
+    "id": "1408101004",
+    "code": "1408101004",
+    "name": "Lubong",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1408100000",
+      "code": "1408100000",
+      "name": "Apayao"
+    },
+    "city_municipality": {
+      "id": "1408101000",
+      "code": "1408101000",
+      "name": "Calanasan"
+    }
+  },
+  {
+    "id": "1408101017",
+    "code": "1408101017",
+    "name": "Macalino",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1408100000",
+      "code": "1408100000",
+      "name": "Apayao"
+    },
+    "city_municipality": {
+      "id": "1408101000",
+      "code": "1408101000",
+      "name": "Calanasan"
+    }
+  },
+  {
+    "id": "1408101005",
+    "code": "1408101005",
+    "name": "Naguilian",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1408100000",
+      "code": "1408100000",
+      "name": "Apayao"
+    },
+    "city_municipality": {
+      "id": "1408101000",
+      "code": "1408101000",
+      "name": "Calanasan"
+    }
+  },
+  {
+    "id": "1408101006",
+    "code": "1408101006",
+    "name": "Namaltugan",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1408100000",
+      "code": "1408100000",
+      "name": "Apayao"
+    },
+    "city_municipality": {
+      "id": "1408101000",
+      "code": "1408101000",
+      "name": "Calanasan"
+    }
+  },
+  {
+    "id": "1408101007",
+    "code": "1408101007",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1408100000",
+      "code": "1408100000",
+      "name": "Apayao"
+    },
+    "city_municipality": {
+      "id": "1408101000",
+      "code": "1408101000",
+      "name": "Calanasan"
+    }
+  },
+  {
+    "id": "1408101008",
+    "code": "1408101008",
+    "name": "Sabangan",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1408100000",
+      "code": "1408100000",
+      "name": "Apayao"
+    },
+    "city_municipality": {
+      "id": "1408101000",
+      "code": "1408101000",
+      "name": "Calanasan"
+    }
+  },
+  {
+    "id": "1408101018",
+    "code": "1408101018",
+    "name": "Santa Elena",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1408100000",
+      "code": "1408100000",
+      "name": "Apayao"
+    },
+    "city_municipality": {
+      "id": "1408101000",
+      "code": "1408101000",
+      "name": "Calanasan"
+    }
+  },
+  {
+    "id": "1408101009",
+    "code": "1408101009",
+    "name": "Santa Filomena",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1408100000",
+      "code": "1408100000",
+      "name": "Apayao"
+    },
+    "city_municipality": {
+      "id": "1408101000",
+      "code": "1408101000",
+      "name": "Calanasan"
+    }
+  },
+  {
+    "id": "1408101011",
+    "code": "1408101011",
+    "name": "Tanglagan",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1408100000",
+      "code": "1408100000",
+      "name": "Apayao"
+    },
+    "city_municipality": {
+      "id": "1408101000",
+      "code": "1408101000",
+      "name": "Calanasan"
+    }
+  },
+  {
+    "id": "1408101012",
+    "code": "1408101012",
+    "name": "Tubang",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1408100000",
+      "code": "1408100000",
+      "name": "Apayao"
+    },
+    "city_municipality": {
+      "id": "1408101000",
+      "code": "1408101000",
+      "name": "Calanasan"
+    }
+  },
+  {
+    "id": "1408101010",
+    "code": "1408101010",
+    "name": "Tubongan",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1408100000",
+      "code": "1408100000",
+      "name": "Apayao"
+    },
+    "city_municipality": {
+      "id": "1408101000",
+      "code": "1408101000",
+      "name": "Calanasan"
+    }
+  }
+]

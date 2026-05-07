@@ -1,0 +1,254 @@
+[
+  {
+    "id": "0300806001",
+    "code": "0300806001",
+    "name": "Alangan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300806000",
+      "code": "0300806000",
+      "name": "Limay"
+    }
+  },
+  {
+    "id": "0300806013",
+    "code": "0300806013",
+    "name": "Duale",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300806000",
+      "code": "0300806000",
+      "name": "Limay"
+    }
+  },
+  {
+    "id": "0300806003",
+    "code": "0300806003",
+    "name": "Kitang 2 & Luz",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300806000",
+      "code": "0300806000",
+      "name": "Limay"
+    }
+  },
+  {
+    "id": "0300806002",
+    "code": "0300806002",
+    "name": "Kitang I",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300806000",
+      "code": "0300806000",
+      "name": "Limay"
+    }
+  },
+  {
+    "id": "0300806004",
+    "code": "0300806004",
+    "name": "Lamao",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300806000",
+      "code": "0300806000",
+      "name": "Limay"
+    }
+  },
+  {
+    "id": "0300806006",
+    "code": "0300806006",
+    "name": "Landing",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300806000",
+      "code": "0300806000",
+      "name": "Limay"
+    }
+  },
+  {
+    "id": "0300806007",
+    "code": "0300806007",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300806000",
+      "code": "0300806000",
+      "name": "Limay"
+    }
+  },
+  {
+    "id": "0300806008",
+    "code": "0300806008",
+    "name": "Reformista",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300806000",
+      "code": "0300806000",
+      "name": "Limay"
+    }
+  },
+  {
+    "id": "0300806014",
+    "code": "0300806014",
+    "name": "San Francisco de Asis",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300806000",
+      "code": "0300806000",
+      "name": "Limay"
+    }
+  },
+  {
+    "id": "0300806015",
+    "code": "0300806015",
+    "name": "St. Francis II",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300806000",
+      "code": "0300806000",
+      "name": "Limay"
+    }
+  },
+  {
+    "id": "0300806009",
+    "code": "0300806009",
+    "name": "Townsite",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300806000",
+      "code": "0300806000",
+      "name": "Limay"
+    }
+  },
+  {
+    "id": "0300806012",
+    "code": "0300806012",
+    "name": "Wawa",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300806000",
+      "code": "0300806000",
+      "name": "Limay"
+    }
+  }
+]

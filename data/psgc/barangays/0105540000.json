@@ -1,0 +1,212 @@
+[
+  {
+    "id": "0105540001",
+    "code": "0105540001",
+    "name": "La Luna",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105540000",
+      "code": "0105540000",
+      "name": "Santo Tomas"
+    }
+  },
+  {
+    "id": "0105540002",
+    "code": "0105540002",
+    "name": "Poblacion East",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105540000",
+      "code": "0105540000",
+      "name": "Santo Tomas"
+    }
+  },
+  {
+    "id": "0105540003",
+    "code": "0105540003",
+    "name": "Poblacion West",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105540000",
+      "code": "0105540000",
+      "name": "Santo Tomas"
+    }
+  },
+  {
+    "id": "0105540004",
+    "code": "0105540004",
+    "name": "Salvacion",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105540000",
+      "code": "0105540000",
+      "name": "Santo Tomas"
+    }
+  },
+  {
+    "id": "0105540005",
+    "code": "0105540005",
+    "name": "San Agustin",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105540000",
+      "code": "0105540000",
+      "name": "Santo Tomas"
+    }
+  },
+  {
+    "id": "0105540006",
+    "code": "0105540006",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105540000",
+      "code": "0105540000",
+      "name": "Santo Tomas"
+    }
+  },
+  {
+    "id": "0105540007",
+    "code": "0105540007",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105540000",
+      "code": "0105540000",
+      "name": "Santo Tomas"
+    }
+  },
+  {
+    "id": "0105540008",
+    "code": "0105540008",
+    "name": "San Marcos",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105540000",
+      "code": "0105540000",
+      "name": "Santo Tomas"
+    }
+  },
+  {
+    "id": "0105540009",
+    "code": "0105540009",
+    "name": "Santo Domingo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105540000",
+      "code": "0105540000",
+      "name": "Santo Tomas"
+    }
+  },
+  {
+    "id": "0105540010",
+    "code": "0105540010",
+    "name": "Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105540000",
+      "code": "0105540000",
+      "name": "Santo Tomas"
+    }
+  }
+]

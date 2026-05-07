@@ -1,0 +1,19 @@
+{
+  "generatedAt": "2026-05-07T09:27:21.484Z",
+  "input": "/mnt/data/PSGC-1Q-2026-Publication-Datafile-padded.csv",
+  "out": "data/psgc",
+  "rawRows": 43768,
+  "normalizedRows": 43768,
+  "counts": {
+    "regions": 18,
+    "provinces": 84,
+    "citiesAndMunicipalities": 1656,
+    "barangays": 42010,
+    "provinceFiles": 17,
+    "cityFiles": 98,
+    "barangayFiles": 1655
+  },
+  "warnings": [],
+  "failures": [],
+  "ok": true
+}

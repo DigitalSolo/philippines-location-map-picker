@@ -1,0 +1,296 @@
+[
+  {
+    "id": "0300812001",
+    "code": "0300812001",
+    "name": "East Calaguiman",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300812000",
+      "code": "0300812000",
+      "name": "Samal"
+    }
+  },
+  {
+    "id": "0300812002",
+    "code": "0300812002",
+    "name": "East Daang Bago",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300812000",
+      "code": "0300812000",
+      "name": "Samal"
+    }
+  },
+  {
+    "id": "0300812013",
+    "code": "0300812013",
+    "name": "Gugo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300812000",
+      "code": "0300812000",
+      "name": "Samal"
+    }
+  },
+  {
+    "id": "0300812003",
+    "code": "0300812003",
+    "name": "Ibaba",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300812000",
+      "code": "0300812000",
+      "name": "Samal"
+    }
+  },
+  {
+    "id": "0300812004",
+    "code": "0300812004",
+    "name": "Imelda",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300812000",
+      "code": "0300812000",
+      "name": "Samal"
+    }
+  },
+  {
+    "id": "0300812005",
+    "code": "0300812005",
+    "name": "Lalawigan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300812000",
+      "code": "0300812000",
+      "name": "Samal"
+    }
+  },
+  {
+    "id": "0300812006",
+    "code": "0300812006",
+    "name": "Palili",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300812000",
+      "code": "0300812000",
+      "name": "Samal"
+    }
+  },
+  {
+    "id": "0300812008",
+    "code": "0300812008",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300812000",
+      "code": "0300812000",
+      "name": "Samal"
+    }
+  },
+  {
+    "id": "0300812009",
+    "code": "0300812009",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300812000",
+      "code": "0300812000",
+      "name": "Samal"
+    }
+  },
+  {
+    "id": "0300812010",
+    "code": "0300812010",
+    "name": "Santa Lucia",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300812000",
+      "code": "0300812000",
+      "name": "Samal"
+    }
+  },
+  {
+    "id": "0300812011",
+    "code": "0300812011",
+    "name": "Sapa",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300812000",
+      "code": "0300812000",
+      "name": "Samal"
+    }
+  },
+  {
+    "id": "0300812012",
+    "code": "0300812012",
+    "name": "Tabing Ilog",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300812000",
+      "code": "0300812000",
+      "name": "Samal"
+    }
+  },
+  {
+    "id": "0300812014",
+    "code": "0300812014",
+    "name": "West Calaguiman",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300812000",
+      "code": "0300812000",
+      "name": "Samal"
+    }
+  },
+  {
+    "id": "0300812015",
+    "code": "0300812015",
+    "name": "West Daang Bago",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300812000",
+      "code": "0300812000",
+      "name": "Samal"
+    }
+  }
+]

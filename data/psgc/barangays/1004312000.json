@@ -1,0 +1,317 @@
+[
+  {
+    "id": "1004312001",
+    "code": "1004312001",
+    "name": "Beray",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004312000",
+      "code": "1004312000",
+      "name": "Kinoguitan"
+    }
+  },
+  {
+    "id": "1004312002",
+    "code": "1004312002",
+    "name": "Bolisong",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004312000",
+      "code": "1004312000",
+      "name": "Kinoguitan"
+    }
+  },
+  {
+    "id": "1004312003",
+    "code": "1004312003",
+    "name": "Buko",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004312000",
+      "code": "1004312000",
+      "name": "Kinoguitan"
+    }
+  },
+  {
+    "id": "1004312005",
+    "code": "1004312005",
+    "name": "Calubo",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004312000",
+      "code": "1004312000",
+      "name": "Kinoguitan"
+    }
+  },
+  {
+    "id": "1004312006",
+    "code": "1004312006",
+    "name": "Campo",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004312000",
+      "code": "1004312000",
+      "name": "Kinoguitan"
+    }
+  },
+  {
+    "id": "1004312007",
+    "code": "1004312007",
+    "name": "Esperanza",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004312000",
+      "code": "1004312000",
+      "name": "Kinoguitan"
+    }
+  },
+  {
+    "id": "1004312008",
+    "code": "1004312008",
+    "name": "Kagumahan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004312000",
+      "code": "1004312000",
+      "name": "Kinoguitan"
+    }
+  },
+  {
+    "id": "1004312004",
+    "code": "1004312004",
+    "name": "Kalitian",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004312000",
+      "code": "1004312000",
+      "name": "Kinoguitan"
+    }
+  },
+  {
+    "id": "1004312009",
+    "code": "1004312009",
+    "name": "Kitotok",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004312000",
+      "code": "1004312000",
+      "name": "Kinoguitan"
+    }
+  },
+  {
+    "id": "1004312010",
+    "code": "1004312010",
+    "name": "Panabol",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004312000",
+      "code": "1004312000",
+      "name": "Kinoguitan"
+    }
+  },
+  {
+    "id": "1004312011",
+    "code": "1004312011",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004312000",
+      "code": "1004312000",
+      "name": "Kinoguitan"
+    }
+  },
+  {
+    "id": "1004312012",
+    "code": "1004312012",
+    "name": "Salicapawan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004312000",
+      "code": "1004312000",
+      "name": "Kinoguitan"
+    }
+  },
+  {
+    "id": "1004312013",
+    "code": "1004312013",
+    "name": "Salubsob",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004312000",
+      "code": "1004312000",
+      "name": "Kinoguitan"
+    }
+  },
+  {
+    "id": "1004312014",
+    "code": "1004312014",
+    "name": "Suarez",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004312000",
+      "code": "1004312000",
+      "name": "Kinoguitan"
+    }
+  },
+  {
+    "id": "1004312015",
+    "code": "1004312015",
+    "name": "Sumalag",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004312000",
+      "code": "1004312000",
+      "name": "Kinoguitan"
+    }
+  }
+]

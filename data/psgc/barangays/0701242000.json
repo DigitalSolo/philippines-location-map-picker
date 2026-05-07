@@ -1,0 +1,317 @@
+[
+  {
+    "id": "0701242001",
+    "code": "0701242001",
+    "name": "Bool",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701242000",
+      "code": "0701242000",
+      "name": "City of Tagbilaran"
+    }
+  },
+  {
+    "id": "0701242002",
+    "code": "0701242002",
+    "name": "Booy",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701242000",
+      "code": "0701242000",
+      "name": "City of Tagbilaran"
+    }
+  },
+  {
+    "id": "0701242003",
+    "code": "0701242003",
+    "name": "Cabawan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701242000",
+      "code": "0701242000",
+      "name": "City of Tagbilaran"
+    }
+  },
+  {
+    "id": "0701242004",
+    "code": "0701242004",
+    "name": "Cogon",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701242000",
+      "code": "0701242000",
+      "name": "City of Tagbilaran"
+    }
+  },
+  {
+    "id": "0701242006",
+    "code": "0701242006",
+    "name": "Dampas",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701242000",
+      "code": "0701242000",
+      "name": "City of Tagbilaran"
+    }
+  },
+  {
+    "id": "0701242005",
+    "code": "0701242005",
+    "name": "Dao",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701242000",
+      "code": "0701242000",
+      "name": "City of Tagbilaran"
+    }
+  },
+  {
+    "id": "0701242008",
+    "code": "0701242008",
+    "name": "Manga",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701242000",
+      "code": "0701242000",
+      "name": "City of Tagbilaran"
+    }
+  },
+  {
+    "id": "0701242009",
+    "code": "0701242009",
+    "name": "Mansasa",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701242000",
+      "code": "0701242000",
+      "name": "City of Tagbilaran"
+    }
+  },
+  {
+    "id": "0701242010",
+    "code": "0701242010",
+    "name": "Poblacion I",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701242000",
+      "code": "0701242000",
+      "name": "City of Tagbilaran"
+    }
+  },
+  {
+    "id": "0701242011",
+    "code": "0701242011",
+    "name": "Poblacion II",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701242000",
+      "code": "0701242000",
+      "name": "City of Tagbilaran"
+    }
+  },
+  {
+    "id": "0701242012",
+    "code": "0701242012",
+    "name": "Poblacion III",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701242000",
+      "code": "0701242000",
+      "name": "City of Tagbilaran"
+    }
+  },
+  {
+    "id": "0701242013",
+    "code": "0701242013",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701242000",
+      "code": "0701242000",
+      "name": "City of Tagbilaran"
+    }
+  },
+  {
+    "id": "0701242014",
+    "code": "0701242014",
+    "name": "Taloto",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701242000",
+      "code": "0701242000",
+      "name": "City of Tagbilaran"
+    }
+  },
+  {
+    "id": "0701242015",
+    "code": "0701242015",
+    "name": "Tiptip",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701242000",
+      "code": "0701242000",
+      "name": "City of Tagbilaran"
+    }
+  },
+  {
+    "id": "0701242016",
+    "code": "0701242016",
+    "name": "Ubujan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701242000",
+      "code": "0701242000",
+      "name": "City of Tagbilaran"
+    }
+  }
+]

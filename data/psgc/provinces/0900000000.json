@@ -1,0 +1,57 @@
+[
+  {
+    "id": "0990100000",
+    "code": "0990100000",
+    "name": "City of Isabela (Not a Province)",
+    "type": "province",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    }
+  },
+  {
+    "id": "0906600000",
+    "code": "0906600000",
+    "name": "Sulu",
+    "type": "province",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    }
+  },
+  {
+    "id": "0907200000",
+    "code": "0907200000",
+    "name": "Zamboanga del Norte",
+    "type": "province",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    }
+  },
+  {
+    "id": "0907300000",
+    "code": "0907300000",
+    "name": "Zamboanga del Sur",
+    "type": "province",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    }
+  },
+  {
+    "id": "0908300000",
+    "code": "0908300000",
+    "name": "Zamboanga Sibugay",
+    "type": "province",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    }
+  }
+]

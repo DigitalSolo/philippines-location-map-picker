@@ -1,0 +1,653 @@
+[
+  {
+    "id": "0603004001",
+    "code": "0603004001",
+    "name": "Agusipan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603004000",
+      "code": "0603004000",
+      "name": "Badiangan"
+    }
+  },
+  {
+    "id": "0603004002",
+    "code": "0603004002",
+    "name": "Astorga",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603004000",
+      "code": "0603004000",
+      "name": "Badiangan"
+    }
+  },
+  {
+    "id": "0603004031",
+    "code": "0603004031",
+    "name": "Bingauan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603004000",
+      "code": "0603004000",
+      "name": "Badiangan"
+    }
+  },
+  {
+    "id": "0603004003",
+    "code": "0603004003",
+    "name": "Bita-oyan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603004000",
+      "code": "0603004000",
+      "name": "Badiangan"
+    }
+  },
+  {
+    "id": "0603004004",
+    "code": "0603004004",
+    "name": "Botong",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603004000",
+      "code": "0603004000",
+      "name": "Badiangan"
+    }
+  },
+  {
+    "id": "0603004005",
+    "code": "0603004005",
+    "name": "Budiaue",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603004000",
+      "code": "0603004000",
+      "name": "Badiangan"
+    }
+  },
+  {
+    "id": "0603004006",
+    "code": "0603004006",
+    "name": "Cabanga-an",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603004000",
+      "code": "0603004000",
+      "name": "Badiangan"
+    }
+  },
+  {
+    "id": "0603004007",
+    "code": "0603004007",
+    "name": "Cabayogan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603004000",
+      "code": "0603004000",
+      "name": "Badiangan"
+    }
+  },
+  {
+    "id": "0603004008",
+    "code": "0603004008",
+    "name": "Calansanan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603004000",
+      "code": "0603004000",
+      "name": "Badiangan"
+    }
+  },
+  {
+    "id": "0603004009",
+    "code": "0603004009",
+    "name": "Catubig",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603004000",
+      "code": "0603004000",
+      "name": "Badiangan"
+    }
+  },
+  {
+    "id": "0603004010",
+    "code": "0603004010",
+    "name": "Guinawahan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603004000",
+      "code": "0603004000",
+      "name": "Badiangan"
+    }
+  },
+  {
+    "id": "0603004011",
+    "code": "0603004011",
+    "name": "Ilongbukid",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603004000",
+      "code": "0603004000",
+      "name": "Badiangan"
+    }
+  },
+  {
+    "id": "0603004012",
+    "code": "0603004012",
+    "name": "Indorohan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603004000",
+      "code": "0603004000",
+      "name": "Badiangan"
+    }
+  },
+  {
+    "id": "0603004013",
+    "code": "0603004013",
+    "name": "Iniligan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603004000",
+      "code": "0603004000",
+      "name": "Badiangan"
+    }
+  },
+  {
+    "id": "0603004014",
+    "code": "0603004014",
+    "name": "Latawan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603004000",
+      "code": "0603004000",
+      "name": "Badiangan"
+    }
+  },
+  {
+    "id": "0603004015",
+    "code": "0603004015",
+    "name": "Linayuan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603004000",
+      "code": "0603004000",
+      "name": "Badiangan"
+    }
+  },
+  {
+    "id": "0603004016",
+    "code": "0603004016",
+    "name": "Mainguit",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603004000",
+      "code": "0603004000",
+      "name": "Badiangan"
+    }
+  },
+  {
+    "id": "0603004017",
+    "code": "0603004017",
+    "name": "Malublub",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603004000",
+      "code": "0603004000",
+      "name": "Badiangan"
+    }
+  },
+  {
+    "id": "0603004018",
+    "code": "0603004018",
+    "name": "Manaolan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603004000",
+      "code": "0603004000",
+      "name": "Badiangan"
+    }
+  },
+  {
+    "id": "0603004019",
+    "code": "0603004019",
+    "name": "Mapili Grande",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603004000",
+      "code": "0603004000",
+      "name": "Badiangan"
+    }
+  },
+  {
+    "id": "0603004020",
+    "code": "0603004020",
+    "name": "Mapili Sanjo",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603004000",
+      "code": "0603004000",
+      "name": "Badiangan"
+    }
+  },
+  {
+    "id": "0603004021",
+    "code": "0603004021",
+    "name": "Odiongan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603004000",
+      "code": "0603004000",
+      "name": "Badiangan"
+    }
+  },
+  {
+    "id": "0603004022",
+    "code": "0603004022",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603004000",
+      "code": "0603004000",
+      "name": "Badiangan"
+    }
+  },
+  {
+    "id": "0603004023",
+    "code": "0603004023",
+    "name": "San Julian",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603004000",
+      "code": "0603004000",
+      "name": "Badiangan"
+    }
+  },
+  {
+    "id": "0603004024",
+    "code": "0603004024",
+    "name": "Sariri",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603004000",
+      "code": "0603004000",
+      "name": "Badiangan"
+    }
+  },
+  {
+    "id": "0603004025",
+    "code": "0603004025",
+    "name": "Sianon",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603004000",
+      "code": "0603004000",
+      "name": "Badiangan"
+    }
+  },
+  {
+    "id": "0603004026",
+    "code": "0603004026",
+    "name": "Sinuagan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603004000",
+      "code": "0603004000",
+      "name": "Badiangan"
+    }
+  },
+  {
+    "id": "0603004027",
+    "code": "0603004027",
+    "name": "Talaba",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603004000",
+      "code": "0603004000",
+      "name": "Badiangan"
+    }
+  },
+  {
+    "id": "0603004028",
+    "code": "0603004028",
+    "name": "Tamocol",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603004000",
+      "code": "0603004000",
+      "name": "Badiangan"
+    }
+  },
+  {
+    "id": "0603004029",
+    "code": "0603004029",
+    "name": "Teneclan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603004000",
+      "code": "0603004000",
+      "name": "Badiangan"
+    }
+  },
+  {
+    "id": "0603004030",
+    "code": "0603004030",
+    "name": "Tina",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603004000",
+      "code": "0603004000",
+      "name": "Badiangan"
+    }
+  }
+]

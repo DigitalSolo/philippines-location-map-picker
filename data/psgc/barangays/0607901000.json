@@ -1,0 +1,758 @@
+[
+  {
+    "id": "0607901001",
+    "code": "0607901001",
+    "name": "Agsanayan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0607900000",
+      "code": "0607900000",
+      "name": "Guimaras"
+    },
+    "city_municipality": {
+      "id": "0607901000",
+      "code": "0607901000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0607901002",
+    "code": "0607901002",
+    "name": "Avila",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0607900000",
+      "code": "0607900000",
+      "name": "Guimaras"
+    },
+    "city_municipality": {
+      "id": "0607901000",
+      "code": "0607901000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0607901005",
+    "code": "0607901005",
+    "name": "Bacjao",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0607900000",
+      "code": "0607900000",
+      "name": "Guimaras"
+    },
+    "city_municipality": {
+      "id": "0607901000",
+      "code": "0607901000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0607901003",
+    "code": "0607901003",
+    "name": "Banban",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0607900000",
+      "code": "0607900000",
+      "name": "Guimaras"
+    },
+    "city_municipality": {
+      "id": "0607901000",
+      "code": "0607901000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0607901006",
+    "code": "0607901006",
+    "name": "Cansilayan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0607900000",
+      "code": "0607900000",
+      "name": "Guimaras"
+    },
+    "city_municipality": {
+      "id": "0607901000",
+      "code": "0607901000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0607901007",
+    "code": "0607901007",
+    "name": "Dagsa-an",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0607900000",
+      "code": "0607900000",
+      "name": "Guimaras"
+    },
+    "city_municipality": {
+      "id": "0607901000",
+      "code": "0607901000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0607901008",
+    "code": "0607901008",
+    "name": "Daragan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0607900000",
+      "code": "0607900000",
+      "name": "Guimaras"
+    },
+    "city_municipality": {
+      "id": "0607901000",
+      "code": "0607901000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0607901009",
+    "code": "0607901009",
+    "name": "East Valencia",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0607900000",
+      "code": "0607900000",
+      "name": "Guimaras"
+    },
+    "city_municipality": {
+      "id": "0607901000",
+      "code": "0607901000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0607901011",
+    "code": "0607901011",
+    "name": "Getulio",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0607900000",
+      "code": "0607900000",
+      "name": "Guimaras"
+    },
+    "city_municipality": {
+      "id": "0607901000",
+      "code": "0607901000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0607901014",
+    "code": "0607901014",
+    "name": "Mabini",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0607900000",
+      "code": "0607900000",
+      "name": "Guimaras"
+    },
+    "city_municipality": {
+      "id": "0607901000",
+      "code": "0607901000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0607901015",
+    "code": "0607901015",
+    "name": "Magsaysay",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0607900000",
+      "code": "0607900000",
+      "name": "Guimaras"
+    },
+    "city_municipality": {
+      "id": "0607901000",
+      "code": "0607901000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0607901016",
+    "code": "0607901016",
+    "name": "Mclain",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0607900000",
+      "code": "0607900000",
+      "name": "Guimaras"
+    },
+    "city_municipality": {
+      "id": "0607901000",
+      "code": "0607901000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0607901017",
+    "code": "0607901017",
+    "name": "Montpiller",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0607900000",
+      "code": "0607900000",
+      "name": "Guimaras"
+    },
+    "city_municipality": {
+      "id": "0607901000",
+      "code": "0607901000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0607901018",
+    "code": "0607901018",
+    "name": "Navalas",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0607900000",
+      "code": "0607900000",
+      "name": "Guimaras"
+    },
+    "city_municipality": {
+      "id": "0607901000",
+      "code": "0607901000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0607901019",
+    "code": "0607901019",
+    "name": "Nazaret",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0607900000",
+      "code": "0607900000",
+      "name": "Guimaras"
+    },
+    "city_municipality": {
+      "id": "0607901000",
+      "code": "0607901000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0607901020",
+    "code": "0607901020",
+    "name": "New Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0607900000",
+      "code": "0607900000",
+      "name": "Guimaras"
+    },
+    "city_municipality": {
+      "id": "0607901000",
+      "code": "0607901000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0607901021",
+    "code": "0607901021",
+    "name": "Old Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0607900000",
+      "code": "0607900000",
+      "name": "Guimaras"
+    },
+    "city_municipality": {
+      "id": "0607901000",
+      "code": "0607901000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0607901022",
+    "code": "0607901022",
+    "name": "Piña",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0607900000",
+      "code": "0607900000",
+      "name": "Guimaras"
+    },
+    "city_municipality": {
+      "id": "0607901000",
+      "code": "0607901000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0607901023",
+    "code": "0607901023",
+    "name": "Rizal",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0607900000",
+      "code": "0607900000",
+      "name": "Guimaras"
+    },
+    "city_municipality": {
+      "id": "0607901000",
+      "code": "0607901000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0607901024",
+    "code": "0607901024",
+    "name": "Salvacion",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0607900000",
+      "code": "0607900000",
+      "name": "Guimaras"
+    },
+    "city_municipality": {
+      "id": "0607901000",
+      "code": "0607901000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0607901025",
+    "code": "0607901025",
+    "name": "San Fernando",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0607900000",
+      "code": "0607900000",
+      "name": "Guimaras"
+    },
+    "city_municipality": {
+      "id": "0607901000",
+      "code": "0607901000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0607901026",
+    "code": "0607901026",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0607900000",
+      "code": "0607900000",
+      "name": "Guimaras"
+    },
+    "city_municipality": {
+      "id": "0607901000",
+      "code": "0607901000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0607901027",
+    "code": "0607901027",
+    "name": "San Miguel",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0607900000",
+      "code": "0607900000",
+      "name": "Guimaras"
+    },
+    "city_municipality": {
+      "id": "0607901000",
+      "code": "0607901000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0607901028",
+    "code": "0607901028",
+    "name": "San Nicolas",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0607900000",
+      "code": "0607900000",
+      "name": "Guimaras"
+    },
+    "city_municipality": {
+      "id": "0607901000",
+      "code": "0607901000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0607901029",
+    "code": "0607901029",
+    "name": "San Pedro",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0607900000",
+      "code": "0607900000",
+      "name": "Guimaras"
+    },
+    "city_municipality": {
+      "id": "0607901000",
+      "code": "0607901000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0607901030",
+    "code": "0607901030",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0607900000",
+      "code": "0607900000",
+      "name": "Guimaras"
+    },
+    "city_municipality": {
+      "id": "0607901000",
+      "code": "0607901000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0607901031",
+    "code": "0607901031",
+    "name": "Santo Rosario",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0607900000",
+      "code": "0607900000",
+      "name": "Guimaras"
+    },
+    "city_municipality": {
+      "id": "0607901000",
+      "code": "0607901000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0607901032",
+    "code": "0607901032",
+    "name": "Sawang",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0607900000",
+      "code": "0607900000",
+      "name": "Guimaras"
+    },
+    "city_municipality": {
+      "id": "0607901000",
+      "code": "0607901000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0607901034",
+    "code": "0607901034",
+    "name": "Supang",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0607900000",
+      "code": "0607900000",
+      "name": "Guimaras"
+    },
+    "city_municipality": {
+      "id": "0607901000",
+      "code": "0607901000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0607901035",
+    "code": "0607901035",
+    "name": "Tacay",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0607900000",
+      "code": "0607900000",
+      "name": "Guimaras"
+    },
+    "city_municipality": {
+      "id": "0607901000",
+      "code": "0607901000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0607901036",
+    "code": "0607901036",
+    "name": "Taminla",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0607900000",
+      "code": "0607900000",
+      "name": "Guimaras"
+    },
+    "city_municipality": {
+      "id": "0607901000",
+      "code": "0607901000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0607901037",
+    "code": "0607901037",
+    "name": "Tanag",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0607900000",
+      "code": "0607900000",
+      "name": "Guimaras"
+    },
+    "city_municipality": {
+      "id": "0607901000",
+      "code": "0607901000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0607901038",
+    "code": "0607901038",
+    "name": "Tastasan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0607900000",
+      "code": "0607900000",
+      "name": "Guimaras"
+    },
+    "city_municipality": {
+      "id": "0607901000",
+      "code": "0607901000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0607901039",
+    "code": "0607901039",
+    "name": "Tinadtaran",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0607900000",
+      "code": "0607900000",
+      "name": "Guimaras"
+    },
+    "city_municipality": {
+      "id": "0607901000",
+      "code": "0607901000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0607901040",
+    "code": "0607901040",
+    "name": "Umilig",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0607900000",
+      "code": "0607900000",
+      "name": "Guimaras"
+    },
+    "city_municipality": {
+      "id": "0607901000",
+      "code": "0607901000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0607901041",
+    "code": "0607901041",
+    "name": "Zaldivar",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0607900000",
+      "code": "0607900000",
+      "name": "Guimaras"
+    },
+    "city_municipality": {
+      "id": "0607901000",
+      "code": "0607901000",
+      "name": "Buenavista"
+    }
+  }
+]

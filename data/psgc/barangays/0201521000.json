@@ -1,0 +1,611 @@
+[
+  {
+    "id": "0201521001",
+    "code": "0201521001",
+    "name": "Anagguan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201521000",
+      "code": "0201521000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0201521003",
+    "code": "0201521003",
+    "name": "Anungu",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201521000",
+      "code": "0201521000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0201521002",
+    "code": "0201521002",
+    "name": "Anurturu",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201521000",
+      "code": "0201521000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0201521004",
+    "code": "0201521004",
+    "name": "Baluncanag",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201521000",
+      "code": "0201521000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0201521026",
+    "code": "0201521026",
+    "name": "Battut",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201521000",
+      "code": "0201521000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0201521005",
+    "code": "0201521005",
+    "name": "Batu",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201521000",
+      "code": "0201521000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0201521027",
+    "code": "0201521027",
+    "name": "Bural",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201521000",
+      "code": "0201521000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0201521006",
+    "code": "0201521006",
+    "name": "Cambabangan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201521000",
+      "code": "0201521000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0201521007",
+    "code": "0201521007",
+    "name": "Capaccuan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201521000",
+      "code": "0201521000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0201521008",
+    "code": "0201521008",
+    "name": "Dungan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201521000",
+      "code": "0201521000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0201521009",
+    "code": "0201521009",
+    "name": "Duyun",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201521000",
+      "code": "0201521000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0201521010",
+    "code": "0201521010",
+    "name": "Gaddangao",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201521000",
+      "code": "0201521000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0201521011",
+    "code": "0201521011",
+    "name": "Gaggabutan East",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201521000",
+      "code": "0201521000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0201521028",
+    "code": "0201521028",
+    "name": "Gaggabutan West",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201521000",
+      "code": "0201521000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0201521012",
+    "code": "0201521012",
+    "name": "Illuru Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201521000",
+      "code": "0201521000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0201521029",
+    "code": "0201521029",
+    "name": "Illuru Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201521000",
+      "code": "0201521000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0201521013",
+    "code": "0201521013",
+    "name": "Lattut",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201521000",
+      "code": "0201521000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0201521014",
+    "code": "0201521014",
+    "name": "Linno-C",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201521000",
+      "code": "0201521000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0201521015",
+    "code": "0201521015",
+    "name": "Liuan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201521000",
+      "code": "0201521000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0201521016",
+    "code": "0201521016",
+    "name": "Mabbang",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201521000",
+      "code": "0201521000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0201521018",
+    "code": "0201521018",
+    "name": "Masi",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201521000",
+      "code": "0201521000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0201521017",
+    "code": "0201521017",
+    "name": "Mauanan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201521000",
+      "code": "0201521000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0201521019",
+    "code": "0201521019",
+    "name": "Minanga",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201521000",
+      "code": "0201521000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0201521020",
+    "code": "0201521020",
+    "name": "Nanauatan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201521000",
+      "code": "0201521000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0201521021",
+    "code": "0201521021",
+    "name": "Nanungaran",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201521000",
+      "code": "0201521000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0201521022",
+    "code": "0201521022",
+    "name": "Pasingan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201521000",
+      "code": "0201521000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0201521023",
+    "code": "0201521023",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201521000",
+      "code": "0201521000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0201521024",
+    "code": "0201521024",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201521000",
+      "code": "0201521000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "0201521025",
+    "code": "0201521025",
+    "name": "Sinicking",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201521000",
+      "code": "0201521000",
+      "name": "Rizal"
+    }
+  }
+]

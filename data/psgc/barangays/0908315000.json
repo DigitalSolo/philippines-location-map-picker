@@ -1,0 +1,632 @@
+[
+  {
+    "id": "0908315001",
+    "code": "0908315001",
+    "name": "Achasol",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908315000",
+      "code": "0908315000",
+      "name": "Titay"
+    }
+  },
+  {
+    "id": "0908315031",
+    "code": "0908315031",
+    "name": "Azusano",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908315000",
+      "code": "0908315000",
+      "name": "Titay"
+    }
+  },
+  {
+    "id": "0908315002",
+    "code": "0908315002",
+    "name": "Bangco",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908315000",
+      "code": "0908315000",
+      "name": "Titay"
+    }
+  },
+  {
+    "id": "0908315003",
+    "code": "0908315003",
+    "name": "Camanga",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908315000",
+      "code": "0908315000",
+      "name": "Titay"
+    }
+  },
+  {
+    "id": "0908315004",
+    "code": "0908315004",
+    "name": "Culasian",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908315000",
+      "code": "0908315000",
+      "name": "Titay"
+    }
+  },
+  {
+    "id": "0908315005",
+    "code": "0908315005",
+    "name": "Dalangin",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908315000",
+      "code": "0908315000",
+      "name": "Titay"
+    }
+  },
+  {
+    "id": "0908315029",
+    "code": "0908315029",
+    "name": "Dalangin Muslim",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908315000",
+      "code": "0908315000",
+      "name": "Titay"
+    }
+  },
+  {
+    "id": "0908315007",
+    "code": "0908315007",
+    "name": "Dalisay",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908315000",
+      "code": "0908315000",
+      "name": "Titay"
+    }
+  },
+  {
+    "id": "0908315008",
+    "code": "0908315008",
+    "name": "Gomotoc",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908315000",
+      "code": "0908315000",
+      "name": "Titay"
+    }
+  },
+  {
+    "id": "0908315009",
+    "code": "0908315009",
+    "name": "Imelda",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908315000",
+      "code": "0908315000",
+      "name": "Titay"
+    }
+  },
+  {
+    "id": "0908315010",
+    "code": "0908315010",
+    "name": "Kipit",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908315000",
+      "code": "0908315000",
+      "name": "Titay"
+    }
+  },
+  {
+    "id": "0908315011",
+    "code": "0908315011",
+    "name": "Kitabog",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908315000",
+      "code": "0908315000",
+      "name": "Titay"
+    }
+  },
+  {
+    "id": "0908315012",
+    "code": "0908315012",
+    "name": "La Libertad",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908315000",
+      "code": "0908315000",
+      "name": "Titay"
+    }
+  },
+  {
+    "id": "0908315013",
+    "code": "0908315013",
+    "name": "Longilog",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908315000",
+      "code": "0908315000",
+      "name": "Titay"
+    }
+  },
+  {
+    "id": "0908315014",
+    "code": "0908315014",
+    "name": "Mabini",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908315000",
+      "code": "0908315000",
+      "name": "Titay"
+    }
+  },
+  {
+    "id": "0908315015",
+    "code": "0908315015",
+    "name": "Malagandis",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908315000",
+      "code": "0908315000",
+      "name": "Titay"
+    }
+  },
+  {
+    "id": "0908315016",
+    "code": "0908315016",
+    "name": "Mate",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908315000",
+      "code": "0908315000",
+      "name": "Titay"
+    }
+  },
+  {
+    "id": "0908315017",
+    "code": "0908315017",
+    "name": "Moalboal",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908315000",
+      "code": "0908315000",
+      "name": "Titay"
+    }
+  },
+  {
+    "id": "0908315018",
+    "code": "0908315018",
+    "name": "Namnama",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908315000",
+      "code": "0908315000",
+      "name": "Titay"
+    }
+  },
+  {
+    "id": "0908315019",
+    "code": "0908315019",
+    "name": "New Canaan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908315000",
+      "code": "0908315000",
+      "name": "Titay"
+    }
+  },
+  {
+    "id": "0908315020",
+    "code": "0908315020",
+    "name": "Palomoc",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908315000",
+      "code": "0908315000",
+      "name": "Titay"
+    }
+  },
+  {
+    "id": "0908315021",
+    "code": "0908315021",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908315000",
+      "code": "0908315000",
+      "name": "Titay"
+    }
+  },
+  {
+    "id": "0908315030",
+    "code": "0908315030",
+    "name": "Poblacion Muslim",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908315000",
+      "code": "0908315000",
+      "name": "Titay"
+    }
+  },
+  {
+    "id": "0908315023",
+    "code": "0908315023",
+    "name": "Pulidan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908315000",
+      "code": "0908315000",
+      "name": "Titay"
+    }
+  },
+  {
+    "id": "0908315024",
+    "code": "0908315024",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908315000",
+      "code": "0908315000",
+      "name": "Titay"
+    }
+  },
+  {
+    "id": "0908315032",
+    "code": "0908315032",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908315000",
+      "code": "0908315000",
+      "name": "Titay"
+    }
+  },
+  {
+    "id": "0908315025",
+    "code": "0908315025",
+    "name": "Santa Fe",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908315000",
+      "code": "0908315000",
+      "name": "Titay"
+    }
+  },
+  {
+    "id": "0908315026",
+    "code": "0908315026",
+    "name": "Supit",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908315000",
+      "code": "0908315000",
+      "name": "Titay"
+    }
+  },
+  {
+    "id": "0908315027",
+    "code": "0908315027",
+    "name": "Tugop",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908315000",
+      "code": "0908315000",
+      "name": "Titay"
+    }
+  },
+  {
+    "id": "0908315028",
+    "code": "0908315028",
+    "name": "Tugop Muslim",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908315000",
+      "code": "0908315000",
+      "name": "Titay"
+    }
+  }
+]

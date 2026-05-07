@@ -1,0 +1,128 @@
+[
+  {
+    "id": "0205015001",
+    "code": "0205015001",
+    "name": "Abuyo",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205015000",
+      "code": "0205015000",
+      "name": "Alfonso Castaneda"
+    }
+  },
+  {
+    "id": "0205015003",
+    "code": "0205015003",
+    "name": "Cawayan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205015000",
+      "code": "0205015000",
+      "name": "Alfonso Castaneda"
+    }
+  },
+  {
+    "id": "0205015002",
+    "code": "0205015002",
+    "name": "Galintuja",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205015000",
+      "code": "0205015000",
+      "name": "Alfonso Castaneda"
+    }
+  },
+  {
+    "id": "0205015004",
+    "code": "0205015004",
+    "name": "Lipuga",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205015000",
+      "code": "0205015000",
+      "name": "Alfonso Castaneda"
+    }
+  },
+  {
+    "id": "0205015005",
+    "code": "0205015005",
+    "name": "Lublub",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205015000",
+      "code": "0205015000",
+      "name": "Alfonso Castaneda"
+    }
+  },
+  {
+    "id": "0205015006",
+    "code": "0205015006",
+    "name": "Pelaway",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205015000",
+      "code": "0205015000",
+      "name": "Alfonso Castaneda"
+    }
+  }
+]

@@ -1,0 +1,674 @@
+[
+  {
+    "id": "1600306001",
+    "code": "1600306001",
+    "name": "Aurora",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600306000",
+      "code": "1600306000",
+      "name": "Prosperidad"
+    }
+  },
+  {
+    "id": "1600306002",
+    "code": "1600306002",
+    "name": "Awa",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600306000",
+      "code": "1600306000",
+      "name": "Prosperidad"
+    }
+  },
+  {
+    "id": "1600306003",
+    "code": "1600306003",
+    "name": "Azpetia",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600306000",
+      "code": "1600306000",
+      "name": "Prosperidad"
+    }
+  },
+  {
+    "id": "1600306006",
+    "code": "1600306006",
+    "name": "La Caridad",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600306000",
+      "code": "1600306000",
+      "name": "Prosperidad"
+    }
+  },
+  {
+    "id": "1600306033",
+    "code": "1600306033",
+    "name": "La Perian",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600306000",
+      "code": "1600306000",
+      "name": "Prosperidad"
+    }
+  },
+  {
+    "id": "1600306034",
+    "code": "1600306034",
+    "name": "La Purisima",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600306000",
+      "code": "1600306000",
+      "name": "Prosperidad"
+    }
+  },
+  {
+    "id": "1600306007",
+    "code": "1600306007",
+    "name": "La Suerte",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600306000",
+      "code": "1600306000",
+      "name": "Prosperidad"
+    }
+  },
+  {
+    "id": "1600306008",
+    "code": "1600306008",
+    "name": "La Union",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600306000",
+      "code": "1600306000",
+      "name": "Prosperidad"
+    }
+  },
+  {
+    "id": "1600306009",
+    "code": "1600306009",
+    "name": "Las Navas",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600306000",
+      "code": "1600306000",
+      "name": "Prosperidad"
+    }
+  },
+  {
+    "id": "1600306010",
+    "code": "1600306010",
+    "name": "Libertad",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600306000",
+      "code": "1600306000",
+      "name": "Prosperidad"
+    }
+  },
+  {
+    "id": "1600306011",
+    "code": "1600306011",
+    "name": "Los Arcos",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600306000",
+      "code": "1600306000",
+      "name": "Prosperidad"
+    }
+  },
+  {
+    "id": "1600306012",
+    "code": "1600306012",
+    "name": "Lucena",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600306000",
+      "code": "1600306000",
+      "name": "Prosperidad"
+    }
+  },
+  {
+    "id": "1600306013",
+    "code": "1600306013",
+    "name": "Mabuhay",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600306000",
+      "code": "1600306000",
+      "name": "Prosperidad"
+    }
+  },
+  {
+    "id": "1600306014",
+    "code": "1600306014",
+    "name": "Magsaysay",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600306000",
+      "code": "1600306000",
+      "name": "Prosperidad"
+    }
+  },
+  {
+    "id": "1600306015",
+    "code": "1600306015",
+    "name": "Mapaga",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600306000",
+      "code": "1600306000",
+      "name": "Prosperidad"
+    }
+  },
+  {
+    "id": "1600306017",
+    "code": "1600306017",
+    "name": "Napo",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600306000",
+      "code": "1600306000",
+      "name": "Prosperidad"
+    }
+  },
+  {
+    "id": "1600306016",
+    "code": "1600306016",
+    "name": "New Maug",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600306000",
+      "code": "1600306000",
+      "name": "Prosperidad"
+    }
+  },
+  {
+    "id": "1600306018",
+    "code": "1600306018",
+    "name": "Patin-ay",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600306000",
+      "code": "1600306000",
+      "name": "Prosperidad"
+    }
+  },
+  {
+    "id": "1600306004",
+    "code": "1600306004",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600306000",
+      "code": "1600306000",
+      "name": "Prosperidad"
+    }
+  },
+  {
+    "id": "1600306020",
+    "code": "1600306020",
+    "name": "Salimbogaon",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600306000",
+      "code": "1600306000",
+      "name": "Prosperidad"
+    }
+  },
+  {
+    "id": "1600306021",
+    "code": "1600306021",
+    "name": "Salvacion",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600306000",
+      "code": "1600306000",
+      "name": "Prosperidad"
+    }
+  },
+  {
+    "id": "1600306022",
+    "code": "1600306022",
+    "name": "San Joaquin",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600306000",
+      "code": "1600306000",
+      "name": "Prosperidad"
+    }
+  },
+  {
+    "id": "1600306023",
+    "code": "1600306023",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600306000",
+      "code": "1600306000",
+      "name": "Prosperidad"
+    }
+  },
+  {
+    "id": "1600306024",
+    "code": "1600306024",
+    "name": "San Lorenzo",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600306000",
+      "code": "1600306000",
+      "name": "Prosperidad"
+    }
+  },
+  {
+    "id": "1600306025",
+    "code": "1600306025",
+    "name": "San Martin",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600306000",
+      "code": "1600306000",
+      "name": "Prosperidad"
+    }
+  },
+  {
+    "id": "1600306026",
+    "code": "1600306026",
+    "name": "San Pedro",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600306000",
+      "code": "1600306000",
+      "name": "Prosperidad"
+    }
+  },
+  {
+    "id": "1600306027",
+    "code": "1600306027",
+    "name": "San Rafael",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600306000",
+      "code": "1600306000",
+      "name": "Prosperidad"
+    }
+  },
+  {
+    "id": "1600306035",
+    "code": "1600306035",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600306000",
+      "code": "1600306000",
+      "name": "Prosperidad"
+    }
+  },
+  {
+    "id": "1600306029",
+    "code": "1600306029",
+    "name": "San Salvador",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600306000",
+      "code": "1600306000",
+      "name": "Prosperidad"
+    }
+  },
+  {
+    "id": "1600306030",
+    "code": "1600306030",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600306000",
+      "code": "1600306000",
+      "name": "Prosperidad"
+    }
+  },
+  {
+    "id": "1600306031",
+    "code": "1600306031",
+    "name": "Santa Irene",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600306000",
+      "code": "1600306000",
+      "name": "Prosperidad"
+    }
+  },
+  {
+    "id": "1600306032",
+    "code": "1600306032",
+    "name": "Santa Maria",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600306000",
+      "code": "1600306000",
+      "name": "Prosperidad"
+    }
+  }
+]

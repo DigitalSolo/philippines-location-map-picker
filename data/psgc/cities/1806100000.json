@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1806101000",
+    "code": "1806101000",
+    "name": "Enrique Villanueva",
+    "type": "city_municipality",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    }
+  },
+  {
+    "id": "1806102000",
+    "code": "1806102000",
+    "name": "Larena",
+    "type": "city_municipality",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    }
+  },
+  {
+    "id": "1806103000",
+    "code": "1806103000",
+    "name": "Lazi",
+    "type": "city_municipality",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    }
+  },
+  {
+    "id": "1806104000",
+    "code": "1806104000",
+    "name": "Maria",
+    "type": "city_municipality",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    }
+  },
+  {
+    "id": "1806105000",
+    "code": "1806105000",
+    "name": "San Juan",
+    "type": "city_municipality",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    }
+  },
+  {
+    "id": "1806106000",
+    "code": "1806106000",
+    "name": "Siquijor",
+    "type": "city_municipality",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    }
+  }
+]

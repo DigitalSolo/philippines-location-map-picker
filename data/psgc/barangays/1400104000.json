@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1400104001",
+    "code": "1400104001",
+    "name": "Ducligan",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400104000",
+      "code": "1400104000",
+      "name": "Bucloc"
+    }
+  },
+  {
+    "id": "1400104002",
+    "code": "1400104002",
+    "name": "Labaan",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400104000",
+      "code": "1400104000",
+      "name": "Bucloc"
+    }
+  },
+  {
+    "id": "1400104004",
+    "code": "1400104004",
+    "name": "Lamao",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400104000",
+      "code": "1400104000",
+      "name": "Bucloc"
+    }
+  },
+  {
+    "id": "1400104003",
+    "code": "1400104003",
+    "name": "Lingey",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400104000",
+      "code": "1400104000",
+      "name": "Bucloc"
+    }
+  }
+]

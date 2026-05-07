@@ -1,0 +1,107 @@
+[
+  {
+    "id": "1705914001",
+    "code": "1705914001",
+    "name": "Busay",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705900000",
+      "code": "1705900000",
+      "name": "Romblon"
+    },
+    "city_municipality": {
+      "id": "1705914000",
+      "code": "1705914000",
+      "name": "San Jose"
+    }
+  },
+  {
+    "id": "1705914002",
+    "code": "1705914002",
+    "name": "Combot",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705900000",
+      "code": "1705900000",
+      "name": "Romblon"
+    },
+    "city_municipality": {
+      "id": "1705914000",
+      "code": "1705914000",
+      "name": "San Jose"
+    }
+  },
+  {
+    "id": "1705914003",
+    "code": "1705914003",
+    "name": "Lanas",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705900000",
+      "code": "1705900000",
+      "name": "Romblon"
+    },
+    "city_municipality": {
+      "id": "1705914000",
+      "code": "1705914000",
+      "name": "San Jose"
+    }
+  },
+  {
+    "id": "1705914004",
+    "code": "1705914004",
+    "name": "Pinamihagan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705900000",
+      "code": "1705900000",
+      "name": "Romblon"
+    },
+    "city_municipality": {
+      "id": "1705914000",
+      "code": "1705914000",
+      "name": "San Jose"
+    }
+  },
+  {
+    "id": "1705914005",
+    "code": "1705914005",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705900000",
+      "code": "1705900000",
+      "name": "Romblon"
+    },
+    "city_municipality": {
+      "id": "1705914000",
+      "code": "1705914000",
+      "name": "San Jose"
+    }
+  }
+]

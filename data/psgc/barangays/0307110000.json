@@ -1,0 +1,233 @@
+[
+  {
+    "id": "0307110001",
+    "code": "0307110001",
+    "name": "Amagna",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307100000",
+      "code": "0307100000",
+      "name": "Zambales"
+    },
+    "city_municipality": {
+      "id": "0307110000",
+      "code": "0307110000",
+      "name": "San Felipe"
+    }
+  },
+  {
+    "id": "0307110002",
+    "code": "0307110002",
+    "name": "Apostol",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307100000",
+      "code": "0307100000",
+      "name": "Zambales"
+    },
+    "city_municipality": {
+      "id": "0307110000",
+      "code": "0307110000",
+      "name": "San Felipe"
+    }
+  },
+  {
+    "id": "0307110003",
+    "code": "0307110003",
+    "name": "Balincaguing",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307100000",
+      "code": "0307100000",
+      "name": "Zambales"
+    },
+    "city_municipality": {
+      "id": "0307110000",
+      "code": "0307110000",
+      "name": "San Felipe"
+    }
+  },
+  {
+    "id": "0307110004",
+    "code": "0307110004",
+    "name": "Farañal",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307100000",
+      "code": "0307100000",
+      "name": "Zambales"
+    },
+    "city_municipality": {
+      "id": "0307110000",
+      "code": "0307110000",
+      "name": "San Felipe"
+    }
+  },
+  {
+    "id": "0307110005",
+    "code": "0307110005",
+    "name": "Feria",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307100000",
+      "code": "0307100000",
+      "name": "Zambales"
+    },
+    "city_municipality": {
+      "id": "0307110000",
+      "code": "0307110000",
+      "name": "San Felipe"
+    }
+  },
+  {
+    "id": "0307110006",
+    "code": "0307110006",
+    "name": "Maloma",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307100000",
+      "code": "0307100000",
+      "name": "Zambales"
+    },
+    "city_municipality": {
+      "id": "0307110000",
+      "code": "0307110000",
+      "name": "San Felipe"
+    }
+  },
+  {
+    "id": "0307110007",
+    "code": "0307110007",
+    "name": "Manglicmot",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307100000",
+      "code": "0307100000",
+      "name": "Zambales"
+    },
+    "city_municipality": {
+      "id": "0307110000",
+      "code": "0307110000",
+      "name": "San Felipe"
+    }
+  },
+  {
+    "id": "0307110008",
+    "code": "0307110008",
+    "name": "Rosete",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307100000",
+      "code": "0307100000",
+      "name": "Zambales"
+    },
+    "city_municipality": {
+      "id": "0307110000",
+      "code": "0307110000",
+      "name": "San Felipe"
+    }
+  },
+  {
+    "id": "0307110009",
+    "code": "0307110009",
+    "name": "San Rafael",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307100000",
+      "code": "0307100000",
+      "name": "Zambales"
+    },
+    "city_municipality": {
+      "id": "0307110000",
+      "code": "0307110000",
+      "name": "San Felipe"
+    }
+  },
+  {
+    "id": "0307110012",
+    "code": "0307110012",
+    "name": "Sindol",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307100000",
+      "code": "0307100000",
+      "name": "Zambales"
+    },
+    "city_municipality": {
+      "id": "0307110000",
+      "code": "0307110000",
+      "name": "San Felipe"
+    }
+  },
+  {
+    "id": "0307110011",
+    "code": "0307110011",
+    "name": "Sto. Niño",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307100000",
+      "code": "0307100000",
+      "name": "Zambales"
+    },
+    "city_municipality": {
+      "id": "0307110000",
+      "code": "0307110000",
+      "name": "San Felipe"
+    }
+  }
+]

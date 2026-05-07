@@ -1,0 +1,653 @@
+[
+  {
+    "id": "0305407034",
+    "code": "0305407034",
+    "name": "Ascomo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305407000",
+      "code": "0305407000",
+      "name": "Guagua"
+    }
+  },
+  {
+    "id": "0305407002",
+    "code": "0305407002",
+    "name": "Bancal",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305407000",
+      "code": "0305407000",
+      "name": "Guagua"
+    }
+  },
+  {
+    "id": "0305407004",
+    "code": "0305407004",
+    "name": "Jose Abad Santos",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305407000",
+      "code": "0305407000",
+      "name": "Guagua"
+    }
+  },
+  {
+    "id": "0305407005",
+    "code": "0305407005",
+    "name": "Lambac",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305407000",
+      "code": "0305407000",
+      "name": "Guagua"
+    }
+  },
+  {
+    "id": "0305407006",
+    "code": "0305407006",
+    "name": "Magsaysay",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305407000",
+      "code": "0305407000",
+      "name": "Guagua"
+    }
+  },
+  {
+    "id": "0305407007",
+    "code": "0305407007",
+    "name": "Maquiapo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305407000",
+      "code": "0305407000",
+      "name": "Guagua"
+    }
+  },
+  {
+    "id": "0305407008",
+    "code": "0305407008",
+    "name": "Natividad",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305407000",
+      "code": "0305407000",
+      "name": "Guagua"
+    }
+  },
+  {
+    "id": "0305407009",
+    "code": "0305407009",
+    "name": "Plaza Burgos",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305407000",
+      "code": "0305407000",
+      "name": "Guagua"
+    }
+  },
+  {
+    "id": "0305407010",
+    "code": "0305407010",
+    "name": "Pulungmasle",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305407000",
+      "code": "0305407000",
+      "name": "Guagua"
+    }
+  },
+  {
+    "id": "0305407011",
+    "code": "0305407011",
+    "name": "Rizal",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305407000",
+      "code": "0305407000",
+      "name": "Guagua"
+    }
+  },
+  {
+    "id": "0305407012",
+    "code": "0305407012",
+    "name": "San Agustin",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305407000",
+      "code": "0305407000",
+      "name": "Guagua"
+    }
+  },
+  {
+    "id": "0305407013",
+    "code": "0305407013",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305407000",
+      "code": "0305407000",
+      "name": "Guagua"
+    }
+  },
+  {
+    "id": "0305407014",
+    "code": "0305407014",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305407000",
+      "code": "0305407000",
+      "name": "Guagua"
+    }
+  },
+  {
+    "id": "0305407015",
+    "code": "0305407015",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305407000",
+      "code": "0305407000",
+      "name": "Guagua"
+    }
+  },
+  {
+    "id": "0305407027",
+    "code": "0305407027",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305407000",
+      "code": "0305407000",
+      "name": "Guagua"
+    }
+  },
+  {
+    "id": "0305407016",
+    "code": "0305407016",
+    "name": "San Juan Bautista",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305407000",
+      "code": "0305407000",
+      "name": "Guagua"
+    }
+  },
+  {
+    "id": "0305407017",
+    "code": "0305407017",
+    "name": "San Juan Nepomuceno",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305407000",
+      "code": "0305407000",
+      "name": "Guagua"
+    }
+  },
+  {
+    "id": "0305407018",
+    "code": "0305407018",
+    "name": "San Matias",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305407000",
+      "code": "0305407000",
+      "name": "Guagua"
+    }
+  },
+  {
+    "id": "0305407019",
+    "code": "0305407019",
+    "name": "San Miguel",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305407000",
+      "code": "0305407000",
+      "name": "Guagua"
+    }
+  },
+  {
+    "id": "0305407020",
+    "code": "0305407020",
+    "name": "San Nicolas 1st",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305407000",
+      "code": "0305407000",
+      "name": "Guagua"
+    }
+  },
+  {
+    "id": "0305407021",
+    "code": "0305407021",
+    "name": "San Nicolas 2nd",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305407000",
+      "code": "0305407000",
+      "name": "Guagua"
+    }
+  },
+  {
+    "id": "0305407022",
+    "code": "0305407022",
+    "name": "San Pablo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305407000",
+      "code": "0305407000",
+      "name": "Guagua"
+    }
+  },
+  {
+    "id": "0305407023",
+    "code": "0305407023",
+    "name": "San Pedro",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305407000",
+      "code": "0305407000",
+      "name": "Guagua"
+    }
+  },
+  {
+    "id": "0305407024",
+    "code": "0305407024",
+    "name": "San Rafael",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305407000",
+      "code": "0305407000",
+      "name": "Guagua"
+    }
+  },
+  {
+    "id": "0305407025",
+    "code": "0305407025",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305407000",
+      "code": "0305407000",
+      "name": "Guagua"
+    }
+  },
+  {
+    "id": "0305407026",
+    "code": "0305407026",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305407000",
+      "code": "0305407000",
+      "name": "Guagua"
+    }
+  },
+  {
+    "id": "0305407028",
+    "code": "0305407028",
+    "name": "Santa Filomena",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305407000",
+      "code": "0305407000",
+      "name": "Guagua"
+    }
+  },
+  {
+    "id": "0305407029",
+    "code": "0305407029",
+    "name": "Santa Ines",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305407000",
+      "code": "0305407000",
+      "name": "Guagua"
+    }
+  },
+  {
+    "id": "0305407030",
+    "code": "0305407030",
+    "name": "Santa Ursula",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305407000",
+      "code": "0305407000",
+      "name": "Guagua"
+    }
+  },
+  {
+    "id": "0305407031",
+    "code": "0305407031",
+    "name": "Santo Cristo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305407000",
+      "code": "0305407000",
+      "name": "Guagua"
+    }
+  },
+  {
+    "id": "0305407033",
+    "code": "0305407033",
+    "name": "Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305407000",
+      "code": "0305407000",
+      "name": "Guagua"
+    }
+  }
+]

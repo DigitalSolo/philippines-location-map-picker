@@ -1,0 +1,527 @@
+[
+  {
+    "id": "0203120001",
+    "code": "0203120001",
+    "name": "Aguinaldo",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203120000",
+      "code": "0203120000",
+      "name": "Naguilian"
+    }
+  },
+  {
+    "id": "0203120002",
+    "code": "0203120002",
+    "name": "Bagong Sikat",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203120000",
+      "code": "0203120000",
+      "name": "Naguilian"
+    }
+  },
+  {
+    "id": "0203120003",
+    "code": "0203120003",
+    "name": "Burgos",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203120000",
+      "code": "0203120000",
+      "name": "Naguilian"
+    }
+  },
+  {
+    "id": "0203120004",
+    "code": "0203120004",
+    "name": "Cabaruan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203120000",
+      "code": "0203120000",
+      "name": "Naguilian"
+    }
+  },
+  {
+    "id": "0203120005",
+    "code": "0203120005",
+    "name": "Flores",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203120000",
+      "code": "0203120000",
+      "name": "Naguilian"
+    }
+  },
+  {
+    "id": "0203120006",
+    "code": "0203120006",
+    "name": "La Union",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203120000",
+      "code": "0203120000",
+      "name": "Naguilian"
+    }
+  },
+  {
+    "id": "0203120007",
+    "code": "0203120007",
+    "name": "Magsaysay",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203120000",
+      "code": "0203120000",
+      "name": "Naguilian"
+    }
+  },
+  {
+    "id": "0203120008",
+    "code": "0203120008",
+    "name": "Manaring",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203120000",
+      "code": "0203120000",
+      "name": "Naguilian"
+    }
+  },
+  {
+    "id": "0203120009",
+    "code": "0203120009",
+    "name": "Mansibang",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203120000",
+      "code": "0203120000",
+      "name": "Naguilian"
+    }
+  },
+  {
+    "id": "0203120010",
+    "code": "0203120010",
+    "name": "Minallo",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203120000",
+      "code": "0203120000",
+      "name": "Naguilian"
+    }
+  },
+  {
+    "id": "0203120011",
+    "code": "0203120011",
+    "name": "Minanga",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203120000",
+      "code": "0203120000",
+      "name": "Naguilian"
+    }
+  },
+  {
+    "id": "0203120012",
+    "code": "0203120012",
+    "name": "Palattao",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203120000",
+      "code": "0203120000",
+      "name": "Naguilian"
+    }
+  },
+  {
+    "id": "0203120013",
+    "code": "0203120013",
+    "name": "Quezon",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203120000",
+      "code": "0203120000",
+      "name": "Naguilian"
+    }
+  },
+  {
+    "id": "0203120014",
+    "code": "0203120014",
+    "name": "Quinalabasa",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203120000",
+      "code": "0203120000",
+      "name": "Naguilian"
+    }
+  },
+  {
+    "id": "0203120015",
+    "code": "0203120015",
+    "name": "Quirino",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203120000",
+      "code": "0203120000",
+      "name": "Naguilian"
+    }
+  },
+  {
+    "id": "0203120016",
+    "code": "0203120016",
+    "name": "Rangayan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203120000",
+      "code": "0203120000",
+      "name": "Naguilian"
+    }
+  },
+  {
+    "id": "0203120017",
+    "code": "0203120017",
+    "name": "Rizal",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203120000",
+      "code": "0203120000",
+      "name": "Naguilian"
+    }
+  },
+  {
+    "id": "0203120018",
+    "code": "0203120018",
+    "name": "Roxas",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203120000",
+      "code": "0203120000",
+      "name": "Naguilian"
+    }
+  },
+  {
+    "id": "0203120019",
+    "code": "0203120019",
+    "name": "San Manuel",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203120000",
+      "code": "0203120000",
+      "name": "Naguilian"
+    }
+  },
+  {
+    "id": "0203120025",
+    "code": "0203120025",
+    "name": "Santa Victoria",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203120000",
+      "code": "0203120000",
+      "name": "Naguilian"
+    }
+  },
+  {
+    "id": "0203120020",
+    "code": "0203120020",
+    "name": "Santo Tomas",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203120000",
+      "code": "0203120000",
+      "name": "Naguilian"
+    }
+  },
+  {
+    "id": "0203120021",
+    "code": "0203120021",
+    "name": "Sunlife",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203120000",
+      "code": "0203120000",
+      "name": "Naguilian"
+    }
+  },
+  {
+    "id": "0203120022",
+    "code": "0203120022",
+    "name": "Surcoc",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203120000",
+      "code": "0203120000",
+      "name": "Naguilian"
+    }
+  },
+  {
+    "id": "0203120023",
+    "code": "0203120023",
+    "name": "Tomines",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203120000",
+      "code": "0203120000",
+      "name": "Naguilian"
+    }
+  },
+  {
+    "id": "0203120024",
+    "code": "0203120024",
+    "name": "Villa Paz",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203120000",
+      "code": "0203120000",
+      "name": "Naguilian"
+    }
+  }
+]

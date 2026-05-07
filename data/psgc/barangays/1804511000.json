@@ -1,0 +1,506 @@
+[
+  {
+    "id": "1804511001",
+    "code": "1804511001",
+    "name": "Anahaw",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804511000",
+      "code": "1804511000",
+      "name": "Hinigaran"
+    }
+  },
+  {
+    "id": "1804511002",
+    "code": "1804511002",
+    "name": "Aranda",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804511000",
+      "code": "1804511000",
+      "name": "Hinigaran"
+    }
+  },
+  {
+    "id": "1804511025",
+    "code": "1804511025",
+    "name": "Baga-as",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804511000",
+      "code": "1804511000",
+      "name": "Hinigaran"
+    }
+  },
+  {
+    "id": "1804511003",
+    "code": "1804511003",
+    "name": "Barangay I",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804511000",
+      "code": "1804511000",
+      "name": "Hinigaran"
+    }
+  },
+  {
+    "id": "1804511004",
+    "code": "1804511004",
+    "name": "Barangay II",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804511000",
+      "code": "1804511000",
+      "name": "Hinigaran"
+    }
+  },
+  {
+    "id": "1804511005",
+    "code": "1804511005",
+    "name": "Barangay III",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804511000",
+      "code": "1804511000",
+      "name": "Hinigaran"
+    }
+  },
+  {
+    "id": "1804511006",
+    "code": "1804511006",
+    "name": "Barangay IV",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804511000",
+      "code": "1804511000",
+      "name": "Hinigaran"
+    }
+  },
+  {
+    "id": "1804511007",
+    "code": "1804511007",
+    "name": "Bato",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804511000",
+      "code": "1804511000",
+      "name": "Hinigaran"
+    }
+  },
+  {
+    "id": "1804511009",
+    "code": "1804511009",
+    "name": "Calapi",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804511000",
+      "code": "1804511000",
+      "name": "Hinigaran"
+    }
+  },
+  {
+    "id": "1804511010",
+    "code": "1804511010",
+    "name": "Camalobalo",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804511000",
+      "code": "1804511000",
+      "name": "Hinigaran"
+    }
+  },
+  {
+    "id": "1804511011",
+    "code": "1804511011",
+    "name": "Camba-og",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804511000",
+      "code": "1804511000",
+      "name": "Hinigaran"
+    }
+  },
+  {
+    "id": "1804511012",
+    "code": "1804511012",
+    "name": "Cambugsa",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804511000",
+      "code": "1804511000",
+      "name": "Hinigaran"
+    }
+  },
+  {
+    "id": "1804511013",
+    "code": "1804511013",
+    "name": "Candumarao",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804511000",
+      "code": "1804511000",
+      "name": "Hinigaran"
+    }
+  },
+  {
+    "id": "1804511014",
+    "code": "1804511014",
+    "name": "Gargato",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804511000",
+      "code": "1804511000",
+      "name": "Hinigaran"
+    }
+  },
+  {
+    "id": "1804511015",
+    "code": "1804511015",
+    "name": "Himaya",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804511000",
+      "code": "1804511000",
+      "name": "Hinigaran"
+    }
+  },
+  {
+    "id": "1804511016",
+    "code": "1804511016",
+    "name": "Miranda",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804511000",
+      "code": "1804511000",
+      "name": "Hinigaran"
+    }
+  },
+  {
+    "id": "1804511017",
+    "code": "1804511017",
+    "name": "Nanunga",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804511000",
+      "code": "1804511000",
+      "name": "Hinigaran"
+    }
+  },
+  {
+    "id": "1804511018",
+    "code": "1804511018",
+    "name": "Narauis",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804511000",
+      "code": "1804511000",
+      "name": "Hinigaran"
+    }
+  },
+  {
+    "id": "1804511019",
+    "code": "1804511019",
+    "name": "Palayog",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804511000",
+      "code": "1804511000",
+      "name": "Hinigaran"
+    }
+  },
+  {
+    "id": "1804511020",
+    "code": "1804511020",
+    "name": "Paticui",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804511000",
+      "code": "1804511000",
+      "name": "Hinigaran"
+    }
+  },
+  {
+    "id": "1804511021",
+    "code": "1804511021",
+    "name": "Pilar",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804511000",
+      "code": "1804511000",
+      "name": "Hinigaran"
+    }
+  },
+  {
+    "id": "1804511022",
+    "code": "1804511022",
+    "name": "Quiwi",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804511000",
+      "code": "1804511000",
+      "name": "Hinigaran"
+    }
+  },
+  {
+    "id": "1804511023",
+    "code": "1804511023",
+    "name": "Tagda",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804511000",
+      "code": "1804511000",
+      "name": "Hinigaran"
+    }
+  },
+  {
+    "id": "1804511024",
+    "code": "1804511024",
+    "name": "Tuguis",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804511000",
+      "code": "1804511000",
+      "name": "Hinigaran"
+    }
+  }
+]

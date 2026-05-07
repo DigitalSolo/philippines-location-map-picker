@@ -1,0 +1,338 @@
+[
+  {
+    "id": "0105502002",
+    "code": "0105502002",
+    "name": "Bayaoas",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105502000",
+      "code": "0105502000",
+      "name": "Aguilar"
+    }
+  },
+  {
+    "id": "0105502003",
+    "code": "0105502003",
+    "name": "Baybay",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105502000",
+      "code": "0105502000",
+      "name": "Aguilar"
+    }
+  },
+  {
+    "id": "0105502004",
+    "code": "0105502004",
+    "name": "Bocacliw",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105502000",
+      "code": "0105502000",
+      "name": "Aguilar"
+    }
+  },
+  {
+    "id": "0105502006",
+    "code": "0105502006",
+    "name": "Bocboc East",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105502000",
+      "code": "0105502000",
+      "name": "Aguilar"
+    }
+  },
+  {
+    "id": "0105502007",
+    "code": "0105502007",
+    "name": "Bocboc West",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105502000",
+      "code": "0105502000",
+      "name": "Aguilar"
+    }
+  },
+  {
+    "id": "0105502008",
+    "code": "0105502008",
+    "name": "Buer",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105502000",
+      "code": "0105502000",
+      "name": "Aguilar"
+    }
+  },
+  {
+    "id": "0105502009",
+    "code": "0105502009",
+    "name": "Calsib",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105502000",
+      "code": "0105502000",
+      "name": "Aguilar"
+    }
+  },
+  {
+    "id": "0105502017",
+    "code": "0105502017",
+    "name": "Laoag",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105502000",
+      "code": "0105502000",
+      "name": "Aguilar"
+    }
+  },
+  {
+    "id": "0105502018",
+    "code": "0105502018",
+    "name": "Manlocboc",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105502000",
+      "code": "0105502000",
+      "name": "Aguilar"
+    }
+  },
+  {
+    "id": "0105502010",
+    "code": "0105502010",
+    "name": "Niñoy",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105502000",
+      "code": "0105502000",
+      "name": "Aguilar"
+    }
+  },
+  {
+    "id": "0105502019",
+    "code": "0105502019",
+    "name": "Panacol",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105502000",
+      "code": "0105502000",
+      "name": "Aguilar"
+    }
+  },
+  {
+    "id": "0105502011",
+    "code": "0105502011",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105502000",
+      "code": "0105502000",
+      "name": "Aguilar"
+    }
+  },
+  {
+    "id": "0105502012",
+    "code": "0105502012",
+    "name": "Pogomboa",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105502000",
+      "code": "0105502000",
+      "name": "Aguilar"
+    }
+  },
+  {
+    "id": "0105502013",
+    "code": "0105502013",
+    "name": "Pogonsili",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105502000",
+      "code": "0105502000",
+      "name": "Aguilar"
+    }
+  },
+  {
+    "id": "0105502014",
+    "code": "0105502014",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105502000",
+      "code": "0105502000",
+      "name": "Aguilar"
+    }
+  },
+  {
+    "id": "0105502016",
+    "code": "0105502016",
+    "name": "Tampac",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105502000",
+      "code": "0105502000",
+      "name": "Aguilar"
+    }
+  }
+]

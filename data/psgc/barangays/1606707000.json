@@ -1,0 +1,611 @@
+[
+  {
+    "id": "1606707001",
+    "code": "1606707001",
+    "name": "Bagakay",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606707000",
+      "code": "1606707000",
+      "name": "Dapa"
+    }
+  },
+  {
+    "id": "1606707002",
+    "code": "1606707002",
+    "name": "Barangay 1",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606707000",
+      "code": "1606707000",
+      "name": "Dapa"
+    }
+  },
+  {
+    "id": "1606707014",
+    "code": "1606707014",
+    "name": "Barangay 10",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606707000",
+      "code": "1606707000",
+      "name": "Dapa"
+    }
+  },
+  {
+    "id": "1606707015",
+    "code": "1606707015",
+    "name": "Barangay 11",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606707000",
+      "code": "1606707000",
+      "name": "Dapa"
+    }
+  },
+  {
+    "id": "1606707016",
+    "code": "1606707016",
+    "name": "Barangay 12",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606707000",
+      "code": "1606707000",
+      "name": "Dapa"
+    }
+  },
+  {
+    "id": "1606707003",
+    "code": "1606707003",
+    "name": "Barangay 13",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606707000",
+      "code": "1606707000",
+      "name": "Dapa"
+    }
+  },
+  {
+    "id": "1606707017",
+    "code": "1606707017",
+    "name": "Barangay 2",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606707000",
+      "code": "1606707000",
+      "name": "Dapa"
+    }
+  },
+  {
+    "id": "1606707018",
+    "code": "1606707018",
+    "name": "Barangay 3",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606707000",
+      "code": "1606707000",
+      "name": "Dapa"
+    }
+  },
+  {
+    "id": "1606707019",
+    "code": "1606707019",
+    "name": "Barangay 4",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606707000",
+      "code": "1606707000",
+      "name": "Dapa"
+    }
+  },
+  {
+    "id": "1606707020",
+    "code": "1606707020",
+    "name": "Barangay 5",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606707000",
+      "code": "1606707000",
+      "name": "Dapa"
+    }
+  },
+  {
+    "id": "1606707021",
+    "code": "1606707021",
+    "name": "Barangay 6",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606707000",
+      "code": "1606707000",
+      "name": "Dapa"
+    }
+  },
+  {
+    "id": "1606707022",
+    "code": "1606707022",
+    "name": "Barangay 7",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606707000",
+      "code": "1606707000",
+      "name": "Dapa"
+    }
+  },
+  {
+    "id": "1606707023",
+    "code": "1606707023",
+    "name": "Barangay 8",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606707000",
+      "code": "1606707000",
+      "name": "Dapa"
+    }
+  },
+  {
+    "id": "1606707024",
+    "code": "1606707024",
+    "name": "Barangay 9",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606707000",
+      "code": "1606707000",
+      "name": "Dapa"
+    }
+  },
+  {
+    "id": "1606707004",
+    "code": "1606707004",
+    "name": "Buenavista",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606707000",
+      "code": "1606707000",
+      "name": "Dapa"
+    }
+  },
+  {
+    "id": "1606707005",
+    "code": "1606707005",
+    "name": "Cabawa",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606707000",
+      "code": "1606707000",
+      "name": "Dapa"
+    }
+  },
+  {
+    "id": "1606707006",
+    "code": "1606707006",
+    "name": "Cambas-ac",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606707000",
+      "code": "1606707000",
+      "name": "Dapa"
+    }
+  },
+  {
+    "id": "1606707007",
+    "code": "1606707007",
+    "name": "Consolacion",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606707000",
+      "code": "1606707000",
+      "name": "Dapa"
+    }
+  },
+  {
+    "id": "1606707008",
+    "code": "1606707008",
+    "name": "Corregidor",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606707000",
+      "code": "1606707000",
+      "name": "Dapa"
+    }
+  },
+  {
+    "id": "1606707009",
+    "code": "1606707009",
+    "name": "Dagohoy",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606707000",
+      "code": "1606707000",
+      "name": "Dapa"
+    }
+  },
+  {
+    "id": "1606707010",
+    "code": "1606707010",
+    "name": "Don Paulino",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606707000",
+      "code": "1606707000",
+      "name": "Dapa"
+    }
+  },
+  {
+    "id": "1606707011",
+    "code": "1606707011",
+    "name": "Jubang",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606707000",
+      "code": "1606707000",
+      "name": "Dapa"
+    }
+  },
+  {
+    "id": "1606707012",
+    "code": "1606707012",
+    "name": "Montserrat",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606707000",
+      "code": "1606707000",
+      "name": "Dapa"
+    }
+  },
+  {
+    "id": "1606707013",
+    "code": "1606707013",
+    "name": "Osmeña",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606707000",
+      "code": "1606707000",
+      "name": "Dapa"
+    }
+  },
+  {
+    "id": "1606707025",
+    "code": "1606707025",
+    "name": "San Carlos",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606707000",
+      "code": "1606707000",
+      "name": "Dapa"
+    }
+  },
+  {
+    "id": "1606707026",
+    "code": "1606707026",
+    "name": "San Miguel",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606707000",
+      "code": "1606707000",
+      "name": "Dapa"
+    }
+  },
+  {
+    "id": "1606707027",
+    "code": "1606707027",
+    "name": "Santa Fe",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606707000",
+      "code": "1606707000",
+      "name": "Dapa"
+    }
+  },
+  {
+    "id": "1606707029",
+    "code": "1606707029",
+    "name": "Santa Felomina",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606707000",
+      "code": "1606707000",
+      "name": "Dapa"
+    }
+  },
+  {
+    "id": "1606707028",
+    "code": "1606707028",
+    "name": "Union",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606707000",
+      "code": "1606707000",
+      "name": "Dapa"
+    }
+  }
+]

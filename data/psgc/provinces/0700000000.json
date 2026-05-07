@@ -1,0 +1,24 @@
+[
+  {
+    "id": "0701200000",
+    "code": "0701200000",
+    "name": "Bohol",
+    "type": "province",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    }
+  },
+  {
+    "id": "0702200000",
+    "code": "0702200000",
+    "name": "Cebu",
+    "type": "province",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    }
+  }
+]

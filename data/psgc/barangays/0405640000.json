@@ -1,0 +1,149 @@
+[
+  {
+    "id": "0405640001",
+    "code": "0405640001",
+    "name": "Alibihaban",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405640000",
+      "code": "0405640000",
+      "name": "San Andres"
+    }
+  },
+  {
+    "id": "0405640002",
+    "code": "0405640002",
+    "name": "Camflora",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405640000",
+      "code": "0405640000",
+      "name": "San Andres"
+    }
+  },
+  {
+    "id": "0405640003",
+    "code": "0405640003",
+    "name": "Mangero",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405640000",
+      "code": "0405640000",
+      "name": "San Andres"
+    }
+  },
+  {
+    "id": "0405640004",
+    "code": "0405640004",
+    "name": "Pansoy",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405640000",
+      "code": "0405640000",
+      "name": "San Andres"
+    }
+  },
+  {
+    "id": "0405640007",
+    "code": "0405640007",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405640000",
+      "code": "0405640000",
+      "name": "San Andres"
+    }
+  },
+  {
+    "id": "0405640005",
+    "code": "0405640005",
+    "name": "Tala",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405640000",
+      "code": "0405640000",
+      "name": "San Andres"
+    }
+  },
+  {
+    "id": "0405640006",
+    "code": "0405640006",
+    "name": "Talisay",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405640000",
+      "code": "0405640000",
+      "name": "San Andres"
+    }
+  }
+]

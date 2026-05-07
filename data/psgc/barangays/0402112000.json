@@ -1,0 +1,338 @@
+[
+  {
+    "id": "0402112001",
+    "code": "0402112001",
+    "name": "Baliwag",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402112000",
+      "code": "0402112000",
+      "name": "Magallanes"
+    }
+  },
+  {
+    "id": "0402112006",
+    "code": "0402112006",
+    "name": "Barangay 1",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402112000",
+      "code": "0402112000",
+      "name": "Magallanes"
+    }
+  },
+  {
+    "id": "0402112007",
+    "code": "0402112007",
+    "name": "Barangay 2",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402112000",
+      "code": "0402112000",
+      "name": "Magallanes"
+    }
+  },
+  {
+    "id": "0402112008",
+    "code": "0402112008",
+    "name": "Barangay 3",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402112000",
+      "code": "0402112000",
+      "name": "Magallanes"
+    }
+  },
+  {
+    "id": "0402112009",
+    "code": "0402112009",
+    "name": "Barangay 4",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402112000",
+      "code": "0402112000",
+      "name": "Magallanes"
+    }
+  },
+  {
+    "id": "0402112010",
+    "code": "0402112010",
+    "name": "Barangay 5",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402112000",
+      "code": "0402112000",
+      "name": "Magallanes"
+    }
+  },
+  {
+    "id": "0402112002",
+    "code": "0402112002",
+    "name": "Bendita I",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402112000",
+      "code": "0402112000",
+      "name": "Magallanes"
+    }
+  },
+  {
+    "id": "0402112015",
+    "code": "0402112015",
+    "name": "Bendita II",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402112000",
+      "code": "0402112000",
+      "name": "Magallanes"
+    }
+  },
+  {
+    "id": "0402112003",
+    "code": "0402112003",
+    "name": "Caluangan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402112000",
+      "code": "0402112000",
+      "name": "Magallanes"
+    }
+  },
+  {
+    "id": "0402112014",
+    "code": "0402112014",
+    "name": "Kabulusan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402112000",
+      "code": "0402112000",
+      "name": "Magallanes"
+    }
+  },
+  {
+    "id": "0402112004",
+    "code": "0402112004",
+    "name": "Medina",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402112000",
+      "code": "0402112000",
+      "name": "Magallanes"
+    }
+  },
+  {
+    "id": "0402112005",
+    "code": "0402112005",
+    "name": "Pacheco",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402112000",
+      "code": "0402112000",
+      "name": "Magallanes"
+    }
+  },
+  {
+    "id": "0402112011",
+    "code": "0402112011",
+    "name": "Ramirez",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402112000",
+      "code": "0402112000",
+      "name": "Magallanes"
+    }
+  },
+  {
+    "id": "0402112016",
+    "code": "0402112016",
+    "name": "San Agustin",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402112000",
+      "code": "0402112000",
+      "name": "Magallanes"
+    }
+  },
+  {
+    "id": "0402112012",
+    "code": "0402112012",
+    "name": "Tua",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402112000",
+      "code": "0402112000",
+      "name": "Magallanes"
+    }
+  },
+  {
+    "id": "0402112013",
+    "code": "0402112013",
+    "name": "Urdaneta",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402112000",
+      "code": "0402112000",
+      "name": "Magallanes"
+    }
+  }
+]

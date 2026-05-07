@@ -1,0 +1,317 @@
+[
+  {
+    "id": "1001322009",
+    "code": "1001322009",
+    "name": "Anlogan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001322000",
+      "code": "1001322000",
+      "name": "Cabanglasan"
+    }
+  },
+  {
+    "id": "1001322001",
+    "code": "1001322001",
+    "name": "Cabulohan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001322000",
+      "code": "1001322000",
+      "name": "Cabanglasan"
+    }
+  },
+  {
+    "id": "1001322002",
+    "code": "1001322002",
+    "name": "Canangaan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001322000",
+      "code": "1001322000",
+      "name": "Cabanglasan"
+    }
+  },
+  {
+    "id": "1001322010",
+    "code": "1001322010",
+    "name": "Capinonan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001322000",
+      "code": "1001322000",
+      "name": "Cabanglasan"
+    }
+  },
+  {
+    "id": "1001322011",
+    "code": "1001322011",
+    "name": "Dalacutan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001322000",
+      "code": "1001322000",
+      "name": "Cabanglasan"
+    }
+  },
+  {
+    "id": "1001322012",
+    "code": "1001322012",
+    "name": "Freedom",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001322000",
+      "code": "1001322000",
+      "name": "Cabanglasan"
+    }
+  },
+  {
+    "id": "1001322003",
+    "code": "1001322003",
+    "name": "Iba",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001322000",
+      "code": "1001322000",
+      "name": "Cabanglasan"
+    }
+  },
+  {
+    "id": "1001322004",
+    "code": "1001322004",
+    "name": "Imbatug",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001322000",
+      "code": "1001322000",
+      "name": "Cabanglasan"
+    }
+  },
+  {
+    "id": "1001322015",
+    "code": "1001322015",
+    "name": "Jasaan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001322000",
+      "code": "1001322000",
+      "name": "Cabanglasan"
+    }
+  },
+  {
+    "id": "1001322005",
+    "code": "1001322005",
+    "name": "Lambangan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001322000",
+      "code": "1001322000",
+      "name": "Cabanglasan"
+    }
+  },
+  {
+    "id": "1001322013",
+    "code": "1001322013",
+    "name": "Mandahikan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001322000",
+      "code": "1001322000",
+      "name": "Cabanglasan"
+    }
+  },
+  {
+    "id": "1001322006",
+    "code": "1001322006",
+    "name": "Mandaing",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001322000",
+      "code": "1001322000",
+      "name": "Cabanglasan"
+    }
+  },
+  {
+    "id": "1001322014",
+    "code": "1001322014",
+    "name": "Mauswagon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001322000",
+      "code": "1001322000",
+      "name": "Cabanglasan"
+    }
+  },
+  {
+    "id": "1001322007",
+    "code": "1001322007",
+    "name": "Paradise",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001322000",
+      "code": "1001322000",
+      "name": "Cabanglasan"
+    }
+  },
+  {
+    "id": "1001322008",
+    "code": "1001322008",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001322000",
+      "code": "1001322000",
+      "name": "Cabanglasan"
+    }
+  }
+]

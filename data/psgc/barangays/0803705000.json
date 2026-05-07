@@ -1,0 +1,527 @@
+[
+  {
+    "id": "0803705019",
+    "code": "0803705019",
+    "name": "Bacong",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803705000",
+      "code": "0803705000",
+      "name": "Babatngon"
+    }
+  },
+  {
+    "id": "0803705020",
+    "code": "0803705020",
+    "name": "Bagong Silang",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803705000",
+      "code": "0803705000",
+      "name": "Babatngon"
+    }
+  },
+  {
+    "id": "0803705002",
+    "code": "0803705002",
+    "name": "Biasong",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803705000",
+      "code": "0803705000",
+      "name": "Babatngon"
+    }
+  },
+  {
+    "id": "0803705003",
+    "code": "0803705003",
+    "name": "Gov. E. Jaro",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803705000",
+      "code": "0803705000",
+      "name": "Babatngon"
+    }
+  },
+  {
+    "id": "0803705024",
+    "code": "0803705024",
+    "name": "Guintigui-an",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803705000",
+      "code": "0803705000",
+      "name": "Babatngon"
+    }
+  },
+  {
+    "id": "0803705021",
+    "code": "0803705021",
+    "name": "Lukay",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803705000",
+      "code": "0803705000",
+      "name": "Babatngon"
+    }
+  },
+  {
+    "id": "0803705005",
+    "code": "0803705005",
+    "name": "Magcasuang",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803705000",
+      "code": "0803705000",
+      "name": "Babatngon"
+    }
+  },
+  {
+    "id": "0803705004",
+    "code": "0803705004",
+    "name": "Malibago",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803705000",
+      "code": "0803705000",
+      "name": "Babatngon"
+    }
+  },
+  {
+    "id": "0803705025",
+    "code": "0803705025",
+    "name": "Naga-asan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803705000",
+      "code": "0803705000",
+      "name": "Babatngon"
+    }
+  },
+  {
+    "id": "0803705014",
+    "code": "0803705014",
+    "name": "Pagsulhugon",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803705000",
+      "code": "0803705000",
+      "name": "Babatngon"
+    }
+  },
+  {
+    "id": "0803705006",
+    "code": "0803705006",
+    "name": "Planza",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803705000",
+      "code": "0803705000",
+      "name": "Babatngon"
+    }
+  },
+  {
+    "id": "0803705007",
+    "code": "0803705007",
+    "name": "Poblacion District I",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803705000",
+      "code": "0803705000",
+      "name": "Babatngon"
+    }
+  },
+  {
+    "id": "0803705008",
+    "code": "0803705008",
+    "name": "Poblacion District II",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803705000",
+      "code": "0803705000",
+      "name": "Babatngon"
+    }
+  },
+  {
+    "id": "0803705009",
+    "code": "0803705009",
+    "name": "Poblacion District III",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803705000",
+      "code": "0803705000",
+      "name": "Babatngon"
+    }
+  },
+  {
+    "id": "0803705010",
+    "code": "0803705010",
+    "name": "Poblacion District IV",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803705000",
+      "code": "0803705000",
+      "name": "Babatngon"
+    }
+  },
+  {
+    "id": "0803705011",
+    "code": "0803705011",
+    "name": "Rizal I",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803705000",
+      "code": "0803705000",
+      "name": "Babatngon"
+    }
+  },
+  {
+    "id": "0803705022",
+    "code": "0803705022",
+    "name": "Rizal II",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803705000",
+      "code": "0803705000",
+      "name": "Babatngon"
+    }
+  },
+  {
+    "id": "0803705023",
+    "code": "0803705023",
+    "name": "San Agustin",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803705000",
+      "code": "0803705000",
+      "name": "Babatngon"
+    }
+  },
+  {
+    "id": "0803705026",
+    "code": "0803705026",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803705000",
+      "code": "0803705000",
+      "name": "Babatngon"
+    }
+  },
+  {
+    "id": "0803705012",
+    "code": "0803705012",
+    "name": "San Ricardo",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803705000",
+      "code": "0803705000",
+      "name": "Babatngon"
+    }
+  },
+  {
+    "id": "0803705013",
+    "code": "0803705013",
+    "name": "Sangputan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803705000",
+      "code": "0803705000",
+      "name": "Babatngon"
+    }
+  },
+  {
+    "id": "0803705015",
+    "code": "0803705015",
+    "name": "Taguite",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803705000",
+      "code": "0803705000",
+      "name": "Babatngon"
+    }
+  },
+  {
+    "id": "0803705016",
+    "code": "0803705016",
+    "name": "Uban",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803705000",
+      "code": "0803705000",
+      "name": "Babatngon"
+    }
+  },
+  {
+    "id": "0803705017",
+    "code": "0803705017",
+    "name": "Victory",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803705000",
+      "code": "0803705000",
+      "name": "Babatngon"
+    }
+  },
+  {
+    "id": "0803705018",
+    "code": "0803705018",
+    "name": "Villa Magsaysay",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803705000",
+      "code": "0803705000",
+      "name": "Babatngon"
+    }
+  }
+]

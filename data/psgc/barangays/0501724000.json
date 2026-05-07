@@ -1,0 +1,569 @@
+[
+  {
+    "id": "0501724001",
+    "code": "0501724001",
+    "name": "Abella",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501724000",
+      "code": "0501724000",
+      "name": "City of Naga"
+    }
+  },
+  {
+    "id": "0501724002",
+    "code": "0501724002",
+    "name": "Bagumbayan Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501724000",
+      "code": "0501724000",
+      "name": "City of Naga"
+    }
+  },
+  {
+    "id": "0501724003",
+    "code": "0501724003",
+    "name": "Bagumbayan Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501724000",
+      "code": "0501724000",
+      "name": "City of Naga"
+    }
+  },
+  {
+    "id": "0501724004",
+    "code": "0501724004",
+    "name": "Balatas",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501724000",
+      "code": "0501724000",
+      "name": "City of Naga"
+    }
+  },
+  {
+    "id": "0501724006",
+    "code": "0501724006",
+    "name": "Calauag",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501724000",
+      "code": "0501724000",
+      "name": "City of Naga"
+    }
+  },
+  {
+    "id": "0501724007",
+    "code": "0501724007",
+    "name": "Cararayan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501724000",
+      "code": "0501724000",
+      "name": "City of Naga"
+    }
+  },
+  {
+    "id": "0501724008",
+    "code": "0501724008",
+    "name": "Carolina",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501724000",
+      "code": "0501724000",
+      "name": "City of Naga"
+    }
+  },
+  {
+    "id": "0501724009",
+    "code": "0501724009",
+    "name": "Concepcion Grande",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501724000",
+      "code": "0501724000",
+      "name": "City of Naga"
+    }
+  },
+  {
+    "id": "0501724010",
+    "code": "0501724010",
+    "name": "Concepcion Pequeña",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501724000",
+      "code": "0501724000",
+      "name": "City of Naga"
+    }
+  },
+  {
+    "id": "0501724011",
+    "code": "0501724011",
+    "name": "Dayangdang",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501724000",
+      "code": "0501724000",
+      "name": "City of Naga"
+    }
+  },
+  {
+    "id": "0501724012",
+    "code": "0501724012",
+    "name": "Del Rosario",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501724000",
+      "code": "0501724000",
+      "name": "City of Naga"
+    }
+  },
+  {
+    "id": "0501724013",
+    "code": "0501724013",
+    "name": "Dinaga",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501724000",
+      "code": "0501724000",
+      "name": "City of Naga"
+    }
+  },
+  {
+    "id": "0501724014",
+    "code": "0501724014",
+    "name": "Igualdad Interior",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501724000",
+      "code": "0501724000",
+      "name": "City of Naga"
+    }
+  },
+  {
+    "id": "0501724017",
+    "code": "0501724017",
+    "name": "Lerma",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501724000",
+      "code": "0501724000",
+      "name": "City of Naga"
+    }
+  },
+  {
+    "id": "0501724018",
+    "code": "0501724018",
+    "name": "Liboton",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501724000",
+      "code": "0501724000",
+      "name": "City of Naga"
+    }
+  },
+  {
+    "id": "0501724019",
+    "code": "0501724019",
+    "name": "Mabolo",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501724000",
+      "code": "0501724000",
+      "name": "City of Naga"
+    }
+  },
+  {
+    "id": "0501724020",
+    "code": "0501724020",
+    "name": "Pacol",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501724000",
+      "code": "0501724000",
+      "name": "City of Naga"
+    }
+  },
+  {
+    "id": "0501724023",
+    "code": "0501724023",
+    "name": "Panicuason",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501724000",
+      "code": "0501724000",
+      "name": "City of Naga"
+    }
+  },
+  {
+    "id": "0501724024",
+    "code": "0501724024",
+    "name": "Peñafrancia",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501724000",
+      "code": "0501724000",
+      "name": "City of Naga"
+    }
+  },
+  {
+    "id": "0501724025",
+    "code": "0501724025",
+    "name": "Sabang",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501724000",
+      "code": "0501724000",
+      "name": "City of Naga"
+    }
+  },
+  {
+    "id": "0501724026",
+    "code": "0501724026",
+    "name": "San Felipe",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501724000",
+      "code": "0501724000",
+      "name": "City of Naga"
+    }
+  },
+  {
+    "id": "0501724027",
+    "code": "0501724027",
+    "name": "San Francisco",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501724000",
+      "code": "0501724000",
+      "name": "City of Naga"
+    }
+  },
+  {
+    "id": "0501724028",
+    "code": "0501724028",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501724000",
+      "code": "0501724000",
+      "name": "City of Naga"
+    }
+  },
+  {
+    "id": "0501724029",
+    "code": "0501724029",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501724000",
+      "code": "0501724000",
+      "name": "City of Naga"
+    }
+  },
+  {
+    "id": "0501724030",
+    "code": "0501724030",
+    "name": "Tabuco",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501724000",
+      "code": "0501724000",
+      "name": "City of Naga"
+    }
+  },
+  {
+    "id": "0501724031",
+    "code": "0501724031",
+    "name": "Tinago",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501724000",
+      "code": "0501724000",
+      "name": "City of Naga"
+    }
+  },
+  {
+    "id": "0501724032",
+    "code": "0501724032",
+    "name": "Triangulo",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501724000",
+      "code": "0501724000",
+      "name": "City of Naga"
+    }
+  }
+]

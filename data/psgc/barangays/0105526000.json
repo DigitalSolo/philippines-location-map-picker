@@ -1,0 +1,632 @@
+[
+  {
+    "id": "0105526001",
+    "code": "0105526001",
+    "name": "Alitaya",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105526000",
+      "code": "0105526000",
+      "name": "Mangaldan"
+    }
+  },
+  {
+    "id": "0105526002",
+    "code": "0105526002",
+    "name": "Amansabina",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105526000",
+      "code": "0105526000",
+      "name": "Mangaldan"
+    }
+  },
+  {
+    "id": "0105526003",
+    "code": "0105526003",
+    "name": "Anolid",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105526000",
+      "code": "0105526000",
+      "name": "Mangaldan"
+    }
+  },
+  {
+    "id": "0105526004",
+    "code": "0105526004",
+    "name": "Banaoang",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105526000",
+      "code": "0105526000",
+      "name": "Mangaldan"
+    }
+  },
+  {
+    "id": "0105526005",
+    "code": "0105526005",
+    "name": "Bantayan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105526000",
+      "code": "0105526000",
+      "name": "Mangaldan"
+    }
+  },
+  {
+    "id": "0105526006",
+    "code": "0105526006",
+    "name": "Bari",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105526000",
+      "code": "0105526000",
+      "name": "Mangaldan"
+    }
+  },
+  {
+    "id": "0105526007",
+    "code": "0105526007",
+    "name": "Bateng",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105526000",
+      "code": "0105526000",
+      "name": "Mangaldan"
+    }
+  },
+  {
+    "id": "0105526008",
+    "code": "0105526008",
+    "name": "Buenlag",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105526000",
+      "code": "0105526000",
+      "name": "Mangaldan"
+    }
+  },
+  {
+    "id": "0105526009",
+    "code": "0105526009",
+    "name": "David",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105526000",
+      "code": "0105526000",
+      "name": "Mangaldan"
+    }
+  },
+  {
+    "id": "0105526010",
+    "code": "0105526010",
+    "name": "Embarcadero",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105526000",
+      "code": "0105526000",
+      "name": "Mangaldan"
+    }
+  },
+  {
+    "id": "0105526011",
+    "code": "0105526011",
+    "name": "Gueguesangen",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105526000",
+      "code": "0105526000",
+      "name": "Mangaldan"
+    }
+  },
+  {
+    "id": "0105526012",
+    "code": "0105526012",
+    "name": "Guesang",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105526000",
+      "code": "0105526000",
+      "name": "Mangaldan"
+    }
+  },
+  {
+    "id": "0105526013",
+    "code": "0105526013",
+    "name": "Guiguilonen",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105526000",
+      "code": "0105526000",
+      "name": "Mangaldan"
+    }
+  },
+  {
+    "id": "0105526014",
+    "code": "0105526014",
+    "name": "Guilig",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105526000",
+      "code": "0105526000",
+      "name": "Mangaldan"
+    }
+  },
+  {
+    "id": "0105526015",
+    "code": "0105526015",
+    "name": "Inlambo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105526000",
+      "code": "0105526000",
+      "name": "Mangaldan"
+    }
+  },
+  {
+    "id": "0105526016",
+    "code": "0105526016",
+    "name": "Lanas",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105526000",
+      "code": "0105526000",
+      "name": "Mangaldan"
+    }
+  },
+  {
+    "id": "0105526017",
+    "code": "0105526017",
+    "name": "Landas",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105526000",
+      "code": "0105526000",
+      "name": "Mangaldan"
+    }
+  },
+  {
+    "id": "0105526018",
+    "code": "0105526018",
+    "name": "Maasin",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105526000",
+      "code": "0105526000",
+      "name": "Mangaldan"
+    }
+  },
+  {
+    "id": "0105526019",
+    "code": "0105526019",
+    "name": "Macayug",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105526000",
+      "code": "0105526000",
+      "name": "Mangaldan"
+    }
+  },
+  {
+    "id": "0105526020",
+    "code": "0105526020",
+    "name": "Malabago",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105526000",
+      "code": "0105526000",
+      "name": "Mangaldan"
+    }
+  },
+  {
+    "id": "0105526021",
+    "code": "0105526021",
+    "name": "Navaluan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105526000",
+      "code": "0105526000",
+      "name": "Mangaldan"
+    }
+  },
+  {
+    "id": "0105526022",
+    "code": "0105526022",
+    "name": "Nibaliw",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105526000",
+      "code": "0105526000",
+      "name": "Mangaldan"
+    }
+  },
+  {
+    "id": "0105526023",
+    "code": "0105526023",
+    "name": "Osiem",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105526000",
+      "code": "0105526000",
+      "name": "Mangaldan"
+    }
+  },
+  {
+    "id": "0105526024",
+    "code": "0105526024",
+    "name": "Palua",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105526000",
+      "code": "0105526000",
+      "name": "Mangaldan"
+    }
+  },
+  {
+    "id": "0105526025",
+    "code": "0105526025",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105526000",
+      "code": "0105526000",
+      "name": "Mangaldan"
+    }
+  },
+  {
+    "id": "0105526026",
+    "code": "0105526026",
+    "name": "Pogo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105526000",
+      "code": "0105526000",
+      "name": "Mangaldan"
+    }
+  },
+  {
+    "id": "0105526027",
+    "code": "0105526027",
+    "name": "Salaan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105526000",
+      "code": "0105526000",
+      "name": "Mangaldan"
+    }
+  },
+  {
+    "id": "0105526028",
+    "code": "0105526028",
+    "name": "Salay",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105526000",
+      "code": "0105526000",
+      "name": "Mangaldan"
+    }
+  },
+  {
+    "id": "0105526030",
+    "code": "0105526030",
+    "name": "Talogtog",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105526000",
+      "code": "0105526000",
+      "name": "Mangaldan"
+    }
+  },
+  {
+    "id": "0105526029",
+    "code": "0105526029",
+    "name": "Tebag",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105526000",
+      "code": "0105526000",
+      "name": "Mangaldan"
+    }
+  }
+]

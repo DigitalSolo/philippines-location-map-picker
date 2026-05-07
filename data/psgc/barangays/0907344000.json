@@ -1,0 +1,380 @@
+[
+  {
+    "id": "0907344001",
+    "code": "0907344001",
+    "name": "Begong",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907344000",
+      "code": "0907344000",
+      "name": "Tigbao"
+    }
+  },
+  {
+    "id": "0907344002",
+    "code": "0907344002",
+    "name": "Busol",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907344000",
+      "code": "0907344000",
+      "name": "Tigbao"
+    }
+  },
+  {
+    "id": "0907344003",
+    "code": "0907344003",
+    "name": "Caluma",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907344000",
+      "code": "0907344000",
+      "name": "Tigbao"
+    }
+  },
+  {
+    "id": "0907344004",
+    "code": "0907344004",
+    "name": "Diana Countryside",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907344000",
+      "code": "0907344000",
+      "name": "Tigbao"
+    }
+  },
+  {
+    "id": "0907344005",
+    "code": "0907344005",
+    "name": "Guinlin",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907344000",
+      "code": "0907344000",
+      "name": "Tigbao"
+    }
+  },
+  {
+    "id": "0907344006",
+    "code": "0907344006",
+    "name": "Lacarayan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907344000",
+      "code": "0907344000",
+      "name": "Tigbao"
+    }
+  },
+  {
+    "id": "0907344007",
+    "code": "0907344007",
+    "name": "Lacupayan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907344000",
+      "code": "0907344000",
+      "name": "Tigbao"
+    }
+  },
+  {
+    "id": "0907344008",
+    "code": "0907344008",
+    "name": "Libayoy",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907344000",
+      "code": "0907344000",
+      "name": "Tigbao"
+    }
+  },
+  {
+    "id": "0907344009",
+    "code": "0907344009",
+    "name": "Limas",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907344000",
+      "code": "0907344000",
+      "name": "Tigbao"
+    }
+  },
+  {
+    "id": "0907344010",
+    "code": "0907344010",
+    "name": "Longmot",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907344000",
+      "code": "0907344000",
+      "name": "Tigbao"
+    }
+  },
+  {
+    "id": "0907344011",
+    "code": "0907344011",
+    "name": "Maragang",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907344000",
+      "code": "0907344000",
+      "name": "Tigbao"
+    }
+  },
+  {
+    "id": "0907344012",
+    "code": "0907344012",
+    "name": "Mate",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907344000",
+      "code": "0907344000",
+      "name": "Tigbao"
+    }
+  },
+  {
+    "id": "0907344013",
+    "code": "0907344013",
+    "name": "Nangan-nangan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907344000",
+      "code": "0907344000",
+      "name": "Tigbao"
+    }
+  },
+  {
+    "id": "0907344014",
+    "code": "0907344014",
+    "name": "New Tuburan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907344000",
+      "code": "0907344000",
+      "name": "Tigbao"
+    }
+  },
+  {
+    "id": "0907344015",
+    "code": "0907344015",
+    "name": "Nilo",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907344000",
+      "code": "0907344000",
+      "name": "Tigbao"
+    }
+  },
+  {
+    "id": "0907344016",
+    "code": "0907344016",
+    "name": "Tigbao",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907344000",
+      "code": "0907344000",
+      "name": "Tigbao"
+    }
+  },
+  {
+    "id": "0907344017",
+    "code": "0907344017",
+    "name": "Timolan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907344000",
+      "code": "0907344000",
+      "name": "Tigbao"
+    }
+  },
+  {
+    "id": "0907344018",
+    "code": "0907344018",
+    "name": "Upper Nilo",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907344000",
+      "code": "0907344000",
+      "name": "Tigbao"
+    }
+  }
+]

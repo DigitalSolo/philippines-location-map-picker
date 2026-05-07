@@ -1,0 +1,674 @@
+[
+  {
+    "id": "0205704001",
+    "code": "0205704001",
+    "name": "Abbag",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205704000",
+      "code": "0205704000",
+      "name": "Maddela"
+    }
+  },
+  {
+    "id": "0205704003",
+    "code": "0205704003",
+    "name": "Balligui",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205704000",
+      "code": "0205704000",
+      "name": "Maddela"
+    }
+  },
+  {
+    "id": "0205704005",
+    "code": "0205704005",
+    "name": "Buenavista",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205704000",
+      "code": "0205704000",
+      "name": "Maddela"
+    }
+  },
+  {
+    "id": "0205704006",
+    "code": "0205704006",
+    "name": "Cabaruan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205704000",
+      "code": "0205704000",
+      "name": "Maddela"
+    }
+  },
+  {
+    "id": "0205704007",
+    "code": "0205704007",
+    "name": "Cabua-an",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205704000",
+      "code": "0205704000",
+      "name": "Maddela"
+    }
+  },
+  {
+    "id": "0205704008",
+    "code": "0205704008",
+    "name": "Cofcaville",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205704000",
+      "code": "0205704000",
+      "name": "Maddela"
+    }
+  },
+  {
+    "id": "0205704009",
+    "code": "0205704009",
+    "name": "Diduyon",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205704000",
+      "code": "0205704000",
+      "name": "Maddela"
+    }
+  },
+  {
+    "id": "0205704010",
+    "code": "0205704010",
+    "name": "Dipintin",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205704000",
+      "code": "0205704000",
+      "name": "Maddela"
+    }
+  },
+  {
+    "id": "0205704011",
+    "code": "0205704011",
+    "name": "Divisoria Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205704000",
+      "code": "0205704000",
+      "name": "Maddela"
+    }
+  },
+  {
+    "id": "0205704004",
+    "code": "0205704004",
+    "name": "Divisoria Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205704000",
+      "code": "0205704000",
+      "name": "Maddela"
+    }
+  },
+  {
+    "id": "0205704012",
+    "code": "0205704012",
+    "name": "Dumabato Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205704000",
+      "code": "0205704000",
+      "name": "Maddela"
+    }
+  },
+  {
+    "id": "0205704013",
+    "code": "0205704013",
+    "name": "Dumabato Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205704000",
+      "code": "0205704000",
+      "name": "Maddela"
+    }
+  },
+  {
+    "id": "0205704038",
+    "code": "0205704038",
+    "name": "Jose Ancheta",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205704000",
+      "code": "0205704000",
+      "name": "Maddela"
+    }
+  },
+  {
+    "id": "0205704014",
+    "code": "0205704014",
+    "name": "Lusod",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205704000",
+      "code": "0205704000",
+      "name": "Maddela"
+    }
+  },
+  {
+    "id": "0205704015",
+    "code": "0205704015",
+    "name": "Manglad",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205704000",
+      "code": "0205704000",
+      "name": "Maddela"
+    }
+  },
+  {
+    "id": "0205704016",
+    "code": "0205704016",
+    "name": "Pedlisan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205704000",
+      "code": "0205704000",
+      "name": "Maddela"
+    }
+  },
+  {
+    "id": "0205704017",
+    "code": "0205704017",
+    "name": "Poblacion Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205704000",
+      "code": "0205704000",
+      "name": "Maddela"
+    }
+  },
+  {
+    "id": "0205704036",
+    "code": "0205704036",
+    "name": "Poblacion Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205704000",
+      "code": "0205704000",
+      "name": "Maddela"
+    }
+  },
+  {
+    "id": "0205704019",
+    "code": "0205704019",
+    "name": "San Bernabe",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205704000",
+      "code": "0205704000",
+      "name": "Maddela"
+    }
+  },
+  {
+    "id": "0205704021",
+    "code": "0205704021",
+    "name": "San Dionisio I",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205704000",
+      "code": "0205704000",
+      "name": "Maddela"
+    }
+  },
+  {
+    "id": "0205704023",
+    "code": "0205704023",
+    "name": "San Martin",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205704000",
+      "code": "0205704000",
+      "name": "Maddela"
+    }
+  },
+  {
+    "id": "0205704024",
+    "code": "0205704024",
+    "name": "San Pedro",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205704000",
+      "code": "0205704000",
+      "name": "Maddela"
+    }
+  },
+  {
+    "id": "0205704025",
+    "code": "0205704025",
+    "name": "San Salvador",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205704000",
+      "code": "0205704000",
+      "name": "Maddela"
+    }
+  },
+  {
+    "id": "0205704039",
+    "code": "0205704039",
+    "name": "Santa Maria",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205704000",
+      "code": "0205704000",
+      "name": "Maddela"
+    }
+  },
+  {
+    "id": "0205704026",
+    "code": "0205704026",
+    "name": "Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205704000",
+      "code": "0205704000",
+      "name": "Maddela"
+    }
+  },
+  {
+    "id": "0205704027",
+    "code": "0205704027",
+    "name": "Santo Tomas",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205704000",
+      "code": "0205704000",
+      "name": "Maddela"
+    }
+  },
+  {
+    "id": "0205704034",
+    "code": "0205704034",
+    "name": "Villa Agullana",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205704000",
+      "code": "0205704000",
+      "name": "Maddela"
+    }
+  },
+  {
+    "id": "0205704028",
+    "code": "0205704028",
+    "name": "Villa Gracia",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205704000",
+      "code": "0205704000",
+      "name": "Maddela"
+    }
+  },
+  {
+    "id": "0205704030",
+    "code": "0205704030",
+    "name": "Villa Hermosa Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205704000",
+      "code": "0205704000",
+      "name": "Maddela"
+    }
+  },
+  {
+    "id": "0205704029",
+    "code": "0205704029",
+    "name": "Villa Hermosa Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205704000",
+      "code": "0205704000",
+      "name": "Maddela"
+    }
+  },
+  {
+    "id": "0205704037",
+    "code": "0205704037",
+    "name": "Villa Jose V Ylanan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205704000",
+      "code": "0205704000",
+      "name": "Maddela"
+    }
+  },
+  {
+    "id": "0205704032",
+    "code": "0205704032",
+    "name": "Ysmael",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205704000",
+      "code": "0205704000",
+      "name": "Maddela"
+    }
+  }
+]

@@ -1,0 +1,884 @@
+[
+  {
+    "id": "0802617001",
+    "code": "0802617001",
+    "name": "Agsam",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802617000",
+      "code": "0802617000",
+      "name": "Oras"
+    }
+  },
+  {
+    "id": "0802617045",
+    "code": "0802617045",
+    "name": "Alang-alang",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802617000",
+      "code": "0802617000",
+      "name": "Oras"
+    }
+  },
+  {
+    "id": "0802617002",
+    "code": "0802617002",
+    "name": "Bagacay",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802617000",
+      "code": "0802617000",
+      "name": "Oras"
+    }
+  },
+  {
+    "id": "0802617003",
+    "code": "0802617003",
+    "name": "Balingasag",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802617000",
+      "code": "0802617000",
+      "name": "Oras"
+    }
+  },
+  {
+    "id": "0802617004",
+    "code": "0802617004",
+    "name": "Balocawe",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802617000",
+      "code": "0802617000",
+      "name": "Oras"
+    }
+  },
+  {
+    "id": "0802617005",
+    "code": "0802617005",
+    "name": "Bantayan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802617000",
+      "code": "0802617000",
+      "name": "Oras"
+    }
+  },
+  {
+    "id": "0802617006",
+    "code": "0802617006",
+    "name": "Batang",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802617000",
+      "code": "0802617000",
+      "name": "Oras"
+    }
+  },
+  {
+    "id": "0802617007",
+    "code": "0802617007",
+    "name": "Bato",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802617000",
+      "code": "0802617000",
+      "name": "Oras"
+    }
+  },
+  {
+    "id": "0802617008",
+    "code": "0802617008",
+    "name": "Binalayan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802617000",
+      "code": "0802617000",
+      "name": "Oras"
+    }
+  },
+  {
+    "id": "0802617009",
+    "code": "0802617009",
+    "name": "Buntay",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802617000",
+      "code": "0802617000",
+      "name": "Oras"
+    }
+  },
+  {
+    "id": "0802617010",
+    "code": "0802617010",
+    "name": "Burak",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802617000",
+      "code": "0802617000",
+      "name": "Oras"
+    }
+  },
+  {
+    "id": "0802617011",
+    "code": "0802617011",
+    "name": "Butnga",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802617000",
+      "code": "0802617000",
+      "name": "Oras"
+    }
+  },
+  {
+    "id": "0802617012",
+    "code": "0802617012",
+    "name": "Cadian",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802617000",
+      "code": "0802617000",
+      "name": "Oras"
+    }
+  },
+  {
+    "id": "0802617013",
+    "code": "0802617013",
+    "name": "Cagdine",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802617000",
+      "code": "0802617000",
+      "name": "Oras"
+    }
+  },
+  {
+    "id": "0802617014",
+    "code": "0802617014",
+    "name": "Cagpile",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802617000",
+      "code": "0802617000",
+      "name": "Oras"
+    }
+  },
+  {
+    "id": "0802617015",
+    "code": "0802617015",
+    "name": "Cagtoog",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802617000",
+      "code": "0802617000",
+      "name": "Oras"
+    }
+  },
+  {
+    "id": "0802617016",
+    "code": "0802617016",
+    "name": "Camanga",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802617000",
+      "code": "0802617000",
+      "name": "Oras"
+    }
+  },
+  {
+    "id": "0802617018",
+    "code": "0802617018",
+    "name": "Dalid",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802617000",
+      "code": "0802617000",
+      "name": "Oras"
+    }
+  },
+  {
+    "id": "0802617019",
+    "code": "0802617019",
+    "name": "Dao",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802617000",
+      "code": "0802617000",
+      "name": "Oras"
+    }
+  },
+  {
+    "id": "0802617020",
+    "code": "0802617020",
+    "name": "Factoria",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802617000",
+      "code": "0802617000",
+      "name": "Oras"
+    }
+  },
+  {
+    "id": "0802617021",
+    "code": "0802617021",
+    "name": "Gamot",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802617000",
+      "code": "0802617000",
+      "name": "Oras"
+    }
+  },
+  {
+    "id": "0802617022",
+    "code": "0802617022",
+    "name": "Iwayan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802617000",
+      "code": "0802617000",
+      "name": "Oras"
+    }
+  },
+  {
+    "id": "0802617023",
+    "code": "0802617023",
+    "name": "Japay",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802617000",
+      "code": "0802617000",
+      "name": "Oras"
+    }
+  },
+  {
+    "id": "0802617024",
+    "code": "0802617024",
+    "name": "Kalaw",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802617000",
+      "code": "0802617000",
+      "name": "Oras"
+    }
+  },
+  {
+    "id": "0802617025",
+    "code": "0802617025",
+    "name": "Mabuhay",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802617000",
+      "code": "0802617000",
+      "name": "Oras"
+    }
+  },
+  {
+    "id": "0802617026",
+    "code": "0802617026",
+    "name": "Malingon",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802617000",
+      "code": "0802617000",
+      "name": "Oras"
+    }
+  },
+  {
+    "id": "0802617027",
+    "code": "0802617027",
+    "name": "Minap-os",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802617000",
+      "code": "0802617000",
+      "name": "Oras"
+    }
+  },
+  {
+    "id": "0802617028",
+    "code": "0802617028",
+    "name": "Nadacpan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802617000",
+      "code": "0802617000",
+      "name": "Oras"
+    }
+  },
+  {
+    "id": "0802617029",
+    "code": "0802617029",
+    "name": "Naga",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802617000",
+      "code": "0802617000",
+      "name": "Oras"
+    }
+  },
+  {
+    "id": "0802617030",
+    "code": "0802617030",
+    "name": "Pangudtan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802617000",
+      "code": "0802617000",
+      "name": "Oras"
+    }
+  },
+  {
+    "id": "0802617031",
+    "code": "0802617031",
+    "name": "Paypayon",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802617000",
+      "code": "0802617000",
+      "name": "Oras"
+    }
+  },
+  {
+    "id": "0802617033",
+    "code": "0802617033",
+    "name": "Riverside",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802617000",
+      "code": "0802617000",
+      "name": "Oras"
+    }
+  },
+  {
+    "id": "0802617034",
+    "code": "0802617034",
+    "name": "Rizal",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802617000",
+      "code": "0802617000",
+      "name": "Oras"
+    }
+  },
+  {
+    "id": "0802617035",
+    "code": "0802617035",
+    "name": "Sabang",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802617000",
+      "code": "0802617000",
+      "name": "Oras"
+    }
+  },
+  {
+    "id": "0802617036",
+    "code": "0802617036",
+    "name": "San Eduardo",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802617000",
+      "code": "0802617000",
+      "name": "Oras"
+    }
+  },
+  {
+    "id": "0802617046",
+    "code": "0802617046",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802617000",
+      "code": "0802617000",
+      "name": "Oras"
+    }
+  },
+  {
+    "id": "0802617037",
+    "code": "0802617037",
+    "name": "Santa Monica",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802617000",
+      "code": "0802617000",
+      "name": "Oras"
+    }
+  },
+  {
+    "id": "0802617038",
+    "code": "0802617038",
+    "name": "Saugan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802617000",
+      "code": "0802617000",
+      "name": "Oras"
+    }
+  },
+  {
+    "id": "0802617039",
+    "code": "0802617039",
+    "name": "Saurong",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802617000",
+      "code": "0802617000",
+      "name": "Oras"
+    }
+  },
+  {
+    "id": "0802617041",
+    "code": "0802617041",
+    "name": "Tawagan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802617000",
+      "code": "0802617000",
+      "name": "Oras"
+    }
+  },
+  {
+    "id": "0802617043",
+    "code": "0802617043",
+    "name": "Tiguib",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802617000",
+      "code": "0802617000",
+      "name": "Oras"
+    }
+  },
+  {
+    "id": "0802617044",
+    "code": "0802617044",
+    "name": "Trinidad",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802617000",
+      "code": "0802617000",
+      "name": "Oras"
+    }
+  }
+]

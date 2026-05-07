@@ -1,0 +1,884 @@
+[
+  {
+    "id": "1806106001",
+    "code": "1806106001",
+    "name": "Banban",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806106000",
+      "code": "1806106000",
+      "name": "Siquijor"
+    }
+  },
+  {
+    "id": "1806106002",
+    "code": "1806106002",
+    "name": "Bolos",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806106000",
+      "code": "1806106000",
+      "name": "Siquijor"
+    }
+  },
+  {
+    "id": "1806106003",
+    "code": "1806106003",
+    "name": "Caipilan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806106000",
+      "code": "1806106000",
+      "name": "Siquijor"
+    }
+  },
+  {
+    "id": "1806106004",
+    "code": "1806106004",
+    "name": "Caitican",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806106000",
+      "code": "1806106000",
+      "name": "Siquijor"
+    }
+  },
+  {
+    "id": "1806106005",
+    "code": "1806106005",
+    "name": "Calalinan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806106000",
+      "code": "1806106000",
+      "name": "Siquijor"
+    }
+  },
+  {
+    "id": "1806106007",
+    "code": "1806106007",
+    "name": "Canal",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806106000",
+      "code": "1806106000",
+      "name": "Siquijor"
+    }
+  },
+  {
+    "id": "1806106008",
+    "code": "1806106008",
+    "name": "Candanay Norte",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806106000",
+      "code": "1806106000",
+      "name": "Siquijor"
+    }
+  },
+  {
+    "id": "1806106009",
+    "code": "1806106009",
+    "name": "Candanay Sur",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806106000",
+      "code": "1806106000",
+      "name": "Siquijor"
+    }
+  },
+  {
+    "id": "1806106010",
+    "code": "1806106010",
+    "name": "Cang-adieng",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806106000",
+      "code": "1806106000",
+      "name": "Siquijor"
+    }
+  },
+  {
+    "id": "1806106011",
+    "code": "1806106011",
+    "name": "Cang-agong",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806106000",
+      "code": "1806106000",
+      "name": "Siquijor"
+    }
+  },
+  {
+    "id": "1806106012",
+    "code": "1806106012",
+    "name": "Cang-alwang",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806106000",
+      "code": "1806106000",
+      "name": "Siquijor"
+    }
+  },
+  {
+    "id": "1806106013",
+    "code": "1806106013",
+    "name": "Cang-asa",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806106000",
+      "code": "1806106000",
+      "name": "Siquijor"
+    }
+  },
+  {
+    "id": "1806106006",
+    "code": "1806106006",
+    "name": "Cang-atuyom",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806106000",
+      "code": "1806106000",
+      "name": "Siquijor"
+    }
+  },
+  {
+    "id": "1806106014",
+    "code": "1806106014",
+    "name": "Cang-inte",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806106000",
+      "code": "1806106000",
+      "name": "Siquijor"
+    }
+  },
+  {
+    "id": "1806106015",
+    "code": "1806106015",
+    "name": "Cang-isad",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806106000",
+      "code": "1806106000",
+      "name": "Siquijor"
+    }
+  },
+  {
+    "id": "1806106016",
+    "code": "1806106016",
+    "name": "Canghunoghunog",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806106000",
+      "code": "1806106000",
+      "name": "Siquijor"
+    }
+  },
+  {
+    "id": "1806106017",
+    "code": "1806106017",
+    "name": "Cangmatnog",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806106000",
+      "code": "1806106000",
+      "name": "Siquijor"
+    }
+  },
+  {
+    "id": "1806106018",
+    "code": "1806106018",
+    "name": "Cangmohao",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806106000",
+      "code": "1806106000",
+      "name": "Siquijor"
+    }
+  },
+  {
+    "id": "1806106019",
+    "code": "1806106019",
+    "name": "Cantabon",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806106000",
+      "code": "1806106000",
+      "name": "Siquijor"
+    }
+  },
+  {
+    "id": "1806106020",
+    "code": "1806106020",
+    "name": "Caticugan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806106000",
+      "code": "1806106000",
+      "name": "Siquijor"
+    }
+  },
+  {
+    "id": "1806106021",
+    "code": "1806106021",
+    "name": "Dumanhog",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806106000",
+      "code": "1806106000",
+      "name": "Siquijor"
+    }
+  },
+  {
+    "id": "1806106022",
+    "code": "1806106022",
+    "name": "Ibabao",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806106000",
+      "code": "1806106000",
+      "name": "Siquijor"
+    }
+  },
+  {
+    "id": "1806106023",
+    "code": "1806106023",
+    "name": "Lambojon",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806106000",
+      "code": "1806106000",
+      "name": "Siquijor"
+    }
+  },
+  {
+    "id": "1806106024",
+    "code": "1806106024",
+    "name": "Luyang",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806106000",
+      "code": "1806106000",
+      "name": "Siquijor"
+    }
+  },
+  {
+    "id": "1806106025",
+    "code": "1806106025",
+    "name": "Luzong",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806106000",
+      "code": "1806106000",
+      "name": "Siquijor"
+    }
+  },
+  {
+    "id": "1806106026",
+    "code": "1806106026",
+    "name": "Olo",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806106000",
+      "code": "1806106000",
+      "name": "Siquijor"
+    }
+  },
+  {
+    "id": "1806106027",
+    "code": "1806106027",
+    "name": "Pangi",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806106000",
+      "code": "1806106000",
+      "name": "Siquijor"
+    }
+  },
+  {
+    "id": "1806106028",
+    "code": "1806106028",
+    "name": "Panlautan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806106000",
+      "code": "1806106000",
+      "name": "Siquijor"
+    }
+  },
+  {
+    "id": "1806106029",
+    "code": "1806106029",
+    "name": "Pasihagon",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806106000",
+      "code": "1806106000",
+      "name": "Siquijor"
+    }
+  },
+  {
+    "id": "1806106030",
+    "code": "1806106030",
+    "name": "Pili",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806106000",
+      "code": "1806106000",
+      "name": "Siquijor"
+    }
+  },
+  {
+    "id": "1806106031",
+    "code": "1806106031",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806106000",
+      "code": "1806106000",
+      "name": "Siquijor"
+    }
+  },
+  {
+    "id": "1806106032",
+    "code": "1806106032",
+    "name": "Polangyuta",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806106000",
+      "code": "1806106000",
+      "name": "Siquijor"
+    }
+  },
+  {
+    "id": "1806106033",
+    "code": "1806106033",
+    "name": "Ponong",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806106000",
+      "code": "1806106000",
+      "name": "Siquijor"
+    }
+  },
+  {
+    "id": "1806106034",
+    "code": "1806106034",
+    "name": "Sabang",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806106000",
+      "code": "1806106000",
+      "name": "Siquijor"
+    }
+  },
+  {
+    "id": "1806106035",
+    "code": "1806106035",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806106000",
+      "code": "1806106000",
+      "name": "Siquijor"
+    }
+  },
+  {
+    "id": "1806106036",
+    "code": "1806106036",
+    "name": "Songculan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806106000",
+      "code": "1806106000",
+      "name": "Siquijor"
+    }
+  },
+  {
+    "id": "1806106037",
+    "code": "1806106037",
+    "name": "Tacdog",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806106000",
+      "code": "1806106000",
+      "name": "Siquijor"
+    }
+  },
+  {
+    "id": "1806106038",
+    "code": "1806106038",
+    "name": "Tacloban",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806106000",
+      "code": "1806106000",
+      "name": "Siquijor"
+    }
+  },
+  {
+    "id": "1806106039",
+    "code": "1806106039",
+    "name": "Tambisan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806106000",
+      "code": "1806106000",
+      "name": "Siquijor"
+    }
+  },
+  {
+    "id": "1806106040",
+    "code": "1806106040",
+    "name": "Tebjong",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806106000",
+      "code": "1806106000",
+      "name": "Siquijor"
+    }
+  },
+  {
+    "id": "1806106041",
+    "code": "1806106041",
+    "name": "Tinago",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806106000",
+      "code": "1806106000",
+      "name": "Siquijor"
+    }
+  },
+  {
+    "id": "1806106042",
+    "code": "1806106042",
+    "name": "Tongo",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1806100000",
+      "code": "1806100000",
+      "name": "Siquijor"
+    },
+    "city_municipality": {
+      "id": "1806106000",
+      "code": "1806106000",
+      "name": "Siquijor"
+    }
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "id": "1102323001",
+    "code": "1102323001",
+    "name": "Cabayangan",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102323000",
+      "code": "1102323000",
+      "name": "Braulio E. Dujali"
+    }
+  },
+  {
+    "id": "1102323002",
+    "code": "1102323002",
+    "name": "Dujali",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102323000",
+      "code": "1102323000",
+      "name": "Braulio E. Dujali"
+    }
+  },
+  {
+    "id": "1102323003",
+    "code": "1102323003",
+    "name": "Magupising",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102323000",
+      "code": "1102323000",
+      "name": "Braulio E. Dujali"
+    }
+  },
+  {
+    "id": "1102323004",
+    "code": "1102323004",
+    "name": "New Casay",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102323000",
+      "code": "1102323000",
+      "name": "Braulio E. Dujali"
+    }
+  },
+  {
+    "id": "1102323005",
+    "code": "1102323005",
+    "name": "Tanglaw",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102323000",
+      "code": "1102323000",
+      "name": "Braulio E. Dujali"
+    }
+  }
+]

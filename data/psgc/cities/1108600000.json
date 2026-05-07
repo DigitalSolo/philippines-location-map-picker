@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1108601000",
+    "code": "1108601000",
+    "name": "Don Marcelino",
+    "type": "city_municipality",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    }
+  },
+  {
+    "id": "1108602000",
+    "code": "1108602000",
+    "name": "Jose Abad Santos",
+    "type": "city_municipality",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    }
+  },
+  {
+    "id": "1108603000",
+    "code": "1108603000",
+    "name": "Malita",
+    "type": "city_municipality",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    }
+  },
+  {
+    "id": "1108604000",
+    "code": "1108604000",
+    "name": "Santa Maria",
+    "type": "city_municipality",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    }
+  },
+  {
+    "id": "1108605000",
+    "code": "1108605000",
+    "name": "Sarangani",
+    "type": "city_municipality",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    }
+  }
+]

@@ -1,0 +1,779 @@
+[
+  {
+    "id": "0504106002",
+    "code": "0504106002",
+    "name": "Begia",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504106000",
+      "code": "0504106000",
+      "name": "Cawayan"
+    }
+  },
+  {
+    "id": "0504106003",
+    "code": "0504106003",
+    "name": "Cabayugan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504106000",
+      "code": "0504106000",
+      "name": "Cawayan"
+    }
+  },
+  {
+    "id": "0504106004",
+    "code": "0504106004",
+    "name": "Cabungahan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504106000",
+      "code": "0504106000",
+      "name": "Cawayan"
+    }
+  },
+  {
+    "id": "0504106005",
+    "code": "0504106005",
+    "name": "Calapayan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504106000",
+      "code": "0504106000",
+      "name": "Cawayan"
+    }
+  },
+  {
+    "id": "0504106006",
+    "code": "0504106006",
+    "name": "Calumpang",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504106000",
+      "code": "0504106000",
+      "name": "Cawayan"
+    }
+  },
+  {
+    "id": "0504106031",
+    "code": "0504106031",
+    "name": "Chico Island",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504106000",
+      "code": "0504106000",
+      "name": "Cawayan"
+    }
+  },
+  {
+    "id": "0504106007",
+    "code": "0504106007",
+    "name": "Dalipe",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504106000",
+      "code": "0504106000",
+      "name": "Cawayan"
+    }
+  },
+  {
+    "id": "0504106008",
+    "code": "0504106008",
+    "name": "Divisoria",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504106000",
+      "code": "0504106000",
+      "name": "Cawayan"
+    }
+  },
+  {
+    "id": "0504106010",
+    "code": "0504106010",
+    "name": "Gilotongan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504106000",
+      "code": "0504106000",
+      "name": "Cawayan"
+    }
+  },
+  {
+    "id": "0504106009",
+    "code": "0504106009",
+    "name": "Guiom",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504106000",
+      "code": "0504106000",
+      "name": "Cawayan"
+    }
+  },
+  {
+    "id": "0504106036",
+    "code": "0504106036",
+    "name": "Iraya",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504106000",
+      "code": "0504106000",
+      "name": "Cawayan"
+    }
+  },
+  {
+    "id": "0504106011",
+    "code": "0504106011",
+    "name": "Itombato",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504106000",
+      "code": "0504106000",
+      "name": "Cawayan"
+    }
+  },
+  {
+    "id": "0504106032",
+    "code": "0504106032",
+    "name": "Lague-lague",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504106000",
+      "code": "0504106000",
+      "name": "Cawayan"
+    }
+  },
+  {
+    "id": "0504106012",
+    "code": "0504106012",
+    "name": "Libertad",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504106000",
+      "code": "0504106000",
+      "name": "Cawayan"
+    }
+  },
+  {
+    "id": "0504106013",
+    "code": "0504106013",
+    "name": "Looc",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504106000",
+      "code": "0504106000",
+      "name": "Cawayan"
+    }
+  },
+  {
+    "id": "0504106014",
+    "code": "0504106014",
+    "name": "Mactan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504106000",
+      "code": "0504106000",
+      "name": "Cawayan"
+    }
+  },
+  {
+    "id": "0504106015",
+    "code": "0504106015",
+    "name": "Madbad",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504106000",
+      "code": "0504106000",
+      "name": "Cawayan"
+    }
+  },
+  {
+    "id": "0504106017",
+    "code": "0504106017",
+    "name": "Mahayahay",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504106000",
+      "code": "0504106000",
+      "name": "Cawayan"
+    }
+  },
+  {
+    "id": "0504106018",
+    "code": "0504106018",
+    "name": "Maihao",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504106000",
+      "code": "0504106000",
+      "name": "Cawayan"
+    }
+  },
+  {
+    "id": "0504106019",
+    "code": "0504106019",
+    "name": "Malbug",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504106000",
+      "code": "0504106000",
+      "name": "Cawayan"
+    }
+  },
+  {
+    "id": "0504106020",
+    "code": "0504106020",
+    "name": "Naro",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504106000",
+      "code": "0504106000",
+      "name": "Cawayan"
+    }
+  },
+  {
+    "id": "0504106033",
+    "code": "0504106033",
+    "name": "Palobandera",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504106000",
+      "code": "0504106000",
+      "name": "Cawayan"
+    }
+  },
+  {
+    "id": "0504106021",
+    "code": "0504106021",
+    "name": "Pananawan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504106000",
+      "code": "0504106000",
+      "name": "Cawayan"
+    }
+  },
+  {
+    "id": "0504106034",
+    "code": "0504106034",
+    "name": "Peña Island",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504106000",
+      "code": "0504106000",
+      "name": "Cawayan"
+    }
+  },
+  {
+    "id": "0504106035",
+    "code": "0504106035",
+    "name": "Pin-As",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504106000",
+      "code": "0504106000",
+      "name": "Cawayan"
+    }
+  },
+  {
+    "id": "0504106022",
+    "code": "0504106022",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504106000",
+      "code": "0504106000",
+      "name": "Cawayan"
+    }
+  },
+  {
+    "id": "0504106023",
+    "code": "0504106023",
+    "name": "Pulot",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504106000",
+      "code": "0504106000",
+      "name": "Cawayan"
+    }
+  },
+  {
+    "id": "0504106037",
+    "code": "0504106037",
+    "name": "Punta Batsan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504106000",
+      "code": "0504106000",
+      "name": "Cawayan"
+    }
+  },
+  {
+    "id": "0504106016",
+    "code": "0504106016",
+    "name": "R.M. Magbalon",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504106000",
+      "code": "0504106000",
+      "name": "Cawayan"
+    }
+  },
+  {
+    "id": "0504106024",
+    "code": "0504106024",
+    "name": "Recodo",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504106000",
+      "code": "0504106000",
+      "name": "Cawayan"
+    }
+  },
+  {
+    "id": "0504106025",
+    "code": "0504106025",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504106000",
+      "code": "0504106000",
+      "name": "Cawayan"
+    }
+  },
+  {
+    "id": "0504106026",
+    "code": "0504106026",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504106000",
+      "code": "0504106000",
+      "name": "Cawayan"
+    }
+  },
+  {
+    "id": "0504106027",
+    "code": "0504106027",
+    "name": "Taberna",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504106000",
+      "code": "0504106000",
+      "name": "Cawayan"
+    }
+  },
+  {
+    "id": "0504106028",
+    "code": "0504106028",
+    "name": "Talisay",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504106000",
+      "code": "0504106000",
+      "name": "Cawayan"
+    }
+  },
+  {
+    "id": "0504106038",
+    "code": "0504106038",
+    "name": "Tubog",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504106000",
+      "code": "0504106000",
+      "name": "Cawayan"
+    }
+  },
+  {
+    "id": "0504106029",
+    "code": "0504106029",
+    "name": "Tuburan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504106000",
+      "code": "0504106000",
+      "name": "Cawayan"
+    }
+  },
+  {
+    "id": "0504106030",
+    "code": "0504106030",
+    "name": "Villahermosa",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504106000",
+      "code": "0504106000",
+      "name": "Cawayan"
+    }
+  }
+]

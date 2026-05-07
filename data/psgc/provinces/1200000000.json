@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1204700000",
+    "code": "1204700000",
+    "name": "Cotabato",
+    "type": "province",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    }
+  },
+  {
+    "id": "1208000000",
+    "code": "1208000000",
+    "name": "Sarangani",
+    "type": "province",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    }
+  },
+  {
+    "id": "1206300000",
+    "code": "1206300000",
+    "name": "South Cotabato",
+    "type": "province",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    }
+  },
+  {
+    "id": "1206500000",
+    "code": "1206500000",
+    "name": "Sultan Kudarat",
+    "type": "province",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    }
+  }
+]

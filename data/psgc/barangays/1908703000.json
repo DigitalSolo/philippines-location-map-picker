@@ -1,0 +1,779 @@
+[
+  {
+    "id": "1908703001",
+    "code": "1908703001",
+    "name": "Bagua",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1908700000",
+      "code": "1908700000",
+      "name": "Maguindanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1908703000",
+      "code": "1908703000",
+      "name": "City of Cotabato"
+    }
+  },
+  {
+    "id": "1908703006",
+    "code": "1908703006",
+    "name": "Bagua I",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1908700000",
+      "code": "1908700000",
+      "name": "Maguindanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1908703000",
+      "code": "1908703000",
+      "name": "City of Cotabato"
+    }
+  },
+  {
+    "id": "1908703007",
+    "code": "1908703007",
+    "name": "Bagua II",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1908700000",
+      "code": "1908700000",
+      "name": "Maguindanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1908703000",
+      "code": "1908703000",
+      "name": "City of Cotabato"
+    }
+  },
+  {
+    "id": "1908703008",
+    "code": "1908703008",
+    "name": "Bagua III",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1908700000",
+      "code": "1908700000",
+      "name": "Maguindanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1908703000",
+      "code": "1908703000",
+      "name": "City of Cotabato"
+    }
+  },
+  {
+    "id": "1908703002",
+    "code": "1908703002",
+    "name": "Kalanganan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1908700000",
+      "code": "1908700000",
+      "name": "Maguindanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1908703000",
+      "code": "1908703000",
+      "name": "City of Cotabato"
+    }
+  },
+  {
+    "id": "1908703009",
+    "code": "1908703009",
+    "name": "Kalanganan I",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1908700000",
+      "code": "1908700000",
+      "name": "Maguindanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1908703000",
+      "code": "1908703000",
+      "name": "City of Cotabato"
+    }
+  },
+  {
+    "id": "1908703010",
+    "code": "1908703010",
+    "name": "Kalanganan II",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1908700000",
+      "code": "1908700000",
+      "name": "Maguindanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1908703000",
+      "code": "1908703000",
+      "name": "City of Cotabato"
+    }
+  },
+  {
+    "id": "1908703003",
+    "code": "1908703003",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1908700000",
+      "code": "1908700000",
+      "name": "Maguindanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1908703000",
+      "code": "1908703000",
+      "name": "City of Cotabato"
+    }
+  },
+  {
+    "id": "1908703011",
+    "code": "1908703011",
+    "name": "Poblacion I",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1908700000",
+      "code": "1908700000",
+      "name": "Maguindanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1908703000",
+      "code": "1908703000",
+      "name": "City of Cotabato"
+    }
+  },
+  {
+    "id": "1908703012",
+    "code": "1908703012",
+    "name": "Poblacion II",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1908700000",
+      "code": "1908700000",
+      "name": "Maguindanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1908703000",
+      "code": "1908703000",
+      "name": "City of Cotabato"
+    }
+  },
+  {
+    "id": "1908703013",
+    "code": "1908703013",
+    "name": "Poblacion III",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1908700000",
+      "code": "1908700000",
+      "name": "Maguindanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1908703000",
+      "code": "1908703000",
+      "name": "City of Cotabato"
+    }
+  },
+  {
+    "id": "1908703014",
+    "code": "1908703014",
+    "name": "Poblacion IV",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1908700000",
+      "code": "1908700000",
+      "name": "Maguindanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1908703000",
+      "code": "1908703000",
+      "name": "City of Cotabato"
+    }
+  },
+  {
+    "id": "1908703019",
+    "code": "1908703019",
+    "name": "Poblacion IX",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1908700000",
+      "code": "1908700000",
+      "name": "Maguindanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1908703000",
+      "code": "1908703000",
+      "name": "City of Cotabato"
+    }
+  },
+  {
+    "id": "1908703015",
+    "code": "1908703015",
+    "name": "Poblacion V",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1908700000",
+      "code": "1908700000",
+      "name": "Maguindanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1908703000",
+      "code": "1908703000",
+      "name": "City of Cotabato"
+    }
+  },
+  {
+    "id": "1908703016",
+    "code": "1908703016",
+    "name": "Poblacion VI",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1908700000",
+      "code": "1908700000",
+      "name": "Maguindanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1908703000",
+      "code": "1908703000",
+      "name": "City of Cotabato"
+    }
+  },
+  {
+    "id": "1908703017",
+    "code": "1908703017",
+    "name": "Poblacion VII",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1908700000",
+      "code": "1908700000",
+      "name": "Maguindanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1908703000",
+      "code": "1908703000",
+      "name": "City of Cotabato"
+    }
+  },
+  {
+    "id": "1908703018",
+    "code": "1908703018",
+    "name": "Poblacion VIII",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1908700000",
+      "code": "1908700000",
+      "name": "Maguindanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1908703000",
+      "code": "1908703000",
+      "name": "City of Cotabato"
+    }
+  },
+  {
+    "id": "1908703004",
+    "code": "1908703004",
+    "name": "Rosary Heights",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1908700000",
+      "code": "1908700000",
+      "name": "Maguindanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1908703000",
+      "code": "1908703000",
+      "name": "City of Cotabato"
+    }
+  },
+  {
+    "id": "1908703020",
+    "code": "1908703020",
+    "name": "Rosary Heights I",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1908700000",
+      "code": "1908700000",
+      "name": "Maguindanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1908703000",
+      "code": "1908703000",
+      "name": "City of Cotabato"
+    }
+  },
+  {
+    "id": "1908703021",
+    "code": "1908703021",
+    "name": "Rosary Heights II",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1908700000",
+      "code": "1908700000",
+      "name": "Maguindanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1908703000",
+      "code": "1908703000",
+      "name": "City of Cotabato"
+    }
+  },
+  {
+    "id": "1908703022",
+    "code": "1908703022",
+    "name": "Rosary Heights III",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1908700000",
+      "code": "1908700000",
+      "name": "Maguindanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1908703000",
+      "code": "1908703000",
+      "name": "City of Cotabato"
+    }
+  },
+  {
+    "id": "1908703023",
+    "code": "1908703023",
+    "name": "Rosary Heights IV",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1908700000",
+      "code": "1908700000",
+      "name": "Maguindanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1908703000",
+      "code": "1908703000",
+      "name": "City of Cotabato"
+    }
+  },
+  {
+    "id": "1908703028",
+    "code": "1908703028",
+    "name": "Rosary Heights IX",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1908700000",
+      "code": "1908700000",
+      "name": "Maguindanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1908703000",
+      "code": "1908703000",
+      "name": "City of Cotabato"
+    }
+  },
+  {
+    "id": "1908703024",
+    "code": "1908703024",
+    "name": "Rosary Heights V",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1908700000",
+      "code": "1908700000",
+      "name": "Maguindanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1908703000",
+      "code": "1908703000",
+      "name": "City of Cotabato"
+    }
+  },
+  {
+    "id": "1908703025",
+    "code": "1908703025",
+    "name": "Rosary Heights VI",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1908700000",
+      "code": "1908700000",
+      "name": "Maguindanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1908703000",
+      "code": "1908703000",
+      "name": "City of Cotabato"
+    }
+  },
+  {
+    "id": "1908703026",
+    "code": "1908703026",
+    "name": "Rosary Heights VII",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1908700000",
+      "code": "1908700000",
+      "name": "Maguindanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1908703000",
+      "code": "1908703000",
+      "name": "City of Cotabato"
+    }
+  },
+  {
+    "id": "1908703027",
+    "code": "1908703027",
+    "name": "Rosary Heights VIII",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1908700000",
+      "code": "1908700000",
+      "name": "Maguindanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1908703000",
+      "code": "1908703000",
+      "name": "City of Cotabato"
+    }
+  },
+  {
+    "id": "1908703029",
+    "code": "1908703029",
+    "name": "Rosary Heights X",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1908700000",
+      "code": "1908700000",
+      "name": "Maguindanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1908703000",
+      "code": "1908703000",
+      "name": "City of Cotabato"
+    }
+  },
+  {
+    "id": "1908703030",
+    "code": "1908703030",
+    "name": "Rosary Heights XI",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1908700000",
+      "code": "1908700000",
+      "name": "Maguindanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1908703000",
+      "code": "1908703000",
+      "name": "City of Cotabato"
+    }
+  },
+  {
+    "id": "1908703031",
+    "code": "1908703031",
+    "name": "Rosary Heights XII",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1908700000",
+      "code": "1908700000",
+      "name": "Maguindanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1908703000",
+      "code": "1908703000",
+      "name": "City of Cotabato"
+    }
+  },
+  {
+    "id": "1908703032",
+    "code": "1908703032",
+    "name": "Rosary Heights XIII",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1908700000",
+      "code": "1908700000",
+      "name": "Maguindanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1908703000",
+      "code": "1908703000",
+      "name": "City of Cotabato"
+    }
+  },
+  {
+    "id": "1908703005",
+    "code": "1908703005",
+    "name": "Tamontaka",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1908700000",
+      "code": "1908700000",
+      "name": "Maguindanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1908703000",
+      "code": "1908703000",
+      "name": "City of Cotabato"
+    }
+  },
+  {
+    "id": "1908703033",
+    "code": "1908703033",
+    "name": "Tamontaka I",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1908700000",
+      "code": "1908700000",
+      "name": "Maguindanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1908703000",
+      "code": "1908703000",
+      "name": "City of Cotabato"
+    }
+  },
+  {
+    "id": "1908703034",
+    "code": "1908703034",
+    "name": "Tamontaka II",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1908700000",
+      "code": "1908700000",
+      "name": "Maguindanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1908703000",
+      "code": "1908703000",
+      "name": "City of Cotabato"
+    }
+  },
+  {
+    "id": "1908703035",
+    "code": "1908703035",
+    "name": "Tamontaka III",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1908700000",
+      "code": "1908700000",
+      "name": "Maguindanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1908703000",
+      "code": "1908703000",
+      "name": "City of Cotabato"
+    }
+  },
+  {
+    "id": "1908703036",
+    "code": "1908703036",
+    "name": "Tamontaka IV",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1908700000",
+      "code": "1908700000",
+      "name": "Maguindanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1908703000",
+      "code": "1908703000",
+      "name": "City of Cotabato"
+    }
+  },
+  {
+    "id": "1908703037",
+    "code": "1908703037",
+    "name": "Tamontaka V",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1908700000",
+      "code": "1908700000",
+      "name": "Maguindanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1908703000",
+      "code": "1908703000",
+      "name": "City of Cotabato"
+    }
+  }
+]

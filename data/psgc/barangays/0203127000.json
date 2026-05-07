@@ -1,0 +1,485 @@
+[
+  {
+    "id": "0203127001",
+    "code": "0203127001",
+    "name": "Bautista",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203127000",
+      "code": "0203127000",
+      "name": "San Agustin"
+    }
+  },
+  {
+    "id": "0203127002",
+    "code": "0203127002",
+    "name": "Calaocan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203127000",
+      "code": "0203127000",
+      "name": "San Agustin"
+    }
+  },
+  {
+    "id": "0203127003",
+    "code": "0203127003",
+    "name": "Dabubu Grande",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203127000",
+      "code": "0203127000",
+      "name": "San Agustin"
+    }
+  },
+  {
+    "id": "0203127004",
+    "code": "0203127004",
+    "name": "Dabubu Pequeño",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203127000",
+      "code": "0203127000",
+      "name": "San Agustin"
+    }
+  },
+  {
+    "id": "0203127005",
+    "code": "0203127005",
+    "name": "Dappig",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203127000",
+      "code": "0203127000",
+      "name": "San Agustin"
+    }
+  },
+  {
+    "id": "0203127006",
+    "code": "0203127006",
+    "name": "Laoag",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203127000",
+      "code": "0203127000",
+      "name": "San Agustin"
+    }
+  },
+  {
+    "id": "0203127007",
+    "code": "0203127007",
+    "name": "Mapalad",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203127000",
+      "code": "0203127000",
+      "name": "San Agustin"
+    }
+  },
+  {
+    "id": "0203127008",
+    "code": "0203127008",
+    "name": "Masaya Centro",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203127000",
+      "code": "0203127000",
+      "name": "San Agustin"
+    }
+  },
+  {
+    "id": "0203127009",
+    "code": "0203127009",
+    "name": "Masaya Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203127000",
+      "code": "0203127000",
+      "name": "San Agustin"
+    }
+  },
+  {
+    "id": "0203127010",
+    "code": "0203127010",
+    "name": "Masaya Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203127000",
+      "code": "0203127000",
+      "name": "San Agustin"
+    }
+  },
+  {
+    "id": "0203127011",
+    "code": "0203127011",
+    "name": "Nemmatan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203127000",
+      "code": "0203127000",
+      "name": "San Agustin"
+    }
+  },
+  {
+    "id": "0203127012",
+    "code": "0203127012",
+    "name": "Palacian",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203127000",
+      "code": "0203127000",
+      "name": "San Agustin"
+    }
+  },
+  {
+    "id": "0203127013",
+    "code": "0203127013",
+    "name": "Panang",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203127000",
+      "code": "0203127000",
+      "name": "San Agustin"
+    }
+  },
+  {
+    "id": "0203127014",
+    "code": "0203127014",
+    "name": "Quimalabasa Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203127000",
+      "code": "0203127000",
+      "name": "San Agustin"
+    }
+  },
+  {
+    "id": "0203127015",
+    "code": "0203127015",
+    "name": "Quimalabasa Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203127000",
+      "code": "0203127000",
+      "name": "San Agustin"
+    }
+  },
+  {
+    "id": "0203127016",
+    "code": "0203127016",
+    "name": "Rang-ay",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203127000",
+      "code": "0203127000",
+      "name": "San Agustin"
+    }
+  },
+  {
+    "id": "0203127017",
+    "code": "0203127017",
+    "name": "Salay",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203127000",
+      "code": "0203127000",
+      "name": "San Agustin"
+    }
+  },
+  {
+    "id": "0203127018",
+    "code": "0203127018",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203127000",
+      "code": "0203127000",
+      "name": "San Agustin"
+    }
+  },
+  {
+    "id": "0203127019",
+    "code": "0203127019",
+    "name": "Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203127000",
+      "code": "0203127000",
+      "name": "San Agustin"
+    }
+  },
+  {
+    "id": "0203127020",
+    "code": "0203127020",
+    "name": "Santos",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203127000",
+      "code": "0203127000",
+      "name": "San Agustin"
+    }
+  },
+  {
+    "id": "0203127021",
+    "code": "0203127021",
+    "name": "Sinaoangan Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203127000",
+      "code": "0203127000",
+      "name": "San Agustin"
+    }
+  },
+  {
+    "id": "0203127022",
+    "code": "0203127022",
+    "name": "Sinaoangan Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203127000",
+      "code": "0203127000",
+      "name": "San Agustin"
+    }
+  },
+  {
+    "id": "0203127023",
+    "code": "0203127023",
+    "name": "Virgoneza",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203127000",
+      "code": "0203127000",
+      "name": "San Agustin"
+    }
+  }
+]

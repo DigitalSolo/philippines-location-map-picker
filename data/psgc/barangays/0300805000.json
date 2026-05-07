@@ -1,0 +1,485 @@
+[
+  {
+    "id": "0300805001",
+    "code": "0300805001",
+    "name": "A. Rivera",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300805000",
+      "code": "0300805000",
+      "name": "Hermosa"
+    }
+  },
+  {
+    "id": "0300805002",
+    "code": "0300805002",
+    "name": "Almacen",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300805000",
+      "code": "0300805000",
+      "name": "Hermosa"
+    }
+  },
+  {
+    "id": "0300805003",
+    "code": "0300805003",
+    "name": "Bacong",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300805000",
+      "code": "0300805000",
+      "name": "Hermosa"
+    }
+  },
+  {
+    "id": "0300805004",
+    "code": "0300805004",
+    "name": "Balsic",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300805000",
+      "code": "0300805000",
+      "name": "Hermosa"
+    }
+  },
+  {
+    "id": "0300805005",
+    "code": "0300805005",
+    "name": "Bamban",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300805000",
+      "code": "0300805000",
+      "name": "Hermosa"
+    }
+  },
+  {
+    "id": "0300805006",
+    "code": "0300805006",
+    "name": "Burgos-Soliman",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300805000",
+      "code": "0300805000",
+      "name": "Hermosa"
+    }
+  },
+  {
+    "id": "0300805007",
+    "code": "0300805007",
+    "name": "Cataning",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300805000",
+      "code": "0300805000",
+      "name": "Hermosa"
+    }
+  },
+  {
+    "id": "0300805008",
+    "code": "0300805008",
+    "name": "Culis",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300805000",
+      "code": "0300805000",
+      "name": "Hermosa"
+    }
+  },
+  {
+    "id": "0300805009",
+    "code": "0300805009",
+    "name": "Daungan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300805000",
+      "code": "0300805000",
+      "name": "Hermosa"
+    }
+  },
+  {
+    "id": "0300805024",
+    "code": "0300805024",
+    "name": "Judge Roman Cruz Sr.",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300805000",
+      "code": "0300805000",
+      "name": "Hermosa"
+    }
+  },
+  {
+    "id": "0300805010",
+    "code": "0300805010",
+    "name": "Mabiga",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300805000",
+      "code": "0300805000",
+      "name": "Hermosa"
+    }
+  },
+  {
+    "id": "0300805011",
+    "code": "0300805011",
+    "name": "Mabuco",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300805000",
+      "code": "0300805000",
+      "name": "Hermosa"
+    }
+  },
+  {
+    "id": "0300805012",
+    "code": "0300805012",
+    "name": "Maite",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300805000",
+      "code": "0300805000",
+      "name": "Hermosa"
+    }
+  },
+  {
+    "id": "0300805013",
+    "code": "0300805013",
+    "name": "Mambog - Mandama",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300805000",
+      "code": "0300805000",
+      "name": "Hermosa"
+    }
+  },
+  {
+    "id": "0300805014",
+    "code": "0300805014",
+    "name": "Palihan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300805000",
+      "code": "0300805000",
+      "name": "Hermosa"
+    }
+  },
+  {
+    "id": "0300805015",
+    "code": "0300805015",
+    "name": "Pandatung",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300805000",
+      "code": "0300805000",
+      "name": "Hermosa"
+    }
+  },
+  {
+    "id": "0300805016",
+    "code": "0300805016",
+    "name": "Pulo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300805000",
+      "code": "0300805000",
+      "name": "Hermosa"
+    }
+  },
+  {
+    "id": "0300805017",
+    "code": "0300805017",
+    "name": "Saba",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300805000",
+      "code": "0300805000",
+      "name": "Hermosa"
+    }
+  },
+  {
+    "id": "0300805025",
+    "code": "0300805025",
+    "name": "Sacrifice Valley",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300805000",
+      "code": "0300805000",
+      "name": "Hermosa"
+    }
+  },
+  {
+    "id": "0300805019",
+    "code": "0300805019",
+    "name": "San Pedro",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300805000",
+      "code": "0300805000",
+      "name": "Hermosa"
+    }
+  },
+  {
+    "id": "0300805020",
+    "code": "0300805020",
+    "name": "Santo Cristo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300805000",
+      "code": "0300805000",
+      "name": "Hermosa"
+    }
+  },
+  {
+    "id": "0300805021",
+    "code": "0300805021",
+    "name": "Sumalo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300805000",
+      "code": "0300805000",
+      "name": "Hermosa"
+    }
+  },
+  {
+    "id": "0300805023",
+    "code": "0300805023",
+    "name": "Tipo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0300800000",
+      "code": "0300800000",
+      "name": "Bataan"
+    },
+    "city_municipality": {
+      "id": "0300805000",
+      "code": "0300805000",
+      "name": "Hermosa"
+    }
+  }
+]

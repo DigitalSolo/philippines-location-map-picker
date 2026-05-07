@@ -1,0 +1,716 @@
+[
+  {
+    "id": "0301422002",
+    "code": "0301422002",
+    "name": "Banca-banca",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301422000",
+      "code": "0301422000",
+      "name": "San Rafael"
+    }
+  },
+  {
+    "id": "0301422001",
+    "code": "0301422001",
+    "name": "BMA-Balagtas",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301422000",
+      "code": "0301422000",
+      "name": "San Rafael"
+    }
+  },
+  {
+    "id": "0301422003",
+    "code": "0301422003",
+    "name": "Caingin",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301422000",
+      "code": "0301422000",
+      "name": "San Rafael"
+    }
+  },
+  {
+    "id": "0301422009",
+    "code": "0301422009",
+    "name": "Capihan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301422000",
+      "code": "0301422000",
+      "name": "San Rafael"
+    }
+  },
+  {
+    "id": "0301422004",
+    "code": "0301422004",
+    "name": "Coral na Bato",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301422000",
+      "code": "0301422000",
+      "name": "San Rafael"
+    }
+  },
+  {
+    "id": "0301422005",
+    "code": "0301422005",
+    "name": "Cruz na Daan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301422000",
+      "code": "0301422000",
+      "name": "San Rafael"
+    }
+  },
+  {
+    "id": "0301422006",
+    "code": "0301422006",
+    "name": "Dagat-dagatan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301422000",
+      "code": "0301422000",
+      "name": "San Rafael"
+    }
+  },
+  {
+    "id": "0301422007",
+    "code": "0301422007",
+    "name": "Diliman I",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301422000",
+      "code": "0301422000",
+      "name": "San Rafael"
+    }
+  },
+  {
+    "id": "0301422008",
+    "code": "0301422008",
+    "name": "Diliman II",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301422000",
+      "code": "0301422000",
+      "name": "San Rafael"
+    }
+  },
+  {
+    "id": "0301422010",
+    "code": "0301422010",
+    "name": "Libis",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301422000",
+      "code": "0301422000",
+      "name": "San Rafael"
+    }
+  },
+  {
+    "id": "0301422011",
+    "code": "0301422011",
+    "name": "Lico",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301422000",
+      "code": "0301422000",
+      "name": "San Rafael"
+    }
+  },
+  {
+    "id": "0301422012",
+    "code": "0301422012",
+    "name": "Maasim",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301422000",
+      "code": "0301422000",
+      "name": "San Rafael"
+    }
+  },
+  {
+    "id": "0301422013",
+    "code": "0301422013",
+    "name": "Mabalas-balas",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301422000",
+      "code": "0301422000",
+      "name": "San Rafael"
+    }
+  },
+  {
+    "id": "0301422014",
+    "code": "0301422014",
+    "name": "Maguinao",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301422000",
+      "code": "0301422000",
+      "name": "San Rafael"
+    }
+  },
+  {
+    "id": "0301422015",
+    "code": "0301422015",
+    "name": "Maronquillo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301422000",
+      "code": "0301422000",
+      "name": "San Rafael"
+    }
+  },
+  {
+    "id": "0301422016",
+    "code": "0301422016",
+    "name": "Paco",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301422000",
+      "code": "0301422000",
+      "name": "San Rafael"
+    }
+  },
+  {
+    "id": "0301422017",
+    "code": "0301422017",
+    "name": "Pansumaloc",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301422000",
+      "code": "0301422000",
+      "name": "San Rafael"
+    }
+  },
+  {
+    "id": "0301422018",
+    "code": "0301422018",
+    "name": "Pantubig",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301422000",
+      "code": "0301422000",
+      "name": "San Rafael"
+    }
+  },
+  {
+    "id": "0301422019",
+    "code": "0301422019",
+    "name": "Pasong Bangkal",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301422000",
+      "code": "0301422000",
+      "name": "San Rafael"
+    }
+  },
+  {
+    "id": "0301422020",
+    "code": "0301422020",
+    "name": "Pasong Callos",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301422000",
+      "code": "0301422000",
+      "name": "San Rafael"
+    }
+  },
+  {
+    "id": "0301422021",
+    "code": "0301422021",
+    "name": "Pasong Intsik",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301422000",
+      "code": "0301422000",
+      "name": "San Rafael"
+    }
+  },
+  {
+    "id": "0301422022",
+    "code": "0301422022",
+    "name": "Pinacpinacan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301422000",
+      "code": "0301422000",
+      "name": "San Rafael"
+    }
+  },
+  {
+    "id": "0301422023",
+    "code": "0301422023",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301422000",
+      "code": "0301422000",
+      "name": "San Rafael"
+    }
+  },
+  {
+    "id": "0301422024",
+    "code": "0301422024",
+    "name": "Pulo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301422000",
+      "code": "0301422000",
+      "name": "San Rafael"
+    }
+  },
+  {
+    "id": "0301422025",
+    "code": "0301422025",
+    "name": "Pulong Bayabas",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301422000",
+      "code": "0301422000",
+      "name": "San Rafael"
+    }
+  },
+  {
+    "id": "0301422026",
+    "code": "0301422026",
+    "name": "Salapungan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301422000",
+      "code": "0301422000",
+      "name": "San Rafael"
+    }
+  },
+  {
+    "id": "0301422027",
+    "code": "0301422027",
+    "name": "Sampaloc",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301422000",
+      "code": "0301422000",
+      "name": "San Rafael"
+    }
+  },
+  {
+    "id": "0301422028",
+    "code": "0301422028",
+    "name": "San Agustin",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301422000",
+      "code": "0301422000",
+      "name": "San Rafael"
+    }
+  },
+  {
+    "id": "0301422030",
+    "code": "0301422030",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301422000",
+      "code": "0301422000",
+      "name": "San Rafael"
+    }
+  },
+  {
+    "id": "0301422035",
+    "code": "0301422035",
+    "name": "Sapang Pahalang",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301422000",
+      "code": "0301422000",
+      "name": "San Rafael"
+    }
+  },
+  {
+    "id": "0301422031",
+    "code": "0301422031",
+    "name": "Talacsan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301422000",
+      "code": "0301422000",
+      "name": "San Rafael"
+    }
+  },
+  {
+    "id": "0301422032",
+    "code": "0301422032",
+    "name": "Tambubong",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301422000",
+      "code": "0301422000",
+      "name": "San Rafael"
+    }
+  },
+  {
+    "id": "0301422033",
+    "code": "0301422033",
+    "name": "Tukod",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301422000",
+      "code": "0301422000",
+      "name": "San Rafael"
+    }
+  },
+  {
+    "id": "0301422034",
+    "code": "0301422034",
+    "name": "Ulingao",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301422000",
+      "code": "0301422000",
+      "name": "San Rafael"
+    }
+  }
+]

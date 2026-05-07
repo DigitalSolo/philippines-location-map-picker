@@ -1,0 +1,359 @@
+[
+  {
+    "id": "0807805001",
+    "code": "0807805001",
+    "name": "Acaban",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    },
+    "city_municipality": {
+      "id": "0807805000",
+      "code": "0807805000",
+      "name": "Culaba"
+    }
+  },
+  {
+    "id": "0807805002",
+    "code": "0807805002",
+    "name": "Bacolod",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    },
+    "city_municipality": {
+      "id": "0807805000",
+      "code": "0807805000",
+      "name": "Culaba"
+    }
+  },
+  {
+    "id": "0807805003",
+    "code": "0807805003",
+    "name": "Binongtoan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    },
+    "city_municipality": {
+      "id": "0807805000",
+      "code": "0807805000",
+      "name": "Culaba"
+    }
+  },
+  {
+    "id": "0807805004",
+    "code": "0807805004",
+    "name": "Bool Central",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    },
+    "city_municipality": {
+      "id": "0807805000",
+      "code": "0807805000",
+      "name": "Culaba"
+    }
+  },
+  {
+    "id": "0807805005",
+    "code": "0807805005",
+    "name": "Bool East",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    },
+    "city_municipality": {
+      "id": "0807805000",
+      "code": "0807805000",
+      "name": "Culaba"
+    }
+  },
+  {
+    "id": "0807805006",
+    "code": "0807805006",
+    "name": "Bool West",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    },
+    "city_municipality": {
+      "id": "0807805000",
+      "code": "0807805000",
+      "name": "Culaba"
+    }
+  },
+  {
+    "id": "0807805007",
+    "code": "0807805007",
+    "name": "Calipayan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    },
+    "city_municipality": {
+      "id": "0807805000",
+      "code": "0807805000",
+      "name": "Culaba"
+    }
+  },
+  {
+    "id": "0807805014",
+    "code": "0807805014",
+    "name": "Culaba Central",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    },
+    "city_municipality": {
+      "id": "0807805000",
+      "code": "0807805000",
+      "name": "Culaba"
+    }
+  },
+  {
+    "id": "0807805008",
+    "code": "0807805008",
+    "name": "Guindapunan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    },
+    "city_municipality": {
+      "id": "0807805000",
+      "code": "0807805000",
+      "name": "Culaba"
+    }
+  },
+  {
+    "id": "0807805009",
+    "code": "0807805009",
+    "name": "Habuhab",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    },
+    "city_municipality": {
+      "id": "0807805000",
+      "code": "0807805000",
+      "name": "Culaba"
+    }
+  },
+  {
+    "id": "0807805010",
+    "code": "0807805010",
+    "name": "Looc",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    },
+    "city_municipality": {
+      "id": "0807805000",
+      "code": "0807805000",
+      "name": "Culaba"
+    }
+  },
+  {
+    "id": "0807805011",
+    "code": "0807805011",
+    "name": "Marvel",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    },
+    "city_municipality": {
+      "id": "0807805000",
+      "code": "0807805000",
+      "name": "Culaba"
+    }
+  },
+  {
+    "id": "0807805012",
+    "code": "0807805012",
+    "name": "Patag",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    },
+    "city_municipality": {
+      "id": "0807805000",
+      "code": "0807805000",
+      "name": "Culaba"
+    }
+  },
+  {
+    "id": "0807805013",
+    "code": "0807805013",
+    "name": "Pinamihagan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    },
+    "city_municipality": {
+      "id": "0807805000",
+      "code": "0807805000",
+      "name": "Culaba"
+    }
+  },
+  {
+    "id": "0807805015",
+    "code": "0807805015",
+    "name": "Salvacion",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    },
+    "city_municipality": {
+      "id": "0807805000",
+      "code": "0807805000",
+      "name": "Culaba"
+    }
+  },
+  {
+    "id": "0807805016",
+    "code": "0807805016",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    },
+    "city_municipality": {
+      "id": "0807805000",
+      "code": "0807805000",
+      "name": "Culaba"
+    }
+  },
+  {
+    "id": "0807805017",
+    "code": "0807805017",
+    "name": "Virginia",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0807800000",
+      "code": "0807800000",
+      "name": "Biliran"
+    },
+    "city_municipality": {
+      "id": "0807805000",
+      "code": "0807805000",
+      "name": "Culaba"
+    }
+  }
+]

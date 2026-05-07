@@ -1,0 +1,926 @@
+[
+  {
+    "id": "0806022001",
+    "code": "0806022001",
+    "name": "Anagasi",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806022000",
+      "code": "0806022000",
+      "name": "Paranas"
+    }
+  },
+  {
+    "id": "0806022002",
+    "code": "0806022002",
+    "name": "Apolonia",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806022000",
+      "code": "0806022000",
+      "name": "Paranas"
+    }
+  },
+  {
+    "id": "0806022003",
+    "code": "0806022003",
+    "name": "Bagsa",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806022000",
+      "code": "0806022000",
+      "name": "Paranas"
+    }
+  },
+  {
+    "id": "0806022004",
+    "code": "0806022004",
+    "name": "Balbagan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806022000",
+      "code": "0806022000",
+      "name": "Paranas"
+    }
+  },
+  {
+    "id": "0806022005",
+    "code": "0806022005",
+    "name": "Bato",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806022000",
+      "code": "0806022000",
+      "name": "Paranas"
+    }
+  },
+  {
+    "id": "0806022006",
+    "code": "0806022006",
+    "name": "Buray",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806022000",
+      "code": "0806022000",
+      "name": "Paranas"
+    }
+  },
+  {
+    "id": "0806022008",
+    "code": "0806022008",
+    "name": "Cantaguic",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806022000",
+      "code": "0806022000",
+      "name": "Paranas"
+    }
+  },
+  {
+    "id": "0806022009",
+    "code": "0806022009",
+    "name": "Cantao-an",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806022000",
+      "code": "0806022000",
+      "name": "Paranas"
+    }
+  },
+  {
+    "id": "0806022010",
+    "code": "0806022010",
+    "name": "Cantato",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806022000",
+      "code": "0806022000",
+      "name": "Paranas"
+    }
+  },
+  {
+    "id": "0806022011",
+    "code": "0806022011",
+    "name": "Casandig I",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806022000",
+      "code": "0806022000",
+      "name": "Paranas"
+    }
+  },
+  {
+    "id": "0806022048",
+    "code": "0806022048",
+    "name": "Casandig II",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806022000",
+      "code": "0806022000",
+      "name": "Paranas"
+    }
+  },
+  {
+    "id": "0806022014",
+    "code": "0806022014",
+    "name": "Cawayan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806022000",
+      "code": "0806022000",
+      "name": "Paranas"
+    }
+  },
+  {
+    "id": "0806022012",
+    "code": "0806022012",
+    "name": "Concepcion",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806022000",
+      "code": "0806022000",
+      "name": "Paranas"
+    }
+  },
+  {
+    "id": "0806022013",
+    "code": "0806022013",
+    "name": "Jose Roño",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806022000",
+      "code": "0806022000",
+      "name": "Paranas"
+    }
+  },
+  {
+    "id": "0806022015",
+    "code": "0806022015",
+    "name": "Lawaan I",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806022000",
+      "code": "0806022000",
+      "name": "Paranas"
+    }
+  },
+  {
+    "id": "0806022049",
+    "code": "0806022049",
+    "name": "Lawaan II",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806022000",
+      "code": "0806022000",
+      "name": "Paranas"
+    }
+  },
+  {
+    "id": "0806022016",
+    "code": "0806022016",
+    "name": "Lipata",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806022000",
+      "code": "0806022000",
+      "name": "Paranas"
+    }
+  },
+  {
+    "id": "0806022017",
+    "code": "0806022017",
+    "name": "Lokilokon",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806022000",
+      "code": "0806022000",
+      "name": "Paranas"
+    }
+  },
+  {
+    "id": "0806022018",
+    "code": "0806022018",
+    "name": "Mangcal",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806022000",
+      "code": "0806022000",
+      "name": "Paranas"
+    }
+  },
+  {
+    "id": "0806022019",
+    "code": "0806022019",
+    "name": "Maylobe",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806022000",
+      "code": "0806022000",
+      "name": "Paranas"
+    }
+  },
+  {
+    "id": "0806022020",
+    "code": "0806022020",
+    "name": "Minarog",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806022000",
+      "code": "0806022000",
+      "name": "Paranas"
+    }
+  },
+  {
+    "id": "0806022021",
+    "code": "0806022021",
+    "name": "Nawi",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806022000",
+      "code": "0806022000",
+      "name": "Paranas"
+    }
+  },
+  {
+    "id": "0806022022",
+    "code": "0806022022",
+    "name": "Pabanog",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806022000",
+      "code": "0806022000",
+      "name": "Paranas"
+    }
+  },
+  {
+    "id": "0806022023",
+    "code": "0806022023",
+    "name": "Paco",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806022000",
+      "code": "0806022000",
+      "name": "Paranas"
+    }
+  },
+  {
+    "id": "0806022024",
+    "code": "0806022024",
+    "name": "Pagsa-ogan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806022000",
+      "code": "0806022000",
+      "name": "Paranas"
+    }
+  },
+  {
+    "id": "0806022025",
+    "code": "0806022025",
+    "name": "Pagsanjan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806022000",
+      "code": "0806022000",
+      "name": "Paranas"
+    }
+  },
+  {
+    "id": "0806022026",
+    "code": "0806022026",
+    "name": "Patag",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806022000",
+      "code": "0806022000",
+      "name": "Paranas"
+    }
+  },
+  {
+    "id": "0806022027",
+    "code": "0806022027",
+    "name": "Pequit",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806022000",
+      "code": "0806022000",
+      "name": "Paranas"
+    }
+  },
+  {
+    "id": "0806022028",
+    "code": "0806022028",
+    "name": "Poblacion 1",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806022000",
+      "code": "0806022000",
+      "name": "Paranas"
+    }
+  },
+  {
+    "id": "0806022029",
+    "code": "0806022029",
+    "name": "Poblacion 2",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806022000",
+      "code": "0806022000",
+      "name": "Paranas"
+    }
+  },
+  {
+    "id": "0806022030",
+    "code": "0806022030",
+    "name": "Poblacion 3",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806022000",
+      "code": "0806022000",
+      "name": "Paranas"
+    }
+  },
+  {
+    "id": "0806022031",
+    "code": "0806022031",
+    "name": "Poblacion 4",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806022000",
+      "code": "0806022000",
+      "name": "Paranas"
+    }
+  },
+  {
+    "id": "0806022032",
+    "code": "0806022032",
+    "name": "Poblacion 5",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806022000",
+      "code": "0806022000",
+      "name": "Paranas"
+    }
+  },
+  {
+    "id": "0806022033",
+    "code": "0806022033",
+    "name": "Poblacion 6",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806022000",
+      "code": "0806022000",
+      "name": "Paranas"
+    }
+  },
+  {
+    "id": "0806022038",
+    "code": "0806022038",
+    "name": "Salay",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806022000",
+      "code": "0806022000",
+      "name": "Paranas"
+    }
+  },
+  {
+    "id": "0806022039",
+    "code": "0806022039",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806022000",
+      "code": "0806022000",
+      "name": "Paranas"
+    }
+  },
+  {
+    "id": "0806022040",
+    "code": "0806022040",
+    "name": "Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806022000",
+      "code": "0806022000",
+      "name": "Paranas"
+    }
+  },
+  {
+    "id": "0806022041",
+    "code": "0806022041",
+    "name": "Sulopan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806022000",
+      "code": "0806022000",
+      "name": "Paranas"
+    }
+  },
+  {
+    "id": "0806022042",
+    "code": "0806022042",
+    "name": "Tabucan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806022000",
+      "code": "0806022000",
+      "name": "Paranas"
+    }
+  },
+  {
+    "id": "0806022043",
+    "code": "0806022043",
+    "name": "Tapul",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806022000",
+      "code": "0806022000",
+      "name": "Paranas"
+    }
+  },
+  {
+    "id": "0806022044",
+    "code": "0806022044",
+    "name": "Tenani",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806022000",
+      "code": "0806022000",
+      "name": "Paranas"
+    }
+  },
+  {
+    "id": "0806022045",
+    "code": "0806022045",
+    "name": "Tigbawon",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806022000",
+      "code": "0806022000",
+      "name": "Paranas"
+    }
+  },
+  {
+    "id": "0806022046",
+    "code": "0806022046",
+    "name": "Tula",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806022000",
+      "code": "0806022000",
+      "name": "Paranas"
+    }
+  },
+  {
+    "id": "0806022047",
+    "code": "0806022047",
+    "name": "Tutubigan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806022000",
+      "code": "0806022000",
+      "name": "Paranas"
+    }
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "0405632001",
+    "code": "0405632001",
+    "name": "Amaga",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405632000",
+      "code": "0405632000",
+      "name": "Patnanungan"
+    }
+  },
+  {
+    "id": "0405632002",
+    "code": "0405632002",
+    "name": "Busdak",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405632000",
+      "code": "0405632000",
+      "name": "Patnanungan"
+    }
+  },
+  {
+    "id": "0405632003",
+    "code": "0405632003",
+    "name": "Kilogan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405632000",
+      "code": "0405632000",
+      "name": "Patnanungan"
+    }
+  },
+  {
+    "id": "0405632004",
+    "code": "0405632004",
+    "name": "Luod",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405632000",
+      "code": "0405632000",
+      "name": "Patnanungan"
+    }
+  },
+  {
+    "id": "0405632005",
+    "code": "0405632005",
+    "name": "Patnanungan Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405632000",
+      "code": "0405632000",
+      "name": "Patnanungan"
+    }
+  },
+  {
+    "id": "0405632006",
+    "code": "0405632006",
+    "name": "Patnanungan Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405632000",
+      "code": "0405632000",
+      "name": "Patnanungan"
+    }
+  }
+]

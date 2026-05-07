@@ -1,0 +1,359 @@
+[
+  {
+    "id": "0802621001",
+    "code": "0802621001",
+    "name": "Alugan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802621000",
+      "code": "0802621000",
+      "name": "San Policarpo"
+    }
+  },
+  {
+    "id": "0802621002",
+    "code": "0802621002",
+    "name": "Bahay",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802621000",
+      "code": "0802621000",
+      "name": "San Policarpo"
+    }
+  },
+  {
+    "id": "0802621003",
+    "code": "0802621003",
+    "name": "Bangon",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802621000",
+      "code": "0802621000",
+      "name": "San Policarpo"
+    }
+  },
+  {
+    "id": "0802621010",
+    "code": "0802621010",
+    "name": "Barangay No. 1",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802621000",
+      "code": "0802621000",
+      "name": "San Policarpo"
+    }
+  },
+  {
+    "id": "0802621011",
+    "code": "0802621011",
+    "name": "Barangay No. 2",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802621000",
+      "code": "0802621000",
+      "name": "San Policarpo"
+    }
+  },
+  {
+    "id": "0802621012",
+    "code": "0802621012",
+    "name": "Barangay No. 3",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802621000",
+      "code": "0802621000",
+      "name": "San Policarpo"
+    }
+  },
+  {
+    "id": "0802621013",
+    "code": "0802621013",
+    "name": "Barangay No. 4",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802621000",
+      "code": "0802621000",
+      "name": "San Policarpo"
+    }
+  },
+  {
+    "id": "0802621014",
+    "code": "0802621014",
+    "name": "Barangay No. 5",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802621000",
+      "code": "0802621000",
+      "name": "San Policarpo"
+    }
+  },
+  {
+    "id": "0802621004",
+    "code": "0802621004",
+    "name": "Baras",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802621000",
+      "code": "0802621000",
+      "name": "San Policarpo"
+    }
+  },
+  {
+    "id": "0802621005",
+    "code": "0802621005",
+    "name": "Binogawan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802621000",
+      "code": "0802621000",
+      "name": "San Policarpo"
+    }
+  },
+  {
+    "id": "0802621006",
+    "code": "0802621006",
+    "name": "Cajagwayan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802621000",
+      "code": "0802621000",
+      "name": "San Policarpo"
+    }
+  },
+  {
+    "id": "0802621007",
+    "code": "0802621007",
+    "name": "Japunan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802621000",
+      "code": "0802621000",
+      "name": "San Policarpo"
+    }
+  },
+  {
+    "id": "0802621008",
+    "code": "0802621008",
+    "name": "Natividad",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802621000",
+      "code": "0802621000",
+      "name": "San Policarpo"
+    }
+  },
+  {
+    "id": "0802621009",
+    "code": "0802621009",
+    "name": "Pangpang",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802621000",
+      "code": "0802621000",
+      "name": "San Policarpo"
+    }
+  },
+  {
+    "id": "0802621015",
+    "code": "0802621015",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802621000",
+      "code": "0802621000",
+      "name": "San Policarpo"
+    }
+  },
+  {
+    "id": "0802621016",
+    "code": "0802621016",
+    "name": "Tabo",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802621000",
+      "code": "0802621000",
+      "name": "San Policarpo"
+    }
+  },
+  {
+    "id": "0802621017",
+    "code": "0802621017",
+    "name": "Tan-awan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802621000",
+      "code": "0802621000",
+      "name": "San Policarpo"
+    }
+  }
+]

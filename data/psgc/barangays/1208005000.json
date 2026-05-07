@@ -1,0 +1,401 @@
+[
+  {
+    "id": "1208005001",
+    "code": "1208005001",
+    "name": "Bati-an",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208005000",
+      "code": "1208005000",
+      "name": "Maitum"
+    }
+  },
+  {
+    "id": "1208005002",
+    "code": "1208005002",
+    "name": "Kalaneg",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208005000",
+      "code": "1208005000",
+      "name": "Maitum"
+    }
+  },
+  {
+    "id": "1208005003",
+    "code": "1208005003",
+    "name": "Kalaong",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208005000",
+      "code": "1208005000",
+      "name": "Maitum"
+    }
+  },
+  {
+    "id": "1208005004",
+    "code": "1208005004",
+    "name": "Kiambing",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208005000",
+      "code": "1208005000",
+      "name": "Maitum"
+    }
+  },
+  {
+    "id": "1208005005",
+    "code": "1208005005",
+    "name": "Kiayap",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208005000",
+      "code": "1208005000",
+      "name": "Maitum"
+    }
+  },
+  {
+    "id": "1208005006",
+    "code": "1208005006",
+    "name": "Mabay",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208005000",
+      "code": "1208005000",
+      "name": "Maitum"
+    }
+  },
+  {
+    "id": "1208005007",
+    "code": "1208005007",
+    "name": "Maguling",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208005000",
+      "code": "1208005000",
+      "name": "Maitum"
+    }
+  },
+  {
+    "id": "1208005008",
+    "code": "1208005008",
+    "name": "Malalag",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208005000",
+      "code": "1208005000",
+      "name": "Maitum"
+    }
+  },
+  {
+    "id": "1208005009",
+    "code": "1208005009",
+    "name": "Mindupok",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208005000",
+      "code": "1208005000",
+      "name": "Maitum"
+    }
+  },
+  {
+    "id": "1208005010",
+    "code": "1208005010",
+    "name": "New La Union",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208005000",
+      "code": "1208005000",
+      "name": "Maitum"
+    }
+  },
+  {
+    "id": "1208005011",
+    "code": "1208005011",
+    "name": "Old Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208005000",
+      "code": "1208005000",
+      "name": "Maitum"
+    }
+  },
+  {
+    "id": "1208005012",
+    "code": "1208005012",
+    "name": "Pangi",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208005000",
+      "code": "1208005000",
+      "name": "Maitum"
+    }
+  },
+  {
+    "id": "1208005013",
+    "code": "1208005013",
+    "name": "Pinol",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208005000",
+      "code": "1208005000",
+      "name": "Maitum"
+    }
+  },
+  {
+    "id": "1208005014",
+    "code": "1208005014",
+    "name": "Sison",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208005000",
+      "code": "1208005000",
+      "name": "Maitum"
+    }
+  },
+  {
+    "id": "1208005015",
+    "code": "1208005015",
+    "name": "Ticulab",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208005000",
+      "code": "1208005000",
+      "name": "Maitum"
+    }
+  },
+  {
+    "id": "1208005016",
+    "code": "1208005016",
+    "name": "Tuanadatu",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208005000",
+      "code": "1208005000",
+      "name": "Maitum"
+    }
+  },
+  {
+    "id": "1208005017",
+    "code": "1208005017",
+    "name": "Upo",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208005000",
+      "code": "1208005000",
+      "name": "Maitum"
+    }
+  },
+  {
+    "id": "1208005018",
+    "code": "1208005018",
+    "name": "Wali",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208005000",
+      "code": "1208005000",
+      "name": "Maitum"
+    }
+  },
+  {
+    "id": "1208005019",
+    "code": "1208005019",
+    "name": "Zion",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1208000000",
+      "code": "1208000000",
+      "name": "Sarangani"
+    },
+    "city_municipality": {
+      "id": "1208005000",
+      "code": "1208005000",
+      "name": "Maitum"
+    }
+  }
+]

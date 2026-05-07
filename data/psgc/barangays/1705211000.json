@@ -1,0 +1,275 @@
+[
+  {
+    "id": "1705211001",
+    "code": "1705211001",
+    "name": "Aninuan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705211000",
+      "code": "1705211000",
+      "name": "Puerto Galera"
+    }
+  },
+  {
+    "id": "1705211013",
+    "code": "1705211013",
+    "name": "Baclayan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705211000",
+      "code": "1705211000",
+      "name": "Puerto Galera"
+    }
+  },
+  {
+    "id": "1705211002",
+    "code": "1705211002",
+    "name": "Balatero",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705211000",
+      "code": "1705211000",
+      "name": "Puerto Galera"
+    }
+  },
+  {
+    "id": "1705211003",
+    "code": "1705211003",
+    "name": "Dulangan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705211000",
+      "code": "1705211000",
+      "name": "Puerto Galera"
+    }
+  },
+  {
+    "id": "1705211004",
+    "code": "1705211004",
+    "name": "Palangan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705211000",
+      "code": "1705211000",
+      "name": "Puerto Galera"
+    }
+  },
+  {
+    "id": "1705211012",
+    "code": "1705211012",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705211000",
+      "code": "1705211000",
+      "name": "Puerto Galera"
+    }
+  },
+  {
+    "id": "1705211005",
+    "code": "1705211005",
+    "name": "Sabang",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705211000",
+      "code": "1705211000",
+      "name": "Puerto Galera"
+    }
+  },
+  {
+    "id": "1705211006",
+    "code": "1705211006",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705211000",
+      "code": "1705211000",
+      "name": "Puerto Galera"
+    }
+  },
+  {
+    "id": "1705211007",
+    "code": "1705211007",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705211000",
+      "code": "1705211000",
+      "name": "Puerto Galera"
+    }
+  },
+  {
+    "id": "1705211008",
+    "code": "1705211008",
+    "name": "Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705211000",
+      "code": "1705211000",
+      "name": "Puerto Galera"
+    }
+  },
+  {
+    "id": "1705211009",
+    "code": "1705211009",
+    "name": "Sinandigan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705211000",
+      "code": "1705211000",
+      "name": "Puerto Galera"
+    }
+  },
+  {
+    "id": "1705211010",
+    "code": "1705211010",
+    "name": "Tabinay",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705211000",
+      "code": "1705211000",
+      "name": "Puerto Galera"
+    }
+  },
+  {
+    "id": "1705211011",
+    "code": "1705211011",
+    "name": "Villaflor",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705211000",
+      "code": "1705211000",
+      "name": "Puerto Galera"
+    }
+  }
+]

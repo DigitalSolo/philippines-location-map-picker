@@ -1,0 +1,821 @@
+[
+  {
+    "id": "1705110001",
+    "code": "1705110001",
+    "name": "Ambulong",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705110000",
+      "code": "1705110000",
+      "name": "San Jose"
+    }
+  },
+  {
+    "id": "1705110002",
+    "code": "1705110002",
+    "name": "Ansiray",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705110000",
+      "code": "1705110000",
+      "name": "San Jose"
+    }
+  },
+  {
+    "id": "1705110003",
+    "code": "1705110003",
+    "name": "Bagong Sikat",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705110000",
+      "code": "1705110000",
+      "name": "San Jose"
+    }
+  },
+  {
+    "id": "1705110004",
+    "code": "1705110004",
+    "name": "Bangkal",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705110000",
+      "code": "1705110000",
+      "name": "San Jose"
+    }
+  },
+  {
+    "id": "1705110005",
+    "code": "1705110005",
+    "name": "Barangay 1",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705110000",
+      "code": "1705110000",
+      "name": "San Jose"
+    }
+  },
+  {
+    "id": "1705110006",
+    "code": "1705110006",
+    "name": "Barangay 2",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705110000",
+      "code": "1705110000",
+      "name": "San Jose"
+    }
+  },
+  {
+    "id": "1705110007",
+    "code": "1705110007",
+    "name": "Barangay 3",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705110000",
+      "code": "1705110000",
+      "name": "San Jose"
+    }
+  },
+  {
+    "id": "1705110008",
+    "code": "1705110008",
+    "name": "Barangay 4",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705110000",
+      "code": "1705110000",
+      "name": "San Jose"
+    }
+  },
+  {
+    "id": "1705110009",
+    "code": "1705110009",
+    "name": "Barangay 5",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705110000",
+      "code": "1705110000",
+      "name": "San Jose"
+    }
+  },
+  {
+    "id": "1705110010",
+    "code": "1705110010",
+    "name": "Barangay 6",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705110000",
+      "code": "1705110000",
+      "name": "San Jose"
+    }
+  },
+  {
+    "id": "1705110011",
+    "code": "1705110011",
+    "name": "Barangay 7",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705110000",
+      "code": "1705110000",
+      "name": "San Jose"
+    }
+  },
+  {
+    "id": "1705110012",
+    "code": "1705110012",
+    "name": "Barangay 8",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705110000",
+      "code": "1705110000",
+      "name": "San Jose"
+    }
+  },
+  {
+    "id": "1705110013",
+    "code": "1705110013",
+    "name": "Batasan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705110000",
+      "code": "1705110000",
+      "name": "San Jose"
+    }
+  },
+  {
+    "id": "1705110014",
+    "code": "1705110014",
+    "name": "Bayotbot",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705110000",
+      "code": "1705110000",
+      "name": "San Jose"
+    }
+  },
+  {
+    "id": "1705110015",
+    "code": "1705110015",
+    "name": "Bubog",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705110000",
+      "code": "1705110000",
+      "name": "San Jose"
+    }
+  },
+  {
+    "id": "1705110016",
+    "code": "1705110016",
+    "name": "Buri",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705110000",
+      "code": "1705110000",
+      "name": "San Jose"
+    }
+  },
+  {
+    "id": "1705110017",
+    "code": "1705110017",
+    "name": "Camburay",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705110000",
+      "code": "1705110000",
+      "name": "San Jose"
+    }
+  },
+  {
+    "id": "1705110018",
+    "code": "1705110018",
+    "name": "Caminawit",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705110000",
+      "code": "1705110000",
+      "name": "San Jose"
+    }
+  },
+  {
+    "id": "1705110019",
+    "code": "1705110019",
+    "name": "Catayungan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705110000",
+      "code": "1705110000",
+      "name": "San Jose"
+    }
+  },
+  {
+    "id": "1705110020",
+    "code": "1705110020",
+    "name": "Central",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705110000",
+      "code": "1705110000",
+      "name": "San Jose"
+    }
+  },
+  {
+    "id": "1705110021",
+    "code": "1705110021",
+    "name": "Iling Proper",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705110000",
+      "code": "1705110000",
+      "name": "San Jose"
+    }
+  },
+  {
+    "id": "1705110022",
+    "code": "1705110022",
+    "name": "Inasakan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705110000",
+      "code": "1705110000",
+      "name": "San Jose"
+    }
+  },
+  {
+    "id": "1705110023",
+    "code": "1705110023",
+    "name": "Ipil",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705110000",
+      "code": "1705110000",
+      "name": "San Jose"
+    }
+  },
+  {
+    "id": "1705110024",
+    "code": "1705110024",
+    "name": "La Curva",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705110000",
+      "code": "1705110000",
+      "name": "San Jose"
+    }
+  },
+  {
+    "id": "1705110025",
+    "code": "1705110025",
+    "name": "Labangan Iling",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705110000",
+      "code": "1705110000",
+      "name": "San Jose"
+    }
+  },
+  {
+    "id": "1705110026",
+    "code": "1705110026",
+    "name": "Labangan Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705110000",
+      "code": "1705110000",
+      "name": "San Jose"
+    }
+  },
+  {
+    "id": "1705110027",
+    "code": "1705110027",
+    "name": "Mabini",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705110000",
+      "code": "1705110000",
+      "name": "San Jose"
+    }
+  },
+  {
+    "id": "1705110028",
+    "code": "1705110028",
+    "name": "Magbay",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705110000",
+      "code": "1705110000",
+      "name": "San Jose"
+    }
+  },
+  {
+    "id": "1705110029",
+    "code": "1705110029",
+    "name": "Mangarin",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705110000",
+      "code": "1705110000",
+      "name": "San Jose"
+    }
+  },
+  {
+    "id": "1705110030",
+    "code": "1705110030",
+    "name": "Mapaya",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705110000",
+      "code": "1705110000",
+      "name": "San Jose"
+    }
+  },
+  {
+    "id": "1705110032",
+    "code": "1705110032",
+    "name": "Monte Claro",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705110000",
+      "code": "1705110000",
+      "name": "San Jose"
+    }
+  },
+  {
+    "id": "1705110031",
+    "code": "1705110031",
+    "name": "Murtha",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705110000",
+      "code": "1705110000",
+      "name": "San Jose"
+    }
+  },
+  {
+    "id": "1705110040",
+    "code": "1705110040",
+    "name": "Naibuan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705110000",
+      "code": "1705110000",
+      "name": "San Jose"
+    }
+  },
+  {
+    "id": "1705110033",
+    "code": "1705110033",
+    "name": "Natandol",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705110000",
+      "code": "1705110000",
+      "name": "San Jose"
+    }
+  },
+  {
+    "id": "1705110034",
+    "code": "1705110034",
+    "name": "Pag-Asa",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705110000",
+      "code": "1705110000",
+      "name": "San Jose"
+    }
+  },
+  {
+    "id": "1705110035",
+    "code": "1705110035",
+    "name": "Pawican",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705110000",
+      "code": "1705110000",
+      "name": "San Jose"
+    }
+  },
+  {
+    "id": "1705110037",
+    "code": "1705110037",
+    "name": "San Agustin",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705110000",
+      "code": "1705110000",
+      "name": "San Jose"
+    }
+  },
+  {
+    "id": "1705110038",
+    "code": "1705110038",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705110000",
+      "code": "1705110000",
+      "name": "San Jose"
+    }
+  },
+  {
+    "id": "1705110039",
+    "code": "1705110039",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705110000",
+      "code": "1705110000",
+      "name": "San Jose"
+    }
+  }
+]

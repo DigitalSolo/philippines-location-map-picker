@@ -1,0 +1,149 @@
+[
+  {
+    "id": "1606802001",
+    "code": "1606802001",
+    "name": "Amag",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606802000",
+      "code": "1606802000",
+      "name": "Bayabas"
+    }
+  },
+  {
+    "id": "1606802002",
+    "code": "1606802002",
+    "name": "Balete",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606802000",
+      "code": "1606802000",
+      "name": "Bayabas"
+    }
+  },
+  {
+    "id": "1606802003",
+    "code": "1606802003",
+    "name": "Cabugo",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606802000",
+      "code": "1606802000",
+      "name": "Bayabas"
+    }
+  },
+  {
+    "id": "1606802004",
+    "code": "1606802004",
+    "name": "Cagbaoto",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606802000",
+      "code": "1606802000",
+      "name": "Bayabas"
+    }
+  },
+  {
+    "id": "1606802005",
+    "code": "1606802005",
+    "name": "La Paz",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606802000",
+      "code": "1606802000",
+      "name": "Bayabas"
+    }
+  },
+  {
+    "id": "1606802006",
+    "code": "1606802006",
+    "name": "Magobawok",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606802000",
+      "code": "1606802000",
+      "name": "Bayabas"
+    }
+  },
+  {
+    "id": "1606802007",
+    "code": "1606802007",
+    "name": "Panaosawon",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606802000",
+      "code": "1606802000",
+      "name": "Bayabas"
+    }
+  }
+]

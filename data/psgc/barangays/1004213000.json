@@ -1,0 +1,590 @@
+[
+  {
+    "id": "1004213016",
+    "code": "1004213016",
+    "name": "Agapito Yap, Sr.",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004213000",
+      "code": "1004213000",
+      "name": "Sapang Dalaga"
+    }
+  },
+  {
+    "id": "1004213001",
+    "code": "1004213001",
+    "name": "Bautista",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004213000",
+      "code": "1004213000",
+      "name": "Sapang Dalaga"
+    }
+  },
+  {
+    "id": "1004213002",
+    "code": "1004213002",
+    "name": "Bitibut",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004213000",
+      "code": "1004213000",
+      "name": "Sapang Dalaga"
+    }
+  },
+  {
+    "id": "1004213003",
+    "code": "1004213003",
+    "name": "Boundary",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004213000",
+      "code": "1004213000",
+      "name": "Sapang Dalaga"
+    }
+  },
+  {
+    "id": "1004213004",
+    "code": "1004213004",
+    "name": "Caluya",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004213000",
+      "code": "1004213000",
+      "name": "Sapang Dalaga"
+    }
+  },
+  {
+    "id": "1004213005",
+    "code": "1004213005",
+    "name": "Capundag",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004213000",
+      "code": "1004213000",
+      "name": "Sapang Dalaga"
+    }
+  },
+  {
+    "id": "1004213006",
+    "code": "1004213006",
+    "name": "Casul",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004213000",
+      "code": "1004213000",
+      "name": "Sapang Dalaga"
+    }
+  },
+  {
+    "id": "1004213026",
+    "code": "1004213026",
+    "name": "Dalumpinas",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004213000",
+      "code": "1004213000",
+      "name": "Sapang Dalaga"
+    }
+  },
+  {
+    "id": "1004213007",
+    "code": "1004213007",
+    "name": "Dasa",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004213000",
+      "code": "1004213000",
+      "name": "Sapang Dalaga"
+    }
+  },
+  {
+    "id": "1004213008",
+    "code": "1004213008",
+    "name": "Dioyo",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004213000",
+      "code": "1004213000",
+      "name": "Sapang Dalaga"
+    }
+  },
+  {
+    "id": "1004213027",
+    "code": "1004213027",
+    "name": "Disoy",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004213000",
+      "code": "1004213000",
+      "name": "Sapang Dalaga"
+    }
+  },
+  {
+    "id": "1004213028",
+    "code": "1004213028",
+    "name": "El Paraiso",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004213000",
+      "code": "1004213000",
+      "name": "Sapang Dalaga"
+    }
+  },
+  {
+    "id": "1004213009",
+    "code": "1004213009",
+    "name": "Guinabot",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004213000",
+      "code": "1004213000",
+      "name": "Sapang Dalaga"
+    }
+  },
+  {
+    "id": "1004213010",
+    "code": "1004213010",
+    "name": "Libertad",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004213000",
+      "code": "1004213000",
+      "name": "Sapang Dalaga"
+    }
+  },
+  {
+    "id": "1004213011",
+    "code": "1004213011",
+    "name": "Locus",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004213000",
+      "code": "1004213000",
+      "name": "Sapang Dalaga"
+    }
+  },
+  {
+    "id": "1004213029",
+    "code": "1004213029",
+    "name": "Macabibo",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004213000",
+      "code": "1004213000",
+      "name": "Sapang Dalaga"
+    }
+  },
+  {
+    "id": "1004213012",
+    "code": "1004213012",
+    "name": "Manla",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004213000",
+      "code": "1004213000",
+      "name": "Sapang Dalaga"
+    }
+  },
+  {
+    "id": "1004213013",
+    "code": "1004213013",
+    "name": "Masubong",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004213000",
+      "code": "1004213000",
+      "name": "Sapang Dalaga"
+    }
+  },
+  {
+    "id": "1004213025",
+    "code": "1004213025",
+    "name": "Medallo",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004213000",
+      "code": "1004213000",
+      "name": "Sapang Dalaga"
+    }
+  },
+  {
+    "id": "1004213017",
+    "code": "1004213017",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004213000",
+      "code": "1004213000",
+      "name": "Sapang Dalaga"
+    }
+  },
+  {
+    "id": "1004213018",
+    "code": "1004213018",
+    "name": "Salimpuno",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004213000",
+      "code": "1004213000",
+      "name": "Sapang Dalaga"
+    }
+  },
+  {
+    "id": "1004213019",
+    "code": "1004213019",
+    "name": "San Agustin",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004213000",
+      "code": "1004213000",
+      "name": "Sapang Dalaga"
+    }
+  },
+  {
+    "id": "1004213030",
+    "code": "1004213030",
+    "name": "Sapang Ama",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004213000",
+      "code": "1004213000",
+      "name": "Sapang Dalaga"
+    }
+  },
+  {
+    "id": "1004213020",
+    "code": "1004213020",
+    "name": "Sinaad",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004213000",
+      "code": "1004213000",
+      "name": "Sapang Dalaga"
+    }
+  },
+  {
+    "id": "1004213021",
+    "code": "1004213021",
+    "name": "Sipac",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004213000",
+      "code": "1004213000",
+      "name": "Sapang Dalaga"
+    }
+  },
+  {
+    "id": "1004213022",
+    "code": "1004213022",
+    "name": "Sixto Velez, Sr.",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004213000",
+      "code": "1004213000",
+      "name": "Sapang Dalaga"
+    }
+  },
+  {
+    "id": "1004213023",
+    "code": "1004213023",
+    "name": "Upper Bautista",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004213000",
+      "code": "1004213000",
+      "name": "Sapang Dalaga"
+    }
+  },
+  {
+    "id": "1004213024",
+    "code": "1004213024",
+    "name": "Ventura",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004213000",
+      "code": "1004213000",
+      "name": "Sapang Dalaga"
+    }
+  }
+]

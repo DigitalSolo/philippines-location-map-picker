@@ -1,0 +1,1010 @@
+[
+  {
+    "id": "0401021001",
+    "code": "0401021001",
+    "name": "Alupay",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021002",
+    "code": "0401021002",
+    "name": "Antipolo",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021003",
+    "code": "0401021003",
+    "name": "Bagong Pook",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021004",
+    "code": "0401021004",
+    "name": "Balibago",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021031",
+    "code": "0401021031",
+    "name": "Barangay A",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021032",
+    "code": "0401021032",
+    "name": "Barangay B",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021033",
+    "code": "0401021033",
+    "name": "Barangay C",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021034",
+    "code": "0401021034",
+    "name": "Barangay D",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021035",
+    "code": "0401021035",
+    "name": "Barangay E",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021005",
+    "code": "0401021005",
+    "name": "Bayawang",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021006",
+    "code": "0401021006",
+    "name": "Baybayin",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021007",
+    "code": "0401021007",
+    "name": "Bulihan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021008",
+    "code": "0401021008",
+    "name": "Cahigam",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021009",
+    "code": "0401021009",
+    "name": "Calantas",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021010",
+    "code": "0401021010",
+    "name": "Colongan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021011",
+    "code": "0401021011",
+    "name": "Itlugan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021047",
+    "code": "0401021047",
+    "name": "Leviste",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021012",
+    "code": "0401021012",
+    "name": "Lumbangan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021013",
+    "code": "0401021013",
+    "name": "Maalas-As",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021014",
+    "code": "0401021014",
+    "name": "Mabato",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021015",
+    "code": "0401021015",
+    "name": "Mabunga",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021016",
+    "code": "0401021016",
+    "name": "Macalamcam A",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021017",
+    "code": "0401021017",
+    "name": "Macalamcam B",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021018",
+    "code": "0401021018",
+    "name": "Malaya",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021019",
+    "code": "0401021019",
+    "name": "Maligaya",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021020",
+    "code": "0401021020",
+    "name": "Marilag",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021021",
+    "code": "0401021021",
+    "name": "Masaya",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021022",
+    "code": "0401021022",
+    "name": "Matamis",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021023",
+    "code": "0401021023",
+    "name": "Mavalor",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021024",
+    "code": "0401021024",
+    "name": "Mayuro",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021025",
+    "code": "0401021025",
+    "name": "Namuco",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021026",
+    "code": "0401021026",
+    "name": "Namunga",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021028",
+    "code": "0401021028",
+    "name": "Nasi",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021027",
+    "code": "0401021027",
+    "name": "Natu",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021029",
+    "code": "0401021029",
+    "name": "Palakpak",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021030",
+    "code": "0401021030",
+    "name": "Pinagsibaan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021036",
+    "code": "0401021036",
+    "name": "Putingkahoy",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021037",
+    "code": "0401021037",
+    "name": "Quilib",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021038",
+    "code": "0401021038",
+    "name": "Salao",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021039",
+    "code": "0401021039",
+    "name": "San Carlos",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021040",
+    "code": "0401021040",
+    "name": "San Ignacio",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021041",
+    "code": "0401021041",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021042",
+    "code": "0401021042",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021043",
+    "code": "0401021043",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021044",
+    "code": "0401021044",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021045",
+    "code": "0401021045",
+    "name": "Timbugan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021046",
+    "code": "0401021046",
+    "name": "Tiquiwan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0401021048",
+    "code": "0401021048",
+    "name": "Tulos",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0401000000",
+      "code": "0401000000",
+      "name": "Batangas"
+    },
+    "city_municipality": {
+      "id": "0401021000",
+      "code": "0401021000",
+      "name": "Rosario"
+    }
+  }
+]

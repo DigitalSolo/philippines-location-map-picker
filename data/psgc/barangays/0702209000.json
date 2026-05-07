@@ -1,0 +1,527 @@
+[
+  {
+    "id": "0702209001",
+    "code": "0702209001",
+    "name": "Atop-atop",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702209000",
+      "code": "0702209000",
+      "name": "Bantayan"
+    }
+  },
+  {
+    "id": "0702209002",
+    "code": "0702209002",
+    "name": "Baigad",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702209000",
+      "code": "0702209000",
+      "name": "Bantayan"
+    }
+  },
+  {
+    "id": "0702209025",
+    "code": "0702209025",
+    "name": "Bantigue",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702209000",
+      "code": "0702209000",
+      "name": "Bantayan"
+    }
+  },
+  {
+    "id": "0702209003",
+    "code": "0702209003",
+    "name": "Baod",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702209000",
+      "code": "0702209000",
+      "name": "Bantayan"
+    }
+  },
+  {
+    "id": "0702209004",
+    "code": "0702209004",
+    "name": "Binaobao",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702209000",
+      "code": "0702209000",
+      "name": "Bantayan"
+    }
+  },
+  {
+    "id": "0702209005",
+    "code": "0702209005",
+    "name": "Botigues",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702209000",
+      "code": "0702209000",
+      "name": "Bantayan"
+    }
+  },
+  {
+    "id": "0702209007",
+    "code": "0702209007",
+    "name": "Doong",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702209000",
+      "code": "0702209000",
+      "name": "Bantayan"
+    }
+  },
+  {
+    "id": "0702209009",
+    "code": "0702209009",
+    "name": "Guiwanon",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702209000",
+      "code": "0702209000",
+      "name": "Bantayan"
+    }
+  },
+  {
+    "id": "0702209008",
+    "code": "0702209008",
+    "name": "Hilotongan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702209000",
+      "code": "0702209000",
+      "name": "Bantayan"
+    }
+  },
+  {
+    "id": "0702209006",
+    "code": "0702209006",
+    "name": "Kabac",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702209000",
+      "code": "0702209000",
+      "name": "Bantayan"
+    }
+  },
+  {
+    "id": "0702209010",
+    "code": "0702209010",
+    "name": "Kabangbang",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702209000",
+      "code": "0702209000",
+      "name": "Bantayan"
+    }
+  },
+  {
+    "id": "0702209011",
+    "code": "0702209011",
+    "name": "Kampingganon",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702209000",
+      "code": "0702209000",
+      "name": "Bantayan"
+    }
+  },
+  {
+    "id": "0702209012",
+    "code": "0702209012",
+    "name": "Kangkaibe",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702209000",
+      "code": "0702209000",
+      "name": "Bantayan"
+    }
+  },
+  {
+    "id": "0702209013",
+    "code": "0702209013",
+    "name": "Lipayran",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702209000",
+      "code": "0702209000",
+      "name": "Bantayan"
+    }
+  },
+  {
+    "id": "0702209014",
+    "code": "0702209014",
+    "name": "Luyongbaybay",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702209000",
+      "code": "0702209000",
+      "name": "Bantayan"
+    }
+  },
+  {
+    "id": "0702209016",
+    "code": "0702209016",
+    "name": "Mojon",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702209000",
+      "code": "0702209000",
+      "name": "Bantayan"
+    }
+  },
+  {
+    "id": "0702209017",
+    "code": "0702209017",
+    "name": "Obo-ob",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702209000",
+      "code": "0702209000",
+      "name": "Bantayan"
+    }
+  },
+  {
+    "id": "0702209018",
+    "code": "0702209018",
+    "name": "Patao",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702209000",
+      "code": "0702209000",
+      "name": "Bantayan"
+    }
+  },
+  {
+    "id": "0702209019",
+    "code": "0702209019",
+    "name": "Putian",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702209000",
+      "code": "0702209000",
+      "name": "Bantayan"
+    }
+  },
+  {
+    "id": "0702209020",
+    "code": "0702209020",
+    "name": "Sillon",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702209000",
+      "code": "0702209000",
+      "name": "Bantayan"
+    }
+  },
+  {
+    "id": "0702209022",
+    "code": "0702209022",
+    "name": "Suba",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702209000",
+      "code": "0702209000",
+      "name": "Bantayan"
+    }
+  },
+  {
+    "id": "0702209023",
+    "code": "0702209023",
+    "name": "Sulangan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702209000",
+      "code": "0702209000",
+      "name": "Bantayan"
+    }
+  },
+  {
+    "id": "0702209021",
+    "code": "0702209021",
+    "name": "Sungko",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702209000",
+      "code": "0702209000",
+      "name": "Bantayan"
+    }
+  },
+  {
+    "id": "0702209024",
+    "code": "0702209024",
+    "name": "Tamiao",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702209000",
+      "code": "0702209000",
+      "name": "Bantayan"
+    }
+  },
+  {
+    "id": "0702209026",
+    "code": "0702209026",
+    "name": "Ticad",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702209000",
+      "code": "0702209000",
+      "name": "Bantayan"
+    }
+  }
+]

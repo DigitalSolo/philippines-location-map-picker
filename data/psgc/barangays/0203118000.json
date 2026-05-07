@@ -1,0 +1,611 @@
+[
+  {
+    "id": "0203118001",
+    "code": "0203118001",
+    "name": "Aga",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203118000",
+      "code": "0203118000",
+      "name": "Delfin Albano"
+    }
+  },
+  {
+    "id": "0203118002",
+    "code": "0203118002",
+    "name": "Andarayan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203118000",
+      "code": "0203118000",
+      "name": "Delfin Albano"
+    }
+  },
+  {
+    "id": "0203118003",
+    "code": "0203118003",
+    "name": "Aneg",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203118000",
+      "code": "0203118000",
+      "name": "Delfin Albano"
+    }
+  },
+  {
+    "id": "0203118004",
+    "code": "0203118004",
+    "name": "Bayabo",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203118000",
+      "code": "0203118000",
+      "name": "Delfin Albano"
+    }
+  },
+  {
+    "id": "0203118030",
+    "code": "0203118030",
+    "name": "Calaocan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203118000",
+      "code": "0203118000",
+      "name": "Delfin Albano"
+    }
+  },
+  {
+    "id": "0203118006",
+    "code": "0203118006",
+    "name": "Calinaoan Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203118000",
+      "code": "0203118000",
+      "name": "Delfin Albano"
+    }
+  },
+  {
+    "id": "0203118007",
+    "code": "0203118007",
+    "name": "Capitol",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203118000",
+      "code": "0203118000",
+      "name": "Delfin Albano"
+    }
+  },
+  {
+    "id": "0203118008",
+    "code": "0203118008",
+    "name": "Carmencita",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203118000",
+      "code": "0203118000",
+      "name": "Delfin Albano"
+    }
+  },
+  {
+    "id": "0203118009",
+    "code": "0203118009",
+    "name": "Concepcion",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203118000",
+      "code": "0203118000",
+      "name": "Delfin Albano"
+    }
+  },
+  {
+    "id": "0203118010",
+    "code": "0203118010",
+    "name": "Maui",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203118000",
+      "code": "0203118000",
+      "name": "Delfin Albano"
+    }
+  },
+  {
+    "id": "0203118011",
+    "code": "0203118011",
+    "name": "Quibal",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203118000",
+      "code": "0203118000",
+      "name": "Delfin Albano"
+    }
+  },
+  {
+    "id": "0203118012",
+    "code": "0203118012",
+    "name": "Ragan Almacen",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203118000",
+      "code": "0203118000",
+      "name": "Delfin Albano"
+    }
+  },
+  {
+    "id": "0203118013",
+    "code": "0203118013",
+    "name": "Ragan Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203118000",
+      "code": "0203118000",
+      "name": "Delfin Albano"
+    }
+  },
+  {
+    "id": "0203118014",
+    "code": "0203118014",
+    "name": "Ragan Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203118000",
+      "code": "0203118000",
+      "name": "Delfin Albano"
+    }
+  },
+  {
+    "id": "0203118015",
+    "code": "0203118015",
+    "name": "Rizal",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203118000",
+      "code": "0203118000",
+      "name": "Delfin Albano"
+    }
+  },
+  {
+    "id": "0203118016",
+    "code": "0203118016",
+    "name": "San Andres",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203118000",
+      "code": "0203118000",
+      "name": "Delfin Albano"
+    }
+  },
+  {
+    "id": "0203118017",
+    "code": "0203118017",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203118000",
+      "code": "0203118000",
+      "name": "Delfin Albano"
+    }
+  },
+  {
+    "id": "0203118018",
+    "code": "0203118018",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203118000",
+      "code": "0203118000",
+      "name": "Delfin Albano"
+    }
+  },
+  {
+    "id": "0203118019",
+    "code": "0203118019",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203118000",
+      "code": "0203118000",
+      "name": "Delfin Albano"
+    }
+  },
+  {
+    "id": "0203118020",
+    "code": "0203118020",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203118000",
+      "code": "0203118000",
+      "name": "Delfin Albano"
+    }
+  },
+  {
+    "id": "0203118021",
+    "code": "0203118021",
+    "name": "San Macario",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203118000",
+      "code": "0203118000",
+      "name": "Delfin Albano"
+    }
+  },
+  {
+    "id": "0203118022",
+    "code": "0203118022",
+    "name": "San Nicolas",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203118000",
+      "code": "0203118000",
+      "name": "Delfin Albano"
+    }
+  },
+  {
+    "id": "0203118023",
+    "code": "0203118023",
+    "name": "San Patricio",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203118000",
+      "code": "0203118000",
+      "name": "Delfin Albano"
+    }
+  },
+  {
+    "id": "0203118024",
+    "code": "0203118024",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203118000",
+      "code": "0203118000",
+      "name": "Delfin Albano"
+    }
+  },
+  {
+    "id": "0203118026",
+    "code": "0203118026",
+    "name": "Santor",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203118000",
+      "code": "0203118000",
+      "name": "Delfin Albano"
+    }
+  },
+  {
+    "id": "0203118025",
+    "code": "0203118025",
+    "name": "Sto. Rosario",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203118000",
+      "code": "0203118000",
+      "name": "Delfin Albano"
+    }
+  },
+  {
+    "id": "0203118027",
+    "code": "0203118027",
+    "name": "Villa Luz",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203118000",
+      "code": "0203118000",
+      "name": "Delfin Albano"
+    }
+  },
+  {
+    "id": "0203118028",
+    "code": "0203118028",
+    "name": "Villa Pereda",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203118000",
+      "code": "0203118000",
+      "name": "Delfin Albano"
+    }
+  },
+  {
+    "id": "0203118029",
+    "code": "0203118029",
+    "name": "Visitacion",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203118000",
+      "code": "0203118000",
+      "name": "Delfin Albano"
+    }
+  }
+]

@@ -1,0 +1,464 @@
+[
+  {
+    "id": "0907207002",
+    "code": "0907207002",
+    "name": "Dipane",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907207000",
+      "code": "0907207000",
+      "name": "Manukan"
+    }
+  },
+  {
+    "id": "0907207003",
+    "code": "0907207003",
+    "name": "Disakan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907207000",
+      "code": "0907207000",
+      "name": "Manukan"
+    }
+  },
+  {
+    "id": "0907207019",
+    "code": "0907207019",
+    "name": "Don Jose Aguirre",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907207000",
+      "code": "0907207000",
+      "name": "Manukan"
+    }
+  },
+  {
+    "id": "0907207027",
+    "code": "0907207027",
+    "name": "East Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907207000",
+      "code": "0907207000",
+      "name": "Manukan"
+    }
+  },
+  {
+    "id": "0907207004",
+    "code": "0907207004",
+    "name": "Gupot",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907207000",
+      "code": "0907207000",
+      "name": "Manukan"
+    }
+  },
+  {
+    "id": "0907207005",
+    "code": "0907207005",
+    "name": "Libuton",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907207000",
+      "code": "0907207000",
+      "name": "Manukan"
+    }
+  },
+  {
+    "id": "0907207006",
+    "code": "0907207006",
+    "name": "Linay",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907207000",
+      "code": "0907207000",
+      "name": "Manukan"
+    }
+  },
+  {
+    "id": "0907207020",
+    "code": "0907207020",
+    "name": "Lingatongan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907207000",
+      "code": "0907207000",
+      "name": "Manukan"
+    }
+  },
+  {
+    "id": "0907207007",
+    "code": "0907207007",
+    "name": "Lupasang",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907207000",
+      "code": "0907207000",
+      "name": "Manukan"
+    }
+  },
+  {
+    "id": "0907207010",
+    "code": "0907207010",
+    "name": "Mate",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907207000",
+      "code": "0907207000",
+      "name": "Manukan"
+    }
+  },
+  {
+    "id": "0907207021",
+    "code": "0907207021",
+    "name": "Meses",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907207000",
+      "code": "0907207000",
+      "name": "Manukan"
+    }
+  },
+  {
+    "id": "0907207022",
+    "code": "0907207022",
+    "name": "Palaranan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907207000",
+      "code": "0907207000",
+      "name": "Manukan"
+    }
+  },
+  {
+    "id": "0907207023",
+    "code": "0907207023",
+    "name": "Pangandao",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907207000",
+      "code": "0907207000",
+      "name": "Manukan"
+    }
+  },
+  {
+    "id": "0907207024",
+    "code": "0907207024",
+    "name": "Patagan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907207000",
+      "code": "0907207000",
+      "name": "Manukan"
+    }
+  },
+  {
+    "id": "0907207011",
+    "code": "0907207011",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907207000",
+      "code": "0907207000",
+      "name": "Manukan"
+    }
+  },
+  {
+    "id": "0907207028",
+    "code": "0907207028",
+    "name": "Punta Blanca",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907207000",
+      "code": "0907207000",
+      "name": "Manukan"
+    }
+  },
+  {
+    "id": "0907207013",
+    "code": "0907207013",
+    "name": "Saluyong",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907207000",
+      "code": "0907207000",
+      "name": "Manukan"
+    }
+  },
+  {
+    "id": "0907207025",
+    "code": "0907207025",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907207000",
+      "code": "0907207000",
+      "name": "Manukan"
+    }
+  },
+  {
+    "id": "0907207014",
+    "code": "0907207014",
+    "name": "Serongan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907207000",
+      "code": "0907207000",
+      "name": "Manukan"
+    }
+  },
+  {
+    "id": "0907207029",
+    "code": "0907207029",
+    "name": "Suisayan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907207000",
+      "code": "0907207000",
+      "name": "Manukan"
+    }
+  },
+  {
+    "id": "0907207026",
+    "code": "0907207026",
+    "name": "Upper Disakan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907207000",
+      "code": "0907207000",
+      "name": "Manukan"
+    }
+  },
+  {
+    "id": "0907207018",
+    "code": "0907207018",
+    "name": "Villaramos",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907207000",
+      "code": "0907207000",
+      "name": "Manukan"
+    }
+  }
+]

@@ -1,0 +1,317 @@
+[
+  {
+    "id": "0103315002",
+    "code": "0103315002",
+    "name": "Amontoc",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103315000",
+      "code": "0103315000",
+      "name": "San Gabriel"
+    }
+  },
+  {
+    "id": "0103315003",
+    "code": "0103315003",
+    "name": "Apayao",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103315000",
+      "code": "0103315000",
+      "name": "San Gabriel"
+    }
+  },
+  {
+    "id": "0103315004",
+    "code": "0103315004",
+    "name": "Balbalayang",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103315000",
+      "code": "0103315000",
+      "name": "San Gabriel"
+    }
+  },
+  {
+    "id": "0103315006",
+    "code": "0103315006",
+    "name": "Bayabas",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103315000",
+      "code": "0103315000",
+      "name": "San Gabriel"
+    }
+  },
+  {
+    "id": "0103315007",
+    "code": "0103315007",
+    "name": "Bucao",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103315000",
+      "code": "0103315000",
+      "name": "San Gabriel"
+    }
+  },
+  {
+    "id": "0103315008",
+    "code": "0103315008",
+    "name": "Bumbuneg",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103315000",
+      "code": "0103315000",
+      "name": "San Gabriel"
+    }
+  },
+  {
+    "id": "0103315021",
+    "code": "0103315021",
+    "name": "Daking",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103315000",
+      "code": "0103315000",
+      "name": "San Gabriel"
+    }
+  },
+  {
+    "id": "0103315012",
+    "code": "0103315012",
+    "name": "Lacong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103315000",
+      "code": "0103315000",
+      "name": "San Gabriel"
+    }
+  },
+  {
+    "id": "0103315013",
+    "code": "0103315013",
+    "name": "Lipay Este",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103315000",
+      "code": "0103315000",
+      "name": "San Gabriel"
+    }
+  },
+  {
+    "id": "0103315014",
+    "code": "0103315014",
+    "name": "Lipay Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103315000",
+      "code": "0103315000",
+      "name": "San Gabriel"
+    }
+  },
+  {
+    "id": "0103315015",
+    "code": "0103315015",
+    "name": "Lipay Proper",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103315000",
+      "code": "0103315000",
+      "name": "San Gabriel"
+    }
+  },
+  {
+    "id": "0103315016",
+    "code": "0103315016",
+    "name": "Lipay Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103315000",
+      "code": "0103315000",
+      "name": "San Gabriel"
+    }
+  },
+  {
+    "id": "0103315017",
+    "code": "0103315017",
+    "name": "Lon-oy",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103315000",
+      "code": "0103315000",
+      "name": "San Gabriel"
+    }
+  },
+  {
+    "id": "0103315019",
+    "code": "0103315019",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103315000",
+      "code": "0103315000",
+      "name": "San Gabriel"
+    }
+  },
+  {
+    "id": "0103315020",
+    "code": "0103315020",
+    "name": "Polipol",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103315000",
+      "code": "0103315000",
+      "name": "San Gabriel"
+    }
+  }
+]

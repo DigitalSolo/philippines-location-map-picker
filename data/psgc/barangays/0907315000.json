@@ -1,0 +1,611 @@
+[
+  {
+    "id": "0907315001",
+    "code": "0907315001",
+    "name": "Bag-ong Balamban",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907315000",
+      "code": "0907315000",
+      "name": "Mahayag"
+    }
+  },
+  {
+    "id": "0907315002",
+    "code": "0907315002",
+    "name": "Bag-ong Dalaguete",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907315000",
+      "code": "0907315000",
+      "name": "Mahayag"
+    }
+  },
+  {
+    "id": "0907315004",
+    "code": "0907315004",
+    "name": "Boniao",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907315000",
+      "code": "0907315000",
+      "name": "Mahayag"
+    }
+  },
+  {
+    "id": "0907315005",
+    "code": "0907315005",
+    "name": "Delusom",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907315000",
+      "code": "0907315000",
+      "name": "Mahayag"
+    }
+  },
+  {
+    "id": "0907315006",
+    "code": "0907315006",
+    "name": "Diwan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907315000",
+      "code": "0907315000",
+      "name": "Mahayag"
+    }
+  },
+  {
+    "id": "0907315007",
+    "code": "0907315007",
+    "name": "Guripan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907315000",
+      "code": "0907315000",
+      "name": "Mahayag"
+    }
+  },
+  {
+    "id": "0907315008",
+    "code": "0907315008",
+    "name": "Kaangayan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907315000",
+      "code": "0907315000",
+      "name": "Mahayag"
+    }
+  },
+  {
+    "id": "0907315009",
+    "code": "0907315009",
+    "name": "Kabuhi",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907315000",
+      "code": "0907315000",
+      "name": "Mahayag"
+    }
+  },
+  {
+    "id": "0907315011",
+    "code": "0907315011",
+    "name": "Lourmah",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907315000",
+      "code": "0907315000",
+      "name": "Mahayag"
+    }
+  },
+  {
+    "id": "0907315012",
+    "code": "0907315012",
+    "name": "Lower Salug Daku",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907315000",
+      "code": "0907315000",
+      "name": "Mahayag"
+    }
+  },
+  {
+    "id": "0907315013",
+    "code": "0907315013",
+    "name": "Lower Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907315000",
+      "code": "0907315000",
+      "name": "Mahayag"
+    }
+  },
+  {
+    "id": "0907315015",
+    "code": "0907315015",
+    "name": "Malubo",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907315000",
+      "code": "0907315000",
+      "name": "Mahayag"
+    }
+  },
+  {
+    "id": "0907315016",
+    "code": "0907315016",
+    "name": "Manguiles",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907315000",
+      "code": "0907315000",
+      "name": "Mahayag"
+    }
+  },
+  {
+    "id": "0907315003",
+    "code": "0907315003",
+    "name": "Marabanan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907315000",
+      "code": "0907315000",
+      "name": "Mahayag"
+    }
+  },
+  {
+    "id": "0907315017",
+    "code": "0907315017",
+    "name": "Panagaan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907315000",
+      "code": "0907315000",
+      "name": "Mahayag"
+    }
+  },
+  {
+    "id": "0907315018",
+    "code": "0907315018",
+    "name": "Paraiso",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907315000",
+      "code": "0907315000",
+      "name": "Mahayag"
+    }
+  },
+  {
+    "id": "0907315019",
+    "code": "0907315019",
+    "name": "Pedagan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907315000",
+      "code": "0907315000",
+      "name": "Mahayag"
+    }
+  },
+  {
+    "id": "0907315020",
+    "code": "0907315020",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907315000",
+      "code": "0907315000",
+      "name": "Mahayag"
+    }
+  },
+  {
+    "id": "0907315021",
+    "code": "0907315021",
+    "name": "Pugwan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907315000",
+      "code": "0907315000",
+      "name": "Mahayag"
+    }
+  },
+  {
+    "id": "0907315022",
+    "code": "0907315022",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907315000",
+      "code": "0907315000",
+      "name": "Mahayag"
+    }
+  },
+  {
+    "id": "0907315023",
+    "code": "0907315023",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907315000",
+      "code": "0907315000",
+      "name": "Mahayag"
+    }
+  },
+  {
+    "id": "0907315024",
+    "code": "0907315024",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907315000",
+      "code": "0907315000",
+      "name": "Mahayag"
+    }
+  },
+  {
+    "id": "0907315025",
+    "code": "0907315025",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907315000",
+      "code": "0907315000",
+      "name": "Mahayag"
+    }
+  },
+  {
+    "id": "0907315014",
+    "code": "0907315014",
+    "name": "Sicpao",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907315000",
+      "code": "0907315000",
+      "name": "Mahayag"
+    }
+  },
+  {
+    "id": "0907315027",
+    "code": "0907315027",
+    "name": "Tuboran",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907315000",
+      "code": "0907315000",
+      "name": "Mahayag"
+    }
+  },
+  {
+    "id": "0907315032",
+    "code": "0907315032",
+    "name": "Tulan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907315000",
+      "code": "0907315000",
+      "name": "Mahayag"
+    }
+  },
+  {
+    "id": "0907315028",
+    "code": "0907315028",
+    "name": "Tumapic",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907315000",
+      "code": "0907315000",
+      "name": "Mahayag"
+    }
+  },
+  {
+    "id": "0907315029",
+    "code": "0907315029",
+    "name": "Upper Salug Daku",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907315000",
+      "code": "0907315000",
+      "name": "Mahayag"
+    }
+  },
+  {
+    "id": "0907315030",
+    "code": "0907315030",
+    "name": "Upper Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907315000",
+      "code": "0907315000",
+      "name": "Mahayag"
+    }
+  }
+]

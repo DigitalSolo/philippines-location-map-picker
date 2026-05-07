@@ -1,0 +1,149 @@
+[
+  {
+    "id": "1001802001",
+    "code": "1001802001",
+    "name": "Butay",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001800000",
+      "code": "1001800000",
+      "name": "Camiguin"
+    },
+    "city_municipality": {
+      "id": "1001802000",
+      "code": "1001802000",
+      "name": "Guinsiliban"
+    }
+  },
+  {
+    "id": "1001802002",
+    "code": "1001802002",
+    "name": "Cabuan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001800000",
+      "code": "1001800000",
+      "name": "Camiguin"
+    },
+    "city_municipality": {
+      "id": "1001802000",
+      "code": "1001802000",
+      "name": "Guinsiliban"
+    }
+  },
+  {
+    "id": "1001802003",
+    "code": "1001802003",
+    "name": "Cantaan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001800000",
+      "code": "1001800000",
+      "name": "Camiguin"
+    },
+    "city_municipality": {
+      "id": "1001802000",
+      "code": "1001802000",
+      "name": "Guinsiliban"
+    }
+  },
+  {
+    "id": "1001802004",
+    "code": "1001802004",
+    "name": "Liong",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001800000",
+      "code": "1001800000",
+      "name": "Camiguin"
+    },
+    "city_municipality": {
+      "id": "1001802000",
+      "code": "1001802000",
+      "name": "Guinsiliban"
+    }
+  },
+  {
+    "id": "1001802005",
+    "code": "1001802005",
+    "name": "Maac",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001800000",
+      "code": "1001800000",
+      "name": "Camiguin"
+    },
+    "city_municipality": {
+      "id": "1001802000",
+      "code": "1001802000",
+      "name": "Guinsiliban"
+    }
+  },
+  {
+    "id": "1001802006",
+    "code": "1001802006",
+    "name": "North Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001800000",
+      "code": "1001800000",
+      "name": "Camiguin"
+    },
+    "city_municipality": {
+      "id": "1001802000",
+      "code": "1001802000",
+      "name": "Guinsiliban"
+    }
+  },
+  {
+    "id": "1001802007",
+    "code": "1001802007",
+    "name": "South Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001800000",
+      "code": "1001800000",
+      "name": "Camiguin"
+    },
+    "city_municipality": {
+      "id": "1001802000",
+      "code": "1001802000",
+      "name": "Guinsiliban"
+    }
+  }
+]

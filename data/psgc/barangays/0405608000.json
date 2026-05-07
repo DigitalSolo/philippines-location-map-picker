@@ -1,0 +1,527 @@
+[
+  {
+    "id": "0405608002",
+    "code": "0405608002",
+    "name": "Buenavista East",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405608000",
+      "code": "0405608000",
+      "name": "Candelaria"
+    }
+  },
+  {
+    "id": "0405608003",
+    "code": "0405608003",
+    "name": "Buenavista West",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405608000",
+      "code": "0405608000",
+      "name": "Candelaria"
+    }
+  },
+  {
+    "id": "0405608004",
+    "code": "0405608004",
+    "name": "Bukal Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405608000",
+      "code": "0405608000",
+      "name": "Candelaria"
+    }
+  },
+  {
+    "id": "0405608005",
+    "code": "0405608005",
+    "name": "Bukal Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405608000",
+      "code": "0405608000",
+      "name": "Candelaria"
+    }
+  },
+  {
+    "id": "0405608006",
+    "code": "0405608006",
+    "name": "Kinatihan I",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405608000",
+      "code": "0405608000",
+      "name": "Candelaria"
+    }
+  },
+  {
+    "id": "0405608007",
+    "code": "0405608007",
+    "name": "Kinatihan II",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405608000",
+      "code": "0405608000",
+      "name": "Candelaria"
+    }
+  },
+  {
+    "id": "0405608008",
+    "code": "0405608008",
+    "name": "Malabanban Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405608000",
+      "code": "0405608000",
+      "name": "Candelaria"
+    }
+  },
+  {
+    "id": "0405608009",
+    "code": "0405608009",
+    "name": "Malabanban Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405608000",
+      "code": "0405608000",
+      "name": "Candelaria"
+    }
+  },
+  {
+    "id": "0405608010",
+    "code": "0405608010",
+    "name": "Mangilag Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405608000",
+      "code": "0405608000",
+      "name": "Candelaria"
+    }
+  },
+  {
+    "id": "0405608011",
+    "code": "0405608011",
+    "name": "Mangilag Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405608000",
+      "code": "0405608000",
+      "name": "Candelaria"
+    }
+  },
+  {
+    "id": "0405608012",
+    "code": "0405608012",
+    "name": "Masalukot I",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405608000",
+      "code": "0405608000",
+      "name": "Candelaria"
+    }
+  },
+  {
+    "id": "0405608013",
+    "code": "0405608013",
+    "name": "Masalukot II",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405608000",
+      "code": "0405608000",
+      "name": "Candelaria"
+    }
+  },
+  {
+    "id": "0405608014",
+    "code": "0405608014",
+    "name": "Masalukot III",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405608000",
+      "code": "0405608000",
+      "name": "Candelaria"
+    }
+  },
+  {
+    "id": "0405608015",
+    "code": "0405608015",
+    "name": "Masalukot IV",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405608000",
+      "code": "0405608000",
+      "name": "Candelaria"
+    }
+  },
+  {
+    "id": "0405608026",
+    "code": "0405608026",
+    "name": "Masalukot V",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405608000",
+      "code": "0405608000",
+      "name": "Candelaria"
+    }
+  },
+  {
+    "id": "0405608016",
+    "code": "0405608016",
+    "name": "Masin Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405608000",
+      "code": "0405608000",
+      "name": "Candelaria"
+    }
+  },
+  {
+    "id": "0405608017",
+    "code": "0405608017",
+    "name": "Masin Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405608000",
+      "code": "0405608000",
+      "name": "Candelaria"
+    }
+  },
+  {
+    "id": "0405608018",
+    "code": "0405608018",
+    "name": "Mayabobo",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405608000",
+      "code": "0405608000",
+      "name": "Candelaria"
+    }
+  },
+  {
+    "id": "0405608019",
+    "code": "0405608019",
+    "name": "Pahinga Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405608000",
+      "code": "0405608000",
+      "name": "Candelaria"
+    }
+  },
+  {
+    "id": "0405608020",
+    "code": "0405608020",
+    "name": "Pahinga Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405608000",
+      "code": "0405608000",
+      "name": "Candelaria"
+    }
+  },
+  {
+    "id": "0405608001",
+    "code": "0405608001",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405608000",
+      "code": "0405608000",
+      "name": "Candelaria"
+    }
+  },
+  {
+    "id": "0405608022",
+    "code": "0405608022",
+    "name": "San Andres",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405608000",
+      "code": "0405608000",
+      "name": "Candelaria"
+    }
+  },
+  {
+    "id": "0405608023",
+    "code": "0405608023",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405608000",
+      "code": "0405608000",
+      "name": "Candelaria"
+    }
+  },
+  {
+    "id": "0405608024",
+    "code": "0405608024",
+    "name": "Santa Catalina Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405608000",
+      "code": "0405608000",
+      "name": "Candelaria"
+    }
+  },
+  {
+    "id": "0405608025",
+    "code": "0405608025",
+    "name": "Santa Catalina Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405608000",
+      "code": "0405608000",
+      "name": "Candelaria"
+    }
+  }
+]

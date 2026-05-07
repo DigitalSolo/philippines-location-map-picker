@@ -1,0 +1,1787 @@
+[
+  {
+    "id": "0803738092",
+    "code": "0803738092",
+    "name": "Airport",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738001",
+    "code": "0803738001",
+    "name": "Alegria",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738108",
+    "code": "0803738108",
+    "name": "Alta Vista",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738002",
+    "code": "0803738002",
+    "name": "Bagong",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738109",
+    "code": "0803738109",
+    "name": "Bagong Buhay",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738004",
+    "code": "0803738004",
+    "name": "Bantigue",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738115",
+    "code": "0803738115",
+    "name": "Barangay East",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738091",
+    "code": "0803738091",
+    "name": "Barangay North",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738116",
+    "code": "0803738116",
+    "name": "Barangay South",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738117",
+    "code": "0803738117",
+    "name": "Barangay West",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738005",
+    "code": "0803738005",
+    "name": "Batuan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738110",
+    "code": "0803738110",
+    "name": "Bayog",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738006",
+    "code": "0803738006",
+    "name": "Biliboy",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738007",
+    "code": "0803738007",
+    "name": "Borok",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738009",
+    "code": "0803738009",
+    "name": "Cabaon-an",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738093",
+    "code": "0803738093",
+    "name": "Cabintan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738010",
+    "code": "0803738010",
+    "name": "Cabulihan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738011",
+    "code": "0803738011",
+    "name": "Cagbuhangin",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738094",
+    "code": "0803738094",
+    "name": "Camp Downes",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738012",
+    "code": "0803738012",
+    "name": "Can-adieng",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738013",
+    "code": "0803738013",
+    "name": "Can-untog",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738015",
+    "code": "0803738015",
+    "name": "Catmon",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738016",
+    "code": "0803738016",
+    "name": "Cogon Combado",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738017",
+    "code": "0803738017",
+    "name": "Concepcion",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738018",
+    "code": "0803738018",
+    "name": "Curva",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738019",
+    "code": "0803738019",
+    "name": "Danao",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738107",
+    "code": "0803738107",
+    "name": "Danhug",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738020",
+    "code": "0803738020",
+    "name": "Dayhagan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738049",
+    "code": "0803738049",
+    "name": "Dolores",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738050",
+    "code": "0803738050",
+    "name": "Domonar",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738051",
+    "code": "0803738051",
+    "name": "Don Felipe Larrazabal",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738104",
+    "code": "0803738104",
+    "name": "Don Potenciano Larrazabal",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738111",
+    "code": "0803738111",
+    "name": "Doña Feliza Z. Mejia",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738052",
+    "code": "0803738052",
+    "name": "Donghol",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738053",
+    "code": "0803738053",
+    "name": "Esperanza",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738095",
+    "code": "0803738095",
+    "name": "Gaas",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738096",
+    "code": "0803738096",
+    "name": "Green Valley",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738106",
+    "code": "0803738106",
+    "name": "Guintigui-an",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738054",
+    "code": "0803738054",
+    "name": "Hibunawon",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738055",
+    "code": "0803738055",
+    "name": "Hugpa",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738056",
+    "code": "0803738056",
+    "name": "Ipil",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738112",
+    "code": "0803738112",
+    "name": "Juaton",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738105",
+    "code": "0803738105",
+    "name": "Kadaohan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738003",
+    "code": "0803738003",
+    "name": "Labrador",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738057",
+    "code": "0803738057",
+    "name": "Lao",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738099",
+    "code": "0803738099",
+    "name": "Leondoni",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738058",
+    "code": "0803738058",
+    "name": "Libertad",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738098",
+    "code": "0803738098",
+    "name": "Liberty",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738097",
+    "code": "0803738097",
+    "name": "Licuma",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738059",
+    "code": "0803738059",
+    "name": "Liloan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738060",
+    "code": "0803738060",
+    "name": "Linao",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738113",
+    "code": "0803738113",
+    "name": "Luna",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738114",
+    "code": "0803738114",
+    "name": "Mabato",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738061",
+    "code": "0803738061",
+    "name": "Mabini",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738062",
+    "code": "0803738062",
+    "name": "Macabug",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738063",
+    "code": "0803738063",
+    "name": "Magaswi",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738064",
+    "code": "0803738064",
+    "name": "Mahayag",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738065",
+    "code": "0803738065",
+    "name": "Mahayahay",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738066",
+    "code": "0803738066",
+    "name": "Manlilinao",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738067",
+    "code": "0803738067",
+    "name": "Margen",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738068",
+    "code": "0803738068",
+    "name": "Mas-in",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738069",
+    "code": "0803738069",
+    "name": "Matica-a",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738070",
+    "code": "0803738070",
+    "name": "Milagro",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738071",
+    "code": "0803738071",
+    "name": "Monterico",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738072",
+    "code": "0803738072",
+    "name": "Nasunogan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738073",
+    "code": "0803738073",
+    "name": "Naungan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738100",
+    "code": "0803738100",
+    "name": "Nueva Sociedad",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738074",
+    "code": "0803738074",
+    "name": "Nueva Vista",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738075",
+    "code": "0803738075",
+    "name": "Patag",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738076",
+    "code": "0803738076",
+    "name": "Punta",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738077",
+    "code": "0803738077",
+    "name": "Quezon, Jr.",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738078",
+    "code": "0803738078",
+    "name": "Rufina M. Tan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738079",
+    "code": "0803738079",
+    "name": "Sabang Bao",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738080",
+    "code": "0803738080",
+    "name": "Salvacion",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738081",
+    "code": "0803738081",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738082",
+    "code": "0803738082",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738083",
+    "code": "0803738083",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738084",
+    "code": "0803738084",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738088",
+    "code": "0803738088",
+    "name": "San Pablo",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738086",
+    "code": "0803738086",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738087",
+    "code": "0803738087",
+    "name": "Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738089",
+    "code": "0803738089",
+    "name": "Sumangga",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738101",
+    "code": "0803738101",
+    "name": "Tambulilid",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738102",
+    "code": "0803738102",
+    "name": "Tongonan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  },
+  {
+    "id": "0803738090",
+    "code": "0803738090",
+    "name": "Valencia",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    },
+    "city_municipality": {
+      "id": "0803738000",
+      "code": "0803738000",
+      "name": "Ormoc City"
+    }
+  }
+]

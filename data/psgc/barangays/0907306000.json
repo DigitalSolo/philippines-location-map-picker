@@ -1,0 +1,632 @@
+[
+  {
+    "id": "0907306001",
+    "code": "0907306001",
+    "name": "Bacawan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907306000",
+      "code": "0907306000",
+      "name": "Dinas"
+    }
+  },
+  {
+    "id": "0907306002",
+    "code": "0907306002",
+    "name": "Benuatan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907306000",
+      "code": "0907306000",
+      "name": "Dinas"
+    }
+  },
+  {
+    "id": "0907306003",
+    "code": "0907306003",
+    "name": "Beray",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907306000",
+      "code": "0907306000",
+      "name": "Dinas"
+    }
+  },
+  {
+    "id": "0907306032",
+    "code": "0907306032",
+    "name": "Don Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907306000",
+      "code": "0907306000",
+      "name": "Dinas"
+    }
+  },
+  {
+    "id": "0907306004",
+    "code": "0907306004",
+    "name": "Dongos",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907306000",
+      "code": "0907306000",
+      "name": "Dinas"
+    }
+  },
+  {
+    "id": "0907306015",
+    "code": "0907306015",
+    "name": "East Migpulao",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907306000",
+      "code": "0907306000",
+      "name": "Dinas"
+    }
+  },
+  {
+    "id": "0907306005",
+    "code": "0907306005",
+    "name": "Guinicolalay",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907306000",
+      "code": "0907306000",
+      "name": "Dinas"
+    }
+  },
+  {
+    "id": "0907306018",
+    "code": "0907306018",
+    "name": "Ignacio Garrata",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907306000",
+      "code": "0907306000",
+      "name": "Dinas"
+    }
+  },
+  {
+    "id": "0907306006",
+    "code": "0907306006",
+    "name": "Kinacap",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907306000",
+      "code": "0907306000",
+      "name": "Dinas"
+    }
+  },
+  {
+    "id": "0907306009",
+    "code": "0907306009",
+    "name": "Legarda 1",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907306000",
+      "code": "0907306000",
+      "name": "Dinas"
+    }
+  },
+  {
+    "id": "0907306007",
+    "code": "0907306007",
+    "name": "Legarda 2",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907306000",
+      "code": "0907306000",
+      "name": "Dinas"
+    }
+  },
+  {
+    "id": "0907306008",
+    "code": "0907306008",
+    "name": "Legarda 3",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907306000",
+      "code": "0907306000",
+      "name": "Dinas"
+    }
+  },
+  {
+    "id": "0907306013",
+    "code": "0907306013",
+    "name": "Lower Dimaya",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907306000",
+      "code": "0907306000",
+      "name": "Dinas"
+    }
+  },
+  {
+    "id": "0907306012",
+    "code": "0907306012",
+    "name": "Lucoban",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907306000",
+      "code": "0907306000",
+      "name": "Dinas"
+    }
+  },
+  {
+    "id": "0907306014",
+    "code": "0907306014",
+    "name": "Ludiong",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907306000",
+      "code": "0907306000",
+      "name": "Dinas"
+    }
+  },
+  {
+    "id": "0907306017",
+    "code": "0907306017",
+    "name": "Nangka",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907306000",
+      "code": "0907306000",
+      "name": "Dinas"
+    }
+  },
+  {
+    "id": "0907306034",
+    "code": "0907306034",
+    "name": "Nian",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907306000",
+      "code": "0907306000",
+      "name": "Dinas"
+    }
+  },
+  {
+    "id": "0907306019",
+    "code": "0907306019",
+    "name": "Old Mirapao",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907306000",
+      "code": "0907306000",
+      "name": "Dinas"
+    }
+  },
+  {
+    "id": "0907306031",
+    "code": "0907306031",
+    "name": "Pisa-an",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907306000",
+      "code": "0907306000",
+      "name": "Dinas"
+    }
+  },
+  {
+    "id": "0907306020",
+    "code": "0907306020",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907306000",
+      "code": "0907306000",
+      "name": "Dinas"
+    }
+  },
+  {
+    "id": "0907306021",
+    "code": "0907306021",
+    "name": "Proper Dimaya",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907306000",
+      "code": "0907306000",
+      "name": "Dinas"
+    }
+  },
+  {
+    "id": "0907306022",
+    "code": "0907306022",
+    "name": "Sagacad",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907306000",
+      "code": "0907306000",
+      "name": "Dinas"
+    }
+  },
+  {
+    "id": "0907306023",
+    "code": "0907306023",
+    "name": "Sambulawan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907306000",
+      "code": "0907306000",
+      "name": "Dinas"
+    }
+  },
+  {
+    "id": "0907306024",
+    "code": "0907306024",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907306000",
+      "code": "0907306000",
+      "name": "Dinas"
+    }
+  },
+  {
+    "id": "0907306027",
+    "code": "0907306027",
+    "name": "Songayan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907306000",
+      "code": "0907306000",
+      "name": "Dinas"
+    }
+  },
+  {
+    "id": "0907306026",
+    "code": "0907306026",
+    "name": "Sumpotan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907306000",
+      "code": "0907306000",
+      "name": "Dinas"
+    }
+  },
+  {
+    "id": "0907306028",
+    "code": "0907306028",
+    "name": "Tarakan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907306000",
+      "code": "0907306000",
+      "name": "Dinas"
+    }
+  },
+  {
+    "id": "0907306029",
+    "code": "0907306029",
+    "name": "Upper Dimaya",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907306000",
+      "code": "0907306000",
+      "name": "Dinas"
+    }
+  },
+  {
+    "id": "0907306030",
+    "code": "0907306030",
+    "name": "Upper Sibul",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907306000",
+      "code": "0907306000",
+      "name": "Dinas"
+    }
+  },
+  {
+    "id": "0907306016",
+    "code": "0907306016",
+    "name": "West Migpulao",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907306000",
+      "code": "0907306000",
+      "name": "Dinas"
+    }
+  }
+]

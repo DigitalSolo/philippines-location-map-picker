@@ -1,0 +1,506 @@
+[
+  {
+    "id": "1606803002",
+    "code": "1606803002",
+    "name": "Bucto",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606803000",
+      "code": "1606803000",
+      "name": "City of Bislig"
+    }
+  },
+  {
+    "id": "1606803003",
+    "code": "1606803003",
+    "name": "Burboanan",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606803000",
+      "code": "1606803000",
+      "name": "City of Bislig"
+    }
+  },
+  {
+    "id": "1606803005",
+    "code": "1606803005",
+    "name": "Caguyao",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606803000",
+      "code": "1606803000",
+      "name": "City of Bislig"
+    }
+  },
+  {
+    "id": "1606803006",
+    "code": "1606803006",
+    "name": "Coleto",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606803000",
+      "code": "1606803000",
+      "name": "City of Bislig"
+    }
+  },
+  {
+    "id": "1606803025",
+    "code": "1606803025",
+    "name": "Comawas",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606803000",
+      "code": "1606803000",
+      "name": "City of Bislig"
+    }
+  },
+  {
+    "id": "1606803023",
+    "code": "1606803023",
+    "name": "Kahayag",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606803000",
+      "code": "1606803000",
+      "name": "City of Bislig"
+    }
+  },
+  {
+    "id": "1606803007",
+    "code": "1606803007",
+    "name": "Labisma",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606803000",
+      "code": "1606803000",
+      "name": "City of Bislig"
+    }
+  },
+  {
+    "id": "1606803008",
+    "code": "1606803008",
+    "name": "Lawigan",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606803000",
+      "code": "1606803000",
+      "name": "City of Bislig"
+    }
+  },
+  {
+    "id": "1606803024",
+    "code": "1606803024",
+    "name": "Maharlika",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606803000",
+      "code": "1606803000",
+      "name": "City of Bislig"
+    }
+  },
+  {
+    "id": "1606803009",
+    "code": "1606803009",
+    "name": "Mangagoy",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606803000",
+      "code": "1606803000",
+      "name": "City of Bislig"
+    }
+  },
+  {
+    "id": "1606803010",
+    "code": "1606803010",
+    "name": "Mone",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606803000",
+      "code": "1606803000",
+      "name": "City of Bislig"
+    }
+  },
+  {
+    "id": "1606803022",
+    "code": "1606803022",
+    "name": "Pamanlinan",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606803000",
+      "code": "1606803000",
+      "name": "City of Bislig"
+    }
+  },
+  {
+    "id": "1606803011",
+    "code": "1606803011",
+    "name": "Pamaypayan",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606803000",
+      "code": "1606803000",
+      "name": "City of Bislig"
+    }
+  },
+  {
+    "id": "1606803012",
+    "code": "1606803012",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606803000",
+      "code": "1606803000",
+      "name": "City of Bislig"
+    }
+  },
+  {
+    "id": "1606803013",
+    "code": "1606803013",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606803000",
+      "code": "1606803000",
+      "name": "City of Bislig"
+    }
+  },
+  {
+    "id": "1606803014",
+    "code": "1606803014",
+    "name": "San Fernando",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606803000",
+      "code": "1606803000",
+      "name": "City of Bislig"
+    }
+  },
+  {
+    "id": "1606803015",
+    "code": "1606803015",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606803000",
+      "code": "1606803000",
+      "name": "City of Bislig"
+    }
+  },
+  {
+    "id": "1606803016",
+    "code": "1606803016",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606803000",
+      "code": "1606803000",
+      "name": "City of Bislig"
+    }
+  },
+  {
+    "id": "1606803004",
+    "code": "1606803004",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606803000",
+      "code": "1606803000",
+      "name": "City of Bislig"
+    }
+  },
+  {
+    "id": "1606803017",
+    "code": "1606803017",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606803000",
+      "code": "1606803000",
+      "name": "City of Bislig"
+    }
+  },
+  {
+    "id": "1606803018",
+    "code": "1606803018",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606803000",
+      "code": "1606803000",
+      "name": "City of Bislig"
+    }
+  },
+  {
+    "id": "1606803019",
+    "code": "1606803019",
+    "name": "Sibaroy",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606803000",
+      "code": "1606803000",
+      "name": "City of Bislig"
+    }
+  },
+  {
+    "id": "1606803020",
+    "code": "1606803020",
+    "name": "Tabon",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606803000",
+      "code": "1606803000",
+      "name": "City of Bislig"
+    }
+  },
+  {
+    "id": "1606803021",
+    "code": "1606803021",
+    "name": "Tumanan",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606800000",
+      "code": "1606800000",
+      "name": "Surigao del Sur"
+    },
+    "city_municipality": {
+      "id": "1606803000",
+      "code": "1606803000",
+      "name": "City of Bislig"
+    }
+  }
+]

@@ -1,0 +1,674 @@
+[
+  {
+    "id": "0405623001",
+    "code": "0405623001",
+    "name": "Abang",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405623000",
+      "code": "0405623000",
+      "name": "Lucban"
+    }
+  },
+  {
+    "id": "0405623002",
+    "code": "0405623002",
+    "name": "Aliliw",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405623000",
+      "code": "0405623000",
+      "name": "Lucban"
+    }
+  },
+  {
+    "id": "0405623003",
+    "code": "0405623003",
+    "name": "Atulinao",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405623000",
+      "code": "0405623000",
+      "name": "Lucban"
+    }
+  },
+  {
+    "id": "0405623004",
+    "code": "0405623004",
+    "name": "Ayuti",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405623000",
+      "code": "0405623000",
+      "name": "Lucban"
+    }
+  },
+  {
+    "id": "0405623029",
+    "code": "0405623029",
+    "name": "Barangay 1",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405623000",
+      "code": "0405623000",
+      "name": "Lucban"
+    }
+  },
+  {
+    "id": "0405623013",
+    "code": "0405623013",
+    "name": "Barangay 10",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405623000",
+      "code": "0405623000",
+      "name": "Lucban"
+    }
+  },
+  {
+    "id": "0405623005",
+    "code": "0405623005",
+    "name": "Barangay 2",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405623000",
+      "code": "0405623000",
+      "name": "Lucban"
+    }
+  },
+  {
+    "id": "0405623006",
+    "code": "0405623006",
+    "name": "Barangay 3",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405623000",
+      "code": "0405623000",
+      "name": "Lucban"
+    }
+  },
+  {
+    "id": "0405623007",
+    "code": "0405623007",
+    "name": "Barangay 4",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405623000",
+      "code": "0405623000",
+      "name": "Lucban"
+    }
+  },
+  {
+    "id": "0405623008",
+    "code": "0405623008",
+    "name": "Barangay 5",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405623000",
+      "code": "0405623000",
+      "name": "Lucban"
+    }
+  },
+  {
+    "id": "0405623009",
+    "code": "0405623009",
+    "name": "Barangay 6",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405623000",
+      "code": "0405623000",
+      "name": "Lucban"
+    }
+  },
+  {
+    "id": "0405623010",
+    "code": "0405623010",
+    "name": "Barangay 7",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405623000",
+      "code": "0405623000",
+      "name": "Lucban"
+    }
+  },
+  {
+    "id": "0405623011",
+    "code": "0405623011",
+    "name": "Barangay 8",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405623000",
+      "code": "0405623000",
+      "name": "Lucban"
+    }
+  },
+  {
+    "id": "0405623012",
+    "code": "0405623012",
+    "name": "Barangay 9",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405623000",
+      "code": "0405623000",
+      "name": "Lucban"
+    }
+  },
+  {
+    "id": "0405623014",
+    "code": "0405623014",
+    "name": "Igang",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405623000",
+      "code": "0405623000",
+      "name": "Lucban"
+    }
+  },
+  {
+    "id": "0405623015",
+    "code": "0405623015",
+    "name": "Kabatete",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405623000",
+      "code": "0405623000",
+      "name": "Lucban"
+    }
+  },
+  {
+    "id": "0405623016",
+    "code": "0405623016",
+    "name": "Kakawit",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405623000",
+      "code": "0405623000",
+      "name": "Lucban"
+    }
+  },
+  {
+    "id": "0405623017",
+    "code": "0405623017",
+    "name": "Kalangay",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405623000",
+      "code": "0405623000",
+      "name": "Lucban"
+    }
+  },
+  {
+    "id": "0405623018",
+    "code": "0405623018",
+    "name": "Kalyaat",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405623000",
+      "code": "0405623000",
+      "name": "Lucban"
+    }
+  },
+  {
+    "id": "0405623019",
+    "code": "0405623019",
+    "name": "Kilib",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405623000",
+      "code": "0405623000",
+      "name": "Lucban"
+    }
+  },
+  {
+    "id": "0405623020",
+    "code": "0405623020",
+    "name": "Kulapi",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405623000",
+      "code": "0405623000",
+      "name": "Lucban"
+    }
+  },
+  {
+    "id": "0405623021",
+    "code": "0405623021",
+    "name": "Mahabang Parang",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405623000",
+      "code": "0405623000",
+      "name": "Lucban"
+    }
+  },
+  {
+    "id": "0405623022",
+    "code": "0405623022",
+    "name": "Malupak",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405623000",
+      "code": "0405623000",
+      "name": "Lucban"
+    }
+  },
+  {
+    "id": "0405623023",
+    "code": "0405623023",
+    "name": "Manasa",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405623000",
+      "code": "0405623000",
+      "name": "Lucban"
+    }
+  },
+  {
+    "id": "0405623024",
+    "code": "0405623024",
+    "name": "May-It",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405623000",
+      "code": "0405623000",
+      "name": "Lucban"
+    }
+  },
+  {
+    "id": "0405623025",
+    "code": "0405623025",
+    "name": "Nagsinamo",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405623000",
+      "code": "0405623000",
+      "name": "Lucban"
+    }
+  },
+  {
+    "id": "0405623026",
+    "code": "0405623026",
+    "name": "Nalunao",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405623000",
+      "code": "0405623000",
+      "name": "Lucban"
+    }
+  },
+  {
+    "id": "0405623027",
+    "code": "0405623027",
+    "name": "Palola",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405623000",
+      "code": "0405623000",
+      "name": "Lucban"
+    }
+  },
+  {
+    "id": "0405623028",
+    "code": "0405623028",
+    "name": "Piis",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405623000",
+      "code": "0405623000",
+      "name": "Lucban"
+    }
+  },
+  {
+    "id": "0405623030",
+    "code": "0405623030",
+    "name": "Samil",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405623000",
+      "code": "0405623000",
+      "name": "Lucban"
+    }
+  },
+  {
+    "id": "0405623031",
+    "code": "0405623031",
+    "name": "Tiawe",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405623000",
+      "code": "0405623000",
+      "name": "Lucban"
+    }
+  },
+  {
+    "id": "0405623032",
+    "code": "0405623032",
+    "name": "Tinamnan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405623000",
+      "code": "0405623000",
+      "name": "Lucban"
+    }
+  }
+]

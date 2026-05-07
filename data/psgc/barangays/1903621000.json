@@ -1,0 +1,779 @@
+[
+  {
+    "id": "1903621001",
+    "code": "1903621001",
+    "name": "Aposong",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903621000",
+      "code": "1903621000",
+      "name": "Piagapo"
+    }
+  },
+  {
+    "id": "1903621002",
+    "code": "1903621002",
+    "name": "Bagoaingud",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903621000",
+      "code": "1903621000",
+      "name": "Piagapo"
+    }
+  },
+  {
+    "id": "1903621003",
+    "code": "1903621003",
+    "name": "Bangco",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903621000",
+      "code": "1903621000",
+      "name": "Piagapo"
+    }
+  },
+  {
+    "id": "1903621004",
+    "code": "1903621004",
+    "name": "Bansayan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903621000",
+      "code": "1903621000",
+      "name": "Piagapo"
+    }
+  },
+  {
+    "id": "1903621005",
+    "code": "1903621005",
+    "name": "Basak",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903621000",
+      "code": "1903621000",
+      "name": "Piagapo"
+    }
+  },
+  {
+    "id": "1903621006",
+    "code": "1903621006",
+    "name": "Bobo",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903621000",
+      "code": "1903621000",
+      "name": "Piagapo"
+    }
+  },
+  {
+    "id": "1903621009",
+    "code": "1903621009",
+    "name": "Bualan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903621000",
+      "code": "1903621000",
+      "name": "Piagapo"
+    }
+  },
+  {
+    "id": "1903621010",
+    "code": "1903621010",
+    "name": "Bubong Ilian",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903621000",
+      "code": "1903621000",
+      "name": "Piagapo"
+    }
+  },
+  {
+    "id": "1903621007",
+    "code": "1903621007",
+    "name": "Bubong Tawa-an",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903621000",
+      "code": "1903621000",
+      "name": "Piagapo"
+    }
+  },
+  {
+    "id": "1903621008",
+    "code": "1903621008",
+    "name": "Bubonga Mamaanun",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903621000",
+      "code": "1903621000",
+      "name": "Piagapo"
+    }
+  },
+  {
+    "id": "1903621011",
+    "code": "1903621011",
+    "name": "Gacap",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903621000",
+      "code": "1903621000",
+      "name": "Piagapo"
+    }
+  },
+  {
+    "id": "1903621040",
+    "code": "1903621040",
+    "name": "Ilian",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903621000",
+      "code": "1903621000",
+      "name": "Piagapo"
+    }
+  },
+  {
+    "id": "1903621013",
+    "code": "1903621013",
+    "name": "Ilian Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903621000",
+      "code": "1903621000",
+      "name": "Piagapo"
+    }
+  },
+  {
+    "id": "1903621014",
+    "code": "1903621014",
+    "name": "Kalanganan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903621000",
+      "code": "1903621000",
+      "name": "Piagapo"
+    }
+  },
+  {
+    "id": "1903621012",
+    "code": "1903621012",
+    "name": "Katumbacan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903621000",
+      "code": "1903621000",
+      "name": "Piagapo"
+    }
+  },
+  {
+    "id": "1903621015",
+    "code": "1903621015",
+    "name": "Lininding",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903621000",
+      "code": "1903621000",
+      "name": "Piagapo"
+    }
+  },
+  {
+    "id": "1903621017",
+    "code": "1903621017",
+    "name": "Lumbaca Mamaan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903621000",
+      "code": "1903621000",
+      "name": "Piagapo"
+    }
+  },
+  {
+    "id": "1903621018",
+    "code": "1903621018",
+    "name": "Mamaanun",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903621000",
+      "code": "1903621000",
+      "name": "Piagapo"
+    }
+  },
+  {
+    "id": "1903621020",
+    "code": "1903621020",
+    "name": "Mentring",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903621000",
+      "code": "1903621000",
+      "name": "Piagapo"
+    }
+  },
+  {
+    "id": "1903621021",
+    "code": "1903621021",
+    "name": "Olango",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903621000",
+      "code": "1903621000",
+      "name": "Piagapo"
+    }
+  },
+  {
+    "id": "1903621022",
+    "code": "1903621022",
+    "name": "Palacat",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903621000",
+      "code": "1903621000",
+      "name": "Piagapo"
+    }
+  },
+  {
+    "id": "1903621023",
+    "code": "1903621023",
+    "name": "Palao",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903621000",
+      "code": "1903621000",
+      "name": "Piagapo"
+    }
+  },
+  {
+    "id": "1903621024",
+    "code": "1903621024",
+    "name": "Paling",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903621000",
+      "code": "1903621000",
+      "name": "Piagapo"
+    }
+  },
+  {
+    "id": "1903621025",
+    "code": "1903621025",
+    "name": "Pantaon",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903621000",
+      "code": "1903621000",
+      "name": "Piagapo"
+    }
+  },
+  {
+    "id": "1903621026",
+    "code": "1903621026",
+    "name": "Pantar",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903621000",
+      "code": "1903621000",
+      "name": "Piagapo"
+    }
+  },
+  {
+    "id": "1903621028",
+    "code": "1903621028",
+    "name": "Paridi",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903621000",
+      "code": "1903621000",
+      "name": "Piagapo"
+    }
+  },
+  {
+    "id": "1903621029",
+    "code": "1903621029",
+    "name": "Pindolonan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903621000",
+      "code": "1903621000",
+      "name": "Piagapo"
+    }
+  },
+  {
+    "id": "1903621030",
+    "code": "1903621030",
+    "name": "Radapan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903621000",
+      "code": "1903621000",
+      "name": "Piagapo"
+    }
+  },
+  {
+    "id": "1903621031",
+    "code": "1903621031",
+    "name": "Radapan Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903621000",
+      "code": "1903621000",
+      "name": "Piagapo"
+    }
+  },
+  {
+    "id": "1903621039",
+    "code": "1903621039",
+    "name": "Rantian",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903621000",
+      "code": "1903621000",
+      "name": "Piagapo"
+    }
+  },
+  {
+    "id": "1903621032",
+    "code": "1903621032",
+    "name": "Sapingit",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903621000",
+      "code": "1903621000",
+      "name": "Piagapo"
+    }
+  },
+  {
+    "id": "1903621033",
+    "code": "1903621033",
+    "name": "Talao",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903621000",
+      "code": "1903621000",
+      "name": "Piagapo"
+    }
+  },
+  {
+    "id": "1903621034",
+    "code": "1903621034",
+    "name": "Tambo",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903621000",
+      "code": "1903621000",
+      "name": "Piagapo"
+    }
+  },
+  {
+    "id": "1903621035",
+    "code": "1903621035",
+    "name": "Tapocan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903621000",
+      "code": "1903621000",
+      "name": "Piagapo"
+    }
+  },
+  {
+    "id": "1903621036",
+    "code": "1903621036",
+    "name": "Taporug",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903621000",
+      "code": "1903621000",
+      "name": "Piagapo"
+    }
+  },
+  {
+    "id": "1903621037",
+    "code": "1903621037",
+    "name": "Tawaan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903621000",
+      "code": "1903621000",
+      "name": "Piagapo"
+    }
+  },
+  {
+    "id": "1903621038",
+    "code": "1903621038",
+    "name": "Udalo",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1903600000",
+      "code": "1903600000",
+      "name": "Lanao del Sur"
+    },
+    "city_municipality": {
+      "id": "1903621000",
+      "code": "1903621000",
+      "name": "Piagapo"
+    }
+  }
+]

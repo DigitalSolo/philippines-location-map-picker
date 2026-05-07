@@ -1,0 +1,233 @@
+[
+  {
+    "id": "0405808001",
+    "code": "0405808001",
+    "name": "Balite",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405808000",
+      "code": "0405808000",
+      "name": "Rodriguez"
+    }
+  },
+  {
+    "id": "0405808002",
+    "code": "0405808002",
+    "name": "Burgos",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405808000",
+      "code": "0405808000",
+      "name": "Rodriguez"
+    }
+  },
+  {
+    "id": "0405808003",
+    "code": "0405808003",
+    "name": "Geronimo",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405808000",
+      "code": "0405808000",
+      "name": "Rodriguez"
+    }
+  },
+  {
+    "id": "0405808004",
+    "code": "0405808004",
+    "name": "Macabud",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405808000",
+      "code": "0405808000",
+      "name": "Rodriguez"
+    }
+  },
+  {
+    "id": "0405808005",
+    "code": "0405808005",
+    "name": "Manggahan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405808000",
+      "code": "0405808000",
+      "name": "Rodriguez"
+    }
+  },
+  {
+    "id": "0405808006",
+    "code": "0405808006",
+    "name": "Mascap",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405808000",
+      "code": "0405808000",
+      "name": "Rodriguez"
+    }
+  },
+  {
+    "id": "0405808007",
+    "code": "0405808007",
+    "name": "Puray",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405808000",
+      "code": "0405808000",
+      "name": "Rodriguez"
+    }
+  },
+  {
+    "id": "0405808008",
+    "code": "0405808008",
+    "name": "Rosario",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405808000",
+      "code": "0405808000",
+      "name": "Rodriguez"
+    }
+  },
+  {
+    "id": "0405808009",
+    "code": "0405808009",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405808000",
+      "code": "0405808000",
+      "name": "Rodriguez"
+    }
+  },
+  {
+    "id": "0405808010",
+    "code": "0405808010",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405808000",
+      "code": "0405808000",
+      "name": "Rodriguez"
+    }
+  },
+  {
+    "id": "0405808011",
+    "code": "0405808011",
+    "name": "San Rafael",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405808000",
+      "code": "0405808000",
+      "name": "Rodriguez"
+    }
+  }
+]

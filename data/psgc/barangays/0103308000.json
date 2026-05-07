@@ -1,0 +1,254 @@
+[
+  {
+    "id": "0103308001",
+    "code": "0103308001",
+    "name": "Agpay",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103308000",
+      "code": "0103308000",
+      "name": "Burgos"
+    }
+  },
+  {
+    "id": "0103308002",
+    "code": "0103308002",
+    "name": "Bilis",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103308000",
+      "code": "0103308000",
+      "name": "Burgos"
+    }
+  },
+  {
+    "id": "0103308003",
+    "code": "0103308003",
+    "name": "Caoayan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103308000",
+      "code": "0103308000",
+      "name": "Burgos"
+    }
+  },
+  {
+    "id": "0103308004",
+    "code": "0103308004",
+    "name": "Dalacdac",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103308000",
+      "code": "0103308000",
+      "name": "Burgos"
+    }
+  },
+  {
+    "id": "0103308005",
+    "code": "0103308005",
+    "name": "Delles",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103308000",
+      "code": "0103308000",
+      "name": "Burgos"
+    }
+  },
+  {
+    "id": "0103308006",
+    "code": "0103308006",
+    "name": "Imelda",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103308000",
+      "code": "0103308000",
+      "name": "Burgos"
+    }
+  },
+  {
+    "id": "0103308007",
+    "code": "0103308007",
+    "name": "Libtong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103308000",
+      "code": "0103308000",
+      "name": "Burgos"
+    }
+  },
+  {
+    "id": "0103308008",
+    "code": "0103308008",
+    "name": "Linuan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103308000",
+      "code": "0103308000",
+      "name": "Burgos"
+    }
+  },
+  {
+    "id": "0103308011",
+    "code": "0103308011",
+    "name": "Lower Tumapoc",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103308000",
+      "code": "0103308000",
+      "name": "Burgos"
+    }
+  },
+  {
+    "id": "0103308009",
+    "code": "0103308009",
+    "name": "New Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103308000",
+      "code": "0103308000",
+      "name": "Burgos"
+    }
+  },
+  {
+    "id": "0103308010",
+    "code": "0103308010",
+    "name": "Old Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103308000",
+      "code": "0103308000",
+      "name": "Burgos"
+    }
+  },
+  {
+    "id": "0103308012",
+    "code": "0103308012",
+    "name": "Upper Tumapoc",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103308000",
+      "code": "0103308000",
+      "name": "Burgos"
+    }
+  }
+]

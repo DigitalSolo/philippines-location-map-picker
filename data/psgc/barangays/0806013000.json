@@ -1,0 +1,506 @@
+[
+  {
+    "id": "0806013001",
+    "code": "0806013001",
+    "name": "Bangon",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806013000",
+      "code": "0806013000",
+      "name": "Pinabacdao"
+    }
+  },
+  {
+    "id": "0806013002",
+    "code": "0806013002",
+    "name": "Barangay I",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806013000",
+      "code": "0806013000",
+      "name": "Pinabacdao"
+    }
+  },
+  {
+    "id": "0806013003",
+    "code": "0806013003",
+    "name": "Barangay II",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806013000",
+      "code": "0806013000",
+      "name": "Pinabacdao"
+    }
+  },
+  {
+    "id": "0806013004",
+    "code": "0806013004",
+    "name": "Botoc",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806013000",
+      "code": "0806013000",
+      "name": "Pinabacdao"
+    }
+  },
+  {
+    "id": "0806013005",
+    "code": "0806013005",
+    "name": "Bugho",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806013000",
+      "code": "0806013000",
+      "name": "Pinabacdao"
+    }
+  },
+  {
+    "id": "0806013006",
+    "code": "0806013006",
+    "name": "Calampong",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806013000",
+      "code": "0806013000",
+      "name": "Pinabacdao"
+    }
+  },
+  {
+    "id": "0806013007",
+    "code": "0806013007",
+    "name": "Canlobo",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806013000",
+      "code": "0806013000",
+      "name": "Pinabacdao"
+    }
+  },
+  {
+    "id": "0806013008",
+    "code": "0806013008",
+    "name": "Catigawan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806013000",
+      "code": "0806013000",
+      "name": "Pinabacdao"
+    }
+  },
+  {
+    "id": "0806013010",
+    "code": "0806013010",
+    "name": "Dolores",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806013000",
+      "code": "0806013000",
+      "name": "Pinabacdao"
+    }
+  },
+  {
+    "id": "0806013011",
+    "code": "0806013011",
+    "name": "Lale",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806013000",
+      "code": "0806013000",
+      "name": "Pinabacdao"
+    }
+  },
+  {
+    "id": "0806013012",
+    "code": "0806013012",
+    "name": "Lawaan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806013000",
+      "code": "0806013000",
+      "name": "Pinabacdao"
+    }
+  },
+  {
+    "id": "0806013013",
+    "code": "0806013013",
+    "name": "Laygayon",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806013000",
+      "code": "0806013000",
+      "name": "Pinabacdao"
+    }
+  },
+  {
+    "id": "0806013014",
+    "code": "0806013014",
+    "name": "Layo",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806013000",
+      "code": "0806013000",
+      "name": "Pinabacdao"
+    }
+  },
+  {
+    "id": "0806013015",
+    "code": "0806013015",
+    "name": "Loctob",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806013000",
+      "code": "0806013000",
+      "name": "Pinabacdao"
+    }
+  },
+  {
+    "id": "0806013016",
+    "code": "0806013016",
+    "name": "Madalunot",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806013000",
+      "code": "0806013000",
+      "name": "Pinabacdao"
+    }
+  },
+  {
+    "id": "0806013017",
+    "code": "0806013017",
+    "name": "Magdawat",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806013000",
+      "code": "0806013000",
+      "name": "Pinabacdao"
+    }
+  },
+  {
+    "id": "0806013018",
+    "code": "0806013018",
+    "name": "Mambog",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806013000",
+      "code": "0806013000",
+      "name": "Pinabacdao"
+    }
+  },
+  {
+    "id": "0806013019",
+    "code": "0806013019",
+    "name": "Manaing",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806013000",
+      "code": "0806013000",
+      "name": "Pinabacdao"
+    }
+  },
+  {
+    "id": "0806013026",
+    "code": "0806013026",
+    "name": "Nabong",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806013000",
+      "code": "0806013000",
+      "name": "Pinabacdao"
+    }
+  },
+  {
+    "id": "0806013020",
+    "code": "0806013020",
+    "name": "Obayan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806013000",
+      "code": "0806013000",
+      "name": "Pinabacdao"
+    }
+  },
+  {
+    "id": "0806013021",
+    "code": "0806013021",
+    "name": "Pahug",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806013000",
+      "code": "0806013000",
+      "name": "Pinabacdao"
+    }
+  },
+  {
+    "id": "0806013022",
+    "code": "0806013022",
+    "name": "Parasanon",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806013000",
+      "code": "0806013000",
+      "name": "Pinabacdao"
+    }
+  },
+  {
+    "id": "0806013023",
+    "code": "0806013023",
+    "name": "Pelaon",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806013000",
+      "code": "0806013000",
+      "name": "Pinabacdao"
+    }
+  },
+  {
+    "id": "0806013025",
+    "code": "0806013025",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806013000",
+      "code": "0806013000",
+      "name": "Pinabacdao"
+    }
+  }
+]

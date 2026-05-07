@@ -1,0 +1,422 @@
+[
+  {
+    "id": "0402117002",
+    "code": "0402117002",
+    "name": "Bagbag I",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402117000",
+      "code": "0402117000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0402117013",
+    "code": "0402117013",
+    "name": "Bagbag II",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402117000",
+      "code": "0402117000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0402117003",
+    "code": "0402117003",
+    "name": "Kanluran",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402117000",
+      "code": "0402117000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0402117005",
+    "code": "0402117005",
+    "name": "Ligtong I",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402117000",
+      "code": "0402117000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0402117006",
+    "code": "0402117006",
+    "name": "Ligtong II",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402117000",
+      "code": "0402117000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0402117012",
+    "code": "0402117012",
+    "name": "Ligtong III",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402117000",
+      "code": "0402117000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0402117014",
+    "code": "0402117014",
+    "name": "Ligtong IV",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402117000",
+      "code": "0402117000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0402117007",
+    "code": "0402117007",
+    "name": "Muzon I",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402117000",
+      "code": "0402117000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0402117015",
+    "code": "0402117015",
+    "name": "Muzon II",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402117000",
+      "code": "0402117000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0402117008",
+    "code": "0402117008",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402117000",
+      "code": "0402117000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0402117009",
+    "code": "0402117009",
+    "name": "Sapa I",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402117000",
+      "code": "0402117000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0402117016",
+    "code": "0402117016",
+    "name": "Sapa II",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402117000",
+      "code": "0402117000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0402117017",
+    "code": "0402117017",
+    "name": "Sapa III",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402117000",
+      "code": "0402117000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0402117018",
+    "code": "0402117018",
+    "name": "Sapa IV",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402117000",
+      "code": "0402117000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0402117001",
+    "code": "0402117001",
+    "name": "Silangan I",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402117000",
+      "code": "0402117000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0402117019",
+    "code": "0402117019",
+    "name": "Silangan II",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402117000",
+      "code": "0402117000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0402117010",
+    "code": "0402117010",
+    "name": "Tejeros Convention",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402117000",
+      "code": "0402117000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0402117011",
+    "code": "0402117011",
+    "name": "Wawa I",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402117000",
+      "code": "0402117000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0402117020",
+    "code": "0402117020",
+    "name": "Wawa II",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402117000",
+      "code": "0402117000",
+      "name": "Rosario"
+    }
+  },
+  {
+    "id": "0402117021",
+    "code": "0402117021",
+    "name": "Wawa III",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0402100000",
+      "code": "0402100000",
+      "name": "Cavite"
+    },
+    "city_municipality": {
+      "id": "0402117000",
+      "code": "0402117000",
+      "name": "Rosario"
+    }
+  }
+]

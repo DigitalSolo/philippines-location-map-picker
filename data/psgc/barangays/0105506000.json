@@ -1,0 +1,443 @@
+[
+  {
+    "id": "0105506002",
+    "code": "0105506002",
+    "name": "Ariston Este",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105506000",
+      "code": "0105506000",
+      "name": "Asingan"
+    }
+  },
+  {
+    "id": "0105506003",
+    "code": "0105506003",
+    "name": "Ariston Weste",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105506000",
+      "code": "0105506000",
+      "name": "Asingan"
+    }
+  },
+  {
+    "id": "0105506004",
+    "code": "0105506004",
+    "name": "Bantog",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105506000",
+      "code": "0105506000",
+      "name": "Asingan"
+    }
+  },
+  {
+    "id": "0105506005",
+    "code": "0105506005",
+    "name": "Baro",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105506000",
+      "code": "0105506000",
+      "name": "Asingan"
+    }
+  },
+  {
+    "id": "0105506006",
+    "code": "0105506006",
+    "name": "Bobonan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105506000",
+      "code": "0105506000",
+      "name": "Asingan"
+    }
+  },
+  {
+    "id": "0105506007",
+    "code": "0105506007",
+    "name": "Cabalitian",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105506000",
+      "code": "0105506000",
+      "name": "Asingan"
+    }
+  },
+  {
+    "id": "0105506008",
+    "code": "0105506008",
+    "name": "Calepaan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105506000",
+      "code": "0105506000",
+      "name": "Asingan"
+    }
+  },
+  {
+    "id": "0105506009",
+    "code": "0105506009",
+    "name": "Carosucan Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105506000",
+      "code": "0105506000",
+      "name": "Asingan"
+    }
+  },
+  {
+    "id": "0105506010",
+    "code": "0105506010",
+    "name": "Carosucan Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105506000",
+      "code": "0105506000",
+      "name": "Asingan"
+    }
+  },
+  {
+    "id": "0105506011",
+    "code": "0105506011",
+    "name": "Coldit",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105506000",
+      "code": "0105506000",
+      "name": "Asingan"
+    }
+  },
+  {
+    "id": "0105506012",
+    "code": "0105506012",
+    "name": "Domanpot",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105506000",
+      "code": "0105506000",
+      "name": "Asingan"
+    }
+  },
+  {
+    "id": "0105506013",
+    "code": "0105506013",
+    "name": "Dupac",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105506000",
+      "code": "0105506000",
+      "name": "Asingan"
+    }
+  },
+  {
+    "id": "0105506014",
+    "code": "0105506014",
+    "name": "Macalong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105506000",
+      "code": "0105506000",
+      "name": "Asingan"
+    }
+  },
+  {
+    "id": "0105506015",
+    "code": "0105506015",
+    "name": "Palaris",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105506000",
+      "code": "0105506000",
+      "name": "Asingan"
+    }
+  },
+  {
+    "id": "0105506016",
+    "code": "0105506016",
+    "name": "Poblacion East",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105506000",
+      "code": "0105506000",
+      "name": "Asingan"
+    }
+  },
+  {
+    "id": "0105506017",
+    "code": "0105506017",
+    "name": "Poblacion West",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105506000",
+      "code": "0105506000",
+      "name": "Asingan"
+    }
+  },
+  {
+    "id": "0105506018",
+    "code": "0105506018",
+    "name": "San Vicente Este",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105506000",
+      "code": "0105506000",
+      "name": "Asingan"
+    }
+  },
+  {
+    "id": "0105506019",
+    "code": "0105506019",
+    "name": "San Vicente Weste",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105506000",
+      "code": "0105506000",
+      "name": "Asingan"
+    }
+  },
+  {
+    "id": "0105506020",
+    "code": "0105506020",
+    "name": "Sanchez",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105506000",
+      "code": "0105506000",
+      "name": "Asingan"
+    }
+  },
+  {
+    "id": "0105506021",
+    "code": "0105506021",
+    "name": "Sobol",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105506000",
+      "code": "0105506000",
+      "name": "Asingan"
+    }
+  },
+  {
+    "id": "0105506022",
+    "code": "0105506022",
+    "name": "Toboy",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105506000",
+      "code": "0105506000",
+      "name": "Asingan"
+    }
+  }
+]

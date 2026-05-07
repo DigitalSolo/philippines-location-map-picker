@@ -1,0 +1,181 @@
+{
+  "generatedAt": "2026-05-07T13:17:21.453Z",
+  "expectedStructure": {
+    "psgc": [
+      "regions.json",
+      "provinces/{region_id}.json",
+      "cities/{province_id}.json",
+      "cities/{region_id}.json for province-less regions",
+      "barangays/{city_id}.json"
+    ],
+    "geo": [
+      "bounds/regions.json",
+      "bounds/provinces.json",
+      "bounds/cities.json",
+      "bounds/barangays.json",
+      "centroids/{level}.json",
+      "polygons/barangays/{city_id}/{barangay_id}.json"
+    ]
+  },
+  "psgc": {
+    "root": "data/psgc",
+    "requiredFiles": {
+      "regions": {
+        "path": "data/psgc/regions.json",
+        "exists": true,
+        "bytes": 2229
+      }
+    },
+    "counts": {
+      "regions": 18,
+      "provinceFiles": 17,
+      "provinces": 84,
+      "cityFiles": 98,
+      "cities": 1656,
+      "barangayFiles": 1655,
+      "barangays": 42010
+    }
+  },
+  "geo": {
+    "root": "data/geo",
+    "files": {
+      "bounds": {
+        "regions": {
+          "path": "data/geo/bounds/regions.json",
+          "exists": true,
+          "bytes": 129
+        },
+        "provinces": {
+          "path": "data/geo/bounds/provinces.json",
+          "exists": true,
+          "bytes": 63
+        },
+        "cities": {
+          "path": "data/geo/bounds/cities.json",
+          "exists": true,
+          "bytes": 273
+        },
+        "barangays": {
+          "path": "data/geo/bounds/barangays.json",
+          "exists": true,
+          "bytes": 917
+        }
+      },
+      "centroids": {
+        "regions": {
+          "path": "data/geo/centroids/regions.json",
+          "exists": false,
+          "bytes": 0
+        },
+        "provinces": {
+          "path": "data/geo/centroids/provinces.json",
+          "exists": false,
+          "bytes": 0
+        },
+        "cities": {
+          "path": "data/geo/centroids/cities.json",
+          "exists": false,
+          "bytes": 0
+        },
+        "barangays": {
+          "path": "data/geo/centroids/barangays.json",
+          "exists": true,
+          "bytes": 815
+        }
+      },
+      "barangayPolygonFiles": [
+        "data/geo/polygons/barangays/051607/051607001.json",
+        "data/geo/polygons/barangays/051607/051607002.json",
+        "data/geo/polygons/barangays/051607/051607003.json",
+        "data/geo/polygons/barangays/051607/051607004.json",
+        "data/geo/polygons/barangays/051607/051607005.json",
+        "data/geo/polygons/barangays/051611/051611001.json",
+        "data/geo/polygons/barangays/051611/051611002.json",
+        "data/geo/polygons/barangays/051611/051611003.json",
+        "data/geo/polygons/barangays/051611/051611004.json",
+        "data/geo/polygons/barangays/051611/051611005.json",
+        "data/geo/polygons/barangays/1380600000/1380600001.json",
+        "data/geo/polygons/barangays/1380600000/1380600002.json",
+        "data/geo/polygons/barangays/1380600000/1380600003.json",
+        "data/geo/polygons/barangays/1380700000/1380700001.json",
+        "data/geo/polygons/barangays/1380700000/1380700002.json",
+        "data/geo/polygons/barangays/1380700000/1380700003.json"
+      ]
+    },
+    "counts": {
+      "boundsFiles": 5,
+      "boundsRows": 22,
+      "centroidFiles": 1,
+      "centroidRows": 13,
+      "barangayPolygonFiles": 16
+    }
+  },
+  "coverage": {
+    "level": "production-hierarchy-limited-geometry",
+    "productionReady": false,
+    "productionHierarchyReady": true,
+    "productionReverseFillReady": false,
+    "geometryCoversCachedPsgc": false,
+    "broadPhilippinesPsgcCoverage": true,
+    "broadPhilippinesGeometryCoverage": false,
+    "geometryPolicyRecommendation": "limited",
+    "thresholds": {
+      "regions": 18,
+      "provinces": 82,
+      "citiesAndMunicipalities": 1642,
+      "barangays": 42010,
+      "barangayPolygons": 42010
+    },
+    "sourceMetadata": {
+      "reference": {
+        "asOf": "2026-03-31",
+        "releaseName": "PSGC 1Q 2026 Publication Datafile",
+        "source": "Philippine Statistics Authority Philippine Standard Geographic Code as of 31 March 2026",
+        "sourceUrl": "https://psa.gov.ph/classification/psgc/",
+        "notes": [
+          "Thresholds are based on the PSA-published 31 March 2026 totals.",
+          "City/municipality threshold combines 33 Highly Urbanized Cities, 116 other cities, and 1,493 municipalities.",
+          "Barangay threshold reflects the PSA-published 42,010 barangays as of 31 March 2026."
+        ]
+      },
+      "expectedTotals": {
+        "regions": 18,
+        "provinces": 82,
+        "highlyUrbanizedCities": 33,
+        "otherCities": 116,
+        "municipalities": 1493,
+        "citiesAndMunicipalities": 1642,
+        "barangays": 42010
+      },
+      "thresholds": {
+        "regions": 18,
+        "provinces": 82,
+        "citiesAndMunicipalities": 1642,
+        "barangays": 42010,
+        "barangayPolygons": 42010
+      }
+    },
+    "releaseModes": {
+      "pilot": true,
+      "productionHierarchyOnly": true,
+      "productionFullReverseFill": false
+    },
+    "reasons": [
+      "Cached barangay geometry is below nationwide reverse-fill coverage thresholds. This is acceptable only for hierarchy-only production mode.",
+      "Cached geometry does not cover every cached PSGC barangay. Reverse-fill must be treated as partial."
+    ],
+    "blockers": []
+  },
+  "coverageReport": {
+    "path": "data/geo/geometry-coverage-report.json",
+    "exists": true,
+    "bytes": 7272761
+  },
+  "reconciliationReport": {
+    "path": "data/geo/psgc-geometry-reconciliation-report.json",
+    "exists": true,
+    "bytes": 11711217
+  },
+  "warnings": [],
+  "ok": true
+}

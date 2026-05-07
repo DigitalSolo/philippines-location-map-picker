@@ -1,0 +1,569 @@
+[
+  {
+    "id": "1003509001",
+    "code": "1003509001",
+    "name": "Abaga",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003509000",
+      "code": "1003509000",
+      "name": "Lala"
+    }
+  },
+  {
+    "id": "1003509002",
+    "code": "1003509002",
+    "name": "Andil",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003509000",
+      "code": "1003509000",
+      "name": "Lala"
+    }
+  },
+  {
+    "id": "1003509005",
+    "code": "1003509005",
+    "name": "Cabasagan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003509000",
+      "code": "1003509000",
+      "name": "Lala"
+    }
+  },
+  {
+    "id": "1003509006",
+    "code": "1003509006",
+    "name": "Camalan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003509000",
+      "code": "1003509000",
+      "name": "Lala"
+    }
+  },
+  {
+    "id": "1003509004",
+    "code": "1003509004",
+    "name": "Darumawang Bucana",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003509000",
+      "code": "1003509000",
+      "name": "Lala"
+    }
+  },
+  {
+    "id": "1003509008",
+    "code": "1003509008",
+    "name": "Darumawang Ilaya",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003509000",
+      "code": "1003509000",
+      "name": "Lala"
+    }
+  },
+  {
+    "id": "1003509009",
+    "code": "1003509009",
+    "name": "El Salvador",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003509000",
+      "code": "1003509000",
+      "name": "Lala"
+    }
+  },
+  {
+    "id": "1003509010",
+    "code": "1003509010",
+    "name": "Gumagamot",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003509000",
+      "code": "1003509000",
+      "name": "Lala"
+    }
+  },
+  {
+    "id": "1003509012",
+    "code": "1003509012",
+    "name": "Lala Proper",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003509000",
+      "code": "1003509000",
+      "name": "Lala"
+    }
+  },
+  {
+    "id": "1003509013",
+    "code": "1003509013",
+    "name": "Lanipao",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003509000",
+      "code": "1003509000",
+      "name": "Lala"
+    }
+  },
+  {
+    "id": "1003509014",
+    "code": "1003509014",
+    "name": "Magpatao",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003509000",
+      "code": "1003509000",
+      "name": "Lala"
+    }
+  },
+  {
+    "id": "1003509015",
+    "code": "1003509015",
+    "name": "Maranding",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003509000",
+      "code": "1003509000",
+      "name": "Lala"
+    }
+  },
+  {
+    "id": "1003509003",
+    "code": "1003509003",
+    "name": "Matampay Bucana",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003509000",
+      "code": "1003509000",
+      "name": "Lala"
+    }
+  },
+  {
+    "id": "1003509016",
+    "code": "1003509016",
+    "name": "Matampay Ilaya",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003509000",
+      "code": "1003509000",
+      "name": "Lala"
+    }
+  },
+  {
+    "id": "1003509017",
+    "code": "1003509017",
+    "name": "Pacita",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003509000",
+      "code": "1003509000",
+      "name": "Lala"
+    }
+  },
+  {
+    "id": "1003509018",
+    "code": "1003509018",
+    "name": "Pendolonan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003509000",
+      "code": "1003509000",
+      "name": "Lala"
+    }
+  },
+  {
+    "id": "1003509019",
+    "code": "1003509019",
+    "name": "Pinoyak",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003509000",
+      "code": "1003509000",
+      "name": "Lala"
+    }
+  },
+  {
+    "id": "1003509020",
+    "code": "1003509020",
+    "name": "Raw-an",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003509000",
+      "code": "1003509000",
+      "name": "Lala"
+    }
+  },
+  {
+    "id": "1003509021",
+    "code": "1003509021",
+    "name": "Rebe",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003509000",
+      "code": "1003509000",
+      "name": "Lala"
+    }
+  },
+  {
+    "id": "1003509022",
+    "code": "1003509022",
+    "name": "San Isidro Lower",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003509000",
+      "code": "1003509000",
+      "name": "Lala"
+    }
+  },
+  {
+    "id": "1003509023",
+    "code": "1003509023",
+    "name": "San Isidro Upper",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003509000",
+      "code": "1003509000",
+      "name": "Lala"
+    }
+  },
+  {
+    "id": "1003509024",
+    "code": "1003509024",
+    "name": "San Manuel",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003509000",
+      "code": "1003509000",
+      "name": "Lala"
+    }
+  },
+  {
+    "id": "1003509025",
+    "code": "1003509025",
+    "name": "Santa Cruz Lower",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003509000",
+      "code": "1003509000",
+      "name": "Lala"
+    }
+  },
+  {
+    "id": "1003509026",
+    "code": "1003509026",
+    "name": "Santa Cruz Upper",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003509000",
+      "code": "1003509000",
+      "name": "Lala"
+    }
+  },
+  {
+    "id": "1003509027",
+    "code": "1003509027",
+    "name": "Simpak",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003509000",
+      "code": "1003509000",
+      "name": "Lala"
+    }
+  },
+  {
+    "id": "1003509028",
+    "code": "1003509028",
+    "name": "Tenazas",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003509000",
+      "code": "1003509000",
+      "name": "Lala"
+    }
+  },
+  {
+    "id": "1003509029",
+    "code": "1003509029",
+    "name": "Tuna-an",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003509000",
+      "code": "1003509000",
+      "name": "Lala"
+    }
+  }
+]

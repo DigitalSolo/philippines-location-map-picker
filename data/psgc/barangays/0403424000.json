@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "0403424080",
+    "code": "0403424080",
+    "name": "Atisan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424001",
+    "code": "0403424001",
+    "name": "Bagong Bayan II-A",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424002",
+    "code": "0403424002",
+    "name": "Bagong Pook VI-C",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424003",
+    "code": "0403424003",
+    "name": "Barangay I-A",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424004",
+    "code": "0403424004",
+    "name": "Barangay I-B",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424005",
+    "code": "0403424005",
+    "name": "Barangay II-A",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424006",
+    "code": "0403424006",
+    "name": "Barangay II-B",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424007",
+    "code": "0403424007",
+    "name": "Barangay II-C",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424008",
+    "code": "0403424008",
+    "name": "Barangay II-D",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424009",
+    "code": "0403424009",
+    "name": "Barangay II-E",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424010",
+    "code": "0403424010",
+    "name": "Barangay II-F",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424011",
+    "code": "0403424011",
+    "name": "Barangay III-A",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424012",
+    "code": "0403424012",
+    "name": "Barangay III-B",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424013",
+    "code": "0403424013",
+    "name": "Barangay III-C",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424014",
+    "code": "0403424014",
+    "name": "Barangay III-D",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424015",
+    "code": "0403424015",
+    "name": "Barangay III-E",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424016",
+    "code": "0403424016",
+    "name": "Barangay III-F",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424017",
+    "code": "0403424017",
+    "name": "Barangay IV-A",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424018",
+    "code": "0403424018",
+    "name": "Barangay IV-B",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424019",
+    "code": "0403424019",
+    "name": "Barangay IV-C",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424020",
+    "code": "0403424020",
+    "name": "Barangay V-A",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424021",
+    "code": "0403424021",
+    "name": "Barangay V-B",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424022",
+    "code": "0403424022",
+    "name": "Barangay V-C",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424023",
+    "code": "0403424023",
+    "name": "Barangay V-D",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424024",
+    "code": "0403424024",
+    "name": "Barangay VI-A",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424025",
+    "code": "0403424025",
+    "name": "Barangay VI-B",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424027",
+    "code": "0403424027",
+    "name": "Barangay VI-D",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424028",
+    "code": "0403424028",
+    "name": "Barangay VI-E",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424029",
+    "code": "0403424029",
+    "name": "Barangay VII-A",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424030",
+    "code": "0403424030",
+    "name": "Barangay VII-B",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424031",
+    "code": "0403424031",
+    "name": "Barangay VII-C",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424032",
+    "code": "0403424032",
+    "name": "Barangay VII-D",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424033",
+    "code": "0403424033",
+    "name": "Barangay VII-E",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424034",
+    "code": "0403424034",
+    "name": "Bautista",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424035",
+    "code": "0403424035",
+    "name": "Concepcion",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424036",
+    "code": "0403424036",
+    "name": "Del Remedio",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424037",
+    "code": "0403424037",
+    "name": "Dolores",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424040",
+    "code": "0403424040",
+    "name": "San Antonio 1",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424041",
+    "code": "0403424041",
+    "name": "San Antonio 2",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424042",
+    "code": "0403424042",
+    "name": "San Bartolome",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424043",
+    "code": "0403424043",
+    "name": "San Buenaventura",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424044",
+    "code": "0403424044",
+    "name": "San Crispin",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424045",
+    "code": "0403424045",
+    "name": "San Cristobal",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424046",
+    "code": "0403424046",
+    "name": "San Diego",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424047",
+    "code": "0403424047",
+    "name": "San Francisco",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424048",
+    "code": "0403424048",
+    "name": "San Gabriel",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424049",
+    "code": "0403424049",
+    "name": "San Gregorio",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424050",
+    "code": "0403424050",
+    "name": "San Ignacio",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424051",
+    "code": "0403424051",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424052",
+    "code": "0403424052",
+    "name": "San Joaquin",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424053",
+    "code": "0403424053",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424054",
+    "code": "0403424054",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424055",
+    "code": "0403424055",
+    "name": "San Lorenzo",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424056",
+    "code": "0403424056",
+    "name": "San Lucas 1",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424057",
+    "code": "0403424057",
+    "name": "San Lucas 2",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424058",
+    "code": "0403424058",
+    "name": "San Marcos",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424059",
+    "code": "0403424059",
+    "name": "San Mateo",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424060",
+    "code": "0403424060",
+    "name": "San Miguel",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424061",
+    "code": "0403424061",
+    "name": "San Nicolas",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424062",
+    "code": "0403424062",
+    "name": "San Pedro",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424063",
+    "code": "0403424063",
+    "name": "San Rafael",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424064",
+    "code": "0403424064",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424065",
+    "code": "0403424065",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424066",
+    "code": "0403424066",
+    "name": "Santa Ana",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424067",
+    "code": "0403424067",
+    "name": "Santa Catalina",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424068",
+    "code": "0403424068",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424081",
+    "code": "0403424081",
+    "name": "Santa Elena",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424069",
+    "code": "0403424069",
+    "name": "Santa Felomina",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424070",
+    "code": "0403424070",
+    "name": "Santa Isabel",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424082",
+    "code": "0403424082",
+    "name": "Santa Maria",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424071",
+    "code": "0403424071",
+    "name": "Santa Maria Magdalena",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424083",
+    "code": "0403424083",
+    "name": "Santa Monica",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424072",
+    "code": "0403424072",
+    "name": "Santa Veronica",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424073",
+    "code": "0403424073",
+    "name": "Santiago I",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424074",
+    "code": "0403424074",
+    "name": "Santiago II",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424075",
+    "code": "0403424075",
+    "name": "Santisimo Rosario",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424076",
+    "code": "0403424076",
+    "name": "Santo Angel",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424077",
+    "code": "0403424077",
+    "name": "Santo Cristo",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424078",
+    "code": "0403424078",
+    "name": "Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  },
+  {
+    "id": "0403424079",
+    "code": "0403424079",
+    "name": "Soledad",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403424000",
+      "code": "0403424000",
+      "name": "City of San Pablo"
+    }
+  }
+]

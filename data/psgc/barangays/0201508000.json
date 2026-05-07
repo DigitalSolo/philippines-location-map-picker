@@ -1,0 +1,632 @@
+[
+  {
+    "id": "0201508001",
+    "code": "0201508001",
+    "name": "Ballang",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201508000",
+      "code": "0201508000",
+      "name": "Buguey"
+    }
+  },
+  {
+    "id": "0201508002",
+    "code": "0201508002",
+    "name": "Balza",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201508000",
+      "code": "0201508000",
+      "name": "Buguey"
+    }
+  },
+  {
+    "id": "0201508003",
+    "code": "0201508003",
+    "name": "Cabaritan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201508000",
+      "code": "0201508000",
+      "name": "Buguey"
+    }
+  },
+  {
+    "id": "0201508004",
+    "code": "0201508004",
+    "name": "Calamegatan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201508000",
+      "code": "0201508000",
+      "name": "Buguey"
+    }
+  },
+  {
+    "id": "0201508005",
+    "code": "0201508005",
+    "name": "Centro",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201508000",
+      "code": "0201508000",
+      "name": "Buguey"
+    }
+  },
+  {
+    "id": "0201508006",
+    "code": "0201508006",
+    "name": "Centro West",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201508000",
+      "code": "0201508000",
+      "name": "Buguey"
+    }
+  },
+  {
+    "id": "0201508007",
+    "code": "0201508007",
+    "name": "Dalaya",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201508000",
+      "code": "0201508000",
+      "name": "Buguey"
+    }
+  },
+  {
+    "id": "0201508008",
+    "code": "0201508008",
+    "name": "Fula",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201508000",
+      "code": "0201508000",
+      "name": "Buguey"
+    }
+  },
+  {
+    "id": "0201508009",
+    "code": "0201508009",
+    "name": "Leron",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201508000",
+      "code": "0201508000",
+      "name": "Buguey"
+    }
+  },
+  {
+    "id": "0201508010",
+    "code": "0201508010",
+    "name": "M. Antiporda",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201508000",
+      "code": "0201508000",
+      "name": "Buguey"
+    }
+  },
+  {
+    "id": "0201508011",
+    "code": "0201508011",
+    "name": "Maddalero",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201508000",
+      "code": "0201508000",
+      "name": "Buguey"
+    }
+  },
+  {
+    "id": "0201508012",
+    "code": "0201508012",
+    "name": "Mala Este",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201508000",
+      "code": "0201508000",
+      "name": "Buguey"
+    }
+  },
+  {
+    "id": "0201508013",
+    "code": "0201508013",
+    "name": "Mala Weste",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201508000",
+      "code": "0201508000",
+      "name": "Buguey"
+    }
+  },
+  {
+    "id": "0201508014",
+    "code": "0201508014",
+    "name": "Minanga Este",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201508000",
+      "code": "0201508000",
+      "name": "Buguey"
+    }
+  },
+  {
+    "id": "0201508026",
+    "code": "0201508026",
+    "name": "Minanga Weste",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201508000",
+      "code": "0201508000",
+      "name": "Buguey"
+    }
+  },
+  {
+    "id": "0201508015",
+    "code": "0201508015",
+    "name": "Paddaya Este",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201508000",
+      "code": "0201508000",
+      "name": "Buguey"
+    }
+  },
+  {
+    "id": "0201508027",
+    "code": "0201508027",
+    "name": "Paddaya Weste",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201508000",
+      "code": "0201508000",
+      "name": "Buguey"
+    }
+  },
+  {
+    "id": "0201508016",
+    "code": "0201508016",
+    "name": "Pattao",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201508000",
+      "code": "0201508000",
+      "name": "Buguey"
+    }
+  },
+  {
+    "id": "0201508018",
+    "code": "0201508018",
+    "name": "Quinawegan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201508000",
+      "code": "0201508000",
+      "name": "Buguey"
+    }
+  },
+  {
+    "id": "0201508019",
+    "code": "0201508019",
+    "name": "Remebella",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201508000",
+      "code": "0201508000",
+      "name": "Buguey"
+    }
+  },
+  {
+    "id": "0201508020",
+    "code": "0201508020",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201508000",
+      "code": "0201508000",
+      "name": "Buguey"
+    }
+  },
+  {
+    "id": "0201508028",
+    "code": "0201508028",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201508000",
+      "code": "0201508000",
+      "name": "Buguey"
+    }
+  },
+  {
+    "id": "0201508025",
+    "code": "0201508025",
+    "name": "San Lorenzo",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201508000",
+      "code": "0201508000",
+      "name": "Buguey"
+    }
+  },
+  {
+    "id": "0201508029",
+    "code": "0201508029",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201508000",
+      "code": "0201508000",
+      "name": "Buguey"
+    }
+  },
+  {
+    "id": "0201508021",
+    "code": "0201508021",
+    "name": "Santa Isabel",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201508000",
+      "code": "0201508000",
+      "name": "Buguey"
+    }
+  },
+  {
+    "id": "0201508022",
+    "code": "0201508022",
+    "name": "Santa Maria",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201508000",
+      "code": "0201508000",
+      "name": "Buguey"
+    }
+  },
+  {
+    "id": "0201508023",
+    "code": "0201508023",
+    "name": "Tabbac",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201508000",
+      "code": "0201508000",
+      "name": "Buguey"
+    }
+  },
+  {
+    "id": "0201508024",
+    "code": "0201508024",
+    "name": "Villa Cielo",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201508000",
+      "code": "0201508000",
+      "name": "Buguey"
+    }
+  },
+  {
+    "id": "0201508030",
+    "code": "0201508030",
+    "name": "Villa Gracia",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201508000",
+      "code": "0201508000",
+      "name": "Buguey"
+    }
+  },
+  {
+    "id": "0201508031",
+    "code": "0201508031",
+    "name": "Villa Leonora",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201508000",
+      "code": "0201508000",
+      "name": "Buguey"
+    }
+  }
+]

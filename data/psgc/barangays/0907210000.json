@@ -1,0 +1,632 @@
+[
+  {
+    "id": "0907210001",
+    "code": "0907210001",
+    "name": "Anastacio",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907210000",
+      "code": "0907210000",
+      "name": "Polanco"
+    }
+  },
+  {
+    "id": "0907210002",
+    "code": "0907210002",
+    "name": "Bandera",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907210000",
+      "code": "0907210000",
+      "name": "Polanco"
+    }
+  },
+  {
+    "id": "0907210003",
+    "code": "0907210003",
+    "name": "Bethlehem",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907210000",
+      "code": "0907210000",
+      "name": "Polanco"
+    }
+  },
+  {
+    "id": "0907210004",
+    "code": "0907210004",
+    "name": "Dangi",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907210000",
+      "code": "0907210000",
+      "name": "Polanco"
+    }
+  },
+  {
+    "id": "0907210005",
+    "code": "0907210005",
+    "name": "Dansullan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907210000",
+      "code": "0907210000",
+      "name": "Polanco"
+    }
+  },
+  {
+    "id": "0907210006",
+    "code": "0907210006",
+    "name": "De Venta Perla",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907210000",
+      "code": "0907210000",
+      "name": "Polanco"
+    }
+  },
+  {
+    "id": "0907210007",
+    "code": "0907210007",
+    "name": "Guinles",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907210000",
+      "code": "0907210000",
+      "name": "Polanco"
+    }
+  },
+  {
+    "id": "0907210008",
+    "code": "0907210008",
+    "name": "Isis",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907210000",
+      "code": "0907210000",
+      "name": "Polanco"
+    }
+  },
+  {
+    "id": "0907210009",
+    "code": "0907210009",
+    "name": "Labrador",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907210000",
+      "code": "0907210000",
+      "name": "Polanco"
+    }
+  },
+  {
+    "id": "0907210010",
+    "code": "0907210010",
+    "name": "Lapayanbaja",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907210000",
+      "code": "0907210000",
+      "name": "Polanco"
+    }
+  },
+  {
+    "id": "0907210011",
+    "code": "0907210011",
+    "name": "Letapan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907210000",
+      "code": "0907210000",
+      "name": "Polanco"
+    }
+  },
+  {
+    "id": "0907210012",
+    "code": "0907210012",
+    "name": "Linabo",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907210000",
+      "code": "0907210000",
+      "name": "Polanco"
+    }
+  },
+  {
+    "id": "0907210013",
+    "code": "0907210013",
+    "name": "Lingasad",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907210000",
+      "code": "0907210000",
+      "name": "Polanco"
+    }
+  },
+  {
+    "id": "0907210014",
+    "code": "0907210014",
+    "name": "Macleodes",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907210000",
+      "code": "0907210000",
+      "name": "Polanco"
+    }
+  },
+  {
+    "id": "0907210015",
+    "code": "0907210015",
+    "name": "Magangon",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907210000",
+      "code": "0907210000",
+      "name": "Polanco"
+    }
+  },
+  {
+    "id": "0907210016",
+    "code": "0907210016",
+    "name": "Maligaya",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907210000",
+      "code": "0907210000",
+      "name": "Polanco"
+    }
+  },
+  {
+    "id": "0907210017",
+    "code": "0907210017",
+    "name": "Milad",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907210000",
+      "code": "0907210000",
+      "name": "Polanco"
+    }
+  },
+  {
+    "id": "0907210018",
+    "code": "0907210018",
+    "name": "New Lebangon",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907210000",
+      "code": "0907210000",
+      "name": "Polanco"
+    }
+  },
+  {
+    "id": "0907210019",
+    "code": "0907210019",
+    "name": "New Sicayab",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907210000",
+      "code": "0907210000",
+      "name": "Polanco"
+    }
+  },
+  {
+    "id": "0907210020",
+    "code": "0907210020",
+    "name": "Obay",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907210000",
+      "code": "0907210000",
+      "name": "Polanco"
+    }
+  },
+  {
+    "id": "0907210021",
+    "code": "0907210021",
+    "name": "Pian",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907210000",
+      "code": "0907210000",
+      "name": "Polanco"
+    }
+  },
+  {
+    "id": "0907210030",
+    "code": "0907210030",
+    "name": "Poblacion North",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907210000",
+      "code": "0907210000",
+      "name": "Polanco"
+    }
+  },
+  {
+    "id": "0907210022",
+    "code": "0907210022",
+    "name": "Poblacion South",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907210000",
+      "code": "0907210000",
+      "name": "Polanco"
+    }
+  },
+  {
+    "id": "0907210023",
+    "code": "0907210023",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907210000",
+      "code": "0907210000",
+      "name": "Polanco"
+    }
+  },
+  {
+    "id": "0907210024",
+    "code": "0907210024",
+    "name": "San Miguel",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907210000",
+      "code": "0907210000",
+      "name": "Polanco"
+    }
+  },
+  {
+    "id": "0907210025",
+    "code": "0907210025",
+    "name": "San Pedro",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907210000",
+      "code": "0907210000",
+      "name": "Polanco"
+    }
+  },
+  {
+    "id": "0907210026",
+    "code": "0907210026",
+    "name": "Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907210000",
+      "code": "0907210000",
+      "name": "Polanco"
+    }
+  },
+  {
+    "id": "0907210028",
+    "code": "0907210028",
+    "name": "Sianib",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907210000",
+      "code": "0907210000",
+      "name": "Polanco"
+    }
+  },
+  {
+    "id": "0907210027",
+    "code": "0907210027",
+    "name": "Silawe",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907210000",
+      "code": "0907210000",
+      "name": "Polanco"
+    }
+  },
+  {
+    "id": "0907210029",
+    "code": "0907210029",
+    "name": "Villahermosa",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907210000",
+      "code": "0907210000",
+      "name": "Polanco"
+    }
+  }
+]

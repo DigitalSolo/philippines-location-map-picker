@@ -1,0 +1,434 @@
+[
+  {
+    "id": "1380500001",
+    "code": "1380500001",
+    "name": "Addition Hills",
+    "type": "barangay",
+    "region": {
+      "id": "1300000000",
+      "code": "1300000000",
+      "name": "National Capital Region (NCR)"
+    },
+    "city_municipality": {
+      "id": "1380500000",
+      "code": "1380500000",
+      "name": "City of Mandaluyong"
+    }
+  },
+  {
+    "id": "1380500002",
+    "code": "1380500002",
+    "name": "Bagong Silang",
+    "type": "barangay",
+    "region": {
+      "id": "1300000000",
+      "code": "1300000000",
+      "name": "National Capital Region (NCR)"
+    },
+    "city_municipality": {
+      "id": "1380500000",
+      "code": "1380500000",
+      "name": "City of Mandaluyong"
+    }
+  },
+  {
+    "id": "1380500003",
+    "code": "1380500003",
+    "name": "Barangka Drive",
+    "type": "barangay",
+    "region": {
+      "id": "1300000000",
+      "code": "1300000000",
+      "name": "National Capital Region (NCR)"
+    },
+    "city_municipality": {
+      "id": "1380500000",
+      "code": "1380500000",
+      "name": "City of Mandaluyong"
+    }
+  },
+  {
+    "id": "1380500004",
+    "code": "1380500004",
+    "name": "Barangka Ibaba",
+    "type": "barangay",
+    "region": {
+      "id": "1300000000",
+      "code": "1300000000",
+      "name": "National Capital Region (NCR)"
+    },
+    "city_municipality": {
+      "id": "1380500000",
+      "code": "1380500000",
+      "name": "City of Mandaluyong"
+    }
+  },
+  {
+    "id": "1380500005",
+    "code": "1380500005",
+    "name": "Barangka Ilaya",
+    "type": "barangay",
+    "region": {
+      "id": "1300000000",
+      "code": "1300000000",
+      "name": "National Capital Region (NCR)"
+    },
+    "city_municipality": {
+      "id": "1380500000",
+      "code": "1380500000",
+      "name": "City of Mandaluyong"
+    }
+  },
+  {
+    "id": "1380500006",
+    "code": "1380500006",
+    "name": "Barangka Itaas",
+    "type": "barangay",
+    "region": {
+      "id": "1300000000",
+      "code": "1300000000",
+      "name": "National Capital Region (NCR)"
+    },
+    "city_municipality": {
+      "id": "1380500000",
+      "code": "1380500000",
+      "name": "City of Mandaluyong"
+    }
+  },
+  {
+    "id": "1380500008",
+    "code": "1380500008",
+    "name": "Buayang Bato",
+    "type": "barangay",
+    "region": {
+      "id": "1300000000",
+      "code": "1300000000",
+      "name": "National Capital Region (NCR)"
+    },
+    "city_municipality": {
+      "id": "1380500000",
+      "code": "1380500000",
+      "name": "City of Mandaluyong"
+    }
+  },
+  {
+    "id": "1380500007",
+    "code": "1380500007",
+    "name": "Burol",
+    "type": "barangay",
+    "region": {
+      "id": "1300000000",
+      "code": "1300000000",
+      "name": "National Capital Region (NCR)"
+    },
+    "city_municipality": {
+      "id": "1380500000",
+      "code": "1380500000",
+      "name": "City of Mandaluyong"
+    }
+  },
+  {
+    "id": "1380500009",
+    "code": "1380500009",
+    "name": "Daang Bakal",
+    "type": "barangay",
+    "region": {
+      "id": "1300000000",
+      "code": "1300000000",
+      "name": "National Capital Region (NCR)"
+    },
+    "city_municipality": {
+      "id": "1380500000",
+      "code": "1380500000",
+      "name": "City of Mandaluyong"
+    }
+  },
+  {
+    "id": "1380500010",
+    "code": "1380500010",
+    "name": "Hagdang Bato Itaas",
+    "type": "barangay",
+    "region": {
+      "id": "1300000000",
+      "code": "1300000000",
+      "name": "National Capital Region (NCR)"
+    },
+    "city_municipality": {
+      "id": "1380500000",
+      "code": "1380500000",
+      "name": "City of Mandaluyong"
+    }
+  },
+  {
+    "id": "1380500011",
+    "code": "1380500011",
+    "name": "Hagdang Bato Libis",
+    "type": "barangay",
+    "region": {
+      "id": "1300000000",
+      "code": "1300000000",
+      "name": "National Capital Region (NCR)"
+    },
+    "city_municipality": {
+      "id": "1380500000",
+      "code": "1380500000",
+      "name": "City of Mandaluyong"
+    }
+  },
+  {
+    "id": "1380500012",
+    "code": "1380500012",
+    "name": "Harapin Ang Bukas",
+    "type": "barangay",
+    "region": {
+      "id": "1300000000",
+      "code": "1300000000",
+      "name": "National Capital Region (NCR)"
+    },
+    "city_municipality": {
+      "id": "1380500000",
+      "code": "1380500000",
+      "name": "City of Mandaluyong"
+    }
+  },
+  {
+    "id": "1380500013",
+    "code": "1380500013",
+    "name": "Highway Hills",
+    "type": "barangay",
+    "region": {
+      "id": "1300000000",
+      "code": "1300000000",
+      "name": "National Capital Region (NCR)"
+    },
+    "city_municipality": {
+      "id": "1380500000",
+      "code": "1380500000",
+      "name": "City of Mandaluyong"
+    }
+  },
+  {
+    "id": "1380500014",
+    "code": "1380500014",
+    "name": "Hulo",
+    "type": "barangay",
+    "region": {
+      "id": "1300000000",
+      "code": "1300000000",
+      "name": "National Capital Region (NCR)"
+    },
+    "city_municipality": {
+      "id": "1380500000",
+      "code": "1380500000",
+      "name": "City of Mandaluyong"
+    }
+  },
+  {
+    "id": "1380500015",
+    "code": "1380500015",
+    "name": "Mabini-J. Rizal",
+    "type": "barangay",
+    "region": {
+      "id": "1300000000",
+      "code": "1300000000",
+      "name": "National Capital Region (NCR)"
+    },
+    "city_municipality": {
+      "id": "1380500000",
+      "code": "1380500000",
+      "name": "City of Mandaluyong"
+    }
+  },
+  {
+    "id": "1380500016",
+    "code": "1380500016",
+    "name": "Malamig",
+    "type": "barangay",
+    "region": {
+      "id": "1300000000",
+      "code": "1300000000",
+      "name": "National Capital Region (NCR)"
+    },
+    "city_municipality": {
+      "id": "1380500000",
+      "code": "1380500000",
+      "name": "City of Mandaluyong"
+    }
+  },
+  {
+    "id": "1380500017",
+    "code": "1380500017",
+    "name": "Mauway",
+    "type": "barangay",
+    "region": {
+      "id": "1300000000",
+      "code": "1300000000",
+      "name": "National Capital Region (NCR)"
+    },
+    "city_municipality": {
+      "id": "1380500000",
+      "code": "1380500000",
+      "name": "City of Mandaluyong"
+    }
+  },
+  {
+    "id": "1380500018",
+    "code": "1380500018",
+    "name": "Namayan",
+    "type": "barangay",
+    "region": {
+      "id": "1300000000",
+      "code": "1300000000",
+      "name": "National Capital Region (NCR)"
+    },
+    "city_municipality": {
+      "id": "1380500000",
+      "code": "1380500000",
+      "name": "City of Mandaluyong"
+    }
+  },
+  {
+    "id": "1380500019",
+    "code": "1380500019",
+    "name": "New Zañiga",
+    "type": "barangay",
+    "region": {
+      "id": "1300000000",
+      "code": "1300000000",
+      "name": "National Capital Region (NCR)"
+    },
+    "city_municipality": {
+      "id": "1380500000",
+      "code": "1380500000",
+      "name": "City of Mandaluyong"
+    }
+  },
+  {
+    "id": "1380500020",
+    "code": "1380500020",
+    "name": "Old Zañiga",
+    "type": "barangay",
+    "region": {
+      "id": "1300000000",
+      "code": "1300000000",
+      "name": "National Capital Region (NCR)"
+    },
+    "city_municipality": {
+      "id": "1380500000",
+      "code": "1380500000",
+      "name": "City of Mandaluyong"
+    }
+  },
+  {
+    "id": "1380500021",
+    "code": "1380500021",
+    "name": "Pag-asa",
+    "type": "barangay",
+    "region": {
+      "id": "1300000000",
+      "code": "1300000000",
+      "name": "National Capital Region (NCR)"
+    },
+    "city_municipality": {
+      "id": "1380500000",
+      "code": "1380500000",
+      "name": "City of Mandaluyong"
+    }
+  },
+  {
+    "id": "1380500022",
+    "code": "1380500022",
+    "name": "Plainview",
+    "type": "barangay",
+    "region": {
+      "id": "1300000000",
+      "code": "1300000000",
+      "name": "National Capital Region (NCR)"
+    },
+    "city_municipality": {
+      "id": "1380500000",
+      "code": "1380500000",
+      "name": "City of Mandaluyong"
+    }
+  },
+  {
+    "id": "1380500023",
+    "code": "1380500023",
+    "name": "Pleasant Hills",
+    "type": "barangay",
+    "region": {
+      "id": "1300000000",
+      "code": "1300000000",
+      "name": "National Capital Region (NCR)"
+    },
+    "city_municipality": {
+      "id": "1380500000",
+      "code": "1380500000",
+      "name": "City of Mandaluyong"
+    }
+  },
+  {
+    "id": "1380500024",
+    "code": "1380500024",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1300000000",
+      "code": "1300000000",
+      "name": "National Capital Region (NCR)"
+    },
+    "city_municipality": {
+      "id": "1380500000",
+      "code": "1380500000",
+      "name": "City of Mandaluyong"
+    }
+  },
+  {
+    "id": "1380500025",
+    "code": "1380500025",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "1300000000",
+      "code": "1300000000",
+      "name": "National Capital Region (NCR)"
+    },
+    "city_municipality": {
+      "id": "1380500000",
+      "code": "1380500000",
+      "name": "City of Mandaluyong"
+    }
+  },
+  {
+    "id": "1380500026",
+    "code": "1380500026",
+    "name": "Vergara",
+    "type": "barangay",
+    "region": {
+      "id": "1300000000",
+      "code": "1300000000",
+      "name": "National Capital Region (NCR)"
+    },
+    "city_municipality": {
+      "id": "1380500000",
+      "code": "1380500000",
+      "name": "City of Mandaluyong"
+    }
+  },
+  {
+    "id": "1380500027",
+    "code": "1380500027",
+    "name": "Wack-wack Greenhills",
+    "type": "barangay",
+    "region": {
+      "id": "1300000000",
+      "code": "1300000000",
+      "name": "National Capital Region (NCR)"
+    },
+    "city_municipality": {
+      "id": "1380500000",
+      "code": "1380500000",
+      "name": "City of Mandaluyong"
+    }
+  }
+]

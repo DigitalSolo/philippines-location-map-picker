@@ -1,0 +1,737 @@
+[
+  {
+    "id": "0701247001",
+    "code": "0701247001",
+    "name": "Adlawan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701247000",
+      "code": "0701247000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "0701247002",
+    "code": "0701247002",
+    "name": "Anas",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701247000",
+      "code": "0701247000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "0701247003",
+    "code": "0701247003",
+    "name": "Anonang",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701247000",
+      "code": "0701247000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "0701247004",
+    "code": "0701247004",
+    "name": "Anoyon",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701247000",
+      "code": "0701247000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "0701247005",
+    "code": "0701247005",
+    "name": "Balingasao",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701247000",
+      "code": "0701247000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "0701247035",
+    "code": "0701247035",
+    "name": "Banderahan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701247000",
+      "code": "0701247000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "0701247006",
+    "code": "0701247006",
+    "name": "Botong",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701247000",
+      "code": "0701247000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "0701247007",
+    "code": "0701247007",
+    "name": "Buyog",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701247000",
+      "code": "0701247000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "0701247008",
+    "code": "0701247008",
+    "name": "Canduao Occidental",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701247000",
+      "code": "0701247000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "0701247009",
+    "code": "0701247009",
+    "name": "Canduao Oriental",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701247000",
+      "code": "0701247000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "0701247010",
+    "code": "0701247010",
+    "name": "Canlusong",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701247000",
+      "code": "0701247000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "0701247011",
+    "code": "0701247011",
+    "name": "Canmanico",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701247000",
+      "code": "0701247000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "0701247012",
+    "code": "0701247012",
+    "name": "Cansibao",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701247000",
+      "code": "0701247000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "0701247013",
+    "code": "0701247013",
+    "name": "Catug-a",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701247000",
+      "code": "0701247000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "0701247014",
+    "code": "0701247014",
+    "name": "Cutcutan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701247000",
+      "code": "0701247000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "0701247015",
+    "code": "0701247015",
+    "name": "Danao",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701247000",
+      "code": "0701247000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "0701247016",
+    "code": "0701247016",
+    "name": "Genoveva",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701247000",
+      "code": "0701247000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "0701247017",
+    "code": "0701247017",
+    "name": "Ginopolan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701247000",
+      "code": "0701247000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "0701247018",
+    "code": "0701247018",
+    "name": "La Victoria",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701247000",
+      "code": "0701247000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "0701247019",
+    "code": "0701247019",
+    "name": "Lantang",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701247000",
+      "code": "0701247000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "0701247020",
+    "code": "0701247020",
+    "name": "Limocon",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701247000",
+      "code": "0701247000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "0701247021",
+    "code": "0701247021",
+    "name": "Loctob",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701247000",
+      "code": "0701247000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "0701247022",
+    "code": "0701247022",
+    "name": "Magsaysay",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701247000",
+      "code": "0701247000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "0701247023",
+    "code": "0701247023",
+    "name": "Marawis",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701247000",
+      "code": "0701247000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "0701247024",
+    "code": "0701247024",
+    "name": "Maubo",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701247000",
+      "code": "0701247000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "0701247025",
+    "code": "0701247025",
+    "name": "Nailo",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701247000",
+      "code": "0701247000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "0701247026",
+    "code": "0701247026",
+    "name": "Omjon",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701247000",
+      "code": "0701247000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "0701247027",
+    "code": "0701247027",
+    "name": "Pangi-an",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701247000",
+      "code": "0701247000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "0701247028",
+    "code": "0701247028",
+    "name": "Poblacion Occidental",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701247000",
+      "code": "0701247000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "0701247029",
+    "code": "0701247029",
+    "name": "Poblacion Oriental",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701247000",
+      "code": "0701247000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "0701247030",
+    "code": "0701247030",
+    "name": "Simang",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701247000",
+      "code": "0701247000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "0701247031",
+    "code": "0701247031",
+    "name": "Taug",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701247000",
+      "code": "0701247000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "0701247032",
+    "code": "0701247032",
+    "name": "Tausion",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701247000",
+      "code": "0701247000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "0701247033",
+    "code": "0701247033",
+    "name": "Taytay",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701247000",
+      "code": "0701247000",
+      "name": "Valencia"
+    }
+  },
+  {
+    "id": "0701247034",
+    "code": "0701247034",
+    "name": "Ticum",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701247000",
+      "code": "0701247000",
+      "name": "Valencia"
+    }
+  }
+]

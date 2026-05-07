@@ -1,0 +1,842 @@
+[
+  {
+    "id": "0806403001",
+    "code": "0806403001",
+    "name": "Ambacon",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806403000",
+      "code": "0806403000",
+      "name": "Hinunangan"
+    }
+  },
+  {
+    "id": "0806403002",
+    "code": "0806403002",
+    "name": "Badiangon",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806403000",
+      "code": "0806403000",
+      "name": "Hinunangan"
+    }
+  },
+  {
+    "id": "0806403003",
+    "code": "0806403003",
+    "name": "Bangcas A",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806403000",
+      "code": "0806403000",
+      "name": "Hinunangan"
+    }
+  },
+  {
+    "id": "0806403004",
+    "code": "0806403004",
+    "name": "Bangcas B",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806403000",
+      "code": "0806403000",
+      "name": "Hinunangan"
+    }
+  },
+  {
+    "id": "0806403005",
+    "code": "0806403005",
+    "name": "Biasong",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806403000",
+      "code": "0806403000",
+      "name": "Hinunangan"
+    }
+  },
+  {
+    "id": "0806403006",
+    "code": "0806403006",
+    "name": "Bugho",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806403000",
+      "code": "0806403000",
+      "name": "Hinunangan"
+    }
+  },
+  {
+    "id": "0806403007",
+    "code": "0806403007",
+    "name": "Calag-itan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806403000",
+      "code": "0806403000",
+      "name": "Hinunangan"
+    }
+  },
+  {
+    "id": "0806403008",
+    "code": "0806403008",
+    "name": "Calayugan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806403000",
+      "code": "0806403000",
+      "name": "Hinunangan"
+    }
+  },
+  {
+    "id": "0806403009",
+    "code": "0806403009",
+    "name": "Calinao",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806403000",
+      "code": "0806403000",
+      "name": "Hinunangan"
+    }
+  },
+  {
+    "id": "0806403010",
+    "code": "0806403010",
+    "name": "Canipaan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806403000",
+      "code": "0806403000",
+      "name": "Hinunangan"
+    }
+  },
+  {
+    "id": "0806403011",
+    "code": "0806403011",
+    "name": "Catublian",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806403000",
+      "code": "0806403000",
+      "name": "Hinunangan"
+    }
+  },
+  {
+    "id": "0806403012",
+    "code": "0806403012",
+    "name": "Ilaya",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806403000",
+      "code": "0806403000",
+      "name": "Hinunangan"
+    }
+  },
+  {
+    "id": "0806403013",
+    "code": "0806403013",
+    "name": "Ingan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806403000",
+      "code": "0806403000",
+      "name": "Hinunangan"
+    }
+  },
+  {
+    "id": "0806403014",
+    "code": "0806403014",
+    "name": "Labrador",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806403000",
+      "code": "0806403000",
+      "name": "Hinunangan"
+    }
+  },
+  {
+    "id": "0806403040",
+    "code": "0806403040",
+    "name": "Libas",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806403000",
+      "code": "0806403000",
+      "name": "Hinunangan"
+    }
+  },
+  {
+    "id": "0806403015",
+    "code": "0806403015",
+    "name": "Lumbog",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806403000",
+      "code": "0806403000",
+      "name": "Hinunangan"
+    }
+  },
+  {
+    "id": "0806403016",
+    "code": "0806403016",
+    "name": "Manalog",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806403000",
+      "code": "0806403000",
+      "name": "Hinunangan"
+    }
+  },
+  {
+    "id": "0806403017",
+    "code": "0806403017",
+    "name": "Manlico",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806403000",
+      "code": "0806403000",
+      "name": "Hinunangan"
+    }
+  },
+  {
+    "id": "0806403018",
+    "code": "0806403018",
+    "name": "Matin-ao",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806403000",
+      "code": "0806403000",
+      "name": "Hinunangan"
+    }
+  },
+  {
+    "id": "0806403019",
+    "code": "0806403019",
+    "name": "Nava",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806403000",
+      "code": "0806403000",
+      "name": "Hinunangan"
+    }
+  },
+  {
+    "id": "0806403020",
+    "code": "0806403020",
+    "name": "Nueva Esperanza",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806403000",
+      "code": "0806403000",
+      "name": "Hinunangan"
+    }
+  },
+  {
+    "id": "0806403021",
+    "code": "0806403021",
+    "name": "Otama",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806403000",
+      "code": "0806403000",
+      "name": "Hinunangan"
+    }
+  },
+  {
+    "id": "0806403022",
+    "code": "0806403022",
+    "name": "Palongpong",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806403000",
+      "code": "0806403000",
+      "name": "Hinunangan"
+    }
+  },
+  {
+    "id": "0806403023",
+    "code": "0806403023",
+    "name": "Panalaron",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806403000",
+      "code": "0806403000",
+      "name": "Hinunangan"
+    }
+  },
+  {
+    "id": "0806403024",
+    "code": "0806403024",
+    "name": "Patong",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806403000",
+      "code": "0806403000",
+      "name": "Hinunangan"
+    }
+  },
+  {
+    "id": "0806403025",
+    "code": "0806403025",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806403000",
+      "code": "0806403000",
+      "name": "Hinunangan"
+    }
+  },
+  {
+    "id": "0806403026",
+    "code": "0806403026",
+    "name": "Pondol",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806403000",
+      "code": "0806403000",
+      "name": "Hinunangan"
+    }
+  },
+  {
+    "id": "0806403027",
+    "code": "0806403027",
+    "name": "Salog",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806403000",
+      "code": "0806403000",
+      "name": "Hinunangan"
+    }
+  },
+  {
+    "id": "0806403028",
+    "code": "0806403028",
+    "name": "Salvacion",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806403000",
+      "code": "0806403000",
+      "name": "Hinunangan"
+    }
+  },
+  {
+    "id": "0806403029",
+    "code": "0806403029",
+    "name": "San Pablo Island",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806403000",
+      "code": "0806403000",
+      "name": "Hinunangan"
+    }
+  },
+  {
+    "id": "0806403030",
+    "code": "0806403030",
+    "name": "San Pedro Island",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806403000",
+      "code": "0806403000",
+      "name": "Hinunangan"
+    }
+  },
+  {
+    "id": "0806403031",
+    "code": "0806403031",
+    "name": "Santo Niño I",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806403000",
+      "code": "0806403000",
+      "name": "Hinunangan"
+    }
+  },
+  {
+    "id": "0806403032",
+    "code": "0806403032",
+    "name": "Santo Niño II",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806403000",
+      "code": "0806403000",
+      "name": "Hinunangan"
+    }
+  },
+  {
+    "id": "0806403033",
+    "code": "0806403033",
+    "name": "Tahusan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806403000",
+      "code": "0806403000",
+      "name": "Hinunangan"
+    }
+  },
+  {
+    "id": "0806403034",
+    "code": "0806403034",
+    "name": "Talisay",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806403000",
+      "code": "0806403000",
+      "name": "Hinunangan"
+    }
+  },
+  {
+    "id": "0806403035",
+    "code": "0806403035",
+    "name": "Tawog",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806403000",
+      "code": "0806403000",
+      "name": "Hinunangan"
+    }
+  },
+  {
+    "id": "0806403036",
+    "code": "0806403036",
+    "name": "Toptop",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806403000",
+      "code": "0806403000",
+      "name": "Hinunangan"
+    }
+  },
+  {
+    "id": "0806403037",
+    "code": "0806403037",
+    "name": "Tuburan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806403000",
+      "code": "0806403000",
+      "name": "Hinunangan"
+    }
+  },
+  {
+    "id": "0806403038",
+    "code": "0806403038",
+    "name": "Union",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806403000",
+      "code": "0806403000",
+      "name": "Hinunangan"
+    }
+  },
+  {
+    "id": "0806403039",
+    "code": "0806403039",
+    "name": "Upper Bantawon",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806403000",
+      "code": "0806403000",
+      "name": "Hinunangan"
+    }
+  }
+]

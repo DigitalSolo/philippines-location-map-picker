@@ -1,0 +1,422 @@
+[
+  {
+    "id": "1204716001",
+    "code": "1204716001",
+    "name": "Banisilan Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204716000",
+      "code": "1204716000",
+      "name": "Banisilan"
+    }
+  },
+  {
+    "id": "1204716002",
+    "code": "1204716002",
+    "name": "Busaon",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204716000",
+      "code": "1204716000",
+      "name": "Banisilan"
+    }
+  },
+  {
+    "id": "1204716003",
+    "code": "1204716003",
+    "name": "Capayangan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204716000",
+      "code": "1204716000",
+      "name": "Banisilan"
+    }
+  },
+  {
+    "id": "1204716004",
+    "code": "1204716004",
+    "name": "Carugmanan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204716000",
+      "code": "1204716000",
+      "name": "Banisilan"
+    }
+  },
+  {
+    "id": "1204716005",
+    "code": "1204716005",
+    "name": "Gastay",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204716000",
+      "code": "1204716000",
+      "name": "Banisilan"
+    }
+  },
+  {
+    "id": "1204716006",
+    "code": "1204716006",
+    "name": "Kalawaig",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204716000",
+      "code": "1204716000",
+      "name": "Banisilan"
+    }
+  },
+  {
+    "id": "1204716007",
+    "code": "1204716007",
+    "name": "Kiaring",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204716000",
+      "code": "1204716000",
+      "name": "Banisilan"
+    }
+  },
+  {
+    "id": "1204716008",
+    "code": "1204716008",
+    "name": "Malagap",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204716000",
+      "code": "1204716000",
+      "name": "Banisilan"
+    }
+  },
+  {
+    "id": "1204716009",
+    "code": "1204716009",
+    "name": "Malinao",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204716000",
+      "code": "1204716000",
+      "name": "Banisilan"
+    }
+  },
+  {
+    "id": "1204716010",
+    "code": "1204716010",
+    "name": "Miguel Macasarte",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204716000",
+      "code": "1204716000",
+      "name": "Banisilan"
+    }
+  },
+  {
+    "id": "1204716011",
+    "code": "1204716011",
+    "name": "Pantar",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204716000",
+      "code": "1204716000",
+      "name": "Banisilan"
+    }
+  },
+  {
+    "id": "1204716012",
+    "code": "1204716012",
+    "name": "Paradise",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204716000",
+      "code": "1204716000",
+      "name": "Banisilan"
+    }
+  },
+  {
+    "id": "1204716013",
+    "code": "1204716013",
+    "name": "Pinamulaan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204716000",
+      "code": "1204716000",
+      "name": "Banisilan"
+    }
+  },
+  {
+    "id": "1204716014",
+    "code": "1204716014",
+    "name": "Poblacion II",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204716000",
+      "code": "1204716000",
+      "name": "Banisilan"
+    }
+  },
+  {
+    "id": "1204716015",
+    "code": "1204716015",
+    "name": "Puting-bato",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204716000",
+      "code": "1204716000",
+      "name": "Banisilan"
+    }
+  },
+  {
+    "id": "1204716016",
+    "code": "1204716016",
+    "name": "Solama",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204716000",
+      "code": "1204716000",
+      "name": "Banisilan"
+    }
+  },
+  {
+    "id": "1204716017",
+    "code": "1204716017",
+    "name": "Thailand",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204716000",
+      "code": "1204716000",
+      "name": "Banisilan"
+    }
+  },
+  {
+    "id": "1204716018",
+    "code": "1204716018",
+    "name": "Tinimbacan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204716000",
+      "code": "1204716000",
+      "name": "Banisilan"
+    }
+  },
+  {
+    "id": "1204716019",
+    "code": "1204716019",
+    "name": "Tumbao-Camalig",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204716000",
+      "code": "1204716000",
+      "name": "Banisilan"
+    }
+  },
+  {
+    "id": "1204716020",
+    "code": "1204716020",
+    "name": "Wadya",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204716000",
+      "code": "1204716000",
+      "name": "Banisilan"
+    }
+  }
+]

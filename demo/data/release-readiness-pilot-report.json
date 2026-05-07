@@ -1,0 +1,22 @@
+{
+  "generatedAt": "2026-05-07T10:04:16.774Z",
+  "scope": "pilot",
+  "summary": {
+    "coverageLevel": "production-hierarchy-limited-geometry",
+    "productionReady": false,
+    "productionHierarchyReady": true,
+    "productionReverseFillReady": false,
+    "psgcBarangays": 42010,
+    "geometryBarangays": 13,
+    "missingGeometry": 41997,
+    "geometryWithoutPsgc": 0,
+    "geometryComponentGaps": 0,
+    "staticWarnings": 0,
+    "frozenHostApiOk": true
+  },
+  "warnings": [
+    "Pilot/release branch has production PSGC hierarchy but limited geometry. This is acceptable for hierarchy-first publishing."
+  ],
+  "failures": [],
+  "ok": true
+}

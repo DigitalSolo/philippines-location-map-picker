@@ -1,0 +1,482 @@
+[
+  {
+    "id": "0731100001",
+    "code": "0731100001",
+    "name": "Agus",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "city_municipality": {
+      "id": "0731100000",
+      "code": "0731100000",
+      "name": "City of Lapu-Lapu"
+    }
+  },
+  {
+    "id": "0731100002",
+    "code": "0731100002",
+    "name": "Babag",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "city_municipality": {
+      "id": "0731100000",
+      "code": "0731100000",
+      "name": "City of Lapu-Lapu"
+    }
+  },
+  {
+    "id": "0731100003",
+    "code": "0731100003",
+    "name": "Bankal",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "city_municipality": {
+      "id": "0731100000",
+      "code": "0731100000",
+      "name": "City of Lapu-Lapu"
+    }
+  },
+  {
+    "id": "0731100004",
+    "code": "0731100004",
+    "name": "Baring",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "city_municipality": {
+      "id": "0731100000",
+      "code": "0731100000",
+      "name": "City of Lapu-Lapu"
+    }
+  },
+  {
+    "id": "0731100005",
+    "code": "0731100005",
+    "name": "Basak",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "city_municipality": {
+      "id": "0731100000",
+      "code": "0731100000",
+      "name": "City of Lapu-Lapu"
+    }
+  },
+  {
+    "id": "0731100006",
+    "code": "0731100006",
+    "name": "Buaya",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "city_municipality": {
+      "id": "0731100000",
+      "code": "0731100000",
+      "name": "City of Lapu-Lapu"
+    }
+  },
+  {
+    "id": "0731100007",
+    "code": "0731100007",
+    "name": "Calawisan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "city_municipality": {
+      "id": "0731100000",
+      "code": "0731100000",
+      "name": "City of Lapu-Lapu"
+    }
+  },
+  {
+    "id": "0731100008",
+    "code": "0731100008",
+    "name": "Canjulao",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "city_municipality": {
+      "id": "0731100000",
+      "code": "0731100000",
+      "name": "City of Lapu-Lapu"
+    }
+  },
+  {
+    "id": "0731100011",
+    "code": "0731100011",
+    "name": "Caubian",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "city_municipality": {
+      "id": "0731100000",
+      "code": "0731100000",
+      "name": "City of Lapu-Lapu"
+    }
+  },
+  {
+    "id": "0731100009",
+    "code": "0731100009",
+    "name": "Caw-oy",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "city_municipality": {
+      "id": "0731100000",
+      "code": "0731100000",
+      "name": "City of Lapu-Lapu"
+    }
+  },
+  {
+    "id": "0731100010",
+    "code": "0731100010",
+    "name": "Cawhagan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "city_municipality": {
+      "id": "0731100000",
+      "code": "0731100000",
+      "name": "City of Lapu-Lapu"
+    }
+  },
+  {
+    "id": "0731100012",
+    "code": "0731100012",
+    "name": "Gun-ob",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "city_municipality": {
+      "id": "0731100000",
+      "code": "0731100000",
+      "name": "City of Lapu-Lapu"
+    }
+  },
+  {
+    "id": "0731100013",
+    "code": "0731100013",
+    "name": "Ibo",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "city_municipality": {
+      "id": "0731100000",
+      "code": "0731100000",
+      "name": "City of Lapu-Lapu"
+    }
+  },
+  {
+    "id": "0731100014",
+    "code": "0731100014",
+    "name": "Looc",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "city_municipality": {
+      "id": "0731100000",
+      "code": "0731100000",
+      "name": "City of Lapu-Lapu"
+    }
+  },
+  {
+    "id": "0731100015",
+    "code": "0731100015",
+    "name": "Mactan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "city_municipality": {
+      "id": "0731100000",
+      "code": "0731100000",
+      "name": "City of Lapu-Lapu"
+    }
+  },
+  {
+    "id": "0731100016",
+    "code": "0731100016",
+    "name": "Maribago",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "city_municipality": {
+      "id": "0731100000",
+      "code": "0731100000",
+      "name": "City of Lapu-Lapu"
+    }
+  },
+  {
+    "id": "0731100017",
+    "code": "0731100017",
+    "name": "Marigondon",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "city_municipality": {
+      "id": "0731100000",
+      "code": "0731100000",
+      "name": "City of Lapu-Lapu"
+    }
+  },
+  {
+    "id": "0731100018",
+    "code": "0731100018",
+    "name": "Pajac",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "city_municipality": {
+      "id": "0731100000",
+      "code": "0731100000",
+      "name": "City of Lapu-Lapu"
+    }
+  },
+  {
+    "id": "0731100019",
+    "code": "0731100019",
+    "name": "Pajo",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "city_municipality": {
+      "id": "0731100000",
+      "code": "0731100000",
+      "name": "City of Lapu-Lapu"
+    }
+  },
+  {
+    "id": "0731100020",
+    "code": "0731100020",
+    "name": "Pangan-an",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "city_municipality": {
+      "id": "0731100000",
+      "code": "0731100000",
+      "name": "City of Lapu-Lapu"
+    }
+  },
+  {
+    "id": "0731100021",
+    "code": "0731100021",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "city_municipality": {
+      "id": "0731100000",
+      "code": "0731100000",
+      "name": "City of Lapu-Lapu"
+    }
+  },
+  {
+    "id": "0731100022",
+    "code": "0731100022",
+    "name": "Punta Engaño",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "city_municipality": {
+      "id": "0731100000",
+      "code": "0731100000",
+      "name": "City of Lapu-Lapu"
+    }
+  },
+  {
+    "id": "0731100024",
+    "code": "0731100024",
+    "name": "Pusok",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "city_municipality": {
+      "id": "0731100000",
+      "code": "0731100000",
+      "name": "City of Lapu-Lapu"
+    }
+  },
+  {
+    "id": "0731100025",
+    "code": "0731100025",
+    "name": "Sabang",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "city_municipality": {
+      "id": "0731100000",
+      "code": "0731100000",
+      "name": "City of Lapu-Lapu"
+    }
+  },
+  {
+    "id": "0731100031",
+    "code": "0731100031",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "city_municipality": {
+      "id": "0731100000",
+      "code": "0731100000",
+      "name": "City of Lapu-Lapu"
+    }
+  },
+  {
+    "id": "0731100026",
+    "code": "0731100026",
+    "name": "Santa Rosa",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "city_municipality": {
+      "id": "0731100000",
+      "code": "0731100000",
+      "name": "City of Lapu-Lapu"
+    }
+  },
+  {
+    "id": "0731100027",
+    "code": "0731100027",
+    "name": "Subabasbas",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "city_municipality": {
+      "id": "0731100000",
+      "code": "0731100000",
+      "name": "City of Lapu-Lapu"
+    }
+  },
+  {
+    "id": "0731100028",
+    "code": "0731100028",
+    "name": "Talima",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "city_municipality": {
+      "id": "0731100000",
+      "code": "0731100000",
+      "name": "City of Lapu-Lapu"
+    }
+  },
+  {
+    "id": "0731100029",
+    "code": "0731100029",
+    "name": "Tingo",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "city_municipality": {
+      "id": "0731100000",
+      "code": "0731100000",
+      "name": "City of Lapu-Lapu"
+    }
+  },
+  {
+    "id": "0731100030",
+    "code": "0731100030",
+    "name": "Tungasan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "city_municipality": {
+      "id": "0731100000",
+      "code": "0731100000",
+      "name": "City of Lapu-Lapu"
+    }
+  }
+]

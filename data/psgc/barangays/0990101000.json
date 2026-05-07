@@ -1,0 +1,947 @@
+[
+  {
+    "id": "0990101002",
+    "code": "0990101002",
+    "name": "Aguada",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0990100000",
+      "code": "0990100000",
+      "name": "City of Isabela (Not a Province)"
+    },
+    "city_municipality": {
+      "id": "0990101000",
+      "code": "0990101000",
+      "name": "City of Isabela"
+    }
+  },
+  {
+    "id": "0990101004",
+    "code": "0990101004",
+    "name": "Balatanay",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0990100000",
+      "code": "0990100000",
+      "name": "City of Isabela (Not a Province)"
+    },
+    "city_municipality": {
+      "id": "0990101000",
+      "code": "0990101000",
+      "name": "City of Isabela"
+    }
+  },
+  {
+    "id": "0990101005",
+    "code": "0990101005",
+    "name": "Baluno",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0990100000",
+      "code": "0990100000",
+      "name": "City of Isabela (Not a Province)"
+    },
+    "city_municipality": {
+      "id": "0990101000",
+      "code": "0990101000",
+      "name": "City of Isabela"
+    }
+  },
+  {
+    "id": "0990101006",
+    "code": "0990101006",
+    "name": "Begang",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0990100000",
+      "code": "0990100000",
+      "name": "City of Isabela (Not a Province)"
+    },
+    "city_municipality": {
+      "id": "0990101000",
+      "code": "0990101000",
+      "name": "City of Isabela"
+    }
+  },
+  {
+    "id": "0990101007",
+    "code": "0990101007",
+    "name": "Binuangan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0990100000",
+      "code": "0990100000",
+      "name": "City of Isabela (Not a Province)"
+    },
+    "city_municipality": {
+      "id": "0990101000",
+      "code": "0990101000",
+      "name": "City of Isabela"
+    }
+  },
+  {
+    "id": "0990101008",
+    "code": "0990101008",
+    "name": "Busay",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0990100000",
+      "code": "0990100000",
+      "name": "City of Isabela (Not a Province)"
+    },
+    "city_municipality": {
+      "id": "0990101000",
+      "code": "0990101000",
+      "name": "City of Isabela"
+    }
+  },
+  {
+    "id": "0990101010",
+    "code": "0990101010",
+    "name": "Cabunbata",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0990100000",
+      "code": "0990100000",
+      "name": "City of Isabela (Not a Province)"
+    },
+    "city_municipality": {
+      "id": "0990101000",
+      "code": "0990101000",
+      "name": "City of Isabela"
+    }
+  },
+  {
+    "id": "0990101011",
+    "code": "0990101011",
+    "name": "Calvario",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0990100000",
+      "code": "0990100000",
+      "name": "City of Isabela (Not a Province)"
+    },
+    "city_municipality": {
+      "id": "0990101000",
+      "code": "0990101000",
+      "name": "City of Isabela"
+    }
+  },
+  {
+    "id": "0990101012",
+    "code": "0990101012",
+    "name": "Carbon",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0990100000",
+      "code": "0990100000",
+      "name": "City of Isabela (Not a Province)"
+    },
+    "city_municipality": {
+      "id": "0990101000",
+      "code": "0990101000",
+      "name": "City of Isabela"
+    }
+  },
+  {
+    "id": "0990101013",
+    "code": "0990101013",
+    "name": "Diki",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0990100000",
+      "code": "0990100000",
+      "name": "City of Isabela (Not a Province)"
+    },
+    "city_municipality": {
+      "id": "0990101000",
+      "code": "0990101000",
+      "name": "City of Isabela"
+    }
+  },
+  {
+    "id": "0990101016",
+    "code": "0990101016",
+    "name": "Dona Ramona T. Alano",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0990100000",
+      "code": "0990100000",
+      "name": "City of Isabela (Not a Province)"
+    },
+    "city_municipality": {
+      "id": "0990101000",
+      "code": "0990101000",
+      "name": "City of Isabela"
+    }
+  },
+  {
+    "id": "0990101014",
+    "code": "0990101014",
+    "name": "Isabela Eastside",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0990100000",
+      "code": "0990100000",
+      "name": "City of Isabela (Not a Province)"
+    },
+    "city_municipality": {
+      "id": "0990101000",
+      "code": "0990101000",
+      "name": "City of Isabela"
+    }
+  },
+  {
+    "id": "0990101015",
+    "code": "0990101015",
+    "name": "Isabela Proper",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0990100000",
+      "code": "0990100000",
+      "name": "City of Isabela (Not a Province)"
+    },
+    "city_municipality": {
+      "id": "0990101000",
+      "code": "0990101000",
+      "name": "City of Isabela"
+    }
+  },
+  {
+    "id": "0990101017",
+    "code": "0990101017",
+    "name": "Kapatagan Grande",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0990100000",
+      "code": "0990100000",
+      "name": "City of Isabela (Not a Province)"
+    },
+    "city_municipality": {
+      "id": "0990101000",
+      "code": "0990101000",
+      "name": "City of Isabela"
+    }
+  },
+  {
+    "id": "0990101057",
+    "code": "0990101057",
+    "name": "Kapayawan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0990100000",
+      "code": "0990100000",
+      "name": "City of Isabela (Not a Province)"
+    },
+    "city_municipality": {
+      "id": "0990101000",
+      "code": "0990101000",
+      "name": "City of Isabela"
+    }
+  },
+  {
+    "id": "0990101018",
+    "code": "0990101018",
+    "name": "Kaumpurnah Zone I",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0990100000",
+      "code": "0990100000",
+      "name": "City of Isabela (Not a Province)"
+    },
+    "city_municipality": {
+      "id": "0990101000",
+      "code": "0990101000",
+      "name": "City of Isabela"
+    }
+  },
+  {
+    "id": "0990101019",
+    "code": "0990101019",
+    "name": "Kaumpurnah Zone II",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0990100000",
+      "code": "0990100000",
+      "name": "City of Isabela (Not a Province)"
+    },
+    "city_municipality": {
+      "id": "0990101000",
+      "code": "0990101000",
+      "name": "City of Isabela"
+    }
+  },
+  {
+    "id": "0990101020",
+    "code": "0990101020",
+    "name": "Kaumpurnah Zone III",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0990100000",
+      "code": "0990100000",
+      "name": "City of Isabela (Not a Province)"
+    },
+    "city_municipality": {
+      "id": "0990101000",
+      "code": "0990101000",
+      "name": "City of Isabela"
+    }
+  },
+  {
+    "id": "0990101021",
+    "code": "0990101021",
+    "name": "Kumalarang",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0990100000",
+      "code": "0990100000",
+      "name": "City of Isabela (Not a Province)"
+    },
+    "city_municipality": {
+      "id": "0990101000",
+      "code": "0990101000",
+      "name": "City of Isabela"
+    }
+  },
+  {
+    "id": "0990101022",
+    "code": "0990101022",
+    "name": "La Piedad",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0990100000",
+      "code": "0990100000",
+      "name": "City of Isabela (Not a Province)"
+    },
+    "city_municipality": {
+      "id": "0990101000",
+      "code": "0990101000",
+      "name": "City of Isabela"
+    }
+  },
+  {
+    "id": "0990101023",
+    "code": "0990101023",
+    "name": "Lampinigan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0990100000",
+      "code": "0990100000",
+      "name": "City of Isabela (Not a Province)"
+    },
+    "city_municipality": {
+      "id": "0990101000",
+      "code": "0990101000",
+      "name": "City of Isabela"
+    }
+  },
+  {
+    "id": "0990101024",
+    "code": "0990101024",
+    "name": "Lanote",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0990100000",
+      "code": "0990100000",
+      "name": "City of Isabela (Not a Province)"
+    },
+    "city_municipality": {
+      "id": "0990101000",
+      "code": "0990101000",
+      "name": "City of Isabela"
+    }
+  },
+  {
+    "id": "0990101027",
+    "code": "0990101027",
+    "name": "Lukbuton",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0990100000",
+      "code": "0990100000",
+      "name": "City of Isabela (Not a Province)"
+    },
+    "city_municipality": {
+      "id": "0990101000",
+      "code": "0990101000",
+      "name": "City of Isabela"
+    }
+  },
+  {
+    "id": "0990101029",
+    "code": "0990101029",
+    "name": "Lumbang",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0990100000",
+      "code": "0990100000",
+      "name": "City of Isabela (Not a Province)"
+    },
+    "city_municipality": {
+      "id": "0990101000",
+      "code": "0990101000",
+      "name": "City of Isabela"
+    }
+  },
+  {
+    "id": "0990101030",
+    "code": "0990101030",
+    "name": "Makiri",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0990100000",
+      "code": "0990100000",
+      "name": "City of Isabela (Not a Province)"
+    },
+    "city_municipality": {
+      "id": "0990101000",
+      "code": "0990101000",
+      "name": "City of Isabela"
+    }
+  },
+  {
+    "id": "0990101031",
+    "code": "0990101031",
+    "name": "Maligue",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0990100000",
+      "code": "0990100000",
+      "name": "City of Isabela (Not a Province)"
+    },
+    "city_municipality": {
+      "id": "0990101000",
+      "code": "0990101000",
+      "name": "City of Isabela"
+    }
+  },
+  {
+    "id": "0990101033",
+    "code": "0990101033",
+    "name": "Marang-marang",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0990100000",
+      "code": "0990100000",
+      "name": "City of Isabela (Not a Province)"
+    },
+    "city_municipality": {
+      "id": "0990101000",
+      "code": "0990101000",
+      "name": "City of Isabela"
+    }
+  },
+  {
+    "id": "0990101034",
+    "code": "0990101034",
+    "name": "Marketsite",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0990100000",
+      "code": "0990100000",
+      "name": "City of Isabela (Not a Province)"
+    },
+    "city_municipality": {
+      "id": "0990101000",
+      "code": "0990101000",
+      "name": "City of Isabela"
+    }
+  },
+  {
+    "id": "0990101058",
+    "code": "0990101058",
+    "name": "Masula",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0990100000",
+      "code": "0990100000",
+      "name": "City of Isabela (Not a Province)"
+    },
+    "city_municipality": {
+      "id": "0990101000",
+      "code": "0990101000",
+      "name": "City of Isabela"
+    }
+  },
+  {
+    "id": "0990101036",
+    "code": "0990101036",
+    "name": "Menzi",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0990100000",
+      "code": "0990100000",
+      "name": "City of Isabela (Not a Province)"
+    },
+    "city_municipality": {
+      "id": "0990101000",
+      "code": "0990101000",
+      "name": "City of Isabela"
+    }
+  },
+  {
+    "id": "0990101038",
+    "code": "0990101038",
+    "name": "Panigayan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0990100000",
+      "code": "0990100000",
+      "name": "City of Isabela (Not a Province)"
+    },
+    "city_municipality": {
+      "id": "0990101000",
+      "code": "0990101000",
+      "name": "City of Isabela"
+    }
+  },
+  {
+    "id": "0990101039",
+    "code": "0990101039",
+    "name": "Panunsulan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0990100000",
+      "code": "0990100000",
+      "name": "City of Isabela (Not a Province)"
+    },
+    "city_municipality": {
+      "id": "0990101000",
+      "code": "0990101000",
+      "name": "City of Isabela"
+    }
+  },
+  {
+    "id": "0990101040",
+    "code": "0990101040",
+    "name": "Port Area",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0990100000",
+      "code": "0990100000",
+      "name": "City of Isabela (Not a Province)"
+    },
+    "city_municipality": {
+      "id": "0990101000",
+      "code": "0990101000",
+      "name": "City of Isabela"
+    }
+  },
+  {
+    "id": "0990101041",
+    "code": "0990101041",
+    "name": "Riverside",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0990100000",
+      "code": "0990100000",
+      "name": "City of Isabela (Not a Province)"
+    },
+    "city_municipality": {
+      "id": "0990101000",
+      "code": "0990101000",
+      "name": "City of Isabela"
+    }
+  },
+  {
+    "id": "0990101042",
+    "code": "0990101042",
+    "name": "San Rafael",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0990100000",
+      "code": "0990100000",
+      "name": "City of Isabela (Not a Province)"
+    },
+    "city_municipality": {
+      "id": "0990101000",
+      "code": "0990101000",
+      "name": "City of Isabela"
+    }
+  },
+  {
+    "id": "0990101043",
+    "code": "0990101043",
+    "name": "Santa Barbara",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0990100000",
+      "code": "0990100000",
+      "name": "City of Isabela (Not a Province)"
+    },
+    "city_municipality": {
+      "id": "0990101000",
+      "code": "0990101000",
+      "name": "City of Isabela"
+    }
+  },
+  {
+    "id": "0990101044",
+    "code": "0990101044",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0990100000",
+      "code": "0990100000",
+      "name": "City of Isabela (Not a Province)"
+    },
+    "city_municipality": {
+      "id": "0990101000",
+      "code": "0990101000",
+      "name": "City of Isabela"
+    }
+  },
+  {
+    "id": "0990101045",
+    "code": "0990101045",
+    "name": "Seaside",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0990100000",
+      "code": "0990100000",
+      "name": "City of Isabela (Not a Province)"
+    },
+    "city_municipality": {
+      "id": "0990101000",
+      "code": "0990101000",
+      "name": "City of Isabela"
+    }
+  },
+  {
+    "id": "0990101059",
+    "code": "0990101059",
+    "name": "Small Kapatagan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0990100000",
+      "code": "0990100000",
+      "name": "City of Isabela (Not a Province)"
+    },
+    "city_municipality": {
+      "id": "0990101000",
+      "code": "0990101000",
+      "name": "City of Isabela"
+    }
+  },
+  {
+    "id": "0990101047",
+    "code": "0990101047",
+    "name": "Sumagdang",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0990100000",
+      "code": "0990100000",
+      "name": "City of Isabela (Not a Province)"
+    },
+    "city_municipality": {
+      "id": "0990101000",
+      "code": "0990101000",
+      "name": "City of Isabela"
+    }
+  },
+  {
+    "id": "0990101049",
+    "code": "0990101049",
+    "name": "Sunrise Village",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0990100000",
+      "code": "0990100000",
+      "name": "City of Isabela (Not a Province)"
+    },
+    "city_municipality": {
+      "id": "0990101000",
+      "code": "0990101000",
+      "name": "City of Isabela"
+    }
+  },
+  {
+    "id": "0990101050",
+    "code": "0990101050",
+    "name": "Tabiawan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0990100000",
+      "code": "0990100000",
+      "name": "City of Isabela (Not a Province)"
+    },
+    "city_municipality": {
+      "id": "0990101000",
+      "code": "0990101000",
+      "name": "City of Isabela"
+    }
+  },
+  {
+    "id": "0990101051",
+    "code": "0990101051",
+    "name": "Tabuk",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0990100000",
+      "code": "0990100000",
+      "name": "City of Isabela (Not a Province)"
+    },
+    "city_municipality": {
+      "id": "0990101000",
+      "code": "0990101000",
+      "name": "City of Isabela"
+    }
+  },
+  {
+    "id": "0990101060",
+    "code": "0990101060",
+    "name": "Tampalan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0990100000",
+      "code": "0990100000",
+      "name": "City of Isabela (Not a Province)"
+    },
+    "city_municipality": {
+      "id": "0990101000",
+      "code": "0990101000",
+      "name": "City of Isabela"
+    }
+  },
+  {
+    "id": "0990101055",
+    "code": "0990101055",
+    "name": "Timpul",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0990100000",
+      "code": "0990100000",
+      "name": "City of Isabela (Not a Province)"
+    },
+    "city_municipality": {
+      "id": "0990101000",
+      "code": "0990101000",
+      "name": "City of Isabela"
+    }
+  }
+]

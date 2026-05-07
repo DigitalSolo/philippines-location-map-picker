@@ -1,0 +1,422 @@
+[
+  {
+    "id": "0601902001",
+    "code": "0601902001",
+    "name": "Aganan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601902000",
+      "code": "0601902000",
+      "name": "Dao"
+    }
+  },
+  {
+    "id": "0601902002",
+    "code": "0601902002",
+    "name": "Agtambi",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601902000",
+      "code": "0601902000",
+      "name": "Dao"
+    }
+  },
+  {
+    "id": "0601902003",
+    "code": "0601902003",
+    "name": "Agtanguay",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601902000",
+      "code": "0601902000",
+      "name": "Dao"
+    }
+  },
+  {
+    "id": "0601902004",
+    "code": "0601902004",
+    "name": "Balucuan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601902000",
+      "code": "0601902000",
+      "name": "Dao"
+    }
+  },
+  {
+    "id": "0601902005",
+    "code": "0601902005",
+    "name": "Bita",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601902000",
+      "code": "0601902000",
+      "name": "Dao"
+    }
+  },
+  {
+    "id": "0601902006",
+    "code": "0601902006",
+    "name": "Centro",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601902000",
+      "code": "0601902000",
+      "name": "Dao"
+    }
+  },
+  {
+    "id": "0601902007",
+    "code": "0601902007",
+    "name": "Daplas",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601902000",
+      "code": "0601902000",
+      "name": "Dao"
+    }
+  },
+  {
+    "id": "0601902008",
+    "code": "0601902008",
+    "name": "Duyoc",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601902000",
+      "code": "0601902000",
+      "name": "Dao"
+    }
+  },
+  {
+    "id": "0601902009",
+    "code": "0601902009",
+    "name": "Ilas Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601902000",
+      "code": "0601902000",
+      "name": "Dao"
+    }
+  },
+  {
+    "id": "0601902012",
+    "code": "0601902012",
+    "name": "Lacaron",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601902000",
+      "code": "0601902000",
+      "name": "Dao"
+    }
+  },
+  {
+    "id": "0601902013",
+    "code": "0601902013",
+    "name": "Malonoy",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601902000",
+      "code": "0601902000",
+      "name": "Dao"
+    }
+  },
+  {
+    "id": "0601902014",
+    "code": "0601902014",
+    "name": "Manhoy",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601902000",
+      "code": "0601902000",
+      "name": "Dao"
+    }
+  },
+  {
+    "id": "0601902015",
+    "code": "0601902015",
+    "name": "Mapulang Bato",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601902000",
+      "code": "0601902000",
+      "name": "Dao"
+    }
+  },
+  {
+    "id": "0601902016",
+    "code": "0601902016",
+    "name": "Matagnop",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601902000",
+      "code": "0601902000",
+      "name": "Dao"
+    }
+  },
+  {
+    "id": "0601902017",
+    "code": "0601902017",
+    "name": "Nasunogan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601902000",
+      "code": "0601902000",
+      "name": "Dao"
+    }
+  },
+  {
+    "id": "0601902018",
+    "code": "0601902018",
+    "name": "Poblacion Ilawod",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601902000",
+      "code": "0601902000",
+      "name": "Dao"
+    }
+  },
+  {
+    "id": "0601902019",
+    "code": "0601902019",
+    "name": "Poblacion Ilaya",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601902000",
+      "code": "0601902000",
+      "name": "Dao"
+    }
+  },
+  {
+    "id": "0601902020",
+    "code": "0601902020",
+    "name": "Quinabcaban",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601902000",
+      "code": "0601902000",
+      "name": "Dao"
+    }
+  },
+  {
+    "id": "0601902021",
+    "code": "0601902021",
+    "name": "Quinayuya",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601902000",
+      "code": "0601902000",
+      "name": "Dao"
+    }
+  },
+  {
+    "id": "0601902022",
+    "code": "0601902022",
+    "name": "San Agustin",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601902000",
+      "code": "0601902000",
+      "name": "Dao"
+    }
+  }
+]

@@ -1,0 +1,653 @@
+[
+  {
+    "id": "1705320001",
+    "code": "1705320001",
+    "name": "Abongan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705320000",
+      "code": "1705320000",
+      "name": "Taytay"
+    }
+  },
+  {
+    "id": "1705320025",
+    "code": "1705320025",
+    "name": "Alacalian",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705320000",
+      "code": "1705320000",
+      "name": "Taytay"
+    }
+  },
+  {
+    "id": "1705320002",
+    "code": "1705320002",
+    "name": "Banbanan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705320000",
+      "code": "1705320000",
+      "name": "Taytay"
+    }
+  },
+  {
+    "id": "1705320003",
+    "code": "1705320003",
+    "name": "Bantulan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705320000",
+      "code": "1705320000",
+      "name": "Taytay"
+    }
+  },
+  {
+    "id": "1705320026",
+    "code": "1705320026",
+    "name": "Baras",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705320000",
+      "code": "1705320000",
+      "name": "Taytay"
+    }
+  },
+  {
+    "id": "1705320004",
+    "code": "1705320004",
+    "name": "Batas",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705320000",
+      "code": "1705320000",
+      "name": "Taytay"
+    }
+  },
+  {
+    "id": "1705320005",
+    "code": "1705320005",
+    "name": "Bato",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705320000",
+      "code": "1705320000",
+      "name": "Taytay"
+    }
+  },
+  {
+    "id": "1705320006",
+    "code": "1705320006",
+    "name": "Beton",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705320000",
+      "code": "1705320000",
+      "name": "Taytay"
+    }
+  },
+  {
+    "id": "1705320007",
+    "code": "1705320007",
+    "name": "Busy Bees",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705320000",
+      "code": "1705320000",
+      "name": "Taytay"
+    }
+  },
+  {
+    "id": "1705320008",
+    "code": "1705320008",
+    "name": "Calawag",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705320000",
+      "code": "1705320000",
+      "name": "Taytay"
+    }
+  },
+  {
+    "id": "1705320009",
+    "code": "1705320009",
+    "name": "Casian",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705320000",
+      "code": "1705320000",
+      "name": "Taytay"
+    }
+  },
+  {
+    "id": "1705320010",
+    "code": "1705320010",
+    "name": "Cataban",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705320000",
+      "code": "1705320000",
+      "name": "Taytay"
+    }
+  },
+  {
+    "id": "1705320011",
+    "code": "1705320011",
+    "name": "Debangan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705320000",
+      "code": "1705320000",
+      "name": "Taytay"
+    }
+  },
+  {
+    "id": "1705320012",
+    "code": "1705320012",
+    "name": "Depla",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705320000",
+      "code": "1705320000",
+      "name": "Taytay"
+    }
+  },
+  {
+    "id": "1705320027",
+    "code": "1705320027",
+    "name": "Libertad",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705320000",
+      "code": "1705320000",
+      "name": "Taytay"
+    }
+  },
+  {
+    "id": "1705320013",
+    "code": "1705320013",
+    "name": "Liminangcong",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705320000",
+      "code": "1705320000",
+      "name": "Taytay"
+    }
+  },
+  {
+    "id": "1705320014",
+    "code": "1705320014",
+    "name": "Maytegued",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705320000",
+      "code": "1705320000",
+      "name": "Taytay"
+    }
+  },
+  {
+    "id": "1705320028",
+    "code": "1705320028",
+    "name": "Minapla",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705320000",
+      "code": "1705320000",
+      "name": "Taytay"
+    }
+  },
+  {
+    "id": "1705320015",
+    "code": "1705320015",
+    "name": "New Guinlo",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705320000",
+      "code": "1705320000",
+      "name": "Taytay"
+    }
+  },
+  {
+    "id": "1705320016",
+    "code": "1705320016",
+    "name": "Old Guinlo",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705320000",
+      "code": "1705320000",
+      "name": "Taytay"
+    }
+  },
+  {
+    "id": "1705320031",
+    "code": "1705320031",
+    "name": "Paglaum",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705320000",
+      "code": "1705320000",
+      "name": "Taytay"
+    }
+  },
+  {
+    "id": "1705320019",
+    "code": "1705320019",
+    "name": "Paly",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705320000",
+      "code": "1705320000",
+      "name": "Taytay"
+    }
+  },
+  {
+    "id": "1705320017",
+    "code": "1705320017",
+    "name": "Pamantolon",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705320000",
+      "code": "1705320000",
+      "name": "Taytay"
+    }
+  },
+  {
+    "id": "1705320018",
+    "code": "1705320018",
+    "name": "Pancol",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705320000",
+      "code": "1705320000",
+      "name": "Taytay"
+    }
+  },
+  {
+    "id": "1705320020",
+    "code": "1705320020",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705320000",
+      "code": "1705320000",
+      "name": "Taytay"
+    }
+  },
+  {
+    "id": "1705320021",
+    "code": "1705320021",
+    "name": "Pularaquen",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705320000",
+      "code": "1705320000",
+      "name": "Taytay"
+    }
+  },
+  {
+    "id": "1705320022",
+    "code": "1705320022",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705320000",
+      "code": "1705320000",
+      "name": "Taytay"
+    }
+  },
+  {
+    "id": "1705320023",
+    "code": "1705320023",
+    "name": "Sandoval",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705320000",
+      "code": "1705320000",
+      "name": "Taytay"
+    }
+  },
+  {
+    "id": "1705320024",
+    "code": "1705320024",
+    "name": "Silanga",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705320000",
+      "code": "1705320000",
+      "name": "Taytay"
+    }
+  },
+  {
+    "id": "1705320029",
+    "code": "1705320029",
+    "name": "Talog",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705320000",
+      "code": "1705320000",
+      "name": "Taytay"
+    }
+  },
+  {
+    "id": "1705320030",
+    "code": "1705320030",
+    "name": "Tumbod",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705300000",
+      "code": "1705300000",
+      "name": "Palawan"
+    },
+    "city_municipality": {
+      "id": "1705320000",
+      "code": "1705320000",
+      "name": "Taytay"
+    }
+  }
+]

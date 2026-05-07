@@ -1,0 +1,94 @@
+{
+  "generatedAt": "2026-05-07T10:04:16.469Z",
+  "packageName": "philippines-location-map-picker",
+  "packageVersion": "1.0.62",
+  "summary": {
+    "total": 10,
+    "passed": 10,
+    "failed": 0
+  },
+  "checks": [
+    {
+      "id": "package_exports_entrypoints",
+      "label": "Package entrypoints are exported",
+      "pass": true,
+      "message": "package.json exports ESM, UMD, types, and CSS entrypoints.",
+      "details": {}
+    },
+    {
+      "id": "dist_artifacts_exist",
+      "label": "Dist artifacts exist",
+      "pass": true,
+      "message": "Built ESM, UMD, and CSS files are present.",
+      "details": {}
+    },
+    {
+      "id": "host_config_exported",
+      "label": "Host config helper is exported",
+      "pass": true,
+      "message": "The generic host configuration helper and its types are exposed from the public entrypoint.",
+      "details": {}
+    },
+    {
+      "id": "explicit_base_url_required",
+      "label": "Explicit baseUrl required",
+      "pass": true,
+      "message": "Static host consumption requires the caller to provide the package data base URL.",
+      "details": {}
+    },
+    {
+      "id": "no_demo_leaks_in_dist",
+      "label": "No demo-only assumptions in dist",
+      "pass": true,
+      "message": "No known demo-only markers were found in dist.",
+      "details": {
+        "hits": []
+      }
+    },
+    {
+      "id": "no_hard_coded_vendor_base_in_src",
+      "label": "No hard-coded host vendor base in source",
+      "pass": true,
+      "message": "Source helpers leave vendor paths to the host application.",
+      "details": {
+        "hits": []
+      }
+    },
+    {
+      "id": "host_field_contract_documented",
+      "label": "Host field contract documented",
+      "pass": true,
+      "message": "Package-owned submit fields are documented.",
+      "details": {
+        "fields": [
+          "barangay_id",
+          "pin_lat",
+          "pin_lng",
+          "location_picker_value_json",
+          "location_picker_validation_json"
+        ]
+      }
+    },
+    {
+      "id": "sukimart_vendor_path_documented",
+      "label": "SukiMart vendor path documented",
+      "pass": true,
+      "message": "SukiMart checklist documents the local vendor path and authoritative barangay_id storage.",
+      "details": {}
+    },
+    {
+      "id": "no_delivery_rules_in_package",
+      "label": "No host business rules in package source",
+      "pass": true,
+      "message": "Package source remains limited to picking, pinning, reverse-fill, validation, and submit serialization.",
+      "details": {}
+    },
+    {
+      "id": "vendor_consumption_doc_exists",
+      "label": "Vendor consumption doc exists",
+      "pass": true,
+      "message": "docs/vendor-consumption.md documents the generic host-consumption flow.",
+      "details": {}
+    }
+  ]
+}

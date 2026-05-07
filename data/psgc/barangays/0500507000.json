@@ -1,0 +1,989 @@
+[
+  {
+    "id": "0500507001",
+    "code": "0500507001",
+    "name": "Alongong",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  },
+  {
+    "id": "0500507002",
+    "code": "0500507002",
+    "name": "Apud",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  },
+  {
+    "id": "0500507003",
+    "code": "0500507003",
+    "name": "Bacolod",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  },
+  {
+    "id": "0500507011",
+    "code": "0500507011",
+    "name": "Bariw",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  },
+  {
+    "id": "0500507012",
+    "code": "0500507012",
+    "name": "Bonbon",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  },
+  {
+    "id": "0500507013",
+    "code": "0500507013",
+    "name": "Buga",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  },
+  {
+    "id": "0500507014",
+    "code": "0500507014",
+    "name": "Bulusan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  },
+  {
+    "id": "0500507015",
+    "code": "0500507015",
+    "name": "Burabod",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  },
+  {
+    "id": "0500507016",
+    "code": "0500507016",
+    "name": "Caguscos",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  },
+  {
+    "id": "0500507017",
+    "code": "0500507017",
+    "name": "East Carisac",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  },
+  {
+    "id": "0500507019",
+    "code": "0500507019",
+    "name": "Harigue",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  },
+  {
+    "id": "0500507020",
+    "code": "0500507020",
+    "name": "Libtong",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  },
+  {
+    "id": "0500507021",
+    "code": "0500507021",
+    "name": "Linao",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  },
+  {
+    "id": "0500507022",
+    "code": "0500507022",
+    "name": "Mabayawas",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  },
+  {
+    "id": "0500507023",
+    "code": "0500507023",
+    "name": "Macabugos",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  },
+  {
+    "id": "0500507024",
+    "code": "0500507024",
+    "name": "Magallang",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  },
+  {
+    "id": "0500507025",
+    "code": "0500507025",
+    "name": "Malabiga",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  },
+  {
+    "id": "0500507026",
+    "code": "0500507026",
+    "name": "Marayag",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  },
+  {
+    "id": "0500507027",
+    "code": "0500507027",
+    "name": "Matara",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  },
+  {
+    "id": "0500507028",
+    "code": "0500507028",
+    "name": "Molosbolos",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  },
+  {
+    "id": "0500507029",
+    "code": "0500507029",
+    "name": "Natasan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  },
+  {
+    "id": "0500507045",
+    "code": "0500507045",
+    "name": "Niño Jesus",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  },
+  {
+    "id": "0500507030",
+    "code": "0500507030",
+    "name": "Nogpo",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  },
+  {
+    "id": "0500507031",
+    "code": "0500507031",
+    "name": "Pantao",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  },
+  {
+    "id": "0500507033",
+    "code": "0500507033",
+    "name": "Rawis",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  },
+  {
+    "id": "0500507034",
+    "code": "0500507034",
+    "name": "Sagrada Familia",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  },
+  {
+    "id": "0500507035",
+    "code": "0500507035",
+    "name": "Salvacion",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  },
+  {
+    "id": "0500507036",
+    "code": "0500507036",
+    "name": "Sampongan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  },
+  {
+    "id": "0500507037",
+    "code": "0500507037",
+    "name": "San Agustin",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  },
+  {
+    "id": "0500507038",
+    "code": "0500507038",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  },
+  {
+    "id": "0500507039",
+    "code": "0500507039",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  },
+  {
+    "id": "0500507040",
+    "code": "0500507040",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  },
+  {
+    "id": "0500507041",
+    "code": "0500507041",
+    "name": "San Pascual",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  },
+  {
+    "id": "0500507042",
+    "code": "0500507042",
+    "name": "San Ramon",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  },
+  {
+    "id": "0500507043",
+    "code": "0500507043",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  },
+  {
+    "id": "0500507044",
+    "code": "0500507044",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  },
+  {
+    "id": "0500507046",
+    "code": "0500507046",
+    "name": "Talin-talin",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  },
+  {
+    "id": "0500507047",
+    "code": "0500507047",
+    "name": "Tambo",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  },
+  {
+    "id": "0500507049",
+    "code": "0500507049",
+    "name": "Villa Petrona",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  },
+  {
+    "id": "0500507018",
+    "code": "0500507018",
+    "name": "West Carisac",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  },
+  {
+    "id": "0500507004",
+    "code": "0500507004",
+    "name": "Zone I",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  },
+  {
+    "id": "0500507005",
+    "code": "0500507005",
+    "name": "Zone II",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  },
+  {
+    "id": "0500507006",
+    "code": "0500507006",
+    "name": "Zone III",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  },
+  {
+    "id": "0500507007",
+    "code": "0500507007",
+    "name": "Zone IV",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  },
+  {
+    "id": "0500507008",
+    "code": "0500507008",
+    "name": "Zone V",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  },
+  {
+    "id": "0500507009",
+    "code": "0500507009",
+    "name": "Zone VI",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  },
+  {
+    "id": "0500507010",
+    "code": "0500507010",
+    "name": "Zone VII",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0500500000",
+      "code": "0500500000",
+      "name": "Albay"
+    },
+    "city_municipality": {
+      "id": "0500507000",
+      "code": "0500507000",
+      "name": "Libon"
+    }
+  }
+]

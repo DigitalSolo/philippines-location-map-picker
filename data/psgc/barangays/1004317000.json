@@ -1,0 +1,527 @@
+[
+  {
+    "id": "1004317001",
+    "code": "1004317001",
+    "name": "Abunda",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004317000",
+      "code": "1004317000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1004317002",
+    "code": "1004317002",
+    "name": "Artadi",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004317000",
+      "code": "1004317000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1004317003",
+    "code": "1004317003",
+    "name": "Bonifacio Aquino",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004317000",
+      "code": "1004317000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1004317004",
+    "code": "1004317004",
+    "name": "Cabalawan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004317000",
+      "code": "1004317000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1004317005",
+    "code": "1004317005",
+    "name": "Cabantian",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004317000",
+      "code": "1004317000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1004317006",
+    "code": "1004317006",
+    "name": "Cabubuhan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004317000",
+      "code": "1004317000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1004317007",
+    "code": "1004317007",
+    "name": "Candiis",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004317000",
+      "code": "1004317000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1004317008",
+    "code": "1004317008",
+    "name": "Consuelo",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004317000",
+      "code": "1004317000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1004317009",
+    "code": "1004317009",
+    "name": "Damayuhan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004317000",
+      "code": "1004317000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1004317010",
+    "code": "1004317010",
+    "name": "Gumabon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004317000",
+      "code": "1004317000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1004317023",
+    "code": "1004317023",
+    "name": "Katipunan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004317000",
+      "code": "1004317000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1004317011",
+    "code": "1004317011",
+    "name": "Kauswagan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004317000",
+      "code": "1004317000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1004317012",
+    "code": "1004317012",
+    "name": "Kibungsod",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004317000",
+      "code": "1004317000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1004317013",
+    "code": "1004317013",
+    "name": "Mahayahay",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004317000",
+      "code": "1004317000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1004317014",
+    "code": "1004317014",
+    "name": "Mindulao",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004317000",
+      "code": "1004317000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1004317015",
+    "code": "1004317015",
+    "name": "Pag-asa",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004317000",
+      "code": "1004317000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1004317016",
+    "code": "1004317016",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004317000",
+      "code": "1004317000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1004317017",
+    "code": "1004317017",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004317000",
+      "code": "1004317000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1004317018",
+    "code": "1004317018",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004317000",
+      "code": "1004317000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1004317019",
+    "code": "1004317019",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004317000",
+      "code": "1004317000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1004317024",
+    "code": "1004317024",
+    "name": "Tama",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004317000",
+      "code": "1004317000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1004317020",
+    "code": "1004317020",
+    "name": "Tibon-tibon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004317000",
+      "code": "1004317000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1004317025",
+    "code": "1004317025",
+    "name": "Tinaan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004317000",
+      "code": "1004317000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1004317021",
+    "code": "1004317021",
+    "name": "Tulang",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004317000",
+      "code": "1004317000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1004317022",
+    "code": "1004317022",
+    "name": "Villa Felipa",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004317000",
+      "code": "1004317000",
+      "name": "Magsaysay"
+    }
+  }
+]

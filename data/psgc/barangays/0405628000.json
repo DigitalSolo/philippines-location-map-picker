@@ -1,0 +1,590 @@
+[
+  {
+    "id": "0405628001",
+    "code": "0405628001",
+    "name": "Ajos",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405628000",
+      "code": "0405628000",
+      "name": "Mulanay"
+    }
+  },
+  {
+    "id": "0405628002",
+    "code": "0405628002",
+    "name": "Amuguis",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405628000",
+      "code": "0405628000",
+      "name": "Mulanay"
+    }
+  },
+  {
+    "id": "0405628003",
+    "code": "0405628003",
+    "name": "Anonang",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405628000",
+      "code": "0405628000",
+      "name": "Mulanay"
+    }
+  },
+  {
+    "id": "0405628004",
+    "code": "0405628004",
+    "name": "Bagong Silang",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405628000",
+      "code": "0405628000",
+      "name": "Mulanay"
+    }
+  },
+  {
+    "id": "0405628005",
+    "code": "0405628005",
+    "name": "Bagupaye",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405628000",
+      "code": "0405628000",
+      "name": "Mulanay"
+    }
+  },
+  {
+    "id": "0405628006",
+    "code": "0405628006",
+    "name": "Barangay 1",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405628000",
+      "code": "0405628000",
+      "name": "Mulanay"
+    }
+  },
+  {
+    "id": "0405628008",
+    "code": "0405628008",
+    "name": "Barangay 2",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405628000",
+      "code": "0405628000",
+      "name": "Mulanay"
+    }
+  },
+  {
+    "id": "0405628009",
+    "code": "0405628009",
+    "name": "Barangay 3",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405628000",
+      "code": "0405628000",
+      "name": "Mulanay"
+    }
+  },
+  {
+    "id": "0405628010",
+    "code": "0405628010",
+    "name": "Barangay 4",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405628000",
+      "code": "0405628000",
+      "name": "Mulanay"
+    }
+  },
+  {
+    "id": "0405628012",
+    "code": "0405628012",
+    "name": "Bolo",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405628000",
+      "code": "0405628000",
+      "name": "Mulanay"
+    }
+  },
+  {
+    "id": "0405628013",
+    "code": "0405628013",
+    "name": "Buenavista",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405628000",
+      "code": "0405628000",
+      "name": "Mulanay"
+    }
+  },
+  {
+    "id": "0405628014",
+    "code": "0405628014",
+    "name": "Burgos",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405628000",
+      "code": "0405628000",
+      "name": "Mulanay"
+    }
+  },
+  {
+    "id": "0405628015",
+    "code": "0405628015",
+    "name": "Butanyog",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405628000",
+      "code": "0405628000",
+      "name": "Mulanay"
+    }
+  },
+  {
+    "id": "0405628016",
+    "code": "0405628016",
+    "name": "Canuyep",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405628000",
+      "code": "0405628000",
+      "name": "Mulanay"
+    }
+  },
+  {
+    "id": "0405628017",
+    "code": "0405628017",
+    "name": "F. Nanadiego",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405628000",
+      "code": "0405628000",
+      "name": "Mulanay"
+    }
+  },
+  {
+    "id": "0405628018",
+    "code": "0405628018",
+    "name": "Ibabang Cambuga",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405628000",
+      "code": "0405628000",
+      "name": "Mulanay"
+    }
+  },
+  {
+    "id": "0405628019",
+    "code": "0405628019",
+    "name": "Ibabang Yuni",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405628000",
+      "code": "0405628000",
+      "name": "Mulanay"
+    }
+  },
+  {
+    "id": "0405628020",
+    "code": "0405628020",
+    "name": "Ilayang Cambuga",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405628000",
+      "code": "0405628000",
+      "name": "Mulanay"
+    }
+  },
+  {
+    "id": "0405628021",
+    "code": "0405628021",
+    "name": "Ilayang Yuni",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405628000",
+      "code": "0405628000",
+      "name": "Mulanay"
+    }
+  },
+  {
+    "id": "0405628022",
+    "code": "0405628022",
+    "name": "Latangan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405628000",
+      "code": "0405628000",
+      "name": "Mulanay"
+    }
+  },
+  {
+    "id": "0405628024",
+    "code": "0405628024",
+    "name": "Magsaysay",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405628000",
+      "code": "0405628000",
+      "name": "Mulanay"
+    }
+  },
+  {
+    "id": "0405628025",
+    "code": "0405628025",
+    "name": "Matataja",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405628000",
+      "code": "0405628000",
+      "name": "Mulanay"
+    }
+  },
+  {
+    "id": "0405628026",
+    "code": "0405628026",
+    "name": "Pakiing",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405628000",
+      "code": "0405628000",
+      "name": "Mulanay"
+    }
+  },
+  {
+    "id": "0405628027",
+    "code": "0405628027",
+    "name": "Patabog",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405628000",
+      "code": "0405628000",
+      "name": "Mulanay"
+    }
+  },
+  {
+    "id": "0405628028",
+    "code": "0405628028",
+    "name": "Sagongon",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405628000",
+      "code": "0405628000",
+      "name": "Mulanay"
+    }
+  },
+  {
+    "id": "0405628029",
+    "code": "0405628029",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405628000",
+      "code": "0405628000",
+      "name": "Mulanay"
+    }
+  },
+  {
+    "id": "0405628030",
+    "code": "0405628030",
+    "name": "San Pedro",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405628000",
+      "code": "0405628000",
+      "name": "Mulanay"
+    }
+  },
+  {
+    "id": "0405628031",
+    "code": "0405628031",
+    "name": "Santa Rosa",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405628000",
+      "code": "0405628000",
+      "name": "Mulanay"
+    }
+  }
+]

@@ -1,0 +1,11 @@
+node_modules/
+.vite/
+.github/
+coverage/
+*.log
+*.zip
+*.tgz
+.env
+.env.*
+.DS_Store
+Thumbs.db

@@ -1,0 +1,506 @@
+[
+  {
+    "id": "0701228001",
+    "code": "0701228001",
+    "name": "Agape",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701228000",
+      "code": "0701228000",
+      "name": "Loay"
+    }
+  },
+  {
+    "id": "0701228002",
+    "code": "0701228002",
+    "name": "Alegria Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701228000",
+      "code": "0701228000",
+      "name": "Loay"
+    }
+  },
+  {
+    "id": "0701228003",
+    "code": "0701228003",
+    "name": "Alegria Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701228000",
+      "code": "0701228000",
+      "name": "Loay"
+    }
+  },
+  {
+    "id": "0701228004",
+    "code": "0701228004",
+    "name": "Bonbon",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701228000",
+      "code": "0701228000",
+      "name": "Loay"
+    }
+  },
+  {
+    "id": "0701228005",
+    "code": "0701228005",
+    "name": "Botoc Occidental",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701228000",
+      "code": "0701228000",
+      "name": "Loay"
+    }
+  },
+  {
+    "id": "0701228006",
+    "code": "0701228006",
+    "name": "Botoc Oriental",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701228000",
+      "code": "0701228000",
+      "name": "Loay"
+    }
+  },
+  {
+    "id": "0701228007",
+    "code": "0701228007",
+    "name": "Calvario",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701228000",
+      "code": "0701228000",
+      "name": "Loay"
+    }
+  },
+  {
+    "id": "0701228008",
+    "code": "0701228008",
+    "name": "Concepcion",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701228000",
+      "code": "0701228000",
+      "name": "Loay"
+    }
+  },
+  {
+    "id": "0701228010",
+    "code": "0701228010",
+    "name": "Hinawanan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701228000",
+      "code": "0701228000",
+      "name": "Loay"
+    }
+  },
+  {
+    "id": "0701228011",
+    "code": "0701228011",
+    "name": "Las Salinas Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701228000",
+      "code": "0701228000",
+      "name": "Loay"
+    }
+  },
+  {
+    "id": "0701228012",
+    "code": "0701228012",
+    "name": "Las Salinas Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701228000",
+      "code": "0701228000",
+      "name": "Loay"
+    }
+  },
+  {
+    "id": "0701228013",
+    "code": "0701228013",
+    "name": "Palo",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701228000",
+      "code": "0701228000",
+      "name": "Loay"
+    }
+  },
+  {
+    "id": "0701228014",
+    "code": "0701228014",
+    "name": "Poblacion Ibabao",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701228000",
+      "code": "0701228000",
+      "name": "Loay"
+    }
+  },
+  {
+    "id": "0701228015",
+    "code": "0701228015",
+    "name": "Poblacion Ubos",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701228000",
+      "code": "0701228000",
+      "name": "Loay"
+    }
+  },
+  {
+    "id": "0701228016",
+    "code": "0701228016",
+    "name": "Sagnap",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701228000",
+      "code": "0701228000",
+      "name": "Loay"
+    }
+  },
+  {
+    "id": "0701228017",
+    "code": "0701228017",
+    "name": "Tambangan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701228000",
+      "code": "0701228000",
+      "name": "Loay"
+    }
+  },
+  {
+    "id": "0701228018",
+    "code": "0701228018",
+    "name": "Tangcasan Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701228000",
+      "code": "0701228000",
+      "name": "Loay"
+    }
+  },
+  {
+    "id": "0701228019",
+    "code": "0701228019",
+    "name": "Tangcasan Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701228000",
+      "code": "0701228000",
+      "name": "Loay"
+    }
+  },
+  {
+    "id": "0701228020",
+    "code": "0701228020",
+    "name": "Tayong Occidental",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701228000",
+      "code": "0701228000",
+      "name": "Loay"
+    }
+  },
+  {
+    "id": "0701228021",
+    "code": "0701228021",
+    "name": "Tayong Oriental",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701228000",
+      "code": "0701228000",
+      "name": "Loay"
+    }
+  },
+  {
+    "id": "0701228023",
+    "code": "0701228023",
+    "name": "Tocdog Dacu",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701228000",
+      "code": "0701228000",
+      "name": "Loay"
+    }
+  },
+  {
+    "id": "0701228024",
+    "code": "0701228024",
+    "name": "Tocdog Ilaya",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701228000",
+      "code": "0701228000",
+      "name": "Loay"
+    }
+  },
+  {
+    "id": "0701228025",
+    "code": "0701228025",
+    "name": "Villalimpia",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701228000",
+      "code": "0701228000",
+      "name": "Loay"
+    }
+  },
+  {
+    "id": "0701228026",
+    "code": "0701228026",
+    "name": "Yanangan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701228000",
+      "code": "0701228000",
+      "name": "Loay"
+    }
+  }
+]

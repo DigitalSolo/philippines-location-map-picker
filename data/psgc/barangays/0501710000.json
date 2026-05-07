@@ -1,0 +1,506 @@
+[
+  {
+    "id": "0501710001",
+    "code": "0501710001",
+    "name": "Baras",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501710000",
+      "code": "0501710000",
+      "name": "Canaman"
+    }
+  },
+  {
+    "id": "0501710002",
+    "code": "0501710002",
+    "name": "Del Rosario",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501710000",
+      "code": "0501710000",
+      "name": "Canaman"
+    }
+  },
+  {
+    "id": "0501710003",
+    "code": "0501710003",
+    "name": "Dinaga",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501710000",
+      "code": "0501710000",
+      "name": "Canaman"
+    }
+  },
+  {
+    "id": "0501710004",
+    "code": "0501710004",
+    "name": "Fundado",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501710000",
+      "code": "0501710000",
+      "name": "Canaman"
+    }
+  },
+  {
+    "id": "0501710005",
+    "code": "0501710005",
+    "name": "Haring",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501710000",
+      "code": "0501710000",
+      "name": "Canaman"
+    }
+  },
+  {
+    "id": "0501710006",
+    "code": "0501710006",
+    "name": "Iquin",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501710000",
+      "code": "0501710000",
+      "name": "Canaman"
+    }
+  },
+  {
+    "id": "0501710007",
+    "code": "0501710007",
+    "name": "Linaga",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501710000",
+      "code": "0501710000",
+      "name": "Canaman"
+    }
+  },
+  {
+    "id": "0501710008",
+    "code": "0501710008",
+    "name": "Mangayawan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501710000",
+      "code": "0501710000",
+      "name": "Canaman"
+    }
+  },
+  {
+    "id": "0501710009",
+    "code": "0501710009",
+    "name": "Palo",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501710000",
+      "code": "0501710000",
+      "name": "Canaman"
+    }
+  },
+  {
+    "id": "0501710010",
+    "code": "0501710010",
+    "name": "Pangpang",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501710000",
+      "code": "0501710000",
+      "name": "Canaman"
+    }
+  },
+  {
+    "id": "0501710011",
+    "code": "0501710011",
+    "name": "Poro",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501710000",
+      "code": "0501710000",
+      "name": "Canaman"
+    }
+  },
+  {
+    "id": "0501710012",
+    "code": "0501710012",
+    "name": "San Agustin",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501710000",
+      "code": "0501710000",
+      "name": "Canaman"
+    }
+  },
+  {
+    "id": "0501710014",
+    "code": "0501710014",
+    "name": "San Francisco",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501710000",
+      "code": "0501710000",
+      "name": "Canaman"
+    }
+  },
+  {
+    "id": "0501710015",
+    "code": "0501710015",
+    "name": "San Jose East",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501710000",
+      "code": "0501710000",
+      "name": "Canaman"
+    }
+  },
+  {
+    "id": "0501710016",
+    "code": "0501710016",
+    "name": "San Jose West",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501710000",
+      "code": "0501710000",
+      "name": "Canaman"
+    }
+  },
+  {
+    "id": "0501710017",
+    "code": "0501710017",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501710000",
+      "code": "0501710000",
+      "name": "Canaman"
+    }
+  },
+  {
+    "id": "0501710018",
+    "code": "0501710018",
+    "name": "San Nicolas",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501710000",
+      "code": "0501710000",
+      "name": "Canaman"
+    }
+  },
+  {
+    "id": "0501710019",
+    "code": "0501710019",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501710000",
+      "code": "0501710000",
+      "name": "Canaman"
+    }
+  },
+  {
+    "id": "0501710020",
+    "code": "0501710020",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501710000",
+      "code": "0501710000",
+      "name": "Canaman"
+    }
+  },
+  {
+    "id": "0501710021",
+    "code": "0501710021",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501710000",
+      "code": "0501710000",
+      "name": "Canaman"
+    }
+  },
+  {
+    "id": "0501710022",
+    "code": "0501710022",
+    "name": "Santa Teresita",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501710000",
+      "code": "0501710000",
+      "name": "Canaman"
+    }
+  },
+  {
+    "id": "0501710023",
+    "code": "0501710023",
+    "name": "Sua",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501710000",
+      "code": "0501710000",
+      "name": "Canaman"
+    }
+  },
+  {
+    "id": "0501710024",
+    "code": "0501710024",
+    "name": "Talidtid",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501710000",
+      "code": "0501710000",
+      "name": "Canaman"
+    }
+  },
+  {
+    "id": "0501710025",
+    "code": "0501710025",
+    "name": "Tibgao",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501710000",
+      "code": "0501710000",
+      "name": "Canaman"
+    }
+  }
+]

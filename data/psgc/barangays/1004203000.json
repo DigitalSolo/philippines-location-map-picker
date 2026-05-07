@@ -1,0 +1,590 @@
+[
+  {
+    "id": "1004203002",
+    "code": "1004203002",
+    "name": "Bag-ong Anonang",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004203000",
+      "code": "1004203000",
+      "name": "Bonifacio"
+    }
+  },
+  {
+    "id": "1004203003",
+    "code": "1004203003",
+    "name": "Bagumbang",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004203000",
+      "code": "1004203000",
+      "name": "Bonifacio"
+    }
+  },
+  {
+    "id": "1004203004",
+    "code": "1004203004",
+    "name": "Baybay",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004203000",
+      "code": "1004203000",
+      "name": "Bonifacio"
+    }
+  },
+  {
+    "id": "1004203005",
+    "code": "1004203005",
+    "name": "Bolinsong",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004203000",
+      "code": "1004203000",
+      "name": "Bonifacio"
+    }
+  },
+  {
+    "id": "1004203006",
+    "code": "1004203006",
+    "name": "Buenavista",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004203000",
+      "code": "1004203000",
+      "name": "Bonifacio"
+    }
+  },
+  {
+    "id": "1004203007",
+    "code": "1004203007",
+    "name": "Buracan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004203000",
+      "code": "1004203000",
+      "name": "Bonifacio"
+    }
+  },
+  {
+    "id": "1004203009",
+    "code": "1004203009",
+    "name": "Calolot",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004203000",
+      "code": "1004203000",
+      "name": "Bonifacio"
+    }
+  },
+  {
+    "id": "1004203032",
+    "code": "1004203032",
+    "name": "Demetrio Fernan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004203000",
+      "code": "1004203000",
+      "name": "Bonifacio"
+    }
+  },
+  {
+    "id": "1004203033",
+    "code": "1004203033",
+    "name": "Digson",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004203000",
+      "code": "1004203000",
+      "name": "Bonifacio"
+    }
+  },
+  {
+    "id": "1004203010",
+    "code": "1004203010",
+    "name": "Dimalco",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004203000",
+      "code": "1004203000",
+      "name": "Bonifacio"
+    }
+  },
+  {
+    "id": "1004203011",
+    "code": "1004203011",
+    "name": "Dullan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004203000",
+      "code": "1004203000",
+      "name": "Bonifacio"
+    }
+  },
+  {
+    "id": "1004203012",
+    "code": "1004203012",
+    "name": "Kanaokanao",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004203000",
+      "code": "1004203000",
+      "name": "Bonifacio"
+    }
+  },
+  {
+    "id": "1004203013",
+    "code": "1004203013",
+    "name": "Liloan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004203000",
+      "code": "1004203000",
+      "name": "Bonifacio"
+    }
+  },
+  {
+    "id": "1004203014",
+    "code": "1004203014",
+    "name": "Linconan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004203000",
+      "code": "1004203000",
+      "name": "Bonifacio"
+    }
+  },
+  {
+    "id": "1004203015",
+    "code": "1004203015",
+    "name": "Lodiong",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004203000",
+      "code": "1004203000",
+      "name": "Bonifacio"
+    }
+  },
+  {
+    "id": "1004203016",
+    "code": "1004203016",
+    "name": "Lower Usugan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004203000",
+      "code": "1004203000",
+      "name": "Bonifacio"
+    }
+  },
+  {
+    "id": "1004203017",
+    "code": "1004203017",
+    "name": "Mapurog",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004203000",
+      "code": "1004203000",
+      "name": "Bonifacio"
+    }
+  },
+  {
+    "id": "1004203019",
+    "code": "1004203019",
+    "name": "Migpange",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004203000",
+      "code": "1004203000",
+      "name": "Bonifacio"
+    }
+  },
+  {
+    "id": "1004203020",
+    "code": "1004203020",
+    "name": "Montol",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004203000",
+      "code": "1004203000",
+      "name": "Bonifacio"
+    }
+  },
+  {
+    "id": "1004203023",
+    "code": "1004203023",
+    "name": "Pisa-an",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004203000",
+      "code": "1004203000",
+      "name": "Bonifacio"
+    }
+  },
+  {
+    "id": "1004203024",
+    "code": "1004203024",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004203000",
+      "code": "1004203000",
+      "name": "Bonifacio"
+    }
+  },
+  {
+    "id": "1004203025",
+    "code": "1004203025",
+    "name": "Remedios",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004203000",
+      "code": "1004203000",
+      "name": "Bonifacio"
+    }
+  },
+  {
+    "id": "1004203026",
+    "code": "1004203026",
+    "name": "Rufino Lumapas",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004203000",
+      "code": "1004203000",
+      "name": "Bonifacio"
+    }
+  },
+  {
+    "id": "1004203027",
+    "code": "1004203027",
+    "name": "Sibuyon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004203000",
+      "code": "1004203000",
+      "name": "Bonifacio"
+    }
+  },
+  {
+    "id": "1004203028",
+    "code": "1004203028",
+    "name": "Tangab",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004203000",
+      "code": "1004203000",
+      "name": "Bonifacio"
+    }
+  },
+  {
+    "id": "1004203029",
+    "code": "1004203029",
+    "name": "Tiaman",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004203000",
+      "code": "1004203000",
+      "name": "Bonifacio"
+    }
+  },
+  {
+    "id": "1004203030",
+    "code": "1004203030",
+    "name": "Tusik",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004203000",
+      "code": "1004203000",
+      "name": "Bonifacio"
+    }
+  },
+  {
+    "id": "1004203031",
+    "code": "1004203031",
+    "name": "Upper Usogan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004203000",
+      "code": "1004203000",
+      "name": "Bonifacio"
+    }
+  }
+]

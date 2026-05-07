@@ -1,0 +1,317 @@
+[
+  {
+    "id": "0702242002",
+    "code": "0702242002",
+    "name": "Cabunga-an",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702242000",
+      "code": "0702242000",
+      "name": "San Francisco"
+    }
+  },
+  {
+    "id": "0702242003",
+    "code": "0702242003",
+    "name": "Campo",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702242000",
+      "code": "0702242000",
+      "name": "San Francisco"
+    }
+  },
+  {
+    "id": "0702242004",
+    "code": "0702242004",
+    "name": "Consuelo",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702242000",
+      "code": "0702242000",
+      "name": "San Francisco"
+    }
+  },
+  {
+    "id": "0702242006",
+    "code": "0702242006",
+    "name": "Esperanza",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702242000",
+      "code": "0702242000",
+      "name": "San Francisco"
+    }
+  },
+  {
+    "id": "0702242007",
+    "code": "0702242007",
+    "name": "Himensulan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702242000",
+      "code": "0702242000",
+      "name": "San Francisco"
+    }
+  },
+  {
+    "id": "0702242001",
+    "code": "0702242001",
+    "name": "Montealegre",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702242000",
+      "code": "0702242000",
+      "name": "San Francisco"
+    }
+  },
+  {
+    "id": "0702242008",
+    "code": "0702242008",
+    "name": "Northern Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702242000",
+      "code": "0702242000",
+      "name": "San Francisco"
+    }
+  },
+  {
+    "id": "0702242009",
+    "code": "0702242009",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702242000",
+      "code": "0702242000",
+      "name": "San Francisco"
+    }
+  },
+  {
+    "id": "0702242010",
+    "code": "0702242010",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702242000",
+      "code": "0702242000",
+      "name": "San Francisco"
+    }
+  },
+  {
+    "id": "0702242011",
+    "code": "0702242011",
+    "name": "Santiago",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702242000",
+      "code": "0702242000",
+      "name": "San Francisco"
+    }
+  },
+  {
+    "id": "0702242012",
+    "code": "0702242012",
+    "name": "Sonog",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702242000",
+      "code": "0702242000",
+      "name": "San Francisco"
+    }
+  },
+  {
+    "id": "0702242013",
+    "code": "0702242013",
+    "name": "Southern Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702242000",
+      "code": "0702242000",
+      "name": "San Francisco"
+    }
+  },
+  {
+    "id": "0702242014",
+    "code": "0702242014",
+    "name": "Unidos",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702242000",
+      "code": "0702242000",
+      "name": "San Francisco"
+    }
+  },
+  {
+    "id": "0702242015",
+    "code": "0702242015",
+    "name": "Union",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702242000",
+      "code": "0702242000",
+      "name": "San Francisco"
+    }
+  },
+  {
+    "id": "0702242016",
+    "code": "0702242016",
+    "name": "Western Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0702200000",
+      "code": "0702200000",
+      "name": "Cebu"
+    },
+    "city_municipality": {
+      "id": "0702242000",
+      "code": "0702242000",
+      "name": "San Francisco"
+    }
+  }
+]

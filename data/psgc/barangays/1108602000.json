@@ -1,0 +1,548 @@
+[
+  {
+    "id": "1108602002",
+    "code": "1108602002",
+    "name": "Balangonan",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108602000",
+      "code": "1108602000",
+      "name": "Jose Abad Santos"
+    }
+  },
+  {
+    "id": "1108602001",
+    "code": "1108602001",
+    "name": "Buguis",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108602000",
+      "code": "1108602000",
+      "name": "Jose Abad Santos"
+    }
+  },
+  {
+    "id": "1108602006",
+    "code": "1108602006",
+    "name": "Bukid",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108602000",
+      "code": "1108602000",
+      "name": "Jose Abad Santos"
+    }
+  },
+  {
+    "id": "1108602007",
+    "code": "1108602007",
+    "name": "Butuan",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108602000",
+      "code": "1108602000",
+      "name": "Jose Abad Santos"
+    }
+  },
+  {
+    "id": "1108602008",
+    "code": "1108602008",
+    "name": "Butulan",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108602000",
+      "code": "1108602000",
+      "name": "Jose Abad Santos"
+    }
+  },
+  {
+    "id": "1108602009",
+    "code": "1108602009",
+    "name": "Caburan Big",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108602000",
+      "code": "1108602000",
+      "name": "Jose Abad Santos"
+    }
+  },
+  {
+    "id": "1108602010",
+    "code": "1108602010",
+    "name": "Caburan Small",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108602000",
+      "code": "1108602000",
+      "name": "Jose Abad Santos"
+    }
+  },
+  {
+    "id": "1108602011",
+    "code": "1108602011",
+    "name": "Camalian",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108602000",
+      "code": "1108602000",
+      "name": "Jose Abad Santos"
+    }
+  },
+  {
+    "id": "1108602012",
+    "code": "1108602012",
+    "name": "Carahayan",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108602000",
+      "code": "1108602000",
+      "name": "Jose Abad Santos"
+    }
+  },
+  {
+    "id": "1108602013",
+    "code": "1108602013",
+    "name": "Cayaponga",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108602000",
+      "code": "1108602000",
+      "name": "Jose Abad Santos"
+    }
+  },
+  {
+    "id": "1108602014",
+    "code": "1108602014",
+    "name": "Culaman",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108602000",
+      "code": "1108602000",
+      "name": "Jose Abad Santos"
+    }
+  },
+  {
+    "id": "1108602015",
+    "code": "1108602015",
+    "name": "Kalbay",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108602000",
+      "code": "1108602000",
+      "name": "Jose Abad Santos"
+    }
+  },
+  {
+    "id": "1108602016",
+    "code": "1108602016",
+    "name": "Kitayo",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108602000",
+      "code": "1108602000",
+      "name": "Jose Abad Santos"
+    }
+  },
+  {
+    "id": "1108602019",
+    "code": "1108602019",
+    "name": "Magulibas",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108602000",
+      "code": "1108602000",
+      "name": "Jose Abad Santos"
+    }
+  },
+  {
+    "id": "1108602020",
+    "code": "1108602020",
+    "name": "Malalan",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108602000",
+      "code": "1108602000",
+      "name": "Jose Abad Santos"
+    }
+  },
+  {
+    "id": "1108602021",
+    "code": "1108602021",
+    "name": "Mangile",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108602000",
+      "code": "1108602000",
+      "name": "Jose Abad Santos"
+    }
+  },
+  {
+    "id": "1108602022",
+    "code": "1108602022",
+    "name": "Marabutuan",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108602000",
+      "code": "1108602000",
+      "name": "Jose Abad Santos"
+    }
+  },
+  {
+    "id": "1108602023",
+    "code": "1108602023",
+    "name": "Meybio",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108602000",
+      "code": "1108602000",
+      "name": "Jose Abad Santos"
+    }
+  },
+  {
+    "id": "1108602024",
+    "code": "1108602024",
+    "name": "Molmol",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108602000",
+      "code": "1108602000",
+      "name": "Jose Abad Santos"
+    }
+  },
+  {
+    "id": "1108602025",
+    "code": "1108602025",
+    "name": "Nuing",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108602000",
+      "code": "1108602000",
+      "name": "Jose Abad Santos"
+    }
+  },
+  {
+    "id": "1108602026",
+    "code": "1108602026",
+    "name": "Patulang",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108602000",
+      "code": "1108602000",
+      "name": "Jose Abad Santos"
+    }
+  },
+  {
+    "id": "1108602027",
+    "code": "1108602027",
+    "name": "Quiapo",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108602000",
+      "code": "1108602000",
+      "name": "Jose Abad Santos"
+    }
+  },
+  {
+    "id": "1108602028",
+    "code": "1108602028",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108602000",
+      "code": "1108602000",
+      "name": "Jose Abad Santos"
+    }
+  },
+  {
+    "id": "1108602033",
+    "code": "1108602033",
+    "name": "Sugal",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108602000",
+      "code": "1108602000",
+      "name": "Jose Abad Santos"
+    }
+  },
+  {
+    "id": "1108602034",
+    "code": "1108602034",
+    "name": "Tabayon",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108602000",
+      "code": "1108602000",
+      "name": "Jose Abad Santos"
+    }
+  },
+  {
+    "id": "1108602035",
+    "code": "1108602035",
+    "name": "Tanuman",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108602000",
+      "code": "1108602000",
+      "name": "Jose Abad Santos"
+    }
+  }
+]

@@ -1,0 +1,842 @@
+[
+  {
+    "id": "0600609043",
+    "code": "0600609043",
+    "name": "Bagongbayan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600609000",
+      "code": "0600609000",
+      "name": "Laua-An"
+    }
+  },
+  {
+    "id": "0600609002",
+    "code": "0600609002",
+    "name": "Banban",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600609000",
+      "code": "0600609000",
+      "name": "Laua-An"
+    }
+  },
+  {
+    "id": "0600609003",
+    "code": "0600609003",
+    "name": "Bongbongan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600609000",
+      "code": "0600609000",
+      "name": "Laua-An"
+    }
+  },
+  {
+    "id": "0600609004",
+    "code": "0600609004",
+    "name": "Cabariwan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600609000",
+      "code": "0600609000",
+      "name": "Laua-An"
+    }
+  },
+  {
+    "id": "0600609005",
+    "code": "0600609005",
+    "name": "Cadajug",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600609000",
+      "code": "0600609000",
+      "name": "Laua-An"
+    }
+  },
+  {
+    "id": "0600609006",
+    "code": "0600609006",
+    "name": "Canituan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600609000",
+      "code": "0600609000",
+      "name": "Laua-An"
+    }
+  },
+  {
+    "id": "0600609007",
+    "code": "0600609007",
+    "name": "Capnayan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600609000",
+      "code": "0600609000",
+      "name": "Laua-An"
+    }
+  },
+  {
+    "id": "0600609008",
+    "code": "0600609008",
+    "name": "Casit-an",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600609000",
+      "code": "0600609000",
+      "name": "Laua-An"
+    }
+  },
+  {
+    "id": "0600609010",
+    "code": "0600609010",
+    "name": "Guiamon",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600609000",
+      "code": "0600609000",
+      "name": "Laua-An"
+    }
+  },
+  {
+    "id": "0600609009",
+    "code": "0600609009",
+    "name": "Guinbanga-an",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600609000",
+      "code": "0600609000",
+      "name": "Laua-An"
+    }
+  },
+  {
+    "id": "0600609011",
+    "code": "0600609011",
+    "name": "Guisijan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600609000",
+      "code": "0600609000",
+      "name": "Laua-An"
+    }
+  },
+  {
+    "id": "0600609012",
+    "code": "0600609012",
+    "name": "Igtadiao",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600609000",
+      "code": "0600609000",
+      "name": "Laua-An"
+    }
+  },
+  {
+    "id": "0600609013",
+    "code": "0600609013",
+    "name": "Intao",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600609000",
+      "code": "0600609000",
+      "name": "Laua-An"
+    }
+  },
+  {
+    "id": "0600609014",
+    "code": "0600609014",
+    "name": "Jaguikican",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600609000",
+      "code": "0600609000",
+      "name": "Laua-An"
+    }
+  },
+  {
+    "id": "0600609015",
+    "code": "0600609015",
+    "name": "Jinalinan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600609000",
+      "code": "0600609000",
+      "name": "Laua-An"
+    }
+  },
+  {
+    "id": "0600609016",
+    "code": "0600609016",
+    "name": "Lactudan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600609000",
+      "code": "0600609000",
+      "name": "Laua-An"
+    }
+  },
+  {
+    "id": "0600609017",
+    "code": "0600609017",
+    "name": "Latazon",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600609000",
+      "code": "0600609000",
+      "name": "Laua-An"
+    }
+  },
+  {
+    "id": "0600609018",
+    "code": "0600609018",
+    "name": "Laua-an",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600609000",
+      "code": "0600609000",
+      "name": "Laua-An"
+    }
+  },
+  {
+    "id": "0600609019",
+    "code": "0600609019",
+    "name": "Leon",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600609000",
+      "code": "0600609000",
+      "name": "Laua-An"
+    }
+  },
+  {
+    "id": "0600609020",
+    "code": "0600609020",
+    "name": "Liberato",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600609000",
+      "code": "0600609000",
+      "name": "Laua-An"
+    }
+  },
+  {
+    "id": "0600609021",
+    "code": "0600609021",
+    "name": "Lindero",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600609000",
+      "code": "0600609000",
+      "name": "Laua-An"
+    }
+  },
+  {
+    "id": "0600609022",
+    "code": "0600609022",
+    "name": "Liya-liya",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600609000",
+      "code": "0600609000",
+      "name": "Laua-An"
+    }
+  },
+  {
+    "id": "0600609023",
+    "code": "0600609023",
+    "name": "Lugta",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600609000",
+      "code": "0600609000",
+      "name": "Laua-An"
+    }
+  },
+  {
+    "id": "0600609024",
+    "code": "0600609024",
+    "name": "Lupa-an",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600609000",
+      "code": "0600609000",
+      "name": "Laua-An"
+    }
+  },
+  {
+    "id": "0600609025",
+    "code": "0600609025",
+    "name": "Magyapo",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600609000",
+      "code": "0600609000",
+      "name": "Laua-An"
+    }
+  },
+  {
+    "id": "0600609026",
+    "code": "0600609026",
+    "name": "Maria",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600609000",
+      "code": "0600609000",
+      "name": "Laua-An"
+    }
+  },
+  {
+    "id": "0600609027",
+    "code": "0600609027",
+    "name": "Mauno",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600609000",
+      "code": "0600609000",
+      "name": "Laua-An"
+    }
+  },
+  {
+    "id": "0600609028",
+    "code": "0600609028",
+    "name": "Maybunga",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600609000",
+      "code": "0600609000",
+      "name": "Laua-An"
+    }
+  },
+  {
+    "id": "0600609029",
+    "code": "0600609029",
+    "name": "Necesito",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600609000",
+      "code": "0600609000",
+      "name": "Laua-An"
+    }
+  },
+  {
+    "id": "0600609030",
+    "code": "0600609030",
+    "name": "Oloc",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600609000",
+      "code": "0600609000",
+      "name": "Laua-An"
+    }
+  },
+  {
+    "id": "0600609031",
+    "code": "0600609031",
+    "name": "Omlot",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600609000",
+      "code": "0600609000",
+      "name": "Laua-An"
+    }
+  },
+  {
+    "id": "0600609032",
+    "code": "0600609032",
+    "name": "Pandanan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600609000",
+      "code": "0600609000",
+      "name": "Laua-An"
+    }
+  },
+  {
+    "id": "0600609034",
+    "code": "0600609034",
+    "name": "Paningayan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600609000",
+      "code": "0600609000",
+      "name": "Laua-An"
+    }
+  },
+  {
+    "id": "0600609035",
+    "code": "0600609035",
+    "name": "Pascuala",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600609000",
+      "code": "0600609000",
+      "name": "Laua-An"
+    }
+  },
+  {
+    "id": "0600609036",
+    "code": "0600609036",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600609000",
+      "code": "0600609000",
+      "name": "Laua-An"
+    }
+  },
+  {
+    "id": "0600609038",
+    "code": "0600609038",
+    "name": "San Ramon",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600609000",
+      "code": "0600609000",
+      "name": "Laua-An"
+    }
+  },
+  {
+    "id": "0600609039",
+    "code": "0600609039",
+    "name": "Santiago",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600609000",
+      "code": "0600609000",
+      "name": "Laua-An"
+    }
+  },
+  {
+    "id": "0600609040",
+    "code": "0600609040",
+    "name": "Tibacan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600609000",
+      "code": "0600609000",
+      "name": "Laua-An"
+    }
+  },
+  {
+    "id": "0600609041",
+    "code": "0600609041",
+    "name": "Tigunhao",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600609000",
+      "code": "0600609000",
+      "name": "Laua-An"
+    }
+  },
+  {
+    "id": "0600609042",
+    "code": "0600609042",
+    "name": "Virginia",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600609000",
+      "code": "0600609000",
+      "name": "Laua-An"
+    }
+  }
+]

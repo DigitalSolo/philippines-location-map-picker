@@ -1,0 +1,170 @@
+[
+  {
+    "id": "0501704005",
+    "code": "0501704005",
+    "name": "Pagao",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501704000",
+      "code": "0501704000",
+      "name": "Bombon"
+    }
+  },
+  {
+    "id": "0501704001",
+    "code": "0501704001",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501704000",
+      "code": "0501704000",
+      "name": "Bombon"
+    }
+  },
+  {
+    "id": "0501704002",
+    "code": "0501704002",
+    "name": "San Francisco",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501704000",
+      "code": "0501704000",
+      "name": "Bombon"
+    }
+  },
+  {
+    "id": "0501704003",
+    "code": "0501704003",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501704000",
+      "code": "0501704000",
+      "name": "Bombon"
+    }
+  },
+  {
+    "id": "0501704004",
+    "code": "0501704004",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501704000",
+      "code": "0501704000",
+      "name": "Bombon"
+    }
+  },
+  {
+    "id": "0501704006",
+    "code": "0501704006",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501704000",
+      "code": "0501704000",
+      "name": "Bombon"
+    }
+  },
+  {
+    "id": "0501704008",
+    "code": "0501704008",
+    "name": "Santo Domingo",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501704000",
+      "code": "0501704000",
+      "name": "Bombon"
+    }
+  },
+  {
+    "id": "0501704007",
+    "code": "0501704007",
+    "name": "Siembre",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501704000",
+      "code": "0501704000",
+      "name": "Bombon"
+    }
+  }
+]

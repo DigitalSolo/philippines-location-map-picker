@@ -1,0 +1,359 @@
+[
+  {
+    "id": "0102907001",
+    "code": "0102907001",
+    "name": "Anonang Mayor",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102907000",
+      "code": "0102907000",
+      "name": "Caoayan"
+    }
+  },
+  {
+    "id": "0102907002",
+    "code": "0102907002",
+    "name": "Anonang Menor",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102907000",
+      "code": "0102907000",
+      "name": "Caoayan"
+    }
+  },
+  {
+    "id": "0102907003",
+    "code": "0102907003",
+    "name": "Baggoc",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102907000",
+      "code": "0102907000",
+      "name": "Caoayan"
+    }
+  },
+  {
+    "id": "0102907004",
+    "code": "0102907004",
+    "name": "Callaguip",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102907000",
+      "code": "0102907000",
+      "name": "Caoayan"
+    }
+  },
+  {
+    "id": "0102907005",
+    "code": "0102907005",
+    "name": "Caparacadan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102907000",
+      "code": "0102907000",
+      "name": "Caoayan"
+    }
+  },
+  {
+    "id": "0102907016",
+    "code": "0102907016",
+    "name": "Don Alejandro Quirolgico",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102907000",
+      "code": "0102907000",
+      "name": "Caoayan"
+    }
+  },
+  {
+    "id": "0102907012",
+    "code": "0102907012",
+    "name": "Don Dimas Querubin",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102907000",
+      "code": "0102907000",
+      "name": "Caoayan"
+    }
+  },
+  {
+    "id": "0102907017",
+    "code": "0102907017",
+    "name": "Don Lorenzo Querubin",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102907000",
+      "code": "0102907000",
+      "name": "Caoayan"
+    }
+  },
+  {
+    "id": "0102907006",
+    "code": "0102907006",
+    "name": "Fuerte",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102907000",
+      "code": "0102907000",
+      "name": "Caoayan"
+    }
+  },
+  {
+    "id": "0102907007",
+    "code": "0102907007",
+    "name": "Manangat",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102907000",
+      "code": "0102907000",
+      "name": "Caoayan"
+    }
+  },
+  {
+    "id": "0102907008",
+    "code": "0102907008",
+    "name": "Naguilian",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102907000",
+      "code": "0102907000",
+      "name": "Caoayan"
+    }
+  },
+  {
+    "id": "0102907009",
+    "code": "0102907009",
+    "name": "Nansuagao",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102907000",
+      "code": "0102907000",
+      "name": "Caoayan"
+    }
+  },
+  {
+    "id": "0102907010",
+    "code": "0102907010",
+    "name": "Pandan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102907000",
+      "code": "0102907000",
+      "name": "Caoayan"
+    }
+  },
+  {
+    "id": "0102907014",
+    "code": "0102907014",
+    "name": "Pantay Tamurong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102907000",
+      "code": "0102907000",
+      "name": "Caoayan"
+    }
+  },
+  {
+    "id": "0102907011",
+    "code": "0102907011",
+    "name": "Pantay-Quitiquit",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102907000",
+      "code": "0102907000",
+      "name": "Caoayan"
+    }
+  },
+  {
+    "id": "0102907013",
+    "code": "0102907013",
+    "name": "Puro",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102907000",
+      "code": "0102907000",
+      "name": "Caoayan"
+    }
+  },
+  {
+    "id": "0102907015",
+    "code": "0102907015",
+    "name": "Villamar",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102907000",
+      "code": "0102907000",
+      "name": "Caoayan"
+    }
+  }
+]

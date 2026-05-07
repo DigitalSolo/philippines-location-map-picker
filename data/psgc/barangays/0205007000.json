@@ -1,0 +1,317 @@
+[
+  {
+    "id": "0205007002",
+    "code": "0205007002",
+    "name": "Belance",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205007000",
+      "code": "0205007000",
+      "name": "Dupax del Norte"
+    }
+  },
+  {
+    "id": "0205007020",
+    "code": "0205007020",
+    "name": "Binuangan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205007000",
+      "code": "0205007000",
+      "name": "Dupax del Norte"
+    }
+  },
+  {
+    "id": "0205007021",
+    "code": "0205007021",
+    "name": "Bitnong",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205007000",
+      "code": "0205007000",
+      "name": "Dupax del Norte"
+    }
+  },
+  {
+    "id": "0205007003",
+    "code": "0205007003",
+    "name": "Bulala",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205007000",
+      "code": "0205007000",
+      "name": "Dupax del Norte"
+    }
+  },
+  {
+    "id": "0205007009",
+    "code": "0205007009",
+    "name": "Inaban",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205007000",
+      "code": "0205007000",
+      "name": "Dupax del Norte"
+    }
+  },
+  {
+    "id": "0205007010",
+    "code": "0205007010",
+    "name": "Ineangan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205007000",
+      "code": "0205007000",
+      "name": "Dupax del Norte"
+    }
+  },
+  {
+    "id": "0205007011",
+    "code": "0205007011",
+    "name": "Lamo",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205007000",
+      "code": "0205007000",
+      "name": "Dupax del Norte"
+    }
+  },
+  {
+    "id": "0205007012",
+    "code": "0205007012",
+    "name": "Mabasa",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205007000",
+      "code": "0205007000",
+      "name": "Dupax del Norte"
+    }
+  },
+  {
+    "id": "0205007022",
+    "code": "0205007022",
+    "name": "Macabenga",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205007000",
+      "code": "0205007000",
+      "name": "Dupax del Norte"
+    }
+  },
+  {
+    "id": "0205007013",
+    "code": "0205007013",
+    "name": "Malasin",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205007000",
+      "code": "0205007000",
+      "name": "Dupax del Norte"
+    }
+  },
+  {
+    "id": "0205007015",
+    "code": "0205007015",
+    "name": "Munguia",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205007000",
+      "code": "0205007000",
+      "name": "Dupax del Norte"
+    }
+  },
+  {
+    "id": "0205007018",
+    "code": "0205007018",
+    "name": "New Gumiad",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205007000",
+      "code": "0205007000",
+      "name": "Dupax del Norte"
+    }
+  },
+  {
+    "id": "0205007016",
+    "code": "0205007016",
+    "name": "Oyao",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205007000",
+      "code": "0205007000",
+      "name": "Dupax del Norte"
+    }
+  },
+  {
+    "id": "0205007023",
+    "code": "0205007023",
+    "name": "Parai",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205007000",
+      "code": "0205007000",
+      "name": "Dupax del Norte"
+    }
+  },
+  {
+    "id": "0205007019",
+    "code": "0205007019",
+    "name": "Yabbi",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205000000",
+      "code": "0205000000",
+      "name": "Nueva Vizcaya"
+    },
+    "city_municipality": {
+      "id": "0205007000",
+      "code": "0205007000",
+      "name": "Dupax del Norte"
+    }
+  }
+]

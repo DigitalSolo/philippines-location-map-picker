@@ -1,0 +1,527 @@
+[
+  {
+    "id": "1003515001",
+    "code": "1003515001",
+    "name": "Abaga",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003515000",
+      "code": "1003515000",
+      "name": "Nunungan"
+    }
+  },
+  {
+    "id": "1003515002",
+    "code": "1003515002",
+    "name": "Bangco",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003515000",
+      "code": "1003515000",
+      "name": "Nunungan"
+    }
+  },
+  {
+    "id": "1003515011",
+    "code": "1003515011",
+    "name": "Cabasaran",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003515000",
+      "code": "1003515000",
+      "name": "Nunungan"
+    }
+  },
+  {
+    "id": "1003515003",
+    "code": "1003515003",
+    "name": "Canibongan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003515000",
+      "code": "1003515000",
+      "name": "Nunungan"
+    }
+  },
+  {
+    "id": "1003515005",
+    "code": "1003515005",
+    "name": "Dimayon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003515000",
+      "code": "1003515000",
+      "name": "Nunungan"
+    }
+  },
+  {
+    "id": "1003515006",
+    "code": "1003515006",
+    "name": "Inayawan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003515000",
+      "code": "1003515000",
+      "name": "Nunungan"
+    }
+  },
+  {
+    "id": "1003515008",
+    "code": "1003515008",
+    "name": "Kaludan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003515000",
+      "code": "1003515000",
+      "name": "Nunungan"
+    }
+  },
+  {
+    "id": "1003515004",
+    "code": "1003515004",
+    "name": "Karcum",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003515000",
+      "code": "1003515000",
+      "name": "Nunungan"
+    }
+  },
+  {
+    "id": "1003515010",
+    "code": "1003515010",
+    "name": "Katubuan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003515000",
+      "code": "1003515000",
+      "name": "Nunungan"
+    }
+  },
+  {
+    "id": "1003515012",
+    "code": "1003515012",
+    "name": "Liangan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003515000",
+      "code": "1003515000",
+      "name": "Nunungan"
+    }
+  },
+  {
+    "id": "1003515013",
+    "code": "1003515013",
+    "name": "Lupitan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003515000",
+      "code": "1003515000",
+      "name": "Nunungan"
+    }
+  },
+  {
+    "id": "1003515015",
+    "code": "1003515015",
+    "name": "Malaig",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003515000",
+      "code": "1003515000",
+      "name": "Nunungan"
+    }
+  },
+  {
+    "id": "1003515014",
+    "code": "1003515014",
+    "name": "Mangan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003515000",
+      "code": "1003515000",
+      "name": "Nunungan"
+    }
+  },
+  {
+    "id": "1003515016",
+    "code": "1003515016",
+    "name": "Masibay",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003515000",
+      "code": "1003515000",
+      "name": "Nunungan"
+    }
+  },
+  {
+    "id": "1003515018",
+    "code": "1003515018",
+    "name": "Notongan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003515000",
+      "code": "1003515000",
+      "name": "Nunungan"
+    }
+  },
+  {
+    "id": "1003515020",
+    "code": "1003515020",
+    "name": "Panganapan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003515000",
+      "code": "1003515000",
+      "name": "Nunungan"
+    }
+  },
+  {
+    "id": "1003515021",
+    "code": "1003515021",
+    "name": "Pantar",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003515000",
+      "code": "1003515000",
+      "name": "Nunungan"
+    }
+  },
+  {
+    "id": "1003515022",
+    "code": "1003515022",
+    "name": "Paridi",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003515000",
+      "code": "1003515000",
+      "name": "Nunungan"
+    }
+  },
+  {
+    "id": "1003515019",
+    "code": "1003515019",
+    "name": "Petadun",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003515000",
+      "code": "1003515000",
+      "name": "Nunungan"
+    }
+  },
+  {
+    "id": "1003515017",
+    "code": "1003515017",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003515000",
+      "code": "1003515000",
+      "name": "Nunungan"
+    }
+  },
+  {
+    "id": "1003515023",
+    "code": "1003515023",
+    "name": "Rarab",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003515000",
+      "code": "1003515000",
+      "name": "Nunungan"
+    }
+  },
+  {
+    "id": "1003515024",
+    "code": "1003515024",
+    "name": "Raraban",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003515000",
+      "code": "1003515000",
+      "name": "Nunungan"
+    }
+  },
+  {
+    "id": "1003515025",
+    "code": "1003515025",
+    "name": "Rebucon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003515000",
+      "code": "1003515000",
+      "name": "Nunungan"
+    }
+  },
+  {
+    "id": "1003515026",
+    "code": "1003515026",
+    "name": "Songgod",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003515000",
+      "code": "1003515000",
+      "name": "Nunungan"
+    }
+  },
+  {
+    "id": "1003515027",
+    "code": "1003515027",
+    "name": "Taraka",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003515000",
+      "code": "1003515000",
+      "name": "Nunungan"
+    }
+  }
+]

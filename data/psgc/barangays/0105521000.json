@@ -1,0 +1,212 @@
+[
+  {
+    "id": "0105521001",
+    "code": "0105521001",
+    "name": "Bolo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105521000",
+      "code": "0105521000",
+      "name": "Labrador"
+    }
+  },
+  {
+    "id": "0105521002",
+    "code": "0105521002",
+    "name": "Bongalon",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105521000",
+      "code": "0105521000",
+      "name": "Labrador"
+    }
+  },
+  {
+    "id": "0105521003",
+    "code": "0105521003",
+    "name": "Dulig",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105521000",
+      "code": "0105521000",
+      "name": "Labrador"
+    }
+  },
+  {
+    "id": "0105521004",
+    "code": "0105521004",
+    "name": "Laois",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105521000",
+      "code": "0105521000",
+      "name": "Labrador"
+    }
+  },
+  {
+    "id": "0105521005",
+    "code": "0105521005",
+    "name": "Magsaysay",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105521000",
+      "code": "0105521000",
+      "name": "Labrador"
+    }
+  },
+  {
+    "id": "0105521006",
+    "code": "0105521006",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105521000",
+      "code": "0105521000",
+      "name": "Labrador"
+    }
+  },
+  {
+    "id": "0105521007",
+    "code": "0105521007",
+    "name": "San Gonzalo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105521000",
+      "code": "0105521000",
+      "name": "Labrador"
+    }
+  },
+  {
+    "id": "0105521008",
+    "code": "0105521008",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105521000",
+      "code": "0105521000",
+      "name": "Labrador"
+    }
+  },
+  {
+    "id": "0105521009",
+    "code": "0105521009",
+    "name": "Tobuan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105521000",
+      "code": "0105521000",
+      "name": "Labrador"
+    }
+  },
+  {
+    "id": "0105521010",
+    "code": "0105521010",
+    "name": "Uyong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105521000",
+      "code": "0105521000",
+      "name": "Labrador"
+    }
+  }
+]

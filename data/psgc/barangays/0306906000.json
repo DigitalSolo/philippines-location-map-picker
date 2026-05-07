@@ -1,0 +1,926 @@
+[
+  {
+    "id": "0306906001",
+    "code": "0306906001",
+    "name": "Abagon",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306906000",
+      "code": "0306906000",
+      "name": "Gerona"
+    }
+  },
+  {
+    "id": "0306906002",
+    "code": "0306906002",
+    "name": "Amacalan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306906000",
+      "code": "0306906000",
+      "name": "Gerona"
+    }
+  },
+  {
+    "id": "0306906003",
+    "code": "0306906003",
+    "name": "Apsayan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306906000",
+      "code": "0306906000",
+      "name": "Gerona"
+    }
+  },
+  {
+    "id": "0306906005",
+    "code": "0306906005",
+    "name": "Ayson",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306906000",
+      "code": "0306906000",
+      "name": "Gerona"
+    }
+  },
+  {
+    "id": "0306906006",
+    "code": "0306906006",
+    "name": "Bawa",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306906000",
+      "code": "0306906000",
+      "name": "Gerona"
+    }
+  },
+  {
+    "id": "0306906007",
+    "code": "0306906007",
+    "name": "Buenlag",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306906000",
+      "code": "0306906000",
+      "name": "Gerona"
+    }
+  },
+  {
+    "id": "0306906008",
+    "code": "0306906008",
+    "name": "Bularit",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306906000",
+      "code": "0306906000",
+      "name": "Gerona"
+    }
+  },
+  {
+    "id": "0306906009",
+    "code": "0306906009",
+    "name": "Calayaan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306906000",
+      "code": "0306906000",
+      "name": "Gerona"
+    }
+  },
+  {
+    "id": "0306906010",
+    "code": "0306906010",
+    "name": "Carbonel",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306906000",
+      "code": "0306906000",
+      "name": "Gerona"
+    }
+  },
+  {
+    "id": "0306906011",
+    "code": "0306906011",
+    "name": "Cardona",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306906000",
+      "code": "0306906000",
+      "name": "Gerona"
+    }
+  },
+  {
+    "id": "0306906012",
+    "code": "0306906012",
+    "name": "Caturay",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306906000",
+      "code": "0306906000",
+      "name": "Gerona"
+    }
+  },
+  {
+    "id": "0306906013",
+    "code": "0306906013",
+    "name": "Danzo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306906000",
+      "code": "0306906000",
+      "name": "Gerona"
+    }
+  },
+  {
+    "id": "0306906014",
+    "code": "0306906014",
+    "name": "Dicolor",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306906000",
+      "code": "0306906000",
+      "name": "Gerona"
+    }
+  },
+  {
+    "id": "0306906015",
+    "code": "0306906015",
+    "name": "Don Basilio",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306906000",
+      "code": "0306906000",
+      "name": "Gerona"
+    }
+  },
+  {
+    "id": "0306906016",
+    "code": "0306906016",
+    "name": "Luna",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306906000",
+      "code": "0306906000",
+      "name": "Gerona"
+    }
+  },
+  {
+    "id": "0306906017",
+    "code": "0306906017",
+    "name": "Mabini",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306906000",
+      "code": "0306906000",
+      "name": "Gerona"
+    }
+  },
+  {
+    "id": "0306906018",
+    "code": "0306906018",
+    "name": "Magaspac",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306906000",
+      "code": "0306906000",
+      "name": "Gerona"
+    }
+  },
+  {
+    "id": "0306906019",
+    "code": "0306906019",
+    "name": "Malayep",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306906000",
+      "code": "0306906000",
+      "name": "Gerona"
+    }
+  },
+  {
+    "id": "0306906020",
+    "code": "0306906020",
+    "name": "Matapitap",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306906000",
+      "code": "0306906000",
+      "name": "Gerona"
+    }
+  },
+  {
+    "id": "0306906021",
+    "code": "0306906021",
+    "name": "Matayuncab",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306906000",
+      "code": "0306906000",
+      "name": "Gerona"
+    }
+  },
+  {
+    "id": "0306906022",
+    "code": "0306906022",
+    "name": "New Salem",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306906000",
+      "code": "0306906000",
+      "name": "Gerona"
+    }
+  },
+  {
+    "id": "0306906024",
+    "code": "0306906024",
+    "name": "Oloybuaya",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306906000",
+      "code": "0306906000",
+      "name": "Gerona"
+    }
+  },
+  {
+    "id": "0306906025",
+    "code": "0306906025",
+    "name": "Padapada",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306906000",
+      "code": "0306906000",
+      "name": "Gerona"
+    }
+  },
+  {
+    "id": "0306906026",
+    "code": "0306906026",
+    "name": "Parsolingan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306906000",
+      "code": "0306906000",
+      "name": "Gerona"
+    }
+  },
+  {
+    "id": "0306906027",
+    "code": "0306906027",
+    "name": "Pinasling",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306906000",
+      "code": "0306906000",
+      "name": "Gerona"
+    }
+  },
+  {
+    "id": "0306906028",
+    "code": "0306906028",
+    "name": "Plastado",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306906000",
+      "code": "0306906000",
+      "name": "Gerona"
+    }
+  },
+  {
+    "id": "0306906029",
+    "code": "0306906029",
+    "name": "Poblacion 1",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306906000",
+      "code": "0306906000",
+      "name": "Gerona"
+    }
+  },
+  {
+    "id": "0306906030",
+    "code": "0306906030",
+    "name": "Poblacion 2",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306906000",
+      "code": "0306906000",
+      "name": "Gerona"
+    }
+  },
+  {
+    "id": "0306906031",
+    "code": "0306906031",
+    "name": "Poblacion 3",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306906000",
+      "code": "0306906000",
+      "name": "Gerona"
+    }
+  },
+  {
+    "id": "0306906032",
+    "code": "0306906032",
+    "name": "Quezon",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306906000",
+      "code": "0306906000",
+      "name": "Gerona"
+    }
+  },
+  {
+    "id": "0306906033",
+    "code": "0306906033",
+    "name": "Rizal",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306906000",
+      "code": "0306906000",
+      "name": "Gerona"
+    }
+  },
+  {
+    "id": "0306906034",
+    "code": "0306906034",
+    "name": "Salapungan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306906000",
+      "code": "0306906000",
+      "name": "Gerona"
+    }
+  },
+  {
+    "id": "0306906035",
+    "code": "0306906035",
+    "name": "San Agustin",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306906000",
+      "code": "0306906000",
+      "name": "Gerona"
+    }
+  },
+  {
+    "id": "0306906036",
+    "code": "0306906036",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306906000",
+      "code": "0306906000",
+      "name": "Gerona"
+    }
+  },
+  {
+    "id": "0306906037",
+    "code": "0306906037",
+    "name": "San Bartolome",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306906000",
+      "code": "0306906000",
+      "name": "Gerona"
+    }
+  },
+  {
+    "id": "0306906038",
+    "code": "0306906038",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306906000",
+      "code": "0306906000",
+      "name": "Gerona"
+    }
+  },
+  {
+    "id": "0306906039",
+    "code": "0306906039",
+    "name": "Santa Lucia",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306906000",
+      "code": "0306906000",
+      "name": "Gerona"
+    }
+  },
+  {
+    "id": "0306906040",
+    "code": "0306906040",
+    "name": "Santiago",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306906000",
+      "code": "0306906000",
+      "name": "Gerona"
+    }
+  },
+  {
+    "id": "0306906041",
+    "code": "0306906041",
+    "name": "Sembrano",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306906000",
+      "code": "0306906000",
+      "name": "Gerona"
+    }
+  },
+  {
+    "id": "0306906043",
+    "code": "0306906043",
+    "name": "Singat",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306906000",
+      "code": "0306906000",
+      "name": "Gerona"
+    }
+  },
+  {
+    "id": "0306906044",
+    "code": "0306906044",
+    "name": "Sulipa",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306906000",
+      "code": "0306906000",
+      "name": "Gerona"
+    }
+  },
+  {
+    "id": "0306906045",
+    "code": "0306906045",
+    "name": "Tagumbao",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306906000",
+      "code": "0306906000",
+      "name": "Gerona"
+    }
+  },
+  {
+    "id": "0306906047",
+    "code": "0306906047",
+    "name": "Tangcaran",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306906000",
+      "code": "0306906000",
+      "name": "Gerona"
+    }
+  },
+  {
+    "id": "0306906048",
+    "code": "0306906048",
+    "name": "Villa Paz",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0306900000",
+      "code": "0306900000",
+      "name": "Tarlac"
+    },
+    "city_municipality": {
+      "id": "0306906000",
+      "code": "0306906000",
+      "name": "Gerona"
+    }
+  }
+]

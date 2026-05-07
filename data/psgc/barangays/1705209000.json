@@ -1,0 +1,779 @@
+[
+  {
+    "id": "1705209001",
+    "code": "1705209001",
+    "name": "Anoling",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705209000",
+      "code": "1705209000",
+      "name": "Pinamalayan"
+    }
+  },
+  {
+    "id": "1705209002",
+    "code": "1705209002",
+    "name": "Bacungan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705209000",
+      "code": "1705209000",
+      "name": "Pinamalayan"
+    }
+  },
+  {
+    "id": "1705209003",
+    "code": "1705209003",
+    "name": "Bangbang",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705209000",
+      "code": "1705209000",
+      "name": "Pinamalayan"
+    }
+  },
+  {
+    "id": "1705209004",
+    "code": "1705209004",
+    "name": "Banilad",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705209000",
+      "code": "1705209000",
+      "name": "Pinamalayan"
+    }
+  },
+  {
+    "id": "1705209005",
+    "code": "1705209005",
+    "name": "Buli",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705209000",
+      "code": "1705209000",
+      "name": "Pinamalayan"
+    }
+  },
+  {
+    "id": "1705209006",
+    "code": "1705209006",
+    "name": "Cacawan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705209000",
+      "code": "1705209000",
+      "name": "Pinamalayan"
+    }
+  },
+  {
+    "id": "1705209007",
+    "code": "1705209007",
+    "name": "Calingag",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705209000",
+      "code": "1705209000",
+      "name": "Pinamalayan"
+    }
+  },
+  {
+    "id": "1705209008",
+    "code": "1705209008",
+    "name": "Delrazon",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705209000",
+      "code": "1705209000",
+      "name": "Pinamalayan"
+    }
+  },
+  {
+    "id": "1705209037",
+    "code": "1705209037",
+    "name": "Guinhawa",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705209000",
+      "code": "1705209000",
+      "name": "Pinamalayan"
+    }
+  },
+  {
+    "id": "1705209009",
+    "code": "1705209009",
+    "name": "Inclanay",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705209000",
+      "code": "1705209000",
+      "name": "Pinamalayan"
+    }
+  },
+  {
+    "id": "1705209010",
+    "code": "1705209010",
+    "name": "Lumambayan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705209000",
+      "code": "1705209000",
+      "name": "Pinamalayan"
+    }
+  },
+  {
+    "id": "1705209011",
+    "code": "1705209011",
+    "name": "Malaya",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705209000",
+      "code": "1705209000",
+      "name": "Pinamalayan"
+    }
+  },
+  {
+    "id": "1705209012",
+    "code": "1705209012",
+    "name": "Maliangcog",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705209000",
+      "code": "1705209000",
+      "name": "Pinamalayan"
+    }
+  },
+  {
+    "id": "1705209013",
+    "code": "1705209013",
+    "name": "Maningcol",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705209000",
+      "code": "1705209000",
+      "name": "Pinamalayan"
+    }
+  },
+  {
+    "id": "1705209014",
+    "code": "1705209014",
+    "name": "Marayos",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705209000",
+      "code": "1705209000",
+      "name": "Pinamalayan"
+    }
+  },
+  {
+    "id": "1705209015",
+    "code": "1705209015",
+    "name": "Marfrancisco",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705209000",
+      "code": "1705209000",
+      "name": "Pinamalayan"
+    }
+  },
+  {
+    "id": "1705209016",
+    "code": "1705209016",
+    "name": "Nabuslot",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705209000",
+      "code": "1705209000",
+      "name": "Pinamalayan"
+    }
+  },
+  {
+    "id": "1705209017",
+    "code": "1705209017",
+    "name": "Pagalagala",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705209000",
+      "code": "1705209000",
+      "name": "Pinamalayan"
+    }
+  },
+  {
+    "id": "1705209018",
+    "code": "1705209018",
+    "name": "Palayan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705209000",
+      "code": "1705209000",
+      "name": "Pinamalayan"
+    }
+  },
+  {
+    "id": "1705209019",
+    "code": "1705209019",
+    "name": "Pambisan Malaki",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705209000",
+      "code": "1705209000",
+      "name": "Pinamalayan"
+    }
+  },
+  {
+    "id": "1705209020",
+    "code": "1705209020",
+    "name": "Pambisan Munti",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705209000",
+      "code": "1705209000",
+      "name": "Pinamalayan"
+    }
+  },
+  {
+    "id": "1705209021",
+    "code": "1705209021",
+    "name": "Panggulayan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705209000",
+      "code": "1705209000",
+      "name": "Pinamalayan"
+    }
+  },
+  {
+    "id": "1705209022",
+    "code": "1705209022",
+    "name": "Papandayan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705209000",
+      "code": "1705209000",
+      "name": "Pinamalayan"
+    }
+  },
+  {
+    "id": "1705209023",
+    "code": "1705209023",
+    "name": "Pili",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705209000",
+      "code": "1705209000",
+      "name": "Pinamalayan"
+    }
+  },
+  {
+    "id": "1705209027",
+    "code": "1705209027",
+    "name": "Quinabigan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705209000",
+      "code": "1705209000",
+      "name": "Pinamalayan"
+    }
+  },
+  {
+    "id": "1705209028",
+    "code": "1705209028",
+    "name": "Ranzo",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705209000",
+      "code": "1705209000",
+      "name": "Pinamalayan"
+    }
+  },
+  {
+    "id": "1705209029",
+    "code": "1705209029",
+    "name": "Rosario",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705209000",
+      "code": "1705209000",
+      "name": "Pinamalayan"
+    }
+  },
+  {
+    "id": "1705209030",
+    "code": "1705209030",
+    "name": "Sabang",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705209000",
+      "code": "1705209000",
+      "name": "Pinamalayan"
+    }
+  },
+  {
+    "id": "1705209031",
+    "code": "1705209031",
+    "name": "Sta. Isabel",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705209000",
+      "code": "1705209000",
+      "name": "Pinamalayan"
+    }
+  },
+  {
+    "id": "1705209032",
+    "code": "1705209032",
+    "name": "Sta. Maria",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705209000",
+      "code": "1705209000",
+      "name": "Pinamalayan"
+    }
+  },
+  {
+    "id": "1705209033",
+    "code": "1705209033",
+    "name": "Sta. Rita",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705209000",
+      "code": "1705209000",
+      "name": "Pinamalayan"
+    }
+  },
+  {
+    "id": "1705209036",
+    "code": "1705209036",
+    "name": "Sto. Niño",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705209000",
+      "code": "1705209000",
+      "name": "Pinamalayan"
+    }
+  },
+  {
+    "id": "1705209034",
+    "code": "1705209034",
+    "name": "Wawa",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705209000",
+      "code": "1705209000",
+      "name": "Pinamalayan"
+    }
+  },
+  {
+    "id": "1705209035",
+    "code": "1705209035",
+    "name": "Zone I",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705209000",
+      "code": "1705209000",
+      "name": "Pinamalayan"
+    }
+  },
+  {
+    "id": "1705209024",
+    "code": "1705209024",
+    "name": "Zone II",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705209000",
+      "code": "1705209000",
+      "name": "Pinamalayan"
+    }
+  },
+  {
+    "id": "1705209025",
+    "code": "1705209025",
+    "name": "Zone III",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705209000",
+      "code": "1705209000",
+      "name": "Pinamalayan"
+    }
+  },
+  {
+    "id": "1705209026",
+    "code": "1705209026",
+    "name": "Zone IV",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705209000",
+      "code": "1705209000",
+      "name": "Pinamalayan"
+    }
+  }
+]

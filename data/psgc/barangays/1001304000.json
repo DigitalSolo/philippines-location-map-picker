@@ -1,0 +1,611 @@
+[
+  {
+    "id": "1001304030",
+    "code": "1001304030",
+    "name": "Bismartz",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001304000",
+      "code": "1001304000",
+      "name": "Don Carlos"
+    }
+  },
+  {
+    "id": "1001304002",
+    "code": "1001304002",
+    "name": "Bocboc",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001304000",
+      "code": "1001304000",
+      "name": "Don Carlos"
+    }
+  },
+  {
+    "id": "1001304003",
+    "code": "1001304003",
+    "name": "Buyot",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001304000",
+      "code": "1001304000",
+      "name": "Don Carlos"
+    }
+  },
+  {
+    "id": "1001304001",
+    "code": "1001304001",
+    "name": "Cabadiangan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001304000",
+      "code": "1001304000",
+      "name": "Don Carlos"
+    }
+  },
+  {
+    "id": "1001304004",
+    "code": "1001304004",
+    "name": "Calaocalao",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001304000",
+      "code": "1001304000",
+      "name": "Don Carlos"
+    }
+  },
+  {
+    "id": "1001304005",
+    "code": "1001304005",
+    "name": "Don Carlos Norte",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001304000",
+      "code": "1001304000",
+      "name": "Don Carlos"
+    }
+  },
+  {
+    "id": "1001304022",
+    "code": "1001304022",
+    "name": "Don Carlos Sur",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001304000",
+      "code": "1001304000",
+      "name": "Don Carlos"
+    }
+  },
+  {
+    "id": "1001304006",
+    "code": "1001304006",
+    "name": "Embayao",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001304000",
+      "code": "1001304000",
+      "name": "Don Carlos"
+    }
+  },
+  {
+    "id": "1001304008",
+    "code": "1001304008",
+    "name": "Kalubihon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001304000",
+      "code": "1001304000",
+      "name": "Don Carlos"
+    }
+  },
+  {
+    "id": "1001304009",
+    "code": "1001304009",
+    "name": "Kasigkot",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001304000",
+      "code": "1001304000",
+      "name": "Don Carlos"
+    }
+  },
+  {
+    "id": "1001304010",
+    "code": "1001304010",
+    "name": "Kawilihan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001304000",
+      "code": "1001304000",
+      "name": "Don Carlos"
+    }
+  },
+  {
+    "id": "1001304011",
+    "code": "1001304011",
+    "name": "Kiara",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001304000",
+      "code": "1001304000",
+      "name": "Don Carlos"
+    }
+  },
+  {
+    "id": "1001304012",
+    "code": "1001304012",
+    "name": "Kibatang",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001304000",
+      "code": "1001304000",
+      "name": "Don Carlos"
+    }
+  },
+  {
+    "id": "1001304013",
+    "code": "1001304013",
+    "name": "Mahayahay",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001304000",
+      "code": "1001304000",
+      "name": "Don Carlos"
+    }
+  },
+  {
+    "id": "1001304014",
+    "code": "1001304014",
+    "name": "Manlamonay",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001304000",
+      "code": "1001304000",
+      "name": "Don Carlos"
+    }
+  },
+  {
+    "id": "1001304015",
+    "code": "1001304015",
+    "name": "Maraymaray",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001304000",
+      "code": "1001304000",
+      "name": "Don Carlos"
+    }
+  },
+  {
+    "id": "1001304016",
+    "code": "1001304016",
+    "name": "Mauswagon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001304000",
+      "code": "1001304000",
+      "name": "Don Carlos"
+    }
+  },
+  {
+    "id": "1001304017",
+    "code": "1001304017",
+    "name": "Minsalagan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001304000",
+      "code": "1001304000",
+      "name": "Don Carlos"
+    }
+  },
+  {
+    "id": "1001304018",
+    "code": "1001304018",
+    "name": "New Nongnongan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001304000",
+      "code": "1001304000",
+      "name": "Don Carlos"
+    }
+  },
+  {
+    "id": "1001304019",
+    "code": "1001304019",
+    "name": "New Visayas",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001304000",
+      "code": "1001304000",
+      "name": "Don Carlos"
+    }
+  },
+  {
+    "id": "1001304020",
+    "code": "1001304020",
+    "name": "Old Nongnongan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001304000",
+      "code": "1001304000",
+      "name": "Don Carlos"
+    }
+  },
+  {
+    "id": "1001304021",
+    "code": "1001304021",
+    "name": "Pinamaloy",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001304000",
+      "code": "1001304000",
+      "name": "Don Carlos"
+    }
+  },
+  {
+    "id": "1001304023",
+    "code": "1001304023",
+    "name": "Pualas",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001304000",
+      "code": "1001304000",
+      "name": "Don Carlos"
+    }
+  },
+  {
+    "id": "1001304024",
+    "code": "1001304024",
+    "name": "San Antonio East",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001304000",
+      "code": "1001304000",
+      "name": "Don Carlos"
+    }
+  },
+  {
+    "id": "1001304025",
+    "code": "1001304025",
+    "name": "San Antonio West",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001304000",
+      "code": "1001304000",
+      "name": "Don Carlos"
+    }
+  },
+  {
+    "id": "1001304026",
+    "code": "1001304026",
+    "name": "San Francisco",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001304000",
+      "code": "1001304000",
+      "name": "Don Carlos"
+    }
+  },
+  {
+    "id": "1001304027",
+    "code": "1001304027",
+    "name": "San Nicolas",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001304000",
+      "code": "1001304000",
+      "name": "Don Carlos"
+    }
+  },
+  {
+    "id": "1001304028",
+    "code": "1001304028",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001304000",
+      "code": "1001304000",
+      "name": "Don Carlos"
+    }
+  },
+  {
+    "id": "1001304029",
+    "code": "1001304029",
+    "name": "Sinangguyan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001304000",
+      "code": "1001304000",
+      "name": "Don Carlos"
+    }
+  }
+]

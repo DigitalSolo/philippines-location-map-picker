@@ -1,0 +1,401 @@
+[
+  {
+    "id": "0203124001",
+    "code": "0203124001",
+    "name": "Ambatali",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203124000",
+      "code": "0203124000",
+      "name": "Ramon"
+    }
+  },
+  {
+    "id": "0203124002",
+    "code": "0203124002",
+    "name": "Bantug",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203124000",
+      "code": "0203124000",
+      "name": "Ramon"
+    }
+  },
+  {
+    "id": "0203124004",
+    "code": "0203124004",
+    "name": "Bugallon Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203124000",
+      "code": "0203124000",
+      "name": "Ramon"
+    }
+  },
+  {
+    "id": "0203124022",
+    "code": "0203124022",
+    "name": "Bugallon Proper",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203124000",
+      "code": "0203124000",
+      "name": "Ramon"
+    }
+  },
+  {
+    "id": "0203124005",
+    "code": "0203124005",
+    "name": "Burgos",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203124000",
+      "code": "0203124000",
+      "name": "Ramon"
+    }
+  },
+  {
+    "id": "0203124021",
+    "code": "0203124021",
+    "name": "General Aguinaldo",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203124000",
+      "code": "0203124000",
+      "name": "Ramon"
+    }
+  },
+  {
+    "id": "0203124006",
+    "code": "0203124006",
+    "name": "Nagbacalan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203124000",
+      "code": "0203124000",
+      "name": "Ramon"
+    }
+  },
+  {
+    "id": "0203124007",
+    "code": "0203124007",
+    "name": "Oscariz",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203124000",
+      "code": "0203124000",
+      "name": "Ramon"
+    }
+  },
+  {
+    "id": "0203124008",
+    "code": "0203124008",
+    "name": "Pabil",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203124000",
+      "code": "0203124000",
+      "name": "Ramon"
+    }
+  },
+  {
+    "id": "0203124009",
+    "code": "0203124009",
+    "name": "Pagrang-ayan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203124000",
+      "code": "0203124000",
+      "name": "Ramon"
+    }
+  },
+  {
+    "id": "0203124011",
+    "code": "0203124011",
+    "name": "Planas",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203124000",
+      "code": "0203124000",
+      "name": "Ramon"
+    }
+  },
+  {
+    "id": "0203124012",
+    "code": "0203124012",
+    "name": "Purok ni Bulan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203124000",
+      "code": "0203124000",
+      "name": "Ramon"
+    }
+  },
+  {
+    "id": "0203124013",
+    "code": "0203124013",
+    "name": "Raniag",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203124000",
+      "code": "0203124000",
+      "name": "Ramon"
+    }
+  },
+  {
+    "id": "0203124014",
+    "code": "0203124014",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203124000",
+      "code": "0203124000",
+      "name": "Ramon"
+    }
+  },
+  {
+    "id": "0203124015",
+    "code": "0203124015",
+    "name": "San Miguel",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203124000",
+      "code": "0203124000",
+      "name": "Ramon"
+    }
+  },
+  {
+    "id": "0203124016",
+    "code": "0203124016",
+    "name": "San Sebastian",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203124000",
+      "code": "0203124000",
+      "name": "Ramon"
+    }
+  },
+  {
+    "id": "0203124018",
+    "code": "0203124018",
+    "name": "Villa Beltran",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203124000",
+      "code": "0203124000",
+      "name": "Ramon"
+    }
+  },
+  {
+    "id": "0203124019",
+    "code": "0203124019",
+    "name": "Villa Carmen",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203124000",
+      "code": "0203124000",
+      "name": "Ramon"
+    }
+  },
+  {
+    "id": "0203124020",
+    "code": "0203124020",
+    "name": "Villa Marcos",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203124000",
+      "code": "0203124000",
+      "name": "Ramon"
+    }
+  }
+]

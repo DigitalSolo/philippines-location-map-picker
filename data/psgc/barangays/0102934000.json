@@ -1,0 +1,821 @@
+[
+  {
+    "id": "0102934001",
+    "code": "0102934001",
+    "name": "Ayusan Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102934000",
+      "code": "0102934000",
+      "name": "City of Vigan"
+    }
+  },
+  {
+    "id": "0102934002",
+    "code": "0102934002",
+    "name": "Ayusan Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102934000",
+      "code": "0102934000",
+      "name": "City of Vigan"
+    }
+  },
+  {
+    "id": "0102934003",
+    "code": "0102934003",
+    "name": "Barangay I",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102934000",
+      "code": "0102934000",
+      "name": "City of Vigan"
+    }
+  },
+  {
+    "id": "0102934004",
+    "code": "0102934004",
+    "name": "Barangay II",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102934000",
+      "code": "0102934000",
+      "name": "City of Vigan"
+    }
+  },
+  {
+    "id": "0102934005",
+    "code": "0102934005",
+    "name": "Barangay III",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102934000",
+      "code": "0102934000",
+      "name": "City of Vigan"
+    }
+  },
+  {
+    "id": "0102934006",
+    "code": "0102934006",
+    "name": "Barangay IV",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102934000",
+      "code": "0102934000",
+      "name": "City of Vigan"
+    }
+  },
+  {
+    "id": "0102934040",
+    "code": "0102934040",
+    "name": "Barangay IX",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102934000",
+      "code": "0102934000",
+      "name": "City of Vigan"
+    }
+  },
+  {
+    "id": "0102934007",
+    "code": "0102934007",
+    "name": "Barangay V",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102934000",
+      "code": "0102934000",
+      "name": "City of Vigan"
+    }
+  },
+  {
+    "id": "0102934008",
+    "code": "0102934008",
+    "name": "Barangay VI",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102934000",
+      "code": "0102934000",
+      "name": "City of Vigan"
+    }
+  },
+  {
+    "id": "0102934038",
+    "code": "0102934038",
+    "name": "Barangay VII",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102934000",
+      "code": "0102934000",
+      "name": "City of Vigan"
+    }
+  },
+  {
+    "id": "0102934039",
+    "code": "0102934039",
+    "name": "Barangay VIII",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102934000",
+      "code": "0102934000",
+      "name": "City of Vigan"
+    }
+  },
+  {
+    "id": "0102934009",
+    "code": "0102934009",
+    "name": "Barraca",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102934000",
+      "code": "0102934000",
+      "name": "City of Vigan"
+    }
+  },
+  {
+    "id": "0102934011",
+    "code": "0102934011",
+    "name": "Beddeng Daya",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102934000",
+      "code": "0102934000",
+      "name": "City of Vigan"
+    }
+  },
+  {
+    "id": "0102934010",
+    "code": "0102934010",
+    "name": "Beddeng Laud",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102934000",
+      "code": "0102934000",
+      "name": "City of Vigan"
+    }
+  },
+  {
+    "id": "0102934012",
+    "code": "0102934012",
+    "name": "Bongtolan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102934000",
+      "code": "0102934000",
+      "name": "City of Vigan"
+    }
+  },
+  {
+    "id": "0102934013",
+    "code": "0102934013",
+    "name": "Bulala",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102934000",
+      "code": "0102934000",
+      "name": "City of Vigan"
+    }
+  },
+  {
+    "id": "0102934014",
+    "code": "0102934014",
+    "name": "Cabalangegan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102934000",
+      "code": "0102934000",
+      "name": "City of Vigan"
+    }
+  },
+  {
+    "id": "0102934015",
+    "code": "0102934015",
+    "name": "Cabaroan Daya",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102934000",
+      "code": "0102934000",
+      "name": "City of Vigan"
+    }
+  },
+  {
+    "id": "0102934016",
+    "code": "0102934016",
+    "name": "Cabaroan Laud",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102934000",
+      "code": "0102934000",
+      "name": "City of Vigan"
+    }
+  },
+  {
+    "id": "0102934017",
+    "code": "0102934017",
+    "name": "Camangaan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102934000",
+      "code": "0102934000",
+      "name": "City of Vigan"
+    }
+  },
+  {
+    "id": "0102934018",
+    "code": "0102934018",
+    "name": "Capangpangan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102934000",
+      "code": "0102934000",
+      "name": "City of Vigan"
+    }
+  },
+  {
+    "id": "0102934020",
+    "code": "0102934020",
+    "name": "Mindoro",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102934000",
+      "code": "0102934000",
+      "name": "City of Vigan"
+    }
+  },
+  {
+    "id": "0102934021",
+    "code": "0102934021",
+    "name": "Nagsangalan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102934000",
+      "code": "0102934000",
+      "name": "City of Vigan"
+    }
+  },
+  {
+    "id": "0102934022",
+    "code": "0102934022",
+    "name": "Pantay Daya",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102934000",
+      "code": "0102934000",
+      "name": "City of Vigan"
+    }
+  },
+  {
+    "id": "0102934023",
+    "code": "0102934023",
+    "name": "Pantay Fatima",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102934000",
+      "code": "0102934000",
+      "name": "City of Vigan"
+    }
+  },
+  {
+    "id": "0102934024",
+    "code": "0102934024",
+    "name": "Pantay Laud",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102934000",
+      "code": "0102934000",
+      "name": "City of Vigan"
+    }
+  },
+  {
+    "id": "0102934025",
+    "code": "0102934025",
+    "name": "Paoa",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102934000",
+      "code": "0102934000",
+      "name": "City of Vigan"
+    }
+  },
+  {
+    "id": "0102934026",
+    "code": "0102934026",
+    "name": "Paratong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102934000",
+      "code": "0102934000",
+      "name": "City of Vigan"
+    }
+  },
+  {
+    "id": "0102934027",
+    "code": "0102934027",
+    "name": "Pong-ol",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102934000",
+      "code": "0102934000",
+      "name": "City of Vigan"
+    }
+  },
+  {
+    "id": "0102934028",
+    "code": "0102934028",
+    "name": "Purok-a-bassit",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102934000",
+      "code": "0102934000",
+      "name": "City of Vigan"
+    }
+  },
+  {
+    "id": "0102934029",
+    "code": "0102934029",
+    "name": "Purok-a-dackel",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102934000",
+      "code": "0102934000",
+      "name": "City of Vigan"
+    }
+  },
+  {
+    "id": "0102934030",
+    "code": "0102934030",
+    "name": "Raois",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102934000",
+      "code": "0102934000",
+      "name": "City of Vigan"
+    }
+  },
+  {
+    "id": "0102934031",
+    "code": "0102934031",
+    "name": "Rugsuanan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102934000",
+      "code": "0102934000",
+      "name": "City of Vigan"
+    }
+  },
+  {
+    "id": "0102934032",
+    "code": "0102934032",
+    "name": "Salindeg",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102934000",
+      "code": "0102934000",
+      "name": "City of Vigan"
+    }
+  },
+  {
+    "id": "0102934033",
+    "code": "0102934033",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102934000",
+      "code": "0102934000",
+      "name": "City of Vigan"
+    }
+  },
+  {
+    "id": "0102934034",
+    "code": "0102934034",
+    "name": "San Julian Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102934000",
+      "code": "0102934000",
+      "name": "City of Vigan"
+    }
+  },
+  {
+    "id": "0102934035",
+    "code": "0102934035",
+    "name": "San Julian Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102934000",
+      "code": "0102934000",
+      "name": "City of Vigan"
+    }
+  },
+  {
+    "id": "0102934036",
+    "code": "0102934036",
+    "name": "San Pedro",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102934000",
+      "code": "0102934000",
+      "name": "City of Vigan"
+    }
+  },
+  {
+    "id": "0102934037",
+    "code": "0102934037",
+    "name": "Tamag",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102934000",
+      "code": "0102934000",
+      "name": "City of Vigan"
+    }
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "id": "0103320001",
+    "code": "0103320001",
+    "name": "Amallapay",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103320000",
+      "code": "0103320000",
+      "name": "Tubao"
+    }
+  },
+  {
+    "id": "0103320002",
+    "code": "0103320002",
+    "name": "Anduyan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103320000",
+      "code": "0103320000",
+      "name": "Tubao"
+    }
+  },
+  {
+    "id": "0103320003",
+    "code": "0103320003",
+    "name": "Caoigue",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103320000",
+      "code": "0103320000",
+      "name": "Tubao"
+    }
+  },
+  {
+    "id": "0103320004",
+    "code": "0103320004",
+    "name": "Francia Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103320000",
+      "code": "0103320000",
+      "name": "Tubao"
+    }
+  },
+  {
+    "id": "0103320005",
+    "code": "0103320005",
+    "name": "Francia West",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103320000",
+      "code": "0103320000",
+      "name": "Tubao"
+    }
+  },
+  {
+    "id": "0103320006",
+    "code": "0103320006",
+    "name": "Garcia",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103320000",
+      "code": "0103320000",
+      "name": "Tubao"
+    }
+  },
+  {
+    "id": "0103320007",
+    "code": "0103320007",
+    "name": "Gonzales",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103320000",
+      "code": "0103320000",
+      "name": "Tubao"
+    }
+  },
+  {
+    "id": "0103320008",
+    "code": "0103320008",
+    "name": "Halog East",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103320000",
+      "code": "0103320000",
+      "name": "Tubao"
+    }
+  },
+  {
+    "id": "0103320009",
+    "code": "0103320009",
+    "name": "Halog West",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103320000",
+      "code": "0103320000",
+      "name": "Tubao"
+    }
+  },
+  {
+    "id": "0103320010",
+    "code": "0103320010",
+    "name": "Leones East",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103320000",
+      "code": "0103320000",
+      "name": "Tubao"
+    }
+  },
+  {
+    "id": "0103320011",
+    "code": "0103320011",
+    "name": "Leones West",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103320000",
+      "code": "0103320000",
+      "name": "Tubao"
+    }
+  },
+  {
+    "id": "0103320012",
+    "code": "0103320012",
+    "name": "Linapew",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103320000",
+      "code": "0103320000",
+      "name": "Tubao"
+    }
+  },
+  {
+    "id": "0103320020",
+    "code": "0103320020",
+    "name": "Lloren",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103320000",
+      "code": "0103320000",
+      "name": "Tubao"
+    }
+  },
+  {
+    "id": "0103320015",
+    "code": "0103320015",
+    "name": "Magsaysay",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103320000",
+      "code": "0103320000",
+      "name": "Tubao"
+    }
+  },
+  {
+    "id": "0103320016",
+    "code": "0103320016",
+    "name": "Pideg",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103320000",
+      "code": "0103320000",
+      "name": "Tubao"
+    }
+  },
+  {
+    "id": "0103320017",
+    "code": "0103320017",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103320000",
+      "code": "0103320000",
+      "name": "Tubao"
+    }
+  },
+  {
+    "id": "0103320018",
+    "code": "0103320018",
+    "name": "Rizal",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103320000",
+      "code": "0103320000",
+      "name": "Tubao"
+    }
+  },
+  {
+    "id": "0103320019",
+    "code": "0103320019",
+    "name": "Santa Teresa",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103320000",
+      "code": "0103320000",
+      "name": "Tubao"
+    }
+  }
+]

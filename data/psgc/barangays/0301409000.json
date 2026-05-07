@@ -1,0 +1,548 @@
+[
+  {
+    "id": "0301409001",
+    "code": "0301409001",
+    "name": "Abulalas",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301409000",
+      "code": "0301409000",
+      "name": "Hagonoy"
+    }
+  },
+  {
+    "id": "0301409002",
+    "code": "0301409002",
+    "name": "Carillo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301409000",
+      "code": "0301409000",
+      "name": "Hagonoy"
+    }
+  },
+  {
+    "id": "0301409003",
+    "code": "0301409003",
+    "name": "Iba",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301409000",
+      "code": "0301409000",
+      "name": "Hagonoy"
+    }
+  },
+  {
+    "id": "0301409027",
+    "code": "0301409027",
+    "name": "Iba-Ibayo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301409000",
+      "code": "0301409000",
+      "name": "Hagonoy"
+    }
+  },
+  {
+    "id": "0301409004",
+    "code": "0301409004",
+    "name": "Mercado",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301409000",
+      "code": "0301409000",
+      "name": "Hagonoy"
+    }
+  },
+  {
+    "id": "0301409005",
+    "code": "0301409005",
+    "name": "Palapat",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301409000",
+      "code": "0301409000",
+      "name": "Hagonoy"
+    }
+  },
+  {
+    "id": "0301409006",
+    "code": "0301409006",
+    "name": "Pugad",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301409000",
+      "code": "0301409000",
+      "name": "Hagonoy"
+    }
+  },
+  {
+    "id": "0301409007",
+    "code": "0301409007",
+    "name": "Sagrada Familia",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301409000",
+      "code": "0301409000",
+      "name": "Hagonoy"
+    }
+  },
+  {
+    "id": "0301409008",
+    "code": "0301409008",
+    "name": "San Agustin",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301409000",
+      "code": "0301409000",
+      "name": "Hagonoy"
+    }
+  },
+  {
+    "id": "0301409009",
+    "code": "0301409009",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301409000",
+      "code": "0301409000",
+      "name": "Hagonoy"
+    }
+  },
+  {
+    "id": "0301409011",
+    "code": "0301409011",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301409000",
+      "code": "0301409000",
+      "name": "Hagonoy"
+    }
+  },
+  {
+    "id": "0301409012",
+    "code": "0301409012",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301409000",
+      "code": "0301409000",
+      "name": "Hagonoy"
+    }
+  },
+  {
+    "id": "0301409013",
+    "code": "0301409013",
+    "name": "San Miguel",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301409000",
+      "code": "0301409000",
+      "name": "Hagonoy"
+    }
+  },
+  {
+    "id": "0301409014",
+    "code": "0301409014",
+    "name": "San Nicolas",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301409000",
+      "code": "0301409000",
+      "name": "Hagonoy"
+    }
+  },
+  {
+    "id": "0301409015",
+    "code": "0301409015",
+    "name": "San Pablo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301409000",
+      "code": "0301409000",
+      "name": "Hagonoy"
+    }
+  },
+  {
+    "id": "0301409016",
+    "code": "0301409016",
+    "name": "San Pascual",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301409000",
+      "code": "0301409000",
+      "name": "Hagonoy"
+    }
+  },
+  {
+    "id": "0301409017",
+    "code": "0301409017",
+    "name": "San Pedro",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301409000",
+      "code": "0301409000",
+      "name": "Hagonoy"
+    }
+  },
+  {
+    "id": "0301409018",
+    "code": "0301409018",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301409000",
+      "code": "0301409000",
+      "name": "Hagonoy"
+    }
+  },
+  {
+    "id": "0301409019",
+    "code": "0301409019",
+    "name": "San Sebastian",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301409000",
+      "code": "0301409000",
+      "name": "Hagonoy"
+    }
+  },
+  {
+    "id": "0301409020",
+    "code": "0301409020",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301409000",
+      "code": "0301409000",
+      "name": "Hagonoy"
+    }
+  },
+  {
+    "id": "0301409021",
+    "code": "0301409021",
+    "name": "Santa Elena",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301409000",
+      "code": "0301409000",
+      "name": "Hagonoy"
+    }
+  },
+  {
+    "id": "0301409022",
+    "code": "0301409022",
+    "name": "Santa Monica",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301409000",
+      "code": "0301409000",
+      "name": "Hagonoy"
+    }
+  },
+  {
+    "id": "0301409023",
+    "code": "0301409023",
+    "name": "Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301409000",
+      "code": "0301409000",
+      "name": "Hagonoy"
+    }
+  },
+  {
+    "id": "0301409024",
+    "code": "0301409024",
+    "name": "Santo Rosario",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301409000",
+      "code": "0301409000",
+      "name": "Hagonoy"
+    }
+  },
+  {
+    "id": "0301409025",
+    "code": "0301409025",
+    "name": "Tampok",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301409000",
+      "code": "0301409000",
+      "name": "Hagonoy"
+    }
+  },
+  {
+    "id": "0301409026",
+    "code": "0301409026",
+    "name": "Tibaguin",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301409000",
+      "code": "0301409000",
+      "name": "Hagonoy"
+    }
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "id": "0701241001",
+    "code": "0701241001",
+    "name": "Abucay Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701241000",
+      "code": "0701241000",
+      "name": "Sikatuna"
+    }
+  },
+  {
+    "id": "0701241002",
+    "code": "0701241002",
+    "name": "Abucay Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701241000",
+      "code": "0701241000",
+      "name": "Sikatuna"
+    }
+  },
+  {
+    "id": "0701241003",
+    "code": "0701241003",
+    "name": "Badiang",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701241000",
+      "code": "0701241000",
+      "name": "Sikatuna"
+    }
+  },
+  {
+    "id": "0701241004",
+    "code": "0701241004",
+    "name": "Bahaybahay",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701241000",
+      "code": "0701241000",
+      "name": "Sikatuna"
+    }
+  },
+  {
+    "id": "0701241005",
+    "code": "0701241005",
+    "name": "Cambuac Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701241000",
+      "code": "0701241000",
+      "name": "Sikatuna"
+    }
+  },
+  {
+    "id": "0701241006",
+    "code": "0701241006",
+    "name": "Cambuac Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701241000",
+      "code": "0701241000",
+      "name": "Sikatuna"
+    }
+  },
+  {
+    "id": "0701241007",
+    "code": "0701241007",
+    "name": "Canagong",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701241000",
+      "code": "0701241000",
+      "name": "Sikatuna"
+    }
+  },
+  {
+    "id": "0701241008",
+    "code": "0701241008",
+    "name": "Libjo",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701241000",
+      "code": "0701241000",
+      "name": "Sikatuna"
+    }
+  },
+  {
+    "id": "0701241009",
+    "code": "0701241009",
+    "name": "Poblacion I",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701241000",
+      "code": "0701241000",
+      "name": "Sikatuna"
+    }
+  },
+  {
+    "id": "0701241010",
+    "code": "0701241010",
+    "name": "Poblacion II",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701241000",
+      "code": "0701241000",
+      "name": "Sikatuna"
+    }
+  }
+]

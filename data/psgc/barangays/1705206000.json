@@ -1,0 +1,569 @@
+[
+  {
+    "id": "1705206002",
+    "code": "1705206002",
+    "name": "Agos",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705206000",
+      "code": "1705206000",
+      "name": "Gloria"
+    }
+  },
+  {
+    "id": "1705206001",
+    "code": "1705206001",
+    "name": "Agsalin",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705206000",
+      "code": "1705206000",
+      "name": "Gloria"
+    }
+  },
+  {
+    "id": "1705206029",
+    "code": "1705206029",
+    "name": "Alma Villa",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705206000",
+      "code": "1705206000",
+      "name": "Gloria"
+    }
+  },
+  {
+    "id": "1705206003",
+    "code": "1705206003",
+    "name": "Andres Bonifacio",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705206000",
+      "code": "1705206000",
+      "name": "Gloria"
+    }
+  },
+  {
+    "id": "1705206004",
+    "code": "1705206004",
+    "name": "Balete",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705206000",
+      "code": "1705206000",
+      "name": "Gloria"
+    }
+  },
+  {
+    "id": "1705206005",
+    "code": "1705206005",
+    "name": "Banus",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705206000",
+      "code": "1705206000",
+      "name": "Gloria"
+    }
+  },
+  {
+    "id": "1705206006",
+    "code": "1705206006",
+    "name": "Banutan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705206000",
+      "code": "1705206000",
+      "name": "Gloria"
+    }
+  },
+  {
+    "id": "1705206008",
+    "code": "1705206008",
+    "name": "Bulaklakan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705206000",
+      "code": "1705206000",
+      "name": "Gloria"
+    }
+  },
+  {
+    "id": "1705206007",
+    "code": "1705206007",
+    "name": "Buong Lupa",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705206000",
+      "code": "1705206000",
+      "name": "Gloria"
+    }
+  },
+  {
+    "id": "1705206009",
+    "code": "1705206009",
+    "name": "Gaudencio Antonino",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705206000",
+      "code": "1705206000",
+      "name": "Gloria"
+    }
+  },
+  {
+    "id": "1705206010",
+    "code": "1705206010",
+    "name": "Guimbonan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705206000",
+      "code": "1705206000",
+      "name": "Gloria"
+    }
+  },
+  {
+    "id": "1705206012",
+    "code": "1705206012",
+    "name": "Kawit",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705206000",
+      "code": "1705206000",
+      "name": "Gloria"
+    }
+  },
+  {
+    "id": "1705206013",
+    "code": "1705206013",
+    "name": "Lucio Laurel",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705206000",
+      "code": "1705206000",
+      "name": "Gloria"
+    }
+  },
+  {
+    "id": "1705206014",
+    "code": "1705206014",
+    "name": "Macario Adriatico",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705206000",
+      "code": "1705206000",
+      "name": "Gloria"
+    }
+  },
+  {
+    "id": "1705206015",
+    "code": "1705206015",
+    "name": "Malamig",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705206000",
+      "code": "1705206000",
+      "name": "Gloria"
+    }
+  },
+  {
+    "id": "1705206016",
+    "code": "1705206016",
+    "name": "Malayong",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705206000",
+      "code": "1705206000",
+      "name": "Gloria"
+    }
+  },
+  {
+    "id": "1705206017",
+    "code": "1705206017",
+    "name": "Maligaya",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705206000",
+      "code": "1705206000",
+      "name": "Gloria"
+    }
+  },
+  {
+    "id": "1705206018",
+    "code": "1705206018",
+    "name": "Malubay",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705206000",
+      "code": "1705206000",
+      "name": "Gloria"
+    }
+  },
+  {
+    "id": "1705206020",
+    "code": "1705206020",
+    "name": "Manguyang",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705206000",
+      "code": "1705206000",
+      "name": "Gloria"
+    }
+  },
+  {
+    "id": "1705206021",
+    "code": "1705206021",
+    "name": "Maragooc",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705206000",
+      "code": "1705206000",
+      "name": "Gloria"
+    }
+  },
+  {
+    "id": "1705206022",
+    "code": "1705206022",
+    "name": "Mirayan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705206000",
+      "code": "1705206000",
+      "name": "Gloria"
+    }
+  },
+  {
+    "id": "1705206023",
+    "code": "1705206023",
+    "name": "Narra",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705206000",
+      "code": "1705206000",
+      "name": "Gloria"
+    }
+  },
+  {
+    "id": "1705206024",
+    "code": "1705206024",
+    "name": "Papandungin",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705206000",
+      "code": "1705206000",
+      "name": "Gloria"
+    }
+  },
+  {
+    "id": "1705206025",
+    "code": "1705206025",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705206000",
+      "code": "1705206000",
+      "name": "Gloria"
+    }
+  },
+  {
+    "id": "1705206026",
+    "code": "1705206026",
+    "name": "Santa Maria",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705206000",
+      "code": "1705206000",
+      "name": "Gloria"
+    }
+  },
+  {
+    "id": "1705206027",
+    "code": "1705206027",
+    "name": "Santa Theresa",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705206000",
+      "code": "1705206000",
+      "name": "Gloria"
+    }
+  },
+  {
+    "id": "1705206028",
+    "code": "1705206028",
+    "name": "Tambong",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705206000",
+      "code": "1705206000",
+      "name": "Gloria"
+    }
+  }
+]

@@ -1,0 +1,569 @@
+[
+  {
+    "id": "0201503001",
+    "code": "0201503001",
+    "name": "Bessang",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201503000",
+      "code": "0201503000",
+      "name": "Allacapan"
+    }
+  },
+  {
+    "id": "0201503002",
+    "code": "0201503002",
+    "name": "Binobongan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201503000",
+      "code": "0201503000",
+      "name": "Allacapan"
+    }
+  },
+  {
+    "id": "0201503003",
+    "code": "0201503003",
+    "name": "Bulo",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201503000",
+      "code": "0201503000",
+      "name": "Allacapan"
+    }
+  },
+  {
+    "id": "0201503004",
+    "code": "0201503004",
+    "name": "Burot",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201503000",
+      "code": "0201503000",
+      "name": "Allacapan"
+    }
+  },
+  {
+    "id": "0201503005",
+    "code": "0201503005",
+    "name": "Capagaran",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201503000",
+      "code": "0201503000",
+      "name": "Allacapan"
+    }
+  },
+  {
+    "id": "0201503006",
+    "code": "0201503006",
+    "name": "Capalutan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201503000",
+      "code": "0201503000",
+      "name": "Allacapan"
+    }
+  },
+  {
+    "id": "0201503007",
+    "code": "0201503007",
+    "name": "Capanickian Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201503000",
+      "code": "0201503000",
+      "name": "Allacapan"
+    }
+  },
+  {
+    "id": "0201503008",
+    "code": "0201503008",
+    "name": "Capanickian Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201503000",
+      "code": "0201503000",
+      "name": "Allacapan"
+    }
+  },
+  {
+    "id": "0201503009",
+    "code": "0201503009",
+    "name": "Cataratan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201503000",
+      "code": "0201503000",
+      "name": "Allacapan"
+    }
+  },
+  {
+    "id": "0201503010",
+    "code": "0201503010",
+    "name": "Centro East",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201503000",
+      "code": "0201503000",
+      "name": "Allacapan"
+    }
+  },
+  {
+    "id": "0201503011",
+    "code": "0201503011",
+    "name": "Centro West",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201503000",
+      "code": "0201503000",
+      "name": "Allacapan"
+    }
+  },
+  {
+    "id": "0201503012",
+    "code": "0201503012",
+    "name": "Daan-Ili",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201503000",
+      "code": "0201503000",
+      "name": "Allacapan"
+    }
+  },
+  {
+    "id": "0201503013",
+    "code": "0201503013",
+    "name": "Dagupan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201503000",
+      "code": "0201503000",
+      "name": "Allacapan"
+    }
+  },
+  {
+    "id": "0201503014",
+    "code": "0201503014",
+    "name": "Dalayap",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201503000",
+      "code": "0201503000",
+      "name": "Allacapan"
+    }
+  },
+  {
+    "id": "0201503015",
+    "code": "0201503015",
+    "name": "Gagaddangan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201503000",
+      "code": "0201503000",
+      "name": "Allacapan"
+    }
+  },
+  {
+    "id": "0201503016",
+    "code": "0201503016",
+    "name": "Iringan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201503000",
+      "code": "0201503000",
+      "name": "Allacapan"
+    }
+  },
+  {
+    "id": "0201503017",
+    "code": "0201503017",
+    "name": "Labben",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201503000",
+      "code": "0201503000",
+      "name": "Allacapan"
+    }
+  },
+  {
+    "id": "0201503018",
+    "code": "0201503018",
+    "name": "Maluyo",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201503000",
+      "code": "0201503000",
+      "name": "Allacapan"
+    }
+  },
+  {
+    "id": "0201503019",
+    "code": "0201503019",
+    "name": "Mapurao",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201503000",
+      "code": "0201503000",
+      "name": "Allacapan"
+    }
+  },
+  {
+    "id": "0201503020",
+    "code": "0201503020",
+    "name": "Matucay",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201503000",
+      "code": "0201503000",
+      "name": "Allacapan"
+    }
+  },
+  {
+    "id": "0201503021",
+    "code": "0201503021",
+    "name": "Nagattatan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201503000",
+      "code": "0201503000",
+      "name": "Allacapan"
+    }
+  },
+  {
+    "id": "0201503022",
+    "code": "0201503022",
+    "name": "Pacac",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201503000",
+      "code": "0201503000",
+      "name": "Allacapan"
+    }
+  },
+  {
+    "id": "0201503023",
+    "code": "0201503023",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201503000",
+      "code": "0201503000",
+      "name": "Allacapan"
+    }
+  },
+  {
+    "id": "0201503024",
+    "code": "0201503024",
+    "name": "Silagan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201503000",
+      "code": "0201503000",
+      "name": "Allacapan"
+    }
+  },
+  {
+    "id": "0201503025",
+    "code": "0201503025",
+    "name": "Tamboli",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201503000",
+      "code": "0201503000",
+      "name": "Allacapan"
+    }
+  },
+  {
+    "id": "0201503026",
+    "code": "0201503026",
+    "name": "Tubel",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201503000",
+      "code": "0201503000",
+      "name": "Allacapan"
+    }
+  },
+  {
+    "id": "0201503027",
+    "code": "0201503027",
+    "name": "Utan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201503000",
+      "code": "0201503000",
+      "name": "Allacapan"
+    }
+  }
+]

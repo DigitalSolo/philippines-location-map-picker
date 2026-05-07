@@ -1,0 +1,926 @@
+[
+  {
+    "id": "1204709002",
+    "code": "1204709002",
+    "name": "Agriculture",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204709000",
+      "code": "1204709000",
+      "name": "Midsayap"
+    }
+  },
+  {
+    "id": "1204709003",
+    "code": "1204709003",
+    "name": "Anonang",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204709000",
+      "code": "1204709000",
+      "name": "Midsayap"
+    }
+  },
+  {
+    "id": "1204709004",
+    "code": "1204709004",
+    "name": "Arizona",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204709000",
+      "code": "1204709000",
+      "name": "Midsayap"
+    }
+  },
+  {
+    "id": "1204709005",
+    "code": "1204709005",
+    "name": "Bagumba",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204709000",
+      "code": "1204709000",
+      "name": "Midsayap"
+    }
+  },
+  {
+    "id": "1204709006",
+    "code": "1204709006",
+    "name": "Baliki",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204709000",
+      "code": "1204709000",
+      "name": "Midsayap"
+    }
+  },
+  {
+    "id": "1204709035",
+    "code": "1204709035",
+    "name": "Barangay Poblacion 1",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204709000",
+      "code": "1204709000",
+      "name": "Midsayap"
+    }
+  },
+  {
+    "id": "1204709036",
+    "code": "1204709036",
+    "name": "Barangay Poblacion 2",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204709000",
+      "code": "1204709000",
+      "name": "Midsayap"
+    }
+  },
+  {
+    "id": "1204709037",
+    "code": "1204709037",
+    "name": "Barangay Poblacion 3",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204709000",
+      "code": "1204709000",
+      "name": "Midsayap"
+    }
+  },
+  {
+    "id": "1204709038",
+    "code": "1204709038",
+    "name": "Barangay Poblacion 4",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204709000",
+      "code": "1204709000",
+      "name": "Midsayap"
+    }
+  },
+  {
+    "id": "1204709039",
+    "code": "1204709039",
+    "name": "Barangay Poblacion 5",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204709000",
+      "code": "1204709000",
+      "name": "Midsayap"
+    }
+  },
+  {
+    "id": "1204709040",
+    "code": "1204709040",
+    "name": "Barangay Poblacion 6",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204709000",
+      "code": "1204709000",
+      "name": "Midsayap"
+    }
+  },
+  {
+    "id": "1204709041",
+    "code": "1204709041",
+    "name": "Barangay Poblacion 7",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204709000",
+      "code": "1204709000",
+      "name": "Midsayap"
+    }
+  },
+  {
+    "id": "1204709042",
+    "code": "1204709042",
+    "name": "Barangay Poblacion 8",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204709000",
+      "code": "1204709000",
+      "name": "Midsayap"
+    }
+  },
+  {
+    "id": "1204709007",
+    "code": "1204709007",
+    "name": "Bitoka",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204709000",
+      "code": "1204709000",
+      "name": "Midsayap"
+    }
+  },
+  {
+    "id": "1204709008",
+    "code": "1204709008",
+    "name": "Bual Norte",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204709000",
+      "code": "1204709000",
+      "name": "Midsayap"
+    }
+  },
+  {
+    "id": "1204709009",
+    "code": "1204709009",
+    "name": "Bual Sur",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204709000",
+      "code": "1204709000",
+      "name": "Midsayap"
+    }
+  },
+  {
+    "id": "1204709052",
+    "code": "1204709052",
+    "name": "Bulanan Upper",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204709000",
+      "code": "1204709000",
+      "name": "Midsayap"
+    }
+  },
+  {
+    "id": "1204709010",
+    "code": "1204709010",
+    "name": "Central Bulanan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204709000",
+      "code": "1204709000",
+      "name": "Midsayap"
+    }
+  },
+  {
+    "id": "1204709012",
+    "code": "1204709012",
+    "name": "Central Glad",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204709000",
+      "code": "1204709000",
+      "name": "Midsayap"
+    }
+  },
+  {
+    "id": "1204709017",
+    "code": "1204709017",
+    "name": "Central Katingawan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204709000",
+      "code": "1204709000",
+      "name": "Midsayap"
+    }
+  },
+  {
+    "id": "1204709013",
+    "code": "1204709013",
+    "name": "Ilbocean",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204709000",
+      "code": "1204709000",
+      "name": "Midsayap"
+    }
+  },
+  {
+    "id": "1204709018",
+    "code": "1204709018",
+    "name": "Kimagango",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204709000",
+      "code": "1204709000",
+      "name": "Midsayap"
+    }
+  },
+  {
+    "id": "1204709057",
+    "code": "1204709057",
+    "name": "Kiwanan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204709000",
+      "code": "1204709000",
+      "name": "Midsayap"
+    }
+  },
+  {
+    "id": "1204709021",
+    "code": "1204709021",
+    "name": "Lagumbingan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204709000",
+      "code": "1204709000",
+      "name": "Midsayap"
+    }
+  },
+  {
+    "id": "1204709022",
+    "code": "1204709022",
+    "name": "Lomopog",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204709000",
+      "code": "1204709000",
+      "name": "Midsayap"
+    }
+  },
+  {
+    "id": "1204709023",
+    "code": "1204709023",
+    "name": "Lower Glad",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204709000",
+      "code": "1204709000",
+      "name": "Midsayap"
+    }
+  },
+  {
+    "id": "1204709024",
+    "code": "1204709024",
+    "name": "Lower Katingawan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204709000",
+      "code": "1204709000",
+      "name": "Midsayap"
+    }
+  },
+  {
+    "id": "1204709025",
+    "code": "1204709025",
+    "name": "Macasendeg",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204709000",
+      "code": "1204709000",
+      "name": "Midsayap"
+    }
+  },
+  {
+    "id": "1204709026",
+    "code": "1204709026",
+    "name": "Malamote",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204709000",
+      "code": "1204709000",
+      "name": "Midsayap"
+    }
+  },
+  {
+    "id": "1204709028",
+    "code": "1204709028",
+    "name": "Milaya",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204709000",
+      "code": "1204709000",
+      "name": "Midsayap"
+    }
+  },
+  {
+    "id": "1204709031",
+    "code": "1204709031",
+    "name": "Nalin",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204709000",
+      "code": "1204709000",
+      "name": "Midsayap"
+    }
+  },
+  {
+    "id": "1204709032",
+    "code": "1204709032",
+    "name": "Nes",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204709000",
+      "code": "1204709000",
+      "name": "Midsayap"
+    }
+  },
+  {
+    "id": "1204709043",
+    "code": "1204709043",
+    "name": "Palongoguen",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204709000",
+      "code": "1204709000",
+      "name": "Midsayap"
+    }
+  },
+  {
+    "id": "1204709034",
+    "code": "1204709034",
+    "name": "Patindeguen",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204709000",
+      "code": "1204709000",
+      "name": "Midsayap"
+    }
+  },
+  {
+    "id": "1204709044",
+    "code": "1204709044",
+    "name": "Rangaban",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204709000",
+      "code": "1204709000",
+      "name": "Midsayap"
+    }
+  },
+  {
+    "id": "1204709045",
+    "code": "1204709045",
+    "name": "Sadaan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204709000",
+      "code": "1204709000",
+      "name": "Midsayap"
+    }
+  },
+  {
+    "id": "1204709046",
+    "code": "1204709046",
+    "name": "Salunayan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204709000",
+      "code": "1204709000",
+      "name": "Midsayap"
+    }
+  },
+  {
+    "id": "1204709048",
+    "code": "1204709048",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204709000",
+      "code": "1204709000",
+      "name": "Midsayap"
+    }
+  },
+  {
+    "id": "1204709058",
+    "code": "1204709058",
+    "name": "San Pedro",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204709000",
+      "code": "1204709000",
+      "name": "Midsayap"
+    }
+  },
+  {
+    "id": "1204709049",
+    "code": "1204709049",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204709000",
+      "code": "1204709000",
+      "name": "Midsayap"
+    }
+  },
+  {
+    "id": "1204709053",
+    "code": "1204709053",
+    "name": "Upper Glad I",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204709000",
+      "code": "1204709000",
+      "name": "Midsayap"
+    }
+  },
+  {
+    "id": "1204709054",
+    "code": "1204709054",
+    "name": "Upper Glad II",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204709000",
+      "code": "1204709000",
+      "name": "Midsayap"
+    }
+  },
+  {
+    "id": "1204709055",
+    "code": "1204709055",
+    "name": "Upper Labas",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204709000",
+      "code": "1204709000",
+      "name": "Midsayap"
+    }
+  },
+  {
+    "id": "1204709056",
+    "code": "1204709056",
+    "name": "Villarica",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204709000",
+      "code": "1204709000",
+      "name": "Midsayap"
+    }
+  }
+]

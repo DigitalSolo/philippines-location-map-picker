@@ -1,0 +1,466 @@
+[
+  {
+    "id": "0201501000",
+    "code": "0201501000",
+    "name": "Abulug",
+    "type": "city_municipality",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    }
+  },
+  {
+    "id": "0201502000",
+    "code": "0201502000",
+    "name": "Alcala",
+    "type": "city_municipality",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    }
+  },
+  {
+    "id": "0201503000",
+    "code": "0201503000",
+    "name": "Allacapan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    }
+  },
+  {
+    "id": "0201504000",
+    "code": "0201504000",
+    "name": "Amulung",
+    "type": "city_municipality",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    }
+  },
+  {
+    "id": "0201505000",
+    "code": "0201505000",
+    "name": "Aparri",
+    "type": "city_municipality",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    }
+  },
+  {
+    "id": "0201506000",
+    "code": "0201506000",
+    "name": "Baggao",
+    "type": "city_municipality",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    }
+  },
+  {
+    "id": "0201507000",
+    "code": "0201507000",
+    "name": "Ballesteros",
+    "type": "city_municipality",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    }
+  },
+  {
+    "id": "0201508000",
+    "code": "0201508000",
+    "name": "Buguey",
+    "type": "city_municipality",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    }
+  },
+  {
+    "id": "0201509000",
+    "code": "0201509000",
+    "name": "Calayan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    }
+  },
+  {
+    "id": "0201510000",
+    "code": "0201510000",
+    "name": "Camalaniugan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    }
+  },
+  {
+    "id": "0201511000",
+    "code": "0201511000",
+    "name": "Claveria",
+    "type": "city_municipality",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    }
+  },
+  {
+    "id": "0201512000",
+    "code": "0201512000",
+    "name": "Enrile",
+    "type": "city_municipality",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    }
+  },
+  {
+    "id": "0201513000",
+    "code": "0201513000",
+    "name": "Gattaran",
+    "type": "city_municipality",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    }
+  },
+  {
+    "id": "0201514000",
+    "code": "0201514000",
+    "name": "Gonzaga",
+    "type": "city_municipality",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    }
+  },
+  {
+    "id": "0201515000",
+    "code": "0201515000",
+    "name": "Iguig",
+    "type": "city_municipality",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    }
+  },
+  {
+    "id": "0201516000",
+    "code": "0201516000",
+    "name": "Lal-Lo",
+    "type": "city_municipality",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    }
+  },
+  {
+    "id": "0201517000",
+    "code": "0201517000",
+    "name": "Lasam",
+    "type": "city_municipality",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    }
+  },
+  {
+    "id": "0201518000",
+    "code": "0201518000",
+    "name": "Pamplona",
+    "type": "city_municipality",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    }
+  },
+  {
+    "id": "0201519000",
+    "code": "0201519000",
+    "name": "Peñablanca",
+    "type": "city_municipality",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    }
+  },
+  {
+    "id": "0201520000",
+    "code": "0201520000",
+    "name": "Piat",
+    "type": "city_municipality",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    }
+  },
+  {
+    "id": "0201521000",
+    "code": "0201521000",
+    "name": "Rizal",
+    "type": "city_municipality",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    }
+  },
+  {
+    "id": "0201522000",
+    "code": "0201522000",
+    "name": "Sanchez Mira",
+    "type": "city_municipality",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    }
+  },
+  {
+    "id": "0201523000",
+    "code": "0201523000",
+    "name": "Santa Ana",
+    "type": "city_municipality",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    }
+  },
+  {
+    "id": "0201524000",
+    "code": "0201524000",
+    "name": "Santa Praxedes",
+    "type": "city_municipality",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    }
+  },
+  {
+    "id": "0201525000",
+    "code": "0201525000",
+    "name": "Santa Teresita",
+    "type": "city_municipality",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    }
+  },
+  {
+    "id": "0201526000",
+    "code": "0201526000",
+    "name": "Santo Niño",
+    "type": "city_municipality",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    }
+  },
+  {
+    "id": "0201527000",
+    "code": "0201527000",
+    "name": "Solana",
+    "type": "city_municipality",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    }
+  },
+  {
+    "id": "0201528000",
+    "code": "0201528000",
+    "name": "Tuao",
+    "type": "city_municipality",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    }
+  },
+  {
+    "id": "0201529000",
+    "code": "0201529000",
+    "name": "Tuguegarao City",
+    "type": "city_municipality",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    }
+  }
+]

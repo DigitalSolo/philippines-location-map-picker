@@ -1,0 +1,65 @@
+[
+  {
+    "id": "0102807001",
+    "code": "0102807001",
+    "name": "Angset",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102807000",
+      "code": "0102807000",
+      "name": "Carasi"
+    }
+  },
+  {
+    "id": "0102807003",
+    "code": "0102807003",
+    "name": "Barbaqueso",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102807000",
+      "code": "0102807000",
+      "name": "Carasi"
+    }
+  },
+  {
+    "id": "0102807004",
+    "code": "0102807004",
+    "name": "Virbira",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102807000",
+      "code": "0102807000",
+      "name": "Carasi"
+    }
+  }
+]

@@ -1,0 +1,485 @@
+[
+  {
+    "id": "0105539001",
+    "code": "0105539001",
+    "name": "Bal-loy",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105539000",
+      "code": "0105539000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0105539002",
+    "code": "0105539002",
+    "name": "Bantog",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105539000",
+      "code": "0105539000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0105539003",
+    "code": "0105539003",
+    "name": "Caboluan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105539000",
+      "code": "0105539000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0105539004",
+    "code": "0105539004",
+    "name": "Cal-litang",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105539000",
+      "code": "0105539000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0105539005",
+    "code": "0105539005",
+    "name": "Capandanan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105539000",
+      "code": "0105539000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0105539006",
+    "code": "0105539006",
+    "name": "Cauplasan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105539000",
+      "code": "0105539000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0105539008",
+    "code": "0105539008",
+    "name": "Dalayap",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105539000",
+      "code": "0105539000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0105539009",
+    "code": "0105539009",
+    "name": "Libsong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105539000",
+      "code": "0105539000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0105539010",
+    "code": "0105539010",
+    "name": "Namagbagan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105539000",
+      "code": "0105539000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0105539011",
+    "code": "0105539011",
+    "name": "Paitan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105539000",
+      "code": "0105539000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0105539012",
+    "code": "0105539012",
+    "name": "Pataquid",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105539000",
+      "code": "0105539000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0105539013",
+    "code": "0105539013",
+    "name": "Pilar",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105539000",
+      "code": "0105539000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0105539014",
+    "code": "0105539014",
+    "name": "Poblacion East",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105539000",
+      "code": "0105539000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0105539015",
+    "code": "0105539015",
+    "name": "Poblacion West",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105539000",
+      "code": "0105539000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0105539016",
+    "code": "0105539016",
+    "name": "Pugot",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105539000",
+      "code": "0105539000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0105539017",
+    "code": "0105539017",
+    "name": "Samon",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105539000",
+      "code": "0105539000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0105539018",
+    "code": "0105539018",
+    "name": "San Alejandro",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105539000",
+      "code": "0105539000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0105539020",
+    "code": "0105539020",
+    "name": "San Mariano",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105539000",
+      "code": "0105539000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0105539021",
+    "code": "0105539021",
+    "name": "San Pablo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105539000",
+      "code": "0105539000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0105539022",
+    "code": "0105539022",
+    "name": "San Patricio",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105539000",
+      "code": "0105539000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0105539023",
+    "code": "0105539023",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105539000",
+      "code": "0105539000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0105539024",
+    "code": "0105539024",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105539000",
+      "code": "0105539000",
+      "name": "Santa Maria"
+    }
+  },
+  {
+    "id": "0105539025",
+    "code": "0105539025",
+    "name": "Sta. Rosa",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105539000",
+      "code": "0105539000",
+      "name": "Santa Maria"
+    }
+  }
+]

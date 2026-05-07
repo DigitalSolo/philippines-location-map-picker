@@ -1,0 +1,296 @@
+[
+  {
+    "id": "0603010001",
+    "code": "0603010001",
+    "name": "Agba-o",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603010000",
+      "code": "0603010000",
+      "name": "Bingawan"
+    }
+  },
+  {
+    "id": "0603010002",
+    "code": "0603010002",
+    "name": "Alabidhan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603010000",
+      "code": "0603010000",
+      "name": "Bingawan"
+    }
+  },
+  {
+    "id": "0603010003",
+    "code": "0603010003",
+    "name": "Bulabog",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603010000",
+      "code": "0603010000",
+      "name": "Bingawan"
+    }
+  },
+  {
+    "id": "0603010004",
+    "code": "0603010004",
+    "name": "Cairohan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603010000",
+      "code": "0603010000",
+      "name": "Bingawan"
+    }
+  },
+  {
+    "id": "0603010005",
+    "code": "0603010005",
+    "name": "Guinhulacan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603010000",
+      "code": "0603010000",
+      "name": "Bingawan"
+    }
+  },
+  {
+    "id": "0603010006",
+    "code": "0603010006",
+    "name": "Inamyungan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603010000",
+      "code": "0603010000",
+      "name": "Bingawan"
+    }
+  },
+  {
+    "id": "0603010007",
+    "code": "0603010007",
+    "name": "Malitbog Ilawod",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603010000",
+      "code": "0603010000",
+      "name": "Bingawan"
+    }
+  },
+  {
+    "id": "0603010008",
+    "code": "0603010008",
+    "name": "Malitbog Ilaya",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603010000",
+      "code": "0603010000",
+      "name": "Bingawan"
+    }
+  },
+  {
+    "id": "0603010009",
+    "code": "0603010009",
+    "name": "Ngingi-an",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603010000",
+      "code": "0603010000",
+      "name": "Bingawan"
+    }
+  },
+  {
+    "id": "0603010010",
+    "code": "0603010010",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603010000",
+      "code": "0603010000",
+      "name": "Bingawan"
+    }
+  },
+  {
+    "id": "0603010011",
+    "code": "0603010011",
+    "name": "Quinangyana",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603010000",
+      "code": "0603010000",
+      "name": "Bingawan"
+    }
+  },
+  {
+    "id": "0603010012",
+    "code": "0603010012",
+    "name": "Quinar-Upan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603010000",
+      "code": "0603010000",
+      "name": "Bingawan"
+    }
+  },
+  {
+    "id": "0603010013",
+    "code": "0603010013",
+    "name": "Tapacon",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603010000",
+      "code": "0603010000",
+      "name": "Bingawan"
+    }
+  },
+  {
+    "id": "0603010014",
+    "code": "0603010014",
+    "name": "Tubod",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603010000",
+      "code": "0603010000",
+      "name": "Bingawan"
+    }
+  }
+]

@@ -1,0 +1,506 @@
+[
+  {
+    "id": "0102909001",
+    "code": "0102909001",
+    "name": "Abaya",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102909000",
+      "code": "0102909000",
+      "name": "Galimuyod"
+    }
+  },
+  {
+    "id": "0102909002",
+    "code": "0102909002",
+    "name": "Baracbac",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102909000",
+      "code": "0102909000",
+      "name": "Galimuyod"
+    }
+  },
+  {
+    "id": "0102909003",
+    "code": "0102909003",
+    "name": "Bidbiday",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102909000",
+      "code": "0102909000",
+      "name": "Galimuyod"
+    }
+  },
+  {
+    "id": "0102909004",
+    "code": "0102909004",
+    "name": "Bitong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102909000",
+      "code": "0102909000",
+      "name": "Galimuyod"
+    }
+  },
+  {
+    "id": "0102909005",
+    "code": "0102909005",
+    "name": "Borobor",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102909000",
+      "code": "0102909000",
+      "name": "Galimuyod"
+    }
+  },
+  {
+    "id": "0102909006",
+    "code": "0102909006",
+    "name": "Calimugtong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102909000",
+      "code": "0102909000",
+      "name": "Galimuyod"
+    }
+  },
+  {
+    "id": "0102909007",
+    "code": "0102909007",
+    "name": "Calongbuyan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102909000",
+      "code": "0102909000",
+      "name": "Galimuyod"
+    }
+  },
+  {
+    "id": "0102909008",
+    "code": "0102909008",
+    "name": "Calumbaya",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102909000",
+      "code": "0102909000",
+      "name": "Galimuyod"
+    }
+  },
+  {
+    "id": "0102909009",
+    "code": "0102909009",
+    "name": "Daldagan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102909000",
+      "code": "0102909000",
+      "name": "Galimuyod"
+    }
+  },
+  {
+    "id": "0102909010",
+    "code": "0102909010",
+    "name": "Kilang",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102909000",
+      "code": "0102909000",
+      "name": "Galimuyod"
+    }
+  },
+  {
+    "id": "0102909011",
+    "code": "0102909011",
+    "name": "Legaspi",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102909000",
+      "code": "0102909000",
+      "name": "Galimuyod"
+    }
+  },
+  {
+    "id": "0102909012",
+    "code": "0102909012",
+    "name": "Mabayag",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102909000",
+      "code": "0102909000",
+      "name": "Galimuyod"
+    }
+  },
+  {
+    "id": "0102909013",
+    "code": "0102909013",
+    "name": "Matanubong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102909000",
+      "code": "0102909000",
+      "name": "Galimuyod"
+    }
+  },
+  {
+    "id": "0102909014",
+    "code": "0102909014",
+    "name": "Mckinley",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102909000",
+      "code": "0102909000",
+      "name": "Galimuyod"
+    }
+  },
+  {
+    "id": "0102909015",
+    "code": "0102909015",
+    "name": "Nagsingcaoan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102909000",
+      "code": "0102909000",
+      "name": "Galimuyod"
+    }
+  },
+  {
+    "id": "0102909016",
+    "code": "0102909016",
+    "name": "Oaig-Daya",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102909000",
+      "code": "0102909000",
+      "name": "Galimuyod"
+    }
+  },
+  {
+    "id": "0102909017",
+    "code": "0102909017",
+    "name": "Pagangpang",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102909000",
+      "code": "0102909000",
+      "name": "Galimuyod"
+    }
+  },
+  {
+    "id": "0102909018",
+    "code": "0102909018",
+    "name": "Patac",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102909000",
+      "code": "0102909000",
+      "name": "Galimuyod"
+    }
+  },
+  {
+    "id": "0102909019",
+    "code": "0102909019",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102909000",
+      "code": "0102909000",
+      "name": "Galimuyod"
+    }
+  },
+  {
+    "id": "0102909020",
+    "code": "0102909020",
+    "name": "Rubio",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102909000",
+      "code": "0102909000",
+      "name": "Galimuyod"
+    }
+  },
+  {
+    "id": "0102909021",
+    "code": "0102909021",
+    "name": "Sabangan-Bato",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102909000",
+      "code": "0102909000",
+      "name": "Galimuyod"
+    }
+  },
+  {
+    "id": "0102909022",
+    "code": "0102909022",
+    "name": "Sacaang",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102909000",
+      "code": "0102909000",
+      "name": "Galimuyod"
+    }
+  },
+  {
+    "id": "0102909023",
+    "code": "0102909023",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102909000",
+      "code": "0102909000",
+      "name": "Galimuyod"
+    }
+  },
+  {
+    "id": "0102909024",
+    "code": "0102909024",
+    "name": "Sapang",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102909000",
+      "code": "0102909000",
+      "name": "Galimuyod"
+    }
+  }
+]

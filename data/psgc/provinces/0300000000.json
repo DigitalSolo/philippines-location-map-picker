@@ -1,0 +1,79 @@
+[
+  {
+    "id": "0307700000",
+    "code": "0307700000",
+    "name": "Aurora",
+    "type": "province",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    }
+  },
+  {
+    "id": "0300800000",
+    "code": "0300800000",
+    "name": "Bataan",
+    "type": "province",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    }
+  },
+  {
+    "id": "0301400000",
+    "code": "0301400000",
+    "name": "Bulacan",
+    "type": "province",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    }
+  },
+  {
+    "id": "0304900000",
+    "code": "0304900000",
+    "name": "Nueva Ecija",
+    "type": "province",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    }
+  },
+  {
+    "id": "0305400000",
+    "code": "0305400000",
+    "name": "Pampanga",
+    "type": "province",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    }
+  },
+  {
+    "id": "0306900000",
+    "code": "0306900000",
+    "name": "Tarlac",
+    "type": "province",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    }
+  },
+  {
+    "id": "0307100000",
+    "code": "0307100000",
+    "name": "Zambales",
+    "type": "province",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    }
+  }
+]

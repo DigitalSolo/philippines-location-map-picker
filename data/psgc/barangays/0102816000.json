@@ -1,0 +1,653 @@
+[
+  {
+    "id": "0102816001",
+    "code": "0102816001",
+    "name": "Bacsil",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102816000",
+      "code": "0102816000",
+      "name": "Paoay"
+    }
+  },
+  {
+    "id": "0102816002",
+    "code": "0102816002",
+    "name": "Cabagoan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102816000",
+      "code": "0102816000",
+      "name": "Paoay"
+    }
+  },
+  {
+    "id": "0102816003",
+    "code": "0102816003",
+    "name": "Cabangaran",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102816000",
+      "code": "0102816000",
+      "name": "Paoay"
+    }
+  },
+  {
+    "id": "0102816004",
+    "code": "0102816004",
+    "name": "Callaguip",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102816000",
+      "code": "0102816000",
+      "name": "Paoay"
+    }
+  },
+  {
+    "id": "0102816005",
+    "code": "0102816005",
+    "name": "Cayubog",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102816000",
+      "code": "0102816000",
+      "name": "Paoay"
+    }
+  },
+  {
+    "id": "0102816006",
+    "code": "0102816006",
+    "name": "Dolores",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102816000",
+      "code": "0102816000",
+      "name": "Paoay"
+    }
+  },
+  {
+    "id": "0102816007",
+    "code": "0102816007",
+    "name": "Laoa",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102816000",
+      "code": "0102816000",
+      "name": "Paoay"
+    }
+  },
+  {
+    "id": "0102816008",
+    "code": "0102816008",
+    "name": "Masintoc",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102816000",
+      "code": "0102816000",
+      "name": "Paoay"
+    }
+  },
+  {
+    "id": "0102816009",
+    "code": "0102816009",
+    "name": "Monte",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102816000",
+      "code": "0102816000",
+      "name": "Paoay"
+    }
+  },
+  {
+    "id": "0102816010",
+    "code": "0102816010",
+    "name": "Mumulaan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102816000",
+      "code": "0102816000",
+      "name": "Paoay"
+    }
+  },
+  {
+    "id": "0102816011",
+    "code": "0102816011",
+    "name": "Nagbacalan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102816000",
+      "code": "0102816000",
+      "name": "Paoay"
+    }
+  },
+  {
+    "id": "0102816012",
+    "code": "0102816012",
+    "name": "Nalasin",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102816000",
+      "code": "0102816000",
+      "name": "Paoay"
+    }
+  },
+  {
+    "id": "0102816013",
+    "code": "0102816013",
+    "name": "Nanguyudan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102816000",
+      "code": "0102816000",
+      "name": "Paoay"
+    }
+  },
+  {
+    "id": "0102816014",
+    "code": "0102816014",
+    "name": "Oaig-Upay-Abulao",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102816000",
+      "code": "0102816000",
+      "name": "Paoay"
+    }
+  },
+  {
+    "id": "0102816015",
+    "code": "0102816015",
+    "name": "Pambaran",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102816000",
+      "code": "0102816000",
+      "name": "Paoay"
+    }
+  },
+  {
+    "id": "0102816016",
+    "code": "0102816016",
+    "name": "Pannaratan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102816000",
+      "code": "0102816000",
+      "name": "Paoay"
+    }
+  },
+  {
+    "id": "0102816017",
+    "code": "0102816017",
+    "name": "Paratong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102816000",
+      "code": "0102816000",
+      "name": "Paoay"
+    }
+  },
+  {
+    "id": "0102816018",
+    "code": "0102816018",
+    "name": "Pasil",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102816000",
+      "code": "0102816000",
+      "name": "Paoay"
+    }
+  },
+  {
+    "id": "0102816019",
+    "code": "0102816019",
+    "name": "Salbang",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102816000",
+      "code": "0102816000",
+      "name": "Paoay"
+    }
+  },
+  {
+    "id": "0102816020",
+    "code": "0102816020",
+    "name": "San Agustin",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102816000",
+      "code": "0102816000",
+      "name": "Paoay"
+    }
+  },
+  {
+    "id": "0102816021",
+    "code": "0102816021",
+    "name": "San Blas",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102816000",
+      "code": "0102816000",
+      "name": "Paoay"
+    }
+  },
+  {
+    "id": "0102816022",
+    "code": "0102816022",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102816000",
+      "code": "0102816000",
+      "name": "Paoay"
+    }
+  },
+  {
+    "id": "0102816025",
+    "code": "0102816025",
+    "name": "San Pedro",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102816000",
+      "code": "0102816000",
+      "name": "Paoay"
+    }
+  },
+  {
+    "id": "0102816028",
+    "code": "0102816028",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102816000",
+      "code": "0102816000",
+      "name": "Paoay"
+    }
+  },
+  {
+    "id": "0102816029",
+    "code": "0102816029",
+    "name": "Sangladan Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102816000",
+      "code": "0102816000",
+      "name": "Paoay"
+    }
+  },
+  {
+    "id": "0102816030",
+    "code": "0102816030",
+    "name": "Santa Rita",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102816000",
+      "code": "0102816000",
+      "name": "Paoay"
+    }
+  },
+  {
+    "id": "0102816031",
+    "code": "0102816031",
+    "name": "Sideg",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102816000",
+      "code": "0102816000",
+      "name": "Paoay"
+    }
+  },
+  {
+    "id": "0102816032",
+    "code": "0102816032",
+    "name": "Suba",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102816000",
+      "code": "0102816000",
+      "name": "Paoay"
+    }
+  },
+  {
+    "id": "0102816033",
+    "code": "0102816033",
+    "name": "Sungadan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102816000",
+      "code": "0102816000",
+      "name": "Paoay"
+    }
+  },
+  {
+    "id": "0102816034",
+    "code": "0102816034",
+    "name": "Surgui",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102816000",
+      "code": "0102816000",
+      "name": "Paoay"
+    }
+  },
+  {
+    "id": "0102816035",
+    "code": "0102816035",
+    "name": "Veronica",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102816000",
+      "code": "0102816000",
+      "name": "Paoay"
+    }
+  }
+]

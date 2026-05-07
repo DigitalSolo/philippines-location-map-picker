@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1108200000",
+    "code": "1108200000",
+    "name": "Davao de Oro",
+    "type": "province",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    }
+  },
+  {
+    "id": "1102300000",
+    "code": "1102300000",
+    "name": "Davao del Norte",
+    "type": "province",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    }
+  },
+  {
+    "id": "1102400000",
+    "code": "1102400000",
+    "name": "Davao del Sur",
+    "type": "province",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    }
+  },
+  {
+    "id": "1108600000",
+    "code": "1108600000",
+    "name": "Davao Occidental",
+    "type": "province",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    }
+  },
+  {
+    "id": "1102500000",
+    "code": "1102500000",
+    "name": "Davao Oriental",
+    "type": "province",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    }
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "id": "1003521003",
+    "code": "1003521003",
+    "name": "Bayabao",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003521000",
+      "code": "1003521000",
+      "name": "Tangcal"
+    }
+  },
+  {
+    "id": "1003521004",
+    "code": "1003521004",
+    "name": "Berwar",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003521000",
+      "code": "1003521000",
+      "name": "Tangcal"
+    }
+  },
+  {
+    "id": "1003521005",
+    "code": "1003521005",
+    "name": "Big Banisilon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003521000",
+      "code": "1003521000",
+      "name": "Tangcal"
+    }
+  },
+  {
+    "id": "1003521006",
+    "code": "1003521006",
+    "name": "Big Meladoc",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003521000",
+      "code": "1003521000",
+      "name": "Tangcal"
+    }
+  },
+  {
+    "id": "1003521007",
+    "code": "1003521007",
+    "name": "Bubong",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003521000",
+      "code": "1003521000",
+      "name": "Tangcal"
+    }
+  },
+  {
+    "id": "1003521008",
+    "code": "1003521008",
+    "name": "Lamaosa",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003521000",
+      "code": "1003521000",
+      "name": "Tangcal"
+    }
+  },
+  {
+    "id": "1003521009",
+    "code": "1003521009",
+    "name": "Linao",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003521000",
+      "code": "1003521000",
+      "name": "Tangcal"
+    }
+  },
+  {
+    "id": "1003521010",
+    "code": "1003521010",
+    "name": "Lindongan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003521000",
+      "code": "1003521000",
+      "name": "Tangcal"
+    }
+  },
+  {
+    "id": "1003521011",
+    "code": "1003521011",
+    "name": "Lingco-an",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003521000",
+      "code": "1003521000",
+      "name": "Tangcal"
+    }
+  },
+  {
+    "id": "1003521014",
+    "code": "1003521014",
+    "name": "Papan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003521000",
+      "code": "1003521000",
+      "name": "Tangcal"
+    }
+  },
+  {
+    "id": "1003521016",
+    "code": "1003521016",
+    "name": "Pelingkingan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003521000",
+      "code": "1003521000",
+      "name": "Tangcal"
+    }
+  },
+  {
+    "id": "1003521017",
+    "code": "1003521017",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003521000",
+      "code": "1003521000",
+      "name": "Tangcal"
+    }
+  },
+  {
+    "id": "1003521018",
+    "code": "1003521018",
+    "name": "Poona Kapatagan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003521000",
+      "code": "1003521000",
+      "name": "Tangcal"
+    }
+  },
+  {
+    "id": "1003521019",
+    "code": "1003521019",
+    "name": "Punod",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003521000",
+      "code": "1003521000",
+      "name": "Tangcal"
+    }
+  },
+  {
+    "id": "1003521001",
+    "code": "1003521001",
+    "name": "Small Banisilon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003521000",
+      "code": "1003521000",
+      "name": "Tangcal"
+    }
+  },
+  {
+    "id": "1003521013",
+    "code": "1003521013",
+    "name": "Small Meladoc",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003521000",
+      "code": "1003521000",
+      "name": "Tangcal"
+    }
+  },
+  {
+    "id": "1003521021",
+    "code": "1003521021",
+    "name": "Somiorang",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003521000",
+      "code": "1003521000",
+      "name": "Tangcal"
+    }
+  },
+  {
+    "id": "1003521024",
+    "code": "1003521024",
+    "name": "Tangcal Proper",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003521000",
+      "code": "1003521000",
+      "name": "Tangcal"
+    }
+  }
+]

@@ -1,0 +1,926 @@
+[
+  {
+    "id": "0501737001",
+    "code": "0501737001",
+    "name": "Agay-Ayan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501737000",
+      "code": "0501737000",
+      "name": "Tinambac"
+    }
+  },
+  {
+    "id": "0501737002",
+    "code": "0501737002",
+    "name": "Antipolo",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501737000",
+      "code": "0501737000",
+      "name": "Tinambac"
+    }
+  },
+  {
+    "id": "0501737003",
+    "code": "0501737003",
+    "name": "Bagacay",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501737000",
+      "code": "0501737000",
+      "name": "Tinambac"
+    }
+  },
+  {
+    "id": "0501737004",
+    "code": "0501737004",
+    "name": "Banga",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501737000",
+      "code": "0501737000",
+      "name": "Tinambac"
+    }
+  },
+  {
+    "id": "0501737006",
+    "code": "0501737006",
+    "name": "Bani",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501737000",
+      "code": "0501737000",
+      "name": "Tinambac"
+    }
+  },
+  {
+    "id": "0501737007",
+    "code": "0501737007",
+    "name": "Bataan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501737000",
+      "code": "0501737000",
+      "name": "Tinambac"
+    }
+  },
+  {
+    "id": "0501737008",
+    "code": "0501737008",
+    "name": "Binalay",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501737000",
+      "code": "0501737000",
+      "name": "Tinambac"
+    }
+  },
+  {
+    "id": "0501737005",
+    "code": "0501737005",
+    "name": "Bolaobalite",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501737000",
+      "code": "0501737000",
+      "name": "Tinambac"
+    }
+  },
+  {
+    "id": "0501737009",
+    "code": "0501737009",
+    "name": "Buenavista",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501737000",
+      "code": "0501737000",
+      "name": "Tinambac"
+    }
+  },
+  {
+    "id": "0501737010",
+    "code": "0501737010",
+    "name": "Buyo",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501737000",
+      "code": "0501737000",
+      "name": "Tinambac"
+    }
+  },
+  {
+    "id": "0501737011",
+    "code": "0501737011",
+    "name": "Cagliliog",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501737000",
+      "code": "0501737000",
+      "name": "Tinambac"
+    }
+  },
+  {
+    "id": "0501737012",
+    "code": "0501737012",
+    "name": "Caloco",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501737000",
+      "code": "0501737000",
+      "name": "Tinambac"
+    }
+  },
+  {
+    "id": "0501737013",
+    "code": "0501737013",
+    "name": "Camagong",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501737000",
+      "code": "0501737000",
+      "name": "Tinambac"
+    }
+  },
+  {
+    "id": "0501737014",
+    "code": "0501737014",
+    "name": "Canayonan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501737000",
+      "code": "0501737000",
+      "name": "Tinambac"
+    }
+  },
+  {
+    "id": "0501737015",
+    "code": "0501737015",
+    "name": "Cawaynan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501737000",
+      "code": "0501737000",
+      "name": "Tinambac"
+    }
+  },
+  {
+    "id": "0501737016",
+    "code": "0501737016",
+    "name": "Daligan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501737000",
+      "code": "0501737000",
+      "name": "Tinambac"
+    }
+  },
+  {
+    "id": "0501737017",
+    "code": "0501737017",
+    "name": "Filarca",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501737000",
+      "code": "0501737000",
+      "name": "Tinambac"
+    }
+  },
+  {
+    "id": "0501737023",
+    "code": "0501737023",
+    "name": "La Medalla",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501737000",
+      "code": "0501737000",
+      "name": "Tinambac"
+    }
+  },
+  {
+    "id": "0501737018",
+    "code": "0501737018",
+    "name": "La Purisima",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501737000",
+      "code": "0501737000",
+      "name": "Tinambac"
+    }
+  },
+  {
+    "id": "0501737019",
+    "code": "0501737019",
+    "name": "Lupi",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501737000",
+      "code": "0501737000",
+      "name": "Tinambac"
+    }
+  },
+  {
+    "id": "0501737020",
+    "code": "0501737020",
+    "name": "Magsaysay",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501737000",
+      "code": "0501737000",
+      "name": "Tinambac"
+    }
+  },
+  {
+    "id": "0501737021",
+    "code": "0501737021",
+    "name": "Magtang",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501737000",
+      "code": "0501737000",
+      "name": "Tinambac"
+    }
+  },
+  {
+    "id": "0501737022",
+    "code": "0501737022",
+    "name": "Mananao",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501737000",
+      "code": "0501737000",
+      "name": "Tinambac"
+    }
+  },
+  {
+    "id": "0501737024",
+    "code": "0501737024",
+    "name": "New Caaluan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501737000",
+      "code": "0501737000",
+      "name": "Tinambac"
+    }
+  },
+  {
+    "id": "0501737025",
+    "code": "0501737025",
+    "name": "Olag Grande",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501737000",
+      "code": "0501737000",
+      "name": "Tinambac"
+    }
+  },
+  {
+    "id": "0501737026",
+    "code": "0501737026",
+    "name": "Olag Pequeño",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501737000",
+      "code": "0501737000",
+      "name": "Tinambac"
+    }
+  },
+  {
+    "id": "0501737027",
+    "code": "0501737027",
+    "name": "Old Caaluan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501737000",
+      "code": "0501737000",
+      "name": "Tinambac"
+    }
+  },
+  {
+    "id": "0501737028",
+    "code": "0501737028",
+    "name": "Pag-Asa",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501737000",
+      "code": "0501737000",
+      "name": "Tinambac"
+    }
+  },
+  {
+    "id": "0501737029",
+    "code": "0501737029",
+    "name": "Pantat",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501737000",
+      "code": "0501737000",
+      "name": "Tinambac"
+    }
+  },
+  {
+    "id": "0501737030",
+    "code": "0501737030",
+    "name": "Sagrada",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501737000",
+      "code": "0501737000",
+      "name": "Tinambac"
+    }
+  },
+  {
+    "id": "0501737031",
+    "code": "0501737031",
+    "name": "Salvacion",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501737000",
+      "code": "0501737000",
+      "name": "Tinambac"
+    }
+  },
+  {
+    "id": "0501737044",
+    "code": "0501737044",
+    "name": "Salvacion Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501737000",
+      "code": "0501737000",
+      "name": "Tinambac"
+    }
+  },
+  {
+    "id": "0501737032",
+    "code": "0501737032",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501737000",
+      "code": "0501737000",
+      "name": "Tinambac"
+    }
+  },
+  {
+    "id": "0501737033",
+    "code": "0501737033",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501737000",
+      "code": "0501737000",
+      "name": "Tinambac"
+    }
+  },
+  {
+    "id": "0501737034",
+    "code": "0501737034",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501737000",
+      "code": "0501737000",
+      "name": "Tinambac"
+    }
+  },
+  {
+    "id": "0501737035",
+    "code": "0501737035",
+    "name": "San Pascual",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501737000",
+      "code": "0501737000",
+      "name": "Tinambac"
+    }
+  },
+  {
+    "id": "0501737036",
+    "code": "0501737036",
+    "name": "San Ramon",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501737000",
+      "code": "0501737000",
+      "name": "Tinambac"
+    }
+  },
+  {
+    "id": "0501737037",
+    "code": "0501737037",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501737000",
+      "code": "0501737000",
+      "name": "Tinambac"
+    }
+  },
+  {
+    "id": "0501737038",
+    "code": "0501737038",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501737000",
+      "code": "0501737000",
+      "name": "Tinambac"
+    }
+  },
+  {
+    "id": "0501737039",
+    "code": "0501737039",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501737000",
+      "code": "0501737000",
+      "name": "Tinambac"
+    }
+  },
+  {
+    "id": "0501737040",
+    "code": "0501737040",
+    "name": "Sogod",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501737000",
+      "code": "0501737000",
+      "name": "Tinambac"
+    }
+  },
+  {
+    "id": "0501737041",
+    "code": "0501737041",
+    "name": "Tambang",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501737000",
+      "code": "0501737000",
+      "name": "Tinambac"
+    }
+  },
+  {
+    "id": "0501737042",
+    "code": "0501737042",
+    "name": "Tierra Nevada",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501737000",
+      "code": "0501737000",
+      "name": "Tinambac"
+    }
+  },
+  {
+    "id": "0501737043",
+    "code": "0501737043",
+    "name": "Union",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501737000",
+      "code": "0501737000",
+      "name": "Tinambac"
+    }
+  }
+]

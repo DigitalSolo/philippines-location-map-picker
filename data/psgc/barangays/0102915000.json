@@ -1,0 +1,191 @@
+[
+  {
+    "id": "0102915001",
+    "code": "0102915001",
+    "name": "Banoen",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102915000",
+      "code": "0102915000",
+      "name": "Quirino"
+    }
+  },
+  {
+    "id": "0102915002",
+    "code": "0102915002",
+    "name": "Cayus",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102915000",
+      "code": "0102915000",
+      "name": "Quirino"
+    }
+  },
+  {
+    "id": "0102915009",
+    "code": "0102915009",
+    "name": "Lamag",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102915000",
+      "code": "0102915000",
+      "name": "Quirino"
+    }
+  },
+  {
+    "id": "0102915007",
+    "code": "0102915007",
+    "name": "Legleg",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102915000",
+      "code": "0102915000",
+      "name": "Quirino"
+    }
+  },
+  {
+    "id": "0102915004",
+    "code": "0102915004",
+    "name": "Malideg",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102915000",
+      "code": "0102915000",
+      "name": "Quirino"
+    }
+  },
+  {
+    "id": "0102915005",
+    "code": "0102915005",
+    "name": "Namitpit",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102915000",
+      "code": "0102915000",
+      "name": "Quirino"
+    }
+  },
+  {
+    "id": "0102915006",
+    "code": "0102915006",
+    "name": "Patiacan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102915000",
+      "code": "0102915000",
+      "name": "Quirino"
+    }
+  },
+  {
+    "id": "0102915003",
+    "code": "0102915003",
+    "name": "Patungcaleo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102915000",
+      "code": "0102915000",
+      "name": "Quirino"
+    }
+  },
+  {
+    "id": "0102915008",
+    "code": "0102915008",
+    "name": "Suagayan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102915000",
+      "code": "0102915000",
+      "name": "Quirino"
+    }
+  }
+]

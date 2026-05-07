@@ -1,0 +1,716 @@
+[
+  {
+    "id": "0102914001",
+    "code": "0102914001",
+    "name": "Abuor",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102914000",
+      "code": "0102914000",
+      "name": "Narvacan"
+    }
+  },
+  {
+    "id": "0102914002",
+    "code": "0102914002",
+    "name": "Ambulogan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102914000",
+      "code": "0102914000",
+      "name": "Narvacan"
+    }
+  },
+  {
+    "id": "0102914004",
+    "code": "0102914004",
+    "name": "Aquib",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102914000",
+      "code": "0102914000",
+      "name": "Narvacan"
+    }
+  },
+  {
+    "id": "0102914005",
+    "code": "0102914005",
+    "name": "Banglayan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102914000",
+      "code": "0102914000",
+      "name": "Narvacan"
+    }
+  },
+  {
+    "id": "0102914035",
+    "code": "0102914035",
+    "name": "Bantay Abot",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102914000",
+      "code": "0102914000",
+      "name": "Narvacan"
+    }
+  },
+  {
+    "id": "0102914006",
+    "code": "0102914006",
+    "name": "Bulanos",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102914000",
+      "code": "0102914000",
+      "name": "Narvacan"
+    }
+  },
+  {
+    "id": "0102914007",
+    "code": "0102914007",
+    "name": "Cadacad",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102914000",
+      "code": "0102914000",
+      "name": "Narvacan"
+    }
+  },
+  {
+    "id": "0102914008",
+    "code": "0102914008",
+    "name": "Cagayungan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102914000",
+      "code": "0102914000",
+      "name": "Narvacan"
+    }
+  },
+  {
+    "id": "0102914009",
+    "code": "0102914009",
+    "name": "Camarao",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102914000",
+      "code": "0102914000",
+      "name": "Narvacan"
+    }
+  },
+  {
+    "id": "0102914010",
+    "code": "0102914010",
+    "name": "Casilagan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102914000",
+      "code": "0102914000",
+      "name": "Narvacan"
+    }
+  },
+  {
+    "id": "0102914011",
+    "code": "0102914011",
+    "name": "Codoog",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102914000",
+      "code": "0102914000",
+      "name": "Narvacan"
+    }
+  },
+  {
+    "id": "0102914012",
+    "code": "0102914012",
+    "name": "Dasay",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102914000",
+      "code": "0102914000",
+      "name": "Narvacan"
+    }
+  },
+  {
+    "id": "0102914013",
+    "code": "0102914013",
+    "name": "Dinalaoan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102914000",
+      "code": "0102914000",
+      "name": "Narvacan"
+    }
+  },
+  {
+    "id": "0102914014",
+    "code": "0102914014",
+    "name": "Estancia",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102914000",
+      "code": "0102914000",
+      "name": "Narvacan"
+    }
+  },
+  {
+    "id": "0102914015",
+    "code": "0102914015",
+    "name": "Lanipao",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102914000",
+      "code": "0102914000",
+      "name": "Narvacan"
+    }
+  },
+  {
+    "id": "0102914016",
+    "code": "0102914016",
+    "name": "Lungog",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102914000",
+      "code": "0102914000",
+      "name": "Narvacan"
+    }
+  },
+  {
+    "id": "0102914017",
+    "code": "0102914017",
+    "name": "Margaay",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102914000",
+      "code": "0102914000",
+      "name": "Narvacan"
+    }
+  },
+  {
+    "id": "0102914018",
+    "code": "0102914018",
+    "name": "Marozo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102914000",
+      "code": "0102914000",
+      "name": "Narvacan"
+    }
+  },
+  {
+    "id": "0102914019",
+    "code": "0102914019",
+    "name": "Naguneg",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102914000",
+      "code": "0102914000",
+      "name": "Narvacan"
+    }
+  },
+  {
+    "id": "0102914020",
+    "code": "0102914020",
+    "name": "Orence",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102914000",
+      "code": "0102914000",
+      "name": "Narvacan"
+    }
+  },
+  {
+    "id": "0102914021",
+    "code": "0102914021",
+    "name": "Pantoc",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102914000",
+      "code": "0102914000",
+      "name": "Narvacan"
+    }
+  },
+  {
+    "id": "0102914022",
+    "code": "0102914022",
+    "name": "Paratong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102914000",
+      "code": "0102914000",
+      "name": "Narvacan"
+    }
+  },
+  {
+    "id": "0102914023",
+    "code": "0102914023",
+    "name": "Parparia",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102914000",
+      "code": "0102914000",
+      "name": "Narvacan"
+    }
+  },
+  {
+    "id": "0102914024",
+    "code": "0102914024",
+    "name": "Quinarayan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102914000",
+      "code": "0102914000",
+      "name": "Narvacan"
+    }
+  },
+  {
+    "id": "0102914025",
+    "code": "0102914025",
+    "name": "Rivadavia",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102914000",
+      "code": "0102914000",
+      "name": "Narvacan"
+    }
+  },
+  {
+    "id": "0102914026",
+    "code": "0102914026",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102914000",
+      "code": "0102914000",
+      "name": "Narvacan"
+    }
+  },
+  {
+    "id": "0102914027",
+    "code": "0102914027",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102914000",
+      "code": "0102914000",
+      "name": "Narvacan"
+    }
+  },
+  {
+    "id": "0102914028",
+    "code": "0102914028",
+    "name": "San Pablo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102914000",
+      "code": "0102914000",
+      "name": "Narvacan"
+    }
+  },
+  {
+    "id": "0102914029",
+    "code": "0102914029",
+    "name": "San Pedro",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102914000",
+      "code": "0102914000",
+      "name": "Narvacan"
+    }
+  },
+  {
+    "id": "0102914030",
+    "code": "0102914030",
+    "name": "Santa Lucia",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102914000",
+      "code": "0102914000",
+      "name": "Narvacan"
+    }
+  },
+  {
+    "id": "0102914031",
+    "code": "0102914031",
+    "name": "Sarmingan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102914000",
+      "code": "0102914000",
+      "name": "Narvacan"
+    }
+  },
+  {
+    "id": "0102914032",
+    "code": "0102914032",
+    "name": "Sucoc",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102914000",
+      "code": "0102914000",
+      "name": "Narvacan"
+    }
+  },
+  {
+    "id": "0102914033",
+    "code": "0102914033",
+    "name": "Sulvec",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102914000",
+      "code": "0102914000",
+      "name": "Narvacan"
+    }
+  },
+  {
+    "id": "0102914034",
+    "code": "0102914034",
+    "name": "Turod",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102914000",
+      "code": "0102914000",
+      "name": "Narvacan"
+    }
+  }
+]

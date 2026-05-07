@@ -1,0 +1,716 @@
+[
+  {
+    "id": "0600611001",
+    "code": "0600611001",
+    "name": "Aracay",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600611000",
+      "code": "0600611000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0600611002",
+    "code": "0600611002",
+    "name": "Badiangan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600611000",
+      "code": "0600611000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0600611003",
+    "code": "0600611003",
+    "name": "Bagumbayan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600611000",
+      "code": "0600611000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0600611004",
+    "code": "0600611004",
+    "name": "Baybay",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600611000",
+      "code": "0600611000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0600611005",
+    "code": "0600611005",
+    "name": "Botbot",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600611000",
+      "code": "0600611000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0600611007",
+    "code": "0600611007",
+    "name": "Buang",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600611000",
+      "code": "0600611000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0600611008",
+    "code": "0600611008",
+    "name": "Cabugao",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600611000",
+      "code": "0600611000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0600611009",
+    "code": "0600611009",
+    "name": "Candari",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600611000",
+      "code": "0600611000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0600611010",
+    "code": "0600611010",
+    "name": "Carmen",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600611000",
+      "code": "0600611000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0600611026",
+    "code": "0600611026",
+    "name": "Centro Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600611000",
+      "code": "0600611000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0600611011",
+    "code": "0600611011",
+    "name": "Centro Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600611000",
+      "code": "0600611000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0600611012",
+    "code": "0600611012",
+    "name": "Dionela",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600611000",
+      "code": "0600611000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0600611013",
+    "code": "0600611013",
+    "name": "Dumrog",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600611000",
+      "code": "0600611000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0600611014",
+    "code": "0600611014",
+    "name": "Duyong",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600611000",
+      "code": "0600611000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0600611015",
+    "code": "0600611015",
+    "name": "Fragante",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600611000",
+      "code": "0600611000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0600611016",
+    "code": "0600611016",
+    "name": "Guia",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600611000",
+      "code": "0600611000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0600611017",
+    "code": "0600611017",
+    "name": "Idiacacan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600611000",
+      "code": "0600611000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0600611018",
+    "code": "0600611018",
+    "name": "Jinalinan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600611000",
+      "code": "0600611000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0600611019",
+    "code": "0600611019",
+    "name": "Luhod-Bayang",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600611000",
+      "code": "0600611000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0600611020",
+    "code": "0600611020",
+    "name": "Maadios",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600611000",
+      "code": "0600611000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0600611021",
+    "code": "0600611021",
+    "name": "Mag-aba",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600611000",
+      "code": "0600611000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0600611022",
+    "code": "0600611022",
+    "name": "Napuid",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600611000",
+      "code": "0600611000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0600611023",
+    "code": "0600611023",
+    "name": "Nauring",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600611000",
+      "code": "0600611000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0600611024",
+    "code": "0600611024",
+    "name": "Patria",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600611000",
+      "code": "0600611000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0600611025",
+    "code": "0600611025",
+    "name": "Perfecta",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600611000",
+      "code": "0600611000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0600611027",
+    "code": "0600611027",
+    "name": "San Andres",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600611000",
+      "code": "0600611000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0600611028",
+    "code": "0600611028",
+    "name": "San Joaquin",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600611000",
+      "code": "0600611000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0600611029",
+    "code": "0600611029",
+    "name": "Santa Ana",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600611000",
+      "code": "0600611000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0600611030",
+    "code": "0600611030",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600611000",
+      "code": "0600611000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0600611031",
+    "code": "0600611031",
+    "name": "Santa Fe",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600611000",
+      "code": "0600611000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0600611032",
+    "code": "0600611032",
+    "name": "Santo Rosario",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600611000",
+      "code": "0600611000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0600611033",
+    "code": "0600611033",
+    "name": "Talisay",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600611000",
+      "code": "0600611000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0600611034",
+    "code": "0600611034",
+    "name": "Tingib",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600611000",
+      "code": "0600611000",
+      "name": "Pandan"
+    }
+  },
+  {
+    "id": "0600611035",
+    "code": "0600611035",
+    "name": "Zaldivar",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600611000",
+      "code": "0600611000",
+      "name": "Pandan"
+    }
+  }
+]

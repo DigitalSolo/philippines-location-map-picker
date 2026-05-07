@@ -1,0 +1,464 @@
+[
+  {
+    "id": "0501602001",
+    "code": "0501602001",
+    "name": "Alayao",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501602000",
+      "code": "0501602000",
+      "name": "Capalonga"
+    }
+  },
+  {
+    "id": "0501602002",
+    "code": "0501602002",
+    "name": "Binawangan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501602000",
+      "code": "0501602000",
+      "name": "Capalonga"
+    }
+  },
+  {
+    "id": "0501602003",
+    "code": "0501602003",
+    "name": "Calabaca",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501602000",
+      "code": "0501602000",
+      "name": "Capalonga"
+    }
+  },
+  {
+    "id": "0501602004",
+    "code": "0501602004",
+    "name": "Camagsaan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501602000",
+      "code": "0501602000",
+      "name": "Capalonga"
+    }
+  },
+  {
+    "id": "0501602005",
+    "code": "0501602005",
+    "name": "Catabaguangan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501602000",
+      "code": "0501602000",
+      "name": "Capalonga"
+    }
+  },
+  {
+    "id": "0501602006",
+    "code": "0501602006",
+    "name": "Catioan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501602000",
+      "code": "0501602000",
+      "name": "Capalonga"
+    }
+  },
+  {
+    "id": "0501602007",
+    "code": "0501602007",
+    "name": "Del Pilar",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501602000",
+      "code": "0501602000",
+      "name": "Capalonga"
+    }
+  },
+  {
+    "id": "0501602008",
+    "code": "0501602008",
+    "name": "Itok",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501602000",
+      "code": "0501602000",
+      "name": "Capalonga"
+    }
+  },
+  {
+    "id": "0501602009",
+    "code": "0501602009",
+    "name": "Lucbanan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501602000",
+      "code": "0501602000",
+      "name": "Capalonga"
+    }
+  },
+  {
+    "id": "0501602010",
+    "code": "0501602010",
+    "name": "Mabini",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501602000",
+      "code": "0501602000",
+      "name": "Capalonga"
+    }
+  },
+  {
+    "id": "0501602011",
+    "code": "0501602011",
+    "name": "Mactang",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501602000",
+      "code": "0501602000",
+      "name": "Capalonga"
+    }
+  },
+  {
+    "id": "0501602015",
+    "code": "0501602015",
+    "name": "Magsaysay",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501602000",
+      "code": "0501602000",
+      "name": "Capalonga"
+    }
+  },
+  {
+    "id": "0501602012",
+    "code": "0501602012",
+    "name": "Mataque",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501602000",
+      "code": "0501602000",
+      "name": "Capalonga"
+    }
+  },
+  {
+    "id": "0501602013",
+    "code": "0501602013",
+    "name": "Old Camp",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501602000",
+      "code": "0501602000",
+      "name": "Capalonga"
+    }
+  },
+  {
+    "id": "0501602014",
+    "code": "0501602014",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501602000",
+      "code": "0501602000",
+      "name": "Capalonga"
+    }
+  },
+  {
+    "id": "0501602016",
+    "code": "0501602016",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501602000",
+      "code": "0501602000",
+      "name": "Capalonga"
+    }
+  },
+  {
+    "id": "0501602017",
+    "code": "0501602017",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501602000",
+      "code": "0501602000",
+      "name": "Capalonga"
+    }
+  },
+  {
+    "id": "0501602018",
+    "code": "0501602018",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501602000",
+      "code": "0501602000",
+      "name": "Capalonga"
+    }
+  },
+  {
+    "id": "0501602019",
+    "code": "0501602019",
+    "name": "Tanawan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501602000",
+      "code": "0501602000",
+      "name": "Capalonga"
+    }
+  },
+  {
+    "id": "0501602020",
+    "code": "0501602020",
+    "name": "Ubang",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501602000",
+      "code": "0501602000",
+      "name": "Capalonga"
+    }
+  },
+  {
+    "id": "0501602021",
+    "code": "0501602021",
+    "name": "Villa Aurora",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501602000",
+      "code": "0501602000",
+      "name": "Capalonga"
+    }
+  },
+  {
+    "id": "0501602022",
+    "code": "0501602022",
+    "name": "Villa Belen",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501602000",
+      "code": "0501602000",
+      "name": "Capalonga"
+    }
+  }
+]

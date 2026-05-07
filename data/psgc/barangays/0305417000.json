@@ -1,0 +1,359 @@
+[
+  {
+    "id": "0305417001",
+    "code": "0305417001",
+    "name": "San Agustin",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305417000",
+      "code": "0305417000",
+      "name": "San Luis"
+    }
+  },
+  {
+    "id": "0305417002",
+    "code": "0305417002",
+    "name": "San Carlos",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305417000",
+      "code": "0305417000",
+      "name": "San Luis"
+    }
+  },
+  {
+    "id": "0305417003",
+    "code": "0305417003",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305417000",
+      "code": "0305417000",
+      "name": "San Luis"
+    }
+  },
+  {
+    "id": "0305417004",
+    "code": "0305417004",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305417000",
+      "code": "0305417000",
+      "name": "San Luis"
+    }
+  },
+  {
+    "id": "0305417005",
+    "code": "0305417005",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305417000",
+      "code": "0305417000",
+      "name": "San Luis"
+    }
+  },
+  {
+    "id": "0305417006",
+    "code": "0305417006",
+    "name": "San Nicolas",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305417000",
+      "code": "0305417000",
+      "name": "San Luis"
+    }
+  },
+  {
+    "id": "0305417008",
+    "code": "0305417008",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305417000",
+      "code": "0305417000",
+      "name": "San Luis"
+    }
+  },
+  {
+    "id": "0305417009",
+    "code": "0305417009",
+    "name": "San Sebastian",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305417000",
+      "code": "0305417000",
+      "name": "San Luis"
+    }
+  },
+  {
+    "id": "0305417010",
+    "code": "0305417010",
+    "name": "Santa Catalina",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305417000",
+      "code": "0305417000",
+      "name": "San Luis"
+    }
+  },
+  {
+    "id": "0305417011",
+    "code": "0305417011",
+    "name": "Santa Cruz Pambilog",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305417000",
+      "code": "0305417000",
+      "name": "San Luis"
+    }
+  },
+  {
+    "id": "0305417012",
+    "code": "0305417012",
+    "name": "Santa Cruz Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305417000",
+      "code": "0305417000",
+      "name": "San Luis"
+    }
+  },
+  {
+    "id": "0305417013",
+    "code": "0305417013",
+    "name": "Santa Lucia",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305417000",
+      "code": "0305417000",
+      "name": "San Luis"
+    }
+  },
+  {
+    "id": "0305417014",
+    "code": "0305417014",
+    "name": "Santa Monica",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305417000",
+      "code": "0305417000",
+      "name": "San Luis"
+    }
+  },
+  {
+    "id": "0305417015",
+    "code": "0305417015",
+    "name": "Santa Rita",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305417000",
+      "code": "0305417000",
+      "name": "San Luis"
+    }
+  },
+  {
+    "id": "0305417016",
+    "code": "0305417016",
+    "name": "Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305417000",
+      "code": "0305417000",
+      "name": "San Luis"
+    }
+  },
+  {
+    "id": "0305417017",
+    "code": "0305417017",
+    "name": "Santo Rosario",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305417000",
+      "code": "0305417000",
+      "name": "San Luis"
+    }
+  },
+  {
+    "id": "0305417018",
+    "code": "0305417018",
+    "name": "Santo Tomas",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305417000",
+      "code": "0305417000",
+      "name": "San Luis"
+    }
+  }
+]

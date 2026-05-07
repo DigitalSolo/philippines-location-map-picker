@@ -1,0 +1,611 @@
+[
+  {
+    "id": "0502002001",
+    "code": "0502002001",
+    "name": "Abihao",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502002000",
+      "code": "0502002000",
+      "name": "Baras"
+    }
+  },
+  {
+    "id": "0502002002",
+    "code": "0502002002",
+    "name": "Agban",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502002000",
+      "code": "0502002000",
+      "name": "Baras"
+    }
+  },
+  {
+    "id": "0502002003",
+    "code": "0502002003",
+    "name": "Bagong Sirang",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502002000",
+      "code": "0502002000",
+      "name": "Baras"
+    }
+  },
+  {
+    "id": "0502002007",
+    "code": "0502002007",
+    "name": "Batolinao",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502002000",
+      "code": "0502002000",
+      "name": "Baras"
+    }
+  },
+  {
+    "id": "0502002004",
+    "code": "0502002004",
+    "name": "Benticayan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502002000",
+      "code": "0502002000",
+      "name": "Baras"
+    }
+  },
+  {
+    "id": "0502002005",
+    "code": "0502002005",
+    "name": "Buenavista",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502002000",
+      "code": "0502002000",
+      "name": "Baras"
+    }
+  },
+  {
+    "id": "0502002006",
+    "code": "0502002006",
+    "name": "Caragumihan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502002000",
+      "code": "0502002000",
+      "name": "Baras"
+    }
+  },
+  {
+    "id": "0502002008",
+    "code": "0502002008",
+    "name": "Danao",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502002000",
+      "code": "0502002000",
+      "name": "Baras"
+    }
+  },
+  {
+    "id": "0502002019",
+    "code": "0502002019",
+    "name": "Eastern Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502002000",
+      "code": "0502002000",
+      "name": "Baras"
+    }
+  },
+  {
+    "id": "0502002010",
+    "code": "0502002010",
+    "name": "Genitligan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502002000",
+      "code": "0502002000",
+      "name": "Baras"
+    }
+  },
+  {
+    "id": "0502002011",
+    "code": "0502002011",
+    "name": "Guinsaanan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502002000",
+      "code": "0502002000",
+      "name": "Baras"
+    }
+  },
+  {
+    "id": "0502002012",
+    "code": "0502002012",
+    "name": "J. M. Alberto",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502002000",
+      "code": "0502002000",
+      "name": "Baras"
+    }
+  },
+  {
+    "id": "0502002013",
+    "code": "0502002013",
+    "name": "Macutal",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502002000",
+      "code": "0502002000",
+      "name": "Baras"
+    }
+  },
+  {
+    "id": "0502002014",
+    "code": "0502002014",
+    "name": "Moning",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502002000",
+      "code": "0502002000",
+      "name": "Baras"
+    }
+  },
+  {
+    "id": "0502002015",
+    "code": "0502002015",
+    "name": "Nagbarorong",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502002000",
+      "code": "0502002000",
+      "name": "Baras"
+    }
+  },
+  {
+    "id": "0502002016",
+    "code": "0502002016",
+    "name": "Osmeña",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502002000",
+      "code": "0502002000",
+      "name": "Baras"
+    }
+  },
+  {
+    "id": "0502002017",
+    "code": "0502002017",
+    "name": "P. Teston",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502002000",
+      "code": "0502002000",
+      "name": "Baras"
+    }
+  },
+  {
+    "id": "0502002018",
+    "code": "0502002018",
+    "name": "Paniquihan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502002000",
+      "code": "0502002000",
+      "name": "Baras"
+    }
+  },
+  {
+    "id": "0502002020",
+    "code": "0502002020",
+    "name": "Puraran",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502002000",
+      "code": "0502002000",
+      "name": "Baras"
+    }
+  },
+  {
+    "id": "0502002021",
+    "code": "0502002021",
+    "name": "Putsan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502002000",
+      "code": "0502002000",
+      "name": "Baras"
+    }
+  },
+  {
+    "id": "0502002022",
+    "code": "0502002022",
+    "name": "Quezon",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502002000",
+      "code": "0502002000",
+      "name": "Baras"
+    }
+  },
+  {
+    "id": "0502002023",
+    "code": "0502002023",
+    "name": "Rizal",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502002000",
+      "code": "0502002000",
+      "name": "Baras"
+    }
+  },
+  {
+    "id": "0502002009",
+    "code": "0502002009",
+    "name": "Sagrada",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502002000",
+      "code": "0502002000",
+      "name": "Baras"
+    }
+  },
+  {
+    "id": "0502002024",
+    "code": "0502002024",
+    "name": "Salvacion",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502002000",
+      "code": "0502002000",
+      "name": "Baras"
+    }
+  },
+  {
+    "id": "0502002025",
+    "code": "0502002025",
+    "name": "San Lorenzo",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502002000",
+      "code": "0502002000",
+      "name": "Baras"
+    }
+  },
+  {
+    "id": "0502002026",
+    "code": "0502002026",
+    "name": "San Miguel",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502002000",
+      "code": "0502002000",
+      "name": "Baras"
+    }
+  },
+  {
+    "id": "0502002027",
+    "code": "0502002027",
+    "name": "Santa Maria",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502002000",
+      "code": "0502002000",
+      "name": "Baras"
+    }
+  },
+  {
+    "id": "0502002028",
+    "code": "0502002028",
+    "name": "Tilod",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502002000",
+      "code": "0502002000",
+      "name": "Baras"
+    }
+  },
+  {
+    "id": "0502002029",
+    "code": "0502002029",
+    "name": "Western Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502002000",
+      "code": "0502002000",
+      "name": "Baras"
+    }
+  }
+]

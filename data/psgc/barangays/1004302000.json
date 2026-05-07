@@ -1,0 +1,632 @@
+[
+  {
+    "id": "1004302001",
+    "code": "1004302001",
+    "name": "Balagnan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004302000",
+      "code": "1004302000",
+      "name": "Balingasag"
+    }
+  },
+  {
+    "id": "1004302003",
+    "code": "1004302003",
+    "name": "Baliwagan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004302000",
+      "code": "1004302000",
+      "name": "Balingasag"
+    }
+  },
+  {
+    "id": "1004302020",
+    "code": "1004302020",
+    "name": "Barangay 1",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004302000",
+      "code": "1004302000",
+      "name": "Balingasag"
+    }
+  },
+  {
+    "id": "1004302021",
+    "code": "1004302021",
+    "name": "Barangay 2",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004302000",
+      "code": "1004302000",
+      "name": "Balingasag"
+    }
+  },
+  {
+    "id": "1004302022",
+    "code": "1004302022",
+    "name": "Barangay 3",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004302000",
+      "code": "1004302000",
+      "name": "Balingasag"
+    }
+  },
+  {
+    "id": "1004302023",
+    "code": "1004302023",
+    "name": "Barangay 4",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004302000",
+      "code": "1004302000",
+      "name": "Balingasag"
+    }
+  },
+  {
+    "id": "1004302024",
+    "code": "1004302024",
+    "name": "Barangay 5",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004302000",
+      "code": "1004302000",
+      "name": "Balingasag"
+    }
+  },
+  {
+    "id": "1004302025",
+    "code": "1004302025",
+    "name": "Barangay 6",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004302000",
+      "code": "1004302000",
+      "name": "Balingasag"
+    }
+  },
+  {
+    "id": "1004302005",
+    "code": "1004302005",
+    "name": "Binitinan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004302000",
+      "code": "1004302000",
+      "name": "Balingasag"
+    }
+  },
+  {
+    "id": "1004302006",
+    "code": "1004302006",
+    "name": "Blanco",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004302000",
+      "code": "1004302000",
+      "name": "Balingasag"
+    }
+  },
+  {
+    "id": "1004302008",
+    "code": "1004302008",
+    "name": "Calawag",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004302000",
+      "code": "1004302000",
+      "name": "Balingasag"
+    }
+  },
+  {
+    "id": "1004302009",
+    "code": "1004302009",
+    "name": "Camuayan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004302000",
+      "code": "1004302000",
+      "name": "Balingasag"
+    }
+  },
+  {
+    "id": "1004302010",
+    "code": "1004302010",
+    "name": "Cogon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004302000",
+      "code": "1004302000",
+      "name": "Balingasag"
+    }
+  },
+  {
+    "id": "1004302011",
+    "code": "1004302011",
+    "name": "Dansuli",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004302000",
+      "code": "1004302000",
+      "name": "Balingasag"
+    }
+  },
+  {
+    "id": "1004302012",
+    "code": "1004302012",
+    "name": "Dumarait",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004302000",
+      "code": "1004302000",
+      "name": "Balingasag"
+    }
+  },
+  {
+    "id": "1004302013",
+    "code": "1004302013",
+    "name": "Hermano",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004302000",
+      "code": "1004302000",
+      "name": "Balingasag"
+    }
+  },
+  {
+    "id": "1004302014",
+    "code": "1004302014",
+    "name": "Kibanban",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004302000",
+      "code": "1004302000",
+      "name": "Balingasag"
+    }
+  },
+  {
+    "id": "1004302015",
+    "code": "1004302015",
+    "name": "Linabu",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004302000",
+      "code": "1004302000",
+      "name": "Balingasag"
+    }
+  },
+  {
+    "id": "1004302016",
+    "code": "1004302016",
+    "name": "Linggangao",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004302000",
+      "code": "1004302000",
+      "name": "Balingasag"
+    }
+  },
+  {
+    "id": "1004302017",
+    "code": "1004302017",
+    "name": "Mambayaan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004302000",
+      "code": "1004302000",
+      "name": "Balingasag"
+    }
+  },
+  {
+    "id": "1004302018",
+    "code": "1004302018",
+    "name": "Mandangoa",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004302000",
+      "code": "1004302000",
+      "name": "Balingasag"
+    }
+  },
+  {
+    "id": "1004302019",
+    "code": "1004302019",
+    "name": "Napaliran",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004302000",
+      "code": "1004302000",
+      "name": "Balingasag"
+    }
+  },
+  {
+    "id": "1004302026",
+    "code": "1004302026",
+    "name": "Quezon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004302000",
+      "code": "1004302000",
+      "name": "Balingasag"
+    }
+  },
+  {
+    "id": "1004302027",
+    "code": "1004302027",
+    "name": "Rosario",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004302000",
+      "code": "1004302000",
+      "name": "Balingasag"
+    }
+  },
+  {
+    "id": "1004302028",
+    "code": "1004302028",
+    "name": "Samay",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004302000",
+      "code": "1004302000",
+      "name": "Balingasag"
+    }
+  },
+  {
+    "id": "1004302004",
+    "code": "1004302004",
+    "name": "San Francisco",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004302000",
+      "code": "1004302000",
+      "name": "Balingasag"
+    }
+  },
+  {
+    "id": "1004302029",
+    "code": "1004302029",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004302000",
+      "code": "1004302000",
+      "name": "Balingasag"
+    }
+  },
+  {
+    "id": "1004302030",
+    "code": "1004302030",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004302000",
+      "code": "1004302000",
+      "name": "Balingasag"
+    }
+  },
+  {
+    "id": "1004302031",
+    "code": "1004302031",
+    "name": "Talusan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004302000",
+      "code": "1004302000",
+      "name": "Balingasag"
+    }
+  },
+  {
+    "id": "1004302032",
+    "code": "1004302032",
+    "name": "Waterfall",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004302000",
+      "code": "1004302000",
+      "name": "Balingasag"
+    }
+  }
+]

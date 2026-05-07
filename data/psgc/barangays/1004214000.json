@@ -1,0 +1,359 @@
+[
+  {
+    "id": "1004214001",
+    "code": "1004214001",
+    "name": "Cagay-anon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004214000",
+      "code": "1004214000",
+      "name": "Sinacaban"
+    }
+  },
+  {
+    "id": "1004214002",
+    "code": "1004214002",
+    "name": "Camanse",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004214000",
+      "code": "1004214000",
+      "name": "Sinacaban"
+    }
+  },
+  {
+    "id": "1004214004",
+    "code": "1004214004",
+    "name": "Colupan Alto",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004214000",
+      "code": "1004214000",
+      "name": "Sinacaban"
+    }
+  },
+  {
+    "id": "1004214005",
+    "code": "1004214005",
+    "name": "Colupan Bajo",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004214000",
+      "code": "1004214000",
+      "name": "Sinacaban"
+    }
+  },
+  {
+    "id": "1004214006",
+    "code": "1004214006",
+    "name": "Dinas",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004214000",
+      "code": "1004214000",
+      "name": "Sinacaban"
+    }
+  },
+  {
+    "id": "1004214007",
+    "code": "1004214007",
+    "name": "Estrella",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004214000",
+      "code": "1004214000",
+      "name": "Sinacaban"
+    }
+  },
+  {
+    "id": "1004214008",
+    "code": "1004214008",
+    "name": "Katipunan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004214000",
+      "code": "1004214000",
+      "name": "Sinacaban"
+    }
+  },
+  {
+    "id": "1004214010",
+    "code": "1004214010",
+    "name": "Libertad Alto",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004214000",
+      "code": "1004214000",
+      "name": "Sinacaban"
+    }
+  },
+  {
+    "id": "1004214011",
+    "code": "1004214011",
+    "name": "Libertad Bajo",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004214000",
+      "code": "1004214000",
+      "name": "Sinacaban"
+    }
+  },
+  {
+    "id": "1004214013",
+    "code": "1004214013",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004214000",
+      "code": "1004214000",
+      "name": "Sinacaban"
+    }
+  },
+  {
+    "id": "1004214014",
+    "code": "1004214014",
+    "name": "San Isidro Alto",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004214000",
+      "code": "1004214000",
+      "name": "Sinacaban"
+    }
+  },
+  {
+    "id": "1004214015",
+    "code": "1004214015",
+    "name": "San Isidro Bajo",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004214000",
+      "code": "1004214000",
+      "name": "Sinacaban"
+    }
+  },
+  {
+    "id": "1004214019",
+    "code": "1004214019",
+    "name": "San Lorenzo Ruiz",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004214000",
+      "code": "1004214000",
+      "name": "Sinacaban"
+    }
+  },
+  {
+    "id": "1004214016",
+    "code": "1004214016",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004214000",
+      "code": "1004214000",
+      "name": "Sinacaban"
+    }
+  },
+  {
+    "id": "1004214017",
+    "code": "1004214017",
+    "name": "Señor",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004214000",
+      "code": "1004214000",
+      "name": "Sinacaban"
+    }
+  },
+  {
+    "id": "1004214018",
+    "code": "1004214018",
+    "name": "Sinonoc",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004214000",
+      "code": "1004214000",
+      "name": "Sinacaban"
+    }
+  },
+  {
+    "id": "1004214020",
+    "code": "1004214020",
+    "name": "Tipan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004200000",
+      "code": "1004200000",
+      "name": "Misamis Occidental"
+    },
+    "city_municipality": {
+      "id": "1004214000",
+      "code": "1004214000",
+      "name": "Sinacaban"
+    }
+  }
+]

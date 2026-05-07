@@ -1,0 +1,359 @@
+[
+  {
+    "id": "0103309001",
+    "code": "0103309001",
+    "name": "Bautista",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103309000",
+      "code": "0103309000",
+      "name": "Caba"
+    }
+  },
+  {
+    "id": "0103309002",
+    "code": "0103309002",
+    "name": "Gana",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103309000",
+      "code": "0103309000",
+      "name": "Caba"
+    }
+  },
+  {
+    "id": "0103309003",
+    "code": "0103309003",
+    "name": "Juan Cartas",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103309000",
+      "code": "0103309000",
+      "name": "Caba"
+    }
+  },
+  {
+    "id": "0103309004",
+    "code": "0103309004",
+    "name": "Las-ud",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103309000",
+      "code": "0103309000",
+      "name": "Caba"
+    }
+  },
+  {
+    "id": "0103309005",
+    "code": "0103309005",
+    "name": "Liquicia",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103309000",
+      "code": "0103309000",
+      "name": "Caba"
+    }
+  },
+  {
+    "id": "0103309006",
+    "code": "0103309006",
+    "name": "Poblacion Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103309000",
+      "code": "0103309000",
+      "name": "Caba"
+    }
+  },
+  {
+    "id": "0103309007",
+    "code": "0103309007",
+    "name": "Poblacion Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103309000",
+      "code": "0103309000",
+      "name": "Caba"
+    }
+  },
+  {
+    "id": "0103309009",
+    "code": "0103309009",
+    "name": "San Carlos",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103309000",
+      "code": "0103309000",
+      "name": "Caba"
+    }
+  },
+  {
+    "id": "0103309010",
+    "code": "0103309010",
+    "name": "San Cornelio",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103309000",
+      "code": "0103309000",
+      "name": "Caba"
+    }
+  },
+  {
+    "id": "0103309011",
+    "code": "0103309011",
+    "name": "San Fermin",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103309000",
+      "code": "0103309000",
+      "name": "Caba"
+    }
+  },
+  {
+    "id": "0103309012",
+    "code": "0103309012",
+    "name": "San Gregorio",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103309000",
+      "code": "0103309000",
+      "name": "Caba"
+    }
+  },
+  {
+    "id": "0103309013",
+    "code": "0103309013",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103309000",
+      "code": "0103309000",
+      "name": "Caba"
+    }
+  },
+  {
+    "id": "0103309014",
+    "code": "0103309014",
+    "name": "Santiago Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103309000",
+      "code": "0103309000",
+      "name": "Caba"
+    }
+  },
+  {
+    "id": "0103309015",
+    "code": "0103309015",
+    "name": "Santiago Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103309000",
+      "code": "0103309000",
+      "name": "Caba"
+    }
+  },
+  {
+    "id": "0103309016",
+    "code": "0103309016",
+    "name": "Sobredillo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103309000",
+      "code": "0103309000",
+      "name": "Caba"
+    }
+  },
+  {
+    "id": "0103309017",
+    "code": "0103309017",
+    "name": "Urayong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103309000",
+      "code": "0103309000",
+      "name": "Caba"
+    }
+  },
+  {
+    "id": "0103309018",
+    "code": "0103309018",
+    "name": "Wenceslao",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0103300000",
+      "code": "0103300000",
+      "name": "La Union"
+    },
+    "city_municipality": {
+      "id": "0103309000",
+      "code": "0103309000",
+      "name": "Caba"
+    }
+  }
+]

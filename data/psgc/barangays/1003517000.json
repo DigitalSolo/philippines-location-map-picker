@@ -1,0 +1,548 @@
+[
+  {
+    "id": "1003517001",
+    "code": "1003517001",
+    "name": "Alowin",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003517000",
+      "code": "1003517000",
+      "name": "Poona Piagapo"
+    }
+  },
+  {
+    "id": "1003517002",
+    "code": "1003517002",
+    "name": "Bubong-Dinaig",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003517000",
+      "code": "1003517000",
+      "name": "Poona Piagapo"
+    }
+  },
+  {
+    "id": "1003517007",
+    "code": "1003517007",
+    "name": "Cabasaran",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003517000",
+      "code": "1003517000",
+      "name": "Poona Piagapo"
+    }
+  },
+  {
+    "id": "1003517009",
+    "code": "1003517009",
+    "name": "Cadayonan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003517000",
+      "code": "1003517000",
+      "name": "Poona Piagapo"
+    }
+  },
+  {
+    "id": "1003517003",
+    "code": "1003517003",
+    "name": "Caromatan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003517000",
+      "code": "1003517000",
+      "name": "Poona Piagapo"
+    }
+  },
+  {
+    "id": "1003517004",
+    "code": "1003517004",
+    "name": "Daramba",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003517000",
+      "code": "1003517000",
+      "name": "Poona Piagapo"
+    }
+  },
+  {
+    "id": "1003517005",
+    "code": "1003517005",
+    "name": "Dinaig",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003517000",
+      "code": "1003517000",
+      "name": "Poona Piagapo"
+    }
+  },
+  {
+    "id": "1003517008",
+    "code": "1003517008",
+    "name": "Kablangan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003517000",
+      "code": "1003517000",
+      "name": "Poona Piagapo"
+    }
+  },
+  {
+    "id": "1003517010",
+    "code": "1003517010",
+    "name": "Linindingan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003517000",
+      "code": "1003517000",
+      "name": "Poona Piagapo"
+    }
+  },
+  {
+    "id": "1003517012",
+    "code": "1003517012",
+    "name": "Lumbatan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003517000",
+      "code": "1003517000",
+      "name": "Poona Piagapo"
+    }
+  },
+  {
+    "id": "1003517013",
+    "code": "1003517013",
+    "name": "Lupitan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003517000",
+      "code": "1003517000",
+      "name": "Poona Piagapo"
+    }
+  },
+  {
+    "id": "1003517014",
+    "code": "1003517014",
+    "name": "Madamba",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003517000",
+      "code": "1003517000",
+      "name": "Poona Piagapo"
+    }
+  },
+  {
+    "id": "1003517015",
+    "code": "1003517015",
+    "name": "Madaya",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003517000",
+      "code": "1003517000",
+      "name": "Poona Piagapo"
+    }
+  },
+  {
+    "id": "1003517016",
+    "code": "1003517016",
+    "name": "Maliwanag",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003517000",
+      "code": "1003517000",
+      "name": "Poona Piagapo"
+    }
+  },
+  {
+    "id": "1003517017",
+    "code": "1003517017",
+    "name": "Nunang",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003517000",
+      "code": "1003517000",
+      "name": "Poona Piagapo"
+    }
+  },
+  {
+    "id": "1003517018",
+    "code": "1003517018",
+    "name": "Nunungan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003517000",
+      "code": "1003517000",
+      "name": "Poona Piagapo"
+    }
+  },
+  {
+    "id": "1003517019",
+    "code": "1003517019",
+    "name": "Pantao Raya",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003517000",
+      "code": "1003517000",
+      "name": "Poona Piagapo"
+    }
+  },
+  {
+    "id": "1003517020",
+    "code": "1003517020",
+    "name": "Pantaon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003517000",
+      "code": "1003517000",
+      "name": "Poona Piagapo"
+    }
+  },
+  {
+    "id": "1003517023",
+    "code": "1003517023",
+    "name": "Pendolonan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003517000",
+      "code": "1003517000",
+      "name": "Poona Piagapo"
+    }
+  },
+  {
+    "id": "1003517021",
+    "code": "1003517021",
+    "name": "Pened",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003517000",
+      "code": "1003517000",
+      "name": "Poona Piagapo"
+    }
+  },
+  {
+    "id": "1003517022",
+    "code": "1003517022",
+    "name": "Piangamangaan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003517000",
+      "code": "1003517000",
+      "name": "Poona Piagapo"
+    }
+  },
+  {
+    "id": "1003517024",
+    "code": "1003517024",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003517000",
+      "code": "1003517000",
+      "name": "Poona Piagapo"
+    }
+  },
+  {
+    "id": "1003517025",
+    "code": "1003517025",
+    "name": "Sulo",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003517000",
+      "code": "1003517000",
+      "name": "Poona Piagapo"
+    }
+  },
+  {
+    "id": "1003517026",
+    "code": "1003517026",
+    "name": "Tagoranao",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003517000",
+      "code": "1003517000",
+      "name": "Poona Piagapo"
+    }
+  },
+  {
+    "id": "1003517027",
+    "code": "1003517027",
+    "name": "Tangclao",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003517000",
+      "code": "1003517000",
+      "name": "Poona Piagapo"
+    }
+  },
+  {
+    "id": "1003517028",
+    "code": "1003517028",
+    "name": "Timbangalan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003517000",
+      "code": "1003517000",
+      "name": "Poona Piagapo"
+    }
+  }
+]

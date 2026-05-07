@@ -1,0 +1,86 @@
+[
+  {
+    "id": "0200903001",
+    "code": "0200903001",
+    "name": "Radiwan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0200900000",
+      "code": "0200900000",
+      "name": "Batanes"
+    },
+    "city_municipality": {
+      "id": "0200903000",
+      "code": "0200903000",
+      "name": "Ivana"
+    }
+  },
+  {
+    "id": "0200903002",
+    "code": "0200903002",
+    "name": "Salagao",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0200900000",
+      "code": "0200900000",
+      "name": "Batanes"
+    },
+    "city_municipality": {
+      "id": "0200903000",
+      "code": "0200903000",
+      "name": "Ivana"
+    }
+  },
+  {
+    "id": "0200903003",
+    "code": "0200903003",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0200900000",
+      "code": "0200900000",
+      "name": "Batanes"
+    },
+    "city_municipality": {
+      "id": "0200903000",
+      "code": "0200903000",
+      "name": "Ivana"
+    }
+  },
+  {
+    "id": "0200903004",
+    "code": "0200903004",
+    "name": "Tuhel",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0200900000",
+      "code": "0200900000",
+      "name": "Batanes"
+    },
+    "city_municipality": {
+      "id": "0200903000",
+      "code": "0200903000",
+      "name": "Ivana"
+    }
+  }
+]

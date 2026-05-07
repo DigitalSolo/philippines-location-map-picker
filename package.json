@@ -1,0 +1,75 @@
+{
+  "name": "philippines-location-map-picker",
+  "version": "1.0.65",
+  "description": "Standalone Philippine PSGC location picker with static hierarchy, cached geometry, map pin placement, and reverse boundary matching.",
+  "type": "module",
+  "main": "dist/location-map-picker.umd.js",
+  "module": "dist/location-map-picker.es.js",
+  "style": "dist/location-map-picker.css",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --open /demo/",
+    "build": "vite build",
+    "copy-public": "node tools/copy-public.js",
+    "cache-psgc": "node tools/cache-psgc-cloud.js",
+    "audit-geometry": "node tools/audit-geometry-coverage.js",
+    "cache-arcgis": "node tools/cache-arcgis-barangays.js",
+    "inspect-geojson": "node tools/inspect-geojson-props.js",
+    "import-geojson": "node tools/import-geojson-boundaries.js",
+    "reconcile-geometry": "node tools/reconcile-psgc-geometry.js",
+    "audit-static-data": "node tools/audit-static-data.js",
+    "verify-static-data": "node tools/verify-static-data.js",
+    "check-host-api": "node tools/check-host-api-freeze.js",
+    "check-release-readiness": "node tools/check-release-readiness.js --scope pilot",
+    "check-production-readiness": "node tools/check-production-readiness.js --geometry-policy limited",
+    "check-production-hardening": "node tools/check-production-hardening.js",
+    "check-vendor-consumption": "node tools/check-vendor-consumption.js",
+    "check-pilot-readiness": "node tools/check-release-readiness.js --scope pilot",
+    "check-production-readiness:full-geometry": "node tools/check-production-readiness.js --geometry-policy full",
+    "build-production-psgc-cache": "node tools/build-production-psgc-cache.js",
+    "refresh-data-reports": "node tools/refresh-data-reports.js",
+    "prepare-production-cache": "npm run build-production-psgc-cache -- --out data/psgc && npm run refresh-data-reports",
+    "import-psgc": "node tools/import-psgc.js",
+    "build-production-psgc-cache:file": "node tools/build-production-psgc-cache.js --source file",
+    "validate-psgc-source": "node tools/validate-psgc-source.js",
+    "smoke-psgc-source": "node tools/validate-psgc-source.js --input examples/psgc-import-smoke-test.csv --min-regions 2 --min-provinces 1 --min-cities 3 --min-barangays 5 --report data/psgc-source-validation-report.json",
+    "write-production-thresholds-report": "node tools/write-production-thresholds-report.js",
+    "check-publish-readiness": "node tools/check-github-publish-readiness.js --mode production",
+    "check-publish-readiness:production": "node tools/check-github-publish-readiness.js --mode production",
+    "check-publish-readiness:pilot": "node tools/check-github-publish-readiness.js --mode pilot",
+    "build-production-psgc-cache:fresh": "node tools/build-production-psgc-cache.js --force 1 --resume 0",
+    "resume-production-psgc-cache": "node tools/build-production-psgc-cache.js --resume 1",
+    "check-release-artifacts": "node tools/check-release-artifacts.js",
+    "check-github-release": "npm run check-release-artifacts && npm run check-publish-readiness"
+  },
+  "files": [
+    "src",
+    "dist",
+    "data",
+    "tools",
+    "docs",
+    "README.md",
+    "examples",
+    "LICENSE"
+  ],
+  "keywords": [
+    "philippines",
+    "psgc",
+    "barangay",
+    "location-picker",
+    "map-picker",
+    "address-picker"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^7.0.0"
+  },
+  "types": "src/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./src/index.d.ts",
+      "import": "./dist/location-map-picker.es.js",
+      "require": "./dist/location-map-picker.umd.js"
+    },
+    "./style.css": "./dist/location-map-picker.css"
+  }
+}

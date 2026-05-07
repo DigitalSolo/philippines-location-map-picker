@@ -1,0 +1,506 @@
+[
+  {
+    "id": "0403403001",
+    "code": "0403403001",
+    "name": "Biñan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403403000",
+      "code": "0403403000",
+      "name": "City of Biñan"
+    }
+  },
+  {
+    "id": "0403403002",
+    "code": "0403403002",
+    "name": "Bungahan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403403000",
+      "code": "0403403000",
+      "name": "City of Biñan"
+    }
+  },
+  {
+    "id": "0403403004",
+    "code": "0403403004",
+    "name": "Canlalay",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403403000",
+      "code": "0403403000",
+      "name": "City of Biñan"
+    }
+  },
+  {
+    "id": "0403403005",
+    "code": "0403403005",
+    "name": "Casile",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403403000",
+      "code": "0403403000",
+      "name": "City of Biñan"
+    }
+  },
+  {
+    "id": "0403403006",
+    "code": "0403403006",
+    "name": "De La Paz",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403403000",
+      "code": "0403403000",
+      "name": "City of Biñan"
+    }
+  },
+  {
+    "id": "0403403007",
+    "code": "0403403007",
+    "name": "Ganado",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403403000",
+      "code": "0403403000",
+      "name": "City of Biñan"
+    }
+  },
+  {
+    "id": "0403403009",
+    "code": "0403403009",
+    "name": "Langkiwa",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403403000",
+      "code": "0403403000",
+      "name": "City of Biñan"
+    }
+  },
+  {
+    "id": "0403403011",
+    "code": "0403403011",
+    "name": "Loma",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403403000",
+      "code": "0403403000",
+      "name": "City of Biñan"
+    }
+  },
+  {
+    "id": "0403403012",
+    "code": "0403403012",
+    "name": "Malaban",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403403000",
+      "code": "0403403000",
+      "name": "City of Biñan"
+    }
+  },
+  {
+    "id": "0403403013",
+    "code": "0403403013",
+    "name": "Malamig",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403403000",
+      "code": "0403403000",
+      "name": "City of Biñan"
+    }
+  },
+  {
+    "id": "0403403014",
+    "code": "0403403014",
+    "name": "Mampalasan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403403000",
+      "code": "0403403000",
+      "name": "City of Biñan"
+    }
+  },
+  {
+    "id": "0403403015",
+    "code": "0403403015",
+    "name": "Platero",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403403000",
+      "code": "0403403000",
+      "name": "City of Biñan"
+    }
+  },
+  {
+    "id": "0403403016",
+    "code": "0403403016",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403403000",
+      "code": "0403403000",
+      "name": "City of Biñan"
+    }
+  },
+  {
+    "id": "0403403019",
+    "code": "0403403019",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403403000",
+      "code": "0403403000",
+      "name": "City of Biñan"
+    }
+  },
+  {
+    "id": "0403403008",
+    "code": "0403403008",
+    "name": "San Francisco",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403403000",
+      "code": "0403403000",
+      "name": "City of Biñan"
+    }
+  },
+  {
+    "id": "0403403020",
+    "code": "0403403020",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403403000",
+      "code": "0403403000",
+      "name": "City of Biñan"
+    }
+  },
+  {
+    "id": "0403403021",
+    "code": "0403403021",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403403000",
+      "code": "0403403000",
+      "name": "City of Biñan"
+    }
+  },
+  {
+    "id": "0403403023",
+    "code": "0403403023",
+    "name": "Santo Domingo",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403403000",
+      "code": "0403403000",
+      "name": "City of Biñan"
+    }
+  },
+  {
+    "id": "0403403018",
+    "code": "0403403018",
+    "name": "Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403403000",
+      "code": "0403403000",
+      "name": "City of Biñan"
+    }
+  },
+  {
+    "id": "0403403003",
+    "code": "0403403003",
+    "name": "Santo Tomas",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403403000",
+      "code": "0403403000",
+      "name": "City of Biñan"
+    }
+  },
+  {
+    "id": "0403403022",
+    "code": "0403403022",
+    "name": "Soro-soro",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403403000",
+      "code": "0403403000",
+      "name": "City of Biñan"
+    }
+  },
+  {
+    "id": "0403403024",
+    "code": "0403403024",
+    "name": "Timbao",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403403000",
+      "code": "0403403000",
+      "name": "City of Biñan"
+    }
+  },
+  {
+    "id": "0403403025",
+    "code": "0403403025",
+    "name": "Tubigan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403403000",
+      "code": "0403403000",
+      "name": "City of Biñan"
+    }
+  },
+  {
+    "id": "0403403026",
+    "code": "0403403026",
+    "name": "Zapote",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0403400000",
+      "code": "0403400000",
+      "name": "Laguna"
+    },
+    "city_municipality": {
+      "id": "0403403000",
+      "code": "0403403000",
+      "name": "City of Biñan"
+    }
+  }
+]

@@ -1,0 +1,233 @@
+[
+  {
+    "id": "1001313001",
+    "code": "1001313001",
+    "name": "Kalingking",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001313000",
+      "code": "1001313000",
+      "name": "Malitbog"
+    }
+  },
+  {
+    "id": "1001313002",
+    "code": "1001313002",
+    "name": "Kiabo",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001313000",
+      "code": "1001313000",
+      "name": "Malitbog"
+    }
+  },
+  {
+    "id": "1001313003",
+    "code": "1001313003",
+    "name": "Mindagat",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001313000",
+      "code": "1001313000",
+      "name": "Malitbog"
+    }
+  },
+  {
+    "id": "1001313004",
+    "code": "1001313004",
+    "name": "Omagling",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001313000",
+      "code": "1001313000",
+      "name": "Malitbog"
+    }
+  },
+  {
+    "id": "1001313005",
+    "code": "1001313005",
+    "name": "Patpat",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001313000",
+      "code": "1001313000",
+      "name": "Malitbog"
+    }
+  },
+  {
+    "id": "1001313006",
+    "code": "1001313006",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001313000",
+      "code": "1001313000",
+      "name": "Malitbog"
+    }
+  },
+  {
+    "id": "1001313007",
+    "code": "1001313007",
+    "name": "Sampiano",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001313000",
+      "code": "1001313000",
+      "name": "Malitbog"
+    }
+  },
+  {
+    "id": "1001313008",
+    "code": "1001313008",
+    "name": "San Luis",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001313000",
+      "code": "1001313000",
+      "name": "Malitbog"
+    }
+  },
+  {
+    "id": "1001313009",
+    "code": "1001313009",
+    "name": "Santa Ines",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001313000",
+      "code": "1001313000",
+      "name": "Malitbog"
+    }
+  },
+  {
+    "id": "1001313010",
+    "code": "1001313010",
+    "name": "Silo-o",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001313000",
+      "code": "1001313000",
+      "name": "Malitbog"
+    }
+  },
+  {
+    "id": "1001313011",
+    "code": "1001313011",
+    "name": "Sumalsag",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001313000",
+      "code": "1001313000",
+      "name": "Malitbog"
+    }
+  }
+]

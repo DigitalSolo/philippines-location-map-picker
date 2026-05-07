@@ -1,0 +1,443 @@
+[
+  {
+    "id": "1003502001",
+    "code": "1003502001",
+    "name": "Abaga",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003502000",
+      "code": "1003502000",
+      "name": "Baloi"
+    }
+  },
+  {
+    "id": "1003502002",
+    "code": "1003502002",
+    "name": "Adapun-Ali",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003502000",
+      "code": "1003502000",
+      "name": "Baloi"
+    }
+  },
+  {
+    "id": "1003502003",
+    "code": "1003502003",
+    "name": "Angandog",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003502000",
+      "code": "1003502000",
+      "name": "Baloi"
+    }
+  },
+  {
+    "id": "1003502004",
+    "code": "1003502004",
+    "name": "Angayen",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003502000",
+      "code": "1003502000",
+      "name": "Baloi"
+    }
+  },
+  {
+    "id": "1003502005",
+    "code": "1003502005",
+    "name": "Bangko",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003502000",
+      "code": "1003502000",
+      "name": "Baloi"
+    }
+  },
+  {
+    "id": "1003502006",
+    "code": "1003502006",
+    "name": "Batolacongan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003502000",
+      "code": "1003502000",
+      "name": "Baloi"
+    }
+  },
+  {
+    "id": "1003502007",
+    "code": "1003502007",
+    "name": "Buenavista",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003502000",
+      "code": "1003502000",
+      "name": "Baloi"
+    }
+  },
+  {
+    "id": "1003502009",
+    "code": "1003502009",
+    "name": "Cadayonan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003502000",
+      "code": "1003502000",
+      "name": "Baloi"
+    }
+  },
+  {
+    "id": "1003502012",
+    "code": "1003502012",
+    "name": "Landa",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003502000",
+      "code": "1003502000",
+      "name": "Baloi"
+    }
+  },
+  {
+    "id": "1003502013",
+    "code": "1003502013",
+    "name": "Lumbac",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003502000",
+      "code": "1003502000",
+      "name": "Baloi"
+    }
+  },
+  {
+    "id": "1003502014",
+    "code": "1003502014",
+    "name": "Mamaanun",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003502000",
+      "code": "1003502000",
+      "name": "Baloi"
+    }
+  },
+  {
+    "id": "1003502015",
+    "code": "1003502015",
+    "name": "Maria-Cristina",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003502000",
+      "code": "1003502000",
+      "name": "Baloi"
+    }
+  },
+  {
+    "id": "1003502016",
+    "code": "1003502016",
+    "name": "Matampay",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003502000",
+      "code": "1003502000",
+      "name": "Baloi"
+    }
+  },
+  {
+    "id": "1003502017",
+    "code": "1003502017",
+    "name": "Nangka",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003502000",
+      "code": "1003502000",
+      "name": "Baloi"
+    }
+  },
+  {
+    "id": "1003502019",
+    "code": "1003502019",
+    "name": "Pacalundo",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003502000",
+      "code": "1003502000",
+      "name": "Baloi"
+    }
+  },
+  {
+    "id": "1003502022",
+    "code": "1003502022",
+    "name": "Poblacion East",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003502000",
+      "code": "1003502000",
+      "name": "Baloi"
+    }
+  },
+  {
+    "id": "1003502023",
+    "code": "1003502023",
+    "name": "Poblacion West",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003502000",
+      "code": "1003502000",
+      "name": "Baloi"
+    }
+  },
+  {
+    "id": "1003502025",
+    "code": "1003502025",
+    "name": "Sandor",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003502000",
+      "code": "1003502000",
+      "name": "Baloi"
+    }
+  },
+  {
+    "id": "1003502026",
+    "code": "1003502026",
+    "name": "Sangcad",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003502000",
+      "code": "1003502000",
+      "name": "Baloi"
+    }
+  },
+  {
+    "id": "1003502027",
+    "code": "1003502027",
+    "name": "Sarip-Alawi",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003502000",
+      "code": "1003502000",
+      "name": "Baloi"
+    }
+  },
+  {
+    "id": "1003502028",
+    "code": "1003502028",
+    "name": "Sigayan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003502000",
+      "code": "1003502000",
+      "name": "Baloi"
+    }
+  }
+]

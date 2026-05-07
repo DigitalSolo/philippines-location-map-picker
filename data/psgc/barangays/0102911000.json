@@ -1,0 +1,233 @@
+[
+  {
+    "id": "0102911001",
+    "code": "0102911001",
+    "name": "Banucal",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102911000",
+      "code": "0102911000",
+      "name": "Lidlidda"
+    }
+  },
+  {
+    "id": "0102911002",
+    "code": "0102911002",
+    "name": "Bequi-Walin",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102911000",
+      "code": "0102911000",
+      "name": "Lidlidda"
+    }
+  },
+  {
+    "id": "0102911003",
+    "code": "0102911003",
+    "name": "Bugui",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102911000",
+      "code": "0102911000",
+      "name": "Lidlidda"
+    }
+  },
+  {
+    "id": "0102911004",
+    "code": "0102911004",
+    "name": "Calungbuyan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102911000",
+      "code": "0102911000",
+      "name": "Lidlidda"
+    }
+  },
+  {
+    "id": "0102911005",
+    "code": "0102911005",
+    "name": "Carcarabasa",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102911000",
+      "code": "0102911000",
+      "name": "Lidlidda"
+    }
+  },
+  {
+    "id": "0102911006",
+    "code": "0102911006",
+    "name": "Labut",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102911000",
+      "code": "0102911000",
+      "name": "Lidlidda"
+    }
+  },
+  {
+    "id": "0102911007",
+    "code": "0102911007",
+    "name": "Poblacion Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102911000",
+      "code": "0102911000",
+      "name": "Lidlidda"
+    }
+  },
+  {
+    "id": "0102911008",
+    "code": "0102911008",
+    "name": "Poblacion Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102911000",
+      "code": "0102911000",
+      "name": "Lidlidda"
+    }
+  },
+  {
+    "id": "0102911009",
+    "code": "0102911009",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102911000",
+      "code": "0102911000",
+      "name": "Lidlidda"
+    }
+  },
+  {
+    "id": "0102911010",
+    "code": "0102911010",
+    "name": "Suysuyan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102911000",
+      "code": "0102911000",
+      "name": "Lidlidda"
+    }
+  },
+  {
+    "id": "0102911011",
+    "code": "0102911011",
+    "name": "Tay-ac",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102911000",
+      "code": "0102911000",
+      "name": "Lidlidda"
+    }
+  }
+]

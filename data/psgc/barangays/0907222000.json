@@ -1,0 +1,380 @@
+[
+  {
+    "id": "0907222008",
+    "code": "0907222008",
+    "name": "Balatakan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907222000",
+      "code": "0907222000",
+      "name": "Jose Dalman"
+    }
+  },
+  {
+    "id": "0907222009",
+    "code": "0907222009",
+    "name": "Bitoon",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907222000",
+      "code": "0907222000",
+      "name": "Jose Dalman"
+    }
+  },
+  {
+    "id": "0907222001",
+    "code": "0907222001",
+    "name": "Dinasan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907222000",
+      "code": "0907222000",
+      "name": "Jose Dalman"
+    }
+  },
+  {
+    "id": "0907222010",
+    "code": "0907222010",
+    "name": "Ilihan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907222000",
+      "code": "0907222000",
+      "name": "Jose Dalman"
+    }
+  },
+  {
+    "id": "0907222011",
+    "code": "0907222011",
+    "name": "Labakid",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907222000",
+      "code": "0907222000",
+      "name": "Jose Dalman"
+    }
+  },
+  {
+    "id": "0907222012",
+    "code": "0907222012",
+    "name": "Lipay",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907222000",
+      "code": "0907222000",
+      "name": "Jose Dalman"
+    }
+  },
+  {
+    "id": "0907222013",
+    "code": "0907222013",
+    "name": "Litalip",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907222000",
+      "code": "0907222000",
+      "name": "Jose Dalman"
+    }
+  },
+  {
+    "id": "0907222014",
+    "code": "0907222014",
+    "name": "Lopero",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907222000",
+      "code": "0907222000",
+      "name": "Jose Dalman"
+    }
+  },
+  {
+    "id": "0907222015",
+    "code": "0907222015",
+    "name": "Lumanping",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907222000",
+      "code": "0907222000",
+      "name": "Jose Dalman"
+    }
+  },
+  {
+    "id": "0907222002",
+    "code": "0907222002",
+    "name": "Madalag",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907222000",
+      "code": "0907222000",
+      "name": "Jose Dalman"
+    }
+  },
+  {
+    "id": "0907222003",
+    "code": "0907222003",
+    "name": "Manawan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907222000",
+      "code": "0907222000",
+      "name": "Jose Dalman"
+    }
+  },
+  {
+    "id": "0907222016",
+    "code": "0907222016",
+    "name": "Marupay",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907222000",
+      "code": "0907222000",
+      "name": "Jose Dalman"
+    }
+  },
+  {
+    "id": "0907222004",
+    "code": "0907222004",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907222000",
+      "code": "0907222000",
+      "name": "Jose Dalman"
+    }
+  },
+  {
+    "id": "0907222017",
+    "code": "0907222017",
+    "name": "Sigamok",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907222000",
+      "code": "0907222000",
+      "name": "Jose Dalman"
+    }
+  },
+  {
+    "id": "0907222005",
+    "code": "0907222005",
+    "name": "Siparok",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907222000",
+      "code": "0907222000",
+      "name": "Jose Dalman"
+    }
+  },
+  {
+    "id": "0907222006",
+    "code": "0907222006",
+    "name": "Tabon",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907222000",
+      "code": "0907222000",
+      "name": "Jose Dalman"
+    }
+  },
+  {
+    "id": "0907222018",
+    "code": "0907222018",
+    "name": "Tamarok",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907222000",
+      "code": "0907222000",
+      "name": "Jose Dalman"
+    }
+  },
+  {
+    "id": "0907222007",
+    "code": "0907222007",
+    "name": "Tamil",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907222000",
+      "code": "0907222000",
+      "name": "Jose Dalman"
+    }
+  }
+]

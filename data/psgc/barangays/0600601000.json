@@ -1,0 +1,485 @@
+[
+  {
+    "id": "0600601001",
+    "code": "0600601001",
+    "name": "Bayo Grande",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600601000",
+      "code": "0600601000",
+      "name": "Anini-Y"
+    }
+  },
+  {
+    "id": "0600601002",
+    "code": "0600601002",
+    "name": "Bayo Pequeño",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600601000",
+      "code": "0600601000",
+      "name": "Anini-Y"
+    }
+  },
+  {
+    "id": "0600601004",
+    "code": "0600601004",
+    "name": "Butuan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600601000",
+      "code": "0600601000",
+      "name": "Anini-Y"
+    }
+  },
+  {
+    "id": "0600601005",
+    "code": "0600601005",
+    "name": "Casay",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600601000",
+      "code": "0600601000",
+      "name": "Anini-Y"
+    }
+  },
+  {
+    "id": "0600601006",
+    "code": "0600601006",
+    "name": "Casay Viejo",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600601000",
+      "code": "0600601000",
+      "name": "Anini-Y"
+    }
+  },
+  {
+    "id": "0600601007",
+    "code": "0600601007",
+    "name": "Iba",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600601000",
+      "code": "0600601000",
+      "name": "Anini-Y"
+    }
+  },
+  {
+    "id": "0600601008",
+    "code": "0600601008",
+    "name": "Igbarabatuan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600601000",
+      "code": "0600601000",
+      "name": "Anini-Y"
+    }
+  },
+  {
+    "id": "0600601009",
+    "code": "0600601009",
+    "name": "Igpalge",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600601000",
+      "code": "0600601000",
+      "name": "Anini-Y"
+    }
+  },
+  {
+    "id": "0600601010",
+    "code": "0600601010",
+    "name": "Igtumarom",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600601000",
+      "code": "0600601000",
+      "name": "Anini-Y"
+    }
+  },
+  {
+    "id": "0600601011",
+    "code": "0600601011",
+    "name": "Lisub A",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600601000",
+      "code": "0600601000",
+      "name": "Anini-Y"
+    }
+  },
+  {
+    "id": "0600601012",
+    "code": "0600601012",
+    "name": "Lisub B",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600601000",
+      "code": "0600601000",
+      "name": "Anini-Y"
+    }
+  },
+  {
+    "id": "0600601013",
+    "code": "0600601013",
+    "name": "Mabuyong",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600601000",
+      "code": "0600601000",
+      "name": "Anini-Y"
+    }
+  },
+  {
+    "id": "0600601014",
+    "code": "0600601014",
+    "name": "Magdalena",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600601000",
+      "code": "0600601000",
+      "name": "Anini-Y"
+    }
+  },
+  {
+    "id": "0600601015",
+    "code": "0600601015",
+    "name": "Nasuli C",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600601000",
+      "code": "0600601000",
+      "name": "Anini-Y"
+    }
+  },
+  {
+    "id": "0600601016",
+    "code": "0600601016",
+    "name": "Nato",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600601000",
+      "code": "0600601000",
+      "name": "Anini-Y"
+    }
+  },
+  {
+    "id": "0600601017",
+    "code": "0600601017",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600601000",
+      "code": "0600601000",
+      "name": "Anini-Y"
+    }
+  },
+  {
+    "id": "0600601018",
+    "code": "0600601018",
+    "name": "Sagua",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600601000",
+      "code": "0600601000",
+      "name": "Anini-Y"
+    }
+  },
+  {
+    "id": "0600601019",
+    "code": "0600601019",
+    "name": "Salvacion",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600601000",
+      "code": "0600601000",
+      "name": "Anini-Y"
+    }
+  },
+  {
+    "id": "0600601020",
+    "code": "0600601020",
+    "name": "San Francisco",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600601000",
+      "code": "0600601000",
+      "name": "Anini-Y"
+    }
+  },
+  {
+    "id": "0600601021",
+    "code": "0600601021",
+    "name": "San Ramon",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600601000",
+      "code": "0600601000",
+      "name": "Anini-Y"
+    }
+  },
+  {
+    "id": "0600601022",
+    "code": "0600601022",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600601000",
+      "code": "0600601000",
+      "name": "Anini-Y"
+    }
+  },
+  {
+    "id": "0600601023",
+    "code": "0600601023",
+    "name": "Tagaytay",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600601000",
+      "code": "0600601000",
+      "name": "Anini-Y"
+    }
+  },
+  {
+    "id": "0600601024",
+    "code": "0600601024",
+    "name": "Talisayan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600600000",
+      "code": "0600600000",
+      "name": "Antique"
+    },
+    "city_municipality": {
+      "id": "0600601000",
+      "code": "0600601000",
+      "name": "Anini-Y"
+    }
+  }
+]

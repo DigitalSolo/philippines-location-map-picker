@@ -1,0 +1,611 @@
+[
+  {
+    "id": "0203104001",
+    "code": "0203104001",
+    "name": "Andabuen",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203104000",
+      "code": "0203104000",
+      "name": "Benito Soliven"
+    }
+  },
+  {
+    "id": "0203104002",
+    "code": "0203104002",
+    "name": "Ara",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203104000",
+      "code": "0203104000",
+      "name": "Benito Soliven"
+    }
+  },
+  {
+    "id": "0203104030",
+    "code": "0203104030",
+    "name": "Balliao",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203104000",
+      "code": "0203104000",
+      "name": "Benito Soliven"
+    }
+  },
+  {
+    "id": "0203104003",
+    "code": "0203104003",
+    "name": "Binogtungan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203104000",
+      "code": "0203104000",
+      "name": "Benito Soliven"
+    }
+  },
+  {
+    "id": "0203104004",
+    "code": "0203104004",
+    "name": "Capuseran",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203104000",
+      "code": "0203104000",
+      "name": "Benito Soliven"
+    }
+  },
+  {
+    "id": "0203104005",
+    "code": "0203104005",
+    "name": "Dagupan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203104000",
+      "code": "0203104000",
+      "name": "Benito Soliven"
+    }
+  },
+  {
+    "id": "0203104006",
+    "code": "0203104006",
+    "name": "Danipa",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203104000",
+      "code": "0203104000",
+      "name": "Benito Soliven"
+    }
+  },
+  {
+    "id": "0203104016",
+    "code": "0203104016",
+    "name": "District I",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203104000",
+      "code": "0203104000",
+      "name": "Benito Soliven"
+    }
+  },
+  {
+    "id": "0203104007",
+    "code": "0203104007",
+    "name": "District II",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203104000",
+      "code": "0203104000",
+      "name": "Benito Soliven"
+    }
+  },
+  {
+    "id": "0203104008",
+    "code": "0203104008",
+    "name": "Gomez",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203104000",
+      "code": "0203104000",
+      "name": "Benito Soliven"
+    }
+  },
+  {
+    "id": "0203104009",
+    "code": "0203104009",
+    "name": "Guilingan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203104000",
+      "code": "0203104000",
+      "name": "Benito Soliven"
+    }
+  },
+  {
+    "id": "0203104010",
+    "code": "0203104010",
+    "name": "La Salette",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203104000",
+      "code": "0203104000",
+      "name": "Benito Soliven"
+    }
+  },
+  {
+    "id": "0203104024",
+    "code": "0203104024",
+    "name": "Lucban",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203104000",
+      "code": "0203104000",
+      "name": "Benito Soliven"
+    }
+  },
+  {
+    "id": "0203104011",
+    "code": "0203104011",
+    "name": "Makindol",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203104000",
+      "code": "0203104000",
+      "name": "Benito Soliven"
+    }
+  },
+  {
+    "id": "0203104012",
+    "code": "0203104012",
+    "name": "Maluno Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203104000",
+      "code": "0203104000",
+      "name": "Benito Soliven"
+    }
+  },
+  {
+    "id": "0203104013",
+    "code": "0203104013",
+    "name": "Maluno Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203104000",
+      "code": "0203104000",
+      "name": "Benito Soliven"
+    }
+  },
+  {
+    "id": "0203104014",
+    "code": "0203104014",
+    "name": "Nacalma",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203104000",
+      "code": "0203104000",
+      "name": "Benito Soliven"
+    }
+  },
+  {
+    "id": "0203104015",
+    "code": "0203104015",
+    "name": "New Magsaysay",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203104000",
+      "code": "0203104000",
+      "name": "Benito Soliven"
+    }
+  },
+  {
+    "id": "0203104029",
+    "code": "0203104029",
+    "name": "Placer",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203104000",
+      "code": "0203104000",
+      "name": "Benito Soliven"
+    }
+  },
+  {
+    "id": "0203104017",
+    "code": "0203104017",
+    "name": "Punit",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203104000",
+      "code": "0203104000",
+      "name": "Benito Soliven"
+    }
+  },
+  {
+    "id": "0203104018",
+    "code": "0203104018",
+    "name": "San Carlos",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203104000",
+      "code": "0203104000",
+      "name": "Benito Soliven"
+    }
+  },
+  {
+    "id": "0203104019",
+    "code": "0203104019",
+    "name": "San Francisco",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203104000",
+      "code": "0203104000",
+      "name": "Benito Soliven"
+    }
+  },
+  {
+    "id": "0203104021",
+    "code": "0203104021",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203104000",
+      "code": "0203104000",
+      "name": "Benito Soliven"
+    }
+  },
+  {
+    "id": "0203104028",
+    "code": "0203104028",
+    "name": "Santiago",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203104000",
+      "code": "0203104000",
+      "name": "Benito Soliven"
+    }
+  },
+  {
+    "id": "0203104022",
+    "code": "0203104022",
+    "name": "Sevillana",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203104000",
+      "code": "0203104000",
+      "name": "Benito Soliven"
+    }
+  },
+  {
+    "id": "0203104023",
+    "code": "0203104023",
+    "name": "Sinipit",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203104000",
+      "code": "0203104000",
+      "name": "Benito Soliven"
+    }
+  },
+  {
+    "id": "0203104025",
+    "code": "0203104025",
+    "name": "Villaluz",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203104000",
+      "code": "0203104000",
+      "name": "Benito Soliven"
+    }
+  },
+  {
+    "id": "0203104026",
+    "code": "0203104026",
+    "name": "Yeban Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203104000",
+      "code": "0203104000",
+      "name": "Benito Soliven"
+    }
+  },
+  {
+    "id": "0203104027",
+    "code": "0203104027",
+    "name": "Yeban Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203104000",
+      "code": "0203104000",
+      "name": "Benito Soliven"
+    }
+  }
+]

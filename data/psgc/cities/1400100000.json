@@ -1,0 +1,434 @@
+[
+  {
+    "id": "1400101000",
+    "code": "1400101000",
+    "name": "Bangued",
+    "type": "city_municipality",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    }
+  },
+  {
+    "id": "1400102000",
+    "code": "1400102000",
+    "name": "Boliney",
+    "type": "city_municipality",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    }
+  },
+  {
+    "id": "1400103000",
+    "code": "1400103000",
+    "name": "Bucay",
+    "type": "city_municipality",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    }
+  },
+  {
+    "id": "1400104000",
+    "code": "1400104000",
+    "name": "Bucloc",
+    "type": "city_municipality",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    }
+  },
+  {
+    "id": "1400105000",
+    "code": "1400105000",
+    "name": "Daguioman",
+    "type": "city_municipality",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    }
+  },
+  {
+    "id": "1400106000",
+    "code": "1400106000",
+    "name": "Danglas",
+    "type": "city_municipality",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    }
+  },
+  {
+    "id": "1400107000",
+    "code": "1400107000",
+    "name": "Dolores",
+    "type": "city_municipality",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    }
+  },
+  {
+    "id": "1400108000",
+    "code": "1400108000",
+    "name": "La Paz",
+    "type": "city_municipality",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    }
+  },
+  {
+    "id": "1400109000",
+    "code": "1400109000",
+    "name": "Lacub",
+    "type": "city_municipality",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    }
+  },
+  {
+    "id": "1400110000",
+    "code": "1400110000",
+    "name": "Lagangilang",
+    "type": "city_municipality",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    }
+  },
+  {
+    "id": "1400111000",
+    "code": "1400111000",
+    "name": "Lagayan",
+    "type": "city_municipality",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    }
+  },
+  {
+    "id": "1400112000",
+    "code": "1400112000",
+    "name": "Langiden",
+    "type": "city_municipality",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    }
+  },
+  {
+    "id": "1400113000",
+    "code": "1400113000",
+    "name": "Licuan-Baay",
+    "type": "city_municipality",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    }
+  },
+  {
+    "id": "1400114000",
+    "code": "1400114000",
+    "name": "Luba",
+    "type": "city_municipality",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    }
+  },
+  {
+    "id": "1400115000",
+    "code": "1400115000",
+    "name": "Malibcong",
+    "type": "city_municipality",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    }
+  },
+  {
+    "id": "1400116000",
+    "code": "1400116000",
+    "name": "Manabo",
+    "type": "city_municipality",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    }
+  },
+  {
+    "id": "1400117000",
+    "code": "1400117000",
+    "name": "Peñarrubia",
+    "type": "city_municipality",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    }
+  },
+  {
+    "id": "1400118000",
+    "code": "1400118000",
+    "name": "Pidigan",
+    "type": "city_municipality",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    }
+  },
+  {
+    "id": "1400119000",
+    "code": "1400119000",
+    "name": "Pilar",
+    "type": "city_municipality",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    }
+  },
+  {
+    "id": "1400120000",
+    "code": "1400120000",
+    "name": "Sallapadan",
+    "type": "city_municipality",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    }
+  },
+  {
+    "id": "1400121000",
+    "code": "1400121000",
+    "name": "San Isidro",
+    "type": "city_municipality",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    }
+  },
+  {
+    "id": "1400122000",
+    "code": "1400122000",
+    "name": "San Juan",
+    "type": "city_municipality",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    }
+  },
+  {
+    "id": "1400123000",
+    "code": "1400123000",
+    "name": "San Quintin",
+    "type": "city_municipality",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    }
+  },
+  {
+    "id": "1400124000",
+    "code": "1400124000",
+    "name": "Tayum",
+    "type": "city_municipality",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    }
+  },
+  {
+    "id": "1400125000",
+    "code": "1400125000",
+    "name": "Tineg",
+    "type": "city_municipality",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    }
+  },
+  {
+    "id": "1400126000",
+    "code": "1400126000",
+    "name": "Tubo",
+    "type": "city_municipality",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    }
+  },
+  {
+    "id": "1400127000",
+    "code": "1400127000",
+    "name": "Villaviciosa",
+    "type": "city_municipality",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    }
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "id": "0802612010",
+    "code": "0802612010",
+    "name": "Barangay Poblacion 1",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802612000",
+      "code": "0802612000",
+      "name": "Lawaan"
+    }
+  },
+  {
+    "id": "0802612019",
+    "code": "0802612019",
+    "name": "Barangay Poblacion 10",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802612000",
+      "code": "0802612000",
+      "name": "Lawaan"
+    }
+  },
+  {
+    "id": "0802612011",
+    "code": "0802612011",
+    "name": "Barangay Poblacion 2",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802612000",
+      "code": "0802612000",
+      "name": "Lawaan"
+    }
+  },
+  {
+    "id": "0802612012",
+    "code": "0802612012",
+    "name": "Barangay Poblacion 3",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802612000",
+      "code": "0802612000",
+      "name": "Lawaan"
+    }
+  },
+  {
+    "id": "0802612013",
+    "code": "0802612013",
+    "name": "Barangay Poblacion 4",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802612000",
+      "code": "0802612000",
+      "name": "Lawaan"
+    }
+  },
+  {
+    "id": "0802612014",
+    "code": "0802612014",
+    "name": "Barangay Poblacion 5",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802612000",
+      "code": "0802612000",
+      "name": "Lawaan"
+    }
+  },
+  {
+    "id": "0802612015",
+    "code": "0802612015",
+    "name": "Barangay Poblacion 6",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802612000",
+      "code": "0802612000",
+      "name": "Lawaan"
+    }
+  },
+  {
+    "id": "0802612016",
+    "code": "0802612016",
+    "name": "Barangay Poblacion 7",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802612000",
+      "code": "0802612000",
+      "name": "Lawaan"
+    }
+  },
+  {
+    "id": "0802612017",
+    "code": "0802612017",
+    "name": "Barangay Poblacion 8",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802612000",
+      "code": "0802612000",
+      "name": "Lawaan"
+    }
+  },
+  {
+    "id": "0802612018",
+    "code": "0802612018",
+    "name": "Barangay Poblacion 9",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802612000",
+      "code": "0802612000",
+      "name": "Lawaan"
+    }
+  },
+  {
+    "id": "0802612001",
+    "code": "0802612001",
+    "name": "Betaog",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802612000",
+      "code": "0802612000",
+      "name": "Lawaan"
+    }
+  },
+  {
+    "id": "0802612002",
+    "code": "0802612002",
+    "name": "Bolusao",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802612000",
+      "code": "0802612000",
+      "name": "Lawaan"
+    }
+  },
+  {
+    "id": "0802612004",
+    "code": "0802612004",
+    "name": "Guinob-an",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802612000",
+      "code": "0802612000",
+      "name": "Lawaan"
+    }
+  },
+  {
+    "id": "0802612005",
+    "code": "0802612005",
+    "name": "Maslog",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802612000",
+      "code": "0802612000",
+      "name": "Lawaan"
+    }
+  },
+  {
+    "id": "0802612020",
+    "code": "0802612020",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802612000",
+      "code": "0802612000",
+      "name": "Lawaan"
+    }
+  },
+  {
+    "id": "0802612021",
+    "code": "0802612021",
+    "name": "Taguite",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802612000",
+      "code": "0802612000",
+      "name": "Lawaan"
+    }
+  }
+]

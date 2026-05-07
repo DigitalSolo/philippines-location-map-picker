@@ -1,0 +1,275 @@
+[
+  {
+    "id": "0802611001",
+    "code": "0802611001",
+    "name": "Agsaman",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802611000",
+      "code": "0802611000",
+      "name": "Jipapad"
+    }
+  },
+  {
+    "id": "0802611015",
+    "code": "0802611015",
+    "name": "Barangay 1",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802611000",
+      "code": "0802611000",
+      "name": "Jipapad"
+    }
+  },
+  {
+    "id": "0802611016",
+    "code": "0802611016",
+    "name": "Barangay 2",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802611000",
+      "code": "0802611000",
+      "name": "Jipapad"
+    }
+  },
+  {
+    "id": "0802611017",
+    "code": "0802611017",
+    "name": "Barangay 3",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802611000",
+      "code": "0802611000",
+      "name": "Jipapad"
+    }
+  },
+  {
+    "id": "0802611018",
+    "code": "0802611018",
+    "name": "Barangay 4",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802611000",
+      "code": "0802611000",
+      "name": "Jipapad"
+    }
+  },
+  {
+    "id": "0802611007",
+    "code": "0802611007",
+    "name": "Cagmanaba",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802611000",
+      "code": "0802611000",
+      "name": "Jipapad"
+    }
+  },
+  {
+    "id": "0802611009",
+    "code": "0802611009",
+    "name": "Dorillo",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802611000",
+      "code": "0802611000",
+      "name": "Jipapad"
+    }
+  },
+  {
+    "id": "0802611012",
+    "code": "0802611012",
+    "name": "Jewaran",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802611000",
+      "code": "0802611000",
+      "name": "Jipapad"
+    }
+  },
+  {
+    "id": "0802611013",
+    "code": "0802611013",
+    "name": "Mabuhay",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802611000",
+      "code": "0802611000",
+      "name": "Jipapad"
+    }
+  },
+  {
+    "id": "0802611014",
+    "code": "0802611014",
+    "name": "Magsaysay",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802611000",
+      "code": "0802611000",
+      "name": "Jipapad"
+    }
+  },
+  {
+    "id": "0802611019",
+    "code": "0802611019",
+    "name": "Recare",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802611000",
+      "code": "0802611000",
+      "name": "Jipapad"
+    }
+  },
+  {
+    "id": "0802611020",
+    "code": "0802611020",
+    "name": "Roxas",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802611000",
+      "code": "0802611000",
+      "name": "Jipapad"
+    }
+  },
+  {
+    "id": "0802611021",
+    "code": "0802611021",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802611000",
+      "code": "0802611000",
+      "name": "Jipapad"
+    }
+  }
+]

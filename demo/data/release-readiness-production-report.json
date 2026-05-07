@@ -1,0 +1,22 @@
+{
+  "generatedAt": "2026-05-07T10:57:34.880Z",
+  "scope": "production",
+  "summary": {
+    "coverageLevel": "production-hierarchy-limited-geometry",
+    "productionReady": false,
+    "productionHierarchyReady": true,
+    "productionReverseFillReady": false,
+    "psgcBarangays": 42010,
+    "geometryBarangays": 13,
+    "missingGeometry": 41997,
+    "geometryWithoutPsgc": 0,
+    "geometryComponentGaps": 0,
+    "staticWarnings": 0,
+    "frozenHostApiOk": true
+  },
+  "warnings": [
+    "Production release is hierarchy-ready with limited geometry. Reverse-fill remains partial until nationwide barangay geometry is cached."
+  ],
+  "failures": [],
+  "ok": true
+}

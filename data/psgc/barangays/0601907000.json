@@ -1,0 +1,674 @@
+[
+  {
+    "id": "0601907001",
+    "code": "0601907001",
+    "name": "Aglimocon",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601907000",
+      "code": "0601907000",
+      "name": "Ma-Ayon"
+    }
+  },
+  {
+    "id": "0601907002",
+    "code": "0601907002",
+    "name": "Alasaging",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601907000",
+      "code": "0601907000",
+      "name": "Ma-Ayon"
+    }
+  },
+  {
+    "id": "0601907003",
+    "code": "0601907003",
+    "name": "Alayunan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601907000",
+      "code": "0601907000",
+      "name": "Ma-Ayon"
+    }
+  },
+  {
+    "id": "0601907004",
+    "code": "0601907004",
+    "name": "Balighot",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601907000",
+      "code": "0601907000",
+      "name": "Ma-Ayon"
+    }
+  },
+  {
+    "id": "0601907005",
+    "code": "0601907005",
+    "name": "Batabat",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601907000",
+      "code": "0601907000",
+      "name": "Ma-Ayon"
+    }
+  },
+  {
+    "id": "0601907006",
+    "code": "0601907006",
+    "name": "Bongbongan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601907000",
+      "code": "0601907000",
+      "name": "Ma-Ayon"
+    }
+  },
+  {
+    "id": "0601907007",
+    "code": "0601907007",
+    "name": "Cabungahan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601907000",
+      "code": "0601907000",
+      "name": "Ma-Ayon"
+    }
+  },
+  {
+    "id": "0601907008",
+    "code": "0601907008",
+    "name": "Canapian",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601907000",
+      "code": "0601907000",
+      "name": "Ma-Ayon"
+    }
+  },
+  {
+    "id": "0601907009",
+    "code": "0601907009",
+    "name": "Carataya",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601907000",
+      "code": "0601907000",
+      "name": "Ma-Ayon"
+    }
+  },
+  {
+    "id": "0601907010",
+    "code": "0601907010",
+    "name": "Duluan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601907000",
+      "code": "0601907000",
+      "name": "Ma-Ayon"
+    }
+  },
+  {
+    "id": "0601907011",
+    "code": "0601907011",
+    "name": "East Villaflores",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601907000",
+      "code": "0601907000",
+      "name": "Ma-Ayon"
+    }
+  },
+  {
+    "id": "0601907012",
+    "code": "0601907012",
+    "name": "Fernandez",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601907000",
+      "code": "0601907000",
+      "name": "Ma-Ayon"
+    }
+  },
+  {
+    "id": "0601907013",
+    "code": "0601907013",
+    "name": "Guinbi-alan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601907000",
+      "code": "0601907000",
+      "name": "Ma-Ayon"
+    }
+  },
+  {
+    "id": "0601907014",
+    "code": "0601907014",
+    "name": "Indayagan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601907000",
+      "code": "0601907000",
+      "name": "Ma-Ayon"
+    }
+  },
+  {
+    "id": "0601907015",
+    "code": "0601907015",
+    "name": "Jebaca",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601907000",
+      "code": "0601907000",
+      "name": "Ma-Ayon"
+    }
+  },
+  {
+    "id": "0601907016",
+    "code": "0601907016",
+    "name": "Maalan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601907000",
+      "code": "0601907000",
+      "name": "Ma-Ayon"
+    }
+  },
+  {
+    "id": "0601907017",
+    "code": "0601907017",
+    "name": "Manayupit",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601907000",
+      "code": "0601907000",
+      "name": "Ma-Ayon"
+    }
+  },
+  {
+    "id": "0601907018",
+    "code": "0601907018",
+    "name": "New Guia",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601907000",
+      "code": "0601907000",
+      "name": "Ma-Ayon"
+    }
+  },
+  {
+    "id": "0601907020",
+    "code": "0601907020",
+    "name": "Old Guia",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601907000",
+      "code": "0601907000",
+      "name": "Ma-Ayon"
+    }
+  },
+  {
+    "id": "0601907021",
+    "code": "0601907021",
+    "name": "Palaguian",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601907000",
+      "code": "0601907000",
+      "name": "Ma-Ayon"
+    }
+  },
+  {
+    "id": "0601907022",
+    "code": "0601907022",
+    "name": "Parallan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601907000",
+      "code": "0601907000",
+      "name": "Ma-Ayon"
+    }
+  },
+  {
+    "id": "0601907023",
+    "code": "0601907023",
+    "name": "Piña",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601907000",
+      "code": "0601907000",
+      "name": "Ma-Ayon"
+    }
+  },
+  {
+    "id": "0601907024",
+    "code": "0601907024",
+    "name": "Poblacion Ilawod",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601907000",
+      "code": "0601907000",
+      "name": "Ma-Ayon"
+    }
+  },
+  {
+    "id": "0601907025",
+    "code": "0601907025",
+    "name": "Poblacion Ilaya",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601907000",
+      "code": "0601907000",
+      "name": "Ma-Ayon"
+    }
+  },
+  {
+    "id": "0601907026",
+    "code": "0601907026",
+    "name": "Poblacion Tabuc",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601907000",
+      "code": "0601907000",
+      "name": "Ma-Ayon"
+    }
+  },
+  {
+    "id": "0601907019",
+    "code": "0601907019",
+    "name": "Quevedo",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601907000",
+      "code": "0601907000",
+      "name": "Ma-Ayon"
+    }
+  },
+  {
+    "id": "0601907028",
+    "code": "0601907028",
+    "name": "Quinabonglan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601907000",
+      "code": "0601907000",
+      "name": "Ma-Ayon"
+    }
+  },
+  {
+    "id": "0601907029",
+    "code": "0601907029",
+    "name": "Quinat-uyan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601907000",
+      "code": "0601907000",
+      "name": "Ma-Ayon"
+    }
+  },
+  {
+    "id": "0601907030",
+    "code": "0601907030",
+    "name": "Salgan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601907000",
+      "code": "0601907000",
+      "name": "Ma-Ayon"
+    }
+  },
+  {
+    "id": "0601907031",
+    "code": "0601907031",
+    "name": "Tapulang",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601907000",
+      "code": "0601907000",
+      "name": "Ma-Ayon"
+    }
+  },
+  {
+    "id": "0601907032",
+    "code": "0601907032",
+    "name": "Tuburan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601907000",
+      "code": "0601907000",
+      "name": "Ma-Ayon"
+    }
+  },
+  {
+    "id": "0601907034",
+    "code": "0601907034",
+    "name": "West Villaflores",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601907000",
+      "code": "0601907000",
+      "name": "Ma-Ayon"
+    }
+  }
+]

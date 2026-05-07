@@ -1,0 +1,527 @@
+[
+  {
+    "id": "0305410001",
+    "code": "0305410001",
+    "name": "Batasan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305410000",
+      "code": "0305410000",
+      "name": "Macabebe"
+    }
+  },
+  {
+    "id": "0305410002",
+    "code": "0305410002",
+    "name": "Caduang Tete",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305410000",
+      "code": "0305410000",
+      "name": "Macabebe"
+    }
+  },
+  {
+    "id": "0305410003",
+    "code": "0305410003",
+    "name": "Candelaria",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305410000",
+      "code": "0305410000",
+      "name": "Macabebe"
+    }
+  },
+  {
+    "id": "0305410004",
+    "code": "0305410004",
+    "name": "Castuli",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305410000",
+      "code": "0305410000",
+      "name": "Macabebe"
+    }
+  },
+  {
+    "id": "0305410005",
+    "code": "0305410005",
+    "name": "Consuelo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305410000",
+      "code": "0305410000",
+      "name": "Macabebe"
+    }
+  },
+  {
+    "id": "0305410006",
+    "code": "0305410006",
+    "name": "Dalayap",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305410000",
+      "code": "0305410000",
+      "name": "Macabebe"
+    }
+  },
+  {
+    "id": "0305410007",
+    "code": "0305410007",
+    "name": "Mataguiti",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305410000",
+      "code": "0305410000",
+      "name": "Macabebe"
+    }
+  },
+  {
+    "id": "0305410008",
+    "code": "0305410008",
+    "name": "San Esteban",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305410000",
+      "code": "0305410000",
+      "name": "Macabebe"
+    }
+  },
+  {
+    "id": "0305410009",
+    "code": "0305410009",
+    "name": "San Francisco",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305410000",
+      "code": "0305410000",
+      "name": "Macabebe"
+    }
+  },
+  {
+    "id": "0305410010",
+    "code": "0305410010",
+    "name": "San Gabriel",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305410000",
+      "code": "0305410000",
+      "name": "Macabebe"
+    }
+  },
+  {
+    "id": "0305410011",
+    "code": "0305410011",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305410000",
+      "code": "0305410000",
+      "name": "Macabebe"
+    }
+  },
+  {
+    "id": "0305410012",
+    "code": "0305410012",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305410000",
+      "code": "0305410000",
+      "name": "Macabebe"
+    }
+  },
+  {
+    "id": "0305410013",
+    "code": "0305410013",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305410000",
+      "code": "0305410000",
+      "name": "Macabebe"
+    }
+  },
+  {
+    "id": "0305410014",
+    "code": "0305410014",
+    "name": "San Rafael",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305410000",
+      "code": "0305410000",
+      "name": "Macabebe"
+    }
+  },
+  {
+    "id": "0305410015",
+    "code": "0305410015",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305410000",
+      "code": "0305410000",
+      "name": "Macabebe"
+    }
+  },
+  {
+    "id": "0305410016",
+    "code": "0305410016",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305410000",
+      "code": "0305410000",
+      "name": "Macabebe"
+    }
+  },
+  {
+    "id": "0305410023",
+    "code": "0305410023",
+    "name": "Saplad David",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305410000",
+      "code": "0305410000",
+      "name": "Macabebe"
+    }
+  },
+  {
+    "id": "0305410017",
+    "code": "0305410017",
+    "name": "Sta. Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305410000",
+      "code": "0305410000",
+      "name": "Macabebe"
+    }
+  },
+  {
+    "id": "0305410018",
+    "code": "0305410018",
+    "name": "Sta. Lutgarda",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305410000",
+      "code": "0305410000",
+      "name": "Macabebe"
+    }
+  },
+  {
+    "id": "0305410019",
+    "code": "0305410019",
+    "name": "Sta. Maria",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305410000",
+      "code": "0305410000",
+      "name": "Macabebe"
+    }
+  },
+  {
+    "id": "0305410020",
+    "code": "0305410020",
+    "name": "Sta. Rita",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305410000",
+      "code": "0305410000",
+      "name": "Macabebe"
+    }
+  },
+  {
+    "id": "0305410021",
+    "code": "0305410021",
+    "name": "Sto. Niño",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305410000",
+      "code": "0305410000",
+      "name": "Macabebe"
+    }
+  },
+  {
+    "id": "0305410022",
+    "code": "0305410022",
+    "name": "Sto. Rosario",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305410000",
+      "code": "0305410000",
+      "name": "Macabebe"
+    }
+  },
+  {
+    "id": "0305410024",
+    "code": "0305410024",
+    "name": "Tacasan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305410000",
+      "code": "0305410000",
+      "name": "Macabebe"
+    }
+  },
+  {
+    "id": "0305410025",
+    "code": "0305410025",
+    "name": "Telacsan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305410000",
+      "code": "0305410000",
+      "name": "Macabebe"
+    }
+  }
+]

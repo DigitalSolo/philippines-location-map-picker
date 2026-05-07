@@ -1,0 +1,590 @@
+[
+  {
+    "id": "0506209002",
+    "code": "0506209002",
+    "name": "Bacolod",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506209000",
+      "code": "0506209000",
+      "name": "Irosin"
+    }
+  },
+  {
+    "id": "0506209001",
+    "code": "0506209001",
+    "name": "Bagsangan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506209000",
+      "code": "0506209000",
+      "name": "Irosin"
+    }
+  },
+  {
+    "id": "0506209003",
+    "code": "0506209003",
+    "name": "Batang",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506209000",
+      "code": "0506209000",
+      "name": "Irosin"
+    }
+  },
+  {
+    "id": "0506209004",
+    "code": "0506209004",
+    "name": "Bolos",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506209000",
+      "code": "0506209000",
+      "name": "Irosin"
+    }
+  },
+  {
+    "id": "0506209005",
+    "code": "0506209005",
+    "name": "Buenavista",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506209000",
+      "code": "0506209000",
+      "name": "Irosin"
+    }
+  },
+  {
+    "id": "0506209006",
+    "code": "0506209006",
+    "name": "Bulawan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506209000",
+      "code": "0506209000",
+      "name": "Irosin"
+    }
+  },
+  {
+    "id": "0506209007",
+    "code": "0506209007",
+    "name": "Carriedo",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506209000",
+      "code": "0506209000",
+      "name": "Irosin"
+    }
+  },
+  {
+    "id": "0506209008",
+    "code": "0506209008",
+    "name": "Casini",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506209000",
+      "code": "0506209000",
+      "name": "Irosin"
+    }
+  },
+  {
+    "id": "0506209009",
+    "code": "0506209009",
+    "name": "Cawayan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506209000",
+      "code": "0506209000",
+      "name": "Irosin"
+    }
+  },
+  {
+    "id": "0506209010",
+    "code": "0506209010",
+    "name": "Cogon",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506209000",
+      "code": "0506209000",
+      "name": "Irosin"
+    }
+  },
+  {
+    "id": "0506209011",
+    "code": "0506209011",
+    "name": "Gabao",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506209000",
+      "code": "0506209000",
+      "name": "Irosin"
+    }
+  },
+  {
+    "id": "0506209012",
+    "code": "0506209012",
+    "name": "Gulang-Gulang",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506209000",
+      "code": "0506209000",
+      "name": "Irosin"
+    }
+  },
+  {
+    "id": "0506209013",
+    "code": "0506209013",
+    "name": "Gumapia",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506209000",
+      "code": "0506209000",
+      "name": "Irosin"
+    }
+  },
+  {
+    "id": "0506209015",
+    "code": "0506209015",
+    "name": "Liang",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506209000",
+      "code": "0506209000",
+      "name": "Irosin"
+    }
+  },
+  {
+    "id": "0506209016",
+    "code": "0506209016",
+    "name": "Macawayan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506209000",
+      "code": "0506209000",
+      "name": "Irosin"
+    }
+  },
+  {
+    "id": "0506209017",
+    "code": "0506209017",
+    "name": "Mapaso",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506209000",
+      "code": "0506209000",
+      "name": "Irosin"
+    }
+  },
+  {
+    "id": "0506209018",
+    "code": "0506209018",
+    "name": "Monbon",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506209000",
+      "code": "0506209000",
+      "name": "Irosin"
+    }
+  },
+  {
+    "id": "0506209019",
+    "code": "0506209019",
+    "name": "Patag",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506209000",
+      "code": "0506209000",
+      "name": "Irosin"
+    }
+  },
+  {
+    "id": "0506209020",
+    "code": "0506209020",
+    "name": "Salvacion",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506209000",
+      "code": "0506209000",
+      "name": "Irosin"
+    }
+  },
+  {
+    "id": "0506209021",
+    "code": "0506209021",
+    "name": "San Agustin",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506209000",
+      "code": "0506209000",
+      "name": "Irosin"
+    }
+  },
+  {
+    "id": "0506209022",
+    "code": "0506209022",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506209000",
+      "code": "0506209000",
+      "name": "Irosin"
+    }
+  },
+  {
+    "id": "0506209023",
+    "code": "0506209023",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506209000",
+      "code": "0506209000",
+      "name": "Irosin"
+    }
+  },
+  {
+    "id": "0506209024",
+    "code": "0506209024",
+    "name": "San Julian",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506209000",
+      "code": "0506209000",
+      "name": "Irosin"
+    }
+  },
+  {
+    "id": "0506209025",
+    "code": "0506209025",
+    "name": "San Pedro",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506209000",
+      "code": "0506209000",
+      "name": "Irosin"
+    }
+  },
+  {
+    "id": "0506209014",
+    "code": "0506209014",
+    "name": "Santo Domingo",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506209000",
+      "code": "0506209000",
+      "name": "Irosin"
+    }
+  },
+  {
+    "id": "0506209026",
+    "code": "0506209026",
+    "name": "Tabon-Tabon",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506209000",
+      "code": "0506209000",
+      "name": "Irosin"
+    }
+  },
+  {
+    "id": "0506209027",
+    "code": "0506209027",
+    "name": "Tinampo",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506209000",
+      "code": "0506209000",
+      "name": "Irosin"
+    }
+  },
+  {
+    "id": "0506209028",
+    "code": "0506209028",
+    "name": "Tongdol",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506209000",
+      "code": "0506209000",
+      "name": "Irosin"
+    }
+  }
+]

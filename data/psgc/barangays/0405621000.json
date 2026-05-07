@@ -1,0 +1,107 @@
+[
+  {
+    "id": "0405621005",
+    "code": "0405621005",
+    "name": "Apad",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405621000",
+      "code": "0405621000",
+      "name": "Jomalig"
+    }
+  },
+  {
+    "id": "0405621001",
+    "code": "0405621001",
+    "name": "Bukal",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405621000",
+      "code": "0405621000",
+      "name": "Jomalig"
+    }
+  },
+  {
+    "id": "0405621002",
+    "code": "0405621002",
+    "name": "Casuguran",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405621000",
+      "code": "0405621000",
+      "name": "Jomalig"
+    }
+  },
+  {
+    "id": "0405621003",
+    "code": "0405621003",
+    "name": "Gango",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405621000",
+      "code": "0405621000",
+      "name": "Jomalig"
+    }
+  },
+  {
+    "id": "0405621004",
+    "code": "0405621004",
+    "name": "Talisoy",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405621000",
+      "code": "0405621000",
+      "name": "Jomalig"
+    }
+  }
+]

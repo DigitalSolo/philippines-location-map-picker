@@ -1,0 +1,548 @@
+[
+  {
+    "id": "0301412001",
+    "code": "0301412001",
+    "name": "Bagbaguin",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301412000",
+      "code": "0301412000",
+      "name": "City of Meycauayan"
+    }
+  },
+  {
+    "id": "0301412002",
+    "code": "0301412002",
+    "name": "Bahay Pare",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301412000",
+      "code": "0301412000",
+      "name": "City of Meycauayan"
+    }
+  },
+  {
+    "id": "0301412003",
+    "code": "0301412003",
+    "name": "Bancal",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301412000",
+      "code": "0301412000",
+      "name": "City of Meycauayan"
+    }
+  },
+  {
+    "id": "0301412004",
+    "code": "0301412004",
+    "name": "Banga",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301412000",
+      "code": "0301412000",
+      "name": "City of Meycauayan"
+    }
+  },
+  {
+    "id": "0301412005",
+    "code": "0301412005",
+    "name": "Bayugo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301412000",
+      "code": "0301412000",
+      "name": "City of Meycauayan"
+    }
+  },
+  {
+    "id": "0301412026",
+    "code": "0301412026",
+    "name": "Caingin",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301412000",
+      "code": "0301412000",
+      "name": "City of Meycauayan"
+    }
+  },
+  {
+    "id": "0301412006",
+    "code": "0301412006",
+    "name": "Calvario",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301412000",
+      "code": "0301412000",
+      "name": "City of Meycauayan"
+    }
+  },
+  {
+    "id": "0301412007",
+    "code": "0301412007",
+    "name": "Camalig",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301412000",
+      "code": "0301412000",
+      "name": "City of Meycauayan"
+    }
+  },
+  {
+    "id": "0301412008",
+    "code": "0301412008",
+    "name": "Hulo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301412000",
+      "code": "0301412000",
+      "name": "City of Meycauayan"
+    }
+  },
+  {
+    "id": "0301412009",
+    "code": "0301412009",
+    "name": "Iba",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301412000",
+      "code": "0301412000",
+      "name": "City of Meycauayan"
+    }
+  },
+  {
+    "id": "0301412010",
+    "code": "0301412010",
+    "name": "Langka",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301412000",
+      "code": "0301412000",
+      "name": "City of Meycauayan"
+    }
+  },
+  {
+    "id": "0301412011",
+    "code": "0301412011",
+    "name": "Lawa",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301412000",
+      "code": "0301412000",
+      "name": "City of Meycauayan"
+    }
+  },
+  {
+    "id": "0301412012",
+    "code": "0301412012",
+    "name": "Libtong",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301412000",
+      "code": "0301412000",
+      "name": "City of Meycauayan"
+    }
+  },
+  {
+    "id": "0301412013",
+    "code": "0301412013",
+    "name": "Liputan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301412000",
+      "code": "0301412000",
+      "name": "City of Meycauayan"
+    }
+  },
+  {
+    "id": "0301412014",
+    "code": "0301412014",
+    "name": "Longos",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301412000",
+      "code": "0301412000",
+      "name": "City of Meycauayan"
+    }
+  },
+  {
+    "id": "0301412015",
+    "code": "0301412015",
+    "name": "Malhacan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301412000",
+      "code": "0301412000",
+      "name": "City of Meycauayan"
+    }
+  },
+  {
+    "id": "0301412016",
+    "code": "0301412016",
+    "name": "Pajo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301412000",
+      "code": "0301412000",
+      "name": "City of Meycauayan"
+    }
+  },
+  {
+    "id": "0301412017",
+    "code": "0301412017",
+    "name": "Pandayan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301412000",
+      "code": "0301412000",
+      "name": "City of Meycauayan"
+    }
+  },
+  {
+    "id": "0301412018",
+    "code": "0301412018",
+    "name": "Pantoc",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301412000",
+      "code": "0301412000",
+      "name": "City of Meycauayan"
+    }
+  },
+  {
+    "id": "0301412019",
+    "code": "0301412019",
+    "name": "Perez",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301412000",
+      "code": "0301412000",
+      "name": "City of Meycauayan"
+    }
+  },
+  {
+    "id": "0301412020",
+    "code": "0301412020",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301412000",
+      "code": "0301412000",
+      "name": "City of Meycauayan"
+    }
+  },
+  {
+    "id": "0301412022",
+    "code": "0301412022",
+    "name": "Saint Francis (Gasak)",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301412000",
+      "code": "0301412000",
+      "name": "City of Meycauayan"
+    }
+  },
+  {
+    "id": "0301412021",
+    "code": "0301412021",
+    "name": "Saluysoy",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301412000",
+      "code": "0301412000",
+      "name": "City of Meycauayan"
+    }
+  },
+  {
+    "id": "0301412023",
+    "code": "0301412023",
+    "name": "Tugatog",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301412000",
+      "code": "0301412000",
+      "name": "City of Meycauayan"
+    }
+  },
+  {
+    "id": "0301412024",
+    "code": "0301412024",
+    "name": "Ubihan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301412000",
+      "code": "0301412000",
+      "name": "City of Meycauayan"
+    }
+  },
+  {
+    "id": "0301412025",
+    "code": "0301412025",
+    "name": "Zamora",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301412000",
+      "code": "0301412000",
+      "name": "City of Meycauayan"
+    }
+  }
+]

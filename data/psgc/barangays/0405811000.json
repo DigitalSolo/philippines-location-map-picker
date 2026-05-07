@@ -1,0 +1,317 @@
+[
+  {
+    "id": "0405811001",
+    "code": "0405811001",
+    "name": "Ampid I",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405811000",
+      "code": "0405811000",
+      "name": "San Mateo"
+    }
+  },
+  {
+    "id": "0405811011",
+    "code": "0405811011",
+    "name": "Ampid II",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405811000",
+      "code": "0405811000",
+      "name": "San Mateo"
+    }
+  },
+  {
+    "id": "0405811012",
+    "code": "0405811012",
+    "name": "Banaba",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405811000",
+      "code": "0405811000",
+      "name": "San Mateo"
+    }
+  },
+  {
+    "id": "0405811002",
+    "code": "0405811002",
+    "name": "Dulong Bayan 1",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405811000",
+      "code": "0405811000",
+      "name": "San Mateo"
+    }
+  },
+  {
+    "id": "0405811003",
+    "code": "0405811003",
+    "name": "Dulong Bayan 2",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405811000",
+      "code": "0405811000",
+      "name": "San Mateo"
+    }
+  },
+  {
+    "id": "0405811004",
+    "code": "0405811004",
+    "name": "Guinayang",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405811000",
+      "code": "0405811000",
+      "name": "San Mateo"
+    }
+  },
+  {
+    "id": "0405811005",
+    "code": "0405811005",
+    "name": "Guitnang Bayan I",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405811000",
+      "code": "0405811000",
+      "name": "San Mateo"
+    }
+  },
+  {
+    "id": "0405811006",
+    "code": "0405811006",
+    "name": "Guitnang Bayan II",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405811000",
+      "code": "0405811000",
+      "name": "San Mateo"
+    }
+  },
+  {
+    "id": "0405811013",
+    "code": "0405811013",
+    "name": "Gulod Malaya",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405811000",
+      "code": "0405811000",
+      "name": "San Mateo"
+    }
+  },
+  {
+    "id": "0405811007",
+    "code": "0405811007",
+    "name": "Malanday",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405811000",
+      "code": "0405811000",
+      "name": "San Mateo"
+    }
+  },
+  {
+    "id": "0405811008",
+    "code": "0405811008",
+    "name": "Maly",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405811000",
+      "code": "0405811000",
+      "name": "San Mateo"
+    }
+  },
+  {
+    "id": "0405811014",
+    "code": "0405811014",
+    "name": "Pintong Bocawe",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405811000",
+      "code": "0405811000",
+      "name": "San Mateo"
+    }
+  },
+  {
+    "id": "0405811010",
+    "code": "0405811010",
+    "name": "Santa Ana",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405811000",
+      "code": "0405811000",
+      "name": "San Mateo"
+    }
+  },
+  {
+    "id": "0405811015",
+    "code": "0405811015",
+    "name": "Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405811000",
+      "code": "0405811000",
+      "name": "San Mateo"
+    }
+  },
+  {
+    "id": "0405811016",
+    "code": "0405811016",
+    "name": "Silangan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405800000",
+      "code": "0405800000",
+      "name": "Rizal"
+    },
+    "city_municipality": {
+      "id": "0405811000",
+      "code": "0405811000",
+      "name": "San Mateo"
+    }
+  }
+]

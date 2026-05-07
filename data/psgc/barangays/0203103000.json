@@ -1,0 +1,695 @@
+[
+  {
+    "id": "0203103001",
+    "code": "0203103001",
+    "name": "Apiat",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203103000",
+      "code": "0203103000",
+      "name": "Aurora"
+    }
+  },
+  {
+    "id": "0203103002",
+    "code": "0203103002",
+    "name": "Bagnos",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203103000",
+      "code": "0203103000",
+      "name": "Aurora"
+    }
+  },
+  {
+    "id": "0203103003",
+    "code": "0203103003",
+    "name": "Bagong Tanza",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203103000",
+      "code": "0203103000",
+      "name": "Aurora"
+    }
+  },
+  {
+    "id": "0203103004",
+    "code": "0203103004",
+    "name": "Ballesteros",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203103000",
+      "code": "0203103000",
+      "name": "Aurora"
+    }
+  },
+  {
+    "id": "0203103005",
+    "code": "0203103005",
+    "name": "Bannagao",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203103000",
+      "code": "0203103000",
+      "name": "Aurora"
+    }
+  },
+  {
+    "id": "0203103006",
+    "code": "0203103006",
+    "name": "Bannawag",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203103000",
+      "code": "0203103000",
+      "name": "Aurora"
+    }
+  },
+  {
+    "id": "0203103007",
+    "code": "0203103007",
+    "name": "Bolinao",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203103000",
+      "code": "0203103000",
+      "name": "Aurora"
+    }
+  },
+  {
+    "id": "0203103008",
+    "code": "0203103008",
+    "name": "Caipilan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203103000",
+      "code": "0203103000",
+      "name": "Aurora"
+    }
+  },
+  {
+    "id": "0203103009",
+    "code": "0203103009",
+    "name": "Camarunggayan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203103000",
+      "code": "0203103000",
+      "name": "Aurora"
+    }
+  },
+  {
+    "id": "0203103010",
+    "code": "0203103010",
+    "name": "Dalig Kalinga",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203103000",
+      "code": "0203103000",
+      "name": "Aurora"
+    }
+  },
+  {
+    "id": "0203103011",
+    "code": "0203103011",
+    "name": "Diamantina",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203103000",
+      "code": "0203103000",
+      "name": "Aurora"
+    }
+  },
+  {
+    "id": "0203103012",
+    "code": "0203103012",
+    "name": "Divisoria",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203103000",
+      "code": "0203103000",
+      "name": "Aurora"
+    }
+  },
+  {
+    "id": "0203103013",
+    "code": "0203103013",
+    "name": "Esperanza East",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203103000",
+      "code": "0203103000",
+      "name": "Aurora"
+    }
+  },
+  {
+    "id": "0203103014",
+    "code": "0203103014",
+    "name": "Esperanza West",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203103000",
+      "code": "0203103000",
+      "name": "Aurora"
+    }
+  },
+  {
+    "id": "0203103015",
+    "code": "0203103015",
+    "name": "Kalabaza",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203103000",
+      "code": "0203103000",
+      "name": "Aurora"
+    }
+  },
+  {
+    "id": "0203103017",
+    "code": "0203103017",
+    "name": "Macatal",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203103000",
+      "code": "0203103000",
+      "name": "Aurora"
+    }
+  },
+  {
+    "id": "0203103018",
+    "code": "0203103018",
+    "name": "Malasin",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203103000",
+      "code": "0203103000",
+      "name": "Aurora"
+    }
+  },
+  {
+    "id": "0203103019",
+    "code": "0203103019",
+    "name": "Nampicuan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203103000",
+      "code": "0203103000",
+      "name": "Aurora"
+    }
+  },
+  {
+    "id": "0203103021",
+    "code": "0203103021",
+    "name": "Panecien",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203103000",
+      "code": "0203103000",
+      "name": "Aurora"
+    }
+  },
+  {
+    "id": "0203103016",
+    "code": "0203103016",
+    "name": "Rizalina",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203103000",
+      "code": "0203103000",
+      "name": "Aurora"
+    }
+  },
+  {
+    "id": "0203103022",
+    "code": "0203103022",
+    "name": "San Andres",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203103000",
+      "code": "0203103000",
+      "name": "Aurora"
+    }
+  },
+  {
+    "id": "0203103023",
+    "code": "0203103023",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203103000",
+      "code": "0203103000",
+      "name": "Aurora"
+    }
+  },
+  {
+    "id": "0203103032",
+    "code": "0203103032",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203103000",
+      "code": "0203103000",
+      "name": "Aurora"
+    }
+  },
+  {
+    "id": "0203103033",
+    "code": "0203103033",
+    "name": "San Pedro-San Pablo",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203103000",
+      "code": "0203103000",
+      "name": "Aurora"
+    }
+  },
+  {
+    "id": "0203103024",
+    "code": "0203103024",
+    "name": "San Rafael",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203103000",
+      "code": "0203103000",
+      "name": "Aurora"
+    }
+  },
+  {
+    "id": "0203103025",
+    "code": "0203103025",
+    "name": "San Ramon",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203103000",
+      "code": "0203103000",
+      "name": "Aurora"
+    }
+  },
+  {
+    "id": "0203103026",
+    "code": "0203103026",
+    "name": "Santa Rita",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203103000",
+      "code": "0203103000",
+      "name": "Aurora"
+    }
+  },
+  {
+    "id": "0203103027",
+    "code": "0203103027",
+    "name": "Santa Rosa",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203103000",
+      "code": "0203103000",
+      "name": "Aurora"
+    }
+  },
+  {
+    "id": "0203103028",
+    "code": "0203103028",
+    "name": "Saranay",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203103000",
+      "code": "0203103000",
+      "name": "Aurora"
+    }
+  },
+  {
+    "id": "0203103029",
+    "code": "0203103029",
+    "name": "Sili",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203103000",
+      "code": "0203103000",
+      "name": "Aurora"
+    }
+  },
+  {
+    "id": "0203103030",
+    "code": "0203103030",
+    "name": "Victoria",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203103000",
+      "code": "0203103000",
+      "name": "Aurora"
+    }
+  },
+  {
+    "id": "0203103031",
+    "code": "0203103031",
+    "name": "Villa Fugu",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203103000",
+      "code": "0203103000",
+      "name": "Aurora"
+    }
+  },
+  {
+    "id": "0203103020",
+    "code": "0203103020",
+    "name": "Villa Nuesa",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203103000",
+      "code": "0203103000",
+      "name": "Aurora"
+    }
+  }
+]

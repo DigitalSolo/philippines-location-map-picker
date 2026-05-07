@@ -1,0 +1,40 @@
+{
+  "generatedAt": "2026-05-07T05:19:36.354Z",
+  "psgcRoot": "data/psgc",
+  "geoRoot": "data/geo",
+  "counts": {
+    "psgcBarangays": 16,
+    "geometryBarangays": 16,
+    "withGeometry": 16,
+    "missingGeometry": 0,
+    "geometryWithoutPsgc": 0
+  },
+  "cityCoverage": [
+    {
+      "city_id": "051607",
+      "psgc_barangays": 5,
+      "geometry_barangays": 5,
+      "missing_geometry": 0
+    },
+    {
+      "city_id": "051611",
+      "psgc_barangays": 5,
+      "geometry_barangays": 5,
+      "missing_geometry": 0
+    },
+    {
+      "city_id": "1380600000",
+      "psgc_barangays": 3,
+      "geometry_barangays": 3,
+      "missing_geometry": 0
+    },
+    {
+      "city_id": "1380700000",
+      "psgc_barangays": 3,
+      "geometry_barangays": 3,
+      "missing_geometry": 0
+    }
+  ],
+  "missingGeometry": [],
+  "geometryWithoutPsgc": []
+}

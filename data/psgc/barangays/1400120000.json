@@ -1,0 +1,191 @@
+[
+  {
+    "id": "1400120001",
+    "code": "1400120001",
+    "name": "Bazar",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400120000",
+      "code": "1400120000",
+      "name": "Sallapadan"
+    }
+  },
+  {
+    "id": "1400120002",
+    "code": "1400120002",
+    "name": "Bilabila",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400120000",
+      "code": "1400120000",
+      "name": "Sallapadan"
+    }
+  },
+  {
+    "id": "1400120003",
+    "code": "1400120003",
+    "name": "Gangal",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400120000",
+      "code": "1400120000",
+      "name": "Sallapadan"
+    }
+  },
+  {
+    "id": "1400120004",
+    "code": "1400120004",
+    "name": "Maguyepyep",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400120000",
+      "code": "1400120000",
+      "name": "Sallapadan"
+    }
+  },
+  {
+    "id": "1400120005",
+    "code": "1400120005",
+    "name": "Naguilian",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400120000",
+      "code": "1400120000",
+      "name": "Sallapadan"
+    }
+  },
+  {
+    "id": "1400120006",
+    "code": "1400120006",
+    "name": "Saccaang",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400120000",
+      "code": "1400120000",
+      "name": "Sallapadan"
+    }
+  },
+  {
+    "id": "1400120007",
+    "code": "1400120007",
+    "name": "Sallapadan",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400120000",
+      "code": "1400120000",
+      "name": "Sallapadan"
+    }
+  },
+  {
+    "id": "1400120008",
+    "code": "1400120008",
+    "name": "Subusob",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400120000",
+      "code": "1400120000",
+      "name": "Sallapadan"
+    }
+  },
+  {
+    "id": "1400120009",
+    "code": "1400120009",
+    "name": "Ud-udiao",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400120000",
+      "code": "1400120000",
+      "name": "Sallapadan"
+    }
+  }
+]

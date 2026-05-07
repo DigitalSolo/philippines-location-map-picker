@@ -1,0 +1,779 @@
+[
+  {
+    "id": "0806409001",
+    "code": "0806409001",
+    "name": "Abgao",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806409000",
+      "code": "0806409000",
+      "name": "Malitbog"
+    }
+  },
+  {
+    "id": "0806409029",
+    "code": "0806409029",
+    "name": "Asuncion",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806409000",
+      "code": "0806409000",
+      "name": "Malitbog"
+    }
+  },
+  {
+    "id": "0806409002",
+    "code": "0806409002",
+    "name": "Aurora",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806409000",
+      "code": "0806409000",
+      "name": "Malitbog"
+    }
+  },
+  {
+    "id": "0806409003",
+    "code": "0806409003",
+    "name": "Benit",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806409000",
+      "code": "0806409000",
+      "name": "Malitbog"
+    }
+  },
+  {
+    "id": "0806409004",
+    "code": "0806409004",
+    "name": "Caaga",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806409000",
+      "code": "0806409000",
+      "name": "Malitbog"
+    }
+  },
+  {
+    "id": "0806409005",
+    "code": "0806409005",
+    "name": "Cabul-anonan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806409000",
+      "code": "0806409000",
+      "name": "Malitbog"
+    }
+  },
+  {
+    "id": "0806409006",
+    "code": "0806409006",
+    "name": "Cadaruhan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806409000",
+      "code": "0806409000",
+      "name": "Malitbog"
+    }
+  },
+  {
+    "id": "0806409030",
+    "code": "0806409030",
+    "name": "Cadaruhan Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806409000",
+      "code": "0806409000",
+      "name": "Malitbog"
+    }
+  },
+  {
+    "id": "0806409007",
+    "code": "0806409007",
+    "name": "Candatag",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806409000",
+      "code": "0806409000",
+      "name": "Malitbog"
+    }
+  },
+  {
+    "id": "0806409008",
+    "code": "0806409008",
+    "name": "Cantamuac",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806409000",
+      "code": "0806409000",
+      "name": "Malitbog"
+    }
+  },
+  {
+    "id": "0806409009",
+    "code": "0806409009",
+    "name": "Caraatan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806409000",
+      "code": "0806409000",
+      "name": "Malitbog"
+    }
+  },
+  {
+    "id": "0806409010",
+    "code": "0806409010",
+    "name": "Concepcion",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806409000",
+      "code": "0806409000",
+      "name": "Malitbog"
+    }
+  },
+  {
+    "id": "0806409031",
+    "code": "0806409031",
+    "name": "Fatima",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806409000",
+      "code": "0806409000",
+      "name": "Malitbog"
+    }
+  },
+  {
+    "id": "0806409011",
+    "code": "0806409011",
+    "name": "Guinabonan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806409000",
+      "code": "0806409000",
+      "name": "Malitbog"
+    }
+  },
+  {
+    "id": "0806409012",
+    "code": "0806409012",
+    "name": "Iba",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806409000",
+      "code": "0806409000",
+      "name": "Malitbog"
+    }
+  },
+  {
+    "id": "0806409032",
+    "code": "0806409032",
+    "name": "Juangon",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806409000",
+      "code": "0806409000",
+      "name": "Malitbog"
+    }
+  },
+  {
+    "id": "0806409033",
+    "code": "0806409033",
+    "name": "Kauswagan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806409000",
+      "code": "0806409000",
+      "name": "Malitbog"
+    }
+  },
+  {
+    "id": "0806409013",
+    "code": "0806409013",
+    "name": "Lambonao",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806409000",
+      "code": "0806409000",
+      "name": "Malitbog"
+    }
+  },
+  {
+    "id": "0806409034",
+    "code": "0806409034",
+    "name": "Mahayahay",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806409000",
+      "code": "0806409000",
+      "name": "Malitbog"
+    }
+  },
+  {
+    "id": "0806409014",
+    "code": "0806409014",
+    "name": "Maningning",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806409000",
+      "code": "0806409000",
+      "name": "Malitbog"
+    }
+  },
+  {
+    "id": "0806409015",
+    "code": "0806409015",
+    "name": "Maujo",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806409000",
+      "code": "0806409000",
+      "name": "Malitbog"
+    }
+  },
+  {
+    "id": "0806409035",
+    "code": "0806409035",
+    "name": "New Katipunan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806409000",
+      "code": "0806409000",
+      "name": "Malitbog"
+    }
+  },
+  {
+    "id": "0806409036",
+    "code": "0806409036",
+    "name": "Pancil",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806409000",
+      "code": "0806409000",
+      "name": "Malitbog"
+    }
+  },
+  {
+    "id": "0806409016",
+    "code": "0806409016",
+    "name": "Pasil",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806409000",
+      "code": "0806409000",
+      "name": "Malitbog"
+    }
+  },
+  {
+    "id": "0806409017",
+    "code": "0806409017",
+    "name": "Sabang",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806409000",
+      "code": "0806409000",
+      "name": "Malitbog"
+    }
+  },
+  {
+    "id": "0806409018",
+    "code": "0806409018",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806409000",
+      "code": "0806409000",
+      "name": "Malitbog"
+    }
+  },
+  {
+    "id": "0806409037",
+    "code": "0806409037",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806409000",
+      "code": "0806409000",
+      "name": "Malitbog"
+    }
+  },
+  {
+    "id": "0806409019",
+    "code": "0806409019",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806409000",
+      "code": "0806409000",
+      "name": "Malitbog"
+    }
+  },
+  {
+    "id": "0806409020",
+    "code": "0806409020",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806409000",
+      "code": "0806409000",
+      "name": "Malitbog"
+    }
+  },
+  {
+    "id": "0806409021",
+    "code": "0806409021",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806409000",
+      "code": "0806409000",
+      "name": "Malitbog"
+    }
+  },
+  {
+    "id": "0806409022",
+    "code": "0806409022",
+    "name": "Sangahon",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806409000",
+      "code": "0806409000",
+      "name": "Malitbog"
+    }
+  },
+  {
+    "id": "0806409023",
+    "code": "0806409023",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806409000",
+      "code": "0806409000",
+      "name": "Malitbog"
+    }
+  },
+  {
+    "id": "0806409038",
+    "code": "0806409038",
+    "name": "Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806409000",
+      "code": "0806409000",
+      "name": "Malitbog"
+    }
+  },
+  {
+    "id": "0806409024",
+    "code": "0806409024",
+    "name": "Taliwa",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806409000",
+      "code": "0806409000",
+      "name": "Malitbog"
+    }
+  },
+  {
+    "id": "0806409025",
+    "code": "0806409025",
+    "name": "Tigbawan I",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806409000",
+      "code": "0806409000",
+      "name": "Malitbog"
+    }
+  },
+  {
+    "id": "0806409026",
+    "code": "0806409026",
+    "name": "Tigbawan II",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806409000",
+      "code": "0806409000",
+      "name": "Malitbog"
+    }
+  },
+  {
+    "id": "0806409028",
+    "code": "0806409028",
+    "name": "Timba",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806409000",
+      "code": "0806409000",
+      "name": "Malitbog"
+    }
+  }
+]

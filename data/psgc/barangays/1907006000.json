@@ -1,0 +1,653 @@
+[
+  {
+    "id": "1907006001",
+    "code": "1907006001",
+    "name": "Babagan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907006000",
+      "code": "1907006000",
+      "name": "South Ubian"
+    }
+  },
+  {
+    "id": "1907006005",
+    "code": "1907006005",
+    "name": "Bengkol",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907006000",
+      "code": "1907006000",
+      "name": "South Ubian"
+    }
+  },
+  {
+    "id": "1907006006",
+    "code": "1907006006",
+    "name": "Bintawlan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907006000",
+      "code": "1907006000",
+      "name": "South Ubian"
+    }
+  },
+  {
+    "id": "1907006007",
+    "code": "1907006007",
+    "name": "Bohe",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907006000",
+      "code": "1907006000",
+      "name": "South Ubian"
+    }
+  },
+  {
+    "id": "1907006008",
+    "code": "1907006008",
+    "name": "Bubuan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907006000",
+      "code": "1907006000",
+      "name": "South Ubian"
+    }
+  },
+  {
+    "id": "1907006011",
+    "code": "1907006011",
+    "name": "Bunay Bunay Center",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907006000",
+      "code": "1907006000",
+      "name": "South Ubian"
+    }
+  },
+  {
+    "id": "1907006010",
+    "code": "1907006010",
+    "name": "Bunay Bunay Lookan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907006000",
+      "code": "1907006000",
+      "name": "South Ubian"
+    }
+  },
+  {
+    "id": "1907006009",
+    "code": "1907006009",
+    "name": "Bunay Bunay Tong",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907006000",
+      "code": "1907006000",
+      "name": "South Ubian"
+    }
+  },
+  {
+    "id": "1907006013",
+    "code": "1907006013",
+    "name": "East Talisay",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907006000",
+      "code": "1907006000",
+      "name": "South Ubian"
+    }
+  },
+  {
+    "id": "1907006012",
+    "code": "1907006012",
+    "name": "Lahad Dampong",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907006000",
+      "code": "1907006000",
+      "name": "South Ubian"
+    }
+  },
+  {
+    "id": "1907006015",
+    "code": "1907006015",
+    "name": "Laitan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907006000",
+      "code": "1907006000",
+      "name": "South Ubian"
+    }
+  },
+  {
+    "id": "1907006016",
+    "code": "1907006016",
+    "name": "Lambi-lambian",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907006000",
+      "code": "1907006000",
+      "name": "South Ubian"
+    }
+  },
+  {
+    "id": "1907006017",
+    "code": "1907006017",
+    "name": "Laud",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907006000",
+      "code": "1907006000",
+      "name": "South Ubian"
+    }
+  },
+  {
+    "id": "1907006038",
+    "code": "1907006038",
+    "name": "Likud Dampong",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907006000",
+      "code": "1907006000",
+      "name": "South Ubian"
+    }
+  },
+  {
+    "id": "1907006019",
+    "code": "1907006019",
+    "name": "Likud Tabawan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907006000",
+      "code": "1907006000",
+      "name": "South Ubian"
+    }
+  },
+  {
+    "id": "1907006014",
+    "code": "1907006014",
+    "name": "Nunuk",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907006000",
+      "code": "1907006000",
+      "name": "South Ubian"
+    }
+  },
+  {
+    "id": "1907006024",
+    "code": "1907006024",
+    "name": "Nusa",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907006000",
+      "code": "1907006000",
+      "name": "South Ubian"
+    }
+  },
+  {
+    "id": "1907006023",
+    "code": "1907006023",
+    "name": "Nusa-nusa",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907006000",
+      "code": "1907006000",
+      "name": "South Ubian"
+    }
+  },
+  {
+    "id": "1907006025",
+    "code": "1907006025",
+    "name": "Pampang",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907006000",
+      "code": "1907006000",
+      "name": "South Ubian"
+    }
+  },
+  {
+    "id": "1907006026",
+    "code": "1907006026",
+    "name": "Putat",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907006000",
+      "code": "1907006000",
+      "name": "South Ubian"
+    }
+  },
+  {
+    "id": "1907006027",
+    "code": "1907006027",
+    "name": "Sollogan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907006000",
+      "code": "1907006000",
+      "name": "South Ubian"
+    }
+  },
+  {
+    "id": "1907006028",
+    "code": "1907006028",
+    "name": "Talisay",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907006000",
+      "code": "1907006000",
+      "name": "South Ubian"
+    }
+  },
+  {
+    "id": "1907006029",
+    "code": "1907006029",
+    "name": "Tampakan Dampong",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907006000",
+      "code": "1907006000",
+      "name": "South Ubian"
+    }
+  },
+  {
+    "id": "1907006039",
+    "code": "1907006039",
+    "name": "Tangngah",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907006000",
+      "code": "1907006000",
+      "name": "South Ubian"
+    }
+  },
+  {
+    "id": "1907006030",
+    "code": "1907006030",
+    "name": "Tinda-tindahan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907006000",
+      "code": "1907006000",
+      "name": "South Ubian"
+    }
+  },
+  {
+    "id": "1907006032",
+    "code": "1907006032",
+    "name": "Tong Tampakan",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907006000",
+      "code": "1907006000",
+      "name": "South Ubian"
+    }
+  },
+  {
+    "id": "1907006035",
+    "code": "1907006035",
+    "name": "Tubig Dayang",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907006000",
+      "code": "1907006000",
+      "name": "South Ubian"
+    }
+  },
+  {
+    "id": "1907006033",
+    "code": "1907006033",
+    "name": "Tubig Dayang Center",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907006000",
+      "code": "1907006000",
+      "name": "South Ubian"
+    }
+  },
+  {
+    "id": "1907006034",
+    "code": "1907006034",
+    "name": "Tubig Dayang Riverside",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907006000",
+      "code": "1907006000",
+      "name": "South Ubian"
+    }
+  },
+  {
+    "id": "1907006036",
+    "code": "1907006036",
+    "name": "Tukkai",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907006000",
+      "code": "1907006000",
+      "name": "South Ubian"
+    }
+  },
+  {
+    "id": "1907006037",
+    "code": "1907006037",
+    "name": "Unas-unas",
+    "type": "barangay",
+    "region": {
+      "id": "1900000000",
+      "code": "1900000000",
+      "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+    },
+    "province": {
+      "id": "1907000000",
+      "code": "1907000000",
+      "name": "Tawi-Tawi"
+    },
+    "city_municipality": {
+      "id": "1907006000",
+      "code": "1907006000",
+      "name": "South Ubian"
+    }
+  }
+]

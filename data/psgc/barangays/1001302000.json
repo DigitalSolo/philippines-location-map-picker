@@ -1,0 +1,359 @@
+[
+  {
+    "id": "1001302001",
+    "code": "1001302001",
+    "name": "Aludas",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001302000",
+      "code": "1001302000",
+      "name": "Damulog"
+    }
+  },
+  {
+    "id": "1001302002",
+    "code": "1001302002",
+    "name": "Angga-an",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001302000",
+      "code": "1001302000",
+      "name": "Damulog"
+    }
+  },
+  {
+    "id": "1001302004",
+    "code": "1001302004",
+    "name": "Kinapat",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001302000",
+      "code": "1001302000",
+      "name": "Damulog"
+    }
+  },
+  {
+    "id": "1001302005",
+    "code": "1001302005",
+    "name": "Kiraon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001302000",
+      "code": "1001302000",
+      "name": "Damulog"
+    }
+  },
+  {
+    "id": "1001302006",
+    "code": "1001302006",
+    "name": "Kitingting",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001302000",
+      "code": "1001302000",
+      "name": "Damulog"
+    }
+  },
+  {
+    "id": "1001302007",
+    "code": "1001302007",
+    "name": "Lagandang",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001302000",
+      "code": "1001302000",
+      "name": "Damulog"
+    }
+  },
+  {
+    "id": "1001302008",
+    "code": "1001302008",
+    "name": "Macapari",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001302000",
+      "code": "1001302000",
+      "name": "Damulog"
+    }
+  },
+  {
+    "id": "1001302009",
+    "code": "1001302009",
+    "name": "Maican",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001302000",
+      "code": "1001302000",
+      "name": "Damulog"
+    }
+  },
+  {
+    "id": "1001302010",
+    "code": "1001302010",
+    "name": "Migcawayan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001302000",
+      "code": "1001302000",
+      "name": "Damulog"
+    }
+  },
+  {
+    "id": "1001302011",
+    "code": "1001302011",
+    "name": "New Compostela",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001302000",
+      "code": "1001302000",
+      "name": "Damulog"
+    }
+  },
+  {
+    "id": "1001302013",
+    "code": "1001302013",
+    "name": "Old Damulog",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001302000",
+      "code": "1001302000",
+      "name": "Damulog"
+    }
+  },
+  {
+    "id": "1001302014",
+    "code": "1001302014",
+    "name": "Omonay",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001302000",
+      "code": "1001302000",
+      "name": "Damulog"
+    }
+  },
+  {
+    "id": "1001302015",
+    "code": "1001302015",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001302000",
+      "code": "1001302000",
+      "name": "Damulog"
+    }
+  },
+  {
+    "id": "1001302016",
+    "code": "1001302016",
+    "name": "Pocopoco",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001302000",
+      "code": "1001302000",
+      "name": "Damulog"
+    }
+  },
+  {
+    "id": "1001302017",
+    "code": "1001302017",
+    "name": "Sampagar",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001302000",
+      "code": "1001302000",
+      "name": "Damulog"
+    }
+  },
+  {
+    "id": "1001302019",
+    "code": "1001302019",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001302000",
+      "code": "1001302000",
+      "name": "Damulog"
+    }
+  },
+  {
+    "id": "1001302003",
+    "code": "1001302003",
+    "name": "Tangkulan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1001300000",
+      "code": "1001300000",
+      "name": "Bukidnon"
+    },
+    "city_municipality": {
+      "id": "1001302000",
+      "code": "1001302000",
+      "name": "Damulog"
+    }
+  }
+]

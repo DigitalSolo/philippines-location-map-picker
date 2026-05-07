@@ -1,0 +1,1157 @@
+[
+  {
+    "id": "1704005001",
+    "code": "1704005001",
+    "name": "Alobo",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005002",
+    "code": "1704005002",
+    "name": "Angas",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005003",
+    "code": "1704005003",
+    "name": "Aturan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005004",
+    "code": "1704005004",
+    "name": "Bagong Silang Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005005",
+    "code": "1704005005",
+    "name": "Baguidbirin",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005006",
+    "code": "1704005006",
+    "name": "Baliis",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005007",
+    "code": "1704005007",
+    "name": "Balogo",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005008",
+    "code": "1704005008",
+    "name": "Banahaw Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005009",
+    "code": "1704005009",
+    "name": "Bangcuangan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005010",
+    "code": "1704005010",
+    "name": "Banogbog",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005011",
+    "code": "1704005011",
+    "name": "Biga",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005012",
+    "code": "1704005012",
+    "name": "Botilao",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005013",
+    "code": "1704005013",
+    "name": "Buyabod",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005014",
+    "code": "1704005014",
+    "name": "Dating Bayan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005015",
+    "code": "1704005015",
+    "name": "Devilla",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005016",
+    "code": "1704005016",
+    "name": "Dolores",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005017",
+    "code": "1704005017",
+    "name": "Haguimit",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005018",
+    "code": "1704005018",
+    "name": "Hupi",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005019",
+    "code": "1704005019",
+    "name": "Ipil",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005020",
+    "code": "1704005020",
+    "name": "Jolo",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005021",
+    "code": "1704005021",
+    "name": "Kaganhao",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005022",
+    "code": "1704005022",
+    "name": "Kalangkang",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005023",
+    "code": "1704005023",
+    "name": "Kamandugan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005024",
+    "code": "1704005024",
+    "name": "Kasily",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005025",
+    "code": "1704005025",
+    "name": "Kilo-kilo",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005026",
+    "code": "1704005026",
+    "name": "Kinyaman",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005027",
+    "code": "1704005027",
+    "name": "Labo",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005028",
+    "code": "1704005028",
+    "name": "Lamesa",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005029",
+    "code": "1704005029",
+    "name": "Landy",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005030",
+    "code": "1704005030",
+    "name": "Lapu-lapu Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005031",
+    "code": "1704005031",
+    "name": "Libjo",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005032",
+    "code": "1704005032",
+    "name": "Lipa",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005033",
+    "code": "1704005033",
+    "name": "Lusok",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005034",
+    "code": "1704005034",
+    "name": "Maharlika Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005035",
+    "code": "1704005035",
+    "name": "Makulapnit",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005036",
+    "code": "1704005036",
+    "name": "Maniwaya",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005037",
+    "code": "1704005037",
+    "name": "Manlibunan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005038",
+    "code": "1704005038",
+    "name": "Masaguisi",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005039",
+    "code": "1704005039",
+    "name": "Masalukot",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005040",
+    "code": "1704005040",
+    "name": "Matalaba",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005041",
+    "code": "1704005041",
+    "name": "Mongpong",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005042",
+    "code": "1704005042",
+    "name": "Morales",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005043",
+    "code": "1704005043",
+    "name": "Napo",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005044",
+    "code": "1704005044",
+    "name": "Pag-Asa Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005045",
+    "code": "1704005045",
+    "name": "Pantayin",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005047",
+    "code": "1704005047",
+    "name": "Polo",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005048",
+    "code": "1704005048",
+    "name": "Pulong-Parang",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005049",
+    "code": "1704005049",
+    "name": "Punong",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005050",
+    "code": "1704005050",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005051",
+    "code": "1704005051",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005052",
+    "code": "1704005052",
+    "name": "Tagum",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005053",
+    "code": "1704005053",
+    "name": "Tamayo",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005054",
+    "code": "1704005054",
+    "name": "Tambangan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005055",
+    "code": "1704005055",
+    "name": "Tawiran",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  },
+  {
+    "id": "1704005056",
+    "code": "1704005056",
+    "name": "Taytay",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704005000",
+      "code": "1704005000",
+      "name": "Santa Cruz"
+    }
+  }
+]

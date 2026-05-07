@@ -1,0 +1,254 @@
+[
+  {
+    "id": "1003513002",
+    "code": "1003513002",
+    "name": "Bangco",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003513000",
+      "code": "1003513000",
+      "name": "Matungao"
+    }
+  },
+  {
+    "id": "1003513003",
+    "code": "1003513003",
+    "name": "Batal",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003513000",
+      "code": "1003513000",
+      "name": "Matungao"
+    }
+  },
+  {
+    "id": "1003513004",
+    "code": "1003513004",
+    "name": "Batangan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003513000",
+      "code": "1003513000",
+      "name": "Matungao"
+    }
+  },
+  {
+    "id": "1003513001",
+    "code": "1003513001",
+    "name": "Bubong Radapan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003513000",
+      "code": "1003513000",
+      "name": "Matungao"
+    }
+  },
+  {
+    "id": "1003513005",
+    "code": "1003513005",
+    "name": "Cadayonan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003513000",
+      "code": "1003513000",
+      "name": "Matungao"
+    }
+  },
+  {
+    "id": "1003513013",
+    "code": "1003513013",
+    "name": "Matampay",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003513000",
+      "code": "1003513000",
+      "name": "Matungao"
+    }
+  },
+  {
+    "id": "1003513015",
+    "code": "1003513015",
+    "name": "Pangi",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003513000",
+      "code": "1003513000",
+      "name": "Matungao"
+    }
+  },
+  {
+    "id": "1003513016",
+    "code": "1003513016",
+    "name": "Pasayanon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003513000",
+      "code": "1003513000",
+      "name": "Matungao"
+    }
+  },
+  {
+    "id": "1003513018",
+    "code": "1003513018",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003513000",
+      "code": "1003513000",
+      "name": "Matungao"
+    }
+  },
+  {
+    "id": "1003513019",
+    "code": "1003513019",
+    "name": "Puntod",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003513000",
+      "code": "1003513000",
+      "name": "Matungao"
+    }
+  },
+  {
+    "id": "1003513020",
+    "code": "1003513020",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003513000",
+      "code": "1003513000",
+      "name": "Matungao"
+    }
+  },
+  {
+    "id": "1003513021",
+    "code": "1003513021",
+    "name": "Somiorang",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003513000",
+      "code": "1003513000",
+      "name": "Matungao"
+    }
+  }
+]

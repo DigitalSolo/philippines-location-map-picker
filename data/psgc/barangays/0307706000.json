@@ -1,0 +1,527 @@
+[
+  {
+    "id": "0307706001",
+    "code": "0307706001",
+    "name": "Bayabas",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307706000",
+      "code": "0307706000",
+      "name": "Dipaculao"
+    }
+  },
+  {
+    "id": "0307706003",
+    "code": "0307706003",
+    "name": "Borlongan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307706000",
+      "code": "0307706000",
+      "name": "Dipaculao"
+    }
+  },
+  {
+    "id": "0307706002",
+    "code": "0307706002",
+    "name": "Buenavista",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307706000",
+      "code": "0307706000",
+      "name": "Dipaculao"
+    }
+  },
+  {
+    "id": "0307706004",
+    "code": "0307706004",
+    "name": "Calaocan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307706000",
+      "code": "0307706000",
+      "name": "Dipaculao"
+    }
+  },
+  {
+    "id": "0307706025",
+    "code": "0307706025",
+    "name": "Diamanen",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307706000",
+      "code": "0307706000",
+      "name": "Dipaculao"
+    }
+  },
+  {
+    "id": "0307706005",
+    "code": "0307706005",
+    "name": "Dianed",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307706000",
+      "code": "0307706000",
+      "name": "Dipaculao"
+    }
+  },
+  {
+    "id": "0307706006",
+    "code": "0307706006",
+    "name": "Diarabasin",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307706000",
+      "code": "0307706000",
+      "name": "Dipaculao"
+    }
+  },
+  {
+    "id": "0307706007",
+    "code": "0307706007",
+    "name": "Dibutunan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307706000",
+      "code": "0307706000",
+      "name": "Dipaculao"
+    }
+  },
+  {
+    "id": "0307706008",
+    "code": "0307706008",
+    "name": "Dimabuno",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307706000",
+      "code": "0307706000",
+      "name": "Dipaculao"
+    }
+  },
+  {
+    "id": "0307706009",
+    "code": "0307706009",
+    "name": "Dinadiawan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307706000",
+      "code": "0307706000",
+      "name": "Dipaculao"
+    }
+  },
+  {
+    "id": "0307706010",
+    "code": "0307706010",
+    "name": "Ditale",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307706000",
+      "code": "0307706000",
+      "name": "Dipaculao"
+    }
+  },
+  {
+    "id": "0307706011",
+    "code": "0307706011",
+    "name": "Gupa",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307706000",
+      "code": "0307706000",
+      "name": "Dipaculao"
+    }
+  },
+  {
+    "id": "0307706012",
+    "code": "0307706012",
+    "name": "Ipil",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307706000",
+      "code": "0307706000",
+      "name": "Dipaculao"
+    }
+  },
+  {
+    "id": "0307706013",
+    "code": "0307706013",
+    "name": "Laboy",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307706000",
+      "code": "0307706000",
+      "name": "Dipaculao"
+    }
+  },
+  {
+    "id": "0307706014",
+    "code": "0307706014",
+    "name": "Lipit",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307706000",
+      "code": "0307706000",
+      "name": "Dipaculao"
+    }
+  },
+  {
+    "id": "0307706015",
+    "code": "0307706015",
+    "name": "Lobbot",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307706000",
+      "code": "0307706000",
+      "name": "Dipaculao"
+    }
+  },
+  {
+    "id": "0307706016",
+    "code": "0307706016",
+    "name": "Maligaya",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307706000",
+      "code": "0307706000",
+      "name": "Dipaculao"
+    }
+  },
+  {
+    "id": "0307706017",
+    "code": "0307706017",
+    "name": "Mijares",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307706000",
+      "code": "0307706000",
+      "name": "Dipaculao"
+    }
+  },
+  {
+    "id": "0307706018",
+    "code": "0307706018",
+    "name": "Mucdol",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307706000",
+      "code": "0307706000",
+      "name": "Dipaculao"
+    }
+  },
+  {
+    "id": "0307706019",
+    "code": "0307706019",
+    "name": "North Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307706000",
+      "code": "0307706000",
+      "name": "Dipaculao"
+    }
+  },
+  {
+    "id": "0307706020",
+    "code": "0307706020",
+    "name": "Puangi",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307706000",
+      "code": "0307706000",
+      "name": "Dipaculao"
+    }
+  },
+  {
+    "id": "0307706021",
+    "code": "0307706021",
+    "name": "Salay",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307706000",
+      "code": "0307706000",
+      "name": "Dipaculao"
+    }
+  },
+  {
+    "id": "0307706022",
+    "code": "0307706022",
+    "name": "Sapangkawayan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307706000",
+      "code": "0307706000",
+      "name": "Dipaculao"
+    }
+  },
+  {
+    "id": "0307706023",
+    "code": "0307706023",
+    "name": "South Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307706000",
+      "code": "0307706000",
+      "name": "Dipaculao"
+    }
+  },
+  {
+    "id": "0307706024",
+    "code": "0307706024",
+    "name": "Toytoyan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0307700000",
+      "code": "0307700000",
+      "name": "Aurora"
+    },
+    "city_municipality": {
+      "id": "0307706000",
+      "code": "0307706000",
+      "name": "Dipaculao"
+    }
+  }
+]

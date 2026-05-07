@@ -1,0 +1,68 @@
+[
+  {
+    "id": "0807800000",
+    "code": "0807800000",
+    "name": "Biliran",
+    "type": "province",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    }
+  },
+  {
+    "id": "0802600000",
+    "code": "0802600000",
+    "name": "Eastern Samar",
+    "type": "province",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    }
+  },
+  {
+    "id": "0803700000",
+    "code": "0803700000",
+    "name": "Leyte",
+    "type": "province",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    }
+  },
+  {
+    "id": "0804800000",
+    "code": "0804800000",
+    "name": "Northern Samar",
+    "type": "province",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    }
+  },
+  {
+    "id": "0806000000",
+    "code": "0806000000",
+    "name": "Samar",
+    "type": "province",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    }
+  },
+  {
+    "id": "0806400000",
+    "code": "0806400000",
+    "name": "Southern Leyte",
+    "type": "province",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    }
+  }
+]

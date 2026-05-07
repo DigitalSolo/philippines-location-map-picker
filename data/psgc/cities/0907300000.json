@@ -1,0 +1,434 @@
+[
+  {
+    "id": "0907302000",
+    "code": "0907302000",
+    "name": "Aurora",
+    "type": "city_municipality",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    }
+  },
+  {
+    "id": "0907303000",
+    "code": "0907303000",
+    "name": "Bayog",
+    "type": "city_municipality",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    }
+  },
+  {
+    "id": "0907322000",
+    "code": "0907322000",
+    "name": "City of Pagadian",
+    "type": "city_municipality",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    }
+  },
+  {
+    "id": "0907305000",
+    "code": "0907305000",
+    "name": "Dimataling",
+    "type": "city_municipality",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    }
+  },
+  {
+    "id": "0907306000",
+    "code": "0907306000",
+    "name": "Dinas",
+    "type": "city_municipality",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    }
+  },
+  {
+    "id": "0907307000",
+    "code": "0907307000",
+    "name": "Dumalinao",
+    "type": "city_municipality",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    }
+  },
+  {
+    "id": "0907308000",
+    "code": "0907308000",
+    "name": "Dumingag",
+    "type": "city_municipality",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    }
+  },
+  {
+    "id": "0907343000",
+    "code": "0907343000",
+    "name": "Guipos",
+    "type": "city_municipality",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    }
+  },
+  {
+    "id": "0907337000",
+    "code": "0907337000",
+    "name": "Josefina",
+    "type": "city_municipality",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    }
+  },
+  {
+    "id": "0907311000",
+    "code": "0907311000",
+    "name": "Kumalarang",
+    "type": "city_municipality",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    }
+  },
+  {
+    "id": "0907312000",
+    "code": "0907312000",
+    "name": "Labangan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    }
+  },
+  {
+    "id": "0907333000",
+    "code": "0907333000",
+    "name": "Lakewood",
+    "type": "city_municipality",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    }
+  },
+  {
+    "id": "0907313000",
+    "code": "0907313000",
+    "name": "Lapuyan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    }
+  },
+  {
+    "id": "0907315000",
+    "code": "0907315000",
+    "name": "Mahayag",
+    "type": "city_municipality",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    }
+  },
+  {
+    "id": "0907317000",
+    "code": "0907317000",
+    "name": "Margosatubig",
+    "type": "city_municipality",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    }
+  },
+  {
+    "id": "0907318000",
+    "code": "0907318000",
+    "name": "Midsalip",
+    "type": "city_municipality",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    }
+  },
+  {
+    "id": "0907319000",
+    "code": "0907319000",
+    "name": "Molave",
+    "type": "city_municipality",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    }
+  },
+  {
+    "id": "0907338000",
+    "code": "0907338000",
+    "name": "Pitogo",
+    "type": "city_municipality",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    }
+  },
+  {
+    "id": "0907323000",
+    "code": "0907323000",
+    "name": "Ramon Magsaysay",
+    "type": "city_municipality",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    }
+  },
+  {
+    "id": "0907324000",
+    "code": "0907324000",
+    "name": "San Miguel",
+    "type": "city_municipality",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    }
+  },
+  {
+    "id": "0907325000",
+    "code": "0907325000",
+    "name": "San Pablo",
+    "type": "city_municipality",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    }
+  },
+  {
+    "id": "0907340000",
+    "code": "0907340000",
+    "name": "Sominot",
+    "type": "city_municipality",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    }
+  },
+  {
+    "id": "0907327000",
+    "code": "0907327000",
+    "name": "Tabina",
+    "type": "city_municipality",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    }
+  },
+  {
+    "id": "0907328000",
+    "code": "0907328000",
+    "name": "Tambulig",
+    "type": "city_municipality",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    }
+  },
+  {
+    "id": "0907344000",
+    "code": "0907344000",
+    "name": "Tigbao",
+    "type": "city_municipality",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    }
+  },
+  {
+    "id": "0907330000",
+    "code": "0907330000",
+    "name": "Tukuran",
+    "type": "city_municipality",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    }
+  },
+  {
+    "id": "0907341000",
+    "code": "0907341000",
+    "name": "Vincenzo A. Sagun",
+    "type": "city_municipality",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    }
+  }
+]

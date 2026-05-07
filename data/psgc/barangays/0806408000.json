@@ -1,0 +1,632 @@
+[
+  {
+    "id": "0806408001",
+    "code": "0806408001",
+    "name": "Aguinaldo",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806408000",
+      "code": "0806408000",
+      "name": "Macrohon"
+    }
+  },
+  {
+    "id": "0806408002",
+    "code": "0806408002",
+    "name": "Amparo",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806408000",
+      "code": "0806408000",
+      "name": "Macrohon"
+    }
+  },
+  {
+    "id": "0806408023",
+    "code": "0806408023",
+    "name": "Asuncion",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806408000",
+      "code": "0806408000",
+      "name": "Macrohon"
+    }
+  },
+  {
+    "id": "0806408024",
+    "code": "0806408024",
+    "name": "Bagong Silang",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806408000",
+      "code": "0806408000",
+      "name": "Macrohon"
+    }
+  },
+  {
+    "id": "0806408003",
+    "code": "0806408003",
+    "name": "Buscayan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806408000",
+      "code": "0806408000",
+      "name": "Macrohon"
+    }
+  },
+  {
+    "id": "0806408004",
+    "code": "0806408004",
+    "name": "Cambaro",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806408000",
+      "code": "0806408000",
+      "name": "Macrohon"
+    }
+  },
+  {
+    "id": "0806408005",
+    "code": "0806408005",
+    "name": "Canlusay",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806408000",
+      "code": "0806408000",
+      "name": "Macrohon"
+    }
+  },
+  {
+    "id": "0806408025",
+    "code": "0806408025",
+    "name": "Danao",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806408000",
+      "code": "0806408000",
+      "name": "Macrohon"
+    }
+  },
+  {
+    "id": "0806408006",
+    "code": "0806408006",
+    "name": "Flordeliz",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806408000",
+      "code": "0806408000",
+      "name": "Macrohon"
+    }
+  },
+  {
+    "id": "0806408026",
+    "code": "0806408026",
+    "name": "Guadalupe",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806408000",
+      "code": "0806408000",
+      "name": "Macrohon"
+    }
+  },
+  {
+    "id": "0806408007",
+    "code": "0806408007",
+    "name": "Ichon",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806408000",
+      "code": "0806408000",
+      "name": "Macrohon"
+    }
+  },
+  {
+    "id": "0806408008",
+    "code": "0806408008",
+    "name": "Ilihan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806408000",
+      "code": "0806408000",
+      "name": "Macrohon"
+    }
+  },
+  {
+    "id": "0806408009",
+    "code": "0806408009",
+    "name": "Laray",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806408000",
+      "code": "0806408000",
+      "name": "Macrohon"
+    }
+  },
+  {
+    "id": "0806408010",
+    "code": "0806408010",
+    "name": "Lower Villa Jacinta",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806408000",
+      "code": "0806408000",
+      "name": "Macrohon"
+    }
+  },
+  {
+    "id": "0806408011",
+    "code": "0806408011",
+    "name": "Mabini",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806408000",
+      "code": "0806408000",
+      "name": "Macrohon"
+    }
+  },
+  {
+    "id": "0806408012",
+    "code": "0806408012",
+    "name": "Mohon",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806408000",
+      "code": "0806408000",
+      "name": "Macrohon"
+    }
+  },
+  {
+    "id": "0806408013",
+    "code": "0806408013",
+    "name": "Molopolo",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806408000",
+      "code": "0806408000",
+      "name": "Macrohon"
+    }
+  },
+  {
+    "id": "0806408015",
+    "code": "0806408015",
+    "name": "Rizal",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806408000",
+      "code": "0806408000",
+      "name": "Macrohon"
+    }
+  },
+  {
+    "id": "0806408016",
+    "code": "0806408016",
+    "name": "Salvador",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806408000",
+      "code": "0806408000",
+      "name": "Macrohon"
+    }
+  },
+  {
+    "id": "0806408017",
+    "code": "0806408017",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806408000",
+      "code": "0806408000",
+      "name": "Macrohon"
+    }
+  },
+  {
+    "id": "0806408018",
+    "code": "0806408018",
+    "name": "San Joaquin",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806408000",
+      "code": "0806408000",
+      "name": "Macrohon"
+    }
+  },
+  {
+    "id": "0806408019",
+    "code": "0806408019",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806408000",
+      "code": "0806408000",
+      "name": "Macrohon"
+    }
+  },
+  {
+    "id": "0806408029",
+    "code": "0806408029",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806408000",
+      "code": "0806408000",
+      "name": "Macrohon"
+    }
+  },
+  {
+    "id": "0806408027",
+    "code": "0806408027",
+    "name": "San Vicente Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806408000",
+      "code": "0806408000",
+      "name": "Macrohon"
+    }
+  },
+  {
+    "id": "0806408030",
+    "code": "0806408030",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806408000",
+      "code": "0806408000",
+      "name": "Macrohon"
+    }
+  },
+  {
+    "id": "0806408028",
+    "code": "0806408028",
+    "name": "Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806408000",
+      "code": "0806408000",
+      "name": "Macrohon"
+    }
+  },
+  {
+    "id": "0806408031",
+    "code": "0806408031",
+    "name": "Santo Rosario",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806408000",
+      "code": "0806408000",
+      "name": "Macrohon"
+    }
+  },
+  {
+    "id": "0806408021",
+    "code": "0806408021",
+    "name": "Sindangan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806408000",
+      "code": "0806408000",
+      "name": "Macrohon"
+    }
+  },
+  {
+    "id": "0806408032",
+    "code": "0806408032",
+    "name": "Upper Ichon",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806408000",
+      "code": "0806408000",
+      "name": "Macrohon"
+    }
+  },
+  {
+    "id": "0806408022",
+    "code": "0806408022",
+    "name": "Upper Villa Jacinta",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806400000",
+      "code": "0806400000",
+      "name": "Southern Leyte"
+    },
+    "city_municipality": {
+      "id": "0806408000",
+      "code": "0806408000",
+      "name": "Macrohon"
+    }
+  }
+]

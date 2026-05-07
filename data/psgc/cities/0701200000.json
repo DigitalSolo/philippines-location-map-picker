@@ -1,0 +1,770 @@
+[
+  {
+    "id": "0701201000",
+    "code": "0701201000",
+    "name": "Alburquerque",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701202000",
+    "code": "0701202000",
+    "name": "Alicia",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701203000",
+    "code": "0701203000",
+    "name": "Anda",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701204000",
+    "code": "0701204000",
+    "name": "Antequera",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701205000",
+    "code": "0701205000",
+    "name": "Baclayon",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701206000",
+    "code": "0701206000",
+    "name": "Balilihan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701207000",
+    "code": "0701207000",
+    "name": "Batuan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701248000",
+    "code": "0701248000",
+    "name": "Bien Unido",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701208000",
+    "code": "0701208000",
+    "name": "Bilar",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701209000",
+    "code": "0701209000",
+    "name": "Buenavista",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701210000",
+    "code": "0701210000",
+    "name": "Calape",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701211000",
+    "code": "0701211000",
+    "name": "Candijay",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701212000",
+    "code": "0701212000",
+    "name": "Carmen",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701213000",
+    "code": "0701213000",
+    "name": "Catigbian",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701242000",
+    "code": "0701242000",
+    "name": "City of Tagbilaran",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701214000",
+    "code": "0701214000",
+    "name": "Clarin",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701215000",
+    "code": "0701215000",
+    "name": "Corella",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701216000",
+    "code": "0701216000",
+    "name": "Cortes",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701217000",
+    "code": "0701217000",
+    "name": "Dagohoy",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701218000",
+    "code": "0701218000",
+    "name": "Danao",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701219000",
+    "code": "0701219000",
+    "name": "Dauis",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701220000",
+    "code": "0701220000",
+    "name": "Dimiao",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701221000",
+    "code": "0701221000",
+    "name": "Duero",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701222000",
+    "code": "0701222000",
+    "name": "Garcia Hernandez",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701226000",
+    "code": "0701226000",
+    "name": "Getafe",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701223000",
+    "code": "0701223000",
+    "name": "Guindulman",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701224000",
+    "code": "0701224000",
+    "name": "Inabanga",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701225000",
+    "code": "0701225000",
+    "name": "Jagna",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701227000",
+    "code": "0701227000",
+    "name": "Lila",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701228000",
+    "code": "0701228000",
+    "name": "Loay",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701229000",
+    "code": "0701229000",
+    "name": "Loboc",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701230000",
+    "code": "0701230000",
+    "name": "Loon",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701231000",
+    "code": "0701231000",
+    "name": "Mabini",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701232000",
+    "code": "0701232000",
+    "name": "Maribojoc",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701233000",
+    "code": "0701233000",
+    "name": "Panglao",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701234000",
+    "code": "0701234000",
+    "name": "Pilar",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701235000",
+    "code": "0701235000",
+    "name": "President Carlos P. Garcia",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701236000",
+    "code": "0701236000",
+    "name": "Sagbayan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701237000",
+    "code": "0701237000",
+    "name": "San Isidro",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701238000",
+    "code": "0701238000",
+    "name": "San Miguel",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701239000",
+    "code": "0701239000",
+    "name": "Sevilla",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701240000",
+    "code": "0701240000",
+    "name": "Sierra Bullones",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701241000",
+    "code": "0701241000",
+    "name": "Sikatuna",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701243000",
+    "code": "0701243000",
+    "name": "Talibon",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701244000",
+    "code": "0701244000",
+    "name": "Trinidad",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701245000",
+    "code": "0701245000",
+    "name": "Tubigon",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701246000",
+    "code": "0701246000",
+    "name": "Ubay",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  },
+  {
+    "id": "0701247000",
+    "code": "0701247000",
+    "name": "Valencia",
+    "type": "city_municipality",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    }
+  }
+]

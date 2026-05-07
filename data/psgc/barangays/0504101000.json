@@ -1,0 +1,863 @@
+[
+  {
+    "id": "0504101001",
+    "code": "0504101001",
+    "name": "Ambolong",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504101000",
+      "code": "0504101000",
+      "name": "Aroroy"
+    }
+  },
+  {
+    "id": "0504101002",
+    "code": "0504101002",
+    "name": "Amoroy",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504101000",
+      "code": "0504101000",
+      "name": "Aroroy"
+    }
+  },
+  {
+    "id": "0504101003",
+    "code": "0504101003",
+    "name": "Amotag",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504101000",
+      "code": "0504101000",
+      "name": "Aroroy"
+    }
+  },
+  {
+    "id": "0504101004",
+    "code": "0504101004",
+    "name": "Bagauma",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504101000",
+      "code": "0504101000",
+      "name": "Aroroy"
+    }
+  },
+  {
+    "id": "0504101005",
+    "code": "0504101005",
+    "name": "Balawing",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504101000",
+      "code": "0504101000",
+      "name": "Aroroy"
+    }
+  },
+  {
+    "id": "0504101006",
+    "code": "0504101006",
+    "name": "Balete",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504101000",
+      "code": "0504101000",
+      "name": "Aroroy"
+    }
+  },
+  {
+    "id": "0504101007",
+    "code": "0504101007",
+    "name": "Bangon",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504101000",
+      "code": "0504101000",
+      "name": "Aroroy"
+    }
+  },
+  {
+    "id": "0504101008",
+    "code": "0504101008",
+    "name": "Cabangcalan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504101000",
+      "code": "0504101000",
+      "name": "Aroroy"
+    }
+  },
+  {
+    "id": "0504101009",
+    "code": "0504101009",
+    "name": "Cabas-An",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504101000",
+      "code": "0504101000",
+      "name": "Aroroy"
+    }
+  },
+  {
+    "id": "0504101010",
+    "code": "0504101010",
+    "name": "Calanay",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504101000",
+      "code": "0504101000",
+      "name": "Aroroy"
+    }
+  },
+  {
+    "id": "0504101011",
+    "code": "0504101011",
+    "name": "Capsay",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504101000",
+      "code": "0504101000",
+      "name": "Aroroy"
+    }
+  },
+  {
+    "id": "0504101012",
+    "code": "0504101012",
+    "name": "Concepcion",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504101000",
+      "code": "0504101000",
+      "name": "Aroroy"
+    }
+  },
+  {
+    "id": "0504101013",
+    "code": "0504101013",
+    "name": "Dayhagan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504101000",
+      "code": "0504101000",
+      "name": "Aroroy"
+    }
+  },
+  {
+    "id": "0504101014",
+    "code": "0504101014",
+    "name": "Don Pablo Dela Rosa",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504101000",
+      "code": "0504101000",
+      "name": "Aroroy"
+    }
+  },
+  {
+    "id": "0504101015",
+    "code": "0504101015",
+    "name": "Gumahang",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504101000",
+      "code": "0504101000",
+      "name": "Aroroy"
+    }
+  },
+  {
+    "id": "0504101016",
+    "code": "0504101016",
+    "name": "Jaboyoan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504101000",
+      "code": "0504101000",
+      "name": "Aroroy"
+    }
+  },
+  {
+    "id": "0504101017",
+    "code": "0504101017",
+    "name": "Lanang",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504101000",
+      "code": "0504101000",
+      "name": "Aroroy"
+    }
+  },
+  {
+    "id": "0504101018",
+    "code": "0504101018",
+    "name": "Luy-a",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504101000",
+      "code": "0504101000",
+      "name": "Aroroy"
+    }
+  },
+  {
+    "id": "0504101019",
+    "code": "0504101019",
+    "name": "Macabug",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504101000",
+      "code": "0504101000",
+      "name": "Aroroy"
+    }
+  },
+  {
+    "id": "0504101020",
+    "code": "0504101020",
+    "name": "Malubi",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504101000",
+      "code": "0504101000",
+      "name": "Aroroy"
+    }
+  },
+  {
+    "id": "0504101021",
+    "code": "0504101021",
+    "name": "Managanaga",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504101000",
+      "code": "0504101000",
+      "name": "Aroroy"
+    }
+  },
+  {
+    "id": "0504101022",
+    "code": "0504101022",
+    "name": "Manamoc",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504101000",
+      "code": "0504101000",
+      "name": "Aroroy"
+    }
+  },
+  {
+    "id": "0504101023",
+    "code": "0504101023",
+    "name": "Mariposa",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504101000",
+      "code": "0504101000",
+      "name": "Aroroy"
+    }
+  },
+  {
+    "id": "0504101024",
+    "code": "0504101024",
+    "name": "Mataba",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504101000",
+      "code": "0504101000",
+      "name": "Aroroy"
+    }
+  },
+  {
+    "id": "0504101025",
+    "code": "0504101025",
+    "name": "Matalangtalang",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504101000",
+      "code": "0504101000",
+      "name": "Aroroy"
+    }
+  },
+  {
+    "id": "0504101026",
+    "code": "0504101026",
+    "name": "Matongog",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504101000",
+      "code": "0504101000",
+      "name": "Aroroy"
+    }
+  },
+  {
+    "id": "0504101027",
+    "code": "0504101027",
+    "name": "Nabongsoran",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504101000",
+      "code": "0504101000",
+      "name": "Aroroy"
+    }
+  },
+  {
+    "id": "0504101028",
+    "code": "0504101028",
+    "name": "Pangle",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504101000",
+      "code": "0504101000",
+      "name": "Aroroy"
+    }
+  },
+  {
+    "id": "0504101029",
+    "code": "0504101029",
+    "name": "Panique",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504101000",
+      "code": "0504101000",
+      "name": "Aroroy"
+    }
+  },
+  {
+    "id": "0504101030",
+    "code": "0504101030",
+    "name": "Pinanaan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504101000",
+      "code": "0504101000",
+      "name": "Aroroy"
+    }
+  },
+  {
+    "id": "0504101031",
+    "code": "0504101031",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504101000",
+      "code": "0504101000",
+      "name": "Aroroy"
+    }
+  },
+  {
+    "id": "0504101032",
+    "code": "0504101032",
+    "name": "Puro",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504101000",
+      "code": "0504101000",
+      "name": "Aroroy"
+    }
+  },
+  {
+    "id": "0504101033",
+    "code": "0504101033",
+    "name": "San Agustin",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504101000",
+      "code": "0504101000",
+      "name": "Aroroy"
+    }
+  },
+  {
+    "id": "0504101034",
+    "code": "0504101034",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504101000",
+      "code": "0504101000",
+      "name": "Aroroy"
+    }
+  },
+  {
+    "id": "0504101035",
+    "code": "0504101035",
+    "name": "Sawang",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504101000",
+      "code": "0504101000",
+      "name": "Aroroy"
+    }
+  },
+  {
+    "id": "0504101036",
+    "code": "0504101036",
+    "name": "Syndicate",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504101000",
+      "code": "0504101000",
+      "name": "Aroroy"
+    }
+  },
+  {
+    "id": "0504101037",
+    "code": "0504101037",
+    "name": "Talabaan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504101000",
+      "code": "0504101000",
+      "name": "Aroroy"
+    }
+  },
+  {
+    "id": "0504101038",
+    "code": "0504101038",
+    "name": "Talib",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504101000",
+      "code": "0504101000",
+      "name": "Aroroy"
+    }
+  },
+  {
+    "id": "0504101039",
+    "code": "0504101039",
+    "name": "Tigbao",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504101000",
+      "code": "0504101000",
+      "name": "Aroroy"
+    }
+  },
+  {
+    "id": "0504101040",
+    "code": "0504101040",
+    "name": "Tinago",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504101000",
+      "code": "0504101000",
+      "name": "Aroroy"
+    }
+  },
+  {
+    "id": "0504101041",
+    "code": "0504101041",
+    "name": "Tinigban",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0504100000",
+      "code": "0504100000",
+      "name": "Masbate"
+    },
+    "city_municipality": {
+      "id": "0504101000",
+      "code": "0504101000",
+      "name": "Aroroy"
+    }
+  }
+]

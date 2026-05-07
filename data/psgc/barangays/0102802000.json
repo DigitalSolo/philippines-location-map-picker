@@ -1,0 +1,905 @@
+[
+  {
+    "id": "0102802001",
+    "code": "0102802001",
+    "name": "Bani",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102802000",
+      "code": "0102802000",
+      "name": "Bacarra"
+    }
+  },
+  {
+    "id": "0102802002",
+    "code": "0102802002",
+    "name": "Buyon",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102802000",
+      "code": "0102802000",
+      "name": "Bacarra"
+    }
+  },
+  {
+    "id": "0102802003",
+    "code": "0102802003",
+    "name": "Cabaruan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102802000",
+      "code": "0102802000",
+      "name": "Bacarra"
+    }
+  },
+  {
+    "id": "0102802004",
+    "code": "0102802004",
+    "name": "Cabulalaan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102802000",
+      "code": "0102802000",
+      "name": "Bacarra"
+    }
+  },
+  {
+    "id": "0102802005",
+    "code": "0102802005",
+    "name": "Cabusligan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102802000",
+      "code": "0102802000",
+      "name": "Bacarra"
+    }
+  },
+  {
+    "id": "0102802006",
+    "code": "0102802006",
+    "name": "Cadaratan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102802000",
+      "code": "0102802000",
+      "name": "Bacarra"
+    }
+  },
+  {
+    "id": "0102802007",
+    "code": "0102802007",
+    "name": "Calioet-Libong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102802000",
+      "code": "0102802000",
+      "name": "Bacarra"
+    }
+  },
+  {
+    "id": "0102802008",
+    "code": "0102802008",
+    "name": "Casilian",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102802000",
+      "code": "0102802000",
+      "name": "Bacarra"
+    }
+  },
+  {
+    "id": "0102802009",
+    "code": "0102802009",
+    "name": "Corocor",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102802000",
+      "code": "0102802000",
+      "name": "Bacarra"
+    }
+  },
+  {
+    "id": "0102802011",
+    "code": "0102802011",
+    "name": "Duripes",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102802000",
+      "code": "0102802000",
+      "name": "Bacarra"
+    }
+  },
+  {
+    "id": "0102802012",
+    "code": "0102802012",
+    "name": "Ganagan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102802000",
+      "code": "0102802000",
+      "name": "Bacarra"
+    }
+  },
+  {
+    "id": "0102802013",
+    "code": "0102802013",
+    "name": "Libtong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102802000",
+      "code": "0102802000",
+      "name": "Bacarra"
+    }
+  },
+  {
+    "id": "0102802014",
+    "code": "0102802014",
+    "name": "Macupit",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102802000",
+      "code": "0102802000",
+      "name": "Bacarra"
+    }
+  },
+  {
+    "id": "0102802015",
+    "code": "0102802015",
+    "name": "Nambaran",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102802000",
+      "code": "0102802000",
+      "name": "Bacarra"
+    }
+  },
+  {
+    "id": "0102802016",
+    "code": "0102802016",
+    "name": "Natba",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102802000",
+      "code": "0102802000",
+      "name": "Bacarra"
+    }
+  },
+  {
+    "id": "0102802017",
+    "code": "0102802017",
+    "name": "Paninaan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102802000",
+      "code": "0102802000",
+      "name": "Bacarra"
+    }
+  },
+  {
+    "id": "0102802018",
+    "code": "0102802018",
+    "name": "Pasiocan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102802000",
+      "code": "0102802000",
+      "name": "Bacarra"
+    }
+  },
+  {
+    "id": "0102802019",
+    "code": "0102802019",
+    "name": "Pasngal",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102802000",
+      "code": "0102802000",
+      "name": "Bacarra"
+    }
+  },
+  {
+    "id": "0102802020",
+    "code": "0102802020",
+    "name": "Pipias",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102802000",
+      "code": "0102802000",
+      "name": "Bacarra"
+    }
+  },
+  {
+    "id": "0102802021",
+    "code": "0102802021",
+    "name": "Pulangi",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102802000",
+      "code": "0102802000",
+      "name": "Bacarra"
+    }
+  },
+  {
+    "id": "0102802022",
+    "code": "0102802022",
+    "name": "Pungto",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102802000",
+      "code": "0102802000",
+      "name": "Bacarra"
+    }
+  },
+  {
+    "id": "0102802024",
+    "code": "0102802024",
+    "name": "San Agustin I",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102802000",
+      "code": "0102802000",
+      "name": "Bacarra"
+    }
+  },
+  {
+    "id": "0102802025",
+    "code": "0102802025",
+    "name": "San Agustin II",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102802000",
+      "code": "0102802000",
+      "name": "Bacarra"
+    }
+  },
+  {
+    "id": "0102802027",
+    "code": "0102802027",
+    "name": "San Andres I",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102802000",
+      "code": "0102802000",
+      "name": "Bacarra"
+    }
+  },
+  {
+    "id": "0102802028",
+    "code": "0102802028",
+    "name": "San Andres II",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102802000",
+      "code": "0102802000",
+      "name": "Bacarra"
+    }
+  },
+  {
+    "id": "0102802030",
+    "code": "0102802030",
+    "name": "San Gabriel I",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102802000",
+      "code": "0102802000",
+      "name": "Bacarra"
+    }
+  },
+  {
+    "id": "0102802031",
+    "code": "0102802031",
+    "name": "San Gabriel II",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102802000",
+      "code": "0102802000",
+      "name": "Bacarra"
+    }
+  },
+  {
+    "id": "0102802033",
+    "code": "0102802033",
+    "name": "San Pedro I",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102802000",
+      "code": "0102802000",
+      "name": "Bacarra"
+    }
+  },
+  {
+    "id": "0102802034",
+    "code": "0102802034",
+    "name": "San Pedro II",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102802000",
+      "code": "0102802000",
+      "name": "Bacarra"
+    }
+  },
+  {
+    "id": "0102802036",
+    "code": "0102802036",
+    "name": "San Roque I",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102802000",
+      "code": "0102802000",
+      "name": "Bacarra"
+    }
+  },
+  {
+    "id": "0102802037",
+    "code": "0102802037",
+    "name": "San Roque II",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102802000",
+      "code": "0102802000",
+      "name": "Bacarra"
+    }
+  },
+  {
+    "id": "0102802039",
+    "code": "0102802039",
+    "name": "San Simon I",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102802000",
+      "code": "0102802000",
+      "name": "Bacarra"
+    }
+  },
+  {
+    "id": "0102802040",
+    "code": "0102802040",
+    "name": "San Simon II",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102802000",
+      "code": "0102802000",
+      "name": "Bacarra"
+    }
+  },
+  {
+    "id": "0102802041",
+    "code": "0102802041",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102802000",
+      "code": "0102802000",
+      "name": "Bacarra"
+    }
+  },
+  {
+    "id": "0102802042",
+    "code": "0102802042",
+    "name": "Sangil",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102802000",
+      "code": "0102802000",
+      "name": "Bacarra"
+    }
+  },
+  {
+    "id": "0102802044",
+    "code": "0102802044",
+    "name": "Santa Filomena I",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102802000",
+      "code": "0102802000",
+      "name": "Bacarra"
+    }
+  },
+  {
+    "id": "0102802045",
+    "code": "0102802045",
+    "name": "Santa Filomena II",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102802000",
+      "code": "0102802000",
+      "name": "Bacarra"
+    }
+  },
+  {
+    "id": "0102802046",
+    "code": "0102802046",
+    "name": "Santa Rita",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102802000",
+      "code": "0102802000",
+      "name": "Bacarra"
+    }
+  },
+  {
+    "id": "0102802047",
+    "code": "0102802047",
+    "name": "Santo Cristo I",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102802000",
+      "code": "0102802000",
+      "name": "Bacarra"
+    }
+  },
+  {
+    "id": "0102802048",
+    "code": "0102802048",
+    "name": "Santo Cristo II",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102802000",
+      "code": "0102802000",
+      "name": "Bacarra"
+    }
+  },
+  {
+    "id": "0102802050",
+    "code": "0102802050",
+    "name": "Tambidao",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102802000",
+      "code": "0102802000",
+      "name": "Bacarra"
+    }
+  },
+  {
+    "id": "0102802051",
+    "code": "0102802051",
+    "name": "Teppang",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102802000",
+      "code": "0102802000",
+      "name": "Bacarra"
+    }
+  },
+  {
+    "id": "0102802052",
+    "code": "0102802052",
+    "name": "Tubburan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102802000",
+      "code": "0102802000",
+      "name": "Bacarra"
+    }
+  }
+]

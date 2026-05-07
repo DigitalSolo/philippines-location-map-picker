@@ -1,0 +1,254 @@
+[
+  {
+    "id": "1400115001",
+    "code": "1400115001",
+    "name": "Bayabas",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400115000",
+      "code": "1400115000",
+      "name": "Malibcong"
+    }
+  },
+  {
+    "id": "1400115002",
+    "code": "1400115002",
+    "name": "Binasaran",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400115000",
+      "code": "1400115000",
+      "name": "Malibcong"
+    }
+  },
+  {
+    "id": "1400115003",
+    "code": "1400115003",
+    "name": "Buanao",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400115000",
+      "code": "1400115000",
+      "name": "Malibcong"
+    }
+  },
+  {
+    "id": "1400115004",
+    "code": "1400115004",
+    "name": "Dulao",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400115000",
+      "code": "1400115000",
+      "name": "Malibcong"
+    }
+  },
+  {
+    "id": "1400115005",
+    "code": "1400115005",
+    "name": "Duldulao",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400115000",
+      "code": "1400115000",
+      "name": "Malibcong"
+    }
+  },
+  {
+    "id": "1400115006",
+    "code": "1400115006",
+    "name": "Gacab",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400115000",
+      "code": "1400115000",
+      "name": "Malibcong"
+    }
+  },
+  {
+    "id": "1400115007",
+    "code": "1400115007",
+    "name": "Lat-ey",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400115000",
+      "code": "1400115000",
+      "name": "Malibcong"
+    }
+  },
+  {
+    "id": "1400115008",
+    "code": "1400115008",
+    "name": "Malibcong",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400115000",
+      "code": "1400115000",
+      "name": "Malibcong"
+    }
+  },
+  {
+    "id": "1400115009",
+    "code": "1400115009",
+    "name": "Mataragan",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400115000",
+      "code": "1400115000",
+      "name": "Malibcong"
+    }
+  },
+  {
+    "id": "1400115010",
+    "code": "1400115010",
+    "name": "Pacgued",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400115000",
+      "code": "1400115000",
+      "name": "Malibcong"
+    }
+  },
+  {
+    "id": "1400115011",
+    "code": "1400115011",
+    "name": "Taripan",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400115000",
+      "code": "1400115000",
+      "name": "Malibcong"
+    }
+  },
+  {
+    "id": "1400115012",
+    "code": "1400115012",
+    "name": "Umnap",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400115000",
+      "code": "1400115000",
+      "name": "Malibcong"
+    }
+  }
+]

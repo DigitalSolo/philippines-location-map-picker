@@ -1,0 +1,23 @@
+[
+  {
+    "id": "0102801001",
+    "code": "0102801001",
+    "name": "Adams",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102801000",
+      "code": "0102801000",
+      "name": "Adams"
+    }
+  }
+]

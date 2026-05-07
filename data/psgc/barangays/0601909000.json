@@ -1,0 +1,884 @@
+[
+  {
+    "id": "0601909001",
+    "code": "0601909001",
+    "name": "Agbalo",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601909000",
+      "code": "0601909000",
+      "name": "Panay"
+    }
+  },
+  {
+    "id": "0601909002",
+    "code": "0601909002",
+    "name": "Agbanban",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601909000",
+      "code": "0601909000",
+      "name": "Panay"
+    }
+  },
+  {
+    "id": "0601909003",
+    "code": "0601909003",
+    "name": "Agojo",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601909000",
+      "code": "0601909000",
+      "name": "Panay"
+    }
+  },
+  {
+    "id": "0601909004",
+    "code": "0601909004",
+    "name": "Anhawon",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601909000",
+      "code": "0601909000",
+      "name": "Panay"
+    }
+  },
+  {
+    "id": "0601909005",
+    "code": "0601909005",
+    "name": "Bagacay",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601909000",
+      "code": "0601909000",
+      "name": "Panay"
+    }
+  },
+  {
+    "id": "0601909006",
+    "code": "0601909006",
+    "name": "Bago Chiquito",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601909000",
+      "code": "0601909000",
+      "name": "Panay"
+    }
+  },
+  {
+    "id": "0601909007",
+    "code": "0601909007",
+    "name": "Bago Grande",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601909000",
+      "code": "0601909000",
+      "name": "Panay"
+    }
+  },
+  {
+    "id": "0601909008",
+    "code": "0601909008",
+    "name": "Bahit",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601909000",
+      "code": "0601909000",
+      "name": "Panay"
+    }
+  },
+  {
+    "id": "0601909009",
+    "code": "0601909009",
+    "name": "Bantique",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601909000",
+      "code": "0601909000",
+      "name": "Panay"
+    }
+  },
+  {
+    "id": "0601909010",
+    "code": "0601909010",
+    "name": "Bato",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601909000",
+      "code": "0601909000",
+      "name": "Panay"
+    }
+  },
+  {
+    "id": "0601909011",
+    "code": "0601909011",
+    "name": "Binangig",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601909000",
+      "code": "0601909000",
+      "name": "Panay"
+    }
+  },
+  {
+    "id": "0601909012",
+    "code": "0601909012",
+    "name": "Binantuan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601909000",
+      "code": "0601909000",
+      "name": "Panay"
+    }
+  },
+  {
+    "id": "0601909013",
+    "code": "0601909013",
+    "name": "Bonga",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601909000",
+      "code": "0601909000",
+      "name": "Panay"
+    }
+  },
+  {
+    "id": "0601909014",
+    "code": "0601909014",
+    "name": "Buntod",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601909000",
+      "code": "0601909000",
+      "name": "Panay"
+    }
+  },
+  {
+    "id": "0601909015",
+    "code": "0601909015",
+    "name": "Butacal",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601909000",
+      "code": "0601909000",
+      "name": "Panay"
+    }
+  },
+  {
+    "id": "0601909016",
+    "code": "0601909016",
+    "name": "Cabugao Este",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601909000",
+      "code": "0601909000",
+      "name": "Panay"
+    }
+  },
+  {
+    "id": "0601909017",
+    "code": "0601909017",
+    "name": "Cabugao Oeste",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601909000",
+      "code": "0601909000",
+      "name": "Panay"
+    }
+  },
+  {
+    "id": "0601909018",
+    "code": "0601909018",
+    "name": "Calapawan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601909000",
+      "code": "0601909000",
+      "name": "Panay"
+    }
+  },
+  {
+    "id": "0601909019",
+    "code": "0601909019",
+    "name": "Calitan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601909000",
+      "code": "0601909000",
+      "name": "Panay"
+    }
+  },
+  {
+    "id": "0601909020",
+    "code": "0601909020",
+    "name": "Candual",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601909000",
+      "code": "0601909000",
+      "name": "Panay"
+    }
+  },
+  {
+    "id": "0601909021",
+    "code": "0601909021",
+    "name": "Cogon",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601909000",
+      "code": "0601909000",
+      "name": "Panay"
+    }
+  },
+  {
+    "id": "0601909022",
+    "code": "0601909022",
+    "name": "Daga",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601909000",
+      "code": "0601909000",
+      "name": "Panay"
+    }
+  },
+  {
+    "id": "0601909023",
+    "code": "0601909023",
+    "name": "Ilamnay",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601909000",
+      "code": "0601909000",
+      "name": "Panay"
+    }
+  },
+  {
+    "id": "0601909024",
+    "code": "0601909024",
+    "name": "Jamul-awon",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601909000",
+      "code": "0601909000",
+      "name": "Panay"
+    }
+  },
+  {
+    "id": "0601909025",
+    "code": "0601909025",
+    "name": "Lanipga",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601909000",
+      "code": "0601909000",
+      "name": "Panay"
+    }
+  },
+  {
+    "id": "0601909026",
+    "code": "0601909026",
+    "name": "Lat-Asan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601909000",
+      "code": "0601909000",
+      "name": "Panay"
+    }
+  },
+  {
+    "id": "0601909027",
+    "code": "0601909027",
+    "name": "Libon",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601909000",
+      "code": "0601909000",
+      "name": "Panay"
+    }
+  },
+  {
+    "id": "0601909028",
+    "code": "0601909028",
+    "name": "Linao",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601909000",
+      "code": "0601909000",
+      "name": "Panay"
+    }
+  },
+  {
+    "id": "0601909029",
+    "code": "0601909029",
+    "name": "Linateran",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601909000",
+      "code": "0601909000",
+      "name": "Panay"
+    }
+  },
+  {
+    "id": "0601909030",
+    "code": "0601909030",
+    "name": "Lomboy",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601909000",
+      "code": "0601909000",
+      "name": "Panay"
+    }
+  },
+  {
+    "id": "0601909031",
+    "code": "0601909031",
+    "name": "Lus-Onan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601909000",
+      "code": "0601909000",
+      "name": "Panay"
+    }
+  },
+  {
+    "id": "0601909032",
+    "code": "0601909032",
+    "name": "Magubilan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601909000",
+      "code": "0601909000",
+      "name": "Panay"
+    }
+  },
+  {
+    "id": "0601909033",
+    "code": "0601909033",
+    "name": "Navitas",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601909000",
+      "code": "0601909000",
+      "name": "Panay"
+    }
+  },
+  {
+    "id": "0601909034",
+    "code": "0601909034",
+    "name": "Pawa",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601909000",
+      "code": "0601909000",
+      "name": "Panay"
+    }
+  },
+  {
+    "id": "0601909035",
+    "code": "0601909035",
+    "name": "Pili",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601909000",
+      "code": "0601909000",
+      "name": "Panay"
+    }
+  },
+  {
+    "id": "0601909036",
+    "code": "0601909036",
+    "name": "Poblacion Ilawod",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601909000",
+      "code": "0601909000",
+      "name": "Panay"
+    }
+  },
+  {
+    "id": "0601909037",
+    "code": "0601909037",
+    "name": "Poblacion Ilaya",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601909000",
+      "code": "0601909000",
+      "name": "Panay"
+    }
+  },
+  {
+    "id": "0601909038",
+    "code": "0601909038",
+    "name": "Poblacion Tabuc",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601909000",
+      "code": "0601909000",
+      "name": "Panay"
+    }
+  },
+  {
+    "id": "0601909039",
+    "code": "0601909039",
+    "name": "Talasa",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601909000",
+      "code": "0601909000",
+      "name": "Panay"
+    }
+  },
+  {
+    "id": "0601909040",
+    "code": "0601909040",
+    "name": "Tanza Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601909000",
+      "code": "0601909000",
+      "name": "Panay"
+    }
+  },
+  {
+    "id": "0601909041",
+    "code": "0601909041",
+    "name": "Tanza Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601909000",
+      "code": "0601909000",
+      "name": "Panay"
+    }
+  },
+  {
+    "id": "0601909042",
+    "code": "0601909042",
+    "name": "Tico",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0601900000",
+      "code": "0601900000",
+      "name": "Capiz"
+    },
+    "city_municipality": {
+      "id": "0601909000",
+      "code": "0601909000",
+      "name": "Panay"
+    }
+  }
+]

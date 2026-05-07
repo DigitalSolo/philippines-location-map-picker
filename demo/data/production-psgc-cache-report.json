@@ -1,0 +1,71 @@
+{
+  "generatedAt": "2026-05-07T09:27:23.891Z",
+  "source": "file",
+  "out": "data/psgc",
+  "thresholds": {
+    "regions": 18,
+    "provinces": 82,
+    "citiesAndMunicipalities": 1642,
+    "barangays": 42010
+  },
+  "sourceMetadata": {
+    "reference": {
+      "asOf": "2026-03-31",
+      "releaseName": "PSGC 1Q 2026 Publication Datafile",
+      "source": "Philippine Statistics Authority Philippine Standard Geographic Code as of 31 March 2026",
+      "sourceUrl": "https://psa.gov.ph/classification/psgc/",
+      "notes": [
+        "Thresholds are based on the PSA-published 31 March 2026 totals.",
+        "City/municipality threshold combines 33 Highly Urbanized Cities, 116 other cities, and 1,493 municipalities.",
+        "Barangay threshold reflects the PSA-published 42,010 barangays as of 31 March 2026."
+      ]
+    },
+    "expectedTotals": {
+      "regions": 18,
+      "provinces": 82,
+      "highlyUrbanizedCities": 33,
+      "otherCities": 116,
+      "municipalities": 1493,
+      "citiesAndMunicipalities": 1642,
+      "barangays": 42010
+    },
+    "thresholds": {
+      "regions": 18,
+      "provinces": 82,
+      "citiesAndMunicipalities": 1642,
+      "barangays": 42010,
+      "barangayPolygons": 42010
+    }
+  },
+  "counts": {
+    "regions": 18,
+    "provinceFiles": 17,
+    "provinces": 84,
+    "cityFiles": 98,
+    "citiesAndMunicipalities": 1656,
+    "barangayFiles": 1655,
+    "barangays": 42010
+  },
+  "productionHierarchyReady": true,
+  "commands": [
+    {
+      "script": "validate-psgc-source.js",
+      "command": "node tools/validate-psgc-source.js --input /mnt/data/PSGC-1Q-2026-Publication-Datafile-padded.csv --report data/psgc-source-validation-report.json",
+      "status": 0,
+      "stdout": "PSGC source validation: OK\nInput: /mnt/data/PSGC-1Q-2026-Publication-Datafile-padded.csv\nRows: 43768\nRegions: 18\nProvinces: 84\nCities/municipalities: 1656\nBarangays: 42010\nWarnings: 922\nFailures: 0\nWrote data/psgc-source-validation-report.json",
+      "stderr": "",
+      "ok": true
+    },
+    {
+      "script": "import-psgc.js",
+      "command": "node tools/import-psgc.js --input /mnt/data/PSGC-1Q-2026-Publication-Datafile-padded.csv --out data/psgc --reset 0",
+      "status": 0,
+      "stdout": "PSGC flat-file import: OK\nInput: /mnt/data/PSGC-1Q-2026-Publication-Datafile-padded.csv\nOutput: data/psgc\nRegions: 18\nProvinces: 84\nCities/municipalities: 1656\nBarangays: 42010\nWarnings: 0\nFailures: 0\nWrote data/psgc/import-psgc-report.json",
+      "stderr": "",
+      "ok": true
+    }
+  ],
+  "warnings": [],
+  "failures": [],
+  "ok": true
+}

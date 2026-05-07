@@ -1,0 +1,422 @@
+[
+  {
+    "id": "1804521001",
+    "code": "1804521001",
+    "name": "Antipolo",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804521000",
+      "code": "1804521000",
+      "name": "Pontevedra"
+    }
+  },
+  {
+    "id": "1804521002",
+    "code": "1804521002",
+    "name": "Barangay I",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804521000",
+      "code": "1804521000",
+      "name": "Pontevedra"
+    }
+  },
+  {
+    "id": "1804521003",
+    "code": "1804521003",
+    "name": "Barangay II",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804521000",
+      "code": "1804521000",
+      "name": "Pontevedra"
+    }
+  },
+  {
+    "id": "1804521004",
+    "code": "1804521004",
+    "name": "Barangay III",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804521000",
+      "code": "1804521000",
+      "name": "Pontevedra"
+    }
+  },
+  {
+    "id": "1804521006",
+    "code": "1804521006",
+    "name": "Buenavista Gibong",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804521000",
+      "code": "1804521000",
+      "name": "Pontevedra"
+    }
+  },
+  {
+    "id": "1804521007",
+    "code": "1804521007",
+    "name": "Buenavista Rizal",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804521000",
+      "code": "1804521000",
+      "name": "Pontevedra"
+    }
+  },
+  {
+    "id": "1804521008",
+    "code": "1804521008",
+    "name": "Burgos",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804521000",
+      "code": "1804521000",
+      "name": "Pontevedra"
+    }
+  },
+  {
+    "id": "1804521009",
+    "code": "1804521009",
+    "name": "Cambarus",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804521000",
+      "code": "1804521000",
+      "name": "Pontevedra"
+    }
+  },
+  {
+    "id": "1804521010",
+    "code": "1804521010",
+    "name": "Canroma",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804521000",
+      "code": "1804521000",
+      "name": "Pontevedra"
+    }
+  },
+  {
+    "id": "1804521011",
+    "code": "1804521011",
+    "name": "Don Salvador Benedicto",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804521000",
+      "code": "1804521000",
+      "name": "Pontevedra"
+    }
+  },
+  {
+    "id": "1804521012",
+    "code": "1804521012",
+    "name": "General Malvar",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804521000",
+      "code": "1804521000",
+      "name": "Pontevedra"
+    }
+  },
+  {
+    "id": "1804521013",
+    "code": "1804521013",
+    "name": "Gomez",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804521000",
+      "code": "1804521000",
+      "name": "Pontevedra"
+    }
+  },
+  {
+    "id": "1804521014",
+    "code": "1804521014",
+    "name": "M. H. Del Pilar",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804521000",
+      "code": "1804521000",
+      "name": "Pontevedra"
+    }
+  },
+  {
+    "id": "1804521015",
+    "code": "1804521015",
+    "name": "Mabini",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804521000",
+      "code": "1804521000",
+      "name": "Pontevedra"
+    }
+  },
+  {
+    "id": "1804521016",
+    "code": "1804521016",
+    "name": "Miranda",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804521000",
+      "code": "1804521000",
+      "name": "Pontevedra"
+    }
+  },
+  {
+    "id": "1804521017",
+    "code": "1804521017",
+    "name": "Pandan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804521000",
+      "code": "1804521000",
+      "name": "Pontevedra"
+    }
+  },
+  {
+    "id": "1804521018",
+    "code": "1804521018",
+    "name": "Recreo",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804521000",
+      "code": "1804521000",
+      "name": "Pontevedra"
+    }
+  },
+  {
+    "id": "1804521019",
+    "code": "1804521019",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804521000",
+      "code": "1804521000",
+      "name": "Pontevedra"
+    }
+  },
+  {
+    "id": "1804521020",
+    "code": "1804521020",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804521000",
+      "code": "1804521000",
+      "name": "Pontevedra"
+    }
+  },
+  {
+    "id": "1804521021",
+    "code": "1804521021",
+    "name": "Zamora",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804521000",
+      "code": "1804521000",
+      "name": "Pontevedra"
+    }
+  }
+]

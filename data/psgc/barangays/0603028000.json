@@ -1,0 +1,1787 @@
+[
+  {
+    "id": "0603028001",
+    "code": "0603028001",
+    "name": "Agboy Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028002",
+    "code": "0603028002",
+    "name": "Agboy Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028003",
+    "code": "0603028003",
+    "name": "Agta",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028004",
+    "code": "0603028004",
+    "name": "Ambulong",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028005",
+    "code": "0603028005",
+    "name": "Anonang",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028006",
+    "code": "0603028006",
+    "name": "Apian",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028007",
+    "code": "0603028007",
+    "name": "Avanzada",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028008",
+    "code": "0603028008",
+    "name": "Awis",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028009",
+    "code": "0603028009",
+    "name": "Ayabang",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028010",
+    "code": "0603028010",
+    "name": "Ayubo",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028011",
+    "code": "0603028011",
+    "name": "Bacolod",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028012",
+    "code": "0603028012",
+    "name": "Baje",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028013",
+    "code": "0603028013",
+    "name": "Banagan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028014",
+    "code": "0603028014",
+    "name": "Barangbang",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028015",
+    "code": "0603028015",
+    "name": "Barasan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028016",
+    "code": "0603028016",
+    "name": "Bayag Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028017",
+    "code": "0603028017",
+    "name": "Bayag Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028018",
+    "code": "0603028018",
+    "name": "Binolbog",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028019",
+    "code": "0603028019",
+    "name": "Biri Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028020",
+    "code": "0603028020",
+    "name": "Biri Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028021",
+    "code": "0603028021",
+    "name": "Bobon",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028022",
+    "code": "0603028022",
+    "name": "Bucari",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028023",
+    "code": "0603028023",
+    "name": "Buenavista",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028024",
+    "code": "0603028024",
+    "name": "Buga",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028025",
+    "code": "0603028025",
+    "name": "Bulad",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028026",
+    "code": "0603028026",
+    "name": "Bulwang",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028027",
+    "code": "0603028027",
+    "name": "Cabolo-an",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028028",
+    "code": "0603028028",
+    "name": "Cabunga-an",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028029",
+    "code": "0603028029",
+    "name": "Cabutongan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028030",
+    "code": "0603028030",
+    "name": "Cagay",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028031",
+    "code": "0603028031",
+    "name": "Camandag",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028032",
+    "code": "0603028032",
+    "name": "Camando",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028033",
+    "code": "0603028033",
+    "name": "Cananaman",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028034",
+    "code": "0603028034",
+    "name": "Capt. Fernando",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028035",
+    "code": "0603028035",
+    "name": "Carara-an",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028036",
+    "code": "0603028036",
+    "name": "Carolina",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028037",
+    "code": "0603028037",
+    "name": "Cawilihan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028038",
+    "code": "0603028038",
+    "name": "Coyugan Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028039",
+    "code": "0603028039",
+    "name": "Coyugan Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028040",
+    "code": "0603028040",
+    "name": "Danao",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028041",
+    "code": "0603028041",
+    "name": "Dorog",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028042",
+    "code": "0603028042",
+    "name": "Dusacan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028043",
+    "code": "0603028043",
+    "name": "Gines",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028044",
+    "code": "0603028044",
+    "name": "Gumboc",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028045",
+    "code": "0603028045",
+    "name": "Igcadios",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028046",
+    "code": "0603028046",
+    "name": "Ingay",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028047",
+    "code": "0603028047",
+    "name": "Isian Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028048",
+    "code": "0603028048",
+    "name": "Isian Victoria",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028049",
+    "code": "0603028049",
+    "name": "Jamog Gines",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028054",
+    "code": "0603028054",
+    "name": "Lampaya",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028050",
+    "code": "0603028050",
+    "name": "Lanag",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028051",
+    "code": "0603028051",
+    "name": "Lang-og",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028052",
+    "code": "0603028052",
+    "name": "Ligtos",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028053",
+    "code": "0603028053",
+    "name": "Lonoc",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028055",
+    "code": "0603028055",
+    "name": "Magcapay",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028056",
+    "code": "0603028056",
+    "name": "Maliao",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028057",
+    "code": "0603028057",
+    "name": "Malublub",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028058",
+    "code": "0603028058",
+    "name": "Manampunay",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028059",
+    "code": "0603028059",
+    "name": "Marirong",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028060",
+    "code": "0603028060",
+    "name": "Mina",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028061",
+    "code": "0603028061",
+    "name": "Mocol",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028062",
+    "code": "0603028062",
+    "name": "Nagbangi",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028063",
+    "code": "0603028063",
+    "name": "Nalbang",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028064",
+    "code": "0603028064",
+    "name": "Odong-odong",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028065",
+    "code": "0603028065",
+    "name": "Oluangan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028066",
+    "code": "0603028066",
+    "name": "Omambong",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028072",
+    "code": "0603028072",
+    "name": "Paga",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028068",
+    "code": "0603028068",
+    "name": "Pandan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028069",
+    "code": "0603028069",
+    "name": "Panginman",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028067",
+    "code": "0603028067",
+    "name": "Paoy",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028070",
+    "code": "0603028070",
+    "name": "Pepe",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028071",
+    "code": "0603028071",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028073",
+    "code": "0603028073",
+    "name": "Salngan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028074",
+    "code": "0603028074",
+    "name": "Samlague",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028075",
+    "code": "0603028075",
+    "name": "Siol Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028076",
+    "code": "0603028076",
+    "name": "Siol Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028077",
+    "code": "0603028077",
+    "name": "Tacuyong Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028078",
+    "code": "0603028078",
+    "name": "Tacuyong Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028079",
+    "code": "0603028079",
+    "name": "Tagsing",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028080",
+    "code": "0603028080",
+    "name": "Talacuan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028081",
+    "code": "0603028081",
+    "name": "Ticuan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028082",
+    "code": "0603028082",
+    "name": "Tina-an Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028083",
+    "code": "0603028083",
+    "name": "Tina-an Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028085",
+    "code": "0603028085",
+    "name": "Tu-og",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  },
+  {
+    "id": "0603028084",
+    "code": "0603028084",
+    "name": "Tunguan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0603000000",
+      "code": "0603000000",
+      "name": "Iloilo"
+    },
+    "city_municipality": {
+      "id": "0603028000",
+      "code": "0603028000",
+      "name": "Leon"
+    }
+  }
+]

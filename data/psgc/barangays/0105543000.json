@@ -1,0 +1,443 @@
+[
+  {
+    "id": "0105543001",
+    "code": "0105543001",
+    "name": "Agno",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105543000",
+      "code": "0105543000",
+      "name": "Tayug"
+    }
+  },
+  {
+    "id": "0105543002",
+    "code": "0105543002",
+    "name": "Amistad",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105543000",
+      "code": "0105543000",
+      "name": "Tayug"
+    }
+  },
+  {
+    "id": "0105543014",
+    "code": "0105543014",
+    "name": "Barangay A",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105543000",
+      "code": "0105543000",
+      "name": "Tayug"
+    }
+  },
+  {
+    "id": "0105543015",
+    "code": "0105543015",
+    "name": "Barangay B",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105543000",
+      "code": "0105543000",
+      "name": "Tayug"
+    }
+  },
+  {
+    "id": "0105543016",
+    "code": "0105543016",
+    "name": "Barangay C",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105543000",
+      "code": "0105543000",
+      "name": "Tayug"
+    }
+  },
+  {
+    "id": "0105543017",
+    "code": "0105543017",
+    "name": "Barangay D",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105543000",
+      "code": "0105543000",
+      "name": "Tayug"
+    }
+  },
+  {
+    "id": "0105543003",
+    "code": "0105543003",
+    "name": "Barangobong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105543000",
+      "code": "0105543000",
+      "name": "Tayug"
+    }
+  },
+  {
+    "id": "0105543005",
+    "code": "0105543005",
+    "name": "C. Lichauco",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105543000",
+      "code": "0105543000",
+      "name": "Tayug"
+    }
+  },
+  {
+    "id": "0105543004",
+    "code": "0105543004",
+    "name": "Carriedo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105543000",
+      "code": "0105543000",
+      "name": "Tayug"
+    }
+  },
+  {
+    "id": "0105543006",
+    "code": "0105543006",
+    "name": "Evangelista",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105543000",
+      "code": "0105543000",
+      "name": "Tayug"
+    }
+  },
+  {
+    "id": "0105543007",
+    "code": "0105543007",
+    "name": "Guzon",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105543000",
+      "code": "0105543000",
+      "name": "Tayug"
+    }
+  },
+  {
+    "id": "0105543008",
+    "code": "0105543008",
+    "name": "Lawak",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105543000",
+      "code": "0105543000",
+      "name": "Tayug"
+    }
+  },
+  {
+    "id": "0105543009",
+    "code": "0105543009",
+    "name": "Legaspi",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105543000",
+      "code": "0105543000",
+      "name": "Tayug"
+    }
+  },
+  {
+    "id": "0105543010",
+    "code": "0105543010",
+    "name": "Libertad",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105543000",
+      "code": "0105543000",
+      "name": "Tayug"
+    }
+  },
+  {
+    "id": "0105543012",
+    "code": "0105543012",
+    "name": "Magallanes",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105543000",
+      "code": "0105543000",
+      "name": "Tayug"
+    }
+  },
+  {
+    "id": "0105543013",
+    "code": "0105543013",
+    "name": "Panganiban",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105543000",
+      "code": "0105543000",
+      "name": "Tayug"
+    }
+  },
+  {
+    "id": "0105543019",
+    "code": "0105543019",
+    "name": "Saleng",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105543000",
+      "code": "0105543000",
+      "name": "Tayug"
+    }
+  },
+  {
+    "id": "0105543020",
+    "code": "0105543020",
+    "name": "Santo Domingo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105543000",
+      "code": "0105543000",
+      "name": "Tayug"
+    }
+  },
+  {
+    "id": "0105543022",
+    "code": "0105543022",
+    "name": "Toketec",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105543000",
+      "code": "0105543000",
+      "name": "Tayug"
+    }
+  },
+  {
+    "id": "0105543023",
+    "code": "0105543023",
+    "name": "Trenchera",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105543000",
+      "code": "0105543000",
+      "name": "Tayug"
+    }
+  },
+  {
+    "id": "0105543024",
+    "code": "0105543024",
+    "name": "Zamora",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105543000",
+      "code": "0105543000",
+      "name": "Tayug"
+    }
+  }
+]

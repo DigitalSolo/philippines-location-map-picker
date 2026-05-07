@@ -1,0 +1,527 @@
+[
+  {
+    "id": "1704006001",
+    "code": "1704006001",
+    "name": "Bangwayin",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704006000",
+      "code": "1704006000",
+      "name": "Torrijos"
+    }
+  },
+  {
+    "id": "1704006002",
+    "code": "1704006002",
+    "name": "Bayakbakin",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704006000",
+      "code": "1704006000",
+      "name": "Torrijos"
+    }
+  },
+  {
+    "id": "1704006003",
+    "code": "1704006003",
+    "name": "Bolo",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704006000",
+      "code": "1704006000",
+      "name": "Torrijos"
+    }
+  },
+  {
+    "id": "1704006004",
+    "code": "1704006004",
+    "name": "Bonliw",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704006000",
+      "code": "1704006000",
+      "name": "Torrijos"
+    }
+  },
+  {
+    "id": "1704006005",
+    "code": "1704006005",
+    "name": "Buangan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704006000",
+      "code": "1704006000",
+      "name": "Torrijos"
+    }
+  },
+  {
+    "id": "1704006006",
+    "code": "1704006006",
+    "name": "Cabuyo",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704006000",
+      "code": "1704006000",
+      "name": "Torrijos"
+    }
+  },
+  {
+    "id": "1704006007",
+    "code": "1704006007",
+    "name": "Cagpo",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704006000",
+      "code": "1704006000",
+      "name": "Torrijos"
+    }
+  },
+  {
+    "id": "1704006008",
+    "code": "1704006008",
+    "name": "Dampulan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704006000",
+      "code": "1704006000",
+      "name": "Torrijos"
+    }
+  },
+  {
+    "id": "1704006009",
+    "code": "1704006009",
+    "name": "Kay Duke",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704006000",
+      "code": "1704006000",
+      "name": "Torrijos"
+    }
+  },
+  {
+    "id": "1704006010",
+    "code": "1704006010",
+    "name": "Mabuhay",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704006000",
+      "code": "1704006000",
+      "name": "Torrijos"
+    }
+  },
+  {
+    "id": "1704006011",
+    "code": "1704006011",
+    "name": "Makawayan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704006000",
+      "code": "1704006000",
+      "name": "Torrijos"
+    }
+  },
+  {
+    "id": "1704006012",
+    "code": "1704006012",
+    "name": "Malibago",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704006000",
+      "code": "1704006000",
+      "name": "Torrijos"
+    }
+  },
+  {
+    "id": "1704006013",
+    "code": "1704006013",
+    "name": "Malinao",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704006000",
+      "code": "1704006000",
+      "name": "Torrijos"
+    }
+  },
+  {
+    "id": "1704006014",
+    "code": "1704006014",
+    "name": "Maranlig",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704006000",
+      "code": "1704006000",
+      "name": "Torrijos"
+    }
+  },
+  {
+    "id": "1704006015",
+    "code": "1704006015",
+    "name": "Marlangga",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704006000",
+      "code": "1704006000",
+      "name": "Torrijos"
+    }
+  },
+  {
+    "id": "1704006016",
+    "code": "1704006016",
+    "name": "Matuyatuya",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704006000",
+      "code": "1704006000",
+      "name": "Torrijos"
+    }
+  },
+  {
+    "id": "1704006017",
+    "code": "1704006017",
+    "name": "Nangka",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704006000",
+      "code": "1704006000",
+      "name": "Torrijos"
+    }
+  },
+  {
+    "id": "1704006018",
+    "code": "1704006018",
+    "name": "Pakaskasan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704006000",
+      "code": "1704006000",
+      "name": "Torrijos"
+    }
+  },
+  {
+    "id": "1704006019",
+    "code": "1704006019",
+    "name": "Payanas",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704006000",
+      "code": "1704006000",
+      "name": "Torrijos"
+    }
+  },
+  {
+    "id": "1704006020",
+    "code": "1704006020",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704006000",
+      "code": "1704006000",
+      "name": "Torrijos"
+    }
+  },
+  {
+    "id": "1704006021",
+    "code": "1704006021",
+    "name": "Poctoy",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704006000",
+      "code": "1704006000",
+      "name": "Torrijos"
+    }
+  },
+  {
+    "id": "1704006022",
+    "code": "1704006022",
+    "name": "Sibuyao",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704006000",
+      "code": "1704006000",
+      "name": "Torrijos"
+    }
+  },
+  {
+    "id": "1704006023",
+    "code": "1704006023",
+    "name": "Suha",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704006000",
+      "code": "1704006000",
+      "name": "Torrijos"
+    }
+  },
+  {
+    "id": "1704006024",
+    "code": "1704006024",
+    "name": "Talawan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704006000",
+      "code": "1704006000",
+      "name": "Torrijos"
+    }
+  },
+  {
+    "id": "1704006025",
+    "code": "1704006025",
+    "name": "Tigwi",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704006000",
+      "code": "1704006000",
+      "name": "Torrijos"
+    }
+  }
+]

@@ -1,0 +1,296 @@
+[
+  {
+    "id": "0506215003",
+    "code": "0506215003",
+    "name": "Barangay Poblacion I",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506215000",
+      "code": "0506215000",
+      "name": "Santa Magdalena"
+    }
+  },
+  {
+    "id": "0506215004",
+    "code": "0506215004",
+    "name": "Barangay Poblacion II",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506215000",
+      "code": "0506215000",
+      "name": "Santa Magdalena"
+    }
+  },
+  {
+    "id": "0506215005",
+    "code": "0506215005",
+    "name": "Barangay Poblacion III",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506215000",
+      "code": "0506215000",
+      "name": "Santa Magdalena"
+    }
+  },
+  {
+    "id": "0506215006",
+    "code": "0506215006",
+    "name": "Barangay Poblacion IV",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506215000",
+      "code": "0506215000",
+      "name": "Santa Magdalena"
+    }
+  },
+  {
+    "id": "0506215001",
+    "code": "0506215001",
+    "name": "La Esperanza",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506215000",
+      "code": "0506215000",
+      "name": "Santa Magdalena"
+    }
+  },
+  {
+    "id": "0506215002",
+    "code": "0506215002",
+    "name": "Peñafrancia",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506215000",
+      "code": "0506215000",
+      "name": "Santa Magdalena"
+    }
+  },
+  {
+    "id": "0506215007",
+    "code": "0506215007",
+    "name": "Salvacion",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506215000",
+      "code": "0506215000",
+      "name": "Santa Magdalena"
+    }
+  },
+  {
+    "id": "0506215008",
+    "code": "0506215008",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506215000",
+      "code": "0506215000",
+      "name": "Santa Magdalena"
+    }
+  },
+  {
+    "id": "0506215009",
+    "code": "0506215009",
+    "name": "San Bartolome",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506215000",
+      "code": "0506215000",
+      "name": "Santa Magdalena"
+    }
+  },
+  {
+    "id": "0506215010",
+    "code": "0506215010",
+    "name": "San Eugenio",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506215000",
+      "code": "0506215000",
+      "name": "Santa Magdalena"
+    }
+  },
+  {
+    "id": "0506215011",
+    "code": "0506215011",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506215000",
+      "code": "0506215000",
+      "name": "Santa Magdalena"
+    }
+  },
+  {
+    "id": "0506215012",
+    "code": "0506215012",
+    "name": "San Rafael",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506215000",
+      "code": "0506215000",
+      "name": "Santa Magdalena"
+    }
+  },
+  {
+    "id": "0506215013",
+    "code": "0506215013",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506215000",
+      "code": "0506215000",
+      "name": "Santa Magdalena"
+    }
+  },
+  {
+    "id": "0506215014",
+    "code": "0506215014",
+    "name": "San Sebastian",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506215000",
+      "code": "0506215000",
+      "name": "Santa Magdalena"
+    }
+  }
+]

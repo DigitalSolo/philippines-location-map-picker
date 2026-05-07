@@ -1,0 +1,242 @@
+[
+  {
+    "id": "0506202000",
+    "code": "0506202000",
+    "name": "Barcelona",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    }
+  },
+  {
+    "id": "0506203000",
+    "code": "0506203000",
+    "name": "Bulan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    }
+  },
+  {
+    "id": "0506204000",
+    "code": "0506204000",
+    "name": "Bulusan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    }
+  },
+  {
+    "id": "0506205000",
+    "code": "0506205000",
+    "name": "Casiguran",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    }
+  },
+  {
+    "id": "0506206000",
+    "code": "0506206000",
+    "name": "Castilla",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    }
+  },
+  {
+    "id": "0506216000",
+    "code": "0506216000",
+    "name": "City of Sorsogon",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    }
+  },
+  {
+    "id": "0506207000",
+    "code": "0506207000",
+    "name": "Donsol",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    }
+  },
+  {
+    "id": "0506208000",
+    "code": "0506208000",
+    "name": "Gubat",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    }
+  },
+  {
+    "id": "0506209000",
+    "code": "0506209000",
+    "name": "Irosin",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    }
+  },
+  {
+    "id": "0506210000",
+    "code": "0506210000",
+    "name": "Juban",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    }
+  },
+  {
+    "id": "0506211000",
+    "code": "0506211000",
+    "name": "Magallanes",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    }
+  },
+  {
+    "id": "0506212000",
+    "code": "0506212000",
+    "name": "Matnog",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    }
+  },
+  {
+    "id": "0506213000",
+    "code": "0506213000",
+    "name": "Pilar",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    }
+  },
+  {
+    "id": "0506214000",
+    "code": "0506214000",
+    "name": "Prieto Diaz",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    }
+  },
+  {
+    "id": "0506215000",
+    "code": "0506215000",
+    "name": "Santa Magdalena",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    }
+  }
+]

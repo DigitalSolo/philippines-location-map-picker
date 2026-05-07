@@ -1,0 +1,68 @@
+[
+  {
+    "id": "0500500000",
+    "code": "0500500000",
+    "name": "Albay",
+    "type": "province",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    }
+  },
+  {
+    "id": "0501600000",
+    "code": "0501600000",
+    "name": "Camarines Norte",
+    "type": "province",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    }
+  },
+  {
+    "id": "0501700000",
+    "code": "0501700000",
+    "name": "Camarines Sur",
+    "type": "province",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    }
+  },
+  {
+    "id": "0502000000",
+    "code": "0502000000",
+    "name": "Catanduanes",
+    "type": "province",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    }
+  },
+  {
+    "id": "0504100000",
+    "code": "0504100000",
+    "name": "Masbate",
+    "type": "province",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    }
+  },
+  {
+    "id": "0506200000",
+    "code": "0506200000",
+    "name": "Sorsogon",
+    "type": "province",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    }
+  }
+]

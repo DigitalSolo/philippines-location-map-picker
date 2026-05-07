@@ -1,0 +1,548 @@
+[
+  {
+    "id": "0501607001",
+    "code": "0501607001",
+    "name": "Apuao",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501607000",
+      "code": "0501607000",
+      "name": "Mercedes"
+    }
+  },
+  {
+    "id": "0501607002",
+    "code": "0501607002",
+    "name": "Barangay I",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501607000",
+      "code": "0501607000",
+      "name": "Mercedes"
+    }
+  },
+  {
+    "id": "0501607003",
+    "code": "0501607003",
+    "name": "Barangay II",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501607000",
+      "code": "0501607000",
+      "name": "Mercedes"
+    }
+  },
+  {
+    "id": "0501607004",
+    "code": "0501607004",
+    "name": "Barangay III",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501607000",
+      "code": "0501607000",
+      "name": "Mercedes"
+    }
+  },
+  {
+    "id": "0501607005",
+    "code": "0501607005",
+    "name": "Barangay IV",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501607000",
+      "code": "0501607000",
+      "name": "Mercedes"
+    }
+  },
+  {
+    "id": "0501607006",
+    "code": "0501607006",
+    "name": "Barangay V",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501607000",
+      "code": "0501607000",
+      "name": "Mercedes"
+    }
+  },
+  {
+    "id": "0501607007",
+    "code": "0501607007",
+    "name": "Barangay VI",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501607000",
+      "code": "0501607000",
+      "name": "Mercedes"
+    }
+  },
+  {
+    "id": "0501607008",
+    "code": "0501607008",
+    "name": "Barangay VII",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501607000",
+      "code": "0501607000",
+      "name": "Mercedes"
+    }
+  },
+  {
+    "id": "0501607009",
+    "code": "0501607009",
+    "name": "Caringo",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501607000",
+      "code": "0501607000",
+      "name": "Mercedes"
+    }
+  },
+  {
+    "id": "0501607010",
+    "code": "0501607010",
+    "name": "Catandunganon",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501607000",
+      "code": "0501607000",
+      "name": "Mercedes"
+    }
+  },
+  {
+    "id": "0501607011",
+    "code": "0501607011",
+    "name": "Cayucyucan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501607000",
+      "code": "0501607000",
+      "name": "Mercedes"
+    }
+  },
+  {
+    "id": "0501607012",
+    "code": "0501607012",
+    "name": "Colasi",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501607000",
+      "code": "0501607000",
+      "name": "Mercedes"
+    }
+  },
+  {
+    "id": "0501607013",
+    "code": "0501607013",
+    "name": "Del Rosario",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501607000",
+      "code": "0501607000",
+      "name": "Mercedes"
+    }
+  },
+  {
+    "id": "0501607014",
+    "code": "0501607014",
+    "name": "Gaboc",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501607000",
+      "code": "0501607000",
+      "name": "Mercedes"
+    }
+  },
+  {
+    "id": "0501607015",
+    "code": "0501607015",
+    "name": "Hamoraon",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501607000",
+      "code": "0501607000",
+      "name": "Mercedes"
+    }
+  },
+  {
+    "id": "0501607016",
+    "code": "0501607016",
+    "name": "Hinipaan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501607000",
+      "code": "0501607000",
+      "name": "Mercedes"
+    }
+  },
+  {
+    "id": "0501607017",
+    "code": "0501607017",
+    "name": "Lalawigan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501607000",
+      "code": "0501607000",
+      "name": "Mercedes"
+    }
+  },
+  {
+    "id": "0501607018",
+    "code": "0501607018",
+    "name": "Lanot",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501607000",
+      "code": "0501607000",
+      "name": "Mercedes"
+    }
+  },
+  {
+    "id": "0501607019",
+    "code": "0501607019",
+    "name": "Mambungalon",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501607000",
+      "code": "0501607000",
+      "name": "Mercedes"
+    }
+  },
+  {
+    "id": "0501607020",
+    "code": "0501607020",
+    "name": "Manguisoc",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501607000",
+      "code": "0501607000",
+      "name": "Mercedes"
+    }
+  },
+  {
+    "id": "0501607021",
+    "code": "0501607021",
+    "name": "Masalongsalong",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501607000",
+      "code": "0501607000",
+      "name": "Mercedes"
+    }
+  },
+  {
+    "id": "0501607022",
+    "code": "0501607022",
+    "name": "Matoogtoog",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501607000",
+      "code": "0501607000",
+      "name": "Mercedes"
+    }
+  },
+  {
+    "id": "0501607023",
+    "code": "0501607023",
+    "name": "Pambuhan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501607000",
+      "code": "0501607000",
+      "name": "Mercedes"
+    }
+  },
+  {
+    "id": "0501607024",
+    "code": "0501607024",
+    "name": "Quinapaguian",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501607000",
+      "code": "0501607000",
+      "name": "Mercedes"
+    }
+  },
+  {
+    "id": "0501607025",
+    "code": "0501607025",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501607000",
+      "code": "0501607000",
+      "name": "Mercedes"
+    }
+  },
+  {
+    "id": "0501607026",
+    "code": "0501607026",
+    "name": "Tarum",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501600000",
+      "code": "0501600000",
+      "name": "Camarines Norte"
+    },
+    "city_municipality": {
+      "id": "0501607000",
+      "code": "0501607000",
+      "name": "Mercedes"
+    }
+  }
+]

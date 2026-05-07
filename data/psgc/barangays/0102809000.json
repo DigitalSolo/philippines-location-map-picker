@@ -1,0 +1,653 @@
+[
+  {
+    "id": "0102809001",
+    "code": "0102809001",
+    "name": "Albano",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102809000",
+      "code": "0102809000",
+      "name": "Dingras"
+    }
+  },
+  {
+    "id": "0102809002",
+    "code": "0102809002",
+    "name": "Bacsil",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102809000",
+      "code": "0102809000",
+      "name": "Dingras"
+    }
+  },
+  {
+    "id": "0102809003",
+    "code": "0102809003",
+    "name": "Bagut",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102809000",
+      "code": "0102809000",
+      "name": "Dingras"
+    }
+  },
+  {
+    "id": "0102809005",
+    "code": "0102809005",
+    "name": "Baresbes",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102809000",
+      "code": "0102809000",
+      "name": "Dingras"
+    }
+  },
+  {
+    "id": "0102809006",
+    "code": "0102809006",
+    "name": "Barong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102809000",
+      "code": "0102809000",
+      "name": "Dingras"
+    }
+  },
+  {
+    "id": "0102809007",
+    "code": "0102809007",
+    "name": "Bungcag",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102809000",
+      "code": "0102809000",
+      "name": "Dingras"
+    }
+  },
+  {
+    "id": "0102809009",
+    "code": "0102809009",
+    "name": "Cali",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102809000",
+      "code": "0102809000",
+      "name": "Dingras"
+    }
+  },
+  {
+    "id": "0102809010",
+    "code": "0102809010",
+    "name": "Capasan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102809000",
+      "code": "0102809000",
+      "name": "Dingras"
+    }
+  },
+  {
+    "id": "0102809011",
+    "code": "0102809011",
+    "name": "Dancel",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102809000",
+      "code": "0102809000",
+      "name": "Dingras"
+    }
+  },
+  {
+    "id": "0102809032",
+    "code": "0102809032",
+    "name": "Elizabeth",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102809000",
+      "code": "0102809000",
+      "name": "Dingras"
+    }
+  },
+  {
+    "id": "0102809027",
+    "code": "0102809027",
+    "name": "Espiritu",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102809000",
+      "code": "0102809000",
+      "name": "Dingras"
+    }
+  },
+  {
+    "id": "0102809012",
+    "code": "0102809012",
+    "name": "Foz",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102809000",
+      "code": "0102809000",
+      "name": "Dingras"
+    }
+  },
+  {
+    "id": "0102809013",
+    "code": "0102809013",
+    "name": "Guerrero",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102809000",
+      "code": "0102809000",
+      "name": "Dingras"
+    }
+  },
+  {
+    "id": "0102809014",
+    "code": "0102809014",
+    "name": "Lanas",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102809000",
+      "code": "0102809000",
+      "name": "Dingras"
+    }
+  },
+  {
+    "id": "0102809015",
+    "code": "0102809015",
+    "name": "Lumbad",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102809000",
+      "code": "0102809000",
+      "name": "Dingras"
+    }
+  },
+  {
+    "id": "0102809016",
+    "code": "0102809016",
+    "name": "Madamba",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102809000",
+      "code": "0102809000",
+      "name": "Dingras"
+    }
+  },
+  {
+    "id": "0102809017",
+    "code": "0102809017",
+    "name": "Mandaloque",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102809000",
+      "code": "0102809000",
+      "name": "Dingras"
+    }
+  },
+  {
+    "id": "0102809018",
+    "code": "0102809018",
+    "name": "Medina",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102809000",
+      "code": "0102809000",
+      "name": "Dingras"
+    }
+  },
+  {
+    "id": "0102809004",
+    "code": "0102809004",
+    "name": "Parado",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102809000",
+      "code": "0102809000",
+      "name": "Dingras"
+    }
+  },
+  {
+    "id": "0102809022",
+    "code": "0102809022",
+    "name": "Peralta",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102809000",
+      "code": "0102809000",
+      "name": "Dingras"
+    }
+  },
+  {
+    "id": "0102809021",
+    "code": "0102809021",
+    "name": "Puruganan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102809000",
+      "code": "0102809000",
+      "name": "Dingras"
+    }
+  },
+  {
+    "id": "0102809023",
+    "code": "0102809023",
+    "name": "Root",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102809000",
+      "code": "0102809000",
+      "name": "Dingras"
+    }
+  },
+  {
+    "id": "0102809024",
+    "code": "0102809024",
+    "name": "Sagpatan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102809000",
+      "code": "0102809000",
+      "name": "Dingras"
+    }
+  },
+  {
+    "id": "0102809025",
+    "code": "0102809025",
+    "name": "Saludares",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102809000",
+      "code": "0102809000",
+      "name": "Dingras"
+    }
+  },
+  {
+    "id": "0102809026",
+    "code": "0102809026",
+    "name": "San Esteban",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102809000",
+      "code": "0102809000",
+      "name": "Dingras"
+    }
+  },
+  {
+    "id": "0102809029",
+    "code": "0102809029",
+    "name": "San Francisco",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102809000",
+      "code": "0102809000",
+      "name": "Dingras"
+    }
+  },
+  {
+    "id": "0102809020",
+    "code": "0102809020",
+    "name": "San Marcelino",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102809000",
+      "code": "0102809000",
+      "name": "Dingras"
+    }
+  },
+  {
+    "id": "0102809031",
+    "code": "0102809031",
+    "name": "San Marcos",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102809000",
+      "code": "0102809000",
+      "name": "Dingras"
+    }
+  },
+  {
+    "id": "0102809028",
+    "code": "0102809028",
+    "name": "Sulquiano",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102809000",
+      "code": "0102809000",
+      "name": "Dingras"
+    }
+  },
+  {
+    "id": "0102809030",
+    "code": "0102809030",
+    "name": "Suyo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102809000",
+      "code": "0102809000",
+      "name": "Dingras"
+    }
+  },
+  {
+    "id": "0102809019",
+    "code": "0102809019",
+    "name": "Ver",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102800000",
+      "code": "0102800000",
+      "name": "Ilocos Norte"
+    },
+    "city_municipality": {
+      "id": "0102809000",
+      "code": "0102809000",
+      "name": "Dingras"
+    }
+  }
+]

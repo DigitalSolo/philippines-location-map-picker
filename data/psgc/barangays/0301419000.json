@@ -1,0 +1,758 @@
+[
+  {
+    "id": "0301419001",
+    "code": "0301419001",
+    "name": "Akle",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301419000",
+      "code": "0301419000",
+      "name": "San Ildefonso"
+    }
+  },
+  {
+    "id": "0301419002",
+    "code": "0301419002",
+    "name": "Alagao",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301419000",
+      "code": "0301419000",
+      "name": "San Ildefonso"
+    }
+  },
+  {
+    "id": "0301419003",
+    "code": "0301419003",
+    "name": "Anyatam",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301419000",
+      "code": "0301419000",
+      "name": "San Ildefonso"
+    }
+  },
+  {
+    "id": "0301419006",
+    "code": "0301419006",
+    "name": "Bagong Barrio",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301419000",
+      "code": "0301419000",
+      "name": "San Ildefonso"
+    }
+  },
+  {
+    "id": "0301419007",
+    "code": "0301419007",
+    "name": "Basuit",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301419000",
+      "code": "0301419000",
+      "name": "San Ildefonso"
+    }
+  },
+  {
+    "id": "0301419009",
+    "code": "0301419009",
+    "name": "Bubulong Malaki",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301419000",
+      "code": "0301419000",
+      "name": "San Ildefonso"
+    }
+  },
+  {
+    "id": "0301419008",
+    "code": "0301419008",
+    "name": "Bubulong Munti",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301419000",
+      "code": "0301419000",
+      "name": "San Ildefonso"
+    }
+  },
+  {
+    "id": "0301419010",
+    "code": "0301419010",
+    "name": "Buhol na Mangga",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301419000",
+      "code": "0301419000",
+      "name": "San Ildefonso"
+    }
+  },
+  {
+    "id": "0301419011",
+    "code": "0301419011",
+    "name": "Bulusukan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301419000",
+      "code": "0301419000",
+      "name": "San Ildefonso"
+    }
+  },
+  {
+    "id": "0301419012",
+    "code": "0301419012",
+    "name": "Calasag",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301419000",
+      "code": "0301419000",
+      "name": "San Ildefonso"
+    }
+  },
+  {
+    "id": "0301419013",
+    "code": "0301419013",
+    "name": "Calawitan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301419000",
+      "code": "0301419000",
+      "name": "San Ildefonso"
+    }
+  },
+  {
+    "id": "0301419014",
+    "code": "0301419014",
+    "name": "Casalat",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301419000",
+      "code": "0301419000",
+      "name": "San Ildefonso"
+    }
+  },
+  {
+    "id": "0301419015",
+    "code": "0301419015",
+    "name": "Gabihan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301419000",
+      "code": "0301419000",
+      "name": "San Ildefonso"
+    }
+  },
+  {
+    "id": "0301419016",
+    "code": "0301419016",
+    "name": "Garlang",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301419000",
+      "code": "0301419000",
+      "name": "San Ildefonso"
+    }
+  },
+  {
+    "id": "0301419017",
+    "code": "0301419017",
+    "name": "Lapnit",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301419000",
+      "code": "0301419000",
+      "name": "San Ildefonso"
+    }
+  },
+  {
+    "id": "0301419018",
+    "code": "0301419018",
+    "name": "Maasim",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301419000",
+      "code": "0301419000",
+      "name": "San Ildefonso"
+    }
+  },
+  {
+    "id": "0301419019",
+    "code": "0301419019",
+    "name": "Makapilapil",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301419000",
+      "code": "0301419000",
+      "name": "San Ildefonso"
+    }
+  },
+  {
+    "id": "0301419020",
+    "code": "0301419020",
+    "name": "Malipampang",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301419000",
+      "code": "0301419000",
+      "name": "San Ildefonso"
+    }
+  },
+  {
+    "id": "0301419038",
+    "code": "0301419038",
+    "name": "Mataas na Parang",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301419000",
+      "code": "0301419000",
+      "name": "San Ildefonso"
+    }
+  },
+  {
+    "id": "0301419021",
+    "code": "0301419021",
+    "name": "Matimbubong",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301419000",
+      "code": "0301419000",
+      "name": "San Ildefonso"
+    }
+  },
+  {
+    "id": "0301419022",
+    "code": "0301419022",
+    "name": "Nabaong Garlang",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301419000",
+      "code": "0301419000",
+      "name": "San Ildefonso"
+    }
+  },
+  {
+    "id": "0301419023",
+    "code": "0301419023",
+    "name": "Palapala",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301419000",
+      "code": "0301419000",
+      "name": "San Ildefonso"
+    }
+  },
+  {
+    "id": "0301419024",
+    "code": "0301419024",
+    "name": "Pasong Bangkal",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301419000",
+      "code": "0301419000",
+      "name": "San Ildefonso"
+    }
+  },
+  {
+    "id": "0301419025",
+    "code": "0301419025",
+    "name": "Pinaod",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301419000",
+      "code": "0301419000",
+      "name": "San Ildefonso"
+    }
+  },
+  {
+    "id": "0301419026",
+    "code": "0301419026",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301419000",
+      "code": "0301419000",
+      "name": "San Ildefonso"
+    }
+  },
+  {
+    "id": "0301419027",
+    "code": "0301419027",
+    "name": "Pulong Tamo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301419000",
+      "code": "0301419000",
+      "name": "San Ildefonso"
+    }
+  },
+  {
+    "id": "0301419028",
+    "code": "0301419028",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301419000",
+      "code": "0301419000",
+      "name": "San Ildefonso"
+    }
+  },
+  {
+    "id": "0301419029",
+    "code": "0301419029",
+    "name": "Santa Catalina Bata",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301419000",
+      "code": "0301419000",
+      "name": "San Ildefonso"
+    }
+  },
+  {
+    "id": "0301419030",
+    "code": "0301419030",
+    "name": "Santa Catalina Matanda",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301419000",
+      "code": "0301419000",
+      "name": "San Ildefonso"
+    }
+  },
+  {
+    "id": "0301419031",
+    "code": "0301419031",
+    "name": "Sapang Dayap",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301419000",
+      "code": "0301419000",
+      "name": "San Ildefonso"
+    }
+  },
+  {
+    "id": "0301419032",
+    "code": "0301419032",
+    "name": "Sapang Putik",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301419000",
+      "code": "0301419000",
+      "name": "San Ildefonso"
+    }
+  },
+  {
+    "id": "0301419033",
+    "code": "0301419033",
+    "name": "Sapang Putol",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301419000",
+      "code": "0301419000",
+      "name": "San Ildefonso"
+    }
+  },
+  {
+    "id": "0301419034",
+    "code": "0301419034",
+    "name": "Sumandig",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301419000",
+      "code": "0301419000",
+      "name": "San Ildefonso"
+    }
+  },
+  {
+    "id": "0301419035",
+    "code": "0301419035",
+    "name": "Telapatio",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301419000",
+      "code": "0301419000",
+      "name": "San Ildefonso"
+    }
+  },
+  {
+    "id": "0301419037",
+    "code": "0301419037",
+    "name": "Umpucan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301419000",
+      "code": "0301419000",
+      "name": "San Ildefonso"
+    }
+  },
+  {
+    "id": "0301419036",
+    "code": "0301419036",
+    "name": "Upig",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0301400000",
+      "code": "0301400000",
+      "name": "Bulacan"
+    },
+    "city_municipality": {
+      "id": "0301419000",
+      "code": "0301419000",
+      "name": "San Ildefonso"
+    }
+  }
+]

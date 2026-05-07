@@ -1,0 +1,842 @@
+[
+  {
+    "id": "1204704001",
+    "code": "1204704001",
+    "name": "Amas",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204704000",
+      "code": "1204704000",
+      "name": "City of Kidapawan"
+    }
+  },
+  {
+    "id": "1204704002",
+    "code": "1204704002",
+    "name": "Amazion",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204704000",
+      "code": "1204704000",
+      "name": "City of Kidapawan"
+    }
+  },
+  {
+    "id": "1204704003",
+    "code": "1204704003",
+    "name": "Balabag",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204704000",
+      "code": "1204704000",
+      "name": "City of Kidapawan"
+    }
+  },
+  {
+    "id": "1204704004",
+    "code": "1204704004",
+    "name": "Balindog",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204704000",
+      "code": "1204704000",
+      "name": "City of Kidapawan"
+    }
+  },
+  {
+    "id": "1204704005",
+    "code": "1204704005",
+    "name": "Benoligan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204704000",
+      "code": "1204704000",
+      "name": "City of Kidapawan"
+    }
+  },
+  {
+    "id": "1204704006",
+    "code": "1204704006",
+    "name": "Berada",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204704000",
+      "code": "1204704000",
+      "name": "City of Kidapawan"
+    }
+  },
+  {
+    "id": "1204704007",
+    "code": "1204704007",
+    "name": "Gayola",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204704000",
+      "code": "1204704000",
+      "name": "City of Kidapawan"
+    }
+  },
+  {
+    "id": "1204704008",
+    "code": "1204704008",
+    "name": "Ginatilan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204704000",
+      "code": "1204704000",
+      "name": "City of Kidapawan"
+    }
+  },
+  {
+    "id": "1204704009",
+    "code": "1204704009",
+    "name": "Ilomavis",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204704000",
+      "code": "1204704000",
+      "name": "City of Kidapawan"
+    }
+  },
+  {
+    "id": "1204704010",
+    "code": "1204704010",
+    "name": "Indangan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204704000",
+      "code": "1204704000",
+      "name": "City of Kidapawan"
+    }
+  },
+  {
+    "id": "1204704011",
+    "code": "1204704011",
+    "name": "Junction",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204704000",
+      "code": "1204704000",
+      "name": "City of Kidapawan"
+    }
+  },
+  {
+    "id": "1204704012",
+    "code": "1204704012",
+    "name": "Kalaisan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204704000",
+      "code": "1204704000",
+      "name": "City of Kidapawan"
+    }
+  },
+  {
+    "id": "1204704013",
+    "code": "1204704013",
+    "name": "Kalasuyan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204704000",
+      "code": "1204704000",
+      "name": "City of Kidapawan"
+    }
+  },
+  {
+    "id": "1204704014",
+    "code": "1204704014",
+    "name": "Katipunan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204704000",
+      "code": "1204704000",
+      "name": "City of Kidapawan"
+    }
+  },
+  {
+    "id": "1204704015",
+    "code": "1204704015",
+    "name": "Lanao",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204704000",
+      "code": "1204704000",
+      "name": "City of Kidapawan"
+    }
+  },
+  {
+    "id": "1204704016",
+    "code": "1204704016",
+    "name": "Linangcob",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204704000",
+      "code": "1204704000",
+      "name": "City of Kidapawan"
+    }
+  },
+  {
+    "id": "1204704017",
+    "code": "1204704017",
+    "name": "Luvimin",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204704000",
+      "code": "1204704000",
+      "name": "City of Kidapawan"
+    }
+  },
+  {
+    "id": "1204704018",
+    "code": "1204704018",
+    "name": "Macabolig",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204704000",
+      "code": "1204704000",
+      "name": "City of Kidapawan"
+    }
+  },
+  {
+    "id": "1204704041",
+    "code": "1204704041",
+    "name": "Magsaysay",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204704000",
+      "code": "1204704000",
+      "name": "City of Kidapawan"
+    }
+  },
+  {
+    "id": "1204704020",
+    "code": "1204704020",
+    "name": "Malinan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204704000",
+      "code": "1204704000",
+      "name": "City of Kidapawan"
+    }
+  },
+  {
+    "id": "1204704021",
+    "code": "1204704021",
+    "name": "Manongol",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204704000",
+      "code": "1204704000",
+      "name": "City of Kidapawan"
+    }
+  },
+  {
+    "id": "1204704022",
+    "code": "1204704022",
+    "name": "Marbel",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204704000",
+      "code": "1204704000",
+      "name": "City of Kidapawan"
+    }
+  },
+  {
+    "id": "1204704023",
+    "code": "1204704023",
+    "name": "Mateo",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204704000",
+      "code": "1204704000",
+      "name": "City of Kidapawan"
+    }
+  },
+  {
+    "id": "1204704024",
+    "code": "1204704024",
+    "name": "Meochao",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204704000",
+      "code": "1204704000",
+      "name": "City of Kidapawan"
+    }
+  },
+  {
+    "id": "1204704025",
+    "code": "1204704025",
+    "name": "Mua-an",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204704000",
+      "code": "1204704000",
+      "name": "City of Kidapawan"
+    }
+  },
+  {
+    "id": "1204704026",
+    "code": "1204704026",
+    "name": "New Bohol",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204704000",
+      "code": "1204704000",
+      "name": "City of Kidapawan"
+    }
+  },
+  {
+    "id": "1204704027",
+    "code": "1204704027",
+    "name": "Nuangan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204704000",
+      "code": "1204704000",
+      "name": "City of Kidapawan"
+    }
+  },
+  {
+    "id": "1204704028",
+    "code": "1204704028",
+    "name": "Onica",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204704000",
+      "code": "1204704000",
+      "name": "City of Kidapawan"
+    }
+  },
+  {
+    "id": "1204704029",
+    "code": "1204704029",
+    "name": "Paco",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204704000",
+      "code": "1204704000",
+      "name": "City of Kidapawan"
+    }
+  },
+  {
+    "id": "1204704030",
+    "code": "1204704030",
+    "name": "Patadon",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204704000",
+      "code": "1204704000",
+      "name": "City of Kidapawan"
+    }
+  },
+  {
+    "id": "1204704031",
+    "code": "1204704031",
+    "name": "Perez",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204704000",
+      "code": "1204704000",
+      "name": "City of Kidapawan"
+    }
+  },
+  {
+    "id": "1204704032",
+    "code": "1204704032",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204704000",
+      "code": "1204704000",
+      "name": "City of Kidapawan"
+    }
+  },
+  {
+    "id": "1204704033",
+    "code": "1204704033",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204704000",
+      "code": "1204704000",
+      "name": "City of Kidapawan"
+    }
+  },
+  {
+    "id": "1204704034",
+    "code": "1204704034",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204704000",
+      "code": "1204704000",
+      "name": "City of Kidapawan"
+    }
+  },
+  {
+    "id": "1204704035",
+    "code": "1204704035",
+    "name": "Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204704000",
+      "code": "1204704000",
+      "name": "City of Kidapawan"
+    }
+  },
+  {
+    "id": "1204704036",
+    "code": "1204704036",
+    "name": "Sibawan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204704000",
+      "code": "1204704000",
+      "name": "City of Kidapawan"
+    }
+  },
+  {
+    "id": "1204704037",
+    "code": "1204704037",
+    "name": "Sikitan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204704000",
+      "code": "1204704000",
+      "name": "City of Kidapawan"
+    }
+  },
+  {
+    "id": "1204704038",
+    "code": "1204704038",
+    "name": "Singao",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204704000",
+      "code": "1204704000",
+      "name": "City of Kidapawan"
+    }
+  },
+  {
+    "id": "1204704039",
+    "code": "1204704039",
+    "name": "Sudapin",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204704000",
+      "code": "1204704000",
+      "name": "City of Kidapawan"
+    }
+  },
+  {
+    "id": "1204704040",
+    "code": "1204704040",
+    "name": "Sumbao",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1204700000",
+      "code": "1204700000",
+      "name": "Cotabato"
+    },
+    "city_municipality": {
+      "id": "1204704000",
+      "code": "1204704000",
+      "name": "City of Kidapawan"
+    }
+  }
+]

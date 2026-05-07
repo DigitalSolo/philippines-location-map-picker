@@ -1,0 +1,128 @@
+[
+  {
+    "id": "1606718001",
+    "code": "1606718001",
+    "name": "Bongdo",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606718000",
+      "code": "1606718000",
+      "name": "San Benito"
+    }
+  },
+  {
+    "id": "1606718002",
+    "code": "1606718002",
+    "name": "Maribojoc",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606718000",
+      "code": "1606718000",
+      "name": "San Benito"
+    }
+  },
+  {
+    "id": "1606718003",
+    "code": "1606718003",
+    "name": "Nuevo Campo",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606718000",
+      "code": "1606718000",
+      "name": "San Benito"
+    }
+  },
+  {
+    "id": "1606718005",
+    "code": "1606718005",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606718000",
+      "code": "1606718000",
+      "name": "San Benito"
+    }
+  },
+  {
+    "id": "1606718006",
+    "code": "1606718006",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606718000",
+      "code": "1606718000",
+      "name": "San Benito"
+    }
+  },
+  {
+    "id": "1606718007",
+    "code": "1606718007",
+    "name": "Talisay",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1606700000",
+      "code": "1606700000",
+      "name": "Surigao del Norte"
+    },
+    "city_municipality": {
+      "id": "1606718000",
+      "code": "1606718000",
+      "name": "San Benito"
+    }
+  }
+]

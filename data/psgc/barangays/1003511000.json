@@ -1,0 +1,506 @@
+[
+  {
+    "id": "1003511001",
+    "code": "1003511001",
+    "name": "Babasalon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003511000",
+      "code": "1003511000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1003511002",
+    "code": "1003511002",
+    "name": "Baguiguicon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003511000",
+      "code": "1003511000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1003511003",
+    "code": "1003511003",
+    "name": "Daan Campo",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003511000",
+      "code": "1003511000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1003511004",
+    "code": "1003511004",
+    "name": "Durianon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003511000",
+      "code": "1003511000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1003511005",
+    "code": "1003511005",
+    "name": "Ilihan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003511000",
+      "code": "1003511000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1003511006",
+    "code": "1003511006",
+    "name": "Lamigadato",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003511000",
+      "code": "1003511000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1003511007",
+    "code": "1003511007",
+    "name": "Lemoncret",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003511000",
+      "code": "1003511000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1003511015",
+    "code": "1003511015",
+    "name": "Lower Caningag",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003511000",
+      "code": "1003511000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1003511008",
+    "code": "1003511008",
+    "name": "Lubo",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003511000",
+      "code": "1003511000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1003511009",
+    "code": "1003511009",
+    "name": "Lumbac",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003511000",
+      "code": "1003511000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1003511010",
+    "code": "1003511010",
+    "name": "Malabaogan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003511000",
+      "code": "1003511000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1003511011",
+    "code": "1003511011",
+    "name": "Mapantao",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003511000",
+      "code": "1003511000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1003511012",
+    "code": "1003511012",
+    "name": "Olango",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003511000",
+      "code": "1003511000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1003511013",
+    "code": "1003511013",
+    "name": "Pangao",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003511000",
+      "code": "1003511000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1003511014",
+    "code": "1003511014",
+    "name": "Pelingkingan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003511000",
+      "code": "1003511000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1003511016",
+    "code": "1003511016",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003511000",
+      "code": "1003511000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1003511017",
+    "code": "1003511017",
+    "name": "Rarab",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003511000",
+      "code": "1003511000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1003511018",
+    "code": "1003511018",
+    "name": "Somiorang",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003511000",
+      "code": "1003511000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1003511020",
+    "code": "1003511020",
+    "name": "Talambo",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003511000",
+      "code": "1003511000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1003511021",
+    "code": "1003511021",
+    "name": "Tambacon",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003511000",
+      "code": "1003511000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1003511022",
+    "code": "1003511022",
+    "name": "Tawinian",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003511000",
+      "code": "1003511000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1003511023",
+    "code": "1003511023",
+    "name": "Tipaan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003511000",
+      "code": "1003511000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1003511024",
+    "code": "1003511024",
+    "name": "Tombador",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003511000",
+      "code": "1003511000",
+      "name": "Magsaysay"
+    }
+  },
+  {
+    "id": "1003511019",
+    "code": "1003511019",
+    "name": "Upper Caningag",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1003500000",
+      "code": "1003500000",
+      "name": "Lanao del Norte"
+    },
+    "city_municipality": {
+      "id": "1003511000",
+      "code": "1003511000",
+      "name": "Magsaysay"
+    }
+  }
+]

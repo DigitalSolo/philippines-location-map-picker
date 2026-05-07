@@ -1,0 +1,149 @@
+[
+  {
+    "id": "1400106001",
+    "code": "1400106001",
+    "name": "Abaquid",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400106000",
+      "code": "1400106000",
+      "name": "Danglas"
+    }
+  },
+  {
+    "id": "1400106003",
+    "code": "1400106003",
+    "name": "Cabaruan",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400106000",
+      "code": "1400106000",
+      "name": "Danglas"
+    }
+  },
+  {
+    "id": "1400106004",
+    "code": "1400106004",
+    "name": "Caupasan",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400106000",
+      "code": "1400106000",
+      "name": "Danglas"
+    }
+  },
+  {
+    "id": "1400106005",
+    "code": "1400106005",
+    "name": "Danglas",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400106000",
+      "code": "1400106000",
+      "name": "Danglas"
+    }
+  },
+  {
+    "id": "1400106006",
+    "code": "1400106006",
+    "name": "Nagaparan",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400106000",
+      "code": "1400106000",
+      "name": "Danglas"
+    }
+  },
+  {
+    "id": "1400106007",
+    "code": "1400106007",
+    "name": "Padangitan",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400106000",
+      "code": "1400106000",
+      "name": "Danglas"
+    }
+  },
+  {
+    "id": "1400106008",
+    "code": "1400106008",
+    "name": "Pangal",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400106000",
+      "code": "1400106000",
+      "name": "Danglas"
+    }
+  }
+]

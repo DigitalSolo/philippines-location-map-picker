@@ -1,0 +1,485 @@
+[
+  {
+    "id": "0201515001",
+    "code": "0201515001",
+    "name": "Ajat",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201515000",
+      "code": "0201515000",
+      "name": "Iguig"
+    }
+  },
+  {
+    "id": "0201515002",
+    "code": "0201515002",
+    "name": "Atulu",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201515000",
+      "code": "0201515000",
+      "name": "Iguig"
+    }
+  },
+  {
+    "id": "0201515003",
+    "code": "0201515003",
+    "name": "Baculud",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201515000",
+      "code": "0201515000",
+      "name": "Iguig"
+    }
+  },
+  {
+    "id": "0201515004",
+    "code": "0201515004",
+    "name": "Bayo",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201515000",
+      "code": "0201515000",
+      "name": "Iguig"
+    }
+  },
+  {
+    "id": "0201515005",
+    "code": "0201515005",
+    "name": "Campo",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201515000",
+      "code": "0201515000",
+      "name": "Iguig"
+    }
+  },
+  {
+    "id": "0201515007",
+    "code": "0201515007",
+    "name": "Dumpao",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201515000",
+      "code": "0201515000",
+      "name": "Iguig"
+    }
+  },
+  {
+    "id": "0201515009",
+    "code": "0201515009",
+    "name": "Gammad",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201515000",
+      "code": "0201515000",
+      "name": "Iguig"
+    }
+  },
+  {
+    "id": "0201515011",
+    "code": "0201515011",
+    "name": "Garab",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201515000",
+      "code": "0201515000",
+      "name": "Iguig"
+    }
+  },
+  {
+    "id": "0201515013",
+    "code": "0201515013",
+    "name": "Malabbac",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201515000",
+      "code": "0201515000",
+      "name": "Iguig"
+    }
+  },
+  {
+    "id": "0201515014",
+    "code": "0201515014",
+    "name": "Manaoag",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201515000",
+      "code": "0201515000",
+      "name": "Iguig"
+    }
+  },
+  {
+    "id": "0201515015",
+    "code": "0201515015",
+    "name": "Minanga Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201515000",
+      "code": "0201515000",
+      "name": "Iguig"
+    }
+  },
+  {
+    "id": "0201515016",
+    "code": "0201515016",
+    "name": "Minanga Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201515000",
+      "code": "0201515000",
+      "name": "Iguig"
+    }
+  },
+  {
+    "id": "0201515017",
+    "code": "0201515017",
+    "name": "Nattanzan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201515000",
+      "code": "0201515000",
+      "name": "Iguig"
+    }
+  },
+  {
+    "id": "0201515018",
+    "code": "0201515018",
+    "name": "Redondo",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201515000",
+      "code": "0201515000",
+      "name": "Iguig"
+    }
+  },
+  {
+    "id": "0201515019",
+    "code": "0201515019",
+    "name": "Salamague",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201515000",
+      "code": "0201515000",
+      "name": "Iguig"
+    }
+  },
+  {
+    "id": "0201515006",
+    "code": "0201515006",
+    "name": "San Esteban",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201515000",
+      "code": "0201515000",
+      "name": "Iguig"
+    }
+  },
+  {
+    "id": "0201515020",
+    "code": "0201515020",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201515000",
+      "code": "0201515000",
+      "name": "Iguig"
+    }
+  },
+  {
+    "id": "0201515021",
+    "code": "0201515021",
+    "name": "San Lorenzo",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201515000",
+      "code": "0201515000",
+      "name": "Iguig"
+    }
+  },
+  {
+    "id": "0201515025",
+    "code": "0201515025",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201515000",
+      "code": "0201515000",
+      "name": "Iguig"
+    }
+  },
+  {
+    "id": "0201515022",
+    "code": "0201515022",
+    "name": "Santa Barbara",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201515000",
+      "code": "0201515000",
+      "name": "Iguig"
+    }
+  },
+  {
+    "id": "0201515023",
+    "code": "0201515023",
+    "name": "Santa Rosa",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201515000",
+      "code": "0201515000",
+      "name": "Iguig"
+    }
+  },
+  {
+    "id": "0201515010",
+    "code": "0201515010",
+    "name": "Santa Teresa",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201515000",
+      "code": "0201515000",
+      "name": "Iguig"
+    }
+  },
+  {
+    "id": "0201515024",
+    "code": "0201515024",
+    "name": "Santiago",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201515000",
+      "code": "0201515000",
+      "name": "Iguig"
+    }
+  }
+]

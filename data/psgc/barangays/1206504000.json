@@ -1,0 +1,359 @@
+[
+  {
+    "id": "1206504003",
+    "code": "1206504003",
+    "name": "Bambad",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206500000",
+      "code": "1206500000",
+      "name": "Sultan Kudarat"
+    },
+    "city_municipality": {
+      "id": "1206504000",
+      "code": "1206504000",
+      "name": "Isulan"
+    }
+  },
+  {
+    "id": "1206504005",
+    "code": "1206504005",
+    "name": "Bual",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206500000",
+      "code": "1206500000",
+      "name": "Sultan Kudarat"
+    },
+    "city_municipality": {
+      "id": "1206504000",
+      "code": "1206504000",
+      "name": "Isulan"
+    }
+  },
+  {
+    "id": "1206504007",
+    "code": "1206504007",
+    "name": "D'Lotilla",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206500000",
+      "code": "1206500000",
+      "name": "Sultan Kudarat"
+    },
+    "city_municipality": {
+      "id": "1206504000",
+      "code": "1206504000",
+      "name": "Isulan"
+    }
+  },
+  {
+    "id": "1206504009",
+    "code": "1206504009",
+    "name": "Dansuli",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206500000",
+      "code": "1206500000",
+      "name": "Sultan Kudarat"
+    },
+    "city_municipality": {
+      "id": "1206504000",
+      "code": "1206504000",
+      "name": "Isulan"
+    }
+  },
+  {
+    "id": "1206504010",
+    "code": "1206504010",
+    "name": "Impao",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206500000",
+      "code": "1206500000",
+      "name": "Sultan Kudarat"
+    },
+    "city_municipality": {
+      "id": "1206504000",
+      "code": "1206504000",
+      "name": "Isulan"
+    }
+  },
+  {
+    "id": "1206504011",
+    "code": "1206504011",
+    "name": "Kalawag I",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206500000",
+      "code": "1206500000",
+      "name": "Sultan Kudarat"
+    },
+    "city_municipality": {
+      "id": "1206504000",
+      "code": "1206504000",
+      "name": "Isulan"
+    }
+  },
+  {
+    "id": "1206504012",
+    "code": "1206504012",
+    "name": "Kalawag II",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206500000",
+      "code": "1206500000",
+      "name": "Sultan Kudarat"
+    },
+    "city_municipality": {
+      "id": "1206504000",
+      "code": "1206504000",
+      "name": "Isulan"
+    }
+  },
+  {
+    "id": "1206504013",
+    "code": "1206504013",
+    "name": "Kalawag III",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206500000",
+      "code": "1206500000",
+      "name": "Sultan Kudarat"
+    },
+    "city_municipality": {
+      "id": "1206504000",
+      "code": "1206504000",
+      "name": "Isulan"
+    }
+  },
+  {
+    "id": "1206504016",
+    "code": "1206504016",
+    "name": "Kenram",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206500000",
+      "code": "1206500000",
+      "name": "Sultan Kudarat"
+    },
+    "city_municipality": {
+      "id": "1206504000",
+      "code": "1206504000",
+      "name": "Isulan"
+    }
+  },
+  {
+    "id": "1206504019",
+    "code": "1206504019",
+    "name": "Kolambog",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206500000",
+      "code": "1206500000",
+      "name": "Sultan Kudarat"
+    },
+    "city_municipality": {
+      "id": "1206504000",
+      "code": "1206504000",
+      "name": "Isulan"
+    }
+  },
+  {
+    "id": "1206504018",
+    "code": "1206504018",
+    "name": "Kudanding",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206500000",
+      "code": "1206500000",
+      "name": "Sultan Kudarat"
+    },
+    "city_municipality": {
+      "id": "1206504000",
+      "code": "1206504000",
+      "name": "Isulan"
+    }
+  },
+  {
+    "id": "1206504020",
+    "code": "1206504020",
+    "name": "Lagandang",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206500000",
+      "code": "1206500000",
+      "name": "Sultan Kudarat"
+    },
+    "city_municipality": {
+      "id": "1206504000",
+      "code": "1206504000",
+      "name": "Isulan"
+    }
+  },
+  {
+    "id": "1206504021",
+    "code": "1206504021",
+    "name": "Laguilayan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206500000",
+      "code": "1206500000",
+      "name": "Sultan Kudarat"
+    },
+    "city_municipality": {
+      "id": "1206504000",
+      "code": "1206504000",
+      "name": "Isulan"
+    }
+  },
+  {
+    "id": "1206504022",
+    "code": "1206504022",
+    "name": "Mapantig",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206500000",
+      "code": "1206500000",
+      "name": "Sultan Kudarat"
+    },
+    "city_municipality": {
+      "id": "1206504000",
+      "code": "1206504000",
+      "name": "Isulan"
+    }
+  },
+  {
+    "id": "1206504024",
+    "code": "1206504024",
+    "name": "New Pangasinan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206500000",
+      "code": "1206500000",
+      "name": "Sultan Kudarat"
+    },
+    "city_municipality": {
+      "id": "1206504000",
+      "code": "1206504000",
+      "name": "Isulan"
+    }
+  },
+  {
+    "id": "1206504026",
+    "code": "1206504026",
+    "name": "Sampao",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206500000",
+      "code": "1206500000",
+      "name": "Sultan Kudarat"
+    },
+    "city_municipality": {
+      "id": "1206504000",
+      "code": "1206504000",
+      "name": "Isulan"
+    }
+  },
+  {
+    "id": "1206504028",
+    "code": "1206504028",
+    "name": "Tayugo",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206500000",
+      "code": "1206500000",
+      "name": "Sultan Kudarat"
+    },
+    "city_municipality": {
+      "id": "1206504000",
+      "code": "1206504000",
+      "name": "Isulan"
+    }
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "id": "0600415001",
+    "code": "0600415001",
+    "name": "Candelaria",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600415000",
+      "code": "0600415000",
+      "name": "New Washington"
+    }
+  },
+  {
+    "id": "0600415002",
+    "code": "0600415002",
+    "name": "Cawayan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600415000",
+      "code": "0600415000",
+      "name": "New Washington"
+    }
+  },
+  {
+    "id": "0600415003",
+    "code": "0600415003",
+    "name": "Dumaguit",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600415000",
+      "code": "0600415000",
+      "name": "New Washington"
+    }
+  },
+  {
+    "id": "0600415004",
+    "code": "0600415004",
+    "name": "Fatima",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600415000",
+      "code": "0600415000",
+      "name": "New Washington"
+    }
+  },
+  {
+    "id": "0600415005",
+    "code": "0600415005",
+    "name": "Guinbaliwan",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600415000",
+      "code": "0600415000",
+      "name": "New Washington"
+    }
+  },
+  {
+    "id": "0600415006",
+    "code": "0600415006",
+    "name": "Jalas",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600415000",
+      "code": "0600415000",
+      "name": "New Washington"
+    }
+  },
+  {
+    "id": "0600415007",
+    "code": "0600415007",
+    "name": "Jugas",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600415000",
+      "code": "0600415000",
+      "name": "New Washington"
+    }
+  },
+  {
+    "id": "0600415008",
+    "code": "0600415008",
+    "name": "Lawa-an",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600415000",
+      "code": "0600415000",
+      "name": "New Washington"
+    }
+  },
+  {
+    "id": "0600415009",
+    "code": "0600415009",
+    "name": "Mabilo",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600415000",
+      "code": "0600415000",
+      "name": "New Washington"
+    }
+  },
+  {
+    "id": "0600415010",
+    "code": "0600415010",
+    "name": "Mataphao",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600415000",
+      "code": "0600415000",
+      "name": "New Washington"
+    }
+  },
+  {
+    "id": "0600415011",
+    "code": "0600415011",
+    "name": "Ochando",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600415000",
+      "code": "0600415000",
+      "name": "New Washington"
+    }
+  },
+  {
+    "id": "0600415012",
+    "code": "0600415012",
+    "name": "Pinamuk-an",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600415000",
+      "code": "0600415000",
+      "name": "New Washington"
+    }
+  },
+  {
+    "id": "0600415013",
+    "code": "0600415013",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600415000",
+      "code": "0600415000",
+      "name": "New Washington"
+    }
+  },
+  {
+    "id": "0600415014",
+    "code": "0600415014",
+    "name": "Polo",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600415000",
+      "code": "0600415000",
+      "name": "New Washington"
+    }
+  },
+  {
+    "id": "0600415015",
+    "code": "0600415015",
+    "name": "Puis",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600415000",
+      "code": "0600415000",
+      "name": "New Washington"
+    }
+  },
+  {
+    "id": "0600415017",
+    "code": "0600415017",
+    "name": "Tambak",
+    "type": "barangay",
+    "region": {
+      "id": "0600000000",
+      "code": "0600000000",
+      "name": "Region VI (Western Visayas)"
+    },
+    "province": {
+      "id": "0600400000",
+      "code": "0600400000",
+      "name": "Aklan"
+    },
+    "city_municipality": {
+      "id": "0600415000",
+      "code": "0600415000",
+      "name": "New Washington"
+    }
+  }
+]

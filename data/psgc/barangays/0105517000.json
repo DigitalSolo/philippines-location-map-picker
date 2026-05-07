@@ -1,0 +1,506 @@
+[
+  {
+    "id": "0105517001",
+    "code": "0105517001",
+    "name": "Ambonao",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105517000",
+      "code": "0105517000",
+      "name": "Calasiao"
+    }
+  },
+  {
+    "id": "0105517002",
+    "code": "0105517002",
+    "name": "Ambuetel",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105517000",
+      "code": "0105517000",
+      "name": "Calasiao"
+    }
+  },
+  {
+    "id": "0105517003",
+    "code": "0105517003",
+    "name": "Banaoang",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105517000",
+      "code": "0105517000",
+      "name": "Calasiao"
+    }
+  },
+  {
+    "id": "0105517004",
+    "code": "0105517004",
+    "name": "Bued",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105517000",
+      "code": "0105517000",
+      "name": "Calasiao"
+    }
+  },
+  {
+    "id": "0105517005",
+    "code": "0105517005",
+    "name": "Buenlag",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105517000",
+      "code": "0105517000",
+      "name": "Calasiao"
+    }
+  },
+  {
+    "id": "0105517006",
+    "code": "0105517006",
+    "name": "Cabilocaan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105517000",
+      "code": "0105517000",
+      "name": "Calasiao"
+    }
+  },
+  {
+    "id": "0105517007",
+    "code": "0105517007",
+    "name": "Dinalaoan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105517000",
+      "code": "0105517000",
+      "name": "Calasiao"
+    }
+  },
+  {
+    "id": "0105517008",
+    "code": "0105517008",
+    "name": "Doyong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105517000",
+      "code": "0105517000",
+      "name": "Calasiao"
+    }
+  },
+  {
+    "id": "0105517009",
+    "code": "0105517009",
+    "name": "Gabon",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105517000",
+      "code": "0105517000",
+      "name": "Calasiao"
+    }
+  },
+  {
+    "id": "0105517010",
+    "code": "0105517010",
+    "name": "Lasip",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105517000",
+      "code": "0105517000",
+      "name": "Calasiao"
+    }
+  },
+  {
+    "id": "0105517011",
+    "code": "0105517011",
+    "name": "Longos",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105517000",
+      "code": "0105517000",
+      "name": "Calasiao"
+    }
+  },
+  {
+    "id": "0105517012",
+    "code": "0105517012",
+    "name": "Lumbang",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105517000",
+      "code": "0105517000",
+      "name": "Calasiao"
+    }
+  },
+  {
+    "id": "0105517013",
+    "code": "0105517013",
+    "name": "Macabito",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105517000",
+      "code": "0105517000",
+      "name": "Calasiao"
+    }
+  },
+  {
+    "id": "0105517014",
+    "code": "0105517014",
+    "name": "Malabago",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105517000",
+      "code": "0105517000",
+      "name": "Calasiao"
+    }
+  },
+  {
+    "id": "0105517015",
+    "code": "0105517015",
+    "name": "Mancup",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105517000",
+      "code": "0105517000",
+      "name": "Calasiao"
+    }
+  },
+  {
+    "id": "0105517016",
+    "code": "0105517016",
+    "name": "Nagsaing",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105517000",
+      "code": "0105517000",
+      "name": "Calasiao"
+    }
+  },
+  {
+    "id": "0105517017",
+    "code": "0105517017",
+    "name": "Nalsian",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105517000",
+      "code": "0105517000",
+      "name": "Calasiao"
+    }
+  },
+  {
+    "id": "0105517018",
+    "code": "0105517018",
+    "name": "Poblacion East",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105517000",
+      "code": "0105517000",
+      "name": "Calasiao"
+    }
+  },
+  {
+    "id": "0105517019",
+    "code": "0105517019",
+    "name": "Poblacion West",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105517000",
+      "code": "0105517000",
+      "name": "Calasiao"
+    }
+  },
+  {
+    "id": "0105517020",
+    "code": "0105517020",
+    "name": "Quesban",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105517000",
+      "code": "0105517000",
+      "name": "Calasiao"
+    }
+  },
+  {
+    "id": "0105517022",
+    "code": "0105517022",
+    "name": "San Miguel",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105517000",
+      "code": "0105517000",
+      "name": "Calasiao"
+    }
+  },
+  {
+    "id": "0105517023",
+    "code": "0105517023",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105517000",
+      "code": "0105517000",
+      "name": "Calasiao"
+    }
+  },
+  {
+    "id": "0105517024",
+    "code": "0105517024",
+    "name": "Songkoy",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105517000",
+      "code": "0105517000",
+      "name": "Calasiao"
+    }
+  },
+  {
+    "id": "0105517025",
+    "code": "0105517025",
+    "name": "Talibaew",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105517000",
+      "code": "0105517000",
+      "name": "Calasiao"
+    }
+  }
+]

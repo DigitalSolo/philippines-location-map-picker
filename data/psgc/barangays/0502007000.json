@@ -1,0 +1,485 @@
+[
+  {
+    "id": "0502007001",
+    "code": "0502007001",
+    "name": "Alinawan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502007000",
+      "code": "0502007000",
+      "name": "Panganiban"
+    }
+  },
+  {
+    "id": "0502007002",
+    "code": "0502007002",
+    "name": "Babaguan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502007000",
+      "code": "0502007000",
+      "name": "Panganiban"
+    }
+  },
+  {
+    "id": "0502007003",
+    "code": "0502007003",
+    "name": "Bagong Bayan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502007000",
+      "code": "0502007000",
+      "name": "Panganiban"
+    }
+  },
+  {
+    "id": "0502007005",
+    "code": "0502007005",
+    "name": "Burabod",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502007000",
+      "code": "0502007000",
+      "name": "Panganiban"
+    }
+  },
+  {
+    "id": "0502007006",
+    "code": "0502007006",
+    "name": "Cabuyoan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502007000",
+      "code": "0502007000",
+      "name": "Panganiban"
+    }
+  },
+  {
+    "id": "0502007007",
+    "code": "0502007007",
+    "name": "Cagdarao",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502007000",
+      "code": "0502007000",
+      "name": "Panganiban"
+    }
+  },
+  {
+    "id": "0502007008",
+    "code": "0502007008",
+    "name": "Mabini",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502007000",
+      "code": "0502007000",
+      "name": "Panganiban"
+    }
+  },
+  {
+    "id": "0502007009",
+    "code": "0502007009",
+    "name": "Maculiw",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502007000",
+      "code": "0502007000",
+      "name": "Panganiban"
+    }
+  },
+  {
+    "id": "0502007010",
+    "code": "0502007010",
+    "name": "Panay",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502007000",
+      "code": "0502007000",
+      "name": "Panganiban"
+    }
+  },
+  {
+    "id": "0502007013",
+    "code": "0502007013",
+    "name": "Salvacion",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502007000",
+      "code": "0502007000",
+      "name": "Panganiban"
+    }
+  },
+  {
+    "id": "0502007014",
+    "code": "0502007014",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502007000",
+      "code": "0502007000",
+      "name": "Panganiban"
+    }
+  },
+  {
+    "id": "0502007015",
+    "code": "0502007015",
+    "name": "San Joaquin",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502007000",
+      "code": "0502007000",
+      "name": "Panganiban"
+    }
+  },
+  {
+    "id": "0502007016",
+    "code": "0502007016",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502007000",
+      "code": "0502007000",
+      "name": "Panganiban"
+    }
+  },
+  {
+    "id": "0502007017",
+    "code": "0502007017",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502007000",
+      "code": "0502007000",
+      "name": "Panganiban"
+    }
+  },
+  {
+    "id": "0502007018",
+    "code": "0502007018",
+    "name": "San Miguel",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502007000",
+      "code": "0502007000",
+      "name": "Panganiban"
+    }
+  },
+  {
+    "id": "0502007019",
+    "code": "0502007019",
+    "name": "San Nicolas",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502007000",
+      "code": "0502007000",
+      "name": "Panganiban"
+    }
+  },
+  {
+    "id": "0502007020",
+    "code": "0502007020",
+    "name": "San Pedro",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502007000",
+      "code": "0502007000",
+      "name": "Panganiban"
+    }
+  },
+  {
+    "id": "0502007021",
+    "code": "0502007021",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502007000",
+      "code": "0502007000",
+      "name": "Panganiban"
+    }
+  },
+  {
+    "id": "0502007022",
+    "code": "0502007022",
+    "name": "Santa Ana",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502007000",
+      "code": "0502007000",
+      "name": "Panganiban"
+    }
+  },
+  {
+    "id": "0502007023",
+    "code": "0502007023",
+    "name": "Santa Maria",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502007000",
+      "code": "0502007000",
+      "name": "Panganiban"
+    }
+  },
+  {
+    "id": "0502007024",
+    "code": "0502007024",
+    "name": "Santo Santiago",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502007000",
+      "code": "0502007000",
+      "name": "Panganiban"
+    }
+  },
+  {
+    "id": "0502007011",
+    "code": "0502007011",
+    "name": "Taopon",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502007000",
+      "code": "0502007000",
+      "name": "Panganiban"
+    }
+  },
+  {
+    "id": "0502007026",
+    "code": "0502007026",
+    "name": "Tibo",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0502000000",
+      "code": "0502000000",
+      "name": "Catanduanes"
+    },
+    "city_municipality": {
+      "id": "0502007000",
+      "code": "0502007000",
+      "name": "Panganiban"
+    }
+  }
+]

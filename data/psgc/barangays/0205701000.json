@@ -1,0 +1,527 @@
+[
+  {
+    "id": "0205701018",
+    "code": "0205701018",
+    "name": "Alicia",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205701000",
+      "code": "0205701000",
+      "name": "Aglipay"
+    }
+  },
+  {
+    "id": "0205701019",
+    "code": "0205701019",
+    "name": "Cabugao",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205701000",
+      "code": "0205701000",
+      "name": "Aglipay"
+    }
+  },
+  {
+    "id": "0205701001",
+    "code": "0205701001",
+    "name": "Dagupan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205701000",
+      "code": "0205701000",
+      "name": "Aglipay"
+    }
+  },
+  {
+    "id": "0205701020",
+    "code": "0205701020",
+    "name": "Diodol",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205701000",
+      "code": "0205701000",
+      "name": "Aglipay"
+    }
+  },
+  {
+    "id": "0205701002",
+    "code": "0205701002",
+    "name": "Dumabel",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205701000",
+      "code": "0205701000",
+      "name": "Aglipay"
+    }
+  },
+  {
+    "id": "0205701003",
+    "code": "0205701003",
+    "name": "Dungo",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205701000",
+      "code": "0205701000",
+      "name": "Aglipay"
+    }
+  },
+  {
+    "id": "0205701004",
+    "code": "0205701004",
+    "name": "Guinalbin",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205701000",
+      "code": "0205701000",
+      "name": "Aglipay"
+    }
+  },
+  {
+    "id": "0205701005",
+    "code": "0205701005",
+    "name": "Ligaya",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205701000",
+      "code": "0205701000",
+      "name": "Aglipay"
+    }
+  },
+  {
+    "id": "0205701021",
+    "code": "0205701021",
+    "name": "Nagabgaban",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205701000",
+      "code": "0205701000",
+      "name": "Aglipay"
+    }
+  },
+  {
+    "id": "0205701006",
+    "code": "0205701006",
+    "name": "Palacian",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205701000",
+      "code": "0205701000",
+      "name": "Aglipay"
+    }
+  },
+  {
+    "id": "0205701022",
+    "code": "0205701022",
+    "name": "Pinaripad Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205701000",
+      "code": "0205701000",
+      "name": "Aglipay"
+    }
+  },
+  {
+    "id": "0205701007",
+    "code": "0205701007",
+    "name": "Pinaripad Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205701000",
+      "code": "0205701000",
+      "name": "Aglipay"
+    }
+  },
+  {
+    "id": "0205701008",
+    "code": "0205701008",
+    "name": "Progreso",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205701000",
+      "code": "0205701000",
+      "name": "Aglipay"
+    }
+  },
+  {
+    "id": "0205701009",
+    "code": "0205701009",
+    "name": "Ramos",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205701000",
+      "code": "0205701000",
+      "name": "Aglipay"
+    }
+  },
+  {
+    "id": "0205701010",
+    "code": "0205701010",
+    "name": "Rang-ayan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205701000",
+      "code": "0205701000",
+      "name": "Aglipay"
+    }
+  },
+  {
+    "id": "0205701011",
+    "code": "0205701011",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205701000",
+      "code": "0205701000",
+      "name": "Aglipay"
+    }
+  },
+  {
+    "id": "0205701023",
+    "code": "0205701023",
+    "name": "San Benigno",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205701000",
+      "code": "0205701000",
+      "name": "Aglipay"
+    }
+  },
+  {
+    "id": "0205701012",
+    "code": "0205701012",
+    "name": "San Francisco",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205701000",
+      "code": "0205701000",
+      "name": "Aglipay"
+    }
+  },
+  {
+    "id": "0205701013",
+    "code": "0205701013",
+    "name": "San Leonardo",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205701000",
+      "code": "0205701000",
+      "name": "Aglipay"
+    }
+  },
+  {
+    "id": "0205701024",
+    "code": "0205701024",
+    "name": "San Manuel",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205701000",
+      "code": "0205701000",
+      "name": "Aglipay"
+    }
+  },
+  {
+    "id": "0205701014",
+    "code": "0205701014",
+    "name": "San Ramon",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205701000",
+      "code": "0205701000",
+      "name": "Aglipay"
+    }
+  },
+  {
+    "id": "0205701015",
+    "code": "0205701015",
+    "name": "Victoria",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205701000",
+      "code": "0205701000",
+      "name": "Aglipay"
+    }
+  },
+  {
+    "id": "0205701016",
+    "code": "0205701016",
+    "name": "Villa Pagaduan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205701000",
+      "code": "0205701000",
+      "name": "Aglipay"
+    }
+  },
+  {
+    "id": "0205701017",
+    "code": "0205701017",
+    "name": "Villa Santiago",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205701000",
+      "code": "0205701000",
+      "name": "Aglipay"
+    }
+  },
+  {
+    "id": "0205701025",
+    "code": "0205701025",
+    "name": "Villa Ventura",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205701000",
+      "code": "0205701000",
+      "name": "Aglipay"
+    }
+  }
+]

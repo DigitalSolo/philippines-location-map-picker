@@ -1,0 +1,386 @@
+[
+  {
+    "id": "0804801000",
+    "code": "0804801000",
+    "name": "Allen",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    }
+  },
+  {
+    "id": "0804802000",
+    "code": "0804802000",
+    "name": "Biri",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    }
+  },
+  {
+    "id": "0804803000",
+    "code": "0804803000",
+    "name": "Bobon",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    }
+  },
+  {
+    "id": "0804804000",
+    "code": "0804804000",
+    "name": "Capul",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    }
+  },
+  {
+    "id": "0804805000",
+    "code": "0804805000",
+    "name": "Catarman",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    }
+  },
+  {
+    "id": "0804806000",
+    "code": "0804806000",
+    "name": "Catubig",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    }
+  },
+  {
+    "id": "0804807000",
+    "code": "0804807000",
+    "name": "Gamay",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    }
+  },
+  {
+    "id": "0804808000",
+    "code": "0804808000",
+    "name": "Laoang",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    }
+  },
+  {
+    "id": "0804809000",
+    "code": "0804809000",
+    "name": "Lapinig",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    }
+  },
+  {
+    "id": "0804810000",
+    "code": "0804810000",
+    "name": "Las Navas",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    }
+  },
+  {
+    "id": "0804811000",
+    "code": "0804811000",
+    "name": "Lavezares",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    }
+  },
+  {
+    "id": "0804824000",
+    "code": "0804824000",
+    "name": "Lope De Vega",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    }
+  },
+  {
+    "id": "0804812000",
+    "code": "0804812000",
+    "name": "Mapanas",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    }
+  },
+  {
+    "id": "0804813000",
+    "code": "0804813000",
+    "name": "Mondragon",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    }
+  },
+  {
+    "id": "0804814000",
+    "code": "0804814000",
+    "name": "Palapag",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    }
+  },
+  {
+    "id": "0804815000",
+    "code": "0804815000",
+    "name": "Pambujan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    }
+  },
+  {
+    "id": "0804816000",
+    "code": "0804816000",
+    "name": "Rosario",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    }
+  },
+  {
+    "id": "0804817000",
+    "code": "0804817000",
+    "name": "San Antonio",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    }
+  },
+  {
+    "id": "0804818000",
+    "code": "0804818000",
+    "name": "San Isidro",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    }
+  },
+  {
+    "id": "0804819000",
+    "code": "0804819000",
+    "name": "San Jose",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    }
+  },
+  {
+    "id": "0804820000",
+    "code": "0804820000",
+    "name": "San Roque",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    }
+  },
+  {
+    "id": "0804821000",
+    "code": "0804821000",
+    "name": "San Vicente",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    }
+  },
+  {
+    "id": "0804822000",
+    "code": "0804822000",
+    "name": "Silvino Lobos",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    }
+  },
+  {
+    "id": "0804823000",
+    "code": "0804823000",
+    "name": "Victoria",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0804800000",
+      "code": "0804800000",
+      "name": "Northern Samar"
+    }
+  }
+]

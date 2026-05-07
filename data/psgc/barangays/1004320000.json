@@ -1,0 +1,212 @@
+[
+  {
+    "id": "1004320001",
+    "code": "1004320001",
+    "name": "Don Pedro",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004320000",
+      "code": "1004320000",
+      "name": "Naawan"
+    }
+  },
+  {
+    "id": "1004320002",
+    "code": "1004320002",
+    "name": "Linangkayan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004320000",
+      "code": "1004320000",
+      "name": "Naawan"
+    }
+  },
+  {
+    "id": "1004320003",
+    "code": "1004320003",
+    "name": "Lubilan",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004320000",
+      "code": "1004320000",
+      "name": "Naawan"
+    }
+  },
+  {
+    "id": "1004320004",
+    "code": "1004320004",
+    "name": "Mapulog",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004320000",
+      "code": "1004320000",
+      "name": "Naawan"
+    }
+  },
+  {
+    "id": "1004320005",
+    "code": "1004320005",
+    "name": "Maputi",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004320000",
+      "code": "1004320000",
+      "name": "Naawan"
+    }
+  },
+  {
+    "id": "1004320006",
+    "code": "1004320006",
+    "name": "Mat-i",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004320000",
+      "code": "1004320000",
+      "name": "Naawan"
+    }
+  },
+  {
+    "id": "1004320007",
+    "code": "1004320007",
+    "name": "Patag",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004320000",
+      "code": "1004320000",
+      "name": "Naawan"
+    }
+  },
+  {
+    "id": "1004320008",
+    "code": "1004320008",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004320000",
+      "code": "1004320000",
+      "name": "Naawan"
+    }
+  },
+  {
+    "id": "1004320009",
+    "code": "1004320009",
+    "name": "Tagbalogo",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004320000",
+      "code": "1004320000",
+      "name": "Naawan"
+    }
+  },
+  {
+    "id": "1004320010",
+    "code": "1004320010",
+    "name": "Tuboran",
+    "type": "barangay",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    },
+    "province": {
+      "id": "1004300000",
+      "code": "1004300000",
+      "name": "Misamis Oriental"
+    },
+    "city_municipality": {
+      "id": "1004320000",
+      "code": "1004320000",
+      "name": "Naawan"
+    }
+  }
+]

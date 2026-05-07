@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1400105001",
+    "code": "1400105001",
+    "name": "Ableg",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400105000",
+      "code": "1400105000",
+      "name": "Daguioman"
+    }
+  },
+  {
+    "id": "1400105002",
+    "code": "1400105002",
+    "name": "Cabaruyan",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400105000",
+      "code": "1400105000",
+      "name": "Daguioman"
+    }
+  },
+  {
+    "id": "1400105003",
+    "code": "1400105003",
+    "name": "Pikek",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400105000",
+      "code": "1400105000",
+      "name": "Daguioman"
+    }
+  },
+  {
+    "id": "1400105004",
+    "code": "1400105004",
+    "name": "Tui",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1400100000",
+      "code": "1400100000",
+      "name": "Abra"
+    },
+    "city_municipality": {
+      "id": "1400105000",
+      "code": "1400105000",
+      "name": "Daguioman"
+    }
+  }
+]

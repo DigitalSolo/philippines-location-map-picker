@@ -1,0 +1,128 @@
+[
+  {
+    "id": "0200905001",
+    "code": "0200905001",
+    "name": "Chavayan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0200900000",
+      "code": "0200900000",
+      "name": "Batanes"
+    },
+    "city_municipality": {
+      "id": "0200905000",
+      "code": "0200905000",
+      "name": "Sabtang"
+    }
+  },
+  {
+    "id": "0200905002",
+    "code": "0200905002",
+    "name": "Malakdang",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0200900000",
+      "code": "0200900000",
+      "name": "Batanes"
+    },
+    "city_municipality": {
+      "id": "0200905000",
+      "code": "0200905000",
+      "name": "Sabtang"
+    }
+  },
+  {
+    "id": "0200905003",
+    "code": "0200905003",
+    "name": "Nakanmuan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0200900000",
+      "code": "0200900000",
+      "name": "Batanes"
+    },
+    "city_municipality": {
+      "id": "0200905000",
+      "code": "0200905000",
+      "name": "Sabtang"
+    }
+  },
+  {
+    "id": "0200905004",
+    "code": "0200905004",
+    "name": "Savidug",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0200900000",
+      "code": "0200900000",
+      "name": "Batanes"
+    },
+    "city_municipality": {
+      "id": "0200905000",
+      "code": "0200905000",
+      "name": "Sabtang"
+    }
+  },
+  {
+    "id": "0200905005",
+    "code": "0200905005",
+    "name": "Sinakan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0200900000",
+      "code": "0200900000",
+      "name": "Batanes"
+    },
+    "city_municipality": {
+      "id": "0200905000",
+      "code": "0200905000",
+      "name": "Sabtang"
+    }
+  },
+  {
+    "id": "0200905006",
+    "code": "0200905006",
+    "name": "Sumnanga",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0200900000",
+      "code": "0200900000",
+      "name": "Batanes"
+    },
+    "city_municipality": {
+      "id": "0200905000",
+      "code": "0200905000",
+      "name": "Sabtang"
+    }
+  }
+]

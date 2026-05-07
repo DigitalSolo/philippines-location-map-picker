@@ -1,0 +1,590 @@
+[
+  {
+    "id": "1108209001",
+    "code": "1108209001",
+    "name": "Anislagan",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108209000",
+      "code": "1108209000",
+      "name": "Nabunturan"
+    }
+  },
+  {
+    "id": "1108209002",
+    "code": "1108209002",
+    "name": "Antequera",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108209000",
+      "code": "1108209000",
+      "name": "Nabunturan"
+    }
+  },
+  {
+    "id": "1108209003",
+    "code": "1108209003",
+    "name": "Basak",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108209000",
+      "code": "1108209000",
+      "name": "Nabunturan"
+    }
+  },
+  {
+    "id": "1108209027",
+    "code": "1108209027",
+    "name": "Bayabas",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108209000",
+      "code": "1108209000",
+      "name": "Nabunturan"
+    }
+  },
+  {
+    "id": "1108209028",
+    "code": "1108209028",
+    "name": "Bukal",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108209000",
+      "code": "1108209000",
+      "name": "Nabunturan"
+    }
+  },
+  {
+    "id": "1108209004",
+    "code": "1108209004",
+    "name": "Cabacungan",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108209000",
+      "code": "1108209000",
+      "name": "Nabunturan"
+    }
+  },
+  {
+    "id": "1108209005",
+    "code": "1108209005",
+    "name": "Cabidianan",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108209000",
+      "code": "1108209000",
+      "name": "Nabunturan"
+    }
+  },
+  {
+    "id": "1108209006",
+    "code": "1108209006",
+    "name": "Katipunan",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108209000",
+      "code": "1108209000",
+      "name": "Nabunturan"
+    }
+  },
+  {
+    "id": "1108209007",
+    "code": "1108209007",
+    "name": "Libasan",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108209000",
+      "code": "1108209000",
+      "name": "Nabunturan"
+    }
+  },
+  {
+    "id": "1108209008",
+    "code": "1108209008",
+    "name": "Linda",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108209000",
+      "code": "1108209000",
+      "name": "Nabunturan"
+    }
+  },
+  {
+    "id": "1108209009",
+    "code": "1108209009",
+    "name": "Magading",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108209000",
+      "code": "1108209000",
+      "name": "Nabunturan"
+    }
+  },
+  {
+    "id": "1108209010",
+    "code": "1108209010",
+    "name": "Magsaysay",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108209000",
+      "code": "1108209000",
+      "name": "Nabunturan"
+    }
+  },
+  {
+    "id": "1108209011",
+    "code": "1108209011",
+    "name": "Mainit",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108209000",
+      "code": "1108209000",
+      "name": "Nabunturan"
+    }
+  },
+  {
+    "id": "1108209012",
+    "code": "1108209012",
+    "name": "Manat",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108209000",
+      "code": "1108209000",
+      "name": "Nabunturan"
+    }
+  },
+  {
+    "id": "1108209013",
+    "code": "1108209013",
+    "name": "Matilo",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108209000",
+      "code": "1108209000",
+      "name": "Nabunturan"
+    }
+  },
+  {
+    "id": "1108209014",
+    "code": "1108209014",
+    "name": "Mipangi",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108209000",
+      "code": "1108209000",
+      "name": "Nabunturan"
+    }
+  },
+  {
+    "id": "1108209015",
+    "code": "1108209015",
+    "name": "New Dauis",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108209000",
+      "code": "1108209000",
+      "name": "Nabunturan"
+    }
+  },
+  {
+    "id": "1108209016",
+    "code": "1108209016",
+    "name": "New Sibonga",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108209000",
+      "code": "1108209000",
+      "name": "Nabunturan"
+    }
+  },
+  {
+    "id": "1108209017",
+    "code": "1108209017",
+    "name": "Ogao",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108209000",
+      "code": "1108209000",
+      "name": "Nabunturan"
+    }
+  },
+  {
+    "id": "1108209018",
+    "code": "1108209018",
+    "name": "Pangutosan",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108209000",
+      "code": "1108209000",
+      "name": "Nabunturan"
+    }
+  },
+  {
+    "id": "1108209019",
+    "code": "1108209019",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108209000",
+      "code": "1108209000",
+      "name": "Nabunturan"
+    }
+  },
+  {
+    "id": "1108209020",
+    "code": "1108209020",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108209000",
+      "code": "1108209000",
+      "name": "Nabunturan"
+    }
+  },
+  {
+    "id": "1108209021",
+    "code": "1108209021",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108209000",
+      "code": "1108209000",
+      "name": "Nabunturan"
+    }
+  },
+  {
+    "id": "1108209022",
+    "code": "1108209022",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108209000",
+      "code": "1108209000",
+      "name": "Nabunturan"
+    }
+  },
+  {
+    "id": "1108209023",
+    "code": "1108209023",
+    "name": "Santa Maria",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108209000",
+      "code": "1108209000",
+      "name": "Nabunturan"
+    }
+  },
+  {
+    "id": "1108209024",
+    "code": "1108209024",
+    "name": "Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108209000",
+      "code": "1108209000",
+      "name": "Nabunturan"
+    }
+  },
+  {
+    "id": "1108209025",
+    "code": "1108209025",
+    "name": "Sasa",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108209000",
+      "code": "1108209000",
+      "name": "Nabunturan"
+    }
+  },
+  {
+    "id": "1108209026",
+    "code": "1108209026",
+    "name": "Tagnocon",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108200000",
+      "code": "1108200000",
+      "name": "Davao de Oro"
+    },
+    "city_municipality": {
+      "id": "1108209000",
+      "code": "1108209000",
+      "name": "Nabunturan"
+    }
+  }
+]

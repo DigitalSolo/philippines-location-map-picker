@@ -1,0 +1,674 @@
+[
+  {
+    "id": "1804515001",
+    "code": "1804515001",
+    "name": "Bantayan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804515000",
+      "code": "1804515000",
+      "name": "City of Kabankalan"
+    }
+  },
+  {
+    "id": "1804515021",
+    "code": "1804515021",
+    "name": "Barangay 1",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804515000",
+      "code": "1804515000",
+      "name": "City of Kabankalan"
+    }
+  },
+  {
+    "id": "1804515023",
+    "code": "1804515023",
+    "name": "Barangay 2",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804515000",
+      "code": "1804515000",
+      "name": "City of Kabankalan"
+    }
+  },
+  {
+    "id": "1804515024",
+    "code": "1804515024",
+    "name": "Barangay 3",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804515000",
+      "code": "1804515000",
+      "name": "City of Kabankalan"
+    }
+  },
+  {
+    "id": "1804515025",
+    "code": "1804515025",
+    "name": "Barangay 4",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804515000",
+      "code": "1804515000",
+      "name": "City of Kabankalan"
+    }
+  },
+  {
+    "id": "1804515016",
+    "code": "1804515016",
+    "name": "Barangay 5",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804515000",
+      "code": "1804515000",
+      "name": "City of Kabankalan"
+    }
+  },
+  {
+    "id": "1804515017",
+    "code": "1804515017",
+    "name": "Barangay 6",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804515000",
+      "code": "1804515000",
+      "name": "City of Kabankalan"
+    }
+  },
+  {
+    "id": "1804515018",
+    "code": "1804515018",
+    "name": "Barangay 7",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804515000",
+      "code": "1804515000",
+      "name": "City of Kabankalan"
+    }
+  },
+  {
+    "id": "1804515019",
+    "code": "1804515019",
+    "name": "Barangay 8",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804515000",
+      "code": "1804515000",
+      "name": "City of Kabankalan"
+    }
+  },
+  {
+    "id": "1804515020",
+    "code": "1804515020",
+    "name": "Barangay 9",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804515000",
+      "code": "1804515000",
+      "name": "City of Kabankalan"
+    }
+  },
+  {
+    "id": "1804515002",
+    "code": "1804515002",
+    "name": "Binicuil",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804515000",
+      "code": "1804515000",
+      "name": "City of Kabankalan"
+    }
+  },
+  {
+    "id": "1804515003",
+    "code": "1804515003",
+    "name": "Camansi",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804515000",
+      "code": "1804515000",
+      "name": "City of Kabankalan"
+    }
+  },
+  {
+    "id": "1804515004",
+    "code": "1804515004",
+    "name": "Camingawan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804515000",
+      "code": "1804515000",
+      "name": "City of Kabankalan"
+    }
+  },
+  {
+    "id": "1804515005",
+    "code": "1804515005",
+    "name": "Camugao",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804515000",
+      "code": "1804515000",
+      "name": "City of Kabankalan"
+    }
+  },
+  {
+    "id": "1804515006",
+    "code": "1804515006",
+    "name": "Carol-an",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804515000",
+      "code": "1804515000",
+      "name": "City of Kabankalan"
+    }
+  },
+  {
+    "id": "1804515007",
+    "code": "1804515007",
+    "name": "Daan Banua",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804515000",
+      "code": "1804515000",
+      "name": "City of Kabankalan"
+    }
+  },
+  {
+    "id": "1804515008",
+    "code": "1804515008",
+    "name": "Hilamonan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804515000",
+      "code": "1804515000",
+      "name": "City of Kabankalan"
+    }
+  },
+  {
+    "id": "1804515009",
+    "code": "1804515009",
+    "name": "Inapoy",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804515000",
+      "code": "1804515000",
+      "name": "City of Kabankalan"
+    }
+  },
+  {
+    "id": "1804515010",
+    "code": "1804515010",
+    "name": "Linao",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804515000",
+      "code": "1804515000",
+      "name": "City of Kabankalan"
+    }
+  },
+  {
+    "id": "1804515011",
+    "code": "1804515011",
+    "name": "Locotan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804515000",
+      "code": "1804515000",
+      "name": "City of Kabankalan"
+    }
+  },
+  {
+    "id": "1804515012",
+    "code": "1804515012",
+    "name": "Magballo",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804515000",
+      "code": "1804515000",
+      "name": "City of Kabankalan"
+    }
+  },
+  {
+    "id": "1804515013",
+    "code": "1804515013",
+    "name": "Oringao",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804515000",
+      "code": "1804515000",
+      "name": "City of Kabankalan"
+    }
+  },
+  {
+    "id": "1804515014",
+    "code": "1804515014",
+    "name": "Orong",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804515000",
+      "code": "1804515000",
+      "name": "City of Kabankalan"
+    }
+  },
+  {
+    "id": "1804515015",
+    "code": "1804515015",
+    "name": "Pinaguinpinan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804515000",
+      "code": "1804515000",
+      "name": "City of Kabankalan"
+    }
+  },
+  {
+    "id": "1804515026",
+    "code": "1804515026",
+    "name": "Salong",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804515000",
+      "code": "1804515000",
+      "name": "City of Kabankalan"
+    }
+  },
+  {
+    "id": "1804515027",
+    "code": "1804515027",
+    "name": "Tabugon",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804515000",
+      "code": "1804515000",
+      "name": "City of Kabankalan"
+    }
+  },
+  {
+    "id": "1804515028",
+    "code": "1804515028",
+    "name": "Tagoc",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804515000",
+      "code": "1804515000",
+      "name": "City of Kabankalan"
+    }
+  },
+  {
+    "id": "1804515033",
+    "code": "1804515033",
+    "name": "Tagukon",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804515000",
+      "code": "1804515000",
+      "name": "City of Kabankalan"
+    }
+  },
+  {
+    "id": "1804515029",
+    "code": "1804515029",
+    "name": "Talubangi",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804515000",
+      "code": "1804515000",
+      "name": "City of Kabankalan"
+    }
+  },
+  {
+    "id": "1804515030",
+    "code": "1804515030",
+    "name": "Tampalon",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804515000",
+      "code": "1804515000",
+      "name": "City of Kabankalan"
+    }
+  },
+  {
+    "id": "1804515031",
+    "code": "1804515031",
+    "name": "Tan-Awan",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804515000",
+      "code": "1804515000",
+      "name": "City of Kabankalan"
+    }
+  },
+  {
+    "id": "1804515032",
+    "code": "1804515032",
+    "name": "Tapi",
+    "type": "barangay",
+    "region": {
+      "id": "1800000000",
+      "code": "1800000000",
+      "name": "Negros Island Region (NIR)"
+    },
+    "province": {
+      "id": "1804500000",
+      "code": "1804500000",
+      "name": "Negros Occidental"
+    },
+    "city_municipality": {
+      "id": "1804515000",
+      "code": "1804515000",
+      "name": "City of Kabankalan"
+    }
+  }
+]

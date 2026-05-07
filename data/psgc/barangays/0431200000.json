@@ -1,0 +1,530 @@
+[
+  {
+    "id": "0431200002",
+    "code": "0431200002",
+    "name": "Barangay 1",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "city_municipality": {
+      "id": "0431200000",
+      "code": "0431200000",
+      "name": "City of Lucena"
+    }
+  },
+  {
+    "id": "0431200003",
+    "code": "0431200003",
+    "name": "Barangay 10",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "city_municipality": {
+      "id": "0431200000",
+      "code": "0431200000",
+      "name": "City of Lucena"
+    }
+  },
+  {
+    "id": "0431200004",
+    "code": "0431200004",
+    "name": "Barangay 11",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "city_municipality": {
+      "id": "0431200000",
+      "code": "0431200000",
+      "name": "City of Lucena"
+    }
+  },
+  {
+    "id": "0431200005",
+    "code": "0431200005",
+    "name": "Barangay 2",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "city_municipality": {
+      "id": "0431200000",
+      "code": "0431200000",
+      "name": "City of Lucena"
+    }
+  },
+  {
+    "id": "0431200006",
+    "code": "0431200006",
+    "name": "Barangay 3",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "city_municipality": {
+      "id": "0431200000",
+      "code": "0431200000",
+      "name": "City of Lucena"
+    }
+  },
+  {
+    "id": "0431200007",
+    "code": "0431200007",
+    "name": "Barangay 4",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "city_municipality": {
+      "id": "0431200000",
+      "code": "0431200000",
+      "name": "City of Lucena"
+    }
+  },
+  {
+    "id": "0431200008",
+    "code": "0431200008",
+    "name": "Barangay 5",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "city_municipality": {
+      "id": "0431200000",
+      "code": "0431200000",
+      "name": "City of Lucena"
+    }
+  },
+  {
+    "id": "0431200009",
+    "code": "0431200009",
+    "name": "Barangay 6",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "city_municipality": {
+      "id": "0431200000",
+      "code": "0431200000",
+      "name": "City of Lucena"
+    }
+  },
+  {
+    "id": "0431200010",
+    "code": "0431200010",
+    "name": "Barangay 7",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "city_municipality": {
+      "id": "0431200000",
+      "code": "0431200000",
+      "name": "City of Lucena"
+    }
+  },
+  {
+    "id": "0431200011",
+    "code": "0431200011",
+    "name": "Barangay 8",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "city_municipality": {
+      "id": "0431200000",
+      "code": "0431200000",
+      "name": "City of Lucena"
+    }
+  },
+  {
+    "id": "0431200012",
+    "code": "0431200012",
+    "name": "Barangay 9",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "city_municipality": {
+      "id": "0431200000",
+      "code": "0431200000",
+      "name": "City of Lucena"
+    }
+  },
+  {
+    "id": "0431200013",
+    "code": "0431200013",
+    "name": "Barra",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "city_municipality": {
+      "id": "0431200000",
+      "code": "0431200000",
+      "name": "City of Lucena"
+    }
+  },
+  {
+    "id": "0431200014",
+    "code": "0431200014",
+    "name": "Bocohan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "city_municipality": {
+      "id": "0431200000",
+      "code": "0431200000",
+      "name": "City of Lucena"
+    }
+  },
+  {
+    "id": "0431200016",
+    "code": "0431200016",
+    "name": "Cotta",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "city_municipality": {
+      "id": "0431200000",
+      "code": "0431200000",
+      "name": "City of Lucena"
+    }
+  },
+  {
+    "id": "0431200018",
+    "code": "0431200018",
+    "name": "Dalahican",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "city_municipality": {
+      "id": "0431200000",
+      "code": "0431200000",
+      "name": "City of Lucena"
+    }
+  },
+  {
+    "id": "0431200019",
+    "code": "0431200019",
+    "name": "Domoit",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "city_municipality": {
+      "id": "0431200000",
+      "code": "0431200000",
+      "name": "City of Lucena"
+    }
+  },
+  {
+    "id": "0431200017",
+    "code": "0431200017",
+    "name": "Gulang-gulang",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "city_municipality": {
+      "id": "0431200000",
+      "code": "0431200000",
+      "name": "City of Lucena"
+    }
+  },
+  {
+    "id": "0431200020",
+    "code": "0431200020",
+    "name": "Ibabang Dupay",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "city_municipality": {
+      "id": "0431200000",
+      "code": "0431200000",
+      "name": "City of Lucena"
+    }
+  },
+  {
+    "id": "0431200021",
+    "code": "0431200021",
+    "name": "Ibabang Iyam",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "city_municipality": {
+      "id": "0431200000",
+      "code": "0431200000",
+      "name": "City of Lucena"
+    }
+  },
+  {
+    "id": "0431200022",
+    "code": "0431200022",
+    "name": "Ibabang Talim",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "city_municipality": {
+      "id": "0431200000",
+      "code": "0431200000",
+      "name": "City of Lucena"
+    }
+  },
+  {
+    "id": "0431200023",
+    "code": "0431200023",
+    "name": "Ilayang Dupay",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "city_municipality": {
+      "id": "0431200000",
+      "code": "0431200000",
+      "name": "City of Lucena"
+    }
+  },
+  {
+    "id": "0431200024",
+    "code": "0431200024",
+    "name": "Ilayang Iyam",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "city_municipality": {
+      "id": "0431200000",
+      "code": "0431200000",
+      "name": "City of Lucena"
+    }
+  },
+  {
+    "id": "0431200025",
+    "code": "0431200025",
+    "name": "Ilayang Talim",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "city_municipality": {
+      "id": "0431200000",
+      "code": "0431200000",
+      "name": "City of Lucena"
+    }
+  },
+  {
+    "id": "0431200026",
+    "code": "0431200026",
+    "name": "Isabang",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "city_municipality": {
+      "id": "0431200000",
+      "code": "0431200000",
+      "name": "City of Lucena"
+    }
+  },
+  {
+    "id": "0431200035",
+    "code": "0431200035",
+    "name": "Market View",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "city_municipality": {
+      "id": "0431200000",
+      "code": "0431200000",
+      "name": "City of Lucena"
+    }
+  },
+  {
+    "id": "0431200015",
+    "code": "0431200015",
+    "name": "Mayao Castillo",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "city_municipality": {
+      "id": "0431200000",
+      "code": "0431200000",
+      "name": "City of Lucena"
+    }
+  },
+  {
+    "id": "0431200027",
+    "code": "0431200027",
+    "name": "Mayao Crossing",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "city_municipality": {
+      "id": "0431200000",
+      "code": "0431200000",
+      "name": "City of Lucena"
+    }
+  },
+  {
+    "id": "0431200028",
+    "code": "0431200028",
+    "name": "Mayao Kanluran",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "city_municipality": {
+      "id": "0431200000",
+      "code": "0431200000",
+      "name": "City of Lucena"
+    }
+  },
+  {
+    "id": "0431200029",
+    "code": "0431200029",
+    "name": "Mayao Parada",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "city_municipality": {
+      "id": "0431200000",
+      "code": "0431200000",
+      "name": "City of Lucena"
+    }
+  },
+  {
+    "id": "0431200030",
+    "code": "0431200030",
+    "name": "Mayao Silangan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "city_municipality": {
+      "id": "0431200000",
+      "code": "0431200000",
+      "name": "City of Lucena"
+    }
+  },
+  {
+    "id": "0431200032",
+    "code": "0431200032",
+    "name": "Ransohan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "city_municipality": {
+      "id": "0431200000",
+      "code": "0431200000",
+      "name": "City of Lucena"
+    }
+  },
+  {
+    "id": "0431200033",
+    "code": "0431200033",
+    "name": "Salinas",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "city_municipality": {
+      "id": "0431200000",
+      "code": "0431200000",
+      "name": "City of Lucena"
+    }
+  },
+  {
+    "id": "0431200034",
+    "code": "0431200034",
+    "name": "Talao-talao",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "city_municipality": {
+      "id": "0431200000",
+      "code": "0431200000",
+      "name": "City of Lucena"
+    }
+  }
+]

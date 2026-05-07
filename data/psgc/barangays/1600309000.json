@@ -1,0 +1,527 @@
+[
+  {
+    "id": "1600309001",
+    "code": "1600309001",
+    "name": "Anislagan",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600309000",
+      "code": "1600309000",
+      "name": "San Luis"
+    }
+  },
+  {
+    "id": "1600309008",
+    "code": "1600309008",
+    "name": "Balit",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600309000",
+      "code": "1600309000",
+      "name": "San Luis"
+    }
+  },
+  {
+    "id": "1600309002",
+    "code": "1600309002",
+    "name": "Baylo",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600309000",
+      "code": "1600309000",
+      "name": "San Luis"
+    }
+  },
+  {
+    "id": "1600309009",
+    "code": "1600309009",
+    "name": "Binicalan",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600309000",
+      "code": "1600309000",
+      "name": "San Luis"
+    }
+  },
+  {
+    "id": "1600309010",
+    "code": "1600309010",
+    "name": "Cecilia",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600309000",
+      "code": "1600309000",
+      "name": "San Luis"
+    }
+  },
+  {
+    "id": "1600309003",
+    "code": "1600309003",
+    "name": "Coalicion",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600309000",
+      "code": "1600309000",
+      "name": "San Luis"
+    }
+  },
+  {
+    "id": "1600309004",
+    "code": "1600309004",
+    "name": "Culi",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600309000",
+      "code": "1600309000",
+      "name": "San Luis"
+    }
+  },
+  {
+    "id": "1600309011",
+    "code": "1600309011",
+    "name": "Dimasalang",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600309000",
+      "code": "1600309000",
+      "name": "San Luis"
+    }
+  },
+  {
+    "id": "1600309012",
+    "code": "1600309012",
+    "name": "Don Alejandro",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600309000",
+      "code": "1600309000",
+      "name": "San Luis"
+    }
+  },
+  {
+    "id": "1600309013",
+    "code": "1600309013",
+    "name": "Don Pedro",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600309000",
+      "code": "1600309000",
+      "name": "San Luis"
+    }
+  },
+  {
+    "id": "1600309014",
+    "code": "1600309014",
+    "name": "Doña Flavia",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600309000",
+      "code": "1600309000",
+      "name": "San Luis"
+    }
+  },
+  {
+    "id": "1600309025",
+    "code": "1600309025",
+    "name": "Doña Maxima",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600309000",
+      "code": "1600309000",
+      "name": "San Luis"
+    }
+  },
+  {
+    "id": "1600309015",
+    "code": "1600309015",
+    "name": "Mahagsay",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600309000",
+      "code": "1600309000",
+      "name": "San Luis"
+    }
+  },
+  {
+    "id": "1600309016",
+    "code": "1600309016",
+    "name": "Mahapag",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600309000",
+      "code": "1600309000",
+      "name": "San Luis"
+    }
+  },
+  {
+    "id": "1600309017",
+    "code": "1600309017",
+    "name": "Mahayahay",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600309000",
+      "code": "1600309000",
+      "name": "San Luis"
+    }
+  },
+  {
+    "id": "1600309018",
+    "code": "1600309018",
+    "name": "Muritula",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600309000",
+      "code": "1600309000",
+      "name": "San Luis"
+    }
+  },
+  {
+    "id": "1600309005",
+    "code": "1600309005",
+    "name": "Nuevo Trabajo",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600309000",
+      "code": "1600309000",
+      "name": "San Luis"
+    }
+  },
+  {
+    "id": "1600309006",
+    "code": "1600309006",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600309000",
+      "code": "1600309000",
+      "name": "San Luis"
+    }
+  },
+  {
+    "id": "1600309019",
+    "code": "1600309019",
+    "name": "Policarpo",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600309000",
+      "code": "1600309000",
+      "name": "San Luis"
+    }
+  },
+  {
+    "id": "1600309020",
+    "code": "1600309020",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600309000",
+      "code": "1600309000",
+      "name": "San Luis"
+    }
+  },
+  {
+    "id": "1600309021",
+    "code": "1600309021",
+    "name": "San Pedro",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600309000",
+      "code": "1600309000",
+      "name": "San Luis"
+    }
+  },
+  {
+    "id": "1600309007",
+    "code": "1600309007",
+    "name": "Santa Ines",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600309000",
+      "code": "1600309000",
+      "name": "San Luis"
+    }
+  },
+  {
+    "id": "1600309022",
+    "code": "1600309022",
+    "name": "Santa Rita",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600309000",
+      "code": "1600309000",
+      "name": "San Luis"
+    }
+  },
+  {
+    "id": "1600309023",
+    "code": "1600309023",
+    "name": "Santiago",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600309000",
+      "code": "1600309000",
+      "name": "San Luis"
+    }
+  },
+  {
+    "id": "1600309024",
+    "code": "1600309024",
+    "name": "Wegguam",
+    "type": "barangay",
+    "region": {
+      "id": "1600000000",
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)"
+    },
+    "province": {
+      "id": "1600300000",
+      "code": "1600300000",
+      "name": "Agusan del Sur"
+    },
+    "city_municipality": {
+      "id": "1600309000",
+      "code": "1600309000",
+      "name": "San Luis"
+    }
+  }
+]

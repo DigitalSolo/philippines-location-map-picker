@@ -1,0 +1,821 @@
+[
+  {
+    "id": "0907214001",
+    "code": "0907214001",
+    "name": "Antonino",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907214000",
+      "code": "0907214000",
+      "name": "Sergio Osmeña Sr."
+    }
+  },
+  {
+    "id": "0907214002",
+    "code": "0907214002",
+    "name": "Bagong Baguio",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907214000",
+      "code": "0907214000",
+      "name": "Sergio Osmeña Sr."
+    }
+  },
+  {
+    "id": "0907214003",
+    "code": "0907214003",
+    "name": "Bagumbayan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907214000",
+      "code": "0907214000",
+      "name": "Sergio Osmeña Sr."
+    }
+  },
+  {
+    "id": "0907214004",
+    "code": "0907214004",
+    "name": "Biayon",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907214000",
+      "code": "0907214000",
+      "name": "Sergio Osmeña Sr."
+    }
+  },
+  {
+    "id": "0907214005",
+    "code": "0907214005",
+    "name": "Buenavista",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907214000",
+      "code": "0907214000",
+      "name": "Sergio Osmeña Sr."
+    }
+  },
+  {
+    "id": "0907214006",
+    "code": "0907214006",
+    "name": "Dampalan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907214000",
+      "code": "0907214000",
+      "name": "Sergio Osmeña Sr."
+    }
+  },
+  {
+    "id": "0907214007",
+    "code": "0907214007",
+    "name": "Danao",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907214000",
+      "code": "0907214000",
+      "name": "Sergio Osmeña Sr."
+    }
+  },
+  {
+    "id": "0907214008",
+    "code": "0907214008",
+    "name": "Don Eleno",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907214000",
+      "code": "0907214000",
+      "name": "Sergio Osmeña Sr."
+    }
+  },
+  {
+    "id": "0907214009",
+    "code": "0907214009",
+    "name": "Kauswagan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907214000",
+      "code": "0907214000",
+      "name": "Sergio Osmeña Sr."
+    }
+  },
+  {
+    "id": "0907214010",
+    "code": "0907214010",
+    "name": "Labiray",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907214000",
+      "code": "0907214000",
+      "name": "Sergio Osmeña Sr."
+    }
+  },
+  {
+    "id": "0907214011",
+    "code": "0907214011",
+    "name": "Liwanag",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907214000",
+      "code": "0907214000",
+      "name": "Sergio Osmeña Sr."
+    }
+  },
+  {
+    "id": "0907214012",
+    "code": "0907214012",
+    "name": "Mabuhay",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907214000",
+      "code": "0907214000",
+      "name": "Sergio Osmeña Sr."
+    }
+  },
+  {
+    "id": "0907214013",
+    "code": "0907214013",
+    "name": "Macalibre",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907214000",
+      "code": "0907214000",
+      "name": "Sergio Osmeña Sr."
+    }
+  },
+  {
+    "id": "0907214014",
+    "code": "0907214014",
+    "name": "Mahayahay",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907214000",
+      "code": "0907214000",
+      "name": "Sergio Osmeña Sr."
+    }
+  },
+  {
+    "id": "0907214015",
+    "code": "0907214015",
+    "name": "Marapong",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907214000",
+      "code": "0907214000",
+      "name": "Sergio Osmeña Sr."
+    }
+  },
+  {
+    "id": "0907214016",
+    "code": "0907214016",
+    "name": "Nazareth",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907214000",
+      "code": "0907214000",
+      "name": "Sergio Osmeña Sr."
+    }
+  },
+  {
+    "id": "0907214017",
+    "code": "0907214017",
+    "name": "Nebo",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907214000",
+      "code": "0907214000",
+      "name": "Sergio Osmeña Sr."
+    }
+  },
+  {
+    "id": "0907214018",
+    "code": "0907214018",
+    "name": "New Rizal",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907214000",
+      "code": "0907214000",
+      "name": "Sergio Osmeña Sr."
+    }
+  },
+  {
+    "id": "0907214019",
+    "code": "0907214019",
+    "name": "New Tangub",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907214000",
+      "code": "0907214000",
+      "name": "Sergio Osmeña Sr."
+    }
+  },
+  {
+    "id": "0907214020",
+    "code": "0907214020",
+    "name": "Nuevavista",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907214000",
+      "code": "0907214000",
+      "name": "Sergio Osmeña Sr."
+    }
+  },
+  {
+    "id": "0907214021",
+    "code": "0907214021",
+    "name": "Pedagan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907214000",
+      "code": "0907214000",
+      "name": "Sergio Osmeña Sr."
+    }
+  },
+  {
+    "id": "0907214022",
+    "code": "0907214022",
+    "name": "Penacio",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907214000",
+      "code": "0907214000",
+      "name": "Sergio Osmeña Sr."
+    }
+  },
+  {
+    "id": "0907214023",
+    "code": "0907214023",
+    "name": "Poblacion Alto",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907214000",
+      "code": "0907214000",
+      "name": "Sergio Osmeña Sr."
+    }
+  },
+  {
+    "id": "0907214024",
+    "code": "0907214024",
+    "name": "Poblacion Bajo",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907214000",
+      "code": "0907214000",
+      "name": "Sergio Osmeña Sr."
+    }
+  },
+  {
+    "id": "0907214027",
+    "code": "0907214027",
+    "name": "Princesa Freshia",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907214000",
+      "code": "0907214000",
+      "name": "Sergio Osmeña Sr."
+    }
+  },
+  {
+    "id": "0907214026",
+    "code": "0907214026",
+    "name": "Princesa Lamaya",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907214000",
+      "code": "0907214000",
+      "name": "Sergio Osmeña Sr."
+    }
+  },
+  {
+    "id": "0907214028",
+    "code": "0907214028",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907214000",
+      "code": "0907214000",
+      "name": "Sergio Osmeña Sr."
+    }
+  },
+  {
+    "id": "0907214029",
+    "code": "0907214029",
+    "name": "San Francisco",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907214000",
+      "code": "0907214000",
+      "name": "Sergio Osmeña Sr."
+    }
+  },
+  {
+    "id": "0907214030",
+    "code": "0907214030",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907214000",
+      "code": "0907214000",
+      "name": "Sergio Osmeña Sr."
+    }
+  },
+  {
+    "id": "0907214031",
+    "code": "0907214031",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907214000",
+      "code": "0907214000",
+      "name": "Sergio Osmeña Sr."
+    }
+  },
+  {
+    "id": "0907214032",
+    "code": "0907214032",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907214000",
+      "code": "0907214000",
+      "name": "Sergio Osmeña Sr."
+    }
+  },
+  {
+    "id": "0907214033",
+    "code": "0907214033",
+    "name": "Sinaad",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907214000",
+      "code": "0907214000",
+      "name": "Sergio Osmeña Sr."
+    }
+  },
+  {
+    "id": "0907214034",
+    "code": "0907214034",
+    "name": "Sinai",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907214000",
+      "code": "0907214000",
+      "name": "Sergio Osmeña Sr."
+    }
+  },
+  {
+    "id": "0907214035",
+    "code": "0907214035",
+    "name": "Situbo",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907214000",
+      "code": "0907214000",
+      "name": "Sergio Osmeña Sr."
+    }
+  },
+  {
+    "id": "0907214036",
+    "code": "0907214036",
+    "name": "Tinago",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907214000",
+      "code": "0907214000",
+      "name": "Sergio Osmeña Sr."
+    }
+  },
+  {
+    "id": "0907214037",
+    "code": "0907214037",
+    "name": "Tinindugan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907214000",
+      "code": "0907214000",
+      "name": "Sergio Osmeña Sr."
+    }
+  },
+  {
+    "id": "0907214038",
+    "code": "0907214038",
+    "name": "Tuburan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907214000",
+      "code": "0907214000",
+      "name": "Sergio Osmeña Sr."
+    }
+  },
+  {
+    "id": "0907214039",
+    "code": "0907214039",
+    "name": "Venus",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907214000",
+      "code": "0907214000",
+      "name": "Sergio Osmeña Sr."
+    }
+  },
+  {
+    "id": "0907214040",
+    "code": "0907214040",
+    "name": "Wilben",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907214000",
+      "code": "0907214000",
+      "name": "Sergio Osmeña Sr."
+    }
+  }
+]

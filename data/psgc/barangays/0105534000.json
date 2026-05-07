@@ -1,0 +1,401 @@
+[
+  {
+    "id": "0105534001",
+    "code": "0105534001",
+    "name": "Awai",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105534000",
+      "code": "0105534000",
+      "name": "San Jacinto"
+    }
+  },
+  {
+    "id": "0105534013",
+    "code": "0105534013",
+    "name": "Bagong Pag-asa",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105534000",
+      "code": "0105534000",
+      "name": "San Jacinto"
+    }
+  },
+  {
+    "id": "0105534002",
+    "code": "0105534002",
+    "name": "Bolo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105534000",
+      "code": "0105534000",
+      "name": "San Jacinto"
+    }
+  },
+  {
+    "id": "0105534003",
+    "code": "0105534003",
+    "name": "Capaoay",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105534000",
+      "code": "0105534000",
+      "name": "San Jacinto"
+    }
+  },
+  {
+    "id": "0105534004",
+    "code": "0105534004",
+    "name": "Casibong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105534000",
+      "code": "0105534000",
+      "name": "San Jacinto"
+    }
+  },
+  {
+    "id": "0105534006",
+    "code": "0105534006",
+    "name": "Guibel",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105534000",
+      "code": "0105534000",
+      "name": "San Jacinto"
+    }
+  },
+  {
+    "id": "0105534005",
+    "code": "0105534005",
+    "name": "Imelda",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105534000",
+      "code": "0105534000",
+      "name": "San Jacinto"
+    }
+  },
+  {
+    "id": "0105534007",
+    "code": "0105534007",
+    "name": "Labney",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105534000",
+      "code": "0105534000",
+      "name": "San Jacinto"
+    }
+  },
+  {
+    "id": "0105534010",
+    "code": "0105534010",
+    "name": "Lobong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105534000",
+      "code": "0105534000",
+      "name": "San Jacinto"
+    }
+  },
+  {
+    "id": "0105534011",
+    "code": "0105534011",
+    "name": "Macayug",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105534000",
+      "code": "0105534000",
+      "name": "San Jacinto"
+    }
+  },
+  {
+    "id": "0105534009",
+    "code": "0105534009",
+    "name": "Magsaysay",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105534000",
+      "code": "0105534000",
+      "name": "San Jacinto"
+    }
+  },
+  {
+    "id": "0105534014",
+    "code": "0105534014",
+    "name": "San Guillermo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105534000",
+      "code": "0105534000",
+      "name": "San Jacinto"
+    }
+  },
+  {
+    "id": "0105534015",
+    "code": "0105534015",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105534000",
+      "code": "0105534000",
+      "name": "San Jacinto"
+    }
+  },
+  {
+    "id": "0105534016",
+    "code": "0105534016",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105534000",
+      "code": "0105534000",
+      "name": "San Jacinto"
+    }
+  },
+  {
+    "id": "0105534017",
+    "code": "0105534017",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105534000",
+      "code": "0105534000",
+      "name": "San Jacinto"
+    }
+  },
+  {
+    "id": "0105534018",
+    "code": "0105534018",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105534000",
+      "code": "0105534000",
+      "name": "San Jacinto"
+    }
+  },
+  {
+    "id": "0105534019",
+    "code": "0105534019",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105534000",
+      "code": "0105534000",
+      "name": "San Jacinto"
+    }
+  },
+  {
+    "id": "0105534020",
+    "code": "0105534020",
+    "name": "Santa Maria",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105534000",
+      "code": "0105534000",
+      "name": "San Jacinto"
+    }
+  },
+  {
+    "id": "0105534021",
+    "code": "0105534021",
+    "name": "Santo Tomas",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105534000",
+      "code": "0105534000",
+      "name": "San Jacinto"
+    }
+  }
+]

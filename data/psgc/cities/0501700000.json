@@ -1,0 +1,594 @@
+[
+  {
+    "id": "0501701000",
+    "code": "0501701000",
+    "name": "Baao",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    }
+  },
+  {
+    "id": "0501702000",
+    "code": "0501702000",
+    "name": "Balatan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    }
+  },
+  {
+    "id": "0501703000",
+    "code": "0501703000",
+    "name": "Bato",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    }
+  },
+  {
+    "id": "0501704000",
+    "code": "0501704000",
+    "name": "Bombon",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    }
+  },
+  {
+    "id": "0501705000",
+    "code": "0501705000",
+    "name": "Buhi",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    }
+  },
+  {
+    "id": "0501706000",
+    "code": "0501706000",
+    "name": "Bula",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    }
+  },
+  {
+    "id": "0501707000",
+    "code": "0501707000",
+    "name": "Cabusao",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    }
+  },
+  {
+    "id": "0501708000",
+    "code": "0501708000",
+    "name": "Calabanga",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    }
+  },
+  {
+    "id": "0501709000",
+    "code": "0501709000",
+    "name": "Camaligan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    }
+  },
+  {
+    "id": "0501710000",
+    "code": "0501710000",
+    "name": "Canaman",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    }
+  },
+  {
+    "id": "0501711000",
+    "code": "0501711000",
+    "name": "Caramoan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    }
+  },
+  {
+    "id": "0501716000",
+    "code": "0501716000",
+    "name": "City of Iriga",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    }
+  },
+  {
+    "id": "0501724000",
+    "code": "0501724000",
+    "name": "City of Naga",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    }
+  },
+  {
+    "id": "0501712000",
+    "code": "0501712000",
+    "name": "Del Gallego",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    }
+  },
+  {
+    "id": "0501713000",
+    "code": "0501713000",
+    "name": "Gainza",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    }
+  },
+  {
+    "id": "0501714000",
+    "code": "0501714000",
+    "name": "Garchitorena",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    }
+  },
+  {
+    "id": "0501715000",
+    "code": "0501715000",
+    "name": "Goa",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    }
+  },
+  {
+    "id": "0501717000",
+    "code": "0501717000",
+    "name": "Lagonoy",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    }
+  },
+  {
+    "id": "0501718000",
+    "code": "0501718000",
+    "name": "Libmanan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    }
+  },
+  {
+    "id": "0501719000",
+    "code": "0501719000",
+    "name": "Lupi",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    }
+  },
+  {
+    "id": "0501720000",
+    "code": "0501720000",
+    "name": "Magarao",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    }
+  },
+  {
+    "id": "0501721000",
+    "code": "0501721000",
+    "name": "Milaor",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    }
+  },
+  {
+    "id": "0501722000",
+    "code": "0501722000",
+    "name": "Minalabac",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    }
+  },
+  {
+    "id": "0501723000",
+    "code": "0501723000",
+    "name": "Nabua",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    }
+  },
+  {
+    "id": "0501725000",
+    "code": "0501725000",
+    "name": "Ocampo",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    }
+  },
+  {
+    "id": "0501726000",
+    "code": "0501726000",
+    "name": "Pamplona",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    }
+  },
+  {
+    "id": "0501727000",
+    "code": "0501727000",
+    "name": "Pasacao",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    }
+  },
+  {
+    "id": "0501728000",
+    "code": "0501728000",
+    "name": "Pili",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    }
+  },
+  {
+    "id": "0501729000",
+    "code": "0501729000",
+    "name": "Presentacion",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    }
+  },
+  {
+    "id": "0501730000",
+    "code": "0501730000",
+    "name": "Ragay",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    }
+  },
+  {
+    "id": "0501731000",
+    "code": "0501731000",
+    "name": "Sagñay",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    }
+  },
+  {
+    "id": "0501732000",
+    "code": "0501732000",
+    "name": "San Fernando",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    }
+  },
+  {
+    "id": "0501733000",
+    "code": "0501733000",
+    "name": "San Jose",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    }
+  },
+  {
+    "id": "0501734000",
+    "code": "0501734000",
+    "name": "Sipocot",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    }
+  },
+  {
+    "id": "0501735000",
+    "code": "0501735000",
+    "name": "Siruma",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    }
+  },
+  {
+    "id": "0501736000",
+    "code": "0501736000",
+    "name": "Tigaon",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    }
+  },
+  {
+    "id": "0501737000",
+    "code": "0501737000",
+    "name": "Tinambac",
+    "type": "city_municipality",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    }
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "id": "0105523002",
+    "code": "0105523002",
+    "name": "Bacnit",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105523000",
+      "code": "0105523000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0105523003",
+    "code": "0105523003",
+    "name": "Barlo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105523000",
+      "code": "0105523000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0105523005",
+    "code": "0105523005",
+    "name": "Caabiangaan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105523000",
+      "code": "0105523000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0105523006",
+    "code": "0105523006",
+    "name": "Cabanaetan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105523000",
+      "code": "0105523000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0105523007",
+    "code": "0105523007",
+    "name": "Cabinuangan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105523000",
+      "code": "0105523000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0105523008",
+    "code": "0105523008",
+    "name": "Calzada",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105523000",
+      "code": "0105523000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0105523009",
+    "code": "0105523009",
+    "name": "Caranglaan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105523000",
+      "code": "0105523000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0105523010",
+    "code": "0105523010",
+    "name": "De Guzman",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105523000",
+      "code": "0105523000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0105523012",
+    "code": "0105523012",
+    "name": "Luna",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105523000",
+      "code": "0105523000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0105523013",
+    "code": "0105523013",
+    "name": "Magalong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105523000",
+      "code": "0105523000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0105523014",
+    "code": "0105523014",
+    "name": "Nibaliw",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105523000",
+      "code": "0105523000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0105523015",
+    "code": "0105523015",
+    "name": "Patar",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105523000",
+      "code": "0105523000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0105523016",
+    "code": "0105523016",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105523000",
+      "code": "0105523000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0105523017",
+    "code": "0105523017",
+    "name": "San Pedro",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105523000",
+      "code": "0105523000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0105523018",
+    "code": "0105523018",
+    "name": "Tagudin",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105523000",
+      "code": "0105523000",
+      "name": "Mabini"
+    }
+  },
+  {
+    "id": "0105523020",
+    "code": "0105523020",
+    "name": "Villacorta",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105523000",
+      "code": "0105523000",
+      "name": "Mabini"
+    }
+  }
+]

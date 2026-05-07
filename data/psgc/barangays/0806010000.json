@@ -1,0 +1,506 @@
+[
+  {
+    "id": "0806010001",
+    "code": "0806010001",
+    "name": "Amambucale",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806010000",
+      "code": "0806010000",
+      "name": "Marabut"
+    }
+  },
+  {
+    "id": "0806010015",
+    "code": "0806010015",
+    "name": "Amantillo",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806010000",
+      "code": "0806010000",
+      "name": "Marabut"
+    }
+  },
+  {
+    "id": "0806010016",
+    "code": "0806010016",
+    "name": "Binukyahan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806010000",
+      "code": "0806010000",
+      "name": "Marabut"
+    }
+  },
+  {
+    "id": "0806010002",
+    "code": "0806010002",
+    "name": "Caluwayan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806010000",
+      "code": "0806010000",
+      "name": "Marabut"
+    }
+  },
+  {
+    "id": "0806010003",
+    "code": "0806010003",
+    "name": "Canyoyo",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806010000",
+      "code": "0806010000",
+      "name": "Marabut"
+    }
+  },
+  {
+    "id": "0806010010",
+    "code": "0806010010",
+    "name": "Catato Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806010000",
+      "code": "0806010000",
+      "name": "Marabut"
+    }
+  },
+  {
+    "id": "0806010004",
+    "code": "0806010004",
+    "name": "Ferreras",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806010000",
+      "code": "0806010000",
+      "name": "Marabut"
+    }
+  },
+  {
+    "id": "0806010005",
+    "code": "0806010005",
+    "name": "Legaspi",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806010000",
+      "code": "0806010000",
+      "name": "Marabut"
+    }
+  },
+  {
+    "id": "0806010017",
+    "code": "0806010017",
+    "name": "Lipata",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806010000",
+      "code": "0806010000",
+      "name": "Marabut"
+    }
+  },
+  {
+    "id": "0806010006",
+    "code": "0806010006",
+    "name": "Logero",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806010000",
+      "code": "0806010000",
+      "name": "Marabut"
+    }
+  },
+  {
+    "id": "0806010018",
+    "code": "0806010018",
+    "name": "Mabuhay",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806010000",
+      "code": "0806010000",
+      "name": "Marabut"
+    }
+  },
+  {
+    "id": "0806010019",
+    "code": "0806010019",
+    "name": "Malobago",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806010000",
+      "code": "0806010000",
+      "name": "Marabut"
+    }
+  },
+  {
+    "id": "0806010020",
+    "code": "0806010020",
+    "name": "Odoc",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806010000",
+      "code": "0806010000",
+      "name": "Marabut"
+    }
+  },
+  {
+    "id": "0806010007",
+    "code": "0806010007",
+    "name": "Osmeña",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806010000",
+      "code": "0806010000",
+      "name": "Marabut"
+    }
+  },
+  {
+    "id": "0806010021",
+    "code": "0806010021",
+    "name": "Panan-awan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806010000",
+      "code": "0806010000",
+      "name": "Marabut"
+    }
+  },
+  {
+    "id": "0806010008",
+    "code": "0806010008",
+    "name": "Pinalanga",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806010000",
+      "code": "0806010000",
+      "name": "Marabut"
+    }
+  },
+  {
+    "id": "0806010009",
+    "code": "0806010009",
+    "name": "Pinamitinan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806010000",
+      "code": "0806010000",
+      "name": "Marabut"
+    }
+  },
+  {
+    "id": "0806010022",
+    "code": "0806010022",
+    "name": "Roño",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806010000",
+      "code": "0806010000",
+      "name": "Marabut"
+    }
+  },
+  {
+    "id": "0806010011",
+    "code": "0806010011",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806010000",
+      "code": "0806010000",
+      "name": "Marabut"
+    }
+  },
+  {
+    "id": "0806010023",
+    "code": "0806010023",
+    "name": "Santa Rita",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806010000",
+      "code": "0806010000",
+      "name": "Marabut"
+    }
+  },
+  {
+    "id": "0806010012",
+    "code": "0806010012",
+    "name": "Santo Niño Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806010000",
+      "code": "0806010000",
+      "name": "Marabut"
+    }
+  },
+  {
+    "id": "0806010013",
+    "code": "0806010013",
+    "name": "Tagalag",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806010000",
+      "code": "0806010000",
+      "name": "Marabut"
+    }
+  },
+  {
+    "id": "0806010014",
+    "code": "0806010014",
+    "name": "Tinabanan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806010000",
+      "code": "0806010000",
+      "name": "Marabut"
+    }
+  },
+  {
+    "id": "0806010024",
+    "code": "0806010024",
+    "name": "Veloso",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0806000000",
+      "code": "0806000000",
+      "name": "Samar"
+    },
+    "city_municipality": {
+      "id": "0806010000",
+      "code": "0806010000",
+      "name": "Marabut"
+    }
+  }
+]

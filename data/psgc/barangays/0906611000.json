@@ -1,0 +1,632 @@
+[
+  {
+    "id": "0906611001",
+    "code": "0906611001",
+    "name": "Anuling",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0906600000",
+      "code": "0906600000",
+      "name": "Sulu"
+    },
+    "city_municipality": {
+      "id": "0906611000",
+      "code": "0906611000",
+      "name": "Patikul"
+    }
+  },
+  {
+    "id": "0906611002",
+    "code": "0906611002",
+    "name": "Bakong",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0906600000",
+      "code": "0906600000",
+      "name": "Sulu"
+    },
+    "city_municipality": {
+      "id": "0906611000",
+      "code": "0906611000",
+      "name": "Patikul"
+    }
+  },
+  {
+    "id": "0906611003",
+    "code": "0906611003",
+    "name": "Bangkal",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0906600000",
+      "code": "0906600000",
+      "name": "Sulu"
+    },
+    "city_municipality": {
+      "id": "0906611000",
+      "code": "0906611000",
+      "name": "Patikul"
+    }
+  },
+  {
+    "id": "0906611004",
+    "code": "0906611004",
+    "name": "Bonbon",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0906600000",
+      "code": "0906600000",
+      "name": "Sulu"
+    },
+    "city_municipality": {
+      "id": "0906611000",
+      "code": "0906611000",
+      "name": "Patikul"
+    }
+  },
+  {
+    "id": "0906611005",
+    "code": "0906611005",
+    "name": "Buhanginan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0906600000",
+      "code": "0906600000",
+      "name": "Sulu"
+    },
+    "city_municipality": {
+      "id": "0906611000",
+      "code": "0906611000",
+      "name": "Patikul"
+    }
+  },
+  {
+    "id": "0906611006",
+    "code": "0906611006",
+    "name": "Bungkaung",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0906600000",
+      "code": "0906600000",
+      "name": "Sulu"
+    },
+    "city_municipality": {
+      "id": "0906611000",
+      "code": "0906611000",
+      "name": "Patikul"
+    }
+  },
+  {
+    "id": "0906611007",
+    "code": "0906611007",
+    "name": "Danag",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0906600000",
+      "code": "0906600000",
+      "name": "Sulu"
+    },
+    "city_municipality": {
+      "id": "0906611000",
+      "code": "0906611000",
+      "name": "Patikul"
+    }
+  },
+  {
+    "id": "0906611030",
+    "code": "0906611030",
+    "name": "Gandasuli",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0906600000",
+      "code": "0906600000",
+      "name": "Sulu"
+    },
+    "city_municipality": {
+      "id": "0906611000",
+      "code": "0906611000",
+      "name": "Patikul"
+    }
+  },
+  {
+    "id": "0906611008",
+    "code": "0906611008",
+    "name": "Igasan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0906600000",
+      "code": "0906600000",
+      "name": "Sulu"
+    },
+    "city_municipality": {
+      "id": "0906611000",
+      "code": "0906611000",
+      "name": "Patikul"
+    }
+  },
+  {
+    "id": "0906611009",
+    "code": "0906611009",
+    "name": "Kabbon Takas",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0906600000",
+      "code": "0906600000",
+      "name": "Sulu"
+    },
+    "city_municipality": {
+      "id": "0906611000",
+      "code": "0906611000",
+      "name": "Patikul"
+    }
+  },
+  {
+    "id": "0906611010",
+    "code": "0906611010",
+    "name": "Kadday Mampallam",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0906600000",
+      "code": "0906600000",
+      "name": "Sulu"
+    },
+    "city_municipality": {
+      "id": "0906611000",
+      "code": "0906611000",
+      "name": "Patikul"
+    }
+  },
+  {
+    "id": "0906611011",
+    "code": "0906611011",
+    "name": "Kan Ague",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0906600000",
+      "code": "0906600000",
+      "name": "Sulu"
+    },
+    "city_municipality": {
+      "id": "0906611000",
+      "code": "0906611000",
+      "name": "Patikul"
+    }
+  },
+  {
+    "id": "0906611012",
+    "code": "0906611012",
+    "name": "Kaunayan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0906600000",
+      "code": "0906600000",
+      "name": "Sulu"
+    },
+    "city_municipality": {
+      "id": "0906611000",
+      "code": "0906611000",
+      "name": "Patikul"
+    }
+  },
+  {
+    "id": "0906611013",
+    "code": "0906611013",
+    "name": "Langhub",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0906600000",
+      "code": "0906600000",
+      "name": "Sulu"
+    },
+    "city_municipality": {
+      "id": "0906611000",
+      "code": "0906611000",
+      "name": "Patikul"
+    }
+  },
+  {
+    "id": "0906611014",
+    "code": "0906611014",
+    "name": "Latih",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0906600000",
+      "code": "0906600000",
+      "name": "Sulu"
+    },
+    "city_municipality": {
+      "id": "0906611000",
+      "code": "0906611000",
+      "name": "Patikul"
+    }
+  },
+  {
+    "id": "0906611015",
+    "code": "0906611015",
+    "name": "Liang",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0906600000",
+      "code": "0906600000",
+      "name": "Sulu"
+    },
+    "city_municipality": {
+      "id": "0906611000",
+      "code": "0906611000",
+      "name": "Patikul"
+    }
+  },
+  {
+    "id": "0906611016",
+    "code": "0906611016",
+    "name": "Maligay",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0906600000",
+      "code": "0906600000",
+      "name": "Sulu"
+    },
+    "city_municipality": {
+      "id": "0906611000",
+      "code": "0906611000",
+      "name": "Patikul"
+    }
+  },
+  {
+    "id": "0906611017",
+    "code": "0906611017",
+    "name": "Mauboh",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0906600000",
+      "code": "0906600000",
+      "name": "Sulu"
+    },
+    "city_municipality": {
+      "id": "0906611000",
+      "code": "0906611000",
+      "name": "Patikul"
+    }
+  },
+  {
+    "id": "0906611018",
+    "code": "0906611018",
+    "name": "Pangdanon",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0906600000",
+      "code": "0906600000",
+      "name": "Sulu"
+    },
+    "city_municipality": {
+      "id": "0906611000",
+      "code": "0906611000",
+      "name": "Patikul"
+    }
+  },
+  {
+    "id": "0906611019",
+    "code": "0906611019",
+    "name": "Panglayahan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0906600000",
+      "code": "0906600000",
+      "name": "Sulu"
+    },
+    "city_municipality": {
+      "id": "0906611000",
+      "code": "0906611000",
+      "name": "Patikul"
+    }
+  },
+  {
+    "id": "0906611020",
+    "code": "0906611020",
+    "name": "Pansul",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0906600000",
+      "code": "0906600000",
+      "name": "Sulu"
+    },
+    "city_municipality": {
+      "id": "0906611000",
+      "code": "0906611000",
+      "name": "Patikul"
+    }
+  },
+  {
+    "id": "0906611021",
+    "code": "0906611021",
+    "name": "Patikul Higad",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0906600000",
+      "code": "0906600000",
+      "name": "Sulu"
+    },
+    "city_municipality": {
+      "id": "0906611000",
+      "code": "0906611000",
+      "name": "Patikul"
+    }
+  },
+  {
+    "id": "0906611022",
+    "code": "0906611022",
+    "name": "Sandah",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0906600000",
+      "code": "0906600000",
+      "name": "Sulu"
+    },
+    "city_municipality": {
+      "id": "0906611000",
+      "code": "0906611000",
+      "name": "Patikul"
+    }
+  },
+  {
+    "id": "0906611023",
+    "code": "0906611023",
+    "name": "Taglibi",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0906600000",
+      "code": "0906600000",
+      "name": "Sulu"
+    },
+    "city_municipality": {
+      "id": "0906611000",
+      "code": "0906611000",
+      "name": "Patikul"
+    }
+  },
+  {
+    "id": "0906611024",
+    "code": "0906611024",
+    "name": "Tandu-Bagua",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0906600000",
+      "code": "0906600000",
+      "name": "Sulu"
+    },
+    "city_municipality": {
+      "id": "0906611000",
+      "code": "0906611000",
+      "name": "Patikul"
+    }
+  },
+  {
+    "id": "0906611025",
+    "code": "0906611025",
+    "name": "Tanum",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0906600000",
+      "code": "0906600000",
+      "name": "Sulu"
+    },
+    "city_municipality": {
+      "id": "0906611000",
+      "code": "0906611000",
+      "name": "Patikul"
+    }
+  },
+  {
+    "id": "0906611026",
+    "code": "0906611026",
+    "name": "Taung",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0906600000",
+      "code": "0906600000",
+      "name": "Sulu"
+    },
+    "city_municipality": {
+      "id": "0906611000",
+      "code": "0906611000",
+      "name": "Patikul"
+    }
+  },
+  {
+    "id": "0906611027",
+    "code": "0906611027",
+    "name": "Timpok",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0906600000",
+      "code": "0906600000",
+      "name": "Sulu"
+    },
+    "city_municipality": {
+      "id": "0906611000",
+      "code": "0906611000",
+      "name": "Patikul"
+    }
+  },
+  {
+    "id": "0906611028",
+    "code": "0906611028",
+    "name": "Tugas",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0906600000",
+      "code": "0906600000",
+      "name": "Sulu"
+    },
+    "city_municipality": {
+      "id": "0906611000",
+      "code": "0906611000",
+      "name": "Patikul"
+    }
+  },
+  {
+    "id": "0906611029",
+    "code": "0906611029",
+    "name": "Umangay",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0906600000",
+      "code": "0906600000",
+      "name": "Sulu"
+    },
+    "city_municipality": {
+      "id": "0906611000",
+      "code": "0906611000",
+      "name": "Patikul"
+    }
+  }
+]

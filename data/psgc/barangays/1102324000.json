@@ -1,0 +1,275 @@
+[
+  {
+    "id": "1102324001",
+    "code": "1102324001",
+    "name": "Dacudao",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102324000",
+      "code": "1102324000",
+      "name": "San Isidro"
+    }
+  },
+  {
+    "id": "1102324002",
+    "code": "1102324002",
+    "name": "Datu Balong",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102324000",
+      "code": "1102324000",
+      "name": "San Isidro"
+    }
+  },
+  {
+    "id": "1102324003",
+    "code": "1102324003",
+    "name": "Igangon",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102324000",
+      "code": "1102324000",
+      "name": "San Isidro"
+    }
+  },
+  {
+    "id": "1102324004",
+    "code": "1102324004",
+    "name": "Kipalili",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102324000",
+      "code": "1102324000",
+      "name": "San Isidro"
+    }
+  },
+  {
+    "id": "1102324005",
+    "code": "1102324005",
+    "name": "Libuton",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102324000",
+      "code": "1102324000",
+      "name": "San Isidro"
+    }
+  },
+  {
+    "id": "1102324006",
+    "code": "1102324006",
+    "name": "Linao",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102324000",
+      "code": "1102324000",
+      "name": "San Isidro"
+    }
+  },
+  {
+    "id": "1102324007",
+    "code": "1102324007",
+    "name": "Mamangan",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102324000",
+      "code": "1102324000",
+      "name": "San Isidro"
+    }
+  },
+  {
+    "id": "1102324008",
+    "code": "1102324008",
+    "name": "Monte Dujali",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102324000",
+      "code": "1102324000",
+      "name": "San Isidro"
+    }
+  },
+  {
+    "id": "1102324009",
+    "code": "1102324009",
+    "name": "Pinamuno",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102324000",
+      "code": "1102324000",
+      "name": "San Isidro"
+    }
+  },
+  {
+    "id": "1102324010",
+    "code": "1102324010",
+    "name": "Sabangan",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102324000",
+      "code": "1102324000",
+      "name": "San Isidro"
+    }
+  },
+  {
+    "id": "1102324011",
+    "code": "1102324011",
+    "name": "San Miguel",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102324000",
+      "code": "1102324000",
+      "name": "San Isidro"
+    }
+  },
+  {
+    "id": "1102324012",
+    "code": "1102324012",
+    "name": "Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102324000",
+      "code": "1102324000",
+      "name": "San Isidro"
+    }
+  },
+  {
+    "id": "1102324013",
+    "code": "1102324013",
+    "name": "Sawata",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102300000",
+      "code": "1102300000",
+      "name": "Davao del Norte"
+    },
+    "city_municipality": {
+      "id": "1102324000",
+      "code": "1102324000",
+      "name": "San Isidro"
+    }
+  }
+]

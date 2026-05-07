@@ -1,0 +1,695 @@
+[
+  {
+    "id": "0907223012",
+    "code": "0907223012",
+    "name": "Bacong",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907223000",
+      "code": "0907223000",
+      "name": "Gutalac"
+    }
+  },
+  {
+    "id": "0907223013",
+    "code": "0907223013",
+    "name": "Bagong Silang",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907223000",
+      "code": "0907223000",
+      "name": "Gutalac"
+    }
+  },
+  {
+    "id": "0907223001",
+    "code": "0907223001",
+    "name": "Banganon",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907223000",
+      "code": "0907223000",
+      "name": "Gutalac"
+    }
+  },
+  {
+    "id": "0907223014",
+    "code": "0907223014",
+    "name": "Bayanihan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907223000",
+      "code": "0907223000",
+      "name": "Gutalac"
+    }
+  },
+  {
+    "id": "0907223015",
+    "code": "0907223015",
+    "name": "Buenavista",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907223000",
+      "code": "0907223000",
+      "name": "Gutalac"
+    }
+  },
+  {
+    "id": "0907223008",
+    "code": "0907223008",
+    "name": "Canupong",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907223000",
+      "code": "0907223000",
+      "name": "Gutalac"
+    }
+  },
+  {
+    "id": "0907223002",
+    "code": "0907223002",
+    "name": "Cocob",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907223000",
+      "code": "0907223000",
+      "name": "Gutalac"
+    }
+  },
+  {
+    "id": "0907223016",
+    "code": "0907223016",
+    "name": "Datagan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907223000",
+      "code": "0907223000",
+      "name": "Gutalac"
+    }
+  },
+  {
+    "id": "0907223017",
+    "code": "0907223017",
+    "name": "Imelda",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907223000",
+      "code": "0907223000",
+      "name": "Gutalac"
+    }
+  },
+  {
+    "id": "0907223032",
+    "code": "0907223032",
+    "name": "Immaculada Concepcion",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907223000",
+      "code": "0907223000",
+      "name": "Gutalac"
+    }
+  },
+  {
+    "id": "0907223004",
+    "code": "0907223004",
+    "name": "La Libertad",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907223000",
+      "code": "0907223000",
+      "name": "Gutalac"
+    }
+  },
+  {
+    "id": "0907223018",
+    "code": "0907223018",
+    "name": "Loay",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907223000",
+      "code": "0907223000",
+      "name": "Gutalac"
+    }
+  },
+  {
+    "id": "0907223033",
+    "code": "0907223033",
+    "name": "Lower Lux",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907223000",
+      "code": "0907223000",
+      "name": "Gutalac"
+    }
+  },
+  {
+    "id": "0907223005",
+    "code": "0907223005",
+    "name": "Lux",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907223000",
+      "code": "0907223000",
+      "name": "Gutalac"
+    }
+  },
+  {
+    "id": "0907223019",
+    "code": "0907223019",
+    "name": "Malian",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907223000",
+      "code": "0907223000",
+      "name": "Gutalac"
+    }
+  },
+  {
+    "id": "0907223009",
+    "code": "0907223009",
+    "name": "Mamawan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907223000",
+      "code": "0907223000",
+      "name": "Gutalac"
+    }
+  },
+  {
+    "id": "0907223020",
+    "code": "0907223020",
+    "name": "Map",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907223000",
+      "code": "0907223000",
+      "name": "Gutalac"
+    }
+  },
+  {
+    "id": "0907223021",
+    "code": "0907223021",
+    "name": "Matunoy",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907223000",
+      "code": "0907223000",
+      "name": "Gutalac"
+    }
+  },
+  {
+    "id": "0907223022",
+    "code": "0907223022",
+    "name": "New Dapitan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907223000",
+      "code": "0907223000",
+      "name": "Gutalac"
+    }
+  },
+  {
+    "id": "0907223006",
+    "code": "0907223006",
+    "name": "Panganuran",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907223000",
+      "code": "0907223000",
+      "name": "Gutalac"
+    }
+  },
+  {
+    "id": "0907223007",
+    "code": "0907223007",
+    "name": "Pitawe",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907223000",
+      "code": "0907223000",
+      "name": "Gutalac"
+    }
+  },
+  {
+    "id": "0907223023",
+    "code": "0907223023",
+    "name": "Pitogo",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907223000",
+      "code": "0907223000",
+      "name": "Gutalac"
+    }
+  },
+  {
+    "id": "0907223003",
+    "code": "0907223003",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907223000",
+      "code": "0907223000",
+      "name": "Gutalac"
+    }
+  },
+  {
+    "id": "0907223024",
+    "code": "0907223024",
+    "name": "Salvador",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907223000",
+      "code": "0907223000",
+      "name": "Gutalac"
+    }
+  },
+  {
+    "id": "0907223025",
+    "code": "0907223025",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907223000",
+      "code": "0907223000",
+      "name": "Gutalac"
+    }
+  },
+  {
+    "id": "0907223026",
+    "code": "0907223026",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907223000",
+      "code": "0907223000",
+      "name": "Gutalac"
+    }
+  },
+  {
+    "id": "0907223027",
+    "code": "0907223027",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907223000",
+      "code": "0907223000",
+      "name": "Gutalac"
+    }
+  },
+  {
+    "id": "0907223028",
+    "code": "0907223028",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907223000",
+      "code": "0907223000",
+      "name": "Gutalac"
+    }
+  },
+  {
+    "id": "0907223029",
+    "code": "0907223029",
+    "name": "Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907223000",
+      "code": "0907223000",
+      "name": "Gutalac"
+    }
+  },
+  {
+    "id": "0907223030",
+    "code": "0907223030",
+    "name": "Sas",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907223000",
+      "code": "0907223000",
+      "name": "Gutalac"
+    }
+  },
+  {
+    "id": "0907223010",
+    "code": "0907223010",
+    "name": "Sibalic",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907223000",
+      "code": "0907223000",
+      "name": "Gutalac"
+    }
+  },
+  {
+    "id": "0907223011",
+    "code": "0907223011",
+    "name": "Tipan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907223000",
+      "code": "0907223000",
+      "name": "Gutalac"
+    }
+  },
+  {
+    "id": "0907223031",
+    "code": "0907223031",
+    "name": "Upper Gutalac",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907200000",
+      "code": "0907200000",
+      "name": "Zamboanga del Norte"
+    },
+    "city_municipality": {
+      "id": "0907223000",
+      "code": "0907223000",
+      "name": "Gutalac"
+    }
+  }
+]

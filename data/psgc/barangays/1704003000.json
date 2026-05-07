@@ -1,0 +1,527 @@
+[
+  {
+    "id": "1704003001",
+    "code": "1704003001",
+    "name": "Antipolo",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704003000",
+      "code": "1704003000",
+      "name": "Gasan"
+    }
+  },
+  {
+    "id": "1704003003",
+    "code": "1704003003",
+    "name": "Bachao Ibaba",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704003000",
+      "code": "1704003000",
+      "name": "Gasan"
+    }
+  },
+  {
+    "id": "1704003004",
+    "code": "1704003004",
+    "name": "Bachao Ilaya",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704003000",
+      "code": "1704003000",
+      "name": "Gasan"
+    }
+  },
+  {
+    "id": "1704003005",
+    "code": "1704003005",
+    "name": "Bacongbacong",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704003000",
+      "code": "1704003000",
+      "name": "Gasan"
+    }
+  },
+  {
+    "id": "1704003006",
+    "code": "1704003006",
+    "name": "Bahi",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704003000",
+      "code": "1704003000",
+      "name": "Gasan"
+    }
+  },
+  {
+    "id": "1704003007",
+    "code": "1704003007",
+    "name": "Bangbang",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704003000",
+      "code": "1704003000",
+      "name": "Gasan"
+    }
+  },
+  {
+    "id": "1704003008",
+    "code": "1704003008",
+    "name": "Banot",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704003000",
+      "code": "1704003000",
+      "name": "Gasan"
+    }
+  },
+  {
+    "id": "1704003009",
+    "code": "1704003009",
+    "name": "Banuyo",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704003000",
+      "code": "1704003000",
+      "name": "Gasan"
+    }
+  },
+  {
+    "id": "1704003024",
+    "code": "1704003024",
+    "name": "Barangay I",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704003000",
+      "code": "1704003000",
+      "name": "Gasan"
+    }
+  },
+  {
+    "id": "1704003025",
+    "code": "1704003025",
+    "name": "Barangay II",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704003000",
+      "code": "1704003000",
+      "name": "Gasan"
+    }
+  },
+  {
+    "id": "1704003026",
+    "code": "1704003026",
+    "name": "Barangay III",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704003000",
+      "code": "1704003000",
+      "name": "Gasan"
+    }
+  },
+  {
+    "id": "1704003010",
+    "code": "1704003010",
+    "name": "Bognuyan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704003000",
+      "code": "1704003000",
+      "name": "Gasan"
+    }
+  },
+  {
+    "id": "1704003011",
+    "code": "1704003011",
+    "name": "Cabugao",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704003000",
+      "code": "1704003000",
+      "name": "Gasan"
+    }
+  },
+  {
+    "id": "1704003012",
+    "code": "1704003012",
+    "name": "Dawis",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704003000",
+      "code": "1704003000",
+      "name": "Gasan"
+    }
+  },
+  {
+    "id": "1704003013",
+    "code": "1704003013",
+    "name": "Dili",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704003000",
+      "code": "1704003000",
+      "name": "Gasan"
+    }
+  },
+  {
+    "id": "1704003014",
+    "code": "1704003014",
+    "name": "Libtangin",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704003000",
+      "code": "1704003000",
+      "name": "Gasan"
+    }
+  },
+  {
+    "id": "1704003015",
+    "code": "1704003015",
+    "name": "Mahunig",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704003000",
+      "code": "1704003000",
+      "name": "Gasan"
+    }
+  },
+  {
+    "id": "1704003016",
+    "code": "1704003016",
+    "name": "Mangiliol",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704003000",
+      "code": "1704003000",
+      "name": "Gasan"
+    }
+  },
+  {
+    "id": "1704003017",
+    "code": "1704003017",
+    "name": "Masiga",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704003000",
+      "code": "1704003000",
+      "name": "Gasan"
+    }
+  },
+  {
+    "id": "1704003018",
+    "code": "1704003018",
+    "name": "Matandang Gasan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704003000",
+      "code": "1704003000",
+      "name": "Gasan"
+    }
+  },
+  {
+    "id": "1704003019",
+    "code": "1704003019",
+    "name": "Pangi",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704003000",
+      "code": "1704003000",
+      "name": "Gasan"
+    }
+  },
+  {
+    "id": "1704003020",
+    "code": "1704003020",
+    "name": "Pinggan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704003000",
+      "code": "1704003000",
+      "name": "Gasan"
+    }
+  },
+  {
+    "id": "1704003021",
+    "code": "1704003021",
+    "name": "Tabionan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704003000",
+      "code": "1704003000",
+      "name": "Gasan"
+    }
+  },
+  {
+    "id": "1704003022",
+    "code": "1704003022",
+    "name": "Tapuyan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704003000",
+      "code": "1704003000",
+      "name": "Gasan"
+    }
+  },
+  {
+    "id": "1704003023",
+    "code": "1704003023",
+    "name": "Tiguion",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1704000000",
+      "code": "1704000000",
+      "name": "Marinduque"
+    },
+    "city_municipality": {
+      "id": "1704003000",
+      "code": "1704003000",
+      "name": "Gasan"
+    }
+  }
+]

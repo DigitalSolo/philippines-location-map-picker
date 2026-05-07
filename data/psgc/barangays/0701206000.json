@@ -1,0 +1,653 @@
+[
+  {
+    "id": "0701206001",
+    "code": "0701206001",
+    "name": "Baucan Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701206000",
+      "code": "0701206000",
+      "name": "Balilihan"
+    }
+  },
+  {
+    "id": "0701206002",
+    "code": "0701206002",
+    "name": "Baucan Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701206000",
+      "code": "0701206000",
+      "name": "Balilihan"
+    }
+  },
+  {
+    "id": "0701206003",
+    "code": "0701206003",
+    "name": "Boctol",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701206000",
+      "code": "0701206000",
+      "name": "Balilihan"
+    }
+  },
+  {
+    "id": "0701206004",
+    "code": "0701206004",
+    "name": "Boyog Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701206000",
+      "code": "0701206000",
+      "name": "Balilihan"
+    }
+  },
+  {
+    "id": "0701206005",
+    "code": "0701206005",
+    "name": "Boyog Proper",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701206000",
+      "code": "0701206000",
+      "name": "Balilihan"
+    }
+  },
+  {
+    "id": "0701206006",
+    "code": "0701206006",
+    "name": "Boyog Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701206000",
+      "code": "0701206000",
+      "name": "Balilihan"
+    }
+  },
+  {
+    "id": "0701206007",
+    "code": "0701206007",
+    "name": "Cabad",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701206000",
+      "code": "0701206000",
+      "name": "Balilihan"
+    }
+  },
+  {
+    "id": "0701206008",
+    "code": "0701206008",
+    "name": "Candasig",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701206000",
+      "code": "0701206000",
+      "name": "Balilihan"
+    }
+  },
+  {
+    "id": "0701206009",
+    "code": "0701206009",
+    "name": "Cantalid",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701206000",
+      "code": "0701206000",
+      "name": "Balilihan"
+    }
+  },
+  {
+    "id": "0701206010",
+    "code": "0701206010",
+    "name": "Cantomimbo",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701206000",
+      "code": "0701206000",
+      "name": "Balilihan"
+    }
+  },
+  {
+    "id": "0701206011",
+    "code": "0701206011",
+    "name": "Cogon",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701206000",
+      "code": "0701206000",
+      "name": "Balilihan"
+    }
+  },
+  {
+    "id": "0701206012",
+    "code": "0701206012",
+    "name": "Datag Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701206000",
+      "code": "0701206000",
+      "name": "Balilihan"
+    }
+  },
+  {
+    "id": "0701206013",
+    "code": "0701206013",
+    "name": "Datag Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701206000",
+      "code": "0701206000",
+      "name": "Balilihan"
+    }
+  },
+  {
+    "id": "0701206014",
+    "code": "0701206014",
+    "name": "Del Carmen Este",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701206000",
+      "code": "0701206000",
+      "name": "Balilihan"
+    }
+  },
+  {
+    "id": "0701206015",
+    "code": "0701206015",
+    "name": "Del Carmen Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701206000",
+      "code": "0701206000",
+      "name": "Balilihan"
+    }
+  },
+  {
+    "id": "0701206017",
+    "code": "0701206017",
+    "name": "Del Carmen Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701206000",
+      "code": "0701206000",
+      "name": "Balilihan"
+    }
+  },
+  {
+    "id": "0701206016",
+    "code": "0701206016",
+    "name": "Del Carmen Weste",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701206000",
+      "code": "0701206000",
+      "name": "Balilihan"
+    }
+  },
+  {
+    "id": "0701206018",
+    "code": "0701206018",
+    "name": "Del Rosario",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701206000",
+      "code": "0701206000",
+      "name": "Balilihan"
+    }
+  },
+  {
+    "id": "0701206019",
+    "code": "0701206019",
+    "name": "Dorol",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701206000",
+      "code": "0701206000",
+      "name": "Balilihan"
+    }
+  },
+  {
+    "id": "0701206020",
+    "code": "0701206020",
+    "name": "Haguilanan Grande",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701206000",
+      "code": "0701206000",
+      "name": "Balilihan"
+    }
+  },
+  {
+    "id": "0701206021",
+    "code": "0701206021",
+    "name": "Hanopol Este",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701206000",
+      "code": "0701206000",
+      "name": "Balilihan"
+    }
+  },
+  {
+    "id": "0701206022",
+    "code": "0701206022",
+    "name": "Hanopol Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701206000",
+      "code": "0701206000",
+      "name": "Balilihan"
+    }
+  },
+  {
+    "id": "0701206023",
+    "code": "0701206023",
+    "name": "Hanopol Weste",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701206000",
+      "code": "0701206000",
+      "name": "Balilihan"
+    }
+  },
+  {
+    "id": "0701206024",
+    "code": "0701206024",
+    "name": "Magsija",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701206000",
+      "code": "0701206000",
+      "name": "Balilihan"
+    }
+  },
+  {
+    "id": "0701206025",
+    "code": "0701206025",
+    "name": "Maslog",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701206000",
+      "code": "0701206000",
+      "name": "Balilihan"
+    }
+  },
+  {
+    "id": "0701206026",
+    "code": "0701206026",
+    "name": "Sagasa",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701206000",
+      "code": "0701206000",
+      "name": "Balilihan"
+    }
+  },
+  {
+    "id": "0701206027",
+    "code": "0701206027",
+    "name": "Sal-ing",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701206000",
+      "code": "0701206000",
+      "name": "Balilihan"
+    }
+  },
+  {
+    "id": "0701206028",
+    "code": "0701206028",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701206000",
+      "code": "0701206000",
+      "name": "Balilihan"
+    }
+  },
+  {
+    "id": "0701206029",
+    "code": "0701206029",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701206000",
+      "code": "0701206000",
+      "name": "Balilihan"
+    }
+  },
+  {
+    "id": "0701206030",
+    "code": "0701206030",
+    "name": "Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701206000",
+      "code": "0701206000",
+      "name": "Balilihan"
+    }
+  },
+  {
+    "id": "0701206031",
+    "code": "0701206031",
+    "name": "Tagustusan",
+    "type": "barangay",
+    "region": {
+      "id": "0700000000",
+      "code": "0700000000",
+      "name": "Region VII (Central Visayas)"
+    },
+    "province": {
+      "id": "0701200000",
+      "code": "0701200000",
+      "name": "Bohol"
+    },
+    "city_municipality": {
+      "id": "0701206000",
+      "code": "0701206000",
+      "name": "Balilihan"
+    }
+  }
+]

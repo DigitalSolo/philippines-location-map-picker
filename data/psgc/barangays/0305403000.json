@@ -1,0 +1,632 @@
+[
+  {
+    "id": "0305403001",
+    "code": "0305403001",
+    "name": "Arenas",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305403000",
+      "code": "0305403000",
+      "name": "Arayat"
+    }
+  },
+  {
+    "id": "0305403002",
+    "code": "0305403002",
+    "name": "Baliti",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305403000",
+      "code": "0305403000",
+      "name": "Arayat"
+    }
+  },
+  {
+    "id": "0305403003",
+    "code": "0305403003",
+    "name": "Batasan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305403000",
+      "code": "0305403000",
+      "name": "Arayat"
+    }
+  },
+  {
+    "id": "0305403005",
+    "code": "0305403005",
+    "name": "Buensuceso",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305403000",
+      "code": "0305403000",
+      "name": "Arayat"
+    }
+  },
+  {
+    "id": "0305403007",
+    "code": "0305403007",
+    "name": "Candating",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305403000",
+      "code": "0305403000",
+      "name": "Arayat"
+    }
+  },
+  {
+    "id": "0305403030",
+    "code": "0305403030",
+    "name": "Cupang",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305403000",
+      "code": "0305403000",
+      "name": "Arayat"
+    }
+  },
+  {
+    "id": "0305403008",
+    "code": "0305403008",
+    "name": "Gatiawin",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305403000",
+      "code": "0305403000",
+      "name": "Arayat"
+    }
+  },
+  {
+    "id": "0305403009",
+    "code": "0305403009",
+    "name": "Guemasan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305403000",
+      "code": "0305403000",
+      "name": "Arayat"
+    }
+  },
+  {
+    "id": "0305403036",
+    "code": "0305403036",
+    "name": "Kaledian",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305403000",
+      "code": "0305403000",
+      "name": "Arayat"
+    }
+  },
+  {
+    "id": "0305403010",
+    "code": "0305403010",
+    "name": "La Paz",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305403000",
+      "code": "0305403000",
+      "name": "Arayat"
+    }
+  },
+  {
+    "id": "0305403011",
+    "code": "0305403011",
+    "name": "Lacmit",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305403000",
+      "code": "0305403000",
+      "name": "Arayat"
+    }
+  },
+  {
+    "id": "0305403012",
+    "code": "0305403012",
+    "name": "Lacquios",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305403000",
+      "code": "0305403000",
+      "name": "Arayat"
+    }
+  },
+  {
+    "id": "0305403013",
+    "code": "0305403013",
+    "name": "Mangga-Cacutud",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305403000",
+      "code": "0305403000",
+      "name": "Arayat"
+    }
+  },
+  {
+    "id": "0305403014",
+    "code": "0305403014",
+    "name": "Mapalad",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305403000",
+      "code": "0305403000",
+      "name": "Arayat"
+    }
+  },
+  {
+    "id": "0305403031",
+    "code": "0305403031",
+    "name": "Matamo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305403000",
+      "code": "0305403000",
+      "name": "Arayat"
+    }
+  },
+  {
+    "id": "0305403015",
+    "code": "0305403015",
+    "name": "Panlinlang",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305403000",
+      "code": "0305403000",
+      "name": "Arayat"
+    }
+  },
+  {
+    "id": "0305403016",
+    "code": "0305403016",
+    "name": "Paralaya",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305403000",
+      "code": "0305403000",
+      "name": "Arayat"
+    }
+  },
+  {
+    "id": "0305403017",
+    "code": "0305403017",
+    "name": "Plazang Luma",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305403000",
+      "code": "0305403000",
+      "name": "Arayat"
+    }
+  },
+  {
+    "id": "0305403018",
+    "code": "0305403018",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305403000",
+      "code": "0305403000",
+      "name": "Arayat"
+    }
+  },
+  {
+    "id": "0305403020",
+    "code": "0305403020",
+    "name": "San Agustin Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305403000",
+      "code": "0305403000",
+      "name": "Arayat"
+    }
+  },
+  {
+    "id": "0305403021",
+    "code": "0305403021",
+    "name": "San Agustin Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305403000",
+      "code": "0305403000",
+      "name": "Arayat"
+    }
+  },
+  {
+    "id": "0305403022",
+    "code": "0305403022",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305403000",
+      "code": "0305403000",
+      "name": "Arayat"
+    }
+  },
+  {
+    "id": "0305403025",
+    "code": "0305403025",
+    "name": "San Jose Mesulo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305403000",
+      "code": "0305403000",
+      "name": "Arayat"
+    }
+  },
+  {
+    "id": "0305403026",
+    "code": "0305403026",
+    "name": "San Juan Bano",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305403000",
+      "code": "0305403000",
+      "name": "Arayat"
+    }
+  },
+  {
+    "id": "0305403027",
+    "code": "0305403027",
+    "name": "San Mateo",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305403000",
+      "code": "0305403000",
+      "name": "Arayat"
+    }
+  },
+  {
+    "id": "0305403028",
+    "code": "0305403028",
+    "name": "San Nicolas",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305403000",
+      "code": "0305403000",
+      "name": "Arayat"
+    }
+  },
+  {
+    "id": "0305403029",
+    "code": "0305403029",
+    "name": "San Roque Bitas",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305403000",
+      "code": "0305403000",
+      "name": "Arayat"
+    }
+  },
+  {
+    "id": "0305403032",
+    "code": "0305403032",
+    "name": "Santo Niño Tabuan",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305403000",
+      "code": "0305403000",
+      "name": "Arayat"
+    }
+  },
+  {
+    "id": "0305403034",
+    "code": "0305403034",
+    "name": "Suclayin",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305403000",
+      "code": "0305403000",
+      "name": "Arayat"
+    }
+  },
+  {
+    "id": "0305403035",
+    "code": "0305403035",
+    "name": "Telapayong",
+    "type": "barangay",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0305400000",
+      "code": "0305400000",
+      "name": "Pampanga"
+    },
+    "city_municipality": {
+      "id": "0305403000",
+      "code": "0305403000",
+      "name": "Arayat"
+    }
+  }
+]

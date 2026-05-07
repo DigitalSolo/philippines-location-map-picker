@@ -1,0 +1,233 @@
+[
+  {
+    "id": "1705108001",
+    "code": "1705108001",
+    "name": "Adela",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705108000",
+      "code": "1705108000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "1705108002",
+    "code": "1705108002",
+    "name": "Aguas",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705108000",
+      "code": "1705108000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "1705108003",
+    "code": "1705108003",
+    "name": "Magsikap",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705108000",
+      "code": "1705108000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "1705108004",
+    "code": "1705108004",
+    "name": "Malawaan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705108000",
+      "code": "1705108000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "1705108012",
+    "code": "1705108012",
+    "name": "Manoot",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705108000",
+      "code": "1705108000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "1705108005",
+    "code": "1705108005",
+    "name": "Pitogo",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705108000",
+      "code": "1705108000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "1705108006",
+    "code": "1705108006",
+    "name": "Rizal",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705108000",
+      "code": "1705108000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "1705108007",
+    "code": "1705108007",
+    "name": "Rumbang",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705108000",
+      "code": "1705108000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "1705108008",
+    "code": "1705108008",
+    "name": "Salvacion",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705108000",
+      "code": "1705108000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "1705108009",
+    "code": "1705108009",
+    "name": "San Pedro",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705108000",
+      "code": "1705108000",
+      "name": "Rizal"
+    }
+  },
+  {
+    "id": "1705108010",
+    "code": "1705108010",
+    "name": "Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705100000",
+      "code": "1705100000",
+      "name": "Occidental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705108000",
+      "code": "1705108000",
+      "name": "Rizal"
+    }
+  }
+]

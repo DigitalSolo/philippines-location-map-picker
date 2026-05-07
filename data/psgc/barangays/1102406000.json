@@ -1,0 +1,632 @@
+[
+  {
+    "id": "1102406001",
+    "code": "1102406001",
+    "name": "Abnate",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102406000",
+      "code": "1102406000",
+      "name": "Kiblawan"
+    }
+  },
+  {
+    "id": "1102406002",
+    "code": "1102406002",
+    "name": "Bagong Negros",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102406000",
+      "code": "1102406000",
+      "name": "Kiblawan"
+    }
+  },
+  {
+    "id": "1102406003",
+    "code": "1102406003",
+    "name": "Bagong Silang",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102406000",
+      "code": "1102406000",
+      "name": "Kiblawan"
+    }
+  },
+  {
+    "id": "1102406004",
+    "code": "1102406004",
+    "name": "Bagumbayan",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102406000",
+      "code": "1102406000",
+      "name": "Kiblawan"
+    }
+  },
+  {
+    "id": "1102406005",
+    "code": "1102406005",
+    "name": "Balasiao",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102406000",
+      "code": "1102406000",
+      "name": "Kiblawan"
+    }
+  },
+  {
+    "id": "1102406007",
+    "code": "1102406007",
+    "name": "Bonifacio",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102406000",
+      "code": "1102406000",
+      "name": "Kiblawan"
+    }
+  },
+  {
+    "id": "1102406032",
+    "code": "1102406032",
+    "name": "Bulol-Salo",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102406000",
+      "code": "1102406000",
+      "name": "Kiblawan"
+    }
+  },
+  {
+    "id": "1102406008",
+    "code": "1102406008",
+    "name": "Bunot",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102406000",
+      "code": "1102406000",
+      "name": "Kiblawan"
+    }
+  },
+  {
+    "id": "1102406009",
+    "code": "1102406009",
+    "name": "Cogon-Bacaca",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102406000",
+      "code": "1102406000",
+      "name": "Kiblawan"
+    }
+  },
+  {
+    "id": "1102406010",
+    "code": "1102406010",
+    "name": "Dapok",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102406000",
+      "code": "1102406000",
+      "name": "Kiblawan"
+    }
+  },
+  {
+    "id": "1102406011",
+    "code": "1102406011",
+    "name": "Ihan",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102406000",
+      "code": "1102406000",
+      "name": "Kiblawan"
+    }
+  },
+  {
+    "id": "1102406012",
+    "code": "1102406012",
+    "name": "Kibongbong",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102406000",
+      "code": "1102406000",
+      "name": "Kiblawan"
+    }
+  },
+  {
+    "id": "1102406013",
+    "code": "1102406013",
+    "name": "Kimlawis",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102406000",
+      "code": "1102406000",
+      "name": "Kiblawan"
+    }
+  },
+  {
+    "id": "1102406015",
+    "code": "1102406015",
+    "name": "Kisulan",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102406000",
+      "code": "1102406000",
+      "name": "Kiblawan"
+    }
+  },
+  {
+    "id": "1102406016",
+    "code": "1102406016",
+    "name": "Lati-an",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102406000",
+      "code": "1102406000",
+      "name": "Kiblawan"
+    }
+  },
+  {
+    "id": "1102406017",
+    "code": "1102406017",
+    "name": "Manual",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102406000",
+      "code": "1102406000",
+      "name": "Kiblawan"
+    }
+  },
+  {
+    "id": "1102406018",
+    "code": "1102406018",
+    "name": "Maraga-a",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102406000",
+      "code": "1102406000",
+      "name": "Kiblawan"
+    }
+  },
+  {
+    "id": "1102406019",
+    "code": "1102406019",
+    "name": "Molopolo",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102406000",
+      "code": "1102406000",
+      "name": "Kiblawan"
+    }
+  },
+  {
+    "id": "1102406020",
+    "code": "1102406020",
+    "name": "New Sibonga",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102406000",
+      "code": "1102406000",
+      "name": "Kiblawan"
+    }
+  },
+  {
+    "id": "1102406021",
+    "code": "1102406021",
+    "name": "Panaglib",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102406000",
+      "code": "1102406000",
+      "name": "Kiblawan"
+    }
+  },
+  {
+    "id": "1102406022",
+    "code": "1102406022",
+    "name": "Pasig",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102406000",
+      "code": "1102406000",
+      "name": "Kiblawan"
+    }
+  },
+  {
+    "id": "1102406023",
+    "code": "1102406023",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102406000",
+      "code": "1102406000",
+      "name": "Kiblawan"
+    }
+  },
+  {
+    "id": "1102406024",
+    "code": "1102406024",
+    "name": "Pocaleel",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102406000",
+      "code": "1102406000",
+      "name": "Kiblawan"
+    }
+  },
+  {
+    "id": "1102406025",
+    "code": "1102406025",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102406000",
+      "code": "1102406000",
+      "name": "Kiblawan"
+    }
+  },
+  {
+    "id": "1102406026",
+    "code": "1102406026",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102406000",
+      "code": "1102406000",
+      "name": "Kiblawan"
+    }
+  },
+  {
+    "id": "1102406027",
+    "code": "1102406027",
+    "name": "San Pedro",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102406000",
+      "code": "1102406000",
+      "name": "Kiblawan"
+    }
+  },
+  {
+    "id": "1102406028",
+    "code": "1102406028",
+    "name": "Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102406000",
+      "code": "1102406000",
+      "name": "Kiblawan"
+    }
+  },
+  {
+    "id": "1102406029",
+    "code": "1102406029",
+    "name": "Tacub",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102406000",
+      "code": "1102406000",
+      "name": "Kiblawan"
+    }
+  },
+  {
+    "id": "1102406030",
+    "code": "1102406030",
+    "name": "Tacul",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102406000",
+      "code": "1102406000",
+      "name": "Kiblawan"
+    }
+  },
+  {
+    "id": "1102406031",
+    "code": "1102406031",
+    "name": "Waterfall",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1102400000",
+      "code": "1102400000",
+      "name": "Davao del Sur"
+    },
+    "city_municipality": {
+      "id": "1102406000",
+      "code": "1102406000",
+      "name": "Kiblawan"
+    }
+  }
+]

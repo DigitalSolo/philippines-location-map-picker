@@ -1,0 +1,569 @@
+[
+  {
+    "id": "1705201001",
+    "code": "1705201001",
+    "name": "Alag",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705201000",
+      "code": "1705201000",
+      "name": "Baco"
+    }
+  },
+  {
+    "id": "1705201002",
+    "code": "1705201002",
+    "name": "Bangkatan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705201000",
+      "code": "1705201000",
+      "name": "Baco"
+    }
+  },
+  {
+    "id": "1705201026",
+    "code": "1705201026",
+    "name": "Baras",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705201000",
+      "code": "1705201000",
+      "name": "Baco"
+    }
+  },
+  {
+    "id": "1705201027",
+    "code": "1705201027",
+    "name": "Bayanan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705201000",
+      "code": "1705201000",
+      "name": "Baco"
+    }
+  },
+  {
+    "id": "1705201004",
+    "code": "1705201004",
+    "name": "Burbuli",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705201000",
+      "code": "1705201000",
+      "name": "Baco"
+    }
+  },
+  {
+    "id": "1705201005",
+    "code": "1705201005",
+    "name": "Catwiran I",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705201000",
+      "code": "1705201000",
+      "name": "Baco"
+    }
+  },
+  {
+    "id": "1705201006",
+    "code": "1705201006",
+    "name": "Catwiran II",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705201000",
+      "code": "1705201000",
+      "name": "Baco"
+    }
+  },
+  {
+    "id": "1705201007",
+    "code": "1705201007",
+    "name": "Dulangan I",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705201000",
+      "code": "1705201000",
+      "name": "Baco"
+    }
+  },
+  {
+    "id": "1705201008",
+    "code": "1705201008",
+    "name": "Dulangan II",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705201000",
+      "code": "1705201000",
+      "name": "Baco"
+    }
+  },
+  {
+    "id": "1705201028",
+    "code": "1705201028",
+    "name": "Lantuyang",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705201000",
+      "code": "1705201000",
+      "name": "Baco"
+    }
+  },
+  {
+    "id": "1705201010",
+    "code": "1705201010",
+    "name": "Lumang Bayan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705201000",
+      "code": "1705201000",
+      "name": "Baco"
+    }
+  },
+  {
+    "id": "1705201011",
+    "code": "1705201011",
+    "name": "Malapad",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705201000",
+      "code": "1705201000",
+      "name": "Baco"
+    }
+  },
+  {
+    "id": "1705201012",
+    "code": "1705201012",
+    "name": "Mangangan I",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705201000",
+      "code": "1705201000",
+      "name": "Baco"
+    }
+  },
+  {
+    "id": "1705201013",
+    "code": "1705201013",
+    "name": "Mangangan II",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705201000",
+      "code": "1705201000",
+      "name": "Baco"
+    }
+  },
+  {
+    "id": "1705201014",
+    "code": "1705201014",
+    "name": "Mayabig",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705201000",
+      "code": "1705201000",
+      "name": "Baco"
+    }
+  },
+  {
+    "id": "1705201015",
+    "code": "1705201015",
+    "name": "Pambisan",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705201000",
+      "code": "1705201000",
+      "name": "Baco"
+    }
+  },
+  {
+    "id": "1705201029",
+    "code": "1705201029",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705201000",
+      "code": "1705201000",
+      "name": "Baco"
+    }
+  },
+  {
+    "id": "1705201016",
+    "code": "1705201016",
+    "name": "Pulang-Tubig",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705201000",
+      "code": "1705201000",
+      "name": "Baco"
+    }
+  },
+  {
+    "id": "1705201017",
+    "code": "1705201017",
+    "name": "Putican-Cabulo",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705201000",
+      "code": "1705201000",
+      "name": "Baco"
+    }
+  },
+  {
+    "id": "1705201018",
+    "code": "1705201018",
+    "name": "San Andres",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705201000",
+      "code": "1705201000",
+      "name": "Baco"
+    }
+  },
+  {
+    "id": "1705201019",
+    "code": "1705201019",
+    "name": "San Ignacio",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705201000",
+      "code": "1705201000",
+      "name": "Baco"
+    }
+  },
+  {
+    "id": "1705201020",
+    "code": "1705201020",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705201000",
+      "code": "1705201000",
+      "name": "Baco"
+    }
+  },
+  {
+    "id": "1705201021",
+    "code": "1705201021",
+    "name": "Santa Rosa I",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705201000",
+      "code": "1705201000",
+      "name": "Baco"
+    }
+  },
+  {
+    "id": "1705201022",
+    "code": "1705201022",
+    "name": "Santa Rosa II",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705201000",
+      "code": "1705201000",
+      "name": "Baco"
+    }
+  },
+  {
+    "id": "1705201023",
+    "code": "1705201023",
+    "name": "Tabon-tabon",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705201000",
+      "code": "1705201000",
+      "name": "Baco"
+    }
+  },
+  {
+    "id": "1705201024",
+    "code": "1705201024",
+    "name": "Tagumpay",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705201000",
+      "code": "1705201000",
+      "name": "Baco"
+    }
+  },
+  {
+    "id": "1705201025",
+    "code": "1705201025",
+    "name": "Water",
+    "type": "barangay",
+    "region": {
+      "id": "1700000000",
+      "code": "1700000000",
+      "name": "MIMAROPA Region"
+    },
+    "province": {
+      "id": "1705200000",
+      "code": "1705200000",
+      "name": "Oriental Mindoro"
+    },
+    "city_municipality": {
+      "id": "1705201000",
+      "code": "1705201000",
+      "name": "Baco"
+    }
+  }
+]

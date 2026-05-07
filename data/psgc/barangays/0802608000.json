@@ -1,0 +1,380 @@
+[
+  {
+    "id": "0802608001",
+    "code": "0802608001",
+    "name": "Barangay 1",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802608000",
+      "code": "0802608000",
+      "name": "Giporlos"
+    }
+  },
+  {
+    "id": "0802608002",
+    "code": "0802608002",
+    "name": "Barangay 2",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802608000",
+      "code": "0802608000",
+      "name": "Giporlos"
+    }
+  },
+  {
+    "id": "0802608003",
+    "code": "0802608003",
+    "name": "Barangay 3",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802608000",
+      "code": "0802608000",
+      "name": "Giporlos"
+    }
+  },
+  {
+    "id": "0802608004",
+    "code": "0802608004",
+    "name": "Barangay 4",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802608000",
+      "code": "0802608000",
+      "name": "Giporlos"
+    }
+  },
+  {
+    "id": "0802608005",
+    "code": "0802608005",
+    "name": "Barangay 5",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802608000",
+      "code": "0802608000",
+      "name": "Giporlos"
+    }
+  },
+  {
+    "id": "0802608006",
+    "code": "0802608006",
+    "name": "Barangay 6",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802608000",
+      "code": "0802608000",
+      "name": "Giporlos"
+    }
+  },
+  {
+    "id": "0802608007",
+    "code": "0802608007",
+    "name": "Barangay 7",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802608000",
+      "code": "0802608000",
+      "name": "Giporlos"
+    }
+  },
+  {
+    "id": "0802608019",
+    "code": "0802608019",
+    "name": "Barangay 8",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802608000",
+      "code": "0802608000",
+      "name": "Giporlos"
+    }
+  },
+  {
+    "id": "0802608008",
+    "code": "0802608008",
+    "name": "Biga",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802608000",
+      "code": "0802608000",
+      "name": "Giporlos"
+    }
+  },
+  {
+    "id": "0802608009",
+    "code": "0802608009",
+    "name": "Coticot",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802608000",
+      "code": "0802608000",
+      "name": "Giporlos"
+    }
+  },
+  {
+    "id": "0802608010",
+    "code": "0802608010",
+    "name": "Gigoso",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802608000",
+      "code": "0802608000",
+      "name": "Giporlos"
+    }
+  },
+  {
+    "id": "0802608011",
+    "code": "0802608011",
+    "name": "Huknan",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802608000",
+      "code": "0802608000",
+      "name": "Giporlos"
+    }
+  },
+  {
+    "id": "0802608012",
+    "code": "0802608012",
+    "name": "Parina",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802608000",
+      "code": "0802608000",
+      "name": "Giporlos"
+    }
+  },
+  {
+    "id": "0802608013",
+    "code": "0802608013",
+    "name": "Paya",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802608000",
+      "code": "0802608000",
+      "name": "Giporlos"
+    }
+  },
+  {
+    "id": "0802608015",
+    "code": "0802608015",
+    "name": "President Roxas",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802608000",
+      "code": "0802608000",
+      "name": "Giporlos"
+    }
+  },
+  {
+    "id": "0802608020",
+    "code": "0802608020",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802608000",
+      "code": "0802608000",
+      "name": "Giporlos"
+    }
+  },
+  {
+    "id": "0802608017",
+    "code": "0802608017",
+    "name": "San Miguel",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802608000",
+      "code": "0802608000",
+      "name": "Giporlos"
+    }
+  },
+  {
+    "id": "0802608018",
+    "code": "0802608018",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0802600000",
+      "code": "0802600000",
+      "name": "Eastern Samar"
+    },
+    "city_municipality": {
+      "id": "0802608000",
+      "code": "0802608000",
+      "name": "Giporlos"
+    }
+  }
+]

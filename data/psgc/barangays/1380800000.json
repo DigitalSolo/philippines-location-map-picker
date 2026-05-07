@@ -1,0 +1,146 @@
+[
+  {
+    "id": "1380800001",
+    "code": "1380800001",
+    "name": "Alabang",
+    "type": "barangay",
+    "region": {
+      "id": "1300000000",
+      "code": "1300000000",
+      "name": "National Capital Region (NCR)"
+    },
+    "city_municipality": {
+      "id": "1380800000",
+      "code": "1380800000",
+      "name": "City of Muntinlupa"
+    }
+  },
+  {
+    "id": "1380800002",
+    "code": "1380800002",
+    "name": "Bayanan",
+    "type": "barangay",
+    "region": {
+      "id": "1300000000",
+      "code": "1300000000",
+      "name": "National Capital Region (NCR)"
+    },
+    "city_municipality": {
+      "id": "1380800000",
+      "code": "1380800000",
+      "name": "City of Muntinlupa"
+    }
+  },
+  {
+    "id": "1380800003",
+    "code": "1380800003",
+    "name": "Buli",
+    "type": "barangay",
+    "region": {
+      "id": "1300000000",
+      "code": "1300000000",
+      "name": "National Capital Region (NCR)"
+    },
+    "city_municipality": {
+      "id": "1380800000",
+      "code": "1380800000",
+      "name": "City of Muntinlupa"
+    }
+  },
+  {
+    "id": "1380800004",
+    "code": "1380800004",
+    "name": "Cupang",
+    "type": "barangay",
+    "region": {
+      "id": "1300000000",
+      "code": "1300000000",
+      "name": "National Capital Region (NCR)"
+    },
+    "city_municipality": {
+      "id": "1380800000",
+      "code": "1380800000",
+      "name": "City of Muntinlupa"
+    }
+  },
+  {
+    "id": "1380800009",
+    "code": "1380800009",
+    "name": "New Alabang Village",
+    "type": "barangay",
+    "region": {
+      "id": "1300000000",
+      "code": "1300000000",
+      "name": "National Capital Region (NCR)"
+    },
+    "city_municipality": {
+      "id": "1380800000",
+      "code": "1380800000",
+      "name": "City of Muntinlupa"
+    }
+  },
+  {
+    "id": "1380800005",
+    "code": "1380800005",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1300000000",
+      "code": "1300000000",
+      "name": "National Capital Region (NCR)"
+    },
+    "city_municipality": {
+      "id": "1380800000",
+      "code": "1380800000",
+      "name": "City of Muntinlupa"
+    }
+  },
+  {
+    "id": "1380800006",
+    "code": "1380800006",
+    "name": "Putatan",
+    "type": "barangay",
+    "region": {
+      "id": "1300000000",
+      "code": "1300000000",
+      "name": "National Capital Region (NCR)"
+    },
+    "city_municipality": {
+      "id": "1380800000",
+      "code": "1380800000",
+      "name": "City of Muntinlupa"
+    }
+  },
+  {
+    "id": "1380800007",
+    "code": "1380800007",
+    "name": "Sucat",
+    "type": "barangay",
+    "region": {
+      "id": "1300000000",
+      "code": "1300000000",
+      "name": "National Capital Region (NCR)"
+    },
+    "city_municipality": {
+      "id": "1380800000",
+      "code": "1380800000",
+      "name": "City of Muntinlupa"
+    }
+  },
+  {
+    "id": "1380800008",
+    "code": "1380800008",
+    "name": "Tunasan",
+    "type": "barangay",
+    "region": {
+      "id": "1300000000",
+      "code": "1300000000",
+      "name": "National Capital Region (NCR)"
+    },
+    "city_municipality": {
+      "id": "1380800000",
+      "code": "1380800000",
+      "name": "City of Muntinlupa"
+    }
+  }
+]

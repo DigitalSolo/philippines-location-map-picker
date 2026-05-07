@@ -1,0 +1,695 @@
+[
+  {
+    "id": "0501703001",
+    "code": "0501703001",
+    "name": "Agos",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501703000",
+      "code": "0501703000",
+      "name": "Bato"
+    }
+  },
+  {
+    "id": "0501703002",
+    "code": "0501703002",
+    "name": "Bacolod",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501703000",
+      "code": "0501703000",
+      "name": "Bato"
+    }
+  },
+  {
+    "id": "0501703003",
+    "code": "0501703003",
+    "name": "Buluang",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501703000",
+      "code": "0501703000",
+      "name": "Bato"
+    }
+  },
+  {
+    "id": "0501703004",
+    "code": "0501703004",
+    "name": "Caricot",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501703000",
+      "code": "0501703000",
+      "name": "Bato"
+    }
+  },
+  {
+    "id": "0501703005",
+    "code": "0501703005",
+    "name": "Cawacagan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501703000",
+      "code": "0501703000",
+      "name": "Bato"
+    }
+  },
+  {
+    "id": "0501703006",
+    "code": "0501703006",
+    "name": "Cotmon",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501703000",
+      "code": "0501703000",
+      "name": "Bato"
+    }
+  },
+  {
+    "id": "0501703007",
+    "code": "0501703007",
+    "name": "Cristo Rey",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501703000",
+      "code": "0501703000",
+      "name": "Bato"
+    }
+  },
+  {
+    "id": "0501703008",
+    "code": "0501703008",
+    "name": "Del Rosario",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501703000",
+      "code": "0501703000",
+      "name": "Bato"
+    }
+  },
+  {
+    "id": "0501703009",
+    "code": "0501703009",
+    "name": "Divina Pastora",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501703000",
+      "code": "0501703000",
+      "name": "Bato"
+    }
+  },
+  {
+    "id": "0501703010",
+    "code": "0501703010",
+    "name": "Goyudan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501703000",
+      "code": "0501703000",
+      "name": "Bato"
+    }
+  },
+  {
+    "id": "0501703011",
+    "code": "0501703011",
+    "name": "Lobong",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501703000",
+      "code": "0501703000",
+      "name": "Bato"
+    }
+  },
+  {
+    "id": "0501703012",
+    "code": "0501703012",
+    "name": "Lubigan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501703000",
+      "code": "0501703000",
+      "name": "Bato"
+    }
+  },
+  {
+    "id": "0501703013",
+    "code": "0501703013",
+    "name": "Mainit",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501703000",
+      "code": "0501703000",
+      "name": "Bato"
+    }
+  },
+  {
+    "id": "0501703014",
+    "code": "0501703014",
+    "name": "Manga",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501703000",
+      "code": "0501703000",
+      "name": "Bato"
+    }
+  },
+  {
+    "id": "0501703015",
+    "code": "0501703015",
+    "name": "Masoli",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501703000",
+      "code": "0501703000",
+      "name": "Bato"
+    }
+  },
+  {
+    "id": "0501703016",
+    "code": "0501703016",
+    "name": "Neighborhood",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501703000",
+      "code": "0501703000",
+      "name": "Bato"
+    }
+  },
+  {
+    "id": "0501703017",
+    "code": "0501703017",
+    "name": "Niño Jesus",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501703000",
+      "code": "0501703000",
+      "name": "Bato"
+    }
+  },
+  {
+    "id": "0501703018",
+    "code": "0501703018",
+    "name": "Pagatpatan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501703000",
+      "code": "0501703000",
+      "name": "Bato"
+    }
+  },
+  {
+    "id": "0501703019",
+    "code": "0501703019",
+    "name": "Palo",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501703000",
+      "code": "0501703000",
+      "name": "Bato"
+    }
+  },
+  {
+    "id": "0501703020",
+    "code": "0501703020",
+    "name": "Payak",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501703000",
+      "code": "0501703000",
+      "name": "Bato"
+    }
+  },
+  {
+    "id": "0501703023",
+    "code": "0501703023",
+    "name": "Sagrada",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501703000",
+      "code": "0501703000",
+      "name": "Bato"
+    }
+  },
+  {
+    "id": "0501703024",
+    "code": "0501703024",
+    "name": "Salvacion",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501703000",
+      "code": "0501703000",
+      "name": "Bato"
+    }
+  },
+  {
+    "id": "0501703025",
+    "code": "0501703025",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501703000",
+      "code": "0501703000",
+      "name": "Bato"
+    }
+  },
+  {
+    "id": "0501703026",
+    "code": "0501703026",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501703000",
+      "code": "0501703000",
+      "name": "Bato"
+    }
+  },
+  {
+    "id": "0501703027",
+    "code": "0501703027",
+    "name": "San Miguel",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501703000",
+      "code": "0501703000",
+      "name": "Bato"
+    }
+  },
+  {
+    "id": "0501703028",
+    "code": "0501703028",
+    "name": "San Rafael",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501703000",
+      "code": "0501703000",
+      "name": "Bato"
+    }
+  },
+  {
+    "id": "0501703029",
+    "code": "0501703029",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501703000",
+      "code": "0501703000",
+      "name": "Bato"
+    }
+  },
+  {
+    "id": "0501703030",
+    "code": "0501703030",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501703000",
+      "code": "0501703000",
+      "name": "Bato"
+    }
+  },
+  {
+    "id": "0501703031",
+    "code": "0501703031",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501703000",
+      "code": "0501703000",
+      "name": "Bato"
+    }
+  },
+  {
+    "id": "0501703032",
+    "code": "0501703032",
+    "name": "Santiago",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501703000",
+      "code": "0501703000",
+      "name": "Bato"
+    }
+  },
+  {
+    "id": "0501703033",
+    "code": "0501703033",
+    "name": "Sooc",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501703000",
+      "code": "0501703000",
+      "name": "Bato"
+    }
+  },
+  {
+    "id": "0501703034",
+    "code": "0501703034",
+    "name": "Tagpolo",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501703000",
+      "code": "0501703000",
+      "name": "Bato"
+    }
+  },
+  {
+    "id": "0501703035",
+    "code": "0501703035",
+    "name": "Tres Reyes",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0501700000",
+      "code": "0501700000",
+      "name": "Camarines Sur"
+    },
+    "city_municipality": {
+      "id": "0501703000",
+      "code": "0501703000",
+      "name": "Bato"
+    }
+  }
+]

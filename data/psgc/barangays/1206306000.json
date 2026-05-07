@@ -1,0 +1,569 @@
+[
+  {
+    "id": "1206306001",
+    "code": "1206306001",
+    "name": "Assumption",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206306000",
+      "code": "1206306000",
+      "name": "City of Koronadal"
+    }
+  },
+  {
+    "id": "1206306002",
+    "code": "1206306002",
+    "name": "Avanceña",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206306000",
+      "code": "1206306000",
+      "name": "City of Koronadal"
+    }
+  },
+  {
+    "id": "1206306003",
+    "code": "1206306003",
+    "name": "Cacub",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206306000",
+      "code": "1206306000",
+      "name": "City of Koronadal"
+    }
+  },
+  {
+    "id": "1206306004",
+    "code": "1206306004",
+    "name": "Caloocan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206306000",
+      "code": "1206306000",
+      "name": "City of Koronadal"
+    }
+  },
+  {
+    "id": "1206306005",
+    "code": "1206306005",
+    "name": "Carpenter Hill",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206306000",
+      "code": "1206306000",
+      "name": "City of Koronadal"
+    }
+  },
+  {
+    "id": "1206306006",
+    "code": "1206306006",
+    "name": "Concepcion",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206306000",
+      "code": "1206306000",
+      "name": "City of Koronadal"
+    }
+  },
+  {
+    "id": "1206306007",
+    "code": "1206306007",
+    "name": "Esperanza",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206306000",
+      "code": "1206306000",
+      "name": "City of Koronadal"
+    }
+  },
+  {
+    "id": "1206306008",
+    "code": "1206306008",
+    "name": "General Paulino Santos",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206306000",
+      "code": "1206306000",
+      "name": "City of Koronadal"
+    }
+  },
+  {
+    "id": "1206306009",
+    "code": "1206306009",
+    "name": "Mabini",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206306000",
+      "code": "1206306000",
+      "name": "City of Koronadal"
+    }
+  },
+  {
+    "id": "1206306010",
+    "code": "1206306010",
+    "name": "Magsaysay",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206306000",
+      "code": "1206306000",
+      "name": "City of Koronadal"
+    }
+  },
+  {
+    "id": "1206306011",
+    "code": "1206306011",
+    "name": "Mambucal",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206306000",
+      "code": "1206306000",
+      "name": "City of Koronadal"
+    }
+  },
+  {
+    "id": "1206306012",
+    "code": "1206306012",
+    "name": "Morales",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206306000",
+      "code": "1206306000",
+      "name": "City of Koronadal"
+    }
+  },
+  {
+    "id": "1206306013",
+    "code": "1206306013",
+    "name": "Namnama",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206306000",
+      "code": "1206306000",
+      "name": "City of Koronadal"
+    }
+  },
+  {
+    "id": "1206306014",
+    "code": "1206306014",
+    "name": "New Pangasinan",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206306000",
+      "code": "1206306000",
+      "name": "City of Koronadal"
+    }
+  },
+  {
+    "id": "1206306015",
+    "code": "1206306015",
+    "name": "Paraiso",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206306000",
+      "code": "1206306000",
+      "name": "City of Koronadal"
+    }
+  },
+  {
+    "id": "1206306020",
+    "code": "1206306020",
+    "name": "Rotonda",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206306000",
+      "code": "1206306000",
+      "name": "City of Koronadal"
+    }
+  },
+  {
+    "id": "1206306021",
+    "code": "1206306021",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206306000",
+      "code": "1206306000",
+      "name": "City of Koronadal"
+    }
+  },
+  {
+    "id": "1206306022",
+    "code": "1206306022",
+    "name": "San Jose",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206306000",
+      "code": "1206306000",
+      "name": "City of Koronadal"
+    }
+  },
+  {
+    "id": "1206306023",
+    "code": "1206306023",
+    "name": "San Roque",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206306000",
+      "code": "1206306000",
+      "name": "City of Koronadal"
+    }
+  },
+  {
+    "id": "1206306024",
+    "code": "1206306024",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206306000",
+      "code": "1206306000",
+      "name": "City of Koronadal"
+    }
+  },
+  {
+    "id": "1206306025",
+    "code": "1206306025",
+    "name": "Santo Niño",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206306000",
+      "code": "1206306000",
+      "name": "City of Koronadal"
+    }
+  },
+  {
+    "id": "1206306026",
+    "code": "1206306026",
+    "name": "Sarabia",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206306000",
+      "code": "1206306000",
+      "name": "City of Koronadal"
+    }
+  },
+  {
+    "id": "1206306016",
+    "code": "1206306016",
+    "name": "Zone I",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206306000",
+      "code": "1206306000",
+      "name": "City of Koronadal"
+    }
+  },
+  {
+    "id": "1206306017",
+    "code": "1206306017",
+    "name": "Zone II",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206306000",
+      "code": "1206306000",
+      "name": "City of Koronadal"
+    }
+  },
+  {
+    "id": "1206306018",
+    "code": "1206306018",
+    "name": "Zone III",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206306000",
+      "code": "1206306000",
+      "name": "City of Koronadal"
+    }
+  },
+  {
+    "id": "1206306019",
+    "code": "1206306019",
+    "name": "Zone IV",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206306000",
+      "code": "1206306000",
+      "name": "City of Koronadal"
+    }
+  },
+  {
+    "id": "1206306027",
+    "code": "1206306027",
+    "name": "Zulueta",
+    "type": "barangay",
+    "region": {
+      "id": "1200000000",
+      "code": "1200000000",
+      "name": "Region XII (SOCCSKSARGEN)"
+    },
+    "province": {
+      "id": "1206300000",
+      "code": "1206300000",
+      "name": "South Cotabato"
+    },
+    "city_municipality": {
+      "id": "1206306000",
+      "code": "1206306000",
+      "name": "City of Koronadal"
+    }
+  }
+]

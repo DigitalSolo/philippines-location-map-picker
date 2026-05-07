@@ -1,0 +1,611 @@
+[
+  {
+    "id": "0908313041",
+    "code": "0908313041",
+    "name": "Bagong Silang",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908313000",
+      "code": "0908313000",
+      "name": "Siay"
+    }
+  },
+  {
+    "id": "0908313002",
+    "code": "0908313002",
+    "name": "Balagon",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908313000",
+      "code": "0908313000",
+      "name": "Siay"
+    }
+  },
+  {
+    "id": "0908313005",
+    "code": "0908313005",
+    "name": "Balingasan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908313000",
+      "code": "0908313000",
+      "name": "Siay"
+    }
+  },
+  {
+    "id": "0908313001",
+    "code": "0908313001",
+    "name": "Balucanan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908313000",
+      "code": "0908313000",
+      "name": "Siay"
+    }
+  },
+  {
+    "id": "0908313042",
+    "code": "0908313042",
+    "name": "Bataan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908313000",
+      "code": "0908313000",
+      "name": "Siay"
+    }
+  },
+  {
+    "id": "0908313006",
+    "code": "0908313006",
+    "name": "Batu",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908313000",
+      "code": "0908313000",
+      "name": "Siay"
+    }
+  },
+  {
+    "id": "0908313008",
+    "code": "0908313008",
+    "name": "Buyogan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908313000",
+      "code": "0908313000",
+      "name": "Siay"
+    }
+  },
+  {
+    "id": "0908313010",
+    "code": "0908313010",
+    "name": "Camanga",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908313000",
+      "code": "0908313000",
+      "name": "Siay"
+    }
+  },
+  {
+    "id": "0908313011",
+    "code": "0908313011",
+    "name": "Coloran",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908313000",
+      "code": "0908313000",
+      "name": "Siay"
+    }
+  },
+  {
+    "id": "0908313018",
+    "code": "0908313018",
+    "name": "Kimos",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908313000",
+      "code": "0908313000",
+      "name": "Siay"
+    }
+  },
+  {
+    "id": "0908313021",
+    "code": "0908313021",
+    "name": "Labasan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908313000",
+      "code": "0908313000",
+      "name": "Siay"
+    }
+  },
+  {
+    "id": "0908313043",
+    "code": "0908313043",
+    "name": "Lagting",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908313000",
+      "code": "0908313000",
+      "name": "Siay"
+    }
+  },
+  {
+    "id": "0908313022",
+    "code": "0908313022",
+    "name": "Laih",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908313000",
+      "code": "0908313000",
+      "name": "Siay"
+    }
+  },
+  {
+    "id": "0908313044",
+    "code": "0908313044",
+    "name": "Logpond",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908313000",
+      "code": "0908313000",
+      "name": "Siay"
+    }
+  },
+  {
+    "id": "0908313023",
+    "code": "0908313023",
+    "name": "Magsaysay",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908313000",
+      "code": "0908313000",
+      "name": "Siay"
+    }
+  },
+  {
+    "id": "0908313024",
+    "code": "0908313024",
+    "name": "Mahayahay",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908313000",
+      "code": "0908313000",
+      "name": "Siay"
+    }
+  },
+  {
+    "id": "0908313025",
+    "code": "0908313025",
+    "name": "Maligaya",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908313000",
+      "code": "0908313000",
+      "name": "Siay"
+    }
+  },
+  {
+    "id": "0908313026",
+    "code": "0908313026",
+    "name": "Maniha",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908313000",
+      "code": "0908313000",
+      "name": "Siay"
+    }
+  },
+  {
+    "id": "0908313027",
+    "code": "0908313027",
+    "name": "Minsulao",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908313000",
+      "code": "0908313000",
+      "name": "Siay"
+    }
+  },
+  {
+    "id": "0908313028",
+    "code": "0908313028",
+    "name": "Mirangan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908313000",
+      "code": "0908313000",
+      "name": "Siay"
+    }
+  },
+  {
+    "id": "0908313029",
+    "code": "0908313029",
+    "name": "Monching",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908313000",
+      "code": "0908313000",
+      "name": "Siay"
+    }
+  },
+  {
+    "id": "0908313033",
+    "code": "0908313033",
+    "name": "Paruk",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908313000",
+      "code": "0908313000",
+      "name": "Siay"
+    }
+  },
+  {
+    "id": "0908313036",
+    "code": "0908313036",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908313000",
+      "code": "0908313000",
+      "name": "Siay"
+    }
+  },
+  {
+    "id": "0908313037",
+    "code": "0908313037",
+    "name": "Princesa Sumama",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908313000",
+      "code": "0908313000",
+      "name": "Siay"
+    }
+  },
+  {
+    "id": "0908313045",
+    "code": "0908313045",
+    "name": "Salinding",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908313000",
+      "code": "0908313000",
+      "name": "Siay"
+    }
+  },
+  {
+    "id": "0908313046",
+    "code": "0908313046",
+    "name": "San Isidro",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908313000",
+      "code": "0908313000",
+      "name": "Siay"
+    }
+  },
+  {
+    "id": "0908313040",
+    "code": "0908313040",
+    "name": "Sibuguey",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908313000",
+      "code": "0908313000",
+      "name": "Siay"
+    }
+  },
+  {
+    "id": "0908313047",
+    "code": "0908313047",
+    "name": "Siloh",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908313000",
+      "code": "0908313000",
+      "name": "Siay"
+    }
+  },
+  {
+    "id": "0908313048",
+    "code": "0908313048",
+    "name": "Villagracia",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908313000",
+      "code": "0908313000",
+      "name": "Siay"
+    }
+  }
+]

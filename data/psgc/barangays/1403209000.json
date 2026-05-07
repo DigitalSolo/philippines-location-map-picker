@@ -1,0 +1,485 @@
+[
+  {
+    "id": "1403209001",
+    "code": "1403209001",
+    "name": "Aciga",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    },
+    "city_municipality": {
+      "id": "1403209000",
+      "code": "1403209000",
+      "name": "Pinukpuk"
+    }
+  },
+  {
+    "id": "1403209002",
+    "code": "1403209002",
+    "name": "Allaguia",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    },
+    "city_municipality": {
+      "id": "1403209000",
+      "code": "1403209000",
+      "name": "Pinukpuk"
+    }
+  },
+  {
+    "id": "1403209003",
+    "code": "1403209003",
+    "name": "Ammacian",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    },
+    "city_municipality": {
+      "id": "1403209000",
+      "code": "1403209000",
+      "name": "Pinukpuk"
+    }
+  },
+  {
+    "id": "1403209004",
+    "code": "1403209004",
+    "name": "Apatan",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    },
+    "city_municipality": {
+      "id": "1403209000",
+      "code": "1403209000",
+      "name": "Pinukpuk"
+    }
+  },
+  {
+    "id": "1403209013",
+    "code": "1403209013",
+    "name": "Asibanglan",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    },
+    "city_municipality": {
+      "id": "1403209000",
+      "code": "1403209000",
+      "name": "Pinukpuk"
+    }
+  },
+  {
+    "id": "1403209005",
+    "code": "1403209005",
+    "name": "Ba-ay",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    },
+    "city_municipality": {
+      "id": "1403209000",
+      "code": "1403209000",
+      "name": "Pinukpuk"
+    }
+  },
+  {
+    "id": "1403209006",
+    "code": "1403209006",
+    "name": "Ballayangon",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    },
+    "city_municipality": {
+      "id": "1403209000",
+      "code": "1403209000",
+      "name": "Pinukpuk"
+    }
+  },
+  {
+    "id": "1403209007",
+    "code": "1403209007",
+    "name": "Bayao",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    },
+    "city_municipality": {
+      "id": "1403209000",
+      "code": "1403209000",
+      "name": "Pinukpuk"
+    }
+  },
+  {
+    "id": "1403209009",
+    "code": "1403209009",
+    "name": "Camalog",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    },
+    "city_municipality": {
+      "id": "1403209000",
+      "code": "1403209000",
+      "name": "Pinukpuk"
+    }
+  },
+  {
+    "id": "1403209012",
+    "code": "1403209012",
+    "name": "Cawagayan",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    },
+    "city_municipality": {
+      "id": "1403209000",
+      "code": "1403209000",
+      "name": "Pinukpuk"
+    }
+  },
+  {
+    "id": "1403209011",
+    "code": "1403209011",
+    "name": "Dugpa",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    },
+    "city_municipality": {
+      "id": "1403209000",
+      "code": "1403209000",
+      "name": "Pinukpuk"
+    }
+  },
+  {
+    "id": "1403209010",
+    "code": "1403209010",
+    "name": "Katabbogan",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    },
+    "city_municipality": {
+      "id": "1403209000",
+      "code": "1403209000",
+      "name": "Pinukpuk"
+    }
+  },
+  {
+    "id": "1403209014",
+    "code": "1403209014",
+    "name": "Limos",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    },
+    "city_municipality": {
+      "id": "1403209000",
+      "code": "1403209000",
+      "name": "Pinukpuk"
+    }
+  },
+  {
+    "id": "1403209015",
+    "code": "1403209015",
+    "name": "Magaogao",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    },
+    "city_municipality": {
+      "id": "1403209000",
+      "code": "1403209000",
+      "name": "Pinukpuk"
+    }
+  },
+  {
+    "id": "1403209016",
+    "code": "1403209016",
+    "name": "Malagnat",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    },
+    "city_municipality": {
+      "id": "1403209000",
+      "code": "1403209000",
+      "name": "Pinukpuk"
+    }
+  },
+  {
+    "id": "1403209018",
+    "code": "1403209018",
+    "name": "Mapaco",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    },
+    "city_municipality": {
+      "id": "1403209000",
+      "code": "1403209000",
+      "name": "Pinukpuk"
+    }
+  },
+  {
+    "id": "1403209019",
+    "code": "1403209019",
+    "name": "Pakawit",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    },
+    "city_municipality": {
+      "id": "1403209000",
+      "code": "1403209000",
+      "name": "Pinukpuk"
+    }
+  },
+  {
+    "id": "1403209023",
+    "code": "1403209023",
+    "name": "Pinococ",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    },
+    "city_municipality": {
+      "id": "1403209000",
+      "code": "1403209000",
+      "name": "Pinukpuk"
+    }
+  },
+  {
+    "id": "1403209020",
+    "code": "1403209020",
+    "name": "Pinukpuk Junction",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    },
+    "city_municipality": {
+      "id": "1403209000",
+      "code": "1403209000",
+      "name": "Pinukpuk"
+    }
+  },
+  {
+    "id": "1403209021",
+    "code": "1403209021",
+    "name": "Socbot",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    },
+    "city_municipality": {
+      "id": "1403209000",
+      "code": "1403209000",
+      "name": "Pinukpuk"
+    }
+  },
+  {
+    "id": "1403209022",
+    "code": "1403209022",
+    "name": "Taga",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    },
+    "city_municipality": {
+      "id": "1403209000",
+      "code": "1403209000",
+      "name": "Pinukpuk"
+    }
+  },
+  {
+    "id": "1403209024",
+    "code": "1403209024",
+    "name": "Taggay",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    },
+    "city_municipality": {
+      "id": "1403209000",
+      "code": "1403209000",
+      "name": "Pinukpuk"
+    }
+  },
+  {
+    "id": "1403209008",
+    "code": "1403209008",
+    "name": "Wagud",
+    "type": "barangay",
+    "region": {
+      "id": "1400000000",
+      "code": "1400000000",
+      "name": "Cordillera Administrative Region (CAR)"
+    },
+    "province": {
+      "id": "1403200000",
+      "code": "1403200000",
+      "name": "Kalinga"
+    },
+    "city_municipality": {
+      "id": "1403209000",
+      "code": "1403209000",
+      "name": "Pinukpuk"
+    }
+  }
+]

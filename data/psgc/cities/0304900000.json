@@ -1,0 +1,514 @@
+[
+  {
+    "id": "0304901000",
+    "code": "0304901000",
+    "name": "Aliaga",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    }
+  },
+  {
+    "id": "0304902000",
+    "code": "0304902000",
+    "name": "Bongabon",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    }
+  },
+  {
+    "id": "0304904000",
+    "code": "0304904000",
+    "name": "Cabiao",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    }
+  },
+  {
+    "id": "0304905000",
+    "code": "0304905000",
+    "name": "Carranglan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    }
+  },
+  {
+    "id": "0304903000",
+    "code": "0304903000",
+    "name": "City of Cabanatuan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    }
+  },
+  {
+    "id": "0304908000",
+    "code": "0304908000",
+    "name": "City of Gapan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    }
+  },
+  {
+    "id": "0304919000",
+    "code": "0304919000",
+    "name": "City of Palayan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    }
+  },
+  {
+    "id": "0304906000",
+    "code": "0304906000",
+    "name": "Cuyapo",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    }
+  },
+  {
+    "id": "0304907000",
+    "code": "0304907000",
+    "name": "Gabaldon",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    }
+  },
+  {
+    "id": "0304909000",
+    "code": "0304909000",
+    "name": "General Mamerto Natividad",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    }
+  },
+  {
+    "id": "0304910000",
+    "code": "0304910000",
+    "name": "General Tinio",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    }
+  },
+  {
+    "id": "0304911000",
+    "code": "0304911000",
+    "name": "Guimba",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    }
+  },
+  {
+    "id": "0304912000",
+    "code": "0304912000",
+    "name": "Jaen",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    }
+  },
+  {
+    "id": "0304913000",
+    "code": "0304913000",
+    "name": "Laur",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    }
+  },
+  {
+    "id": "0304914000",
+    "code": "0304914000",
+    "name": "Licab",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    }
+  },
+  {
+    "id": "0304915000",
+    "code": "0304915000",
+    "name": "Llanera",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    }
+  },
+  {
+    "id": "0304916000",
+    "code": "0304916000",
+    "name": "Lupao",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    }
+  },
+  {
+    "id": "0304918000",
+    "code": "0304918000",
+    "name": "Nampicuan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    }
+  },
+  {
+    "id": "0304920000",
+    "code": "0304920000",
+    "name": "Pantabangan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    }
+  },
+  {
+    "id": "0304921000",
+    "code": "0304921000",
+    "name": "Peñaranda",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    }
+  },
+  {
+    "id": "0304922000",
+    "code": "0304922000",
+    "name": "Quezon",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    }
+  },
+  {
+    "id": "0304923000",
+    "code": "0304923000",
+    "name": "Rizal",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    }
+  },
+  {
+    "id": "0304924000",
+    "code": "0304924000",
+    "name": "San Antonio",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    }
+  },
+  {
+    "id": "0304925000",
+    "code": "0304925000",
+    "name": "San Isidro",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    }
+  },
+  {
+    "id": "0304926000",
+    "code": "0304926000",
+    "name": "San Jose City",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    }
+  },
+  {
+    "id": "0304927000",
+    "code": "0304927000",
+    "name": "San Leonardo",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    }
+  },
+  {
+    "id": "0304928000",
+    "code": "0304928000",
+    "name": "Santa Rosa",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    }
+  },
+  {
+    "id": "0304929000",
+    "code": "0304929000",
+    "name": "Santo Domingo",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    }
+  },
+  {
+    "id": "0304917000",
+    "code": "0304917000",
+    "name": "Science City of Muñoz",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    }
+  },
+  {
+    "id": "0304930000",
+    "code": "0304930000",
+    "name": "Talavera",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    }
+  },
+  {
+    "id": "0304931000",
+    "code": "0304931000",
+    "name": "Talugtug",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    }
+  },
+  {
+    "id": "0304932000",
+    "code": "0304932000",
+    "name": "Zaragoza",
+    "type": "city_municipality",
+    "region": {
+      "id": "0300000000",
+      "code": "0300000000",
+      "name": "Region III (Central Luzon)"
+    },
+    "province": {
+      "id": "0304900000",
+      "code": "0304900000",
+      "name": "Nueva Ecija"
+    }
+  }
+]

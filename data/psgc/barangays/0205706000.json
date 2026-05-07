@@ -1,0 +1,338 @@
+[
+  {
+    "id": "0205706001",
+    "code": "0205706001",
+    "name": "Anak",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205706000",
+      "code": "0205706000",
+      "name": "Nagtipunan"
+    }
+  },
+  {
+    "id": "0205706016",
+    "code": "0205706016",
+    "name": "Asaklat",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205706000",
+      "code": "0205706000",
+      "name": "Nagtipunan"
+    }
+  },
+  {
+    "id": "0205706002",
+    "code": "0205706002",
+    "name": "Dipantan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205706000",
+      "code": "0205706000",
+      "name": "Nagtipunan"
+    }
+  },
+  {
+    "id": "0205706003",
+    "code": "0205706003",
+    "name": "Dissimungal",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205706000",
+      "code": "0205706000",
+      "name": "Nagtipunan"
+    }
+  },
+  {
+    "id": "0205706004",
+    "code": "0205706004",
+    "name": "Guino",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205706000",
+      "code": "0205706000",
+      "name": "Nagtipunan"
+    }
+  },
+  {
+    "id": "0205706005",
+    "code": "0205706005",
+    "name": "La Conwap",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205706000",
+      "code": "0205706000",
+      "name": "Nagtipunan"
+    }
+  },
+  {
+    "id": "0205706006",
+    "code": "0205706006",
+    "name": "Landingan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205706000",
+      "code": "0205706000",
+      "name": "Nagtipunan"
+    }
+  },
+  {
+    "id": "0205706007",
+    "code": "0205706007",
+    "name": "Mataddi",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205706000",
+      "code": "0205706000",
+      "name": "Nagtipunan"
+    }
+  },
+  {
+    "id": "0205706008",
+    "code": "0205706008",
+    "name": "Matmad",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205706000",
+      "code": "0205706000",
+      "name": "Nagtipunan"
+    }
+  },
+  {
+    "id": "0205706009",
+    "code": "0205706009",
+    "name": "Old Gumiad",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205706000",
+      "code": "0205706000",
+      "name": "Nagtipunan"
+    }
+  },
+  {
+    "id": "0205706010",
+    "code": "0205706010",
+    "name": "Ponggo",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205706000",
+      "code": "0205706000",
+      "name": "Nagtipunan"
+    }
+  },
+  {
+    "id": "0205706011",
+    "code": "0205706011",
+    "name": "San Dionisio II",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205706000",
+      "code": "0205706000",
+      "name": "Nagtipunan"
+    }
+  },
+  {
+    "id": "0205706012",
+    "code": "0205706012",
+    "name": "San Pugo",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205706000",
+      "code": "0205706000",
+      "name": "Nagtipunan"
+    }
+  },
+  {
+    "id": "0205706013",
+    "code": "0205706013",
+    "name": "San Ramos",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205706000",
+      "code": "0205706000",
+      "name": "Nagtipunan"
+    }
+  },
+  {
+    "id": "0205706014",
+    "code": "0205706014",
+    "name": "Sangbay",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205706000",
+      "code": "0205706000",
+      "name": "Nagtipunan"
+    }
+  },
+  {
+    "id": "0205706015",
+    "code": "0205706015",
+    "name": "Wasid",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0205700000",
+      "code": "0205700000",
+      "name": "Quirino"
+    },
+    "city_municipality": {
+      "id": "0205706000",
+      "code": "0205706000",
+      "name": "Nagtipunan"
+    }
+  }
+]

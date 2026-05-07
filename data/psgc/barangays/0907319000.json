@@ -1,0 +1,527 @@
+[
+  {
+    "id": "0907319001",
+    "code": "0907319001",
+    "name": "Alicia",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907319000",
+      "code": "0907319000",
+      "name": "Molave"
+    }
+  },
+  {
+    "id": "0907319002",
+    "code": "0907319002",
+    "name": "Ariosa",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907319000",
+      "code": "0907319000",
+      "name": "Molave"
+    }
+  },
+  {
+    "id": "0907319003",
+    "code": "0907319003",
+    "name": "Bagong Argao",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907319000",
+      "code": "0907319000",
+      "name": "Molave"
+    }
+  },
+  {
+    "id": "0907319005",
+    "code": "0907319005",
+    "name": "Bagong Gutlang",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907319000",
+      "code": "0907319000",
+      "name": "Molave"
+    }
+  },
+  {
+    "id": "0907319006",
+    "code": "0907319006",
+    "name": "Blancia",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907319000",
+      "code": "0907319000",
+      "name": "Molave"
+    }
+  },
+  {
+    "id": "0907319007",
+    "code": "0907319007",
+    "name": "Bogo Capalaran",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907319000",
+      "code": "0907319000",
+      "name": "Molave"
+    }
+  },
+  {
+    "id": "0907319014",
+    "code": "0907319014",
+    "name": "Culo",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907319000",
+      "code": "0907319000",
+      "name": "Molave"
+    }
+  },
+  {
+    "id": "0907319008",
+    "code": "0907319008",
+    "name": "Dalaon",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907319000",
+      "code": "0907319000",
+      "name": "Molave"
+    }
+  },
+  {
+    "id": "0907319009",
+    "code": "0907319009",
+    "name": "Dipolo",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907319000",
+      "code": "0907319000",
+      "name": "Molave"
+    }
+  },
+  {
+    "id": "0907319010",
+    "code": "0907319010",
+    "name": "Dontulan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907319000",
+      "code": "0907319000",
+      "name": "Molave"
+    }
+  },
+  {
+    "id": "0907319012",
+    "code": "0907319012",
+    "name": "Gonosan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907319000",
+      "code": "0907319000",
+      "name": "Molave"
+    }
+  },
+  {
+    "id": "0907319016",
+    "code": "0907319016",
+    "name": "Lower Dimalinao",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907319000",
+      "code": "0907319000",
+      "name": "Molave"
+    }
+  },
+  {
+    "id": "0907319015",
+    "code": "0907319015",
+    "name": "Lower Dimorok",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907319000",
+      "code": "0907319000",
+      "name": "Molave"
+    }
+  },
+  {
+    "id": "0907319017",
+    "code": "0907319017",
+    "name": "Mabuhay",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907319000",
+      "code": "0907319000",
+      "name": "Molave"
+    }
+  },
+  {
+    "id": "0907319018",
+    "code": "0907319018",
+    "name": "Madasigon",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907319000",
+      "code": "0907319000",
+      "name": "Molave"
+    }
+  },
+  {
+    "id": "0907319019",
+    "code": "0907319019",
+    "name": "Makuguihon",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907319000",
+      "code": "0907319000",
+      "name": "Molave"
+    }
+  },
+  {
+    "id": "0907319020",
+    "code": "0907319020",
+    "name": "Maloloy-on",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907319000",
+      "code": "0907319000",
+      "name": "Molave"
+    }
+  },
+  {
+    "id": "0907319021",
+    "code": "0907319021",
+    "name": "Miligan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907319000",
+      "code": "0907319000",
+      "name": "Molave"
+    }
+  },
+  {
+    "id": "0907319024",
+    "code": "0907319024",
+    "name": "Parasan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907319000",
+      "code": "0907319000",
+      "name": "Molave"
+    }
+  },
+  {
+    "id": "0907319025",
+    "code": "0907319025",
+    "name": "Rizal",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907319000",
+      "code": "0907319000",
+      "name": "Molave"
+    }
+  },
+  {
+    "id": "0907319026",
+    "code": "0907319026",
+    "name": "Santo Rosario",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907319000",
+      "code": "0907319000",
+      "name": "Molave"
+    }
+  },
+  {
+    "id": "0907319027",
+    "code": "0907319027",
+    "name": "Silangit",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907319000",
+      "code": "0907319000",
+      "name": "Molave"
+    }
+  },
+  {
+    "id": "0907319028",
+    "code": "0907319028",
+    "name": "Simata",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907319000",
+      "code": "0907319000",
+      "name": "Molave"
+    }
+  },
+  {
+    "id": "0907319029",
+    "code": "0907319029",
+    "name": "Sudlon",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907319000",
+      "code": "0907319000",
+      "name": "Molave"
+    }
+  },
+  {
+    "id": "0907319030",
+    "code": "0907319030",
+    "name": "Upper Dimorok",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0907300000",
+      "code": "0907300000",
+      "name": "Zamboanga del Sur"
+    },
+    "city_municipality": {
+      "id": "0907319000",
+      "code": "0907319000",
+      "name": "Molave"
+    }
+  }
+]

@@ -1,0 +1,884 @@
+[
+  {
+    "id": "0506208001",
+    "code": "0506208001",
+    "name": "Ariman",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506208000",
+      "code": "0506208000",
+      "name": "Gubat"
+    }
+  },
+  {
+    "id": "0506208002",
+    "code": "0506208002",
+    "name": "Bagacay",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506208000",
+      "code": "0506208000",
+      "name": "Gubat"
+    }
+  },
+  {
+    "id": "0506208003",
+    "code": "0506208003",
+    "name": "Balud Del Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506208000",
+      "code": "0506208000",
+      "name": "Gubat"
+    }
+  },
+  {
+    "id": "0506208004",
+    "code": "0506208004",
+    "name": "Balud Del Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506208000",
+      "code": "0506208000",
+      "name": "Gubat"
+    }
+  },
+  {
+    "id": "0506208006",
+    "code": "0506208006",
+    "name": "Benguet",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506208000",
+      "code": "0506208000",
+      "name": "Gubat"
+    }
+  },
+  {
+    "id": "0506208007",
+    "code": "0506208007",
+    "name": "Bentuco",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506208000",
+      "code": "0506208000",
+      "name": "Gubat"
+    }
+  },
+  {
+    "id": "0506208008",
+    "code": "0506208008",
+    "name": "Beriran",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506208000",
+      "code": "0506208000",
+      "name": "Gubat"
+    }
+  },
+  {
+    "id": "0506208009",
+    "code": "0506208009",
+    "name": "Buenavista",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506208000",
+      "code": "0506208000",
+      "name": "Gubat"
+    }
+  },
+  {
+    "id": "0506208010",
+    "code": "0506208010",
+    "name": "Bulacao",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506208000",
+      "code": "0506208000",
+      "name": "Gubat"
+    }
+  },
+  {
+    "id": "0506208011",
+    "code": "0506208011",
+    "name": "Cabigaan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506208000",
+      "code": "0506208000",
+      "name": "Gubat"
+    }
+  },
+  {
+    "id": "0506208012",
+    "code": "0506208012",
+    "name": "Cabiguhan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506208000",
+      "code": "0506208000",
+      "name": "Gubat"
+    }
+  },
+  {
+    "id": "0506208013",
+    "code": "0506208013",
+    "name": "Carriedo",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506208000",
+      "code": "0506208000",
+      "name": "Gubat"
+    }
+  },
+  {
+    "id": "0506208014",
+    "code": "0506208014",
+    "name": "Casili",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506208000",
+      "code": "0506208000",
+      "name": "Gubat"
+    }
+  },
+  {
+    "id": "0506208015",
+    "code": "0506208015",
+    "name": "Cogon",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506208000",
+      "code": "0506208000",
+      "name": "Gubat"
+    }
+  },
+  {
+    "id": "0506208016",
+    "code": "0506208016",
+    "name": "Cota Na Daco",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506208000",
+      "code": "0506208000",
+      "name": "Gubat"
+    }
+  },
+  {
+    "id": "0506208017",
+    "code": "0506208017",
+    "name": "Dita",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506208000",
+      "code": "0506208000",
+      "name": "Gubat"
+    }
+  },
+  {
+    "id": "0506208018",
+    "code": "0506208018",
+    "name": "Jupi",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506208000",
+      "code": "0506208000",
+      "name": "Gubat"
+    }
+  },
+  {
+    "id": "0506208019",
+    "code": "0506208019",
+    "name": "Lapinig",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506208000",
+      "code": "0506208000",
+      "name": "Gubat"
+    }
+  },
+  {
+    "id": "0506208020",
+    "code": "0506208020",
+    "name": "Luna-Candol",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506208000",
+      "code": "0506208000",
+      "name": "Gubat"
+    }
+  },
+  {
+    "id": "0506208021",
+    "code": "0506208021",
+    "name": "Manapao",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506208000",
+      "code": "0506208000",
+      "name": "Gubat"
+    }
+  },
+  {
+    "id": "0506208022",
+    "code": "0506208022",
+    "name": "Manook",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506208000",
+      "code": "0506208000",
+      "name": "Gubat"
+    }
+  },
+  {
+    "id": "0506208023",
+    "code": "0506208023",
+    "name": "Naagtan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506208000",
+      "code": "0506208000",
+      "name": "Gubat"
+    }
+  },
+  {
+    "id": "0506208024",
+    "code": "0506208024",
+    "name": "Nato",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506208000",
+      "code": "0506208000",
+      "name": "Gubat"
+    }
+  },
+  {
+    "id": "0506208025",
+    "code": "0506208025",
+    "name": "Nazareno",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506208000",
+      "code": "0506208000",
+      "name": "Gubat"
+    }
+  },
+  {
+    "id": "0506208026",
+    "code": "0506208026",
+    "name": "Ogao",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506208000",
+      "code": "0506208000",
+      "name": "Gubat"
+    }
+  },
+  {
+    "id": "0506208027",
+    "code": "0506208027",
+    "name": "Paco",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506208000",
+      "code": "0506208000",
+      "name": "Gubat"
+    }
+  },
+  {
+    "id": "0506208028",
+    "code": "0506208028",
+    "name": "Panganiban",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506208000",
+      "code": "0506208000",
+      "name": "Gubat"
+    }
+  },
+  {
+    "id": "0506208029",
+    "code": "0506208029",
+    "name": "Paradijon",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506208000",
+      "code": "0506208000",
+      "name": "Gubat"
+    }
+  },
+  {
+    "id": "0506208030",
+    "code": "0506208030",
+    "name": "Patag",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506208000",
+      "code": "0506208000",
+      "name": "Gubat"
+    }
+  },
+  {
+    "id": "0506208031",
+    "code": "0506208031",
+    "name": "Payawin",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506208000",
+      "code": "0506208000",
+      "name": "Gubat"
+    }
+  },
+  {
+    "id": "0506208033",
+    "code": "0506208033",
+    "name": "Pinontingan",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506208000",
+      "code": "0506208000",
+      "name": "Gubat"
+    }
+  },
+  {
+    "id": "0506208034",
+    "code": "0506208034",
+    "name": "Rizal",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506208000",
+      "code": "0506208000",
+      "name": "Gubat"
+    }
+  },
+  {
+    "id": "0506208035",
+    "code": "0506208035",
+    "name": "San Ignacio",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506208000",
+      "code": "0506208000",
+      "name": "Gubat"
+    }
+  },
+  {
+    "id": "0506208036",
+    "code": "0506208036",
+    "name": "Sangat",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506208000",
+      "code": "0506208000",
+      "name": "Gubat"
+    }
+  },
+  {
+    "id": "0506208037",
+    "code": "0506208037",
+    "name": "Santa Ana",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506208000",
+      "code": "0506208000",
+      "name": "Gubat"
+    }
+  },
+  {
+    "id": "0506208038",
+    "code": "0506208038",
+    "name": "Tabi",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506208000",
+      "code": "0506208000",
+      "name": "Gubat"
+    }
+  },
+  {
+    "id": "0506208039",
+    "code": "0506208039",
+    "name": "Tagaytay",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506208000",
+      "code": "0506208000",
+      "name": "Gubat"
+    }
+  },
+  {
+    "id": "0506208040",
+    "code": "0506208040",
+    "name": "Tigkiw",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506208000",
+      "code": "0506208000",
+      "name": "Gubat"
+    }
+  },
+  {
+    "id": "0506208041",
+    "code": "0506208041",
+    "name": "Tiris",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506208000",
+      "code": "0506208000",
+      "name": "Gubat"
+    }
+  },
+  {
+    "id": "0506208042",
+    "code": "0506208042",
+    "name": "Togawe",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506208000",
+      "code": "0506208000",
+      "name": "Gubat"
+    }
+  },
+  {
+    "id": "0506208043",
+    "code": "0506208043",
+    "name": "Union",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506208000",
+      "code": "0506208000",
+      "name": "Gubat"
+    }
+  },
+  {
+    "id": "0506208044",
+    "code": "0506208044",
+    "name": "Villareal",
+    "type": "barangay",
+    "region": {
+      "id": "0500000000",
+      "code": "0500000000",
+      "name": "Region V (Bicol Region)"
+    },
+    "province": {
+      "id": "0506200000",
+      "code": "0506200000",
+      "name": "Sorsogon"
+    },
+    "city_municipality": {
+      "id": "0506208000",
+      "code": "0506208000",
+      "name": "Gubat"
+    }
+  }
+]

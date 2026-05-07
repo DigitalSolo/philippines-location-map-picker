@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1030500000",
+    "code": "1030500000",
+    "name": "City of Cagayan De Oro",
+    "type": "city_municipality",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    }
+  },
+  {
+    "id": "1030900000",
+    "code": "1030900000",
+    "name": "City of Iligan",
+    "type": "city_municipality",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    }
+  }
+]

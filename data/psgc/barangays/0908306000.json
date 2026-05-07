@@ -1,0 +1,611 @@
+[
+  {
+    "id": "0908306002",
+    "code": "0908306002",
+    "name": "Banker",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908306000",
+      "code": "0908306000",
+      "name": "Kabasalan"
+    }
+  },
+  {
+    "id": "0908306003",
+    "code": "0908306003",
+    "name": "Bolo Batallion",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908306000",
+      "code": "0908306000",
+      "name": "Kabasalan"
+    }
+  },
+  {
+    "id": "0908306004",
+    "code": "0908306004",
+    "name": "Buayan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908306000",
+      "code": "0908306000",
+      "name": "Kabasalan"
+    }
+  },
+  {
+    "id": "0908306006",
+    "code": "0908306006",
+    "name": "Cainglet",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908306000",
+      "code": "0908306000",
+      "name": "Kabasalan"
+    }
+  },
+  {
+    "id": "0908306007",
+    "code": "0908306007",
+    "name": "Calapan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908306000",
+      "code": "0908306000",
+      "name": "Kabasalan"
+    }
+  },
+  {
+    "id": "0908306008",
+    "code": "0908306008",
+    "name": "Calubihan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908306000",
+      "code": "0908306000",
+      "name": "Kabasalan"
+    }
+  },
+  {
+    "id": "0908306009",
+    "code": "0908306009",
+    "name": "Concepcion",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908306000",
+      "code": "0908306000",
+      "name": "Kabasalan"
+    }
+  },
+  {
+    "id": "0908306031",
+    "code": "0908306031",
+    "name": "Diampak",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908306000",
+      "code": "0908306000",
+      "name": "Kabasalan"
+    }
+  },
+  {
+    "id": "0908306010",
+    "code": "0908306010",
+    "name": "Dipala",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908306000",
+      "code": "0908306000",
+      "name": "Kabasalan"
+    }
+  },
+  {
+    "id": "0908306011",
+    "code": "0908306011",
+    "name": "Gacbusan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908306000",
+      "code": "0908306000",
+      "name": "Kabasalan"
+    }
+  },
+  {
+    "id": "0908306012",
+    "code": "0908306012",
+    "name": "Goodyear",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908306000",
+      "code": "0908306000",
+      "name": "Kabasalan"
+    }
+  },
+  {
+    "id": "0908306013",
+    "code": "0908306013",
+    "name": "Lacnapan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908306000",
+      "code": "0908306000",
+      "name": "Kabasalan"
+    }
+  },
+  {
+    "id": "0908306014",
+    "code": "0908306014",
+    "name": "Little Baguio",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908306000",
+      "code": "0908306000",
+      "name": "Kabasalan"
+    }
+  },
+  {
+    "id": "0908306015",
+    "code": "0908306015",
+    "name": "Lumbayao",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908306000",
+      "code": "0908306000",
+      "name": "Kabasalan"
+    }
+  },
+  {
+    "id": "0908306017",
+    "code": "0908306017",
+    "name": "Nazareth",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908306000",
+      "code": "0908306000",
+      "name": "Kabasalan"
+    }
+  },
+  {
+    "id": "0908306018",
+    "code": "0908306018",
+    "name": "Palinta",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908306000",
+      "code": "0908306000",
+      "name": "Kabasalan"
+    }
+  },
+  {
+    "id": "0908306019",
+    "code": "0908306019",
+    "name": "Peñaranda",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908306000",
+      "code": "0908306000",
+      "name": "Kabasalan"
+    }
+  },
+  {
+    "id": "0908306020",
+    "code": "0908306020",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908306000",
+      "code": "0908306000",
+      "name": "Kabasalan"
+    }
+  },
+  {
+    "id": "0908306021",
+    "code": "0908306021",
+    "name": "Riverside",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908306000",
+      "code": "0908306000",
+      "name": "Kabasalan"
+    }
+  },
+  {
+    "id": "0908306022",
+    "code": "0908306022",
+    "name": "Sanghanan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908306000",
+      "code": "0908306000",
+      "name": "Kabasalan"
+    }
+  },
+  {
+    "id": "0908306023",
+    "code": "0908306023",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908306000",
+      "code": "0908306000",
+      "name": "Kabasalan"
+    }
+  },
+  {
+    "id": "0908306024",
+    "code": "0908306024",
+    "name": "Sayao",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908306000",
+      "code": "0908306000",
+      "name": "Kabasalan"
+    }
+  },
+  {
+    "id": "0908306027",
+    "code": "0908306027",
+    "name": "Shiolan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908306000",
+      "code": "0908306000",
+      "name": "Kabasalan"
+    }
+  },
+  {
+    "id": "0908306025",
+    "code": "0908306025",
+    "name": "Simbol",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908306000",
+      "code": "0908306000",
+      "name": "Kabasalan"
+    }
+  },
+  {
+    "id": "0908306026",
+    "code": "0908306026",
+    "name": "Sininan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908306000",
+      "code": "0908306000",
+      "name": "Kabasalan"
+    }
+  },
+  {
+    "id": "0908306029",
+    "code": "0908306029",
+    "name": "Tamin",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908306000",
+      "code": "0908306000",
+      "name": "Kabasalan"
+    }
+  },
+  {
+    "id": "0908306028",
+    "code": "0908306028",
+    "name": "Tampilisan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908306000",
+      "code": "0908306000",
+      "name": "Kabasalan"
+    }
+  },
+  {
+    "id": "0908306030",
+    "code": "0908306030",
+    "name": "Tigbangagan",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908306000",
+      "code": "0908306000",
+      "name": "Kabasalan"
+    }
+  },
+  {
+    "id": "0908306016",
+    "code": "0908306016",
+    "name": "Timuay Danda",
+    "type": "barangay",
+    "region": {
+      "id": "0900000000",
+      "code": "0900000000",
+      "name": "Region IX (Zamboanga Peninsula)"
+    },
+    "province": {
+      "id": "0908300000",
+      "code": "0908300000",
+      "name": "Zamboanga Sibugay"
+    },
+    "city_municipality": {
+      "id": "0908306000",
+      "code": "0908306000",
+      "name": "Kabasalan"
+    }
+  }
+]

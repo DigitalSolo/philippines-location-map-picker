@@ -1,0 +1,296 @@
+[
+  {
+    "id": "0405633009",
+    "code": "0405633009",
+    "name": "Bagong Pag-Asa Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405633000",
+      "code": "0405633000",
+      "name": "Perez"
+    }
+  },
+  {
+    "id": "0405633010",
+    "code": "0405633010",
+    "name": "Bagong Silang Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405633000",
+      "code": "0405633000",
+      "name": "Perez"
+    }
+  },
+  {
+    "id": "0405633001",
+    "code": "0405633001",
+    "name": "Maabot",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405633000",
+      "code": "0405633000",
+      "name": "Perez"
+    }
+  },
+  {
+    "id": "0405633002",
+    "code": "0405633002",
+    "name": "Mainit Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405633000",
+      "code": "0405633000",
+      "name": "Perez"
+    }
+  },
+  {
+    "id": "0405633003",
+    "code": "0405633003",
+    "name": "Mainit Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405633000",
+      "code": "0405633000",
+      "name": "Perez"
+    }
+  },
+  {
+    "id": "0405633008",
+    "code": "0405633008",
+    "name": "Mapagmahal Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405633000",
+      "code": "0405633000",
+      "name": "Perez"
+    }
+  },
+  {
+    "id": "0405633007",
+    "code": "0405633007",
+    "name": "Pagkakaisa Pob.",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405633000",
+      "code": "0405633000",
+      "name": "Perez"
+    }
+  },
+  {
+    "id": "0405633004",
+    "code": "0405633004",
+    "name": "Pambuhan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405633000",
+      "code": "0405633000",
+      "name": "Perez"
+    }
+  },
+  {
+    "id": "0405633005",
+    "code": "0405633005",
+    "name": "Pinagtubigan Este",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405633000",
+      "code": "0405633000",
+      "name": "Perez"
+    }
+  },
+  {
+    "id": "0405633006",
+    "code": "0405633006",
+    "name": "Pinagtubigan Weste",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405633000",
+      "code": "0405633000",
+      "name": "Perez"
+    }
+  },
+  {
+    "id": "0405633011",
+    "code": "0405633011",
+    "name": "Rizal",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405633000",
+      "code": "0405633000",
+      "name": "Perez"
+    }
+  },
+  {
+    "id": "0405633012",
+    "code": "0405633012",
+    "name": "Sangirin",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405633000",
+      "code": "0405633000",
+      "name": "Perez"
+    }
+  },
+  {
+    "id": "0405633013",
+    "code": "0405633013",
+    "name": "Villamanzano Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405633000",
+      "code": "0405633000",
+      "name": "Perez"
+    }
+  },
+  {
+    "id": "0405633014",
+    "code": "0405633014",
+    "name": "Villamanzano Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405633000",
+      "code": "0405633000",
+      "name": "Perez"
+    }
+  }
+]

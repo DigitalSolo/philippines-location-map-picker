@@ -1,0 +1,884 @@
+[
+  {
+    "id": "0201505001",
+    "code": "0201505001",
+    "name": "Backiling",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201505000",
+      "code": "0201505000",
+      "name": "Aparri"
+    }
+  },
+  {
+    "id": "0201505002",
+    "code": "0201505002",
+    "name": "Bangag",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201505000",
+      "code": "0201505000",
+      "name": "Aparri"
+    }
+  },
+  {
+    "id": "0201505003",
+    "code": "0201505003",
+    "name": "Binalan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201505000",
+      "code": "0201505000",
+      "name": "Aparri"
+    }
+  },
+  {
+    "id": "0201505004",
+    "code": "0201505004",
+    "name": "Bisagu",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201505000",
+      "code": "0201505000",
+      "name": "Aparri"
+    }
+  },
+  {
+    "id": "0201505019",
+    "code": "0201505019",
+    "name": "Bukig",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201505000",
+      "code": "0201505000",
+      "name": "Aparri"
+    }
+  },
+  {
+    "id": "0201505020",
+    "code": "0201505020",
+    "name": "Bulala Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201505000",
+      "code": "0201505000",
+      "name": "Aparri"
+    }
+  },
+  {
+    "id": "0201505021",
+    "code": "0201505021",
+    "name": "Bulala Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201505000",
+      "code": "0201505000",
+      "name": "Aparri"
+    }
+  },
+  {
+    "id": "0201505022",
+    "code": "0201505022",
+    "name": "Caagaman",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201505000",
+      "code": "0201505000",
+      "name": "Aparri"
+    }
+  },
+  {
+    "id": "0201505005",
+    "code": "0201505005",
+    "name": "Centro 1",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201505000",
+      "code": "0201505000",
+      "name": "Aparri"
+    }
+  },
+  {
+    "id": "0201505014",
+    "code": "0201505014",
+    "name": "Centro 10",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201505000",
+      "code": "0201505000",
+      "name": "Aparri"
+    }
+  },
+  {
+    "id": "0201505015",
+    "code": "0201505015",
+    "name": "Centro 11",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201505000",
+      "code": "0201505000",
+      "name": "Aparri"
+    }
+  },
+  {
+    "id": "0201505016",
+    "code": "0201505016",
+    "name": "Centro 12",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201505000",
+      "code": "0201505000",
+      "name": "Aparri"
+    }
+  },
+  {
+    "id": "0201505017",
+    "code": "0201505017",
+    "name": "Centro 13",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201505000",
+      "code": "0201505000",
+      "name": "Aparri"
+    }
+  },
+  {
+    "id": "0201505018",
+    "code": "0201505018",
+    "name": "Centro 14",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201505000",
+      "code": "0201505000",
+      "name": "Aparri"
+    }
+  },
+  {
+    "id": "0201505023",
+    "code": "0201505023",
+    "name": "Centro 15",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201505000",
+      "code": "0201505000",
+      "name": "Aparri"
+    }
+  },
+  {
+    "id": "0201505006",
+    "code": "0201505006",
+    "name": "Centro 2",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201505000",
+      "code": "0201505000",
+      "name": "Aparri"
+    }
+  },
+  {
+    "id": "0201505007",
+    "code": "0201505007",
+    "name": "Centro 3",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201505000",
+      "code": "0201505000",
+      "name": "Aparri"
+    }
+  },
+  {
+    "id": "0201505008",
+    "code": "0201505008",
+    "name": "Centro 4",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201505000",
+      "code": "0201505000",
+      "name": "Aparri"
+    }
+  },
+  {
+    "id": "0201505009",
+    "code": "0201505009",
+    "name": "Centro 5",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201505000",
+      "code": "0201505000",
+      "name": "Aparri"
+    }
+  },
+  {
+    "id": "0201505010",
+    "code": "0201505010",
+    "name": "Centro 6",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201505000",
+      "code": "0201505000",
+      "name": "Aparri"
+    }
+  },
+  {
+    "id": "0201505011",
+    "code": "0201505011",
+    "name": "Centro 7",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201505000",
+      "code": "0201505000",
+      "name": "Aparri"
+    }
+  },
+  {
+    "id": "0201505012",
+    "code": "0201505012",
+    "name": "Centro 8",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201505000",
+      "code": "0201505000",
+      "name": "Aparri"
+    }
+  },
+  {
+    "id": "0201505013",
+    "code": "0201505013",
+    "name": "Centro 9",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201505000",
+      "code": "0201505000",
+      "name": "Aparri"
+    }
+  },
+  {
+    "id": "0201505024",
+    "code": "0201505024",
+    "name": "Dodan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201505000",
+      "code": "0201505000",
+      "name": "Aparri"
+    }
+  },
+  {
+    "id": "0201505025",
+    "code": "0201505025",
+    "name": "Fuga Island",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201505000",
+      "code": "0201505000",
+      "name": "Aparri"
+    }
+  },
+  {
+    "id": "0201505026",
+    "code": "0201505026",
+    "name": "Gaddang",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201505000",
+      "code": "0201505000",
+      "name": "Aparri"
+    }
+  },
+  {
+    "id": "0201505027",
+    "code": "0201505027",
+    "name": "Linao",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201505000",
+      "code": "0201505000",
+      "name": "Aparri"
+    }
+  },
+  {
+    "id": "0201505028",
+    "code": "0201505028",
+    "name": "Mabanguc",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201505000",
+      "code": "0201505000",
+      "name": "Aparri"
+    }
+  },
+  {
+    "id": "0201505029",
+    "code": "0201505029",
+    "name": "Macanaya",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201505000",
+      "code": "0201505000",
+      "name": "Aparri"
+    }
+  },
+  {
+    "id": "0201505030",
+    "code": "0201505030",
+    "name": "Maura",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201505000",
+      "code": "0201505000",
+      "name": "Aparri"
+    }
+  },
+  {
+    "id": "0201505031",
+    "code": "0201505031",
+    "name": "Minanga",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201505000",
+      "code": "0201505000",
+      "name": "Aparri"
+    }
+  },
+  {
+    "id": "0201505032",
+    "code": "0201505032",
+    "name": "Navagan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201505000",
+      "code": "0201505000",
+      "name": "Aparri"
+    }
+  },
+  {
+    "id": "0201505033",
+    "code": "0201505033",
+    "name": "Paddaya",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201505000",
+      "code": "0201505000",
+      "name": "Aparri"
+    }
+  },
+  {
+    "id": "0201505034",
+    "code": "0201505034",
+    "name": "Paruddun Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201505000",
+      "code": "0201505000",
+      "name": "Aparri"
+    }
+  },
+  {
+    "id": "0201505035",
+    "code": "0201505035",
+    "name": "Paruddun Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201505000",
+      "code": "0201505000",
+      "name": "Aparri"
+    }
+  },
+  {
+    "id": "0201505036",
+    "code": "0201505036",
+    "name": "Plaza",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201505000",
+      "code": "0201505000",
+      "name": "Aparri"
+    }
+  },
+  {
+    "id": "0201505037",
+    "code": "0201505037",
+    "name": "Punta",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201505000",
+      "code": "0201505000",
+      "name": "Aparri"
+    }
+  },
+  {
+    "id": "0201505038",
+    "code": "0201505038",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201505000",
+      "code": "0201505000",
+      "name": "Aparri"
+    }
+  },
+  {
+    "id": "0201505041",
+    "code": "0201505041",
+    "name": "Sanja",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201505000",
+      "code": "0201505000",
+      "name": "Aparri"
+    }
+  },
+  {
+    "id": "0201505039",
+    "code": "0201505039",
+    "name": "Tallungan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201505000",
+      "code": "0201505000",
+      "name": "Aparri"
+    }
+  },
+  {
+    "id": "0201505040",
+    "code": "0201505040",
+    "name": "Toran",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201505000",
+      "code": "0201505000",
+      "name": "Aparri"
+    }
+  },
+  {
+    "id": "0201505042",
+    "code": "0201505042",
+    "name": "Zinarag",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201505000",
+      "code": "0201505000",
+      "name": "Aparri"
+    }
+  }
+]

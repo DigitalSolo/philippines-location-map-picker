@@ -1,0 +1,632 @@
+[
+  {
+    "id": "1108603001",
+    "code": "1108603001",
+    "name": "Bito",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108603000",
+      "code": "1108603000",
+      "name": "Malita"
+    }
+  },
+  {
+    "id": "1108603002",
+    "code": "1108603002",
+    "name": "Bolila",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108603000",
+      "code": "1108603000",
+      "name": "Malita"
+    }
+  },
+  {
+    "id": "1108603003",
+    "code": "1108603003",
+    "name": "Buhangin",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108603000",
+      "code": "1108603000",
+      "name": "Malita"
+    }
+  },
+  {
+    "id": "1108603004",
+    "code": "1108603004",
+    "name": "Culaman",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108603000",
+      "code": "1108603000",
+      "name": "Malita"
+    }
+  },
+  {
+    "id": "1108603005",
+    "code": "1108603005",
+    "name": "Datu Danwata",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108603000",
+      "code": "1108603000",
+      "name": "Malita"
+    }
+  },
+  {
+    "id": "1108603006",
+    "code": "1108603006",
+    "name": "Demoloc",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108603000",
+      "code": "1108603000",
+      "name": "Malita"
+    }
+  },
+  {
+    "id": "1108603007",
+    "code": "1108603007",
+    "name": "Felis",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108603000",
+      "code": "1108603000",
+      "name": "Malita"
+    }
+  },
+  {
+    "id": "1108603008",
+    "code": "1108603008",
+    "name": "Fishing Village",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108603000",
+      "code": "1108603000",
+      "name": "Malita"
+    }
+  },
+  {
+    "id": "1108603010",
+    "code": "1108603010",
+    "name": "Kibalatong",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108603000",
+      "code": "1108603000",
+      "name": "Malita"
+    }
+  },
+  {
+    "id": "1108603011",
+    "code": "1108603011",
+    "name": "Kidalapong",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108603000",
+      "code": "1108603000",
+      "name": "Malita"
+    }
+  },
+  {
+    "id": "1108603012",
+    "code": "1108603012",
+    "name": "Kilalag",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108603000",
+      "code": "1108603000",
+      "name": "Malita"
+    }
+  },
+  {
+    "id": "1108603013",
+    "code": "1108603013",
+    "name": "Kinangan",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108603000",
+      "code": "1108603000",
+      "name": "Malita"
+    }
+  },
+  {
+    "id": "1108603016",
+    "code": "1108603016",
+    "name": "Lacaron",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108603000",
+      "code": "1108603000",
+      "name": "Malita"
+    }
+  },
+  {
+    "id": "1108603017",
+    "code": "1108603017",
+    "name": "Lagumit",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108603000",
+      "code": "1108603000",
+      "name": "Malita"
+    }
+  },
+  {
+    "id": "1108603018",
+    "code": "1108603018",
+    "name": "Lais",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108603000",
+      "code": "1108603000",
+      "name": "Malita"
+    }
+  },
+  {
+    "id": "1108603022",
+    "code": "1108603022",
+    "name": "Little Baguio",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108603000",
+      "code": "1108603000",
+      "name": "Malita"
+    }
+  },
+  {
+    "id": "1108603023",
+    "code": "1108603023",
+    "name": "Macol",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108603000",
+      "code": "1108603000",
+      "name": "Malita"
+    }
+  },
+  {
+    "id": "1108603024",
+    "code": "1108603024",
+    "name": "Mana",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108603000",
+      "code": "1108603000",
+      "name": "Malita"
+    }
+  },
+  {
+    "id": "1108603025",
+    "code": "1108603025",
+    "name": "Manuel Peralta",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108603000",
+      "code": "1108603000",
+      "name": "Malita"
+    }
+  },
+  {
+    "id": "1108603027",
+    "code": "1108603027",
+    "name": "New Argao",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108603000",
+      "code": "1108603000",
+      "name": "Malita"
+    }
+  },
+  {
+    "id": "1108603041",
+    "code": "1108603041",
+    "name": "Pangaleon",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108603000",
+      "code": "1108603000",
+      "name": "Malita"
+    }
+  },
+  {
+    "id": "1108603030",
+    "code": "1108603030",
+    "name": "Pangian",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108603000",
+      "code": "1108603000",
+      "name": "Malita"
+    }
+  },
+  {
+    "id": "1108603031",
+    "code": "1108603031",
+    "name": "Pinalpalan",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108603000",
+      "code": "1108603000",
+      "name": "Malita"
+    }
+  },
+  {
+    "id": "1108603032",
+    "code": "1108603032",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108603000",
+      "code": "1108603000",
+      "name": "Malita"
+    }
+  },
+  {
+    "id": "1108603033",
+    "code": "1108603033",
+    "name": "Sangay",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108603000",
+      "code": "1108603000",
+      "name": "Malita"
+    }
+  },
+  {
+    "id": "1108603036",
+    "code": "1108603036",
+    "name": "Talogoy",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108603000",
+      "code": "1108603000",
+      "name": "Malita"
+    }
+  },
+  {
+    "id": "1108603037",
+    "code": "1108603037",
+    "name": "Tical",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108603000",
+      "code": "1108603000",
+      "name": "Malita"
+    }
+  },
+  {
+    "id": "1108603038",
+    "code": "1108603038",
+    "name": "Ticulon",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108603000",
+      "code": "1108603000",
+      "name": "Malita"
+    }
+  },
+  {
+    "id": "1108603039",
+    "code": "1108603039",
+    "name": "Tingolo",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108603000",
+      "code": "1108603000",
+      "name": "Malita"
+    }
+  },
+  {
+    "id": "1108603040",
+    "code": "1108603040",
+    "name": "Tubalan",
+    "type": "barangay",
+    "region": {
+      "id": "1100000000",
+      "code": "1100000000",
+      "name": "Region XI (Davao Region)"
+    },
+    "province": {
+      "id": "1108600000",
+      "code": "1108600000",
+      "name": "Davao Occidental"
+    },
+    "city_municipality": {
+      "id": "1108603000",
+      "code": "1108603000",
+      "name": "Malita"
+    }
+  }
+]

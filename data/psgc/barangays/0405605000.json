@@ -1,0 +1,779 @@
+[
+  {
+    "id": "0405605002",
+    "code": "0405605002",
+    "name": "Bagong Silang",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405605000",
+      "code": "0405605000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0405605004",
+    "code": "0405605004",
+    "name": "Batabat Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405605000",
+      "code": "0405605000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0405605005",
+    "code": "0405605005",
+    "name": "Batabat Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405605000",
+      "code": "0405605000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0405605006",
+    "code": "0405605006",
+    "name": "Buenavista",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405605000",
+      "code": "0405605000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0405605007",
+    "code": "0405605007",
+    "name": "Bukal",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405605000",
+      "code": "0405605000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0405605008",
+    "code": "0405605008",
+    "name": "Bulo",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405605000",
+      "code": "0405605000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0405605009",
+    "code": "0405605009",
+    "name": "Cabong",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405605000",
+      "code": "0405605000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0405605010",
+    "code": "0405605010",
+    "name": "Cadlit",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405605000",
+      "code": "0405605000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0405605011",
+    "code": "0405605011",
+    "name": "Catulin",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405605000",
+      "code": "0405605000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0405605012",
+    "code": "0405605012",
+    "name": "Cawa",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405605000",
+      "code": "0405605000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0405605013",
+    "code": "0405605013",
+    "name": "De La Paz",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405605000",
+      "code": "0405605000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0405605014",
+    "code": "0405605014",
+    "name": "Del Rosario",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405605000",
+      "code": "0405605000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0405605016",
+    "code": "0405605016",
+    "name": "Hagonghong",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405605000",
+      "code": "0405605000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0405605017",
+    "code": "0405605017",
+    "name": "Ibabang Wasay",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405605000",
+      "code": "0405605000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0405605018",
+    "code": "0405605018",
+    "name": "Ilayang Wasay",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405605000",
+      "code": "0405605000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0405605019",
+    "code": "0405605019",
+    "name": "Lilukin",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405605000",
+      "code": "0405605000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0405605020",
+    "code": "0405605020",
+    "name": "Mabini",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405605000",
+      "code": "0405605000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0405605021",
+    "code": "0405605021",
+    "name": "Mabutag",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405605000",
+      "code": "0405605000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0405605022",
+    "code": "0405605022",
+    "name": "Magallanes",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405605000",
+      "code": "0405605000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0405605023",
+    "code": "0405605023",
+    "name": "Maligaya",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405605000",
+      "code": "0405605000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0405605024",
+    "code": "0405605024",
+    "name": "Manlana",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405605000",
+      "code": "0405605000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0405605025",
+    "code": "0405605025",
+    "name": "Masaya",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405605000",
+      "code": "0405605000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0405605026",
+    "code": "0405605026",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405605000",
+      "code": "0405605000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0405605027",
+    "code": "0405605027",
+    "name": "Rizal",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405605000",
+      "code": "0405605000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0405605028",
+    "code": "0405605028",
+    "name": "Sabang Pinamasagan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405605000",
+      "code": "0405605000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0405605029",
+    "code": "0405605029",
+    "name": "Sabang Piris",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405605000",
+      "code": "0405605000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0405605030",
+    "code": "0405605030",
+    "name": "San Diego",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405605000",
+      "code": "0405605000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0405605031",
+    "code": "0405605031",
+    "name": "San Isidro Ibaba",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405605000",
+      "code": "0405605000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0405605032",
+    "code": "0405605032",
+    "name": "San Isidro Ilaya",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405605000",
+      "code": "0405605000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0405605033",
+    "code": "0405605033",
+    "name": "San Pablo",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405605000",
+      "code": "0405605000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0405605034",
+    "code": "0405605034",
+    "name": "San Pedro",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405605000",
+      "code": "0405605000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0405605035",
+    "code": "0405605035",
+    "name": "San Vicente",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405605000",
+      "code": "0405605000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0405605036",
+    "code": "0405605036",
+    "name": "Siain",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405605000",
+      "code": "0405605000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0405605038",
+    "code": "0405605038",
+    "name": "Villa Aurora",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405605000",
+      "code": "0405605000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0405605039",
+    "code": "0405605039",
+    "name": "Villa Batabat",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405605000",
+      "code": "0405605000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0405605040",
+    "code": "0405605040",
+    "name": "Villa Magsaysay",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405605000",
+      "code": "0405605000",
+      "name": "Buenavista"
+    }
+  },
+  {
+    "id": "0405605042",
+    "code": "0405605042",
+    "name": "Villa Veronica",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405605000",
+      "code": "0405605000",
+      "name": "Buenavista"
+    }
+  }
+]

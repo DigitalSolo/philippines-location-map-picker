@@ -1,0 +1,716 @@
+[
+  {
+    "id": "0203101001",
+    "code": "0203101001",
+    "name": "Amistad",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203101000",
+      "code": "0203101000",
+      "name": "Alicia"
+    }
+  },
+  {
+    "id": "0203101002",
+    "code": "0203101002",
+    "name": "Antonino",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203101000",
+      "code": "0203101000",
+      "name": "Alicia"
+    }
+  },
+  {
+    "id": "0203101003",
+    "code": "0203101003",
+    "name": "Apanay",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203101000",
+      "code": "0203101000",
+      "name": "Alicia"
+    }
+  },
+  {
+    "id": "0203101004",
+    "code": "0203101004",
+    "name": "Aurora",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203101000",
+      "code": "0203101000",
+      "name": "Alicia"
+    }
+  },
+  {
+    "id": "0203101005",
+    "code": "0203101005",
+    "name": "Bagnos",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203101000",
+      "code": "0203101000",
+      "name": "Alicia"
+    }
+  },
+  {
+    "id": "0203101006",
+    "code": "0203101006",
+    "name": "Bagong Sikat",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203101000",
+      "code": "0203101000",
+      "name": "Alicia"
+    }
+  },
+  {
+    "id": "0203101007",
+    "code": "0203101007",
+    "name": "Bantug-Petines",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203101000",
+      "code": "0203101000",
+      "name": "Alicia"
+    }
+  },
+  {
+    "id": "0203101008",
+    "code": "0203101008",
+    "name": "Bonifacio",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203101000",
+      "code": "0203101000",
+      "name": "Alicia"
+    }
+  },
+  {
+    "id": "0203101009",
+    "code": "0203101009",
+    "name": "Burgos",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203101000",
+      "code": "0203101000",
+      "name": "Alicia"
+    }
+  },
+  {
+    "id": "0203101010",
+    "code": "0203101010",
+    "name": "Calaocan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203101000",
+      "code": "0203101000",
+      "name": "Alicia"
+    }
+  },
+  {
+    "id": "0203101011",
+    "code": "0203101011",
+    "name": "Callao",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203101000",
+      "code": "0203101000",
+      "name": "Alicia"
+    }
+  },
+  {
+    "id": "0203101012",
+    "code": "0203101012",
+    "name": "Dagupan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203101000",
+      "code": "0203101000",
+      "name": "Alicia"
+    }
+  },
+  {
+    "id": "0203101013",
+    "code": "0203101013",
+    "name": "Inanama",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203101000",
+      "code": "0203101000",
+      "name": "Alicia"
+    }
+  },
+  {
+    "id": "0203101014",
+    "code": "0203101014",
+    "name": "Linglingay",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203101000",
+      "code": "0203101000",
+      "name": "Alicia"
+    }
+  },
+  {
+    "id": "0203101015",
+    "code": "0203101015",
+    "name": "M.H. del Pilar",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203101000",
+      "code": "0203101000",
+      "name": "Alicia"
+    }
+  },
+  {
+    "id": "0203101016",
+    "code": "0203101016",
+    "name": "Mabini",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203101000",
+      "code": "0203101000",
+      "name": "Alicia"
+    }
+  },
+  {
+    "id": "0203101017",
+    "code": "0203101017",
+    "name": "Magsaysay",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203101000",
+      "code": "0203101000",
+      "name": "Alicia"
+    }
+  },
+  {
+    "id": "0203101018",
+    "code": "0203101018",
+    "name": "Mataas na Kahoy",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203101000",
+      "code": "0203101000",
+      "name": "Alicia"
+    }
+  },
+  {
+    "id": "0203101019",
+    "code": "0203101019",
+    "name": "Paddad",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203101000",
+      "code": "0203101000",
+      "name": "Alicia"
+    }
+  },
+  {
+    "id": "0203101020",
+    "code": "0203101020",
+    "name": "Rizal",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203101000",
+      "code": "0203101000",
+      "name": "Alicia"
+    }
+  },
+  {
+    "id": "0203101021",
+    "code": "0203101021",
+    "name": "Rizaluna",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203101000",
+      "code": "0203101000",
+      "name": "Alicia"
+    }
+  },
+  {
+    "id": "0203101022",
+    "code": "0203101022",
+    "name": "Salvacion",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203101000",
+      "code": "0203101000",
+      "name": "Alicia"
+    }
+  },
+  {
+    "id": "0203101023",
+    "code": "0203101023",
+    "name": "San Antonio",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203101000",
+      "code": "0203101000",
+      "name": "Alicia"
+    }
+  },
+  {
+    "id": "0203101024",
+    "code": "0203101024",
+    "name": "San Fernando",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203101000",
+      "code": "0203101000",
+      "name": "Alicia"
+    }
+  },
+  {
+    "id": "0203101025",
+    "code": "0203101025",
+    "name": "San Francisco",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203101000",
+      "code": "0203101000",
+      "name": "Alicia"
+    }
+  },
+  {
+    "id": "0203101026",
+    "code": "0203101026",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203101000",
+      "code": "0203101000",
+      "name": "Alicia"
+    }
+  },
+  {
+    "id": "0203101027",
+    "code": "0203101027",
+    "name": "San Pablo",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203101000",
+      "code": "0203101000",
+      "name": "Alicia"
+    }
+  },
+  {
+    "id": "0203101028",
+    "code": "0203101028",
+    "name": "San Pedro",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203101000",
+      "code": "0203101000",
+      "name": "Alicia"
+    }
+  },
+  {
+    "id": "0203101029",
+    "code": "0203101029",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203101000",
+      "code": "0203101000",
+      "name": "Alicia"
+    }
+  },
+  {
+    "id": "0203101030",
+    "code": "0203101030",
+    "name": "Santa Maria",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203101000",
+      "code": "0203101000",
+      "name": "Alicia"
+    }
+  },
+  {
+    "id": "0203101031",
+    "code": "0203101031",
+    "name": "Santo Domingo",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203101000",
+      "code": "0203101000",
+      "name": "Alicia"
+    }
+  },
+  {
+    "id": "0203101032",
+    "code": "0203101032",
+    "name": "Santo Tomas",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203101000",
+      "code": "0203101000",
+      "name": "Alicia"
+    }
+  },
+  {
+    "id": "0203101033",
+    "code": "0203101033",
+    "name": "Victoria",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203101000",
+      "code": "0203101000",
+      "name": "Alicia"
+    }
+  },
+  {
+    "id": "0203101034",
+    "code": "0203101034",
+    "name": "Zamora",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0203100000",
+      "code": "0203100000",
+      "name": "Isabela"
+    },
+    "city_municipality": {
+      "id": "0203101000",
+      "code": "0203101000",
+      "name": "Alicia"
+    }
+  }
+]

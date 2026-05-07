@@ -1,0 +1,45 @@
+name: Package CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  package-ci:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build dist
+        run: npm run build
+
+      - name: Smoke PSGC parser
+        run: npm run smoke-psgc-source
+
+      - name: Verify static data
+        run: npm run verify-static-data
+
+      - name: Check host API
+        run: npm run check-host-api
+
+      - name: Check production hardening
+        run: npm run check-production-hardening
+
+      - name: Check vendor consumption
+        run: npm run check-vendor-consumption
+
+      - name: Check pilot publish readiness
+        run: npm run check-publish-readiness:pilot

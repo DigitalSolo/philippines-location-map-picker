@@ -1,0 +1,695 @@
+[
+  {
+    "id": "0102905001",
+    "code": "0102905001",
+    "name": "Alinaay",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102905000",
+      "code": "0102905000",
+      "name": "Cabugao"
+    }
+  },
+  {
+    "id": "0102905002",
+    "code": "0102905002",
+    "name": "Aragan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102905000",
+      "code": "0102905000",
+      "name": "Cabugao"
+    }
+  },
+  {
+    "id": "0102905003",
+    "code": "0102905003",
+    "name": "Arnap",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102905000",
+      "code": "0102905000",
+      "name": "Cabugao"
+    }
+  },
+  {
+    "id": "0102905004",
+    "code": "0102905004",
+    "name": "Baclig",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102905000",
+      "code": "0102905000",
+      "name": "Cabugao"
+    }
+  },
+  {
+    "id": "0102905005",
+    "code": "0102905005",
+    "name": "Bato",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102905000",
+      "code": "0102905000",
+      "name": "Cabugao"
+    }
+  },
+  {
+    "id": "0102905006",
+    "code": "0102905006",
+    "name": "Bonifacio",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102905000",
+      "code": "0102905000",
+      "name": "Cabugao"
+    }
+  },
+  {
+    "id": "0102905007",
+    "code": "0102905007",
+    "name": "Bungro",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102905000",
+      "code": "0102905000",
+      "name": "Cabugao"
+    }
+  },
+  {
+    "id": "0102905008",
+    "code": "0102905008",
+    "name": "Cacadiran",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102905000",
+      "code": "0102905000",
+      "name": "Cabugao"
+    }
+  },
+  {
+    "id": "0102905009",
+    "code": "0102905009",
+    "name": "Caellayan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102905000",
+      "code": "0102905000",
+      "name": "Cabugao"
+    }
+  },
+  {
+    "id": "0102905010",
+    "code": "0102905010",
+    "name": "Carusipan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102905000",
+      "code": "0102905000",
+      "name": "Cabugao"
+    }
+  },
+  {
+    "id": "0102905011",
+    "code": "0102905011",
+    "name": "Catucdaan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102905000",
+      "code": "0102905000",
+      "name": "Cabugao"
+    }
+  },
+  {
+    "id": "0102905012",
+    "code": "0102905012",
+    "name": "Cuancabal",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102905000",
+      "code": "0102905000",
+      "name": "Cabugao"
+    }
+  },
+  {
+    "id": "0102905013",
+    "code": "0102905013",
+    "name": "Cuantacla",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102905000",
+      "code": "0102905000",
+      "name": "Cabugao"
+    }
+  },
+  {
+    "id": "0102905014",
+    "code": "0102905014",
+    "name": "Daclapan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102905000",
+      "code": "0102905000",
+      "name": "Cabugao"
+    }
+  },
+  {
+    "id": "0102905015",
+    "code": "0102905015",
+    "name": "Dardarat",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102905000",
+      "code": "0102905000",
+      "name": "Cabugao"
+    }
+  },
+  {
+    "id": "0102905016",
+    "code": "0102905016",
+    "name": "Lipit",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102905000",
+      "code": "0102905000",
+      "name": "Cabugao"
+    }
+  },
+  {
+    "id": "0102905017",
+    "code": "0102905017",
+    "name": "Maradodon",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102905000",
+      "code": "0102905000",
+      "name": "Cabugao"
+    }
+  },
+  {
+    "id": "0102905018",
+    "code": "0102905018",
+    "name": "Margaay",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102905000",
+      "code": "0102905000",
+      "name": "Cabugao"
+    }
+  },
+  {
+    "id": "0102905019",
+    "code": "0102905019",
+    "name": "Nagsantaan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102905000",
+      "code": "0102905000",
+      "name": "Cabugao"
+    }
+  },
+  {
+    "id": "0102905020",
+    "code": "0102905020",
+    "name": "Nagsincaoan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102905000",
+      "code": "0102905000",
+      "name": "Cabugao"
+    }
+  },
+  {
+    "id": "0102905021",
+    "code": "0102905021",
+    "name": "Namruangan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102905000",
+      "code": "0102905000",
+      "name": "Cabugao"
+    }
+  },
+  {
+    "id": "0102905022",
+    "code": "0102905022",
+    "name": "Pila",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102905000",
+      "code": "0102905000",
+      "name": "Cabugao"
+    }
+  },
+  {
+    "id": "0102905023",
+    "code": "0102905023",
+    "name": "Pug-os",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102905000",
+      "code": "0102905000",
+      "name": "Cabugao"
+    }
+  },
+  {
+    "id": "0102905024",
+    "code": "0102905024",
+    "name": "Quezon",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102905000",
+      "code": "0102905000",
+      "name": "Cabugao"
+    }
+  },
+  {
+    "id": "0102905025",
+    "code": "0102905025",
+    "name": "Reppaac",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102905000",
+      "code": "0102905000",
+      "name": "Cabugao"
+    }
+  },
+  {
+    "id": "0102905026",
+    "code": "0102905026",
+    "name": "Rizal",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102905000",
+      "code": "0102905000",
+      "name": "Cabugao"
+    }
+  },
+  {
+    "id": "0102905027",
+    "code": "0102905027",
+    "name": "Sabang",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102905000",
+      "code": "0102905000",
+      "name": "Cabugao"
+    }
+  },
+  {
+    "id": "0102905028",
+    "code": "0102905028",
+    "name": "Sagayaden",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102905000",
+      "code": "0102905000",
+      "name": "Cabugao"
+    }
+  },
+  {
+    "id": "0102905029",
+    "code": "0102905029",
+    "name": "Salapasap",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102905000",
+      "code": "0102905000",
+      "name": "Cabugao"
+    }
+  },
+  {
+    "id": "0102905030",
+    "code": "0102905030",
+    "name": "Salomague",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102905000",
+      "code": "0102905000",
+      "name": "Cabugao"
+    }
+  },
+  {
+    "id": "0102905031",
+    "code": "0102905031",
+    "name": "Sisim",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102905000",
+      "code": "0102905000",
+      "name": "Cabugao"
+    }
+  },
+  {
+    "id": "0102905032",
+    "code": "0102905032",
+    "name": "Turod",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102905000",
+      "code": "0102905000",
+      "name": "Cabugao"
+    }
+  },
+  {
+    "id": "0102905033",
+    "code": "0102905033",
+    "name": "Turod-Patac",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102905000",
+      "code": "0102905000",
+      "name": "Cabugao"
+    }
+  }
+]

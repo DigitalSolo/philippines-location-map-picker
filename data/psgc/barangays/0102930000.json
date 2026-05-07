@@ -1,0 +1,926 @@
+[
+  {
+    "id": "0102930001",
+    "code": "0102930001",
+    "name": "Aguing",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102930000",
+      "code": "0102930000",
+      "name": "Sinait"
+    }
+  },
+  {
+    "id": "0102930003",
+    "code": "0102930003",
+    "name": "Baliw",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102930000",
+      "code": "0102930000",
+      "name": "Sinait"
+    }
+  },
+  {
+    "id": "0102930002",
+    "code": "0102930002",
+    "name": "Ballaigui",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102930000",
+      "code": "0102930000",
+      "name": "Sinait"
+    }
+  },
+  {
+    "id": "0102930004",
+    "code": "0102930004",
+    "name": "Baracbac",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102930000",
+      "code": "0102930000",
+      "name": "Sinait"
+    }
+  },
+  {
+    "id": "0102930005",
+    "code": "0102930005",
+    "name": "Barikir",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102930000",
+      "code": "0102930000",
+      "name": "Sinait"
+    }
+  },
+  {
+    "id": "0102930006",
+    "code": "0102930006",
+    "name": "Battog",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102930000",
+      "code": "0102930000",
+      "name": "Sinait"
+    }
+  },
+  {
+    "id": "0102930007",
+    "code": "0102930007",
+    "name": "Binacud",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102930000",
+      "code": "0102930000",
+      "name": "Sinait"
+    }
+  },
+  {
+    "id": "0102930008",
+    "code": "0102930008",
+    "name": "Cabangtalan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102930000",
+      "code": "0102930000",
+      "name": "Sinait"
+    }
+  },
+  {
+    "id": "0102930009",
+    "code": "0102930009",
+    "name": "Cabarambanan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102930000",
+      "code": "0102930000",
+      "name": "Sinait"
+    }
+  },
+  {
+    "id": "0102930010",
+    "code": "0102930010",
+    "name": "Cabulalaan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102930000",
+      "code": "0102930000",
+      "name": "Sinait"
+    }
+  },
+  {
+    "id": "0102930011",
+    "code": "0102930011",
+    "name": "Cadanglaan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102930000",
+      "code": "0102930000",
+      "name": "Sinait"
+    }
+  },
+  {
+    "id": "0102930018",
+    "code": "0102930018",
+    "name": "Calanutian",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102930000",
+      "code": "0102930000",
+      "name": "Sinait"
+    }
+  },
+  {
+    "id": "0102930012",
+    "code": "0102930012",
+    "name": "Calingayan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102930000",
+      "code": "0102930000",
+      "name": "Sinait"
+    }
+  },
+  {
+    "id": "0102930013",
+    "code": "0102930013",
+    "name": "Curtin",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102930000",
+      "code": "0102930000",
+      "name": "Sinait"
+    }
+  },
+  {
+    "id": "0102930014",
+    "code": "0102930014",
+    "name": "Dadalaquiten Norte",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102930000",
+      "code": "0102930000",
+      "name": "Sinait"
+    }
+  },
+  {
+    "id": "0102930015",
+    "code": "0102930015",
+    "name": "Dadalaquiten Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102930000",
+      "code": "0102930000",
+      "name": "Sinait"
+    }
+  },
+  {
+    "id": "0102930030",
+    "code": "0102930030",
+    "name": "Dean Leopoldo Yabes",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102930000",
+      "code": "0102930000",
+      "name": "Sinait"
+    }
+  },
+  {
+    "id": "0102930016",
+    "code": "0102930016",
+    "name": "Duyayyat",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102930000",
+      "code": "0102930000",
+      "name": "Sinait"
+    }
+  },
+  {
+    "id": "0102930017",
+    "code": "0102930017",
+    "name": "Jordan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102930000",
+      "code": "0102930000",
+      "name": "Sinait"
+    }
+  },
+  {
+    "id": "0102930019",
+    "code": "0102930019",
+    "name": "Katipunan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102930000",
+      "code": "0102930000",
+      "name": "Sinait"
+    }
+  },
+  {
+    "id": "0102930020",
+    "code": "0102930020",
+    "name": "Macabiag",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102930000",
+      "code": "0102930000",
+      "name": "Sinait"
+    }
+  },
+  {
+    "id": "0102930021",
+    "code": "0102930021",
+    "name": "Magsaysay",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102930000",
+      "code": "0102930000",
+      "name": "Sinait"
+    }
+  },
+  {
+    "id": "0102930022",
+    "code": "0102930022",
+    "name": "Marnay",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102930000",
+      "code": "0102930000",
+      "name": "Sinait"
+    }
+  },
+  {
+    "id": "0102930023",
+    "code": "0102930023",
+    "name": "Masadag",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102930000",
+      "code": "0102930000",
+      "name": "Sinait"
+    }
+  },
+  {
+    "id": "0102930025",
+    "code": "0102930025",
+    "name": "Nagbalioartian",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102930000",
+      "code": "0102930000",
+      "name": "Sinait"
+    }
+  },
+  {
+    "id": "0102930024",
+    "code": "0102930024",
+    "name": "Nagcullooban",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102930000",
+      "code": "0102930000",
+      "name": "Sinait"
+    }
+  },
+  {
+    "id": "0102930026",
+    "code": "0102930026",
+    "name": "Nagongburan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102930000",
+      "code": "0102930000",
+      "name": "Sinait"
+    }
+  },
+  {
+    "id": "0102930027",
+    "code": "0102930027",
+    "name": "Namnama",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102930000",
+      "code": "0102930000",
+      "name": "Sinait"
+    }
+  },
+  {
+    "id": "0102930028",
+    "code": "0102930028",
+    "name": "Pacis",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102930000",
+      "code": "0102930000",
+      "name": "Sinait"
+    }
+  },
+  {
+    "id": "0102930029",
+    "code": "0102930029",
+    "name": "Paratong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102930000",
+      "code": "0102930000",
+      "name": "Sinait"
+    }
+  },
+  {
+    "id": "0102930031",
+    "code": "0102930031",
+    "name": "Purag",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102930000",
+      "code": "0102930000",
+      "name": "Sinait"
+    }
+  },
+  {
+    "id": "0102930032",
+    "code": "0102930032",
+    "name": "Quibit-quibit",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102930000",
+      "code": "0102930000",
+      "name": "Sinait"
+    }
+  },
+  {
+    "id": "0102930033",
+    "code": "0102930033",
+    "name": "Quimmallogong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102930000",
+      "code": "0102930000",
+      "name": "Sinait"
+    }
+  },
+  {
+    "id": "0102930034",
+    "code": "0102930034",
+    "name": "Rang-ay",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102930000",
+      "code": "0102930000",
+      "name": "Sinait"
+    }
+  },
+  {
+    "id": "0102930035",
+    "code": "0102930035",
+    "name": "Ricudo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102930000",
+      "code": "0102930000",
+      "name": "Sinait"
+    }
+  },
+  {
+    "id": "0102930036",
+    "code": "0102930036",
+    "name": "Sabañgan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102930000",
+      "code": "0102930000",
+      "name": "Sinait"
+    }
+  },
+  {
+    "id": "0102930037",
+    "code": "0102930037",
+    "name": "Sallacapo",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102930000",
+      "code": "0102930000",
+      "name": "Sinait"
+    }
+  },
+  {
+    "id": "0102930038",
+    "code": "0102930038",
+    "name": "Santa Cruz",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102930000",
+      "code": "0102930000",
+      "name": "Sinait"
+    }
+  },
+  {
+    "id": "0102930039",
+    "code": "0102930039",
+    "name": "Sapriana",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102930000",
+      "code": "0102930000",
+      "name": "Sinait"
+    }
+  },
+  {
+    "id": "0102930040",
+    "code": "0102930040",
+    "name": "Tapao",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102930000",
+      "code": "0102930000",
+      "name": "Sinait"
+    }
+  },
+  {
+    "id": "0102930041",
+    "code": "0102930041",
+    "name": "Teppeng",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102930000",
+      "code": "0102930000",
+      "name": "Sinait"
+    }
+  },
+  {
+    "id": "0102930042",
+    "code": "0102930042",
+    "name": "Tubigay",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102930000",
+      "code": "0102930000",
+      "name": "Sinait"
+    }
+  },
+  {
+    "id": "0102930043",
+    "code": "0102930043",
+    "name": "Ubbog",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102930000",
+      "code": "0102930000",
+      "name": "Sinait"
+    }
+  },
+  {
+    "id": "0102930044",
+    "code": "0102930044",
+    "name": "Zapat",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0102900000",
+      "code": "0102900000",
+      "name": "Ilocos Sur"
+    },
+    "city_municipality": {
+      "id": "0102930000",
+      "code": "0102930000",
+      "name": "Sinait"
+    }
+  }
+]

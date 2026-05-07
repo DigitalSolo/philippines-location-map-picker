@@ -1,0 +1,674 @@
+[
+  {
+    "id": "0803701000",
+    "code": "0803701000",
+    "name": "Abuyog",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    }
+  },
+  {
+    "id": "0803702000",
+    "code": "0803702000",
+    "name": "Alangalang",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    }
+  },
+  {
+    "id": "0803703000",
+    "code": "0803703000",
+    "name": "Albuera",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    }
+  },
+  {
+    "id": "0803705000",
+    "code": "0803705000",
+    "name": "Babatngon",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    }
+  },
+  {
+    "id": "0803706000",
+    "code": "0803706000",
+    "name": "Barugo",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    }
+  },
+  {
+    "id": "0803707000",
+    "code": "0803707000",
+    "name": "Bato",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    }
+  },
+  {
+    "id": "0803710000",
+    "code": "0803710000",
+    "name": "Burauen",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    }
+  },
+  {
+    "id": "0803713000",
+    "code": "0803713000",
+    "name": "Calubian",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    }
+  },
+  {
+    "id": "0803714000",
+    "code": "0803714000",
+    "name": "Capoocan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    }
+  },
+  {
+    "id": "0803715000",
+    "code": "0803715000",
+    "name": "Carigara",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    }
+  },
+  {
+    "id": "0803708000",
+    "code": "0803708000",
+    "name": "City of Baybay",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    }
+  },
+  {
+    "id": "0803717000",
+    "code": "0803717000",
+    "name": "Dagami",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    }
+  },
+  {
+    "id": "0803718000",
+    "code": "0803718000",
+    "name": "Dulag",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    }
+  },
+  {
+    "id": "0803719000",
+    "code": "0803719000",
+    "name": "Hilongos",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    }
+  },
+  {
+    "id": "0803720000",
+    "code": "0803720000",
+    "name": "Hindang",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    }
+  },
+  {
+    "id": "0803721000",
+    "code": "0803721000",
+    "name": "Inopacan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    }
+  },
+  {
+    "id": "0803722000",
+    "code": "0803722000",
+    "name": "Isabel",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    }
+  },
+  {
+    "id": "0803723000",
+    "code": "0803723000",
+    "name": "Jaro",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    }
+  },
+  {
+    "id": "0803724000",
+    "code": "0803724000",
+    "name": "Javier",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    }
+  },
+  {
+    "id": "0803725000",
+    "code": "0803725000",
+    "name": "Julita",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    }
+  },
+  {
+    "id": "0803726000",
+    "code": "0803726000",
+    "name": "Kananga",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    }
+  },
+  {
+    "id": "0803728000",
+    "code": "0803728000",
+    "name": "La Paz",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    }
+  },
+  {
+    "id": "0803729000",
+    "code": "0803729000",
+    "name": "Leyte",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    }
+  },
+  {
+    "id": "0803730000",
+    "code": "0803730000",
+    "name": "Macarthur",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    }
+  },
+  {
+    "id": "0803731000",
+    "code": "0803731000",
+    "name": "Mahaplag",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    }
+  },
+  {
+    "id": "0803733000",
+    "code": "0803733000",
+    "name": "Matag-Ob",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    }
+  },
+  {
+    "id": "0803734000",
+    "code": "0803734000",
+    "name": "Matalom",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    }
+  },
+  {
+    "id": "0803735000",
+    "code": "0803735000",
+    "name": "Mayorga",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    }
+  },
+  {
+    "id": "0803736000",
+    "code": "0803736000",
+    "name": "Merida",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    }
+  },
+  {
+    "id": "0803738000",
+    "code": "0803738000",
+    "name": "Ormoc City",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    }
+  },
+  {
+    "id": "0803739000",
+    "code": "0803739000",
+    "name": "Palo",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    }
+  },
+  {
+    "id": "0803740000",
+    "code": "0803740000",
+    "name": "Palompon",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    }
+  },
+  {
+    "id": "0803741000",
+    "code": "0803741000",
+    "name": "Pastrana",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    }
+  },
+  {
+    "id": "0803742000",
+    "code": "0803742000",
+    "name": "San Isidro",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    }
+  },
+  {
+    "id": "0803743000",
+    "code": "0803743000",
+    "name": "San Miguel",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    }
+  },
+  {
+    "id": "0803744000",
+    "code": "0803744000",
+    "name": "Santa Fe",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    }
+  },
+  {
+    "id": "0803745000",
+    "code": "0803745000",
+    "name": "Tabango",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    }
+  },
+  {
+    "id": "0803746000",
+    "code": "0803746000",
+    "name": "Tabontabon",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    }
+  },
+  {
+    "id": "0803748000",
+    "code": "0803748000",
+    "name": "Tanauan",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    }
+  },
+  {
+    "id": "0803749000",
+    "code": "0803749000",
+    "name": "Tolosa",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    }
+  },
+  {
+    "id": "0803750000",
+    "code": "0803750000",
+    "name": "Tunga",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    }
+  },
+  {
+    "id": "0803751000",
+    "code": "0803751000",
+    "name": "Villaba",
+    "type": "city_municipality",
+    "region": {
+      "id": "0800000000",
+      "code": "0800000000",
+      "name": "Region VIII (Eastern Visayas)"
+    },
+    "province": {
+      "id": "0803700000",
+      "code": "0803700000",
+      "name": "Leyte"
+    }
+  }
+]

@@ -1,0 +1,674 @@
+[
+  {
+    "id": "0105522001",
+    "code": "0105522001",
+    "name": "Aliwekwek",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105522000",
+      "code": "0105522000",
+      "name": "Lingayen"
+    }
+  },
+  {
+    "id": "0105522002",
+    "code": "0105522002",
+    "name": "Baay",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105522000",
+      "code": "0105522000",
+      "name": "Lingayen"
+    }
+  },
+  {
+    "id": "0105522003",
+    "code": "0105522003",
+    "name": "Balangobong",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105522000",
+      "code": "0105522000",
+      "name": "Lingayen"
+    }
+  },
+  {
+    "id": "0105522004",
+    "code": "0105522004",
+    "name": "Balococ",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105522000",
+      "code": "0105522000",
+      "name": "Lingayen"
+    }
+  },
+  {
+    "id": "0105522006",
+    "code": "0105522006",
+    "name": "Bantayan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105522000",
+      "code": "0105522000",
+      "name": "Lingayen"
+    }
+  },
+  {
+    "id": "0105522007",
+    "code": "0105522007",
+    "name": "Basing",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105522000",
+      "code": "0105522000",
+      "name": "Lingayen"
+    }
+  },
+  {
+    "id": "0105522008",
+    "code": "0105522008",
+    "name": "Capandanan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105522000",
+      "code": "0105522000",
+      "name": "Lingayen"
+    }
+  },
+  {
+    "id": "0105522009",
+    "code": "0105522009",
+    "name": "Domalandan Center",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105522000",
+      "code": "0105522000",
+      "name": "Lingayen"
+    }
+  },
+  {
+    "id": "0105522010",
+    "code": "0105522010",
+    "name": "Domalandan East",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105522000",
+      "code": "0105522000",
+      "name": "Lingayen"
+    }
+  },
+  {
+    "id": "0105522011",
+    "code": "0105522011",
+    "name": "Domalandan West",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105522000",
+      "code": "0105522000",
+      "name": "Lingayen"
+    }
+  },
+  {
+    "id": "0105522013",
+    "code": "0105522013",
+    "name": "Dorongan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105522000",
+      "code": "0105522000",
+      "name": "Lingayen"
+    }
+  },
+  {
+    "id": "0105522014",
+    "code": "0105522014",
+    "name": "Dulag",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105522000",
+      "code": "0105522000",
+      "name": "Lingayen"
+    }
+  },
+  {
+    "id": "0105522015",
+    "code": "0105522015",
+    "name": "Estanza",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105522000",
+      "code": "0105522000",
+      "name": "Lingayen"
+    }
+  },
+  {
+    "id": "0105522016",
+    "code": "0105522016",
+    "name": "Lasip",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105522000",
+      "code": "0105522000",
+      "name": "Lingayen"
+    }
+  },
+  {
+    "id": "0105522017",
+    "code": "0105522017",
+    "name": "Libsong East",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105522000",
+      "code": "0105522000",
+      "name": "Lingayen"
+    }
+  },
+  {
+    "id": "0105522018",
+    "code": "0105522018",
+    "name": "Libsong West",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105522000",
+      "code": "0105522000",
+      "name": "Lingayen"
+    }
+  },
+  {
+    "id": "0105522019",
+    "code": "0105522019",
+    "name": "Malawa",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105522000",
+      "code": "0105522000",
+      "name": "Lingayen"
+    }
+  },
+  {
+    "id": "0105522020",
+    "code": "0105522020",
+    "name": "Malimpuec",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105522000",
+      "code": "0105522000",
+      "name": "Lingayen"
+    }
+  },
+  {
+    "id": "0105522021",
+    "code": "0105522021",
+    "name": "Maniboc",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105522000",
+      "code": "0105522000",
+      "name": "Lingayen"
+    }
+  },
+  {
+    "id": "0105522022",
+    "code": "0105522022",
+    "name": "Matalava",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105522000",
+      "code": "0105522000",
+      "name": "Lingayen"
+    }
+  },
+  {
+    "id": "0105522023",
+    "code": "0105522023",
+    "name": "Naguelguel",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105522000",
+      "code": "0105522000",
+      "name": "Lingayen"
+    }
+  },
+  {
+    "id": "0105522025",
+    "code": "0105522025",
+    "name": "Namolan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105522000",
+      "code": "0105522000",
+      "name": "Lingayen"
+    }
+  },
+  {
+    "id": "0105522026",
+    "code": "0105522026",
+    "name": "Pangapisan North",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105522000",
+      "code": "0105522000",
+      "name": "Lingayen"
+    }
+  },
+  {
+    "id": "0105522027",
+    "code": "0105522027",
+    "name": "Pangapisan Sur",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105522000",
+      "code": "0105522000",
+      "name": "Lingayen"
+    }
+  },
+  {
+    "id": "0105522028",
+    "code": "0105522028",
+    "name": "Poblacion",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105522000",
+      "code": "0105522000",
+      "name": "Lingayen"
+    }
+  },
+  {
+    "id": "0105522029",
+    "code": "0105522029",
+    "name": "Quibaol",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105522000",
+      "code": "0105522000",
+      "name": "Lingayen"
+    }
+  },
+  {
+    "id": "0105522030",
+    "code": "0105522030",
+    "name": "Rosario",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105522000",
+      "code": "0105522000",
+      "name": "Lingayen"
+    }
+  },
+  {
+    "id": "0105522031",
+    "code": "0105522031",
+    "name": "Sabangan",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105522000",
+      "code": "0105522000",
+      "name": "Lingayen"
+    }
+  },
+  {
+    "id": "0105522032",
+    "code": "0105522032",
+    "name": "Talogtog",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105522000",
+      "code": "0105522000",
+      "name": "Lingayen"
+    }
+  },
+  {
+    "id": "0105522033",
+    "code": "0105522033",
+    "name": "Tonton",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105522000",
+      "code": "0105522000",
+      "name": "Lingayen"
+    }
+  },
+  {
+    "id": "0105522034",
+    "code": "0105522034",
+    "name": "Tumbar",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105522000",
+      "code": "0105522000",
+      "name": "Lingayen"
+    }
+  },
+  {
+    "id": "0105522035",
+    "code": "0105522035",
+    "name": "Wawa",
+    "type": "barangay",
+    "region": {
+      "id": "0100000000",
+      "code": "0100000000",
+      "name": "Region I (Ilocos Region)"
+    },
+    "province": {
+      "id": "0105500000",
+      "code": "0105500000",
+      "name": "Pangasinan"
+    },
+    "city_municipality": {
+      "id": "0105522000",
+      "code": "0105522000",
+      "name": "Lingayen"
+    }
+  }
+]

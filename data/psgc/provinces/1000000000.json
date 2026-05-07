@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1001300000",
+    "code": "1001300000",
+    "name": "Bukidnon",
+    "type": "province",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    }
+  },
+  {
+    "id": "1001800000",
+    "code": "1001800000",
+    "name": "Camiguin",
+    "type": "province",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    }
+  },
+  {
+    "id": "1003500000",
+    "code": "1003500000",
+    "name": "Lanao del Norte",
+    "type": "province",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    }
+  },
+  {
+    "id": "1004200000",
+    "code": "1004200000",
+    "name": "Misamis Occidental",
+    "type": "province",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    }
+  },
+  {
+    "id": "1004300000",
+    "code": "1004300000",
+    "name": "Misamis Oriental",
+    "type": "province",
+    "region": {
+      "id": "1000000000",
+      "code": "1000000000",
+      "name": "Region X (Northern Mindanao)"
+    }
+  }
+]

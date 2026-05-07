@@ -1,0 +1,212 @@
+[
+  {
+    "id": "0201524001",
+    "code": "0201524001",
+    "name": "Cadongdongan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201524000",
+      "code": "0201524000",
+      "name": "Santa Praxedes"
+    }
+  },
+  {
+    "id": "0201524002",
+    "code": "0201524002",
+    "name": "Capacuan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201524000",
+      "code": "0201524000",
+      "name": "Santa Praxedes"
+    }
+  },
+  {
+    "id": "0201524003",
+    "code": "0201524003",
+    "name": "Centro I",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201524000",
+      "code": "0201524000",
+      "name": "Santa Praxedes"
+    }
+  },
+  {
+    "id": "0201524004",
+    "code": "0201524004",
+    "name": "Centro II",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201524000",
+      "code": "0201524000",
+      "name": "Santa Praxedes"
+    }
+  },
+  {
+    "id": "0201524005",
+    "code": "0201524005",
+    "name": "Macatel",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201524000",
+      "code": "0201524000",
+      "name": "Santa Praxedes"
+    }
+  },
+  {
+    "id": "0201524008",
+    "code": "0201524008",
+    "name": "Portabaga",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201524000",
+      "code": "0201524000",
+      "name": "Santa Praxedes"
+    }
+  },
+  {
+    "id": "0201524011",
+    "code": "0201524011",
+    "name": "Salungsong",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201524000",
+      "code": "0201524000",
+      "name": "Santa Praxedes"
+    }
+  },
+  {
+    "id": "0201524009",
+    "code": "0201524009",
+    "name": "San Juan",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201524000",
+      "code": "0201524000",
+      "name": "Santa Praxedes"
+    }
+  },
+  {
+    "id": "0201524010",
+    "code": "0201524010",
+    "name": "San Miguel",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201524000",
+      "code": "0201524000",
+      "name": "Santa Praxedes"
+    }
+  },
+  {
+    "id": "0201524012",
+    "code": "0201524012",
+    "name": "Sicul",
+    "type": "barangay",
+    "region": {
+      "id": "0200000000",
+      "code": "0200000000",
+      "name": "Region II (Cagayan Valley)"
+    },
+    "province": {
+      "id": "0201500000",
+      "code": "0201500000",
+      "name": "Cagayan"
+    },
+    "city_municipality": {
+      "id": "0201524000",
+      "code": "0201524000",
+      "name": "Santa Praxedes"
+    }
+  }
+]

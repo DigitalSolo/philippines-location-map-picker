@@ -1,0 +1,569 @@
+[
+  {
+    "id": "0405630001",
+    "code": "0405630001",
+    "name": "Alupaye",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405630000",
+      "code": "0405630000",
+      "name": "Pagbilao"
+    }
+  },
+  {
+    "id": "0405630002",
+    "code": "0405630002",
+    "name": "Añato",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405630000",
+      "code": "0405630000",
+      "name": "Pagbilao"
+    }
+  },
+  {
+    "id": "0405630003",
+    "code": "0405630003",
+    "name": "Antipolo",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405630000",
+      "code": "0405630000",
+      "name": "Pagbilao"
+    }
+  },
+  {
+    "id": "0405630004",
+    "code": "0405630004",
+    "name": "Bantigue",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405630000",
+      "code": "0405630000",
+      "name": "Pagbilao"
+    }
+  },
+  {
+    "id": "0405630019",
+    "code": "0405630019",
+    "name": "Barangay 1 Castillo",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405630000",
+      "code": "0405630000",
+      "name": "Pagbilao"
+    }
+  },
+  {
+    "id": "0405630020",
+    "code": "0405630020",
+    "name": "Barangay 2 Daungan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405630000",
+      "code": "0405630000",
+      "name": "Pagbilao"
+    }
+  },
+  {
+    "id": "0405630021",
+    "code": "0405630021",
+    "name": "Barangay 3 Del Carmen",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405630000",
+      "code": "0405630000",
+      "name": "Pagbilao"
+    }
+  },
+  {
+    "id": "0405630022",
+    "code": "0405630022",
+    "name": "Barangay 4 Parang",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405630000",
+      "code": "0405630000",
+      "name": "Pagbilao"
+    }
+  },
+  {
+    "id": "0405630023",
+    "code": "0405630023",
+    "name": "Barangay 5 Santa Catalina",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405630000",
+      "code": "0405630000",
+      "name": "Pagbilao"
+    }
+  },
+  {
+    "id": "0405630024",
+    "code": "0405630024",
+    "name": "Barangay 6 Tambak",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405630000",
+      "code": "0405630000",
+      "name": "Pagbilao"
+    }
+  },
+  {
+    "id": "0405630005",
+    "code": "0405630005",
+    "name": "Bigo",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405630000",
+      "code": "0405630000",
+      "name": "Pagbilao"
+    }
+  },
+  {
+    "id": "0405630006",
+    "code": "0405630006",
+    "name": "Binahaan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405630000",
+      "code": "0405630000",
+      "name": "Pagbilao"
+    }
+  },
+  {
+    "id": "0405630007",
+    "code": "0405630007",
+    "name": "Bukal",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405630000",
+      "code": "0405630000",
+      "name": "Pagbilao"
+    }
+  },
+  {
+    "id": "0405630008",
+    "code": "0405630008",
+    "name": "Ibabang Bagumbungan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405630000",
+      "code": "0405630000",
+      "name": "Pagbilao"
+    }
+  },
+  {
+    "id": "0405630009",
+    "code": "0405630009",
+    "name": "Ibabang Palsabangon",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405630000",
+      "code": "0405630000",
+      "name": "Pagbilao"
+    }
+  },
+  {
+    "id": "0405630010",
+    "code": "0405630010",
+    "name": "Ibabang Polo",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405630000",
+      "code": "0405630000",
+      "name": "Pagbilao"
+    }
+  },
+  {
+    "id": "0405630011",
+    "code": "0405630011",
+    "name": "Ikirin",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405630000",
+      "code": "0405630000",
+      "name": "Pagbilao"
+    }
+  },
+  {
+    "id": "0405630012",
+    "code": "0405630012",
+    "name": "Ilayang Bagumbungan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405630000",
+      "code": "0405630000",
+      "name": "Pagbilao"
+    }
+  },
+  {
+    "id": "0405630013",
+    "code": "0405630013",
+    "name": "Ilayang Palsabangon",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405630000",
+      "code": "0405630000",
+      "name": "Pagbilao"
+    }
+  },
+  {
+    "id": "0405630014",
+    "code": "0405630014",
+    "name": "Ilayang Polo",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405630000",
+      "code": "0405630000",
+      "name": "Pagbilao"
+    }
+  },
+  {
+    "id": "0405630015",
+    "code": "0405630015",
+    "name": "Kanluran Malicboy",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405630000",
+      "code": "0405630000",
+      "name": "Pagbilao"
+    }
+  },
+  {
+    "id": "0405630016",
+    "code": "0405630016",
+    "name": "Mapagong",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405630000",
+      "code": "0405630000",
+      "name": "Pagbilao"
+    }
+  },
+  {
+    "id": "0405630017",
+    "code": "0405630017",
+    "name": "Mayhay",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405630000",
+      "code": "0405630000",
+      "name": "Pagbilao"
+    }
+  },
+  {
+    "id": "0405630018",
+    "code": "0405630018",
+    "name": "Pinagbayanan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405630000",
+      "code": "0405630000",
+      "name": "Pagbilao"
+    }
+  },
+  {
+    "id": "0405630025",
+    "code": "0405630025",
+    "name": "Silangan Malicboy",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405630000",
+      "code": "0405630000",
+      "name": "Pagbilao"
+    }
+  },
+  {
+    "id": "0405630026",
+    "code": "0405630026",
+    "name": "Talipan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405630000",
+      "code": "0405630000",
+      "name": "Pagbilao"
+    }
+  },
+  {
+    "id": "0405630027",
+    "code": "0405630027",
+    "name": "Tukalan",
+    "type": "barangay",
+    "region": {
+      "id": "0400000000",
+      "code": "0400000000",
+      "name": "Region IV-A (CALABARZON)"
+    },
+    "province": {
+      "id": "0405600000",
+      "code": "0405600000",
+      "name": "Quezon"
+    },
+    "city_municipality": {
+      "id": "0405630000",
+      "code": "0405630000",
+      "name": "Pagbilao"
+    }
+  }
+]

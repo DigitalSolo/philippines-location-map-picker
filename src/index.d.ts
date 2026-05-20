@@ -525,9 +525,13 @@ export type LocationMapPickerSubmitFieldNames = Partial<{
   location_picker_validation_json: string;
 }>;
 
+export type LocationMapPickerFieldNameStyle = 'underscore' | 'bracket' | 'php' | 'array';
+
 
 export type LocationMapPickerHostConfigOptions = {
   baseUrl: string;
+  fieldPrefix?: string;
+  fieldNameStyle?: LocationMapPickerFieldNameStyle;
   fieldNames?: LocationMapPickerSubmitFieldNames;
   ui?: Partial<UiOptions>;
   location?: Partial<LocationPickerOptions>;
@@ -551,6 +555,8 @@ export type LocationMapPickerHostConfig = {
 export type LocationMapPickerFormBindingOptions = LocationMapPickerSubmitResultOptions & {
   form: HTMLFormElement | string;
   picker: LocationMapPicker;
+  fieldPrefix?: string;
+  fieldNameStyle?: LocationMapPickerFieldNameStyle;
   fieldNames?: LocationMapPickerSubmitFieldNames;
   writePayload?: boolean;
   preventInvalid?: boolean;
@@ -616,11 +622,84 @@ export type LocationMapPickerFieldControlsBinding = {
   destroy(): void;
 };
 
+
+export type LocationMapPickerProviderMode = 'static' | 'api' | 'hybrid' | 'database' | 'db' | 'server';
+
+export type LocationMapPickerProviderFactoryOptions = {
+  provider?: LocationMapPickerProviderMode | Provider;
+  mode?: LocationMapPickerProviderMode;
+  providerMode?: LocationMapPickerProviderMode;
+  baseUrl?: string;
+  dataBaseUrl?: string;
+  hierarchyBaseUrl?: string;
+  geometryBaseUrl?: string;
+  apiUrl?: string;
+  geometryApiUrl?: string;
+  providerOptions?: Record<string, unknown>;
+  staticProviderOptions?: Record<string, unknown>;
+  apiProviderOptions?: ApiProviderOptions;
+};
+
+export type LocationMapPickerOptionsByProvider = Omit<LocationMapPickerOptions, 'mount' | 'provider'> & LocationMapPickerProviderFactoryOptions & {
+  mount: Element | string;
+};
+
+export type LocationMapPickerFieldOptions = LocationMapPickerProviderFactoryOptions & {
+  mount: Element | string;
+  fieldPrefix?: string;
+  fieldNameStyle?: LocationMapPickerFieldNameStyle;
+  fieldNames?: LocationMapPickerSubmitFieldNames;
+  pickerOptions?: Omit<LocationMapPickerOptionsByProvider, 'mount'>;
+  form?: HTMLFormElement | string | false;
+  autoBindForm?: boolean;
+  formBinding?: Omit<LocationMapPickerFormBindingOptions, 'form' | 'picker'>;
+  controls?: Omit<LocationMapPickerFieldControlsOptions, 'picker'>;
+  initialValue?: LocationMapPickerInitialValue;
+  resetDirtyOnInitialValue?: boolean;
+  trackDirtyOnInitialValue?: boolean;
+  openOnMount?: boolean;
+};
+
+export type LocationMapPickerFieldController = {
+  picker: LocationMapPicker;
+  binding: LocationMapPickerFormBinding | null;
+  controls: LocationMapPickerFieldControlsBinding | null;
+  ready: Promise<LocationMapPickerFieldController>;
+  open(): LocationMapPickerFieldController;
+  close(): LocationMapPickerFieldController;
+  isOpen(): boolean;
+  updatePayload(): LocationMapPickerSubmitResult;
+  resize(): LocationMapPickerFieldController;
+  destroy(): void;
+};
+
+export type LocationMapPickerAutoMountError = {
+  element: Element;
+  error: unknown;
+};
+
+export type LocationMapPickerAutoMountControllerList = LocationMapPickerFieldController[] & {
+  errors?: LocationMapPickerAutoMountError[];
+};
+
+export type LocationMapPickerAutoMountOptions = {
+  root?: ParentNode | Element | string;
+  selector?: string;
+  defaults?: Omit<LocationMapPickerFieldOptions, 'mount'>;
+  force?: boolean;
+  continueOnError?: boolean;
+  onError?: (error: unknown, element: Element) => void;
+};
+
 export type StaticLocationMapPickerFieldOptions = {
   mount: Element | string;
   baseUrl: string;
+  fieldPrefix?: string;
+  fieldNameStyle?: LocationMapPickerFieldNameStyle;
+  fieldNames?: LocationMapPickerSubmitFieldNames;
   pickerOptions?: Omit<StaticLocationMapPickerOptions, 'mount' | 'baseUrl'>;
-  form?: HTMLFormElement | string;
+  form?: HTMLFormElement | string | false;
+  autoBindForm?: boolean;
   formBinding?: Omit<LocationMapPickerFormBindingOptions, 'form' | 'picker'>;
   controls?: Omit<LocationMapPickerFieldControlsOptions, 'picker'>;
   initialValue?: LocationMapPickerInitialValue;
@@ -640,6 +719,55 @@ export type StaticLocationMapPickerFieldController = {
   updatePayload(): LocationMapPickerSubmitResult;
   resize(): StaticLocationMapPickerFieldController;
   destroy(): void;
+};
+
+export type ApiLocationMapPickerFieldOptions = {
+  mount: Element | string;
+  fieldPrefix?: string;
+  fieldNameStyle?: LocationMapPickerFieldNameStyle;
+  fieldNames?: LocationMapPickerSubmitFieldNames;
+  apiUrl?: string;
+  baseUrl?: string;
+  pickerOptions?: Omit<ApiLocationMapPickerOptions, 'mount' | 'apiUrl' | 'baseUrl'>;
+  providerOptions?: ApiProviderOptions;
+  form?: HTMLFormElement | string | false;
+  autoBindForm?: boolean;
+  formBinding?: Omit<LocationMapPickerFormBindingOptions, 'form' | 'picker'>;
+  controls?: Omit<LocationMapPickerFieldControlsOptions, 'picker'>;
+  initialValue?: LocationMapPickerInitialValue;
+  resetDirtyOnInitialValue?: boolean;
+  trackDirtyOnInitialValue?: boolean;
+  openOnMount?: boolean;
+};
+
+export type ApiLocationMapPickerFieldController = {
+  picker: LocationMapPicker;
+  binding: LocationMapPickerFormBinding | null;
+  controls: LocationMapPickerFieldControlsBinding | null;
+  ready: Promise<ApiLocationMapPickerFieldController>;
+  open(): ApiLocationMapPickerFieldController;
+  close(): ApiLocationMapPickerFieldController;
+  isOpen(): boolean;
+  updatePayload(): LocationMapPickerSubmitResult;
+  resize(): ApiLocationMapPickerFieldController;
+  destroy(): void;
+};
+
+export type ApiProviderOptions = {
+  baseUrl?: string;
+  apiUrl?: string;
+  endpoints?: Partial<Record<'regions' | 'provinces' | 'cities' | 'barangays' | 'location' | 'bounds' | 'centroid' | 'polygon' | 'reverse', string>>;
+  reverseMethod?: 'GET' | 'POST';
+  credentials?: RequestCredentials;
+  fetchOptions?: RequestInit;
+  cacheResponses?: boolean;
+};
+
+export type ApiLocationMapPickerOptions = Omit<LocationMapPickerOptions, 'mount' | 'provider'> & {
+  mount: Element | string;
+  apiUrl?: string;
+  baseUrl?: string;
+  providerOptions?: ApiProviderOptions;
 };
 
 export type StaticLocationMapPickerOptions = Omit<LocationMapPickerOptions, 'mount' | 'provider'> & {
@@ -792,20 +920,37 @@ export class StaticGeometryProvider { constructor(options?: Record<string, unkno
 export class CompositeLocationProvider { constructor(options: { hierarchyProvider: Provider; geometryProvider?: Provider }); }
 export class PsgcCloudProvider { constructor(options?: Record<string, unknown>); }
 export class ArcGisBarangayGeometryProvider { constructor(options?: Record<string, unknown>); }
-export class ApiProvider { constructor(options?: Record<string, unknown>); }
+export class ApiProvider { constructor(options?: ApiProviderOptions); }
 
+export const LOCATION_MAP_PICKER_PROVIDER_MODES: { STATIC: 'static'; API: 'api'; HYBRID: 'hybrid' };
+export function normalizeLocationMapPickerProviderMode(value?: LocationMapPickerProviderMode): 'static' | 'api' | 'hybrid';
+export function createLocationMapPickerProvider(options?: LocationMapPickerProviderFactoryOptions): Provider;
 export function createStaticLocationProvider(options?: Record<string, unknown>): Provider;
 export function createStaticLocationMapPicker(options: StaticLocationMapPickerOptions): LocationMapPicker;
+export function createApiLocationMapPicker(options: ApiLocationMapPickerOptions): LocationMapPicker;
+export function createLocationMapPicker(options: LocationMapPickerOptionsByProvider): LocationMapPicker;
 export function createLocationMapPickerSubmitPayload(picker: LocationMapPicker): LocationMapPickerSubmitPayload;
 export function createLocationMapPickerSubmitPayloadFromValue(value: LocationMapPickerValue, validation: LocationMapPickerValidationResult): LocationMapPickerSubmitPayload;
 export function createLocationMapPickerSubmitResult(picker: LocationMapPicker, options?: LocationMapPickerSubmitResultOptions): LocationMapPickerSubmitResult;
 export function blockInvalidLocationMapPickerSubmit(picker: LocationMapPicker, options?: LocationMapPickerSubmitResultOptions): LocationMapPickerSubmitResult;
-export function writeLocationMapPickerSubmitPayloadToForm(form: HTMLFormElement | string, payload: LocationMapPickerSubmitPayload, options?: { fieldNames?: LocationMapPickerSubmitFieldNames }): LocationMapPickerFormPayloadWriteResult;
+export function writeLocationMapPickerSubmitPayloadToForm(form: HTMLFormElement | string, payload: LocationMapPickerSubmitPayload, options?: { fieldPrefix?: string; fieldNameStyle?: LocationMapPickerFieldNameStyle; fieldNames?: LocationMapPickerSubmitFieldNames }): LocationMapPickerFormPayloadWriteResult;
 export function bindLocationMapPickerForm(options: LocationMapPickerFormBindingOptions): LocationMapPickerFormBinding;
-export function readLocationMapPickerSubmitPayloadFromForm(form: HTMLFormElement | string, options?: { fieldNames?: LocationMapPickerSubmitFieldNames }): LocationMapPickerSubmitPayload;
-export function createLocationMapPickerInitialValueFromSubmitPayload(payload: Partial<LocationMapPickerSubmitPayload>, options?: { fieldNames?: LocationMapPickerSubmitFieldNames }): LocationMapPickerInitialValue;
-export function createLocationMapPickerInitialValueFromForm(form: HTMLFormElement | string, options?: { fieldNames?: LocationMapPickerSubmitFieldNames }): LocationMapPickerInitialValue;
+export function readLocationMapPickerSubmitPayloadFromForm(form: HTMLFormElement | string, options?: { fieldPrefix?: string; fieldNameStyle?: LocationMapPickerFieldNameStyle; fieldNames?: LocationMapPickerSubmitFieldNames }): LocationMapPickerSubmitPayload;
+export function createLocationMapPickerInitialValueFromSubmitPayload(payload: Partial<LocationMapPickerSubmitPayload>, options?: { fieldPrefix?: string; fieldNameStyle?: LocationMapPickerFieldNameStyle; fieldNames?: LocationMapPickerSubmitFieldNames }): LocationMapPickerInitialValue;
+export function createLocationMapPickerInitialValueFromForm(form: HTMLFormElement | string, options?: { fieldPrefix?: string; fieldNameStyle?: LocationMapPickerFieldNameStyle; fieldNames?: LocationMapPickerSubmitFieldNames }): LocationMapPickerInitialValue;
 export function mountStaticLocationMapPickerField(options: StaticLocationMapPickerFieldOptions): StaticLocationMapPickerFieldController;
+export function mountStaticLocationMapPickerField(mount: Element | string, options?: Omit<StaticLocationMapPickerFieldOptions, 'mount'>): StaticLocationMapPickerFieldController;
+export function mountApiLocationMapPickerField(options: ApiLocationMapPickerFieldOptions): ApiLocationMapPickerFieldController;
+export function mountApiLocationMapPickerField(mount: Element | string, options?: Omit<ApiLocationMapPickerFieldOptions, 'mount'>): ApiLocationMapPickerFieldController;
+export function createLocationMapPickerPrefixedFieldNames(fieldPrefix?: string, options?: { fieldNameStyle?: LocationMapPickerFieldNameStyle; style?: LocationMapPickerFieldNameStyle }): Required<LocationMapPickerSubmitFieldNames>;
+export function normalizeLocationMapPickerSubmitFieldNames(options?: { fieldPrefix?: string; fieldNameStyle?: LocationMapPickerFieldNameStyle; fieldNames?: LocationMapPickerSubmitFieldNames }): Required<LocationMapPickerSubmitFieldNames>;
+export function mountLocationMapPickerField(options: LocationMapPickerFieldOptions): LocationMapPickerFieldController;
+export function mountLocationMapPickerField(mount: Element | string, options?: Omit<LocationMapPickerFieldOptions, 'mount'>): LocationMapPickerFieldController;
+export function autoMountLocationMapPickers(options?: LocationMapPickerAutoMountOptions): LocationMapPickerAutoMountControllerList;
+export function autoMountLocationMapPickers(root: ParentNode | Element | string, options?: Omit<LocationMapPickerAutoMountOptions, 'root'>): LocationMapPickerAutoMountControllerList;
+export function destroyAutoMountedLocationMapPickers(options?: Pick<LocationMapPickerAutoMountOptions, 'root' | 'selector'>): LocationMapPickerFieldController[];
+export function destroyAutoMountedLocationMapPickers(root: ParentNode | Element | string, options?: Pick<LocationMapPickerAutoMountOptions, 'selector'>): LocationMapPickerFieldController[];
+export function locationMapPickerAutoMountSelector(): string;
 export function bindLocationMapPickerFieldControls(options: LocationMapPickerFieldControlsOptions): LocationMapPickerFieldControlsBinding;
 export function formatLocationMapPickerValueLabel(value: LocationMapPickerValue | LocationValue | Partial<LocationValue>, options?: LocationMapPickerValueLabelOptions): string;
 export function selectedLocationMapPickerLevel(value: LocationMapPickerValue | LocationValue | Partial<LocationValue>): RequiredLocationLevel | '';

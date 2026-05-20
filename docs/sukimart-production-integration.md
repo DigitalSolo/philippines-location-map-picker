@@ -1,45 +1,46 @@
-# SukiMart Production Integration Notes
+# SukiMart Production Integration
 
-Use this package as a vendor dependency after publishing or copying from the `v1.0.63` GitHub tag.
+## Public placement
 
-## Recommended integration order
-
-1. Customer saved-address form.
-2. Checkout delivery address form.
-3. Vendor address form.
-4. RDC / warehouse address form.
-5. Admin address edit form.
-
-## Stored fields
-
-Minimum host fields:
+Copy the package to:
 
 ```text
-region_id
-region_name
-province_id
-province_name
-city_id
-city_name
-barangay_id
-barangay_name
-latitude
-longitude
-location_json
+www/packages/philippines-location-map-picker/
 ```
 
-## Authority rule
+Serve package assets from:
 
-`barangay_id` is the authoritative saved address key.
+```text
+/packages/philippines-location-map-picker/
+```
 
-Latitude and longitude are pin precision fields, not replacements for PSGC selection.
+## Address picker mount
 
-## Reverse-fill rule
+Use one mount element inside the customer address form:
 
-Reverse-fill is optional. It can help users, but it must never be the only way to save an address because geometry is intentionally limited in this package release.
+```html
+<div id="locationPicker"></div>
+```
 
-## Delivery-zone rule
+Mount through the UMD helper:
 
-Do not put SukiMart delivery-zone logic inside this package.
+```js
+window.PhilippinesLocationMapPicker.mountStaticLocationMapPicker({
+  mount: '#locationPicker',
+  baseUrl: '/packages/philippines-location-map-picker/data'
+});
+```
 
-The package returns a normalized location value. SukiMart decides whether that location is serviceable.
+## Posted fields
+
+The reusable component automatically creates:
+
+```text
+barangay_id
+pin_lat
+pin_lng
+location_picker_value_json
+location_picker_validation_json
+```
+
+Use `barangay_id` as the authoritative selected barangay id. Keep delivery-zone, RDC, vendor coverage, and pricing rules in SukiMart.

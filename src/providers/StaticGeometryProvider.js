@@ -20,6 +20,26 @@ function asArray(value) {
   return Array.isArray(value) ? value : [];
 }
 
+function selectedContextFallback(context = {}) {
+  const barangayId = cleanId(context.barangay_id);
+  if (!barangayId) {
+    return null;
+  }
+
+  return normalizeReverseMatch({
+    region_id: cleanId(context.region_id) || deriveRegionId(barangayId),
+    region_name: cleanId(context.region_name),
+    province_id: cleanId(context.province_id) || deriveProvinceId(barangayId),
+    province_name: cleanId(context.province_name),
+    city_id: cleanId(context.city_id) || deriveCityId(barangayId),
+    city_name: cleanId(context.city_name),
+    barangay_id: barangayId,
+    barangay_name: cleanId(context.barangay_name),
+    match_quality: 'selected-context',
+    match_distance_km: 0
+  });
+}
+
 function degreesToRadians(degrees) {
   return Number(degrees) * Math.PI / 180;
 }
@@ -45,6 +65,7 @@ export class StaticGeometryProvider {
     this.reverseMaxNearestKm = Number.isFinite(Number(options.reverseMaxNearestKm))
       ? Number(options.reverseMaxNearestKm)
       : 0;
+    this.reverseFallbackToSelectedLocation = options.reverseFallbackToSelectedLocation === true;
   }
 
   async fetchJson(path) {
@@ -239,6 +260,13 @@ export class StaticGeometryProvider {
         match_quality: polygon && polygon.length >= 3 ? 'polygon' : 'bounds',
         match_distance_km: 0
       });
+    }
+
+    if (this.reverseFallbackToSelectedLocation) {
+      const fallback = selectedContextFallback(context);
+      if (fallback) {
+        return fallback;
+      }
     }
 
     if (this.reverseMaxNearestKm <= 0) {

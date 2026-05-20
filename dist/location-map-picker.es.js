@@ -1,109 +1,109 @@
 function w(t) {
   return String(t ?? "").replace(/[^0-9]/g, "");
 }
-function ir(t) {
+function ka(t) {
   return w(t).length === 10;
 }
-function nr(t) {
+function Oa(t) {
   return w(t).length === 9;
 }
-function he(t) {
+function ge(t) {
   return [...new Set(t.map(w).filter(Boolean))];
 }
-function z(t) {
+function R(t) {
   const e = w(t);
   return e.length >= 10 ? `${e.slice(0, 2)}00000000` : e.length >= 2 ? e.slice(0, 2) : "";
 }
-function Ze(t) {
+function ht(t) {
   return t.length === 4 ? `${t.slice(0, 2)}0${t.slice(2, 4)}00000` : t.length === 5 ? `${t}00000` : "";
 }
-function Ue(t) {
+function mt(t) {
   return t.length === 6 ? `${t.slice(0, 2)}0${t.slice(2, 4)}${t.slice(4, 6)}000` : t.length === 7 ? `${t}000` : "";
 }
-function yt(t) {
+function jt(t) {
   return t.length === 9 ? `${t.slice(0, 2)}0${t.slice(2, 4)}${t.slice(4, 6)}${t.slice(6, 9)}` : "";
 }
-function R(t, e = "") {
+function q(t, e = "") {
   const i = w(t);
-  return i.length === 10 ? i : e === "region" && i.length === 2 ? `${i}00000000` : e === "province" ? Ze(i) : e === "city" ? Ue(i) : e === "barangay" || i.length === 9 ? yt(i) : i.length === 7 || i.length === 6 ? Ue(i) : i.length === 5 || i.length === 4 ? Ze(i) : i.length === 2 ? `${i}00000000` : "";
+  return i.length === 10 ? i : e === "region" && i.length === 2 ? `${i}00000000` : e === "province" ? ht(i) : e === "city" ? mt(i) : e === "barangay" || i.length === 9 ? jt(i) : i.length === 7 || i.length === 6 ? mt(i) : i.length === 5 || i.length === 4 ? ht(i) : i.length === 2 ? `${i}00000000` : "";
 }
-function F(t) {
-  const e = w(t), i = e.length === 10 ? e : R(e);
+function C(t) {
+  const e = w(t), i = e.length === 10 ? e : q(e);
   return i.length === 10 ? `${i.slice(0, 5)}00000` : "";
 }
-function D(t) {
-  const e = w(t), i = e.length === 10 ? e : R(e);
+function z(t) {
+  const e = w(t), i = e.length === 10 ? e : q(e);
   return i.length === 10 ? `${i.slice(0, 7)}000` : "";
 }
-function rr(t) {
-  return D(t);
+function Ma(t) {
+  return z(t);
 }
-function ar(t) {
+function Ia(t) {
   return w(t).slice(0, 6);
 }
-function K(t) {
+function W(t) {
   const e = w(t), i = [];
-  return e ? (e.length === 10 && e.endsWith("00000000") ? (i.push(e), i.push(e.slice(0, 2))) : e.length === 2 ? (i.push(e), i.push(`${e}00000000`)) : e.length >= 2 && (i.push(e.slice(0, 2)), i.push(`${e.slice(0, 2)}00000000`)), he(i)) : [];
+  return e ? (e.length === 10 && e.endsWith("00000000") ? (i.push(e), i.push(e.slice(0, 2))) : e.length === 2 ? (i.push(e), i.push(`${e}00000000`)) : e.length >= 2 && (i.push(e.slice(0, 2)), i.push(`${e.slice(0, 2)}00000000`)), ge(i)) : [];
 }
-function ne(t) {
-  const e = w(t), i = [], n = R(e, "province") || F(e);
-  return e ? (i.push(e), n && (e.length === 10 && i.push(n), i.push(`${n.slice(0, 2)}${n.slice(3, 5)}`), i.push(n.slice(0, 5)), i.push(n)), he(i)) : [];
+function se(t) {
+  const e = w(t), i = [], r = q(e, "province") || C(e);
+  return e ? (i.push(e), r && (e.length === 10 && i.push(r), i.push(`${r.slice(0, 2)}${r.slice(3, 5)}`), i.push(r.slice(0, 5)), i.push(r)), ge(i)) : [];
 }
-function I(t) {
-  const e = w(t), i = [], n = R(e, "city") || D(e);
-  return e ? (i.push(e), n && (e.length === 10 && i.push(n), i.push(`${n.slice(0, 2)}${n.slice(3, 5)}${n.slice(5, 7)}`), i.push(n.slice(0, 7)), i.push(n)), he(i)) : [];
+function O(t) {
+  const e = w(t), i = [], r = q(e, "city") || z(e);
+  return e ? (i.push(e), r && (e.length === 10 && i.push(r), i.push(`${r.slice(0, 2)}${r.slice(3, 5)}${r.slice(5, 7)}`), i.push(r.slice(0, 7)), i.push(r)), ge(i)) : [];
 }
-function Se(t) {
-  const e = w(t), i = [], n = R(e, "barangay");
-  return e ? (i.push(e), n && (e.length === 10 && i.push(n), i.push(`${n.slice(0, 2)}${n.slice(3, 5)}${n.slice(5, 7)}${n.slice(7, 10)}`), i.push(n)), e.length === 10 && i.push(`${e.slice(0, 2)}${e.slice(3, 5)}${e.slice(5, 7)}${e.slice(7, 10)}`), he(i)) : [];
+function Re(t) {
+  const e = w(t), i = [], r = q(e, "barangay");
+  return e ? (i.push(e), r && (e.length === 10 && i.push(r), i.push(`${r.slice(0, 2)}${r.slice(3, 5)}${r.slice(5, 7)}${r.slice(7, 10)}`), i.push(r)), e.length === 10 && i.push(`${e.slice(0, 2)}${e.slice(3, 5)}${e.slice(5, 7)}${e.slice(7, 10)}`), ge(i)) : [];
 }
-function xe(t, e) {
-  return t === "region" ? K(e) : t === "province" ? ne(e) : t === "city" ? I(e) : t === "barangay" ? Se(e) : he([e]);
+function Ye(t, e) {
+  return t === "region" ? W(e) : t === "province" ? se(e) : t === "city" ? O(e) : t === "barangay" ? Re(e) : ge([e]);
 }
-function zt(t) {
-  const e = w(t), i = [], n = D(e);
-  return e.length === 9 ? (i.push(e.slice(0, 6)), n && i.push(...I(n)), i.push(...I(e))) : e.length === 10 && !e.endsWith("000") && n && n !== e ? (i.push(...I(n)), i.push(...I(e))) : (i.push(...I(e)), n && n !== e && i.push(...I(n))), he(i);
+function yi(t) {
+  const e = w(t), i = [], r = z(e);
+  return e.length === 9 ? (i.push(e.slice(0, 6)), r && i.push(...O(r)), i.push(...O(e))) : e.length === 10 && !e.endsWith("000") && r && r !== e ? (i.push(...O(r)), i.push(...O(e))) : (i.push(...O(e)), r && r !== e && i.push(...O(r))), ge(i);
 }
-function sr(t, e) {
-  const i = K(t), n = K(e);
-  return i.some((r) => n.includes(r));
+function Na(t, e) {
+  const i = W(t), r = W(e);
+  return i.some((n) => r.includes(n));
 }
-function or(t, e) {
-  const i = ne(t), n = ne(e);
-  return i.some((r) => n.includes(r));
+function Ca(t, e) {
+  const i = se(t), r = se(e);
+  return i.some((n) => r.includes(n));
 }
-function ai(t, e) {
-  const i = I(t), n = I(e);
-  return i.some((r) => n.includes(r));
+function Vi(t, e) {
+  const i = O(t), r = O(e);
+  return i.some((n) => r.includes(n));
 }
-const S = (t) => String(t ?? "").trim(), ft = (t) => String(t || "").toLowerCase().replace(/\s+/g, " ").trim(), Ce = (t) => S(t.id || t.code), de = (t) => String(t.name || "").trim(), bt = ["region", "province", "city", "barangay"], se = { region: 1, province: 2, city: 3, barangay: 4 };
+const k = (t) => String(t ?? "").trim(), Tt = (t) => String(t || "").toLowerCase().replace(/\s+/g, " ").trim(), De = (t) => k(t.id || t.code), be = (t) => String(t.name || "").trim(), Dt = ["region", "province", "city", "barangay"], le = { region: 1, province: 2, city: 3, barangay: 4 };
 function P(t) {
   return String(t || "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&#039;");
 }
-function G(t, e) {
+function V(t, e) {
   t && (t.value = e == null ? "" : String(e));
 }
-function me(t, e, i) {
-  const n = String(t || "").trim().toLowerCase();
-  return e.includes(n) ? n : i;
+function _e(t, e, i) {
+  const r = String(t || "").trim().toLowerCase();
+  return e.includes(r) ? r : i;
 }
-function si(...t) {
+function Gi(...t) {
   return t.flatMap((e) => String(e || "").split(/\s+/)).map((e) => e.trim()).filter(Boolean).join(" ");
 }
-function oi(t) {
+function Ji(t) {
   if (!t || t.disabled || t.hidden)
     return !1;
   const e = window.getComputedStyle(t);
   return e.display !== "none" && e.visibility !== "hidden";
 }
-function Ke(t) {
-  return t ? Array.from(t.querySelectorAll('button, [href], input, select, textarea, [tabindex]:not([tabindex="-1"])')).filter(oi) : [];
+function pt(t) {
+  return t ? Array.from(t.querySelectorAll('button, [href], input, select, textarea, [tabindex]:not([tabindex="-1"])')).filter(Ji) : [];
 }
-function pe(t) {
+function ve(t) {
   const e = Math.random().toString(36).slice(2, 10);
   return `${t}-${e}`;
 }
-function st(t, e) {
+function St(t, e) {
   if (!t)
     return;
   if (e) {
@@ -115,57 +115,57 @@ function st(t, e) {
   const i = t.getAttribute("data-plmp-original-inert") === "true";
   t.inert = i, t.removeAttribute("data-plmp-modal-inert"), t.removeAttribute("data-plmp-original-inert");
 }
-function ci(t, e) {
+function Zi(t, e) {
   if (!t || !document.body)
     return [];
   const i = [];
-  let n = t, r = n.parentElement;
-  for (; r && r !== document.body.parentElement && (Array.from(r.children).forEach((a) => {
-    a === n || a.contains(t) || (st(a, e), i.push(a));
-  }), r !== document.body); )
-    n = r, r = r.parentElement;
+  let r = t, n = r.parentElement;
+  for (; n && n !== document.body.parentElement && (Array.from(n.children).forEach((a) => {
+    a === r || a.contains(t) || (St(a, e), i.push(a));
+  }), n !== document.body); )
+    r = n, n = n.parentElement;
   return i;
 }
-function li(t = {}) {
+function Ki(t = {}) {
   const e = {
-    region_id: S(t.region_id),
+    region_id: k(t.region_id),
     region_name: String(t.region_name || "").trim(),
-    province_id: S(t.province_id),
+    province_id: k(t.province_id),
     province_name: String(t.province_name || "").trim(),
-    city_id: S(t.city_id),
+    city_id: k(t.city_id),
     city_name: String(t.city_name || "").trim(),
-    barangay_id: S(t.barangay_id),
+    barangay_id: k(t.barangay_id),
     barangay_name: String(t.barangay_name || "").trim()
   };
-  return e.barangay_id && !e.city_id && (e.city_id = D(e.barangay_id)), e.city_id && !e.province_id && (e.province_id = F(e.city_id)), (e.province_id || e.city_id || e.barangay_id) && !e.region_id && (e.region_id = z(e.province_id || e.city_id || e.barangay_id)), e;
+  return e.barangay_id && !e.city_id && (e.city_id = z(e.barangay_id)), e.city_id && !e.province_id && (e.province_id = C(e.city_id)), (e.province_id || e.city_id || e.barangay_id) && !e.region_id && (e.region_id = R(e.province_id || e.city_id || e.barangay_id)), e;
 }
-function ui(t = {}) {
+function Wi(t = {}) {
   return !!(t.barangay_id && t.barangay_name && t.city_id && t.city_name);
 }
-class hi {
+class Yi {
   constructor(e = {}) {
     if (!e.mount)
       throw new Error("LocationPicker requires a mount element.");
     if (!e.provider)
       throw new Error("LocationPicker requires a provider.");
-    this.mount = e.mount, this.provider = e.provider, this.requiredLevel = me(e.requiredLevel, bt, "barangay"), this.validationMessages = {
+    this.mount = e.mount, this.provider = e.provider, this.requiredLevel = _e(e.requiredLevel, Dt, "barangay"), this.validationMessages = {
       region: e.messageRequiredRegion || "Select a region.",
       province: e.messageRequiredProvince || "Select a province.",
       city: e.messageRequiredCity || "Select a city or municipality.",
       barangay: e.messageRequiredBarangay || "Select a barangay before saving."
-    }, this.hiddenInputs = e.hiddenInputs || {}, this.summaryLabel = e.summaryLabel || "Address location", this.placeholder = e.placeholder || "Select City → Barangay", this.modalTitle = e.modalTitle || "Select address location", this.modalSubtitle = e.modalSubtitle || "Choose Region, Province if applicable, City/Municipality, then Barangay.", this.modalEyebrow = e.modalEyebrow || "Philippines address", this.actionLabel = e.actionLabel || "Select", this.saveLabel = e.saveLabel || "Save address", this.cancelLabel = e.cancelLabel || "Cancel", this.clearLabel = e.clearLabel || "Clear", this.searchPlaceholder = e.searchPlaceholder || "Search", this.triggerIcon = e.triggerIcon || "⌖", this.selectedLabelFormat = me(e.selectedLabelFormat, [
+    }, this.hiddenInputs = e.hiddenInputs || {}, this.summaryLabel = e.summaryLabel || "Address location", this.placeholder = e.placeholder || "Select City → Barangay", this.modalTitle = e.modalTitle || "Select address location", this.modalSubtitle = e.modalSubtitle || "Choose Region, Province if applicable, City/Municipality, then Barangay.", this.modalEyebrow = e.modalEyebrow || "Philippines address", this.actionLabel = e.actionLabel || "Select", this.saveLabel = e.saveLabel || "Save address", this.cancelLabel = e.cancelLabel || "Cancel", this.clearLabel = e.clearLabel || "Clear", this.searchPlaceholder = e.searchPlaceholder || "Search", this.triggerIcon = e.triggerIcon || "⌖", this.selectedLabelFormat = _e(e.selectedLabelFormat, [
       "region_province_city_barangay",
       "province_city_barangay",
       "city_barangay",
       "barangay_only"
-    ], "city_barangay"), this.theme = me(e.theme, ["light", "dark", "auto"], "light"), this.size = me(e.size, ["compact", "comfortable", "spacious"], "comfortable"), this.density = me(e.density, ["tight", "normal", "relaxed"], "normal"), this.className = e.className || "", this.modalClassName = e.modalClassName || "", this.disabled = e.disabled === !0, this.readOnly = e.readOnly === !0 || e.readonly === !0, this.busy = e.busy === !0, this.busyReason = "", this.previousFocusEl = null, this.modalInertElements = [], this.titleId = pe("plmp-location-title"), this.subtitleId = pe("plmp-location-subtitle"), this.listId = pe("plmp-location-list"), this.messageId = pe("plmp-location-message"), this.searchId = pe("plmp-location-search"), this.boundDocumentFocus = (i) => this.enforceModalFocus(i), this.boundDocumentKeydown = (i) => this.handleDocumentKeydown(i), this.handlers = {}, this.lists = { region: [], province: [], city: [], barangay: [] }, this.state = {
-      region_id: S(e.defaultRegionId),
+    ], "city_barangay"), this.theme = _e(e.theme, ["light", "dark", "auto"], "light"), this.size = _e(e.size, ["compact", "comfortable", "spacious"], "comfortable"), this.density = _e(e.density, ["tight", "normal", "relaxed"], "normal"), this.className = e.className || "", this.modalClassName = e.modalClassName || "", this.disabled = e.disabled === !0, this.readOnly = e.readOnly === !0 || e.readonly === !0, this.busy = e.busy === !0, this.busyReason = "", this.previousFocusEl = null, this.modalInertElements = [], this.titleId = ve("plmp-location-title"), this.subtitleId = ve("plmp-location-subtitle"), this.listId = ve("plmp-location-list"), this.messageId = ve("plmp-location-message"), this.searchId = ve("plmp-location-search"), this.boundDocumentFocus = (i) => this.enforceModalFocus(i), this.boundDocumentKeydown = (i) => this.handleDocumentKeydown(i), this.handlers = {}, this.lists = { region: [], province: [], city: [], barangay: [] }, this.state = {
+      region_id: k(e.defaultRegionId),
       region_name: "",
-      province_id: S(e.defaultProvinceId),
+      province_id: k(e.defaultProvinceId),
       province_name: "",
-      city_id: S(e.defaultCityId),
+      city_id: k(e.defaultCityId),
       city_name: "",
-      barangay_id: S(e.defaultBarangayId),
+      barangay_id: k(e.defaultBarangayId),
       barangay_name: ""
     }, this.activeLevel = "region", this.searchTerm = "", this.renderShell(), this.bindEvents(), this.ready = this.initialize();
   }
@@ -173,16 +173,16 @@ class hi {
     return this.handlers[e] || (this.handlers[e] = []), this.handlers[e].push(i), this;
   }
   off(e, i) {
-    return this.handlers[e] ? typeof i != "function" ? (this.handlers[e] = [], this) : (this.handlers[e] = this.handlers[e].filter((n) => n !== i), this) : this;
+    return this.handlers[e] ? typeof i != "function" ? (this.handlers[e] = [], this) : (this.handlers[e] = this.handlers[e].filter((r) => r !== i), this) : this;
   }
   emit(e, i) {
-    (this.handlers[e] || []).forEach((n) => n(i));
+    (this.handlers[e] || []).forEach((r) => r(i));
   }
   async initialize() {
-    await this.loadRegions(), this.state.barangay_id && !this.state.city_id && (this.state.city_id = D(this.state.barangay_id)), this.state.city_id && !this.state.province_id && (this.state.province_id = F(this.state.city_id)), (this.state.province_id || this.state.city_id || this.state.barangay_id) && !this.state.region_id && (this.state.region_id = z(this.state.province_id || this.state.city_id || this.state.barangay_id)), this.state.region_id || this.state.province_id || this.state.city_id || this.state.barangay_id ? await this.setValue(this.state, !1) : (this.updateSummary(), this.updateHiddenInputs(), this.renderCurrentLevel());
+    await this.loadRegions(), this.state.barangay_id && !this.state.city_id && (this.state.city_id = z(this.state.barangay_id)), this.state.city_id && !this.state.province_id && (this.state.province_id = C(this.state.city_id)), (this.state.province_id || this.state.city_id || this.state.barangay_id) && !this.state.region_id && (this.state.region_id = R(this.state.province_id || this.state.city_id || this.state.barangay_id)), this.state.region_id || this.state.province_id || this.state.city_id || this.state.barangay_id ? await this.setValue(this.state, !1) : (this.updateSummary(), this.updateHiddenInputs(), this.renderCurrentLevel());
   }
   renderShell() {
-    this.root = document.createElement("div"), this.root.className = si(
+    this.root = document.createElement("div"), this.root.className = Gi(
       "plmp__location-picker",
       "ph-location-picker",
       `plmp--theme-${this.theme}`,
@@ -275,13 +275,13 @@ class hi {
     return !!this.state.province_id || this.lists.province.length > 0;
   }
   open() {
-    this.disabled || this.busy || this.modalEl.hidden && (this.previousFocusEl = document.activeElement instanceof HTMLElement ? document.activeElement : null, this.modalEl.hidden = !1, this.modalEl.classList.add("is-open"), this.openButtonEl && this.openButtonEl.setAttribute("aria-expanded", "true"), this.modalInertElements = ci(this.modalEl, !0), document.documentElement.classList.add("plmp-modal-open"), document.addEventListener("focusin", this.boundDocumentFocus, !0), document.addEventListener("keydown", this.boundDocumentKeydown, !0), this.setActiveLevel(this.firstIncompleteLevel()), setTimeout(() => {
-      const e = Ke(this.modalEl);
+    this.disabled || this.busy || this.modalEl.hidden && (this.previousFocusEl = document.activeElement instanceof HTMLElement ? document.activeElement : null, this.modalEl.hidden = !1, this.modalEl.classList.add("is-open"), this.openButtonEl && this.openButtonEl.setAttribute("aria-expanded", "true"), this.modalInertElements = Zi(this.modalEl, !0), document.documentElement.classList.add("plmp-modal-open"), document.addEventListener("focusin", this.boundDocumentFocus, !0), document.addEventListener("keydown", this.boundDocumentKeydown, !0), this.setActiveLevel(this.firstIncompleteLevel()), setTimeout(() => {
+      const e = pt(this.modalEl);
       (this.searchEl || e[0] || this.dialogEl)?.focus();
     }, 0), this.emit("open", { open: !0 }), this.emit("openchange", { open: !0 }));
   }
   close() {
-    !this.modalEl || this.modalEl.hidden || (this.modalEl.classList.remove("is-open"), this.modalEl.hidden = !0, this.searchTerm = "", this.searchEl.value = "", this.openButtonEl && this.openButtonEl.setAttribute("aria-expanded", "false"), this.modalInertElements.forEach((e) => st(e, !1)), this.modalInertElements = [], document.documentElement.classList.remove("plmp-modal-open"), document.removeEventListener("focusin", this.boundDocumentFocus, !0), document.removeEventListener("keydown", this.boundDocumentKeydown, !0), this.previousFocusEl && typeof this.previousFocusEl.focus == "function" && document.contains(this.previousFocusEl) && setTimeout(() => this.previousFocusEl.focus(), 0), this.emit("close", { open: !1 }), this.emit("openchange", { open: !1 }));
+    !this.modalEl || this.modalEl.hidden || (this.modalEl.classList.remove("is-open"), this.modalEl.hidden = !0, this.searchTerm = "", this.searchEl.value = "", this.openButtonEl && this.openButtonEl.setAttribute("aria-expanded", "false"), this.modalInertElements.forEach((e) => St(e, !1)), this.modalInertElements = [], document.documentElement.classList.remove("plmp-modal-open"), document.removeEventListener("focusin", this.boundDocumentFocus, !0), document.removeEventListener("keydown", this.boundDocumentKeydown, !0), this.previousFocusEl && typeof this.previousFocusEl.focus == "function" && document.contains(this.previousFocusEl) && setTimeout(() => this.previousFocusEl.focus(), 0), this.emit("close", { open: !1 }), this.emit("openchange", { open: !1 }));
   }
   handleDocumentKeydown(e) {
     if (!this.modalEl.hidden) {
@@ -295,34 +295,34 @@ class hi {
   enforceModalFocus(e) {
     if (this.modalEl.hidden || this.modalEl.contains(e.target))
       return;
-    (Ke(this.modalEl)[0] || this.dialogEl)?.focus();
+    (pt(this.modalEl)[0] || this.dialogEl)?.focus();
   }
   trapModalFocus(e) {
-    const i = Ke(this.modalEl);
+    const i = pt(this.modalEl);
     if (i.length === 0) {
       e.preventDefault();
       return;
     }
-    const n = i[0], r = i[i.length - 1];
-    if (e.shiftKey && document.activeElement === n) {
-      e.preventDefault(), r.focus();
+    const r = i[0], n = i[i.length - 1];
+    if (e.shiftKey && document.activeElement === r) {
+      e.preventDefault(), n.focus();
       return;
     }
-    !e.shiftKey && document.activeElement === r && (e.preventDefault(), n.focus());
+    !e.shiftKey && document.activeElement === n && (e.preventDefault(), r.focus());
   }
   firstIncompleteLevel() {
     return this.state.region_id ? this.hasProvinceStep() && !this.state.province_id ? "province" : this.state.city_id ? "barangay" : "city" : "region";
   }
   async setActiveLevel(e) {
-    bt.includes(e) && (e === "province" && !this.state.region_id && (e = "region"), e === "province" && this.state.region_id && this.lists.province.length === 0 && await this.loadProvinces(), e === "province" && this.state.region_id && this.lists.province.length === 0 && (e = "city"), e === "city" && !this.state.region_id && (e = "region"), e === "city" && this.hasProvinceStep() && !this.state.province_id && (e = "province"), e === "barangay" && !this.state.city_id && (e = this.firstIncompleteLevel()), this.activeLevel = e, this.searchTerm = "", this.searchEl.value = "", e === "region" && this.lists.region.length === 0 && await this.loadRegions(), e === "province" && this.lists.province.length === 0 && await this.loadProvinces(), e === "city" && this.lists.city.length === 0 && await this.loadCities(), e === "barangay" && this.lists.barangay.length === 0 && await this.loadBarangays(), this.renderCurrentLevel());
+    Dt.includes(e) && (e === "province" && !this.state.region_id && (e = "region"), e === "province" && this.state.region_id && this.lists.province.length === 0 && await this.loadProvinces(), e === "province" && this.state.region_id && this.lists.province.length === 0 && (e = "city"), e === "city" && !this.state.region_id && (e = "region"), e === "city" && this.hasProvinceStep() && !this.state.province_id && (e = "province"), e === "barangay" && !this.state.city_id && (e = this.firstIncompleteLevel()), this.activeLevel = e, this.searchTerm = "", this.searchEl.value = "", e === "region" && this.lists.region.length === 0 && await this.loadRegions(), e === "province" && this.lists.province.length === 0 && await this.loadProvinces(), e === "city" && this.lists.city.length === 0 && await this.loadCities(), e === "barangay" && this.lists.barangay.length === 0 && await this.loadBarangays(), this.renderCurrentLevel());
   }
   ensureSelectedRows() {
-    const e = (i, n, r) => {
-      const a = S(this.state[n]), s = String(this.state[r] || "").trim();
+    const e = (i, r, n) => {
+      const a = k(this.state[r]), s = String(this.state[n] || "").trim();
       if (!a || !s)
         return;
       const o = this.lists[i] || [];
-      o.some((l) => Ce(l) === a) || (this.lists[i] = [...o, { id: a, code: a, name: s }].sort((l, h) => de(l).localeCompare(de(h))));
+      o.some((l) => De(l) === a) || (this.lists[i] = [...o, { id: a, code: a, name: s }].sort((l, d) => be(l).localeCompare(be(d))));
     };
     e("region", "region_id", "region_name"), e("province", "province_id", "province_name"), e("city", "city_id", "city_name"), e("barangay", "barangay_id", "barangay_name");
   }
@@ -334,19 +334,19 @@ class hi {
       return;
     }
     this.listEl.innerHTML = e.map((i) => {
-      const n = Ce(i), r = this.state[`${this.activeLevel}_id`] === n, a = this.disabled || this.readOnly;
-      return `<button class="plmp__option ph-location-picker__option${r ? " is-selected" : ""}" type="button" role="option" aria-selected="${r ? "true" : "false"}" data-lp-option="${P(n)}"${a ? ' disabled aria-disabled="true"' : ""}>${P(de(i))}</button>`;
+      const r = De(i), n = this.state[`${this.activeLevel}_id`] === r, a = this.disabled || this.readOnly;
+      return `<button class="plmp__option ph-location-picker__option${n ? " is-selected" : ""}" type="button" role="option" aria-selected="${n ? "true" : "false"}" data-lp-option="${P(r)}"${a ? ' disabled aria-disabled="true"' : ""}>${P(be(i))}</button>`;
     }).join(""), this.listEl.querySelectorAll("[data-lp-option]").forEach((i) => {
       i.addEventListener("click", () => {
-        const n = i.getAttribute("data-lp-option"), r = (this.lists[this.activeLevel] || []).find((a) => Ce(a) === n);
-        r && this.selectRow(this.activeLevel, r).catch((a) => this.setMessage(a.message || "Location data could not be loaded.", "error"));
+        const r = i.getAttribute("data-lp-option"), n = (this.lists[this.activeLevel] || []).find((a) => De(a) === r);
+        n && this.selectRow(this.activeLevel, n).catch((a) => this.setMessage(a.message || "Location data could not be loaded.", "error"));
       });
     });
   }
   renderTabs() {
     this.root.querySelectorAll("[data-lp-level]").forEach((e) => {
-      const i = e.getAttribute("data-lp-level"), n = this.hasProvinceStep(), r = this.disabled || i === "province" && !this.state.region_id || i === "province" && this.state.region_id && this.lists.province.length === 0 || i === "city" && (!this.state.region_id || n && !this.state.province_id) || i === "barangay" && !this.state.city_id;
-      e.classList.toggle("is-active", i === this.activeLevel), e.setAttribute("aria-selected", i === this.activeLevel ? "true" : "false"), e.setAttribute("tabindex", i === this.activeLevel ? "0" : "-1"), e.setAttribute("aria-controls", this.listId), e.disabled = r;
+      const i = e.getAttribute("data-lp-level"), r = this.hasProvinceStep(), n = this.disabled || i === "province" && !this.state.region_id || i === "province" && this.state.region_id && this.lists.province.length === 0 || i === "city" && (!this.state.region_id || r && !this.state.province_id) || i === "barangay" && !this.state.city_id;
+      e.classList.toggle("is-active", i === this.activeLevel), e.setAttribute("aria-selected", i === this.activeLevel ? "true" : "false"), e.setAttribute("tabindex", i === this.activeLevel ? "0" : "-1"), e.setAttribute("aria-controls", this.listId), e.disabled = n;
     });
   }
   renderPath() {
@@ -354,17 +354,17 @@ class hi {
     this.pathEl.textContent = e.length ? e.join(" → ") : "No location selected yet.";
   }
   filteredRows(e) {
-    const i = ft(this.searchTerm);
-    return i ? e.filter((n) => ft(de(n)).includes(i)) : e;
+    const i = Tt(this.searchTerm);
+    return i ? e.filter((r) => Tt(be(r)).includes(i)) : e;
   }
   async selectRow(e, i) {
     if (this.busy || this.disabled || this.readOnly)
       return;
-    const n = Ce(i), r = de(i);
+    const r = De(i), n = be(i);
     if (this.setMessage("", ""), e === "region") {
       Object.assign(this.state, {
-        region_id: n,
-        region_name: r,
+        region_id: r,
+        region_name: n,
         province_id: "",
         province_name: "",
         city_id: "",
@@ -376,8 +376,8 @@ class hi {
     }
     if (e === "province") {
       Object.assign(this.state, {
-        province_id: n,
-        province_name: r,
+        province_id: r,
+        province_name: n,
         city_id: "",
         city_name: "",
         barangay_id: "",
@@ -387,18 +387,18 @@ class hi {
     }
     if (e === "city") {
       Object.assign(this.state, {
-        city_id: n,
-        city_name: r,
+        city_id: r,
+        city_name: n,
         barangay_id: "",
         barangay_name: ""
       }), this.lists.barangay = [], await this.loadBarangays(), await this.setActiveLevel("barangay");
       return;
     }
-    e === "barangay" && (Object.assign(this.state, { barangay_id: n, barangay_name: r }), this.updateHiddenInputs(), this.updateSummary(), this.renderCurrentLevel(), this.emit("change", this.currentLocation()));
+    e === "barangay" && (Object.assign(this.state, { barangay_id: r, barangay_name: n }), this.updateHiddenInputs(), this.updateSummary(), this.renderCurrentLevel(), this.emit("change", this.currentLocation()));
   }
-  async setValue(e = {}, i = !0, n = {}) {
-    if (n.hydrate !== !1 && !e.resolved && !ui(e)) {
-      const a = S(e.barangay_id || this.state.barangay_id), s = S(e.city_id || this.state.city_id || D(a)), o = S(e.province_id || this.state.province_id || F(s || a)), l = S(e.region_id || this.state.region_id || z(o || s || a));
+  async setValue(e = {}, i = !0, r = {}) {
+    if (r.hydrate !== !1 && !e.resolved && !Wi(e)) {
+      const a = k(e.barangay_id || this.state.barangay_id), s = k(e.city_id || this.state.city_id || z(a)), o = k(e.province_id || this.state.province_id || C(s || a)), l = k(e.region_id || this.state.region_id || R(o || s || a));
       Object.assign(this.state, await this.provider.getLocationByIds({
         region_id: l,
         region_name: e.region_name,
@@ -410,7 +410,7 @@ class hi {
         barangay_name: e.barangay_name
       }));
     } else
-      Object.assign(this.state, li(e));
+      Object.assign(this.state, Ki(e));
     return await this.loadProvinces().catch(() => {
       this.lists.province = [];
     }), await this.loadCities().catch(() => {
@@ -420,12 +420,12 @@ class hi {
     }), this.ensureSelectedRows(), this.updateHiddenInputs(), this.updateSummary(), this.renderCurrentLevel(), i && this.emit("change", this.currentLocation()), this.currentLocation();
   }
   validate() {
-    const e = se[this.requiredLevel] || se.barangay, i = [], n = [];
-    return e >= se.region && !this.state.region_id && (i.push("region"), n.push(this.validationMessages.region)), e === se.province && !this.state.province_id && (i.push("province"), n.push(this.validationMessages.province)), e >= se.city && !this.state.city_id && (i.push("city"), n.push(this.validationMessages.city)), e >= se.barangay && !this.state.barangay_id && (i.push("barangay"), n.push(this.validationMessages.barangay)), {
+    const e = le[this.requiredLevel] || le.barangay, i = [], r = [];
+    return e >= le.region && !this.state.region_id && (i.push("region"), r.push(this.validationMessages.region)), e === le.province && !this.state.province_id && (i.push("province"), r.push(this.validationMessages.province)), e >= le.city && !this.state.city_id && (i.push("city"), r.push(this.validationMessages.city)), e >= le.barangay && !this.state.barangay_id && (i.push("barangay"), r.push(this.validationMessages.barangay)), {
       valid: i.length === 0,
       required_location_level: this.requiredLevel,
       missing: i,
-      messages: n,
+      messages: r,
       location: this.currentLocation()
     };
   }
@@ -467,7 +467,7 @@ class hi {
     this.summaryEl.textContent = this.displayLabel() || this.placeholder, this.root.querySelector(".ph-location-picker__control").classList.toggle("is-selected", !!this.state.barangay_id);
   }
   updateHiddenInputs() {
-    G(this.hiddenInputs.regionId, this.state.region_id), G(this.hiddenInputs.regionName, this.state.region_name), G(this.hiddenInputs.provinceId, this.state.province_id), G(this.hiddenInputs.provinceName, this.state.province_name), G(this.hiddenInputs.cityId, this.state.city_id), G(this.hiddenInputs.cityName, this.state.city_name), G(this.hiddenInputs.barangayId, this.state.barangay_id), G(this.hiddenInputs.barangayName, this.state.barangay_name), G(this.hiddenInputs.label, this.displayLabel());
+    V(this.hiddenInputs.regionId, this.state.region_id), V(this.hiddenInputs.regionName, this.state.region_name), V(this.hiddenInputs.provinceId, this.state.province_id), V(this.hiddenInputs.provinceName, this.state.province_name), V(this.hiddenInputs.cityId, this.state.city_id), V(this.hiddenInputs.cityName, this.state.city_name), V(this.hiddenInputs.barangayId, this.state.barangay_id), V(this.hiddenInputs.barangayName, this.state.barangay_name), V(this.hiddenInputs.label, this.displayLabel());
   }
   currentLocation() {
     const e = this.displayLabel();
@@ -477,66 +477,66 @@ class hi {
     this.messageEl.textContent = e || "", this.messageEl.classList.toggle("is-error", i === "error");
   }
   destroy() {
-    this.modalEl && !this.modalEl.hidden && this.close(), this.modalInertElements.forEach((e) => st(e, !1)), this.modalInertElements = [], document.removeEventListener("focusin", this.boundDocumentFocus, !0), document.removeEventListener("keydown", this.boundDocumentKeydown, !0), this.handlers = {}, this.mount.innerHTML = "", document.documentElement.classList.remove("plmp-modal-open");
+    this.modalEl && !this.modalEl.hidden && this.close(), this.modalInertElements.forEach((e) => St(e, !1)), this.modalInertElements = [], document.removeEventListener("focusin", this.boundDocumentFocus, !0), document.removeEventListener("keydown", this.boundDocumentKeydown, !0), this.handlers = {}, this.mount.innerHTML = "", document.documentElement.classList.remove("plmp-modal-open");
   }
 }
-function re(t) {
+function oe(t) {
   return t ? Array.isArray(t) && t.length >= 4 ? { south: Number(t[0]), west: Number(t[1]), north: Number(t[2]), east: Number(t[3]) } : typeof t == "object" ? { south: Number(t.south), west: Number(t.west), north: Number(t.north), east: Number(t.east) } : null : null;
 }
-function ue(t) {
-  const e = re(t);
+function ye(t) {
+  const e = oe(t);
   return e ? { lat: (e.south + e.north) / 2, lng: (e.west + e.east) / 2 } : null;
 }
-function ze(t, e, i) {
-  const n = re(t);
-  return !!n && e >= n.south && e <= n.north && i >= n.west && i <= n.east;
+function Xe(t, e, i) {
+  const r = oe(t);
+  return !!r && e >= r.south && e <= r.north && i >= r.west && i <= r.east;
 }
-const Z = 256, di = 40075.016686;
-function te(t, e, i) {
+const Z = 256, Xi = 40075.016686;
+function re(t, e, i) {
   return Math.max(e, Math.min(i, t));
 }
-function Dt(t) {
+function gi(t) {
   return t * Math.PI / 180;
 }
-function mi(t) {
+function Qi(t) {
   return t * 180 / Math.PI;
 }
-function X(t, e, i) {
-  const n = Z * Math.pow(2, i), r = Math.sin(Dt(te(t, -85.05112878, 85.05112878)));
+function Q(t, e, i) {
+  const r = Z * Math.pow(2, i), n = Math.sin(gi(re(t, -85.05112878, 85.05112878)));
   return {
-    x: (e + 180) / 360 * n,
-    y: (0.5 - Math.log((1 + r) / (1 - r)) / (4 * Math.PI)) * n
+    x: (e + 180) / 360 * r,
+    y: (0.5 - Math.log((1 + n) / (1 - n)) / (4 * Math.PI)) * r
   };
 }
-function We(t, e, i) {
-  const n = Z * Math.pow(2, i), r = t / n * 360 - 180, a = Math.PI - 2 * Math.PI * e / n;
-  return { lat: mi(Math.atan(Math.sinh(a))), lng: r };
+function ft(t, e, i) {
+  const r = Z * Math.pow(2, i), n = t / r * 360 - 180, a = Math.PI - 2 * Math.PI * e / r;
+  return { lat: Qi(Math.atan(Math.sinh(a))), lng: n };
 }
-function Ye(t) {
+function yt(t) {
   return String(t || "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/\"/g, "&quot;").replace(/'/g, "&#039;");
 }
-function Me(t, e, i) {
-  const n = String(t || "").trim().toLowerCase();
-  return e.includes(n) ? n : i;
+function Ue(t, e, i) {
+  const r = String(t || "").trim().toLowerCase();
+  return e.includes(r) ? r : i;
 }
-function pi(...t) {
+function er(...t) {
   return t.flatMap((e) => String(e || "").split(/\s+/)).map((e) => e.trim()).filter(Boolean).join(" ");
 }
-function gi(t, e) {
+function tr(t, e) {
   const i = Number(t);
   return Number.isFinite(i) && i >= 0 ? Math.round(i) : e;
 }
-function yi(t, e) {
+function ir(t, e) {
   if (t == null || t === "")
     return e;
   const i = Number(t);
   return Number.isFinite(i) ? Math.round(i) : e;
 }
-function jt(t, e) {
+function bi(t, e) {
   const i = Number(t);
   return Number.isFinite(i) && i > 0 ? i : e;
 }
-function N(t, e = null) {
+function B(t, e = null) {
   if (t == null || t === "")
     return e;
   if (typeof t == "number")
@@ -544,7 +544,7 @@ function N(t, e = null) {
   const i = String(t).trim();
   return i && (i === "auto" || /^(?:\d+|\d*\.\d+)(?:px|rem|em|%|vh|vw|vmin|vmax|dvh|svh|lvh)$/i.test(i) || /^(?:calc|clamp|min|max)\([^;{}]+\)$/i.test(i)) ? i : e;
 }
-function _t(t, e = null) {
+function Ut(t, e = null) {
   if (t == null || t === "")
     return e;
   if (typeof t == "number")
@@ -552,32 +552,32 @@ function _t(t, e = null) {
   const i = String(t).trim();
   return i && (i === "auto" || /^(?:\d+|\d*\.\d+)(?:\s*\/\s*(?:\d+|\d*\.\d+))?$/.test(i)) ? i : e;
 }
-function fi(t, e, i, n, r) {
-  const a = Math.max(Number(e) || 0, 320), s = jt(i, 800), o = Math.max(Math.cos(Dt(te(t, -85.05112878, 85.05112878))), 0.01);
-  for (let l = r; l >= n; l--) {
-    const h = Z * Math.pow(2, l);
-    if (di * o / h * a >= s)
+function rr(t, e, i, r, n) {
+  const a = Math.max(Number(e) || 0, 320), s = bi(i, 800), o = Math.max(Math.cos(gi(re(t, -85.05112878, 85.05112878))), 0.01);
+  for (let l = n; l >= r; l--) {
+    const d = Z * Math.pow(2, l);
+    if (Xi * o / d * a >= s)
       return l;
   }
-  return n;
+  return r;
 }
-function vt(t, e = {}) {
+function Ht(t, e = {}) {
   return t === "barangay" ? Number.isFinite(e.selectedZoom) ? e.selectedZoom : 15 : t === "city" ? Number.isFinite(e.cityZoom) ? e.cityZoom : 12 : t === "province" ? Number.isFinite(e.provinceZoom) ? e.provinceZoom : 9 : Number.isFinite(e.regionZoom) ? e.regionZoom : 7;
 }
-class bi {
+class nr {
   constructor(e = {}) {
     if (!e.mount)
       throw new Error("MapPicker requires a mount element.");
-    this.mount = e.mount, this.provider = e.provider || null, this.tileUrlTemplate = e.tileUrlTemplate == null ? "" : String(e.tileUrlTemplate).trim(), this.tileAttribution = e.tileAttribution == null ? "" : String(e.tileAttribution).trim(), this.minZoom = Number.isFinite(e.minZoom) ? e.minZoom : 5, this.maxZoom = Number.isFinite(e.maxZoom) ? e.maxZoom : 19, this.zoom = Number.isFinite(e.defaultZoom) ? e.defaultZoom : 11, this.center = e.defaultCenter || { lat: 14.17, lng: 122.83 }, this.pin = e.defaultPin || null, this.polygon = null, this.handlers = {}, this.theme = Me(e.theme, ["light", "dark", "auto"], "light"), this.size = Me(e.size, ["compact", "comfortable", "spacious"], "comfortable"), this.density = Me(e.density, ["tight", "normal", "relaxed"], "normal"), this.className = e.className || "", this.disabled = e.disabled === !0, this.readOnly = e.readOnly === !0 || e.readonly === !0, this.busy = e.busy === !0, this.busyReason = "", this.statusText = e.statusText || "Click the map to place the pin.", this.showStatus = e.showStatus !== !1, this.clickToPlacePin = e.clickToPlacePin !== !1, this.pinDraggable = e.pinDraggable !== !1, this.mouseWheelZoomCentered = e.mouseWheelZoomCentered !== !1, this.showBoundary = e.showBoundary !== !1, this.fitBoundaryOnSelection = e.fitBoundaryOnSelection !== !1, this.boundaryPadding = gi(e.boundaryPadding, 24), this.selectedZoom = Number.isFinite(Number(e.selectedZoom)) ? Number(e.selectedZoom) : 15, this.cityZoom = Number.isFinite(Number(e.cityZoom)) ? Number(e.cityZoom) : 12, this.provinceZoom = Number.isFinite(Number(e.provinceZoom)) ? Number(e.provinceZoom) : 9, this.regionZoom = Number.isFinite(Number(e.regionZoom)) ? Number(e.regionZoom) : 7, this.centerOnPin = e.centerOnPin !== !1, this.pinMode = Me(e.pinMode, ["centered", "free"], e.lockPinToCenter === !1 ? "free" : "centered"), this.firstPinVisibleWidthKm = jt(e.firstPinVisibleWidthKm, 800), this.firstPinZoom = yi(e.firstPinZoom, null), this.zoomOnFirstPin = e.zoomOnFirstPin !== !1, this.mapHeight = N(e.mapHeight ?? e.height, null), this.mapMinHeight = N(e.mapMinHeight ?? e.minHeight, null), this.mapMaxHeight = N(e.mapMaxHeight ?? e.maxHeight, null), this.mapWidth = N(e.mapWidth ?? e.width, null), this.mapMinWidth = N(e.mapMinWidth ?? e.minWidth, null), this.mapMaxWidth = N(e.mapMaxWidth ?? e.maxWidth, null), this.mapAspectRatio = _t(e.mapAspectRatio ?? e.aspectRatio, null), this.isDragging = !1, this.isPinDragging = !1, this.dragStart = null, this.isClickSuppressed = !1, this.resizeObserver = null, this.windowResizeHandler = null, this.resizeRenderFrame = null, this.renderShell(), this.bindEvents(), this.observeResize(), this.render();
+    this.mount = e.mount, this.provider = e.provider || null, this.tileUrlTemplate = e.tileUrlTemplate == null ? "" : String(e.tileUrlTemplate).trim(), this.tileAttribution = e.tileAttribution == null ? "" : String(e.tileAttribution).trim(), this.minZoom = Number.isFinite(e.minZoom) ? e.minZoom : 5, this.maxZoom = Number.isFinite(e.maxZoom) ? e.maxZoom : 19, this.zoom = Number.isFinite(e.defaultZoom) ? e.defaultZoom : 11, this.center = e.defaultCenter || { lat: 14.17, lng: 122.83 }, this.pin = e.defaultPin || null, this.polygon = null, this.handlers = {}, this.theme = Ue(e.theme, ["light", "dark", "auto"], "light"), this.size = Ue(e.size, ["compact", "comfortable", "spacious"], "comfortable"), this.density = Ue(e.density, ["tight", "normal", "relaxed"], "normal"), this.className = e.className || "", this.disabled = e.disabled === !0, this.readOnly = e.readOnly === !0 || e.readonly === !0, this.busy = e.busy === !0, this.busyReason = "", this.statusText = e.statusText || "Click the map to place the pin.", this.showStatus = e.showStatus !== !1, this.clickToPlacePin = e.clickToPlacePin !== !1, this.pinDraggable = e.pinDraggable !== !1, this.mouseWheelZoomCentered = e.mouseWheelZoomCentered !== !1, this.showBoundary = e.showBoundary !== !1, this.fitBoundaryOnSelection = e.fitBoundaryOnSelection !== !1, this.boundaryPadding = tr(e.boundaryPadding, 24), this.selectedZoom = Number.isFinite(Number(e.selectedZoom)) ? Number(e.selectedZoom) : 15, this.cityZoom = Number.isFinite(Number(e.cityZoom)) ? Number(e.cityZoom) : 12, this.provinceZoom = Number.isFinite(Number(e.provinceZoom)) ? Number(e.provinceZoom) : 9, this.regionZoom = Number.isFinite(Number(e.regionZoom)) ? Number(e.regionZoom) : 7, this.centerOnPin = e.centerOnPin !== !1, this.pinMode = Ue(e.pinMode, ["centered", "free"], e.lockPinToCenter === !1 ? "free" : "centered"), this.firstPinVisibleWidthKm = bi(e.firstPinVisibleWidthKm, 800), this.firstPinZoom = ir(e.firstPinZoom, null), this.zoomOnFirstPin = e.zoomOnFirstPin !== !1, this.mapHeight = B(e.mapHeight ?? e.height, null), this.mapMinHeight = B(e.mapMinHeight ?? e.minHeight, null), this.mapMaxHeight = B(e.mapMaxHeight ?? e.maxHeight, null), this.mapWidth = B(e.mapWidth ?? e.width, null), this.mapMinWidth = B(e.mapMinWidth ?? e.minWidth, null), this.mapMaxWidth = B(e.mapMaxWidth ?? e.maxWidth, null), this.mapAspectRatio = Ut(e.mapAspectRatio ?? e.aspectRatio, null), this.isDragging = !1, this.isPinDragging = !1, this.dragStart = null, this.isClickSuppressed = !1, this.resizeObserver = null, this.windowResizeHandler = null, this.resizeRenderFrame = null, this.renderShell(), this.bindEvents(), this.observeResize(), this.render();
   }
   on(e, i) {
     return this.handlers[e] || (this.handlers[e] = []), this.handlers[e].push(i), this;
   }
   off(e, i) {
-    return this.handlers[e] ? typeof i != "function" ? (this.handlers[e] = [], this) : (this.handlers[e] = this.handlers[e].filter((n) => n !== i), this) : this;
+    return this.handlers[e] ? typeof i != "function" ? (this.handlers[e] = [], this) : (this.handlers[e] = this.handlers[e].filter((r) => r !== i), this) : this;
   }
   emit(e, i) {
-    (this.handlers[e] || []).forEach((n) => n(i));
+    (this.handlers[e] || []).forEach((r) => r(i));
   }
   hasCenteredPin() {
     return this.pinMode === "centered" && !!this.pin;
@@ -586,7 +586,7 @@ class bi {
     this.hasCenteredPin() && (this.pin = { ...this.center }, this.statusEl.textContent = `Pin: ${this.pin.lat.toFixed(6)}, ${this.pin.lng.toFixed(6)}`, e && this.emit("pinchange", this.pin));
   }
   renderShell() {
-    this.root = document.createElement("div"), this.root.className = pi(
+    this.root = document.createElement("div"), this.root.className = er(
       "plmp__map-picker",
       "ph-map-picker",
       `plmp--theme-${this.theme}`,
@@ -605,9 +605,9 @@ class bi {
           <button type="button" data-map-zoom-in aria-label="Zoom in">+</button>
           <button type="button" data-map-zoom-out aria-label="Zoom out">−</button>
         </div>
-        <div class="plmp__map-attribution ph-map-picker__attribution" data-map-attribution${this.tileAttribution ? "" : " hidden"}>${Ye(this.tileAttribution)}</div>
+        <div class="plmp__map-attribution ph-map-picker__attribution" data-map-attribution${this.tileAttribution ? "" : " hidden"}>${yt(this.tileAttribution)}</div>
       </div>
-      <div class="plmp__map-status ph-map-picker__status" data-map-status${this.showStatus ? "" : " hidden"}>${Ye(this.statusText)}</div>
+      <div class="plmp__map-status ph-map-picker__status" data-map-status${this.showStatus ? "" : " hidden"}>${yt(this.statusText)}</div>
     `, this.applySizeStyles(), this.mount.innerHTML = "", this.mount.appendChild(this.root), this.canvasEl = this.root.querySelector("[data-map-canvas]"), this.tilesEl = this.root.querySelector("[data-map-tiles]"), this.overlayEl = this.root.querySelector("[data-map-overlay]"), this.pinEl = this.root.querySelector("[data-map-pin]"), this.statusEl = this.root.querySelector("[data-map-status]"), this.hudEl = this.root.querySelector("[data-map-hud]"), this.attributionEl = this.root.querySelector("[data-map-attribution]"), this.applyInteractionState();
   }
   applySizeStyles() {
@@ -622,12 +622,12 @@ class bi {
       "--plmp-map-max-width": this.mapMaxWidth,
       "--plmp-map-aspect-ratio": this.mapAspectRatio
     };
-    return Object.entries(e).forEach(([i, n]) => {
-      n == null || n === "" ? this.root.style.removeProperty(i) : this.root.style.setProperty(i, n);
+    return Object.entries(e).forEach(([i, r]) => {
+      r == null || r === "" ? this.root.style.removeProperty(i) : this.root.style.setProperty(i, r);
     }), this;
   }
   setSize(e = {}) {
-    return (Object.prototype.hasOwnProperty.call(e, "mapHeight") || Object.prototype.hasOwnProperty.call(e, "height")) && (this.mapHeight = N(e.mapHeight ?? e.height, null)), (Object.prototype.hasOwnProperty.call(e, "mapMinHeight") || Object.prototype.hasOwnProperty.call(e, "minHeight")) && (this.mapMinHeight = N(e.mapMinHeight ?? e.minHeight, null)), (Object.prototype.hasOwnProperty.call(e, "mapMaxHeight") || Object.prototype.hasOwnProperty.call(e, "maxHeight")) && (this.mapMaxHeight = N(e.mapMaxHeight ?? e.maxHeight, null)), (Object.prototype.hasOwnProperty.call(e, "mapWidth") || Object.prototype.hasOwnProperty.call(e, "width")) && (this.mapWidth = N(e.mapWidth ?? e.width, null)), (Object.prototype.hasOwnProperty.call(e, "mapMinWidth") || Object.prototype.hasOwnProperty.call(e, "minWidth")) && (this.mapMinWidth = N(e.mapMinWidth ?? e.minWidth, null)), (Object.prototype.hasOwnProperty.call(e, "mapMaxWidth") || Object.prototype.hasOwnProperty.call(e, "maxWidth")) && (this.mapMaxWidth = N(e.mapMaxWidth ?? e.maxWidth, null)), (Object.prototype.hasOwnProperty.call(e, "mapAspectRatio") || Object.prototype.hasOwnProperty.call(e, "aspectRatio")) && (this.mapAspectRatio = _t(e.mapAspectRatio ?? e.aspectRatio, null)), this.applySizeStyles(), this.resize(), this;
+    return (Object.prototype.hasOwnProperty.call(e, "mapHeight") || Object.prototype.hasOwnProperty.call(e, "height")) && (this.mapHeight = B(e.mapHeight ?? e.height, null)), (Object.prototype.hasOwnProperty.call(e, "mapMinHeight") || Object.prototype.hasOwnProperty.call(e, "minHeight")) && (this.mapMinHeight = B(e.mapMinHeight ?? e.minHeight, null)), (Object.prototype.hasOwnProperty.call(e, "mapMaxHeight") || Object.prototype.hasOwnProperty.call(e, "maxHeight")) && (this.mapMaxHeight = B(e.mapMaxHeight ?? e.maxHeight, null)), (Object.prototype.hasOwnProperty.call(e, "mapWidth") || Object.prototype.hasOwnProperty.call(e, "width")) && (this.mapWidth = B(e.mapWidth ?? e.width, null)), (Object.prototype.hasOwnProperty.call(e, "mapMinWidth") || Object.prototype.hasOwnProperty.call(e, "minWidth")) && (this.mapMinWidth = B(e.mapMinWidth ?? e.minWidth, null)), (Object.prototype.hasOwnProperty.call(e, "mapMaxWidth") || Object.prototype.hasOwnProperty.call(e, "maxWidth")) && (this.mapMaxWidth = B(e.mapMaxWidth ?? e.maxWidth, null)), (Object.prototype.hasOwnProperty.call(e, "mapAspectRatio") || Object.prototype.hasOwnProperty.call(e, "aspectRatio")) && (this.mapAspectRatio = Ut(e.mapAspectRatio ?? e.aspectRatio, null)), this.applySizeStyles(), this.resize(), this;
   }
   applyInteractionState() {
     this.root && (this.root.classList.toggle("is-disabled", this.disabled), this.root.classList.toggle("is-readonly", this.readOnly), this.root.classList.toggle("is-busy", this.busy), this.root.dataset.disabled = this.disabled ? "true" : "false", this.root.dataset.readonly = this.readOnly ? "true" : "false", this.root.dataset.busy = this.busy ? "true" : "false", this.root.dataset.busyReason = this.busyReason, this.root.setAttribute("aria-busy", this.busy ? "true" : "false"), this.root.querySelectorAll("[data-map-zoom-in], [data-map-zoom-out], [data-map-pin]").forEach((e) => {
@@ -674,7 +674,7 @@ class bi {
     }), this.canvasEl.addEventListener("wheel", (e) => {
       if (e.preventDefault(), this.disabled || this.busy || e.target.closest("[data-map-hud]"))
         return;
-      const i = te(this.zoom + (e.deltaY < 0 ? 1 : -1), this.minZoom, this.maxZoom);
+      const i = re(this.zoom + (e.deltaY < 0 ? 1 : -1), this.minZoom, this.maxZoom);
       if (i === this.zoom)
         return;
       if (this.hasCenteredPin()) {
@@ -685,10 +685,10 @@ class bi {
         this.zoom = i, this.render();
         return;
       }
-      const n = this.canvasEl.getBoundingClientRect(), r = e.clientX - n.left, a = e.clientY - n.top, s = this.pointFromEvent(e), o = X(s.lat, s.lng, i);
-      this.zoom = i, this.center = We(
-        o.x - r + n.width / 2,
-        o.y - a + n.height / 2,
+      const r = this.canvasEl.getBoundingClientRect(), n = e.clientX - r.left, a = e.clientY - r.top, s = this.pointFromEvent(e), o = Q(s.lat, s.lng, i);
+      this.zoom = i, this.center = ft(
+        o.x - n + r.width / 2,
+        o.y - a + r.height / 2,
         this.zoom
       ), this.render();
     }, { passive: !1 }), this.pinEl.addEventListener("pointerdown", (e) => {
@@ -707,15 +707,15 @@ class bi {
       this.disabled || this.busy || e.button !== 0 || e.target.closest("[data-map-hud]") || e.target.closest("[data-map-pin]") || (this.isDragging = !0, this.dragStart = {
         x: e.clientX,
         y: e.clientY,
-        centerPixel: X(this.center.lat, this.center.lng, this.zoom)
+        centerPixel: Q(this.center.lat, this.center.lng, this.zoom)
       }, this.canvasEl.setPointerCapture(e.pointerId));
     }), this.canvasEl.addEventListener("pointermove", (e) => {
       if (!this.isDragging || !this.dragStart)
         return;
-      const i = e.clientX - this.dragStart.x, n = e.clientY - this.dragStart.y;
-      (Math.abs(i) > 3 || Math.abs(n) > 3) && (this.isClickSuppressed = !0), this.center = We(
+      const i = e.clientX - this.dragStart.x, r = e.clientY - this.dragStart.y;
+      (Math.abs(i) > 3 || Math.abs(r) > 3) && (this.isClickSuppressed = !0), this.center = ft(
         this.dragStart.centerPixel.x - i,
-        this.dragStart.centerPixel.y - n,
+        this.dragStart.centerPixel.y - r,
         this.zoom
       ), this.readOnly || this.syncCenteredPin(!1), this.render();
     }), this.canvasEl.addEventListener("pointerup", (e) => {
@@ -743,16 +743,16 @@ class bi {
     return this.render(), this;
   }
   zoomAroundCanvasCenter(e) {
-    const i = te(this.zoom + e, this.minZoom, this.maxZoom);
+    const i = re(this.zoom + e, this.minZoom, this.maxZoom);
     i !== this.zoom && (this.zoom = i, !this.pin && this.statusEl && (this.statusEl.textContent = `Zoom: ${this.zoom}. ${this.statusText}`), this.render(), window.setTimeout(() => {
       this.isClickSuppressed = !1;
     }, 0));
   }
   pointFromEvent(e) {
-    const i = this.canvasEl.getBoundingClientRect(), n = X(this.center.lat, this.center.lng, this.zoom);
-    return We(
-      n.x - i.width / 2 + (e.clientX - i.left),
-      n.y - i.height / 2 + (e.clientY - i.top),
+    const i = this.canvasEl.getBoundingClientRect(), r = Q(this.center.lat, this.center.lng, this.zoom);
+    return ft(
+      r.x - i.width / 2 + (e.clientX - i.left),
+      r.y - i.height / 2 + (e.clientY - i.top),
       this.zoom
     );
   }
@@ -766,38 +766,38 @@ class bi {
     };
     if (!this.provider)
       return i;
-    const n = e.barangay_id ? "barangay" : e.city_id ? "city" : e.province_id ? "province" : e.region_id ? "region" : null, r = e.barangay_id || e.city_id || e.province_id || e.region_id;
-    if (!n || !r)
+    const r = e.barangay_id ? "barangay" : e.city_id ? "city" : e.province_id ? "province" : e.region_id ? "region" : null, n = e.barangay_id || e.city_id || e.province_id || e.region_id;
+    if (!r || !n)
       return this.polygon = null, this.render(), i;
-    i.level = n, i.id = r;
-    const a = await this.provider.getBounds(n, r).catch(() => null);
+    i.level = r, i.id = n;
+    const a = await this.provider.getBounds(r, n).catch(() => null);
     if (a)
       if (i.bounds = a, this.fitBoundaryOnSelection)
         this.fitBounds(a);
       else {
-        const s = re(a);
-        s && (this.center = ue(s)), this.zoom = vt(n, this);
+        const s = oe(a);
+        s && (this.center = ye(s)), this.zoom = Ht(r, this);
       }
     else {
-      const s = await this.provider.getCentroid(n, r).catch(() => null);
-      s && (i.centroid = s, this.center = s, this.zoom = vt(n, this));
+      const s = await this.provider.getCentroid(r, n).catch(() => null);
+      s && (i.centroid = s, this.center = s, this.zoom = Ht(r, this));
     }
     if (this.showBoundary) {
-      const s = await this.provider.getPolygon(n, r).catch(() => null);
+      const s = await this.provider.getPolygon(r, n).catch(() => null);
       this.polygon = Array.isArray(s) && s.length >= 3 ? s : null, i.polygon = this.polygon;
     } else
       this.polygon = null;
     return this.render(), i;
   }
   fitBounds(e) {
-    const i = re(e);
+    const i = oe(e);
     if (!i)
       return;
-    this.center = ue(i);
-    const n = this.canvasEl.getBoundingClientRect(), r = Math.max(n.width, 320), a = Math.max(n.height, 240), s = Math.max(120, r - this.boundaryPadding * 2), o = Math.max(120, a - this.boundaryPadding * 2);
+    this.center = ye(i);
+    const r = this.canvasEl.getBoundingClientRect(), n = Math.max(r.width, 320), a = Math.max(r.height, 240), s = Math.max(120, n - this.boundaryPadding * 2), o = Math.max(120, a - this.boundaryPadding * 2);
     for (let l = this.maxZoom; l >= this.minZoom; l--) {
-      const h = X(i.north, i.west, l), c = X(i.south, i.east, l);
-      if (Math.abs(c.x - h.x) <= s && Math.abs(c.y - h.y) <= o) {
+      const d = Q(i.north, i.west, l), c = Q(i.south, i.east, l);
+      if (Math.abs(c.x - d.x) <= s && Math.abs(c.y - d.y) <= o) {
         this.zoom = l;
         return;
       }
@@ -806,9 +806,9 @@ class bi {
   }
   firstPinTargetZoom(e) {
     if (Number.isFinite(this.firstPinZoom))
-      return te(this.firstPinZoom, this.minZoom, this.maxZoom);
+      return re(this.firstPinZoom, this.minZoom, this.maxZoom);
     const i = this.canvasEl.getBoundingClientRect();
-    return fi(
+    return rr(
       Number(e && e.lat),
       Math.max(i.width, this.canvasEl.clientWidth, 320),
       this.firstPinVisibleWidthKm,
@@ -816,24 +816,24 @@ class bi {
       this.maxZoom
     );
   }
-  setCenter(e, i = this.zoom, n = "") {
-    const r = Number(e && e.lat), a = Number(e && e.lng);
-    if (!Number.isFinite(r) || !Number.isFinite(a))
+  setCenter(e, i = this.zoom, r = "") {
+    const n = Number(e && e.lat), a = Number(e && e.lng);
+    if (!Number.isFinite(n) || !Number.isFinite(a))
       return;
     const s = Number.isFinite(Number(i)) ? Number(i) : this.zoom;
-    this.center = { lat: r, lng: a }, this.zoom = te(s, this.minZoom, this.maxZoom), this.syncCenteredPin(!1), n && (this.statusEl.textContent = n), this.render();
+    this.center = { lat: n, lng: a }, this.zoom = re(s, this.minZoom, this.maxZoom), this.syncCenteredPin(!1), r && (this.statusEl.textContent = r), this.render();
   }
-  setPin(e, i = !0, n = {}) {
-    if (!this.canMutatePin() && n.force !== !0)
+  setPin(e, i = !0, r = {}) {
+    if (!this.canMutatePin() && r.force !== !0)
       return;
-    const r = {
+    const n = {
       lat: Number(e.lat),
       lng: Number(e.lng)
     };
-    if (!Number.isFinite(r.lat) || !Number.isFinite(r.lng))
+    if (!Number.isFinite(n.lat) || !Number.isFinite(n.lng))
       return;
     const a = !!this.pin;
-    this.pin = r, (this.pinMode === "centered" || this.centerOnPin || n.centerOnPin === !0) && (this.center = { ...r }), !a && this.zoomOnFirstPin && (this.zoom = this.firstPinTargetZoom(r)), this.statusEl.textContent = `Pin: ${this.pin.lat.toFixed(6)}, ${this.pin.lng.toFixed(6)}`, this.render(), i && this.emit("pinchange", this.pin);
+    this.pin = n, (this.pinMode === "centered" || this.centerOnPin || r.centerOnPin === !0) && (this.center = { ...n }), !a && this.zoomOnFirstPin && (this.zoom = this.firstPinTargetZoom(n)), this.statusEl.textContent = `Pin: ${this.pin.lat.toFixed(6)}, ${this.pin.lng.toFixed(6)}`, this.render(), i && this.emit("pinchange", this.pin);
   }
   clearPin(e = !0, i = {}) {
     !this.canMutatePin() && i.force !== !0 || (this.pin = null, this.statusEl.textContent = this.statusText, this.render(), e && this.emit("pinchange", null));
@@ -844,7 +844,7 @@ class bi {
   applyZoomStyles() {
     if (!this.canvasEl)
       return;
-    const e = te(Math.round(24 * Math.pow(1.28, this.zoom - this.minZoom)), 24, 192);
+    const e = re(Math.round(24 * Math.pow(1.28, this.zoom - this.minZoom)), 24, 192);
     this.canvasEl.style.setProperty("--plmp-map-grid-size", `${e}px`), this.canvasEl.dataset.zoom = String(this.zoom), this.canvasEl.dataset.tileMode = this.tileUrlTemplate ? "tiles" : "offline-grid";
   }
   renderTiles() {
@@ -852,21 +852,21 @@ class bi {
       this.tilesEl.innerHTML = "";
       return;
     }
-    const e = this.canvasEl.getBoundingClientRect(), i = Math.max(e.width, this.canvasEl.clientWidth, 320), n = Math.max(e.height, this.canvasEl.clientHeight, 240), r = X(this.center.lat, this.center.lng, this.zoom), a = Math.floor((r.x - i / 2) / Z), s = Math.floor((r.x + i / 2) / Z), o = Math.floor((r.y - n / 2) / Z), l = Math.floor((r.y + n / 2) / Z), h = Math.pow(2, this.zoom), c = [];
+    const e = this.canvasEl.getBoundingClientRect(), i = Math.max(e.width, this.canvasEl.clientWidth, 320), r = Math.max(e.height, this.canvasEl.clientHeight, 240), n = Q(this.center.lat, this.center.lng, this.zoom), a = Math.floor((n.x - i / 2) / Z), s = Math.floor((n.x + i / 2) / Z), o = Math.floor((n.y - r / 2) / Z), l = Math.floor((n.y + r / 2) / Z), d = Math.pow(2, this.zoom), c = [];
     for (let u = a; u <= s; u++)
-      for (let d = o; d <= l; d++) {
-        if (d < 0 || d >= h)
+      for (let h = o; h <= l; h++) {
+        if (h < 0 || h >= d)
           continue;
-        const m = (u % h + h) % h, y = Math.round(u * Z - r.x + i / 2), M = Math.round(d * Z - r.y + n / 2), W = this.tileUrlTemplate.split("{z}").join(String(this.zoom)).split("{x}").join(String(m)).split("{y}").join(String(d));
-        c.push(`<img class="plmp__map-tile ph-map-picker__tile" src="${Ye(W)}" alt="" draggable="false" loading="lazy" decoding="async" style="left:${y}px;top:${M}px;">`);
+        const m = (u % d + d) % d, y = Math.round(u * Z - n.x + i / 2), I = Math.round(h * Z - n.y + r / 2), Y = this.tileUrlTemplate.split("{z}").join(String(this.zoom)).split("{x}").join(String(m)).split("{y}").join(String(h));
+        c.push(`<img class="plmp__map-tile ph-map-picker__tile" src="${yt(Y)}" alt="" draggable="false" loading="lazy" decoding="async" style="left:${y}px;top:${I}px;">`);
       }
     this.tilesEl.innerHTML = c.join("");
   }
   projectToScreen(e, i) {
-    const n = this.canvasEl.getBoundingClientRect(), r = X(this.center.lat, this.center.lng, this.zoom), a = X(e, i, this.zoom);
+    const r = this.canvasEl.getBoundingClientRect(), n = Q(this.center.lat, this.center.lng, this.zoom), a = Q(e, i, this.zoom);
     return {
-      x: a.x - r.x + n.width / 2,
-      y: a.y - r.y + n.height / 2
+      x: a.x - n.x + r.width / 2,
+      y: a.y - n.y + r.height / 2
     };
   }
   renderPin() {
@@ -883,14 +883,14 @@ class bi {
       this.overlayEl.innerHTML = "";
       return;
     }
-    const i = this.polygon.map((n) => this.projectToScreen(n.lat, n.lng)).map((n) => `${n.x.toFixed(2)},${n.y.toFixed(2)}`).join(" ");
+    const i = this.polygon.map((r) => this.projectToScreen(r.lat, r.lng)).map((r) => `${r.x.toFixed(2)},${r.y.toFixed(2)}`).join(" ");
     this.overlayEl.innerHTML = `<polygon class="plmp__map-polygon ph-map-picker__polygon" points="${i}"></polygon>`;
   }
   destroy() {
     this.resizeRenderFrame !== null && typeof cancelAnimationFrame == "function" && (cancelAnimationFrame(this.resizeRenderFrame), this.resizeRenderFrame = null), this.resizeObserver && (this.resizeObserver.disconnect(), this.resizeObserver = null), this.windowResizeHandler && typeof window < "u" && typeof window.removeEventListener == "function" && (window.removeEventListener("resize", this.windowResizeHandler), this.windowResizeHandler = null), this.handlers = {}, this.mount.innerHTML = "", this.isDragging = !1, this.isPinDragging = !1, this.dragStart = null;
   }
 }
-const wt = {
+const Vt = {
   change: "onChange",
   locationchange: "onLocationChange",
   pinchange: "onPinChange",
@@ -911,23 +911,23 @@ const wt = {
   debug: "onDebug",
   error: "onError"
 };
-function _i(t) {
+function ar(t) {
   return t ? typeof t == "string" ? document.querySelector(t) : t : null;
 }
 function p(t, e) {
-  const i = _i(t);
+  const i = ar(t);
   if (!i)
     return;
-  const n = e == null ? "" : String(e);
-  i.value !== n && (i.value = n);
+  const r = e == null ? "" : String(e);
+  i.value !== r && (i.value = r);
 }
-function T(t) {
+function U(t) {
   return JSON.stringify(t);
 }
-function Tt(t) {
+function _i(t) {
   return JSON.parse(JSON.stringify(t));
 }
-function Pt() {
+function Gt() {
   return {
     location: !1,
     pin: !1,
@@ -937,15 +937,15 @@ function Pt() {
     clear: !1
   };
 }
-function Lt(t) {
+function Jt(t) {
   const e = {
     location: H(t.location || {}),
-    pin: ot(t.pin),
-    geometry: Vt(t.geometry || {})
+    pin: kt(t.pin),
+    geometry: wi(t.geometry || {})
   };
   return JSON.stringify(e);
 }
-function vi() {
+function sr() {
   return {
     region_id: "",
     region_name: "",
@@ -960,18 +960,18 @@ function vi() {
   };
 }
 function H(t = {}) {
-  const e = vi();
+  const e = sr();
   return Object.keys(e).forEach((i) => {
     e[i] = t[i] == null ? "" : String(t[i]);
   }), e.label || (e.label = [e.city_name, e.barangay_name].filter(Boolean).join(" → ")), e.display_label || (e.display_label = e.label), e;
 }
-function ot(t) {
+function kt(t) {
   if (!t)
     return null;
-  const e = A(t.lat), i = A(t.lng);
+  const e = F(t.lat), i = F(t.lng);
   return e === null || i === null ? null : { lat: e, lng: i };
 }
-function Ht(t) {
+function vi(t) {
   return t ? {
     match_quality: t.match_quality == null ? "" : String(t.match_quality),
     match_distance_km: Number.isFinite(Number(t.match_distance_km)) ? Number(t.match_distance_km) : 0,
@@ -981,22 +981,22 @@ function Ht(t) {
     city_name: t.city_name == null ? "" : String(t.city_name)
   } : null;
 }
-function Vt(t = {}) {
+function wi(t = {}) {
   return {
     focus_result: t.focus_result || null,
-    reverse_match: Ht(t.reverse_match),
+    reverse_match: vi(t.reverse_match),
     reverse_error: t.reverse_error == null ? null : String(t.reverse_error)
   };
 }
-function Et(t = "idle", e = "", i = "") {
-  const r = x(t, ["idle", "info", "success", "warning", "error"], "info"), a = e == null ? "" : String(e);
+function Zt(t = "idle", e = "", i = "") {
+  const n = j(t, ["idle", "info", "success", "warning", "error"], "info"), a = e == null ? "" : String(e);
   return {
-    level: a ? r : "idle",
+    level: a ? n : "idle",
     code: i == null ? "" : String(i),
     message: a
   };
 }
-function wi(t = {}) {
+function or(t = {}) {
   return {
     enabled: t.enabled === !0,
     maxEvents: Number.isFinite(Number(t.maxEvents)) ? Math.max(1, Number(t.maxEvents)) : 100,
@@ -1004,45 +1004,45 @@ function wi(t = {}) {
     echoToConsole: t.echoToConsole === !0
   };
 }
-function Pi(t, e = {}) {
-  const i = t instanceof Error ? t : null, n = String(e.message || i && i.message || t || "Location picker error."), r = A(e.status ?? (i && i.status));
+function cr(t, e = {}) {
+  const i = t instanceof Error ? t : null, r = String(e.message || i && i.message || t || "Location picker error."), n = F(e.status ?? (i && i.status));
   return {
     timestamp: (/* @__PURE__ */ new Date()).toISOString(),
     code: String(e.code || i && i.code || "location_picker_error"),
-    message: n,
+    message: r,
     source: String(e.source || i && i.source || "location-map-picker"),
     operation: String(e.operation || i && i.operation || ""),
     recoverable: e.recoverable !== !1,
     provider: String(e.provider || i && i.provider || ""),
     method: String(e.method || i && i.method || ""),
-    status: r === null ? null : r,
+    status: n === null ? null : n,
     path: String(e.path || i && i.path || ""),
     reason: String(e.reason || i && i.reason || ""),
     provider_error: !!(i && i.provider_error),
-    raw_message: i && i.message ? String(i.message) : n
+    raw_message: i && i.message ? String(i.message) : r
   };
 }
-function kt(t) {
+function Kt(t) {
   if (t == null)
     return t;
   try {
-    return Tt(t);
+    return _i(t);
   } catch {
     return String(t);
   }
 }
-function A(t) {
+function F(t) {
   const e = Number(t);
   return Number.isFinite(e) ? e : null;
 }
-function x(t, e, i) {
-  const n = String(t || "").trim().toLowerCase();
-  return e.includes(n) ? n : i;
+function j(t, e, i) {
+  const r = String(t || "").trim().toLowerCase();
+  return e.includes(r) ? r : i;
 }
-function Li(...t) {
+function lr(...t) {
   return t.flatMap((e) => String(e || "").split(/\s+/)).map((e) => e.trim()).filter(Boolean).join(" ");
 }
-const Gt = {
+const Pi = {
   applyingValue: "Applying location value.",
   focusBoundaryPolygon: "Boundary polygon loaded for the selected location.",
   focusBounds: "Bounds loaded for the selected location. Polygon geometry is not available.",
@@ -1057,8 +1057,8 @@ const Gt = {
   setValueFailed: "Could not apply the location value.",
   invalidConfig: "Location picker configuration is invalid.",
   providerFailure: "Location data provider failed.",
-  reverseNoMatch: "No cached barangay boundary matched that pin. The saved address was not changed. Move the pin inside cached geometry or expand the static geometry cache.",
-  reverseMatch: "Reverse-fill matched using {match_quality}.",
+  reverseNoMatch: "Static reverse-fill could not match this pin to cached barangay geometry. Select the barangay manually, keep the pin, or add geometry coverage for this area.",
+  reverseMatch: "Reverse-fill resolved using {match_quality}.",
   geoIpBusy: "Resolving IP location estimate.",
   geoIpLookupFailed: "GeoIP lookup failed.",
   geoIpNoResult: "GeoIP lookup returned no result.",
@@ -1078,27 +1078,27 @@ const Gt = {
   browserLocationEstimate: "Estimated from browser location. Confirm or correct the location before saving.",
   browserLocationMapCentered: "Centered from browser location. Confirm the exact pin before saving."
 };
-function Ei(t = {}) {
+function ur(t = {}) {
   return {
-    ...Gt,
+    ...Pi,
     ...t || {}
   };
 }
-function Jt(t, e = {}) {
-  return String(t || "").replace(/\{([a-zA-Z0-9_]+)\}/g, (i, n) => {
-    if (!Object.prototype.hasOwnProperty.call(e, n))
+function Li(t, e = {}) {
+  return String(t || "").replace(/\{([a-zA-Z0-9_]+)\}/g, (i, r) => {
+    if (!Object.prototype.hasOwnProperty.call(e, r))
       return i;
-    const r = e[n];
-    return r == null ? "" : String(r);
+    const n = e[r];
+    return n == null ? "" : String(n);
   });
 }
-function ki(t = {}) {
+function dr(t = {}) {
   return {
-    displayMode: x(t.displayMode, ["embedded", "modal"], "embedded"),
-    theme: x(t.theme, ["light", "dark", "auto"], "light"),
-    size: x(t.size, ["compact", "comfortable", "spacious"], "comfortable"),
-    density: x(t.density, ["tight", "normal", "relaxed"], "normal"),
-    selectedLabelFormat: x(t.selectedLabelFormat, [
+    displayMode: j(t.displayMode, ["embedded", "modal"], "embedded"),
+    theme: j(t.theme, ["light", "dark", "auto"], "light"),
+    size: j(t.size, ["compact", "comfortable", "spacious"], "comfortable"),
+    density: j(t.density, ["tight", "normal", "relaxed"], "normal"),
+    selectedLabelFormat: j(t.selectedLabelFormat, [
       "region_province_city_barangay",
       "province_city_barangay",
       "city_barangay",
@@ -1122,15 +1122,15 @@ function ki(t = {}) {
     showDebugPanel: t.showDebugPanel === !0
   };
 }
-function Si(t = {}) {
+function hr(t = {}) {
   return {
     enabled: t.enabled !== !1,
     failOnNoMatch: t.failOnNoMatch === !0
   };
 }
-function Ii(t = {}, e = "barangay") {
+function mr(t = {}, e = "barangay") {
   return {
-    requiredLocationLevel: x(t.requiredLocationLevel || e, ["region", "province", "city", "barangay"], "barangay"),
+    requiredLocationLevel: j(t.requiredLocationLevel || e, ["region", "province", "city", "barangay"], "barangay"),
     requirePin: t.requirePin === !0,
     messageRequiredRegion: t.messageRequiredRegion || "Select a region.",
     messageRequiredProvince: t.messageRequiredProvince || "Select a province.",
@@ -1139,7 +1139,7 @@ function Ii(t = {}, e = "barangay") {
     messageRequiredPin: t.messageRequiredPin || "Place a pin on the map."
   };
 }
-function Ci(t = {}) {
+function pr(t = {}) {
   const e = t.backfill || {}, i = t.confidence || {};
   return {
     enabled: t.enabled === !0,
@@ -1153,18 +1153,18 @@ function Ci(t = {}) {
     mapZoom: Number.isFinite(Number(t.mapZoom)) ? Number(t.mapZoom) : 9,
     backfill: {
       enabled: e.enabled !== !1,
-      maxLevel: x(e.maxLevel, ["country", "region", "province", "city", "barangay"], "province"),
+      maxLevel: j(e.maxLevel, ["country", "region", "province", "city", "barangay"], "province"),
       allowCity: e.allowCity === !0,
       allowBarangay: e.allowBarangay === !0,
       reverseGeocode: e.reverseGeocode === !0
     },
     confidence: {
       requireCountry: i.requireCountry == null ? "PH" : String(i.requireCountry || "").trim().toUpperCase(),
-      minimumAccuracyLevel: x(i.minimumAccuracyLevel, ["country", "region", "province", "city", "unknown"], "province")
+      minimumAccuracyLevel: j(i.minimumAccuracyLevel, ["country", "region", "province", "city", "unknown"], "province")
     }
   };
 }
-function Mi(t = {}) {
+function fr(t = {}) {
   const e = t.backfill || {};
   return {
     enabled: t.enabled === !0,
@@ -1178,13 +1178,13 @@ function Mi(t = {}) {
     maximumAge: Number.isFinite(Number(t.maximumAge)) ? Number(t.maximumAge) : 6e4,
     backfill: {
       enabled: e.enabled !== !1,
-      maxLevel: x(e.maxLevel, ["country", "region", "province", "city", "barangay"], "barangay"),
+      maxLevel: j(e.maxLevel, ["country", "region", "province", "city", "barangay"], "barangay"),
       reverseGeocode: e.reverseGeocode !== !1
     }
   };
 }
-function Oi(t = {}) {
-  const e = A(t.lat ?? t.latitude), i = A(t.lng ?? t.longitude);
+function yr(t = {}) {
+  const e = F(t.lat ?? t.latitude), i = F(t.lng ?? t.longitude);
   return {
     country_code: String(t.country_code || t.countryCode || "").trim().toUpperCase(),
     region_name: String(t.region_name || t.regionName || "").trim(),
@@ -1193,29 +1193,29 @@ function Oi(t = {}) {
     barangay_name: String(t.barangay_name || t.barangayName || "").trim(),
     lat: e,
     lng: i,
-    accuracy_level: x(t.accuracy_level || t.accuracyLevel, ["country", "region", "province", "city", "unknown"], "unknown"),
+    accuracy_level: j(t.accuracy_level || t.accuracyLevel, ["country", "region", "province", "city", "unknown"], "unknown"),
     raw: t
   };
 }
-function Ni(t = {}) {
-  const e = t.coords || {}, i = A(e.latitude), n = A(e.longitude);
+function gr(t = {}) {
+  const e = t.coords || {}, i = F(e.latitude), r = F(e.longitude);
   return {
     lat: i,
-    lng: n,
-    accuracy_meters: A(e.accuracy),
-    altitude: A(e.altitude),
-    altitude_accuracy_meters: A(e.altitudeAccuracy),
-    heading: A(e.heading),
-    speed_meters_per_second: A(e.speed),
+    lng: r,
+    accuracy_meters: F(e.accuracy),
+    altitude: F(e.altitude),
+    altitude_accuracy_meters: F(e.altitudeAccuracy),
+    heading: F(e.heading),
+    speed_meters_per_second: F(e.speed),
     timestamp: Number.isFinite(Number(t.timestamp)) ? Number(t.timestamp) : Date.now(),
     raw: t
   };
 }
-function Bi(t, e = Gt) {
-  const i = (n, r) => Jt(e[n] || r || n);
+function br(t, e = Pi) {
+  const i = (r, n) => Li(e[r] || n || r);
   return !t || typeof t.code != "number" ? t && t.message ? t.message : i("browserLocationFailed") : t.code === 1 ? i("browserLocationPermissionDenied") : t.code === 2 ? i("browserLocationUnavailablePosition") : t.code === 3 ? i("browserLocationTimeout") : t.message || i("browserLocationFailed");
 }
-function St(t) {
+function Wt(t) {
   return {
     unknown: 0,
     country: 1,
@@ -1224,7 +1224,7 @@ function St(t) {
     city: 4
   }[t] || 0;
 }
-function ct(t) {
+function Ot(t) {
   return {
     country: 0,
     region: 1,
@@ -1233,39 +1233,39 @@ function ct(t) {
     barangay: 4
   }[t] ?? 2;
 }
-function It(t) {
+function Yt(t) {
   return String(t || "").toLowerCase().replace(/\([^)]*\)/g, " ").replace(/[^a-z0-9]+/g, " ").replace(/\b(region|province|city|municipality|of|the)\b/g, " ").replace(/\s+/g, " ").trim();
 }
-function ge(t) {
+function we(t) {
   return String(t && (t.id || t.code) || "").trim();
 }
-function Pe(t) {
+function Be(t) {
   return String(t && t.name || "").trim();
 }
-function ye(t, ...e) {
-  const i = e.map(It).filter(Boolean);
-  return i.length === 0 ? null : (t || []).find((n) => {
-    const r = It(Pe(n));
-    return i.some((a) => r === a || r.includes(a) || a.includes(r));
+function Pe(t, ...e) {
+  const i = e.map(Yt).filter(Boolean);
+  return i.length === 0 ? null : (t || []).find((r) => {
+    const n = Yt(Be(r));
+    return i.some((a) => n === a || n.includes(a) || a.includes(n));
   }) || null;
 }
-function fe(t = {}, e = "province") {
-  const i = ct(e), n = H(t);
-  i < 4 && (n.barangay_id = "", n.barangay_name = ""), i < 3 && (n.city_id = "", n.city_name = ""), i < 2 && (n.province_id = "", n.province_name = ""), i < 1 && (n.region_id = "", n.region_name = "");
-  const r = [n.city_name, n.barangay_name].filter(Boolean);
-  return i <= 2 && (r.length = 0, r.push(...[n.province_name, n.region_name].filter(Boolean))), n.label = r.join(" → "), n.display_label = n.label, n;
+function Le(t = {}, e = "province") {
+  const i = Ot(e), r = H(t);
+  i < 4 && (r.barangay_id = "", r.barangay_name = ""), i < 3 && (r.city_id = "", r.city_name = ""), i < 2 && (r.province_id = "", r.province_name = ""), i < 1 && (r.region_id = "", r.region_name = "");
+  const n = [r.city_name, r.barangay_name].filter(Boolean);
+  return i <= 2 && (n.length = 0, n.push(...[r.province_name, r.region_name].filter(Boolean))), r.label = n.join(" → "), r.display_label = r.label, r;
 }
-class $i {
+class Ct {
   constructor(e = {}) {
     if (!e.mount)
       throw new Error("LocationMapPicker requires a mount element.");
     if (!e.provider)
       throw new Error("LocationMapPicker requires a provider.");
-    this.mount = e.mount, this.provider = e.provider, this.ui = ki(e.ui || {}), this.messages = Ei(e.messages || {}), this.debugOptions = wi(e.debug || {}), this.hiddenInputs = e.hiddenInputs || {}, this.mapOptions = e.map || {}, this.locationOptions = e.location || {}, this.reverseOptions = Si(e.reverse || {}), this.geoIpOptions = Ci(e.geoIp || {}), this.browserLocationOptions = Mi(e.browserLocation || {}), this.validationOptions = Ii(e.validation || {}, this.locationOptions.requiredLevel), this.initialValue = e.initialValue || e.value || null, this.mapEnabled = this.mapOptions.enabled !== !1, this.disabled = e.disabled === !0, this.readOnly = e.readOnly === !0 || e.readonly === !0, this.busy = !1, this.busyReason = "", this.dirty = !1, this.touched = Pt(), this.dirtyBaselineValue = null, this.dirtyBaselineKey = "", this.optionHandlers = e, this.handlers = {}, this.location = H(), this.pin = null, this.geometry = {
+    this.mount = e.mount, this.provider = e.provider, this.ui = dr(e.ui || {}), this.messages = ur(e.messages || {}), this.debugOptions = or(e.debug || {}), this.hiddenInputs = e.hiddenInputs || {}, this.mapOptions = e.map || {}, this.locationOptions = e.location || {}, this.reverseOptions = hr(e.reverse || {}), this.geoIpOptions = pr(e.geoIp || {}), this.browserLocationOptions = fr(e.browserLocation || {}), this.validationOptions = mr(e.validation || {}, this.locationOptions.requiredLevel), this.initialValue = e.initialValue || e.value || null, this.mapEnabled = this.mapOptions.enabled !== !1, this.disabled = e.disabled === !0, this.readOnly = e.readOnly === !0 || e.readonly === !0, this.busy = !1, this.busyReason = "", this.dirty = !1, this.touched = Gt(), this.dirtyBaselineValue = null, this.dirtyBaselineKey = "", this.optionHandlers = e, this.handlers = {}, this.location = H(), this.pin = null, this.geometry = {
       focus_result: null,
       reverse_match: null,
       reverse_error: null
-    }, this.status = Et(), this.lastError = null, this.debugEvents = [], this.renderShell(), this.createChildren(), this.bindChildren(), this.ready = this.locationPicker.ready.then(async () => {
+    }, this.status = Zt(), this.lastError = null, this.debugEvents = [], this.renderShell(), this.createChildren(), this.bindChildren(), this.ready = this.locationPicker.ready.then(async () => {
       this.initialValue ? await this.setValue(this.initialValue, !1, { resetDirty: !0 }) : this.resetDirty(!1), this.geoIpOptions.enabled && this.geoIpOptions.runOnInit && await this.resolveGeoIpHint(!0), this.browserLocationOptions.enabled && this.browserLocationOptions.runOnInit && await this.resolveBrowserLocationHint(!0);
     });
   }
@@ -1273,26 +1273,26 @@ class $i {
     return this.handlers[e] || (this.handlers[e] = []), this.handlers[e].push(i), this;
   }
   off(e, i) {
-    return this.handlers[e] ? typeof i != "function" ? (this.handlers[e] = [], this) : (this.handlers[e] = this.handlers[e].filter((n) => n !== i), this) : this;
+    return this.handlers[e] ? typeof i != "function" ? (this.handlers[e] = [], this) : (this.handlers[e] = this.handlers[e].filter((r) => r !== i), this) : this;
   }
   emit(e, i) {
     e !== "debug" && this.recordDebugEvent(e, i);
-    const n = wt[e];
-    n && typeof this.optionHandlers[n] == "function" && this.optionHandlers[n](i), (this.handlers[e] || []).forEach((r) => r(i));
+    const r = Vt[e];
+    r && typeof this.optionHandlers[r] == "function" && this.optionHandlers[r](i), (this.handlers[e] || []).forEach((n) => n(i));
   }
   recordDebugEvent(e, i = {}) {
     if (!this.debugOptions || !this.debugOptions.enabled)
       return this;
-    const n = {
+    const r = {
       timestamp: (/* @__PURE__ */ new Date()).toISOString(),
       type: String(e || "event"),
-      payload: kt(i)
+      payload: Kt(i)
     };
-    for (this.debugOptions.includeValue && (n.value = this.value ? kt(this.value()) : null), this.debugEvents.push(n); this.debugEvents.length > this.debugOptions.maxEvents; )
+    for (this.debugOptions.includeValue && (r.value = this.value ? Kt(this.value()) : null), this.debugEvents.push(r); this.debugEvents.length > this.debugOptions.maxEvents; )
       this.debugEvents.shift();
-    this.debugOptions.echoToConsole && typeof console < "u" && console.debug && console.debug("[LocationMapPicker]", n.type, n.payload);
-    const r = wt.debug;
-    return typeof this.optionHandlers[r] == "function" && this.optionHandlers[r](n), (this.handlers.debug || []).forEach((a) => a(n)), this;
+    this.debugOptions.echoToConsole && typeof console < "u" && console.debug && console.debug("[LocationMapPicker]", r.type, r.payload);
+    const n = Vt.debug;
+    return typeof this.optionHandlers[n] == "function" && this.optionHandlers[n](r), (this.handlers.debug || []).forEach((a) => a(r)), this;
   }
   debugState() {
     return this.debugEvents.map((e) => ({ ...e }));
@@ -1301,11 +1301,11 @@ class $i {
     return this.debugEvents = [], this.updateHiddenInputs(), this;
   }
   handleError(e, i = {}) {
-    const n = Pi(e, i);
-    return this.lastError = n, this.recordDebugEvent("error", n), this.updateHiddenInputs(), i.setStatus !== !1 && this.setMessage(n.message, "error", n.code), this.emit("error", n), n;
+    const r = cr(e, i);
+    return this.lastError = r, this.recordDebugEvent("error", r), this.updateHiddenInputs(), i.setStatus !== !1 && this.setMessage(r.message, "error", r.code), this.emit("error", r), r;
   }
   renderShell() {
-    this.root = document.createElement("div"), this.root.className = Li(
+    this.root = document.createElement("div"), this.root.className = lr(
       "plmp",
       "ph-location-map-picker",
       "plmp--location-map-picker",
@@ -1340,19 +1340,19 @@ class $i {
     return {
       dirty: this.dirty,
       touched: { ...this.touched },
-      baseline: this.dirtyBaselineValue ? Tt(this.dirtyBaselineValue) : null,
+      baseline: this.dirtyBaselineValue ? _i(this.dirtyBaselineValue) : null,
       value: this.value()
     };
   }
   refreshDirtyState(e = !0) {
-    const i = Lt(this.value()) !== this.dirtyBaselineKey, n = this.dirty;
-    return this.dirty = i, this.applyDirtyState(), e && n !== this.dirty && this.emit("dirtychange", this.dirtyState()), this.dirty;
+    const i = Jt(this.value()) !== this.dirtyBaselineKey, r = this.dirty;
+    return this.dirty = i, this.applyDirtyState(), e && r !== this.dirty && this.emit("dirtychange", this.dirtyState()), this.dirty;
   }
   markTouched(e, i = !0) {
     return e && Object.prototype.hasOwnProperty.call(this.touched, e) && (this.touched[e] = !0), this.refreshDirtyState(i), this;
   }
   resetDirty(e = !0) {
-    this.dirtyBaselineValue = this.value(), this.dirtyBaselineKey = Lt(this.dirtyBaselineValue), this.touched = Pt();
+    this.dirtyBaselineValue = this.value(), this.dirtyBaselineKey = Jt(this.dirtyBaselineValue), this.touched = Gt();
     const i = this.dirty;
     return this.dirty = !1, this.applyDirtyState(), this.updateHiddenInputs(), e && i !== this.dirty && this.emit("dirtychange", this.dirtyState()), this;
   }
@@ -1366,8 +1366,8 @@ class $i {
     return this.root ? (this.root.classList.toggle("is-busy", this.busy), this.root.dataset.busy = this.busy ? "true" : "false", this.root.dataset.busyReason = this.busyReason, this.root.setAttribute("aria-busy", this.busy ? "true" : "false"), this.busyOverlayEl && (this.busyOverlayEl.hidden = !this.busy), this.busyTextEl && (this.busyTextEl.textContent = this.busyReason || this.message("busyOverlayDefault")), this.locationPicker && typeof this.locationPicker.setBusy == "function" && this.locationPicker.setBusy(this.busy, this.busyReason), this.mapPicker && typeof this.mapPicker.setBusy == "function" && this.mapPicker.setBusy(this.busy, this.busyReason), this) : this;
   }
   setBusy(e = !0, i = "") {
-    const n = e === !0, r = n ? String(i || "") : "", a = this.busy !== n || this.busyReason !== r;
-    return this.busy = n, this.busyReason = r, this.applyBusyState(), a && this.emit("busychange", { busy: this.busy, reason: this.busyReason }), this;
+    const r = e === !0, n = r ? String(i || "") : "", a = this.busy !== r || this.busyReason !== n;
+    return this.busy = r, this.busyReason = n, this.applyBusyState(), a && this.emit("busychange", { busy: this.busy, reason: this.busyReason }), this;
   }
   isBusy() {
     return this.busy;
@@ -1387,7 +1387,7 @@ class $i {
     return this.readOnly = e === !0, this.applyInteractionState(), this;
   }
   createChildren() {
-    this.locationPicker = new hi({
+    this.locationPicker = new Yi({
       selectedLabelFormat: this.ui.selectedLabelFormat,
       theme: this.ui.theme,
       size: this.ui.size,
@@ -1409,7 +1409,7 @@ class $i {
       requiredLevel: this.validationOptions.requiredLocationLevel,
       mount: this.locationMount,
       provider: this.provider
-    }), this.mapEnabled ? this.mapPicker = new bi({
+    }), this.mapEnabled ? this.mapPicker = new nr({
       defaultCenter: { lat: 12.8797, lng: 121.774 },
       defaultZoom: 6,
       theme: this.ui.theme,
@@ -1445,16 +1445,16 @@ class $i {
       this.root.classList.toggle(`has-status-${i}`, e && this.status.level === i);
     }), this.root.classList.toggle("has-status", e), this.root.dataset.statusLevel = this.status.level, this.root.dataset.statusCode = this.status.code, this.messageEl.textContent = this.status.message, this.messageEl.dataset.statusLevel = this.status.level, this.messageEl.dataset.statusCode = this.status.code, this.messageEl.hidden = !e, this.status.level === "error" ? (this.messageEl.setAttribute("role", "alert"), this.messageEl.setAttribute("aria-live", "assertive")) : e ? (this.messageEl.setAttribute("role", "status"), this.messageEl.setAttribute("aria-live", "polite")) : (this.messageEl.removeAttribute("role"), this.messageEl.removeAttribute("aria-live")), this;
   }
-  setStatus(e = "info", i = "", n = "") {
+  setStatus(e = "info", i = "", r = "") {
     if (typeof e == "object" && e !== null) {
       const s = e;
-      e = s.level, i = s.message, n = s.code;
+      e = s.level, i = s.message, r = s.code;
     }
-    const r = Et(e, i, n), a = this.status.level !== r.level || this.status.code !== r.code || this.status.message !== r.message;
-    return this.status = r, this.applyStatusState(), this.updateHiddenInputs(), a && this.emit("statuschange", this.statusState()), this;
+    const n = Zt(e, i, r), a = this.status.level !== n.level || this.status.code !== n.code || this.status.message !== n.message;
+    return this.status = n, this.applyStatusState(), this.updateHiddenInputs(), a && this.emit("statuschange", this.statusState()), this;
   }
-  setMessage(e, i = "info", n = "") {
-    return this.setStatus(e ? i : "idle", e || "", n);
+  setMessage(e, i = "info", r = "") {
+    return this.setStatus(e ? i : "idle", e || "", r);
   }
   clearStatus() {
     return this.setStatus("idle", "", "");
@@ -1462,30 +1462,30 @@ class $i {
   statusState() {
     return { ...this.status };
   }
-  message(e, i = {}, n = "") {
-    const r = this.messages[e] || n || e;
-    return Jt(r, i);
+  message(e, i = {}, r = "") {
+    const n = this.messages[e] || r || e;
+    return Li(n, i);
   }
   updateHiddenInputs() {
     const e = this.value();
-    p(this.hiddenInputs.regionId, e.location.region_id), p(this.hiddenInputs.regionName, e.location.region_name), p(this.hiddenInputs.provinceId, e.location.province_id), p(this.hiddenInputs.provinceName, e.location.province_name), p(this.hiddenInputs.cityId, e.location.city_id), p(this.hiddenInputs.cityName, e.location.city_name), p(this.hiddenInputs.barangayId, e.location.barangay_id), p(this.hiddenInputs.barangayName, e.location.barangay_name), p(this.hiddenInputs.label, e.location.display_label || e.location.label || ""), p(this.hiddenInputs.pinLat, e.pin ? e.pin.lat.toFixed(6) : ""), p(this.hiddenInputs.pinLng, e.pin ? e.pin.lng.toFixed(6) : ""), p(this.hiddenInputs.valueJson, T(e)), p(this.hiddenInputs.locationJson, T(e.location)), p(this.hiddenInputs.pinJson, T(e.pin)), p(this.hiddenInputs.geometryJson, T(e.geometry));
+    p(this.hiddenInputs.regionId, e.location.region_id), p(this.hiddenInputs.regionName, e.location.region_name), p(this.hiddenInputs.provinceId, e.location.province_id), p(this.hiddenInputs.provinceName, e.location.province_name), p(this.hiddenInputs.cityId, e.location.city_id), p(this.hiddenInputs.cityName, e.location.city_name), p(this.hiddenInputs.barangayId, e.location.barangay_id), p(this.hiddenInputs.barangayName, e.location.barangay_name), p(this.hiddenInputs.label, e.location.display_label || e.location.label || ""), p(this.hiddenInputs.pinLat, e.pin ? e.pin.lat.toFixed(6) : ""), p(this.hiddenInputs.pinLng, e.pin ? e.pin.lng.toFixed(6) : ""), p(this.hiddenInputs.valueJson, U(e)), p(this.hiddenInputs.locationJson, U(e.location)), p(this.hiddenInputs.pinJson, U(e.pin)), p(this.hiddenInputs.geometryJson, U(e.geometry));
     const i = this.validate();
-    p(this.hiddenInputs.isValid, i.valid ? "1" : "0"), p(this.hiddenInputs.validationJson, T(i)), p(this.hiddenInputs.isDirty, this.dirty ? "1" : "0"), p(this.hiddenInputs.dirtyJson, T(this.dirtyState())), p(this.hiddenInputs.touchedJson, T(this.touched)), p(this.hiddenInputs.statusLevel, this.status.level), p(this.hiddenInputs.statusCode, this.status.code), p(this.hiddenInputs.statusMessage, this.status.message), p(this.hiddenInputs.statusJson, T(this.statusState())), p(this.hiddenInputs.lastErrorJson, T(this.lastError)), p(this.hiddenInputs.debugJson, T(this.debugState()));
+    p(this.hiddenInputs.isValid, i.valid ? "1" : "0"), p(this.hiddenInputs.validationJson, U(i)), p(this.hiddenInputs.isDirty, this.dirty ? "1" : "0"), p(this.hiddenInputs.dirtyJson, U(this.dirtyState())), p(this.hiddenInputs.touchedJson, U(this.touched)), p(this.hiddenInputs.statusLevel, this.status.level), p(this.hiddenInputs.statusCode, this.status.code), p(this.hiddenInputs.statusMessage, this.status.message), p(this.hiddenInputs.statusJson, U(this.statusState())), p(this.hiddenInputs.lastErrorJson, U(this.lastError)), p(this.hiddenInputs.debugJson, U(this.debugState()));
   }
   value() {
     return {
       location: H(this.location),
-      pin: ot(this.pin),
-      geometry: Vt(this.geometry)
+      pin: kt(this.pin),
+      geometry: wi(this.geometry)
     };
   }
   validate() {
-    const e = this.value(), i = e.location, n = ct(this.validationOptions.requiredLocationLevel), r = [], a = [];
-    return n >= 1 && !i.region_id && (r.push("region"), a.push(this.validationOptions.messageRequiredRegion)), n === 2 && !i.province_id && (r.push("province"), a.push(this.validationOptions.messageRequiredProvince)), n >= 3 && !i.city_id && (r.push("city"), a.push(this.validationOptions.messageRequiredCity)), n >= 4 && !i.barangay_id && (r.push("barangay"), a.push(this.validationOptions.messageRequiredBarangay)), this.validationOptions.requirePin && !e.pin && (r.push("pin"), a.push(this.validationOptions.messageRequiredPin)), {
-      valid: r.length === 0,
+    const e = this.value(), i = e.location, r = Ot(this.validationOptions.requiredLocationLevel), n = [], a = [];
+    return r >= 1 && !i.region_id && (n.push("region"), a.push(this.validationOptions.messageRequiredRegion)), r === 2 && !i.province_id && (n.push("province"), a.push(this.validationOptions.messageRequiredProvince)), r >= 3 && !i.city_id && (n.push("city"), a.push(this.validationOptions.messageRequiredCity)), r >= 4 && !i.barangay_id && (n.push("barangay"), a.push(this.validationOptions.messageRequiredBarangay)), this.validationOptions.requirePin && !e.pin && (n.push("pin"), a.push(this.validationOptions.messageRequiredPin)), {
+      valid: n.length === 0,
       required_location_level: this.validationOptions.requiredLocationLevel,
       require_pin: this.validationOptions.requirePin,
-      missing: r,
+      missing: n,
       messages: a,
       location: i,
       pin: e.pin
@@ -1497,18 +1497,18 @@ class $i {
   emitChange() {
     this.emit("change", this.value());
   }
-  async setValue(e = {}, i = !0, n = {}) {
+  async setValue(e = {}, i = !0, r = {}) {
     return this.runBusy(this.message("applyingValue"), async () => {
       try {
-        const r = e.location || {}, a = ot(e.pin);
-        return this.location = H(await this.locationPicker.setValue(r, !1, r.resolved ? { hydrate: !1 } : {})), a ? (this.mapPicker && this.mapPicker.setPin(a, !1, { force: !0 }), this.pin = a) : (this.mapPicker && this.mapPicker.clearPin(!1, { force: !0 }), this.pin = null), this.geometry.reverse_match = null, this.geometry.reverse_error = null, this.geometry.focus_result = this.mapPicker ? await this.mapPicker.focusLocation(this.location) : null, n.trackDirty === !0 && (this.markTouched("location", !1), a && this.markTouched("pin", !1), this.refreshDirtyState(!1)), this.updateHiddenInputs(), this.setMessage(this.focusMessage(this.geometry.focus_result)), n.resetDirty === !0 ? this.resetDirty(!1) : this.refreshDirtyState(!1), i && this.emitChange(), this.value();
-      } catch (r) {
-        throw this.handleError(r, {
+        const n = e.location || {}, a = kt(e.pin);
+        return this.location = H(await this.locationPicker.setValue(n, !1, n.resolved ? { hydrate: !1 } : {})), a ? (this.mapPicker && this.mapPicker.setPin(a, !1, { force: !0 }), this.pin = a) : (this.mapPicker && this.mapPicker.clearPin(!1, { force: !0 }), this.pin = null), this.geometry.reverse_match = null, this.geometry.reverse_error = null, this.geometry.focus_result = this.mapPicker ? await this.mapPicker.focusLocation(this.location) : null, r.trackDirty === !0 && (this.markTouched("location", !1), a && this.markTouched("pin", !1), this.refreshDirtyState(!1)), this.updateHiddenInputs(), this.setMessage(this.focusMessage(this.geometry.focus_result)), r.resetDirty === !0 ? this.resetDirty(!1) : this.refreshDirtyState(!1), i && this.emitChange(), this.value();
+      } catch (n) {
+        throw this.handleError(n, {
           source: "value",
           operation: "setValue",
           code: "set_value_failed",
-          message: r && r.message ? r.message : this.message("setValueFailed")
-        }), r;
+          message: n && n.message ? n.message : this.message("setValueFailed")
+        }), n;
       }
     });
   }
@@ -1523,29 +1523,29 @@ class $i {
     this.setMessage(this.message("reverseBusy"), "info", "reverse_busy"), this.setBusy(!0, this.message("reverseBusy"));
     try {
       i = await this.provider.reverseGeocode(this.pin.lat, this.pin.lng, this.location);
-    } catch (r) {
-      const a = this.handleError(r, {
+    } catch (n) {
+      const a = this.handleError(n, {
         source: "reverse",
         operation: "reverseGeocode",
         code: "reverse_geocode_failed",
-        message: r && r.message ? r.message : this.message("reverseFailed")
+        message: n && n.message ? n.message : this.message("reverseFailed")
       });
       return this.geometry.reverse_match = null, this.geometry.reverse_error = a.message, e && this.emitChange(), this.setBusy(!1), null;
     }
     if (!i || !i.barangay_id) {
-      const r = new Error(this.message("reverseNoMatch"));
-      if (this.geometry.reverse_match = null, this.geometry.reverse_error = this.reverseOptions.failOnNoMatch ? r.message : null, this.setMessage(r.message, "warning", "reverse_no_match"), e && this.emitChange(), this.emit("reversenomatch", { pin: this.pin ? { ...this.pin } : null, location: { ...this.location } }), this.reverseOptions.failOnNoMatch)
-        throw this.handleError(r, {
+      const n = new Error(this.message("reverseNoMatch"));
+      if (this.geometry.reverse_match = null, this.geometry.reverse_error = this.reverseOptions.failOnNoMatch ? n.message : null, this.setMessage(n.message, "warning", "reverse_no_match"), e && this.emitChange(), this.emit("reversenomatch", { pin: this.pin ? { ...this.pin } : null, location: { ...this.location } }), this.reverseOptions.failOnNoMatch)
+        throw this.handleError(n, {
           source: "reverse",
           operation: "reverseGeocode",
           code: "reverse_no_match",
           recoverable: !1
-        }), this.setBusy(!1), r;
+        }), this.setBusy(!1), n;
       return this.setBusy(!1), null;
     }
-    this.location = H(await this.locationPicker.setValue(i, !1, { hydrate: !1 })), this.geometry.reverse_match = Ht(i), this.geometry.reverse_error = null, this.geometry.focus_result = this.mapPicker ? await this.mapPicker.focusLocation(this.location) : null, this.markTouched("reverse"), this.updateHiddenInputs(), this.setMessage(this.message("reverseMatch", { match_quality: this.geometry.reverse_match.match_quality || "geometry" }), "success", "reverse_match"), e && this.emitChange(), this.emit("reversematch", { ...this.geometry.reverse_match });
-    const n = this.value();
-    return this.setBusy(!1), n;
+    this.location = H(await this.locationPicker.setValue(i, !1, { hydrate: !1 })), this.geometry.reverse_match = vi(i), this.geometry.reverse_error = null, this.geometry.focus_result = this.mapPicker ? await this.mapPicker.focusLocation(this.location) : null, this.markTouched("reverse"), this.updateHiddenInputs(), this.setMessage(this.message("reverseMatch", { match_quality: this.geometry.reverse_match.match_quality || "geometry" }), "success", "reverse_match"), e && this.emitChange(), this.emit("reversematch", { ...this.geometry.reverse_match });
+    const r = this.value();
+    return this.setBusy(!1), r;
   }
   hasAnyValue() {
     return !!(this.location.region_id || this.location.province_id || this.location.city_id || this.location.barangay_id || this.pin);
@@ -1566,16 +1566,16 @@ class $i {
     return e.json();
   }
   validateGeoIpResult(e) {
-    return e ? this.geoIpOptions.confidence.requireCountry && e.country_code !== this.geoIpOptions.confidence.requireCountry ? this.message("geoIpCountryMismatch", { country_code: e.country_code || "unknown" }) : St(e.accuracy_level) < St(this.geoIpOptions.confidence.minimumAccuracyLevel) ? this.message("geoIpLowAccuracy", { accuracy_level: e.accuracy_level || "unknown" }) : "" : this.message("geoIpNoResult");
+    return e ? this.geoIpOptions.confidence.requireCountry && e.country_code !== this.geoIpOptions.confidence.requireCountry ? this.message("geoIpCountryMismatch", { country_code: e.country_code || "unknown" }) : Wt(e.accuracy_level) < Wt(this.geoIpOptions.confidence.minimumAccuracyLevel) ? this.message("geoIpLowAccuracy", { accuracy_level: e.accuracy_level || "unknown" }) : "" : this.message("geoIpNoResult");
   }
   async resolveGeoIpLocationByNames(e) {
     if (!this.geoIpOptions.backfill.enabled)
       return null;
-    const i = this.geoIpOptions.backfill.maxLevel, n = ct(i), r = await this.provider.getRegions().catch(() => []);
-    let a = ye(r, e.region_name), s = null;
+    const i = this.geoIpOptions.backfill.maxLevel, r = Ot(i), n = await this.provider.getRegions().catch(() => []);
+    let a = Pe(n, e.region_name), s = null;
     if (!a && e.province_name)
-      for (const u of r) {
-        const d = await this.provider.getProvinces(ge(u)).catch(() => []), m = ye(d, e.province_name);
+      for (const u of n) {
+        const h = await this.provider.getProvinces(we(u)).catch(() => []), m = Pe(h, e.province_name);
         if (m) {
           a = u, s = m;
           break;
@@ -1584,8 +1584,8 @@ class $i {
     if (!a)
       return null;
     const o = {
-      region_id: ge(a),
-      region_name: Pe(a),
+      region_id: we(a),
+      region_name: Be(a),
       province_id: "",
       province_name: "",
       city_id: "",
@@ -1593,19 +1593,19 @@ class $i {
       barangay_id: "",
       barangay_name: ""
     };
-    if (n < 2)
-      return fe(o, i);
+    if (r < 2)
+      return Le(o, i);
     if (!s) {
       const u = await this.provider.getProvinces(o.region_id).catch(() => []);
-      s = ye(u, e.province_name);
+      s = Pe(u, e.province_name);
     }
-    if (s && (o.province_id = ge(s), o.province_name = Pe(s)), n < 3 || !this.geoIpOptions.backfill.allowCity || !e.city_name)
-      return fe(o, i);
-    const l = o.province_id || o.region_id, h = await this.provider.getCities(l, {
+    if (s && (o.province_id = we(s), o.province_name = Be(s)), r < 3 || !this.geoIpOptions.backfill.allowCity || !e.city_name)
+      return Le(o, i);
+    const l = o.province_id || o.region_id, d = await this.provider.getCities(l, {
       region_id: o.region_id,
       province_id: o.province_id
-    }).catch(() => []), c = ye(h, e.city_name);
-    if (c && (o.city_id = ge(c), o.city_name = Pe(c)), n >= 4 && this.geoIpOptions.backfill.allowBarangay && o.city_id && e.barangay_name) {
+    }).catch(() => []), c = Pe(d, e.city_name);
+    if (c && (o.city_id = we(c), o.city_name = Be(c)), r >= 4 && this.geoIpOptions.backfill.allowBarangay && o.city_id && e.barangay_name) {
       const u = await this.provider.getBarangays(o.city_id, {
         region_id: o.region_id,
         region_name: o.region_name,
@@ -1613,16 +1613,16 @@ class $i {
         province_name: o.province_name,
         city_id: o.city_id,
         city_name: o.city_name
-      }).catch(() => []), d = ye(u, e.barangay_name);
-      d && (o.barangay_id = ge(d), o.barangay_name = Pe(d));
+      }).catch(() => []), h = Pe(u, e.barangay_name);
+      h && (o.barangay_id = we(h), o.barangay_name = Be(h));
     }
-    return fe(o, i);
+    return Le(o, i);
   }
   async resolveGeoIpLocationByReverse(e) {
     if (!this.geoIpOptions.backfill.enabled || !this.geoIpOptions.backfill.reverseGeocode || typeof this.provider.reverseGeocode != "function" || e.lat === null || e.lng === null)
       return null;
     const i = await this.provider.reverseGeocode(e.lat, e.lng, this.location).catch(() => null);
-    return i ? fe(i, this.geoIpOptions.backfill.maxLevel) : null;
+    return i ? Le(i, this.geoIpOptions.backfill.maxLevel) : null;
   }
   async resolveGeoIpHint(e = !0) {
     if (this.busy || this.disabled || this.readOnly || !this.geoIpOptions.enabled || this.geoIpOptions.runOnlyWhenEmpty && this.hasAnyValue())
@@ -1630,7 +1630,7 @@ class $i {
     let i;
     this.setBusy(!0, this.message("geoIpBusy"));
     try {
-      i = Oi(await this.lookupGeoIp());
+      i = yr(await this.lookupGeoIp());
     } catch (s) {
       const o = this.handleError(s, {
         source: "geoip",
@@ -1640,21 +1640,21 @@ class $i {
       });
       return this.emit("geoiperror", o), this.setBusy(!1), null;
     }
-    const n = this.validateGeoIpResult(i);
-    if (n)
-      return this.setMessage(n, "warning", "geoip_no_match"), this.emit("geoipnomatch", { result: i, reason: n }), this.setBusy(!1), null;
+    const r = this.validateGeoIpResult(i);
+    if (r)
+      return this.setMessage(r, "warning", "geoip_no_match"), this.emit("geoipnomatch", { result: i, reason: r }), this.setBusy(!1), null;
     this.mapPicker && this.geoIpOptions.updateMap && i.lat !== null && i.lng !== null && (this.geoIpOptions.setPin ? (this.mapPicker.setPin({ lat: i.lat, lng: i.lng }, !1), this.pin = { lat: i.lat, lng: i.lng }) : typeof this.mapPicker.setCenter == "function" && this.mapPicker.setCenter(
       { lat: i.lat, lng: i.lng },
       this.geoIpOptions.mapZoom,
       this.message("geoIpMapCentered")
     ));
-    let r = await this.resolveGeoIpLocationByNames(i);
-    if ((!r || !r.province_id && this.geoIpOptions.backfill.maxLevel === "province") && (r = await this.resolveGeoIpLocationByReverse(i) || r), !r || !r.region_id && !r.province_id && !r.city_id && !r.barangay_id) {
+    let n = await this.resolveGeoIpLocationByNames(i);
+    if ((!n || !n.province_id && this.geoIpOptions.backfill.maxLevel === "province") && (n = await this.resolveGeoIpLocationByReverse(i) || n), !n || !n.region_id && !n.province_id && !n.city_id && !n.barangay_id) {
       this.setMessage(this.message("geoIpNoAdminMatch"), "warning", "geoip_no_admin_match"), this.updateHiddenInputs(), e && this.emitChange();
       const s = { result: i, location: null, value: this.value() };
       return this.emit("geoipnomatch", { result: i, reason: "No administrative location matched." }), this.setBusy(!1), s;
     }
-    this.location = H(await this.locationPicker.setValue(r, !1, { hydrate: !1 })), this.geometry.reverse_match = null, this.geometry.reverse_error = null, this.geometry.focus_result = this.mapPicker ? await this.mapPicker.focusLocation(this.location) : null, this.markTouched("geoIp"), this.updateHiddenInputs(), this.setMessage(this.message("geoIpEstimate"), "info", "geoip_estimate"), e && this.emitChange();
+    this.location = H(await this.locationPicker.setValue(n, !1, { hydrate: !1 })), this.geometry.reverse_match = null, this.geometry.reverse_error = null, this.geometry.focus_result = this.mapPicker ? await this.mapPicker.focusLocation(this.location) : null, this.markTouched("geoIp"), this.updateHiddenInputs(), this.setMessage(this.message("geoIpEstimate"), "info", "geoip_estimate"), e && this.emitChange();
     const a = { result: i, location: { ...this.location }, value: this.value() };
     return this.emit("geoipresolved", a), this.setBusy(!1), a;
   }
@@ -1673,17 +1673,17 @@ class $i {
     if (!this.browserLocationOptions.backfill.enabled || !this.browserLocationOptions.backfill.reverseGeocode || typeof this.provider.reverseGeocode != "function" || e.lat === null || e.lng === null)
       return null;
     const i = await this.provider.reverseGeocode(e.lat, e.lng, this.location).catch(() => null);
-    return i ? fe(i, this.browserLocationOptions.backfill.maxLevel) : null;
+    return i ? Le(i, this.browserLocationOptions.backfill.maxLevel) : null;
   }
   async resolveBrowserLocationHint(e = !0, i = !1) {
     if (this.busy || this.disabled || this.readOnly || !this.browserLocationOptions.enabled && !i || !i && this.browserLocationOptions.runOnlyWhenEmpty && this.hasAnyValue())
       return null;
-    let n;
+    let r;
     this.setBusy(!0, this.message("browserLocationBusy"));
     try {
-      n = Ni(await this.lookupBrowserLocation());
+      r = gr(await this.lookupBrowserLocation());
     } catch (s) {
-      const o = Bi(s, this.messages), l = this.handleError(s, {
+      const o = br(s, this.messages), l = this.handleError(s, {
         source: "browser-location",
         operation: "getCurrentPosition",
         code: "browser_location_failed",
@@ -1691,23 +1691,23 @@ class $i {
       });
       return this.emit("browserlocationerror", l), this.setBusy(!1), null;
     }
-    if (n.lat === null || n.lng === null) {
+    if (r.lat === null || r.lng === null) {
       const s = this.message("browserLocationNoCoordinates");
-      return this.setMessage(s, "warning", "browser_location_no_coordinates"), this.emit("browserlocationnomatch", { result: n, reason: s }), this.setBusy(!1), null;
+      return this.setMessage(s, "warning", "browser_location_no_coordinates"), this.emit("browserlocationnomatch", { result: r, reason: s }), this.setBusy(!1), null;
     }
-    this.mapPicker && this.browserLocationOptions.updateMap && (this.browserLocationOptions.setPin ? (this.mapPicker.setPin({ lat: n.lat, lng: n.lng }, !1), this.pin = { lat: n.lat, lng: n.lng }) : typeof this.mapPicker.setCenter == "function" && this.mapPicker.setCenter(
-      { lat: n.lat, lng: n.lng },
+    this.mapPicker && this.browserLocationOptions.updateMap && (this.browserLocationOptions.setPin ? (this.mapPicker.setPin({ lat: r.lat, lng: r.lng }, !1), this.pin = { lat: r.lat, lng: r.lng }) : typeof this.mapPicker.setCenter == "function" && this.mapPicker.setCenter(
+      { lat: r.lat, lng: r.lng },
       this.browserLocationOptions.mapZoom,
       this.message("browserLocationMapCentered")
     ));
-    const r = await this.resolveBrowserLocationByReverse(n);
-    if (!r || !r.region_id && !r.province_id && !r.city_id && !r.barangay_id) {
+    const n = await this.resolveBrowserLocationByReverse(r);
+    if (!n || !n.region_id && !n.province_id && !n.city_id && !n.barangay_id) {
       this.setMessage(this.message("browserLocationNoAdminMatch"), "warning", "browser_location_no_admin_match"), this.updateHiddenInputs(), e && this.emitChange();
-      const s = { result: n, location: null, value: this.value() };
-      return this.emit("browserlocationnomatch", { result: n, reason: "No administrative location matched." }), this.setBusy(!1), s;
+      const s = { result: r, location: null, value: this.value() };
+      return this.emit("browserlocationnomatch", { result: r, reason: "No administrative location matched." }), this.setBusy(!1), s;
     }
-    this.location = H(await this.locationPicker.setValue(r, !1, { hydrate: !1 })), this.geometry.reverse_match = null, this.geometry.reverse_error = null, this.geometry.focus_result = this.mapPicker ? await this.mapPicker.focusLocation(this.location) : null, this.markTouched("browserLocation"), this.updateHiddenInputs(), this.setMessage(this.message("browserLocationEstimate"), "info", "browser_location_estimate"), e && this.emitChange();
-    const a = { result: n, location: { ...this.location }, value: this.value() };
+    this.location = H(await this.locationPicker.setValue(n, !1, { hydrate: !1 })), this.geometry.reverse_match = null, this.geometry.reverse_error = null, this.geometry.focus_result = this.mapPicker ? await this.mapPicker.focusLocation(this.location) : null, this.markTouched("browserLocation"), this.updateHiddenInputs(), this.setMessage(this.message("browserLocationEstimate"), "info", "browser_location_estimate"), e && this.emitChange();
+    const a = { result: r, location: { ...this.location }, value: this.value() };
     return this.emit("browserlocationresolved", a), this.setBusy(!1), a;
   }
   requestBrowserLocation(e = !0) {
@@ -1738,7 +1738,7 @@ class $i {
     this.locationPicker && typeof this.locationPicker.destroy == "function" && this.locationPicker.destroy(), this.mapPicker && typeof this.mapPicker.destroy == "function" && this.mapPicker.destroy(), this.handlers = {}, this.mount.innerHTML = "", document.documentElement.classList.remove("plmp-modal-open");
   }
 }
-const Ai = [
+const _r = [
   "region_id",
   "region_name",
   "province_id",
@@ -1747,28 +1747,28 @@ const Ai = [
   "city_name",
   "barangay_id",
   "barangay_name"
-], cr = "1.0.31";
+], Ba = "1.0.31";
 function _(t) {
   return String(t ?? "").trim();
 }
-function U(t, e = null) {
+function K(t, e = null) {
   const i = Number(t);
   return Number.isFinite(i) ? i : e;
 }
-function Le(t) {
+function Ae(t) {
   return Array.isArray(t) ? t : t && Array.isArray(t.data) ? t.data : t && Array.isArray(t.items) ? t.items : t && Array.isArray(t.results) ? t.results : [];
 }
-function Oe(t = {}, e = "") {
-  const i = t || {}, n = _(i.id || i.code || i.psgc_code || i.psgcCode || i.correspondence_code || i.correspondenceCode), r = _(i.code || i.psgc_code || i.psgcCode || n), a = _(i.name || i.area_name || i.areaName || i.label || i.code_name || i.codeName || i.slug || n || r), s = _(i.type || i.geographic_level || i.geographicLevel || e);
+function He(t = {}, e = "") {
+  const i = t || {}, r = _(i.id || i.code || i.psgc_code || i.psgcCode || i.correspondence_code || i.correspondenceCode), n = _(i.code || i.psgc_code || i.psgcCode || r), a = _(i.name || i.area_name || i.areaName || i.label || i.code_name || i.codeName || i.slug || r || n), s = _(i.type || i.geographic_level || i.geographicLevel || e);
   return {
     ...i,
-    id: n || r || a,
-    code: r || n || a,
+    id: r || n || a,
+    code: n || r || a,
     name: a,
     type: s
   };
 }
-function Ri() {
+function vr() {
   return {
     region_id: "",
     region_name: "",
@@ -1782,79 +1782,79 @@ function Ri() {
     display_label: ""
   };
 }
-function Fi(t = {}, e = "city_barangay") {
+function wr(t = {}, e = "city_barangay") {
   const i = [];
   return e === "region_province_city_barangay" ? i.push(t.region_name, t.province_name, t.city_name, t.barangay_name) : e === "province_city_barangay" ? i.push(t.province_name, t.city_name, t.barangay_name) : e === "barangay_only" ? i.push(t.barangay_name) : i.push(t.city_name, t.barangay_name), i.map(_).filter(Boolean).join(" → ");
 }
-function V(t = {}, e = {}) {
-  const i = t || {}, n = {
+function T(t = {}, e = {}) {
+  const i = t || {}, r = {
     ...i,
-    ...Ri()
+    ...vr()
   };
-  Ai.forEach((a) => {
-    n[a] = _(i[a]);
+  _r.forEach((a) => {
+    r[a] = _(i[a]);
   });
-  const r = Fi(n, e.labelFormat || i.label_format || "city_barangay");
-  return n.label = _(i.label) || r, n.display_label = _(i.display_label) || n.label, i.match_quality !== void 0 && (n.match_quality = _(i.match_quality)), i.match_distance_km !== void 0 && (n.match_distance_km = U(i.match_distance_km, 0)), i.resolved !== void 0 && (n.resolved = !!i.resolved), i.resolved_source !== void 0 && (n.resolved_source = _(i.resolved_source)), n;
+  const n = wr(r, e.labelFormat || i.label_format || "city_barangay");
+  return r.label = _(i.label) || n, r.display_label = _(i.display_label) || r.label, i.match_quality !== void 0 && (r.match_quality = _(i.match_quality)), i.match_distance_km !== void 0 && (r.match_distance_km = K(i.match_distance_km, 0)), i.resolved !== void 0 && (r.resolved = !!i.resolved), i.resolved_source !== void 0 && (r.resolved_source = _(i.resolved_source)), r;
 }
-function lr(t = {}) {
-  const e = U(t && t.lat, null), i = U(t && t.lng, null);
+function Aa(t = {}) {
+  const e = K(t && t.lat, null), i = K(t && t.lng, null);
   return e === null || i === null ? null : { lat: e, lng: i };
 }
-function ur(t = {}) {
-  const e = t || {}, i = U(e.south, null), n = U(e.west, null), r = U(e.north, null), a = U(e.east, null);
-  return [i, n, r, a].some((s) => s === null) ? null : { south: i, west: n, north: r, east: a };
+function $a(t = {}) {
+  const e = t || {}, i = K(e.south, null), r = K(e.west, null), n = K(e.north, null), a = K(e.east, null);
+  return [i, r, n, a].some((s) => s === null) ? null : { south: i, west: r, north: n, east: a };
 }
-function De(t = {}) {
-  const e = V(t);
-  return e.match_quality = _(t.match_quality || e.match_quality || "provider-match"), e.match_distance_km = U(t.match_distance_km, e.match_distance_km || 0), e;
+function ze(t = {}) {
+  const e = T(t);
+  return e.match_quality = _(t.match_quality || e.match_quality || "provider-match"), e.match_distance_km = K(t.match_distance_km, e.match_distance_km || 0), e;
 }
-function C(t, e = {}) {
-  const i = t instanceof Error ? t : new Error(_(t) || "Provider request failed."), n = new Error(i.message || "Provider request failed.");
-  return n.name = "ProviderError", n.provider_error = !0, n.provider = _(e.provider || i.provider || ""), n.method = _(e.method || i.method || ""), n.code = _(e.code || i.code || "provider_error") || "provider_error", n.status = U(e.status ?? i.status, null), n.path = _(e.path || i.path || ""), n.reason = _(e.reason || i.reason || ""), n.cause = i, n;
+function M(t, e = {}) {
+  const i = t instanceof Error ? t : new Error(_(t) || "Provider request failed."), r = new Error(i.message || "Provider request failed.");
+  return r.name = "ProviderError", r.provider_error = !0, r.provider = _(e.provider || i.provider || ""), r.method = _(e.method || i.method || ""), r.code = _(e.code || i.code || "provider_error") || "provider_error", r.status = K(e.status ?? i.status, null), r.path = _(e.path || i.path || ""), r.reason = _(e.reason || i.reason || ""), r.cause = i, r;
 }
-function hr(t = "no_match", e = {}) {
+function Fa(t = "no_match", e = {}) {
   return {
     matched: !1,
     reason: _(t) || "no_match",
     context: e || null
   };
 }
-async function dr(t, e, i, n = null) {
+async function qa(t, e, i, r = null) {
   try {
     return await i();
-  } catch (r) {
-    const a = C(r, {
+  } catch (n) {
+    const a = M(n, {
       provider: t,
       method: e
     });
-    if (n !== void 0)
-      return n;
+    if (r !== void 0)
+      return r;
     throw a;
   }
 }
-function dt(t, e) {
+function Bt(t, e) {
   if (!t || !Array.isArray(e) || e.length < 3) return !1;
-  const i = Number(t.lat), n = Number(t.lng);
-  let r = !1;
+  const i = Number(t.lat), r = Number(t.lng);
+  let n = !1;
   for (let a = 0, s = e.length - 1; a < e.length; s = a++) {
-    const o = Number(e[a].lat), l = Number(e[a].lng), h = Number(e[s].lat), c = Number(e[s].lng);
-    o > i != h > i && n < (c - l) * (i - o) / (h - o || Number.EPSILON) + l && (r = !r);
+    const o = Number(e[a].lat), l = Number(e[a].lng), d = Number(e[s].lat), c = Number(e[s].lng);
+    o > i != d > i && r < (c - l) * (i - o) / (d - o || Number.EPSILON) + l && (n = !n);
   }
-  return r;
+  return n;
 }
-const Zt = (t) => Array.isArray(t) ? t : [], ee = (t) => String(t ?? "").trim(), oe = (t) => ee(t && (t.id || t.code)), le = (t) => String(t && t.name || "").trim();
-function Ne(t) {
-  return Zt(t).slice().sort((e, i) => le(e).localeCompare(le(i)));
+const Ei = (t) => Array.isArray(t) ? t : [], te = (t) => String(t ?? "").trim(), ue = (t) => te(t && (t.id || t.code)), he = (t) => String(t && t.name || "").trim();
+function Ve(t) {
+  return Ei(t).slice().sort((e, i) => he(e).localeCompare(he(i)));
 }
-function Be(t) {
+function Ge(t) {
   return Number(t) * Math.PI / 180;
 }
-function qi(t, e) {
-  const n = Be(Number(e.lat) - Number(t.lat)), r = Be(Number(e.lng) - Number(t.lng)), a = Be(t.lat), s = Be(e.lat), o = Math.sin(n / 2) * Math.sin(n / 2) + Math.cos(a) * Math.cos(s) * Math.sin(r / 2) * Math.sin(r / 2);
+function Pr(t, e) {
+  const r = Ge(Number(e.lat) - Number(t.lat)), n = Ge(Number(e.lng) - Number(t.lng)), a = Ge(t.lat), s = Ge(e.lat), o = Math.sin(r / 2) * Math.sin(r / 2) + Math.cos(a) * Math.cos(s) * Math.sin(n / 2) * Math.sin(n / 2);
   return 2 * 6371 * Math.atan2(Math.sqrt(o), Math.sqrt(1 - o));
 }
-class xi {
+class Si {
   constructor(e = {}) {
     this.baseUrl = String(e.baseUrl || "/data").replace(/\/+$/, ""), this.cache = /* @__PURE__ */ new Map(), this.reverseMaxNearestKm = Number.isFinite(Number(e.reverseMaxNearestKm)) ? Number(e.reverseMaxNearestKm) : 0;
   }
@@ -1862,14 +1862,14 @@ class xi {
     const i = String(e || "").replace(/^\/+/, "");
     if (this.cache.has(i))
       return this.cache.get(i);
-    let n;
+    let r;
     try {
-      n = await fetch(`${this.baseUrl}/${i}`, {
+      r = await fetch(`${this.baseUrl}/${i}`, {
         headers: { Accept: "application/json" },
         credentials: "same-origin"
       });
     } catch (a) {
-      throw C(a, {
+      throw M(a, {
         provider: "static-json",
         method: "fetchJson",
         path: i,
@@ -1877,92 +1877,92 @@ class xi {
         reason: "network"
       });
     }
-    if (!n.ok)
-      throw C(`Location data request failed: ${i} (${n.status})`, {
+    if (!r.ok)
+      throw M(`Location data request failed: ${i} (${r.status})`, {
         provider: "static-json",
         method: "fetchJson",
-        status: n.status,
+        status: r.status,
         path: i,
-        code: n.status === 404 ? "static_json_not_found" : "static_json_request_failed"
+        code: r.status === 404 ? "static_json_not_found" : "static_json_request_failed"
       });
-    let r;
+    let n;
     try {
-      r = await n.json();
+      n = await r.json();
     } catch (a) {
-      throw C(a, {
+      throw M(a, {
         provider: "static-json",
         method: "fetchJson",
-        status: n.status,
+        status: r.status,
         path: i,
         code: "static_json_malformed_json",
         reason: "malformed_json"
       });
     }
-    return this.cache.set(i, r), r;
+    return this.cache.set(i, n), n;
   }
   async fetchOptionalJson(e, i = null) {
     try {
       return await this.fetchJson(e);
-    } catch (n) {
-      return n && (n.status === 404 || n.status === 403), i;
+    } catch (r) {
+      return r && (r.status === 404 || r.status === 403), i;
     }
   }
   async fetchFirst(e, i = null) {
-    for (const n of e)
+    for (const r of e)
       try {
-        return await this.fetchJson(n);
+        return await this.fetchJson(r);
       } catch {
       }
     return i;
   }
   async getRegions() {
-    return Ne(await this.fetchJson("psgc/regions.json"));
+    return Ve(await this.fetchJson("psgc/regions.json"));
   }
   async getProvinces(e) {
-    const i = K(e).map((n) => `psgc/provinces/${n}.json`);
-    return Ne(await this.fetchFirst(i, []));
+    const i = W(e).map((r) => `psgc/provinces/${r}.json`);
+    return Ve(await this.fetchFirst(i, []));
   }
   async getCities(e, i = {}) {
-    const n = ee(i.province_id || e), r = ee(i.region_id || e), a = [];
-    return n && ne(n).forEach((s) => a.push(`psgc/cities/${s}.json`)), !i.province_id && r && K(r).forEach((s) => a.push(`psgc/cities/${s}.json`)), Ne(await this.fetchFirst([...new Set(a)], []));
+    const r = te(i.province_id || e), n = te(i.region_id || e), a = [];
+    return r && se(r).forEach((s) => a.push(`psgc/cities/${s}.json`)), !i.province_id && n && W(n).forEach((s) => a.push(`psgc/cities/${s}.json`)), Ve(await this.fetchFirst([...new Set(a)], []));
   }
   async getBarangays(e) {
-    const i = I(e).map((n) => `psgc/barangays/${n}.json`);
-    return Ne(await this.fetchFirst(i, []));
+    const i = O(e).map((r) => `psgc/barangays/${r}.json`);
+    return Ve(await this.fetchFirst(i, []));
   }
   boundsFileName(e) {
     return e === "city" ? "cities" : `${e}s`;
   }
   async getBounds(e, i) {
-    const n = this.boundsFileName(e);
-    let r = {};
-    if (r = await this.fetchOptionalJson(`geo/bounds/${n}.json`, null), !r && e === "city" && (r = await this.fetchOptionalJson("geo/bounds/citys.json", null)), !r || typeof r != "object")
+    const r = this.boundsFileName(e);
+    let n = {};
+    if (n = await this.fetchOptionalJson(`geo/bounds/${r}.json`, null), !n && e === "city" && (n = await this.fetchOptionalJson("geo/bounds/citys.json", null)), !n || typeof n != "object")
       return null;
-    for (const a of xe(e, i))
-      if (r[a])
-        return re(r[a]);
+    for (const a of Ye(e, i))
+      if (n[a])
+        return oe(n[a]);
     return null;
   }
   async getCentroid(e, i) {
-    const n = this.boundsFileName(e);
+    const r = this.boundsFileName(e);
     try {
-      const a = await this.fetchOptionalJson(`geo/centroids/${n}.json`, {});
-      for (const s of xe(e, i)) {
+      const a = await this.fetchOptionalJson(`geo/centroids/${r}.json`, {});
+      for (const s of Ye(e, i)) {
         const o = a[s];
         if (o)
           return { lat: Number(o.lat), lng: Number(o.lng) };
       }
     } catch {
     }
-    const r = await this.getBounds(e, i).catch(() => null);
-    return ue(r);
+    const n = await this.getBounds(e, i).catch(() => null);
+    return ye(n);
   }
   async getPolygon(e, i) {
     if (e !== "barangay")
       return null;
-    const n = Se(i), r = zt(i);
-    for (const a of n)
-      for (const s of r)
+    const r = Re(i), n = yi(i);
+    for (const a of r)
+      for (const s of n)
         try {
           const o = await this.fetchJson(`geo/polygons/barangays/${s}/${a}.json`);
           return Array.isArray(o) ? o : null;
@@ -1971,101 +1971,101 @@ class xi {
     return null;
   }
   findRow(e, i) {
-    return Zt(e).find((n) => i.includes(oe(n))) || null;
+    return Ei(e).find((r) => i.includes(ue(r))) || null;
   }
   async getLocationByIds(e = {}) {
-    let i = ee(e.region_id), n = ee(e.province_id), r = ee(e.city_id), a = ee(e.barangay_id);
-    a && !r && (r = D(a)), r && !n && (n = F(r)), (n || r || a) && !i && (i = z(n || r || a));
+    let i = te(e.region_id), r = te(e.province_id), n = te(e.city_id), a = te(e.barangay_id);
+    a && !n && (n = z(a)), n && !r && (r = C(n)), (r || n || a) && !i && (i = R(r || n || a));
     const s = {
       region_id: i,
       region_name: "",
-      province_id: n,
+      province_id: r,
       province_name: "",
-      city_id: r,
+      city_id: n,
       city_name: "",
       barangay_id: a,
       barangay_name: ""
     };
     if (i) {
-      const u = this.findRow(await this.getRegions(), K(i));
-      u && (s.region_id = oe(u), s.region_name = le(u));
+      const u = this.findRow(await this.getRegions(), W(i));
+      u && (s.region_id = ue(u), s.region_name = he(u));
     }
     const o = s.region_id ? await this.getProvinces(s.region_id) : [];
-    if (n && o.length > 0) {
-      const u = this.findRow(o, ne(n));
-      u && (s.province_id = oe(u), s.province_name = le(u));
+    if (r && o.length > 0) {
+      const u = this.findRow(o, se(r));
+      u && (s.province_id = ue(u), s.province_name = he(u));
     } else o.length === 0 && (s.province_id = "", s.province_name = "");
-    const l = s.province_id || s.region_id, h = l ? await this.getCities(l, {
+    const l = s.province_id || s.region_id, d = l ? await this.getCities(l, {
       region_id: s.region_id,
       province_id: s.province_id
     }) : [];
-    if (r) {
-      const u = this.findRow(h, I(r));
-      u && (s.city_id = oe(u), s.city_name = le(u));
+    if (n) {
+      const u = this.findRow(d, O(n));
+      u && (s.city_id = ue(u), s.city_name = he(u));
     }
     const c = s.city_id ? await this.getBarangays(s.city_id) : [];
     if (a) {
-      const u = this.findRow(c, Se(a));
-      u && (s.barangay_id = oe(u), s.barangay_name = le(u));
+      const u = this.findRow(c, Re(a));
+      u && (s.barangay_id = ue(u), s.barangay_name = he(u));
     }
-    return s.label = [s.city_name, s.barangay_name].filter(Boolean).join(" → "), s.display_label = s.label, V(s);
+    return s.label = [s.city_name, s.barangay_name].filter(Boolean).join(" → "), s.display_label = s.label, T(s);
   }
-  async reverseGeocode(e, i, n = {}) {
-    const r = { lat: Number(e), lng: Number(i) };
-    if (!Number.isFinite(r.lat) || !Number.isFinite(r.lng))
+  async reverseGeocode(e, i, r = {}) {
+    const n = { lat: Number(e), lng: Number(i) };
+    if (!Number.isFinite(n.lat) || !Number.isFinite(n.lng))
       return null;
     const a = [];
-    if (n.city_id)
-      a.push(ee(n.city_id));
+    if (r.city_id)
+      a.push(te(r.city_id));
     else {
-      const h = await this.fetchOptionalJson("geo/bounds/cities.json", null) || await this.fetchOptionalJson("geo/bounds/citys.json", {});
-      Object.keys(h).forEach((c) => {
-        ze(h[c], r.lat, r.lng) && a.push(c);
+      const d = await this.fetchOptionalJson("geo/bounds/cities.json", null) || await this.fetchOptionalJson("geo/bounds/citys.json", {});
+      Object.keys(d).forEach((c) => {
+        Xe(d[c], n.lat, n.lng) && a.push(c);
       });
     }
     const s = [];
-    for (const h of a) {
-      const c = await this.getBarangays(h).catch(() => []);
+    for (const d of a) {
+      const c = await this.getBarangays(d).catch(() => []);
       for (const u of c) {
-        const d = oe(u), m = await this.getBounds("barangay", d).catch(() => null), y = await this.getCentroid("barangay", d).catch(() => null);
+        const h = ue(u), m = await this.getBounds("barangay", h).catch(() => null), y = await this.getCentroid("barangay", h).catch(() => null);
         if (y && s.push({
-          cityId: h,
-          barangayId: d,
-          distanceKm: qi(r, y)
-        }), !ze(m, r.lat, r.lng))
+          cityId: d,
+          barangayId: h,
+          distanceKm: Pr(n, y)
+        }), !Xe(m, n.lat, n.lng))
           continue;
-        const M = await this.getPolygon("barangay", d);
-        if (M && M.length >= 3 && !dt(r, M))
+        const I = await this.getPolygon("barangay", h);
+        if (I && I.length >= 3 && !Bt(n, I))
           continue;
-        const W = await this.getLocationByIds({
-          region_id: z(d),
-          province_id: F(d),
-          city_id: h,
-          barangay_id: d
+        const Y = await this.getLocationByIds({
+          region_id: R(h),
+          province_id: C(h),
+          city_id: d,
+          barangay_id: h
         });
-        return W.match_quality = M && M.length >= 3 ? "polygon" : "bounds", W.match_distance_km = 0, V(W);
+        return Y.match_quality = I && I.length >= 3 ? "polygon" : "bounds", Y.match_distance_km = 0, T(Y);
       }
     }
     if (this.reverseMaxNearestKm <= 0)
       return null;
-    s.sort((h, c) => h.distanceKm - c.distanceKm);
+    s.sort((d, c) => d.distanceKm - c.distanceKm);
     const o = s[0];
     if (!o || o.distanceKm > this.reverseMaxNearestKm)
       return null;
     const l = await this.getLocationByIds({
-      region_id: z(o.barangayId),
-      province_id: F(o.barangayId),
+      region_id: R(o.barangayId),
+      province_id: C(o.barangayId),
       city_id: o.cityId,
       barangay_id: o.barangayId
     });
-    return l.match_quality = "nearest-centroid", l.match_distance_km = Number(o.distanceKm.toFixed(3)), V(l);
+    return l.match_quality = "nearest-centroid", l.match_distance_km = Number(o.distanceKm.toFixed(3)), T(l);
   }
 }
 function v(t) {
   return String(t ?? "").trim();
 }
-function Xe(t) {
-  return Le(t);
+function gt(t) {
+  return Ae(t);
 }
 function L(t) {
   return encodeURIComponent(v(t));
@@ -2076,13 +2076,13 @@ function b(t) {
 function E(t) {
   return t.slice().sort((e, i) => e.name.localeCompare(i.name));
 }
-function k(t) {
+function S(t) {
   return [...new Set(t.map(v).filter(Boolean))];
 }
-function ce(t, e) {
-  return k(t.map((i) => R(i, e) || v(i))).filter((i) => /^\d{10}$/.test(i));
+function de(t, e) {
+  return S(t.map((i) => q(i, e) || v(i))).filter((i) => /^\d{10}$/.test(i));
 }
-function zi(t) {
+function Lr(t) {
   return [
     t.id,
     t.code,
@@ -2091,32 +2091,32 @@ function zi(t) {
     t.correspondenceCode
   ].map(v).filter(Boolean);
 }
-function lt(t) {
+function Mt(t) {
   return String(t ?? "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/\b(city|municipality|province|region|of|the)\b/g, " ").replace(/[^a-z0-9]+/g, " ").trim().replace(/\s+/g, " ");
 }
-function Ct(t) {
-  return lt(t).split(" ").filter(Boolean);
+function Xt(t) {
+  return Mt(t).split(" ").filter(Boolean);
 }
-function Di(t, e) {
-  const i = lt(t), n = lt(e);
-  if (!i || !n)
+function Er(t, e) {
+  const i = Mt(t), r = Mt(e);
+  if (!i || !r)
     return !1;
-  if (i === n || i.includes(n) || n.includes(i))
+  if (i === r || i.includes(r) || r.includes(i))
     return !0;
-  const r = new Set(Ct(i)), a = Ct(n);
-  return a.length > 0 && a.every((s) => r.has(s));
+  const n = new Set(Xt(i)), a = Xt(r);
+  return a.length > 0 && a.every((s) => n.has(s));
 }
-function ji(t, e) {
-  const i = k([
+function Sr(t, e) {
+  const i = S([
     t.name,
     t.area_name,
     t.label,
     t.code_name,
     t.slug
-  ]), n = k(e);
-  return i.some((r) => n.some((a) => Di(r, a)));
+  ]), r = S(e);
+  return i.some((n) => r.some((a) => Er(n, a)));
 }
-function Qe(t) {
+function bt(t) {
   if (!t)
     return null;
   if (typeof t == "string")
@@ -2132,12 +2132,12 @@ function Qe(t) {
     name: i
   };
 }
-function B(t, e = "") {
-  const i = t || {}, n = v(i.code || i.id || i.psgc_code), r = b(i.name || i.area_name || i.label || i.code_name || i.slug || n), a = b(i.type || i.geographic_level || e);
+function A(t, e = "") {
+  const i = t || {}, r = v(i.code || i.id || i.psgc_code), n = b(i.name || i.area_name || i.label || i.code_name || i.slug || r), a = b(i.type || i.geographic_level || e);
   return {
-    id: n || r,
-    code: n || r,
-    name: r,
+    id: r || n,
+    code: r || n,
+    name: n,
     type: a,
     status: b(i.status || ""),
     zip_code: b(i.zip_code || i.postal_code || ""),
@@ -2147,48 +2147,48 @@ function B(t, e = "") {
     area_name: b(i.area_name || i.areaName || ""),
     psgc_code: v(i.psgc_code || i.psgcCode || ""),
     correspondence_code: v(i.correspondence_code || i.correspondenceCode || i.old_code || i.oldCode || ""),
-    region: Qe(i.region),
-    province: Qe(i.province),
-    city_municipality: Qe(i.city_municipality || i.city || i.municipality)
+    region: bt(i.region),
+    province: bt(i.province),
+    city_municipality: bt(i.city_municipality || i.city || i.municipality)
   };
 }
-function Ti(t, e) {
-  const i = e.map(v).filter(Boolean), n = new Set(i);
+function kr(t, e) {
+  const i = e.map(v).filter(Boolean), r = new Set(i);
   if (i.forEach((a) => {
     ["region", "province", "city", "barangay"].forEach((s) => {
-      const o = R(a, s);
-      o && n.add(o);
+      const o = q(a, s);
+      o && r.add(o);
     });
-  }), n.size === 0)
+  }), r.size === 0)
     return !1;
-  const r = zi(t);
-  return [...r].forEach((a) => {
+  const n = Lr(t);
+  return [...n].forEach((a) => {
     ["region", "province", "city", "barangay"].forEach((s) => {
-      const o = R(a, s);
-      o && r.push(o);
+      const o = q(a, s);
+      o && n.push(o);
     });
-  }), r.some((a) => n.has(a));
+  }), n.some((a) => r.has(a));
 }
-function Ut(t, e, i = []) {
-  return Ti(t, e) || ji(t, i);
+function ki(t, e, i = []) {
+  return kr(t, e) || Sr(t, i);
 }
-function $e(t, e, i = []) {
-  return t ? Ut(t, e, i) : !1;
+function Je(t, e, i = []) {
+  return t ? ki(t, e, i) : !1;
 }
-function Hi(t) {
+function Or(t) {
   const e = v(t);
   return !!e && !/^\d+$/.test(e);
 }
-function Ae(t, e = "", i = "", n = !1) {
-  const r = [];
-  t && (r.push(t.code_name, t.slug), n && r.push(t.name, t.label, t.area_name, t.code, t.id, t.psgc_code, t.correspondence_code)), n && r.push(e, i);
-  const a = k(r);
-  return n ? a : a.filter(Hi);
+function Ze(t, e = "", i = "", r = !1) {
+  const n = [];
+  t && (n.push(t.code_name, t.slug), r && n.push(t.name, t.label, t.area_name, t.code, t.id, t.psgc_code, t.correspondence_code)), r && n.push(e, i);
+  const a = S(n);
+  return r ? a : a.filter(Or);
 }
-function et(t, e) {
+function _t(t, e) {
   e && (e.region && (t.region_id = e.region.id || t.region_id, t.region_name = e.region.name || t.region_name), e.province && (t.province_id = e.province.id || t.province_id, t.province_name = e.province.name || t.province_name), e.city_municipality && (t.city_id = e.city_municipality.id || t.city_id, t.city_name = e.city_municipality.name || t.city_name));
 }
-class mr {
+class Ra {
   constructor(e = {}) {
     this.baseUrl = String(e.baseUrl || "https://psgc.cloud/api/v2").replace(/\/+$/, ""), this.cache = /* @__PURE__ */ new Map(), this.notFoundCache = /* @__PURE__ */ new Set(), this.allowEndpointFallbacks = e.allowEndpointFallbacks === !0, this.cacheNotFound = e.cacheNotFound !== !1;
   }
@@ -2197,7 +2197,7 @@ class mr {
     if (this.cache.has(i))
       return this.cache.get(i);
     if (this.notFoundCache.has(i)) {
-      const a = C(`PSGC Cloud request failed: ${i} (404)`, {
+      const a = M(`PSGC Cloud request failed: ${i} (404)`, {
         provider: "psgc-cloud",
         method: "fetchJson",
         status: 404,
@@ -2206,13 +2206,13 @@ class mr {
       });
       throw a.cached = !0, a;
     }
-    let n;
+    let r;
     try {
-      n = await fetch(`${this.baseUrl}/${i}`, {
+      r = await fetch(`${this.baseUrl}/${i}`, {
         headers: { Accept: "application/json" }
       });
     } catch (a) {
-      throw C(a, {
+      throw M(a, {
         provider: "psgc-cloud",
         method: "fetchJson",
         path: i,
@@ -2220,34 +2220,34 @@ class mr {
         reason: "network"
       });
     }
-    if (!n.ok) {
-      const a = C(`PSGC Cloud request failed: ${i} (${n.status})`, {
+    if (!r.ok) {
+      const a = M(`PSGC Cloud request failed: ${i} (${r.status})`, {
         provider: "psgc-cloud",
         method: "fetchJson",
-        status: n.status,
+        status: r.status,
         path: i,
-        code: n.status === 404 ? "psgc_not_found" : "psgc_request_failed"
+        code: r.status === 404 ? "psgc_not_found" : "psgc_request_failed"
       });
-      throw this.cacheNotFound && n.status === 404 && this.notFoundCache.add(i), a;
+      throw this.cacheNotFound && r.status === 404 && this.notFoundCache.add(i), a;
     }
-    let r;
+    let n;
     try {
-      r = await n.json();
+      n = await r.json();
     } catch (a) {
-      throw C(a, {
+      throw M(a, {
         provider: "psgc-cloud",
         method: "fetchJson",
-        status: n.status,
+        status: r.status,
         path: i,
         code: "psgc_malformed_json",
         reason: "malformed_json"
       });
     }
-    return this.cache.set(i, r), r;
+    return this.cache.set(i, n), n;
   }
   async fetchOptionalArray(e) {
     try {
-      return Xe(await this.fetchJson(e));
+      return gt(await this.fetchJson(e));
     } catch (i) {
       if (i.status === 404)
         return [];
@@ -2255,165 +2255,165 @@ class mr {
     }
   }
   async fetchFirstArray(e) {
-    for (const i of k(e)) {
-      const n = await this.fetchOptionalArray(i);
-      if (n.length > 0)
-        return n;
+    for (const i of S(e)) {
+      const r = await this.fetchOptionalArray(i);
+      if (r.length > 0)
+        return r;
     }
     return [];
   }
   async fetchOptionalItem(e, i = "") {
     if (!this.allowEndpointFallbacks)
       return null;
-    for (const n of k(e))
+    for (const r of S(e))
       try {
-        return B(await this.fetchJson(n), i);
-      } catch (r) {
-        if (r.status !== 404)
-          throw r;
+        return A(await this.fetchJson(r), i);
+      } catch (n) {
+        if (n.status !== 404)
+          throw n;
       }
     return null;
   }
-  findRow(e, i, n = []) {
-    return Xe(e).map((r) => B(r)).find((r) => Ut(r, i, n)) || null;
+  findRow(e, i, r = []) {
+    return gt(e).map((n) => A(n)).find((n) => ki(n, i, r)) || null;
   }
   async getRegions() {
-    return E(Xe(await this.fetchJson("regions")).map((e) => B(e, "region")));
+    return E(gt(await this.fetchJson("regions")).map((e) => A(e, "region")));
   }
   async getAllProvinces() {
-    return E((await this.fetchOptionalArray("provinces")).map((e) => B(e, "province")));
+    return E((await this.fetchOptionalArray("provinces")).map((e) => A(e, "province")));
   }
   async getAllCities() {
-    return E((await this.fetchOptionalArray("cities-municipalities")).map((e) => B(e, "city_municipality")));
+    return E((await this.fetchOptionalArray("cities-municipalities")).map((e) => A(e, "city_municipality")));
   }
   async getAllBarangays() {
-    return E((await this.fetchOptionalArray("barangays")).map((e) => B(e, "barangay")));
+    return E((await this.fetchOptionalArray("barangays")).map((e) => A(e, "barangay")));
   }
   async getProvinces(e, i = {}) {
-    const n = b(i.region_name || "");
-    if (!e && !n)
+    const r = b(i.region_name || "");
+    if (!e && !r)
       return [];
-    const r = await this.resolveRegion(e, n).catch(() => null), a = K(e || r && r.id), s = k([n, r && r.name]), l = (await this.getAllProvinces().catch(() => [])).filter((c) => $e(c.region, a, s));
+    const n = await this.resolveRegion(e, r).catch(() => null), a = W(e || n && n.id), s = S([r, n && n.name]), l = (await this.getAllProvinces().catch(() => [])).filter((c) => Je(c.region, a, s));
     if (l.length > 0)
       return E(l);
-    if (r) {
-      const c = Ae(r, n, e, this.allowEndpointFallbacks).map((u) => `regions/${L(u)}/provinces`);
-      return E((await this.fetchFirstArray(c)).map((u) => B(u, "province")));
+    if (n) {
+      const c = Ze(n, r, e, this.allowEndpointFallbacks).map((u) => `regions/${L(u)}/provinces`);
+      return E((await this.fetchFirstArray(c)).map((u) => A(u, "province")));
     }
     if (!this.allowEndpointFallbacks)
       return [];
-    const h = ce(a, "region").map((c) => `regions/${L(c)}/provinces`);
-    return E((await this.fetchFirstArray(h)).map((c) => B(c, "province")));
+    const d = de(a, "region").map((c) => `regions/${L(c)}/provinces`);
+    return E((await this.fetchFirstArray(d)).map((c) => A(c, "province")));
   }
   async getCities(e, i = {}) {
-    const n = v(i.province_id || e), r = v(i.region_id || e), a = b(i.province_name || ""), s = b(i.region_name || ""), o = await this.getAllCities().catch(() => []);
-    if (n || a) {
-      const l = await this.resolveProvince(n, r, a, s).catch(() => null), h = ne(n || l && l.id), c = k([a, l && l.name]), u = o.filter((d) => $e(d.province, h, c));
+    const r = v(i.province_id || e), n = v(i.region_id || e), a = b(i.province_name || ""), s = b(i.region_name || ""), o = await this.getAllCities().catch(() => []);
+    if (r || a) {
+      const l = await this.resolveProvince(r, n, a, s).catch(() => null), d = se(r || l && l.id), c = S([a, l && l.name]), u = o.filter((h) => Je(h.province, d, c));
       if (u.length > 0)
         return E(u);
       if (l) {
-        const d = Ae(l, a, n, this.allowEndpointFallbacks).map((y) => `provinces/${L(y)}/cities-municipalities`), m = await this.fetchFirstArray(d);
+        const h = Ze(l, a, r, this.allowEndpointFallbacks).map((y) => `provinces/${L(y)}/cities-municipalities`), m = await this.fetchFirstArray(h);
         if (m.length > 0)
-          return E(m.map((y) => B(y, "city_municipality")));
+          return E(m.map((y) => A(y, "city_municipality")));
       }
     }
-    if (r || s) {
-      const l = await this.resolveRegion(r, s).catch(() => null), h = K(r || l && l.id), c = k([s, l && l.name]), u = o.filter((d) => $e(d.region, h, c));
+    if (n || s) {
+      const l = await this.resolveRegion(n, s).catch(() => null), d = W(n || l && l.id), c = S([s, l && l.name]), u = o.filter((h) => Je(h.region, d, c));
       if (u.length > 0)
         return E(u);
       if (l) {
-        const d = Ae(l, s, r, this.allowEndpointFallbacks).map((m) => `regions/${L(m)}/cities-municipalities`);
-        return E((await this.fetchFirstArray(d)).map((m) => B(m, "city_municipality")));
+        const h = Ze(l, s, n, this.allowEndpointFallbacks).map((m) => `regions/${L(m)}/cities-municipalities`);
+        return E((await this.fetchFirstArray(h)).map((m) => A(m, "city_municipality")));
       }
     }
     return [];
   }
   async getBarangays(e, i = {}) {
-    const n = v(e || i.city_id), r = b(i.city_name || "");
-    if (!n && !r)
+    const r = v(e || i.city_id), n = b(i.city_name || "");
+    if (!r && !n)
       return [];
-    const a = await this.resolveCity(n, i).catch(() => null), s = I(n || a && a.id), o = k([r, a && a.name]);
+    const a = await this.resolveCity(r, i).catch(() => null), s = O(r || a && a.id), o = S([n, a && a.name]);
     if (a) {
-      const u = Ae(a, r, n, this.allowEndpointFallbacks).map((m) => `cities-municipalities/${L(m)}/barangays`), d = await this.fetchFirstArray(u);
-      if (d.length > 0)
-        return E(d.map((m) => B(m, "barangay")));
+      const u = Ze(a, n, r, this.allowEndpointFallbacks).map((m) => `cities-municipalities/${L(m)}/barangays`), h = await this.fetchFirstArray(u);
+      if (h.length > 0)
+        return E(h.map((m) => A(m, "barangay")));
     }
-    const h = (await this.getAllBarangays().catch(() => [])).filter((u) => $e(u.city_municipality, s, o));
-    if (h.length > 0)
-      return E(h);
+    const d = (await this.getAllBarangays().catch(() => [])).filter((u) => Je(u.city_municipality, s, o));
+    if (d.length > 0)
+      return E(d);
     if (!this.allowEndpointFallbacks)
       return [];
-    const c = ce(s, "city").map((u) => `cities-municipalities/${L(u)}/barangays`);
-    return E((await this.fetchFirstArray(c)).map((u) => B(u, "barangay")));
+    const c = de(s, "city").map((u) => `cities-municipalities/${L(u)}/barangays`);
+    return E((await this.fetchFirstArray(c)).map((u) => A(u, "barangay")));
   }
   async resolveRegion(e, i = "") {
-    const n = K(e), r = k([i]), a = this.findRow(await this.getRegions().catch(() => []), n, r);
+    const r = W(e), n = S([i]), a = this.findRow(await this.getRegions().catch(() => []), r, n);
     if (a)
       return a;
-    const s = [i ? `regions/${L(i)}` : "", ...ce(n, "region").map((o) => `regions/${L(o)}`)].filter(Boolean);
+    const s = [i ? `regions/${L(i)}` : "", ...de(r, "region").map((o) => `regions/${L(o)}`)].filter(Boolean);
     return this.fetchOptionalItem(s, "region");
   }
-  async resolveProvince(e, i = "", n = "", r = "") {
-    if (!e && !n)
+  async resolveProvince(e, i = "", r = "", n = "") {
+    if (!e && !r)
       return null;
-    const a = ne(e), s = k([n]), o = i || r ? await this.resolveRegion(i, r).catch(() => null) : null, l = o ? this.findRow(await this.getProvinces(o.id || i).catch(() => []), a, s) : null;
+    const a = se(e), s = S([r]), o = i || n ? await this.resolveRegion(i, n).catch(() => null) : null, l = o ? this.findRow(await this.getProvinces(o.id || i).catch(() => []), a, s) : null;
     if (l)
       return l;
-    const h = this.findRow(await this.getAllProvinces().catch(() => []), a, s);
-    if (h)
-      return h;
-    const c = [n ? `provinces/${L(n)}` : "", ...ce(a, "province").map((u) => `provinces/${L(u)}`)].filter(Boolean);
+    const d = this.findRow(await this.getAllProvinces().catch(() => []), a, s);
+    if (d)
+      return d;
+    const c = [r ? `provinces/${L(r)}` : "", ...de(a, "province").map((u) => `provinces/${L(u)}`)].filter(Boolean);
     return this.fetchOptionalItem(c, "province");
   }
   async resolveCity(e, i = {}) {
-    const n = b(i.city_name || "");
-    if (!e && !n)
+    const r = b(i.city_name || "");
+    if (!e && !r)
       return null;
-    const r = I(e), a = k([n]), s = i.province_id || i.region_id || "", o = s || i.province_name || i.region_name ? this.findRow(await this.getCities(s, i).catch(() => []), r, a) : null;
+    const n = O(e), a = S([r]), s = i.province_id || i.region_id || "", o = s || i.province_name || i.region_name ? this.findRow(await this.getCities(s, i).catch(() => []), n, a) : null;
     if (o)
       return o;
-    const l = await this.getAllCities().catch(() => []), h = this.findRow(l, r, a);
-    if (h)
-      return h;
-    const c = [n ? `cities-municipalities/${L(n)}` : "", ...ce(r, "city").map((u) => `cities-municipalities/${L(u)}`)].filter(Boolean);
+    const l = await this.getAllCities().catch(() => []), d = this.findRow(l, n, a);
+    if (d)
+      return d;
+    const c = [r ? `cities-municipalities/${L(r)}` : "", ...de(n, "city").map((u) => `cities-municipalities/${L(u)}`)].filter(Boolean);
     return this.fetchOptionalItem(c, "city_municipality");
   }
-  async resolveBarangay(e, i = "", n = "", r = "") {
-    if (!e && !n)
+  async resolveBarangay(e, i = "", r = "", n = "") {
+    if (!e && !r)
       return null;
-    const a = Se(e), s = k([n]), o = i || r ? this.findRow(await this.getBarangays(i, { city_id: i, city_name: r }).catch(() => []), a, s) : null;
+    const a = Re(e), s = S([r]), o = i || n ? this.findRow(await this.getBarangays(i, { city_id: i, city_name: n }).catch(() => []), a, s) : null;
     if (o)
       return o;
-    const l = [n ? `barangays/${L(n)}` : "", ...ce(a, "barangay").map((h) => `barangays/${L(h)}`)].filter(Boolean);
+    const l = [r ? `barangays/${L(r)}` : "", ...de(a, "barangay").map((d) => `barangays/${L(d)}`)].filter(Boolean);
     return this.fetchOptionalItem(l, "barangay");
   }
   async getLocationByIds(e = {}) {
-    let i = v(e.region_id), n = v(e.province_id), r = v(e.city_id), a = v(e.barangay_id);
-    const s = b(e.region_name || ""), o = b(e.province_name || ""), l = b(e.city_name || ""), h = b(e.barangay_name || "");
-    a && !r && (r = D(a)), r && !n && (n = F(r)), (n || r || a) && !i && (i = z(n || r || a));
+    let i = v(e.region_id), r = v(e.province_id), n = v(e.city_id), a = v(e.barangay_id);
+    const s = b(e.region_name || ""), o = b(e.province_name || ""), l = b(e.city_name || ""), d = b(e.barangay_name || "");
+    a && !n && (n = z(a)), n && !r && (r = C(n)), (r || n || a) && !i && (i = R(r || n || a));
     const c = {
       region_id: i,
       region_name: s,
-      province_id: n,
+      province_id: r,
       province_name: o,
-      city_id: r,
+      city_id: n,
       city_name: l,
       barangay_id: a,
-      barangay_name: h
+      barangay_name: d
     }, u = await this.resolveRegion(i, s).catch(() => null);
     u && (c.region_id = u.id, c.region_name = u.name);
-    const d = await this.resolveProvince(n, c.region_id || i, o, c.region_name || s).catch(() => null);
-    d && (c.province_id = d.id, c.province_name = d.name, et(c, d));
-    const m = await this.resolveCity(r, {
+    const h = await this.resolveProvince(r, c.region_id || i, o, c.region_name || s).catch(() => null);
+    h && (c.province_id = h.id, c.province_name = h.name, _t(c, h));
+    const m = await this.resolveCity(n, {
       region_id: c.region_id || i,
       region_name: c.region_name || s,
-      province_id: c.province_id || n,
+      province_id: c.province_id || r,
       province_name: c.province_name || o,
       city_name: l
     }).catch(() => null);
-    m && (c.city_id = m.id, c.city_name = m.name, et(c, m), m.province || (c.province_id = "", c.province_name = ""));
-    const y = await this.resolveBarangay(a, c.city_id || r, h, c.city_name || l).catch(() => null);
-    return y && (c.barangay_id = y.id, c.barangay_name = y.name, et(c, y)), c.label = [c.city_name, c.barangay_name].filter(Boolean).join(" → "), c.display_label = c.label, V(c);
+    m && (c.city_id = m.id, c.city_name = m.name, _t(c, m), m.province || (c.province_id = "", c.province_name = ""));
+    const y = await this.resolveBarangay(a, c.city_id || n, d, c.city_name || l).catch(() => null);
+    return y && (c.barangay_id = y.id, c.barangay_name = y.name, _t(c, y)), c.label = [c.city_name, c.barangay_name].filter(Boolean).join(" → "), c.display_label = c.label, T(c);
   }
   async getBounds() {
     return null;
@@ -2428,121 +2428,187 @@ class mr {
     return null;
   }
 }
-class pr {
+const Mr = Object.freeze({
+  regions: "regions",
+  provinces: "provinces",
+  cities: "cities",
+  barangays: "barangays",
+  location: "location",
+  bounds: "bounds",
+  centroid: "centroid",
+  polygon: "polygon",
+  reverse: "reverse"
+});
+function At(t) {
+  return String(t ?? "").trim();
+}
+function Qt(t, e = "GET") {
+  return At(t || e).toUpperCase() === "POST" ? "POST" : "GET";
+}
+function Ir(t) {
+  return At(t || "/api/location").replace(/\/+$/, "");
+}
+function ei(t) {
+  return At(t).replace(/^\/+/, "").replace(/\/+$/, "");
+}
+function Nr(t) {
+  return t && typeof t == "object" && !Array.isArray(t) && Object.prototype.hasOwnProperty.call(t, "data") ? t.data : t;
+}
+class $t {
   constructor(e = {}) {
-    this.baseUrl = String(e.baseUrl || "/api/location").replace(/\/+$/, ""), this.cache = /* @__PURE__ */ new Map();
+    this.baseUrl = Ir(e.baseUrl || e.apiUrl), this.endpoints = { ...Mr, ...e.endpoints || {} }, this.reverseMethod = Qt(e.reverseMethod, "POST"), this.credentials = e.credentials || "same-origin", this.fetchOptions = e.fetchOptions && typeof e.fetchOptions == "object" ? e.fetchOptions : {}, this.cacheResponses = e.cacheResponses !== !1, this.cache = /* @__PURE__ */ new Map();
   }
-  async fetchJson(e, i = {}) {
-    const n = new URL(`${this.baseUrl}/${String(e || "").replace(/^\/+/, "")}`, window.location.origin);
-    Object.entries(i).forEach(([o, l]) => {
-      l != null && String(l) !== "" && n.searchParams.set(o, String(l));
-    });
-    const r = n.toString();
-    if (this.cache.has(r))
-      return this.cache.get(r);
-    let a;
+  endpoint(e) {
+    const i = ei(this.endpoints[e] || e);
+    if (!i)
+      throw new Error(`Location API endpoint is not configured: ${e}`);
+    return i;
+  }
+  createUrl(e, i = {}) {
+    const r = new URL(`${this.baseUrl}/${ei(e)}`, window.location.origin);
+    return Object.entries(i || {}).forEach(([n, a]) => {
+      a != null && String(a) !== "" && r.searchParams.set(n, String(a));
+    }), r;
+  }
+  async requestJson(e, i = {}, r = {}) {
+    const n = Qt(r.method, "GET"), a = n === "GET" ? this.createUrl(e, i) : this.createUrl(e), s = `${n} ${a.toString()} ${n === "POST" ? JSON.stringify(i || {}) : ""}`;
+    if (n === "GET" && this.cacheResponses && this.cache.has(s))
+      return this.cache.get(s);
+    let o;
     try {
-      a = await fetch(n, {
-        headers: { Accept: "application/json" },
-        credentials: "same-origin"
+      o = await fetch(a, {
+        ...this.fetchOptions,
+        method: n,
+        credentials: this.credentials,
+        headers: {
+          Accept: "application/json",
+          ...n === "POST" ? { "Content-Type": "application/json" } : {},
+          ...this.fetchOptions.headers || {}
+        },
+        body: n === "POST" ? JSON.stringify(i || {}) : void 0
       });
-    } catch (o) {
-      throw C(o, {
+    } catch (c) {
+      throw M(c, {
         provider: "api",
-        method: "fetchJson",
+        method: "requestJson",
         path: e,
         code: "api_network_failed",
         reason: "network"
       });
     }
-    if (!a.ok)
-      throw C(`Location API request failed: ${e} (${a.status})`, {
+    if (!o.ok)
+      throw M(`Location API request failed: ${e} (${o.status})`, {
         provider: "api",
-        method: "fetchJson",
-        status: a.status,
+        method: "requestJson",
+        status: o.status,
         path: e,
-        code: a.status === 404 ? "api_not_found" : "api_request_failed"
+        code: o.status === 404 ? "api_not_found" : "api_request_failed"
       });
-    let s;
+    let l;
     try {
-      s = await a.json();
-    } catch (o) {
-      throw C(o, {
+      l = await o.json();
+    } catch (c) {
+      throw M(c, {
         provider: "api",
-        method: "fetchJson",
-        status: a.status,
+        method: "requestJson",
+        status: o.status,
         path: e,
         code: "api_malformed_json",
         reason: "malformed_json"
       });
     }
-    return this.cache.set(r, s), s;
+    const d = Nr(l);
+    return n === "GET" && this.cacheResponses && this.cache.set(s, d), d;
+  }
+  async fetchJson(e, i = {}) {
+    return this.requestJson(e, i, { method: "GET" });
   }
   async getRegions() {
-    return Le(await this.fetchJson("regions")).map((e) => Oe(e, "region"));
+    return Ae(await this.fetchJson(this.endpoint("regions"))).map((e) => He(e, "region"));
   }
   async getProvinces(e) {
-    return Le(await this.fetchJson("provinces", { region_id: e })).map((i) => Oe(i, "province"));
+    return Ae(await this.fetchJson(this.endpoint("provinces"), { region_id: e })).map((i) => He(i, "province"));
   }
   async getCities(e, i = {}) {
-    return Le(await this.fetchJson("cities", {
+    return Ae(await this.fetchJson(this.endpoint("cities"), {
       province_id: i.province_id || "",
       region_id: i.province_id ? "" : i.region_id || e
-    })).map((n) => Oe(n, "city_municipality"));
+    })).map((r) => He(r, "city_municipality"));
   }
   async getBarangays(e) {
-    return Le(await this.fetchJson("barangays", { city_id: e })).map((i) => Oe(i, "barangay"));
+    return Ae(await this.fetchJson(this.endpoint("barangays"), { city_id: e })).map((i) => He(i, "barangay"));
   }
   async getLocationByIds(e = {}) {
-    return V(await this.fetchJson("location", e));
+    const i = await this.fetchJson(this.endpoint("location"), e);
+    return T(i || e);
   }
   async getBounds(e, i) {
-    return this.fetchJson("bounds", { level: e, id: i }).catch(() => null);
+    return this.fetchJson(this.endpoint("bounds"), { level: e, id: i }).catch(() => null);
   }
   async getCentroid(e, i) {
-    return this.fetchJson("centroid", { level: e, id: i }).catch(() => null);
+    return this.fetchJson(this.endpoint("centroid"), { level: e, id: i }).catch(() => null);
   }
   async getPolygon(e, i) {
-    return this.fetchJson("polygon", { level: e, id: i }).catch(() => null);
+    return this.fetchJson(this.endpoint("polygon"), { level: e, id: i }).catch(() => null);
   }
-  async reverseGeocode(e, i, n = {}) {
-    const r = await this.fetchJson("reverse", {
+  async reverseGeocode(e, i, r = {}) {
+    const n = {
       lat: e,
       lng: i,
-      city_id: n.city_id || ""
+      region_id: r.region_id || "",
+      province_id: r.province_id || "",
+      city_id: r.city_id || "",
+      barangay_id: r.barangay_id || ""
+    }, a = await this.requestJson(this.endpoint("reverse"), n, {
+      method: this.reverseMethod
     }).catch(() => null);
-    return r ? De(r) : null;
+    return a ? ze(a) : null;
   }
 }
-function Vi(t) {
+function J(t) {
   return String(t ?? "").trim();
 }
-function Gi(t) {
+function Cr(t) {
   return Array.isArray(t) ? t : [];
 }
-function Re(t) {
+function Br(t = {}) {
+  const e = J(t.barangay_id);
+  return e ? ze({
+    region_id: J(t.region_id) || R(e),
+    region_name: J(t.region_name),
+    province_id: J(t.province_id) || C(e),
+    province_name: J(t.province_name),
+    city_id: J(t.city_id) || z(e),
+    city_name: J(t.city_name),
+    barangay_id: e,
+    barangay_name: J(t.barangay_name),
+    match_quality: "selected-context",
+    match_distance_km: 0
+  }) : null;
+}
+function Ke(t) {
   return Number(t) * Math.PI / 180;
 }
-function Ji(t, e) {
-  const n = Re(Number(e.lat) - Number(t.lat)), r = Re(Number(e.lng) - Number(t.lng)), a = Re(t.lat), s = Re(e.lat), o = Math.sin(n / 2) * Math.sin(n / 2) + Math.cos(a) * Math.cos(s) * Math.sin(r / 2) * Math.sin(r / 2);
+function Ar(t, e) {
+  const r = Ke(Number(e.lat) - Number(t.lat)), n = Ke(Number(e.lng) - Number(t.lng)), a = Ke(t.lat), s = Ke(e.lat), o = Math.sin(r / 2) * Math.sin(r / 2) + Math.cos(a) * Math.cos(s) * Math.sin(n / 2) * Math.sin(n / 2);
   return 2 * 6371 * Math.atan2(Math.sqrt(o), Math.sqrt(1 - o));
 }
-class Zi {
+class $r {
   constructor(e = {}) {
-    this.baseUrl = String(e.baseUrl || "/data").replace(/\/+$/, ""), this.cache = /* @__PURE__ */ new Map(), this.reverseMaxNearestKm = Number.isFinite(Number(e.reverseMaxNearestKm)) ? Number(e.reverseMaxNearestKm) : 0;
+    this.baseUrl = String(e.baseUrl || "/data").replace(/\/+$/, ""), this.cache = /* @__PURE__ */ new Map(), this.reverseMaxNearestKm = Number.isFinite(Number(e.reverseMaxNearestKm)) ? Number(e.reverseMaxNearestKm) : 0, this.reverseFallbackToSelectedLocation = e.reverseFallbackToSelectedLocation === !0;
   }
   async fetchJson(e) {
     const i = String(e || "").replace(/^\/+/, "");
     if (this.cache.has(i))
       return this.cache.get(i);
-    let n;
+    let r;
     try {
-      n = await fetch(`${this.baseUrl}/${i}`, {
+      r = await fetch(`${this.baseUrl}/${i}`, {
         headers: { Accept: "application/json" },
         credentials: "same-origin"
       });
     } catch (a) {
-      throw C(a, {
+      throw M(a, {
         provider: "static-geometry",
         method: "fetchJson",
         path: i,
@@ -2550,156 +2616,161 @@ class Zi {
         reason: "network"
       });
     }
-    if (!n.ok)
-      throw C(`Geometry data request failed: ${i} (${n.status})`, {
+    if (!r.ok)
+      throw M(`Geometry data request failed: ${i} (${r.status})`, {
         provider: "static-geometry",
         method: "fetchJson",
-        status: n.status,
+        status: r.status,
         path: i,
-        code: n.status === 404 ? "static_geometry_not_found" : "static_geometry_request_failed"
+        code: r.status === 404 ? "static_geometry_not_found" : "static_geometry_request_failed"
       });
-    let r;
+    let n;
     try {
-      r = await n.json();
+      n = await r.json();
     } catch (a) {
-      throw C(a, {
+      throw M(a, {
         provider: "static-geometry",
         method: "fetchJson",
-        status: n.status,
+        status: r.status,
         path: i,
         code: "static_geometry_malformed_json",
         reason: "malformed_json"
       });
     }
-    return this.cache.set(i, r), r;
+    return this.cache.set(i, n), n;
   }
   async fetchOptionalJson(e, i = null) {
     try {
       return await this.fetchJson(e);
-    } catch (n) {
-      return n && (n.status === 404 || n.status === 403), i;
+    } catch (r) {
+      return r && (r.status === 404 || r.status === 403), i;
     }
   }
   boundsFileName(e) {
     return e === "city" ? "cities" : `${e}s`;
   }
   async getBounds(e, i) {
-    const n = this.boundsFileName(e);
-    let r = {};
-    if (r = await this.fetchOptionalJson(`geo/bounds/${n}.json`, null), !r && e === "city" && (r = await this.fetchOptionalJson("geo/bounds/citys.json", null)), !r || typeof r != "object")
+    const r = this.boundsFileName(e);
+    let n = {};
+    if (n = await this.fetchOptionalJson(`geo/bounds/${r}.json`, null), !n && e === "city" && (n = await this.fetchOptionalJson("geo/bounds/citys.json", null)), !n || typeof n != "object")
       return null;
-    for (const a of xe(e, i))
-      if (r[a])
-        return re(r[a]);
+    for (const a of Ye(e, i))
+      if (n[a])
+        return oe(n[a]);
     return null;
   }
   async getCentroid(e, i) {
-    const n = this.boundsFileName(e);
+    const r = this.boundsFileName(e);
     try {
-      const a = await this.fetchOptionalJson(`geo/centroids/${n}.json`, {});
-      for (const s of xe(e, i)) {
+      const a = await this.fetchOptionalJson(`geo/centroids/${r}.json`, {});
+      for (const s of Ye(e, i)) {
         const o = a[s];
         if (o)
           return { lat: Number(o.lat), lng: Number(o.lng) };
       }
     } catch {
     }
-    const r = await this.getBounds(e, i).catch(() => null);
-    return ue(r);
+    const n = await this.getBounds(e, i).catch(() => null);
+    return ye(n);
   }
   async getPolygon(e, i) {
     if (e !== "barangay")
       return null;
-    for (const n of Se(i))
-      for (const r of zt(i))
+    for (const r of Re(i))
+      for (const n of yi(i))
         try {
-          const a = await this.fetchJson(`geo/polygons/barangays/${r}/${n}.json`);
-          return Gi(a);
+          const a = await this.fetchJson(`geo/polygons/barangays/${n}/${r}.json`);
+          return Cr(a);
         } catch {
         }
     return null;
   }
-  async reverseGeocode(e, i, n = {}) {
-    const r = {
+  async reverseGeocode(e, i, r = {}) {
+    const n = {
       lat: Number(e),
       lng: Number(i)
     };
-    if (!Number.isFinite(r.lat) || !Number.isFinite(r.lng))
+    if (!Number.isFinite(n.lat) || !Number.isFinite(n.lng))
       return null;
     const a = [];
-    if (n.city_id)
-      a.push(Vi(n.city_id));
+    if (r.city_id)
+      a.push(J(r.city_id));
     else {
       const c = await this.fetchOptionalJson("geo/bounds/cities.json", null) || await this.fetchOptionalJson("geo/bounds/citys.json", {});
       Object.keys(c).forEach((u) => {
-        ze(c[u], r.lat, r.lng) && a.push(u);
+        Xe(c[u], n.lat, n.lng) && a.push(u);
       });
     }
     const s = await this.fetchOptionalJson("geo/bounds/barangays.json", {}), o = await this.fetchOptionalJson("geo/centroids/barangays.json", {}), l = [];
     for (const c of Object.keys(s)) {
-      const u = D(c);
-      if (a.length > 0 && !a.some((y) => ai(c, y)))
+      const u = z(c);
+      if (a.length > 0 && !a.some((y) => Vi(c, y)))
         continue;
-      const d = o[c];
-      if (d && l.push({
+      const h = o[c];
+      if (h && l.push({
         barangay_id: c,
         city_id: u,
-        distanceKm: Ji(r, {
-          lat: Number(d.lat),
-          lng: Number(d.lng)
+        distanceKm: Ar(n, {
+          lat: Number(h.lat),
+          lng: Number(h.lng)
         })
-      }), !ze(s[c], r.lat, r.lng))
+      }), !Xe(s[c], n.lat, n.lng))
         continue;
       const m = await this.getPolygon("barangay", c);
-      if (!(m && m.length >= 3 && !dt(r, m)))
-        return De({
-          region_id: z(c),
-          province_id: F(c),
+      if (!(m && m.length >= 3 && !Bt(n, m)))
+        return ze({
+          region_id: R(c),
+          province_id: C(c),
           city_id: u,
           barangay_id: c,
           match_quality: m && m.length >= 3 ? "polygon" : "bounds",
           match_distance_km: 0
         });
     }
+    if (this.reverseFallbackToSelectedLocation) {
+      const c = Br(r);
+      if (c)
+        return c;
+    }
     if (this.reverseMaxNearestKm <= 0)
       return null;
     l.sort((c, u) => c.distanceKm - u.distanceKm);
-    const h = l[0];
-    return !h || h.distanceKm > this.reverseMaxNearestKm ? null : De({
-      region_id: z(h.barangay_id),
-      province_id: F(h.barangay_id),
-      city_id: h.city_id,
-      barangay_id: h.barangay_id,
+    const d = l[0];
+    return !d || d.distanceKm > this.reverseMaxNearestKm ? null : ze({
+      region_id: R(d.barangay_id),
+      province_id: C(d.barangay_id),
+      city_id: d.city_id,
+      barangay_id: d.barangay_id,
       match_quality: "nearest-centroid",
-      match_distance_km: Number(h.distanceKm.toFixed(3))
+      match_distance_km: Number(d.distanceKm.toFixed(3))
     });
   }
 }
-function q(t) {
+function x(t) {
   return String(t ?? "").trim();
 }
-function Kt(t) {
+function Oi(t) {
   const e = Number(t);
   return Number.isFinite(e) ? e : 0;
 }
-function Ui() {
-  return V({});
+function Fr() {
+  return T({});
 }
-function Ki(t = {}) {
+function qr(t = {}) {
   const e = {
-    region_id: q(t.region_id),
-    region_name: q(t.region_name),
-    province_id: q(t.province_id),
-    province_name: q(t.province_name),
-    city_id: q(t.city_id),
-    city_name: q(t.city_name),
-    barangay_id: q(t.barangay_id),
-    barangay_name: q(t.barangay_name)
+    region_id: x(t.region_id),
+    region_name: x(t.region_name),
+    province_id: x(t.province_id),
+    province_name: x(t.province_name),
+    city_id: x(t.city_id),
+    city_name: x(t.city_name),
+    barangay_id: x(t.barangay_id),
+    barangay_name: x(t.barangay_name)
   };
-  return e.label = [e.city_name, e.barangay_name].filter(Boolean).join(" → "), e.display_label = e.label, e.match_quality = q(t.match_quality), e.match_distance_km = Kt(t.match_distance_km), V(e);
+  return e.label = [e.city_name, e.barangay_name].filter(Boolean).join(" → "), e.display_label = e.label, e.match_quality = x(t.match_quality), e.match_distance_km = Oi(t.match_distance_km), T(e);
 }
-function Wi(t = {}, e = {}) {
-  const i = { ...Ui(), ...t };
+function Rr(t = {}, e = {}) {
+  const i = { ...Fr(), ...t };
   return [
     "region_id",
     "region_name",
@@ -2709,11 +2780,11 @@ function Wi(t = {}, e = {}) {
     "city_name",
     "barangay_id",
     "barangay_name"
-  ].forEach((n) => {
-    !i[n] && e[n] && (i[n] = q(e[n]));
-  }), i.match_quality = q(e.match_quality || i.match_quality), i.match_distance_km = Kt(e.match_distance_km ?? i.match_distance_km), i.label = [i.city_name, i.barangay_name].filter(Boolean).join(" → "), i.display_label = i.label, i.resolved = !0, i.resolved_source = "composite-reverse-geocode", V(i);
+  ].forEach((r) => {
+    !i[r] && e[r] && (i[r] = x(e[r]));
+  }), i.match_quality = x(e.match_quality || i.match_quality), i.match_distance_km = Oi(e.match_distance_km ?? i.match_distance_km), i.label = [i.city_name, i.barangay_name].filter(Boolean).join(" → "), i.display_label = i.label, i.resolved = !0, i.resolved_source = "composite-reverse-geocode", T(i);
 }
-class Yi {
+class Mi {
   constructor(e = {}) {
     if (!e.hierarchyProvider)
       throw new Error("CompositeLocationProvider requires hierarchyProvider.");
@@ -2732,7 +2803,7 @@ class Yi {
     return this.hierarchyProvider.getBarangays(e, i);
   }
   async getLocationByIds(e = {}) {
-    return V(await this.hierarchyProvider.getLocationByIds(e));
+    return T(await this.hierarchyProvider.getLocationByIds(e));
   }
   async getBounds(e, i) {
     return !this.geometryProvider || !this.geometryProvider.getBounds ? null : this.geometryProvider.getBounds(e, i).catch(() => null);
@@ -2743,96 +2814,96 @@ class Yi {
   async getPolygon(e, i) {
     return !this.geometryProvider || !this.geometryProvider.getPolygon ? null : this.geometryProvider.getPolygon(e, i).catch(() => null);
   }
-  async reverseGeocode(e, i, n = {}) {
+  async reverseGeocode(e, i, r = {}) {
     if (!this.geometryProvider || !this.geometryProvider.reverseGeocode)
       return null;
-    const r = await this.geometryProvider.reverseGeocode(e, i, n).catch(() => null);
-    if (!r || !r.barangay_id)
+    const n = await this.geometryProvider.reverseGeocode(e, i, r).catch(() => null);
+    if (!n || !n.barangay_id)
       return null;
     let a = null;
     try {
       a = await this.hierarchyProvider.getLocationByIds({
-        region_id: r.region_id,
-        region_name: r.region_name,
-        province_id: r.province_id,
-        province_name: r.province_name,
-        city_id: r.city_id,
-        city_name: r.city_name,
-        barangay_id: r.barangay_id,
-        barangay_name: r.barangay_name
+        region_id: n.region_id,
+        region_name: n.region_name,
+        province_id: n.province_id,
+        province_name: n.province_name,
+        city_id: n.city_id,
+        city_name: n.city_name,
+        barangay_id: n.barangay_id,
+        barangay_name: n.barangay_name
       });
     } catch {
-      a = Ki(r);
+      a = qr(n);
     }
-    return Wi(a, r);
+    return Rr(a, n);
   }
 }
-function J(t) {
+function G(t) {
   return String(t || "").trim();
 }
 function $(t) {
   return String(t || "").replace(/'/g, "''");
 }
-function je(t) {
+function Qe(t) {
   const e = Number(t);
   return Number.isFinite(e) ? e : null;
 }
-function Q(t, ...e) {
+function ee(t, ...e) {
   for (const i of e)
     if (t[i] !== void 0 && t[i] !== null && String(t[i]).trim() !== "")
       return t[i];
   return "";
 }
-function Mt(t) {
+function ti(t) {
   let e = 0;
-  for (let i = 0, n = t.length - 1; i < t.length; n = i++)
-    e += t[n][0] * t[i][1] - t[i][0] * t[n][1];
+  for (let i = 0, r = t.length - 1; i < t.length; r = i++)
+    e += t[r][0] * t[i][1] - t[i][0] * t[r][1];
   return Math.abs(e / 2);
 }
-function Xi(t) {
+function zr(t) {
   if (!t)
     return [];
   const e = [];
   return t.type === "Polygon" && Array.isArray(t.coordinates[0]) && e.push(t.coordinates[0]), t.type === "MultiPolygon" && t.coordinates.forEach((i) => {
     Array.isArray(i[0]) && e.push(i[0]);
-  }), e.filter((i) => Array.isArray(i) && i.length >= 4).sort((i, n) => Mt(n) - Mt(i))[0] || [];
+  }), e.filter((i) => Array.isArray(i) && i.length >= 4).sort((i, r) => ti(r) - ti(i))[0] || [];
 }
-function Qi(t) {
-  let e = 1 / 0, i = 1 / 0, n = -1 / 0, r = -1 / 0;
+function xr(t) {
+  let e = 1 / 0, i = 1 / 0, r = -1 / 0, n = -1 / 0;
   return t.forEach((a) => {
-    const s = je(a.lat), o = je(a.lng);
-    s === null || o === null || (e = Math.min(e, s), i = Math.min(i, o), n = Math.max(n, s), r = Math.max(r, o));
-  }), !Number.isFinite(e) || !Number.isFinite(i) || !Number.isFinite(n) || !Number.isFinite(r) ? null : { south: e, west: i, north: n, east: r };
+    const s = Qe(a.lat), o = Qe(a.lng);
+    s === null || o === null || (e = Math.min(e, s), i = Math.min(i, o), r = Math.max(r, s), n = Math.max(n, o));
+  }), !Number.isFinite(e) || !Number.isFinite(i) || !Number.isFinite(r) || !Number.isFinite(n) ? null : { south: e, west: i, north: r, east: n };
 }
-function Fe(t, e = 6) {
+function We(t, e = 6) {
   const i = Math.pow(10, e);
-  return Xi(t).map(([r, a]) => ({
+  return zr(t).map(([n, a]) => ({
     lat: Math.round(Number(a) * i) / i,
-    lng: Math.round(Number(r) * i) / i
-  })).filter((r) => Number.isFinite(r.lat) && Number.isFinite(r.lng));
+    lng: Math.round(Number(n) * i) / i
+  })).filter((n) => Number.isFinite(n.lat) && Number.isFinite(n.lng));
 }
-function Ot(t, e) {
-  const n = (Number(e.lat) - Number(t.lat)) * Math.PI / 180, r = (Number(e.lng) - Number(t.lng)) * Math.PI / 180, a = Number(t.lat) * Math.PI / 180, s = Number(e.lat) * Math.PI / 180, o = Math.sin(n / 2) * Math.sin(n / 2) + Math.cos(a) * Math.cos(s) * Math.sin(r / 2) * Math.sin(r / 2);
+function ii(t, e) {
+  const r = (Number(e.lat) - Number(t.lat)) * Math.PI / 180, n = (Number(e.lng) - Number(t.lng)) * Math.PI / 180, a = Number(t.lat) * Math.PI / 180, s = Number(e.lat) * Math.PI / 180, o = Math.sin(r / 2) * Math.sin(r / 2) + Math.cos(a) * Math.cos(s) * Math.sin(n / 2) * Math.sin(n / 2);
   return 2 * 6371 * Math.atan2(Math.sqrt(o), Math.sqrt(1 - o));
 }
-function Nt(t) {
+function ri(t) {
   if (!Array.isArray(t) || t.length === 0)
     return null;
-  const e = t.reduce((i, n) => ({
-    lat: i.lat + Number(n.lat),
-    lng: i.lng + Number(n.lng),
+  const e = t.reduce((i, r) => ({
+    lat: i.lat + Number(r.lat),
+    lng: i.lng + Number(r.lng),
     count: i.count + 1
   }), { lat: 0, lng: 0, count: 0 });
   return e.count > 0 ? { lat: e.lat / e.count, lng: e.lng / e.count } : null;
 }
-class gr {
+class za {
   constructor(e = {}) {
     this.baseUrl = String(e.baseUrl || "https://portal.georisk.gov.ph/arcgis/rest/services/PSA/Barangay/MapServer/4").replace(/\/+$/, ""), this.geometryPrecision = Number.isFinite(Number(e.geometryPrecision)) ? Number(e.geometryPrecision) : 6, this.reverseDistanceMeters = Number.isFinite(Number(e.reverseDistanceMeters)) ? Number(e.reverseDistanceMeters) : 50, this.cache = /* @__PURE__ */ new Map();
   }
   buildUrl(e = {}) {
     const i = new URL(`${this.baseUrl}/query`);
-    return Object.entries(e).forEach(([n, r]) => {
-      r != null && String(r) !== "" && i.searchParams.set(n, String(r));
+    return Object.entries(e).forEach(([r, n]) => {
+      n != null && String(n) !== "" && i.searchParams.set(r, String(n));
     }), i.toString();
   }
   async fetchQuery(e = {}) {
@@ -2841,33 +2912,33 @@ class gr {
       outFields: "*",
       outSR: "4326",
       returnGeometry: "true"
-    }, n = this.buildUrl({ ...i, ...e });
-    if (this.cache.has(n))
-      return this.cache.get(n);
-    const r = await fetch(n, {
+    }, r = this.buildUrl({ ...i, ...e });
+    if (this.cache.has(r))
+      return this.cache.get(r);
+    const n = await fetch(r, {
       headers: { Accept: "application/json, application/geo+json" }
     });
-    if (!r.ok)
-      throw new Error(`ArcGIS barangay boundary request failed (${r.status}).`);
-    const a = await r.json();
+    if (!n.ok)
+      throw new Error(`ArcGIS barangay boundary request failed (${n.status}).`);
+    const a = await n.json();
     if (a.error)
       throw new Error(a.error.message || "ArcGIS barangay boundary request failed.");
-    return this.cache.set(n, a), a;
+    return this.cache.set(r, a), a;
   }
   cityWhereClause(e) {
     const i = [];
-    return I(e).forEach((n) => {
-      i.push(`city_code='${$(n)}'`), i.push(`CITY_CODE='${$(n)}'`);
-      const r = w(n);
-      r.length >= 7 && (i.push(`psgc_10d LIKE '${$(r.slice(0, 7))}%'`), i.push(`PSGC_10D LIKE '${$(r.slice(0, 7))}%'`)), r.length >= 6 && (i.push(`psgc_10d LIKE '${$(r.slice(0, 6))}%'`), i.push(`PSGC_10D LIKE '${$(r.slice(0, 6))}%'`));
+    return O(e).forEach((r) => {
+      i.push(`city_code='${$(r)}'`), i.push(`CITY_CODE='${$(r)}'`);
+      const n = w(r);
+      n.length >= 7 && (i.push(`psgc_10d LIKE '${$(n.slice(0, 7))}%'`), i.push(`PSGC_10D LIKE '${$(n.slice(0, 7))}%'`)), n.length >= 6 && (i.push(`psgc_10d LIKE '${$(n.slice(0, 6))}%'`), i.push(`PSGC_10D LIKE '${$(n.slice(0, 6))}%'`));
     }), i.length ? `(${[...new Set(i)].join(" OR ")})` : "1=1";
   }
   async queryByBarangayId(e) {
-    const i = J(e);
+    const i = G(e);
     if (!i)
       return null;
-    const n = w(i).slice(0, 9), r = `(psgc_10d='${$(i)}' OR PSGC_10D='${$(i)}' OR brgy_code='${$(i)}' OR BRGY_CODE='${$(i)}' OR brgy_code='${$(n)}' OR BRGY_CODE='${$(n)}')`, a = await this.fetchQuery({
-      where: r,
+    const r = w(i).slice(0, 9), n = `(psgc_10d='${$(i)}' OR PSGC_10D='${$(i)}' OR brgy_code='${$(i)}' OR BRGY_CODE='${$(i)}' OR brgy_code='${$(r)}' OR BRGY_CODE='${$(r)}')`, a = await this.fetchQuery({
+      where: n,
       geometryPrecision: this.geometryPrecision,
       returnGeometry: "true"
     });
@@ -2876,52 +2947,52 @@ class gr {
   async getPolygon(e, i) {
     if (e !== "barangay")
       return null;
-    const n = await this.queryByBarangayId(i).catch(() => null);
-    if (!n || !n.geometry)
+    const r = await this.queryByBarangayId(i).catch(() => null);
+    if (!r || !r.geometry)
       return null;
-    const r = Fe(n.geometry, this.geometryPrecision);
-    return r.length >= 3 ? r : null;
+    const n = We(r.geometry, this.geometryPrecision);
+    return n.length >= 3 ? n : null;
   }
   async getBounds(e, i) {
     if (e !== "barangay")
       return null;
-    const n = await this.getPolygon(e, i).catch(() => null);
-    return n ? re(Qi(n)) : null;
+    const r = await this.getPolygon(e, i).catch(() => null);
+    return r ? oe(xr(r)) : null;
   }
   async getCentroid(e, i) {
     if (e !== "barangay") {
-      const r = await this.getBounds(e, i).catch(() => null);
-      return ue(r);
+      const n = await this.getBounds(e, i).catch(() => null);
+      return ye(n);
     }
-    const n = await this.getBounds(e, i).catch(() => null);
-    return ue(n);
+    const r = await this.getBounds(e, i).catch(() => null);
+    return ye(r);
   }
   featureToMatch(e, i = "") {
-    const n = e && e.properties ? e.properties : {}, r = J(Q(n, "psgc_10d", "PSGC_10D", "brgy_code", "BRGY_CODE"));
-    if (!r)
+    const r = e && e.properties ? e.properties : {}, n = G(ee(r, "psgc_10d", "PSGC_10D", "brgy_code", "BRGY_CODE"));
+    if (!n)
       return null;
-    const a = J(Q(n, "city_code", "CITY_CODE")) || D(r), s = J(Q(n, "prov_code", "PROV_CODE")) || F(r), o = J(Q(n, "reg_code", "REG_CODE")) || z(r), l = R(r, "barangay") || r, h = R(a, "city") || D(l || r), c = R(s, "province") || F(l || r), u = R(o, "region") || z(c || l || r);
-    return De({
+    const a = G(ee(r, "city_code", "CITY_CODE")) || z(n), s = G(ee(r, "prov_code", "PROV_CODE")) || C(n), o = G(ee(r, "reg_code", "REG_CODE")) || R(n), l = q(n, "barangay") || n, d = q(a, "city") || z(l || n), c = q(s, "province") || C(l || n), u = q(o, "region") || R(c || l || n);
+    return ze({
       region_id: u,
-      region_name: J(Q(n, "reg_name", "REG_NAME")),
+      region_name: G(ee(r, "reg_name", "REG_NAME")),
       province_id: c,
-      province_name: J(Q(n, "prov_name", "PROV_NAME")),
-      city_id: h,
-      city_name: J(Q(n, "city_name", "CITY_NAME")),
+      province_name: G(ee(r, "prov_name", "PROV_NAME")),
+      city_id: d,
+      city_name: G(ee(r, "city_name", "CITY_NAME")),
       barangay_id: l,
-      barangay_name: J(Q(n, "brgy_name", "BRGY_NAME")),
+      barangay_name: G(ee(r, "brgy_name", "BRGY_NAME")),
       match_quality: i || (e.geometry ? "arcgis-polygon" : "arcgis-feature"),
       match_distance_km: 0
     });
   }
   sortFeaturesByCentroidDistance(e, i) {
-    return e.slice().sort((n, r) => {
-      const a = Fe(n.geometry, this.geometryPrecision), s = Fe(r.geometry, this.geometryPrecision), o = Nt(a), l = Nt(s), h = o ? Ot(i, o) : Number.POSITIVE_INFINITY, c = l ? Ot(i, l) : Number.POSITIVE_INFINITY;
-      return h - c;
+    return e.slice().sort((r, n) => {
+      const a = We(r.geometry, this.geometryPrecision), s = We(n.geometry, this.geometryPrecision), o = ri(a), l = ri(s), d = o ? ii(i, o) : Number.POSITIVE_INFINITY, c = l ? ii(i, l) : Number.POSITIVE_INFINITY;
+      return d - c;
     });
   }
-  pointQueryParams(e, i, n = {}) {
-    const r = {
+  pointQueryParams(e, i, r = {}) {
+    const n = {
       where: "1=1",
       geometry: `${i},${e}`,
       geometryType: "esriGeometryPoint",
@@ -2930,49 +3001,50 @@ class gr {
       returnGeometry: "true",
       geometryPrecision: this.geometryPrecision
     };
-    return n.city_id && (r.where = this.cityWhereClause(n.city_id)), r;
+    return r.city_id && (n.where = this.cityWhereClause(r.city_id)), n;
   }
-  async reverseGeocode(e, i, n = {}) {
-    const r = je(e), a = je(i);
-    if (r === null || a === null)
+  async reverseGeocode(e, i, r = {}) {
+    const n = Qe(e), a = Qe(i);
+    if (n === null || a === null)
       return null;
-    const s = { lat: r, lng: a }, o = await this.fetchQuery(this.pointQueryParams(r, a, n)).catch(() => null), l = o && Array.isArray(o.features) ? o.features : [];
+    const s = { lat: n, lng: a }, o = await this.fetchQuery(this.pointQueryParams(n, a, r)).catch(() => null), l = o && Array.isArray(o.features) ? o.features : [];
     if (l.length > 0) {
       const m = l.find((y) => {
-        const M = Fe(y.geometry, this.geometryPrecision);
-        return M.length >= 3 ? dt(s, M) : !0;
+        const I = We(y.geometry, this.geometryPrecision);
+        return I.length >= 3 ? Bt(s, I) : !0;
       }) || l[0];
       return this.featureToMatch(m, "arcgis-polygon");
     }
     if (this.reverseDistanceMeters <= 0)
       return null;
-    const h = await this.fetchQuery({
-      ...this.pointQueryParams(r, a, n),
+    const d = await this.fetchQuery({
+      ...this.pointQueryParams(n, a, r),
       distance: this.reverseDistanceMeters,
       units: "esriSRUnit_Meter"
-    }).catch(() => null), c = h && Array.isArray(h.features) ? h.features : [];
+    }).catch(() => null), c = d && Array.isArray(d.features) ? d.features : [];
     if (c.length === 0)
       return null;
-    const u = this.sortFeaturesByCentroidDistance(c, s), d = this.featureToMatch(u[0], `arcgis-distance-${this.reverseDistanceMeters}m`);
-    return d && (d.match_distance_km = Number((this.reverseDistanceMeters / 1e3).toFixed(3))), d;
+    const u = this.sortFeaturesByCentroidDistance(c, s), h = this.featureToMatch(u[0], `arcgis-distance-${this.reverseDistanceMeters}m`);
+    return h && (h.match_distance_km = Number((this.reverseDistanceMeters / 1e3).toFixed(3))), h;
   }
 }
-function tt(t, e = "/data") {
+function vt(t, e = "/data") {
   return String(t || e).replace(/\/+$/, "");
 }
-function en(t = {}) {
-  const e = tt(t.baseUrl), i = tt(t.hierarchyBaseUrl, e), n = tt(t.geometryBaseUrl, e), r = Number.isFinite(Number(t.reverseMaxNearestKm)) ? Number(t.reverseMaxNearestKm) : 0;
-  return new Yi({
-    hierarchyProvider: new xi({
+function Ii(t = {}) {
+  const e = vt(t.baseUrl), i = vt(t.hierarchyBaseUrl, e), r = vt(t.geometryBaseUrl, e), n = Number.isFinite(Number(t.reverseMaxNearestKm)) ? Number(t.reverseMaxNearestKm) : 0, a = t.reverseFallbackToSelectedLocation !== !1;
+  return new Mi({
+    hierarchyProvider: new Si({
       baseUrl: i
     }),
-    geometryProvider: new Zi({
-      baseUrl: n,
-      reverseMaxNearestKm: r
+    geometryProvider: new $r({
+      baseUrl: r,
+      reverseMaxNearestKm: n,
+      reverseFallbackToSelectedLocation: a
     })
   });
 }
-function tn(t) {
+function jr(t) {
   if (!t)
     throw new Error("createStaticLocationMapPicker requires mount.");
   if (typeof t == "string") {
@@ -2983,170 +3055,335 @@ function tn(t) {
   }
   return t;
 }
-function nn(t) {
+function Tr(t) {
   const e = String(t || "").trim().replace(/\/+$/, "");
   if (!e)
     throw new Error("createStaticLocationMapPicker requires baseUrl.");
   return e;
 }
-function be(t, e) {
+function Ee(t, e) {
   return {
     ...t,
     ...e || {}
   };
 }
-function rn(t = {}) {
-  const e = nn(t.baseUrl), i = tn(t.mount), n = en({
+function Dr(t = {}) {
+  const e = Tr(t.baseUrl), i = jr(t.mount), r = Ii({
     ...t.providerOptions || {},
     baseUrl: e
   });
-  return new $i({
+  return new Ct({
     ...t,
     mount: i,
-    provider: n,
-    ui: be({
+    provider: r,
+    ui: Ee({
       selectedLabelFormat: "city_barangay",
       theme: "light",
       size: "comfortable",
       density: "normal"
     }, t.ui),
-    location: be({
+    location: Ee({
       requiredLevel: "barangay"
     }, t.location),
-    validation: be({
+    validation: Ee({
       requiredLocationLevel: "barangay",
       requirePin: !0
     }, t.validation),
-    map: be({
+    map: Ee({
       pinMode: "centered",
       showBoundary: !0,
       fitBoundaryOnSelection: !0
     }, t.map),
-    reverse: be({
+    reverse: Ee({
       enabled: !0,
       failOnNoMatch: !1
     }, t.reverse)
   });
 }
-function Bt(t) {
+function Ur(t) {
+  if (!t)
+    throw new Error("createApiLocationMapPicker requires mount.");
+  if (typeof t == "string") {
+    const e = document.querySelector(t);
+    if (!e)
+      throw new Error(`createApiLocationMapPicker mount was not found: ${t}`);
+    return e;
+  }
+  return t;
+}
+function Hr(t) {
+  const e = String(t || "").trim().replace(/\/+$/, "");
+  if (!e)
+    throw new Error("createApiLocationMapPicker requires apiUrl or baseUrl.");
+  return e;
+}
+function Se(t, e) {
+  return {
+    ...t,
+    ...e || {}
+  };
+}
+function Vr(t = {}) {
+  const e = Hr(t.apiUrl || t.baseUrl), i = Ur(t.mount), r = new $t({
+    ...t.providerOptions || {},
+    baseUrl: e
+  });
+  return new Ct({
+    ...t,
+    mount: i,
+    provider: r,
+    ui: Se({
+      selectedLabelFormat: "city_barangay",
+      theme: "light",
+      size: "comfortable",
+      density: "normal"
+    }, t.ui),
+    location: Se({
+      requiredLevel: "barangay"
+    }, t.location),
+    validation: Se({
+      requiredLocationLevel: "barangay",
+      requirePin: !0
+    }, t.validation),
+    map: Se({
+      pinMode: "centered",
+      showBoundary: !0,
+      fitBoundaryOnSelection: !0
+    }, t.map),
+    reverse: Se({
+      enabled: !0,
+      failOnNoMatch: !1
+    }, t.reverse)
+  });
+}
+const me = Object.freeze({
+  STATIC: "static",
+  API: "api",
+  HYBRID: "hybrid"
+});
+function Ni(t) {
+  return String(t ?? "").trim();
+}
+function ae(t, e = "") {
+  return Ni(t || e).replace(/\/+$/, "");
+}
+function Ci(t = "static") {
+  const e = Ni(t || "static").toLowerCase();
+  return e === "database" || e === "db" || e === "server" ? me.API : e === me.API || e === me.HYBRID ? e : me.STATIC;
+}
+function Gr(t = {}) {
+  const e = ae(t.apiUrl || t.baseUrl || t.providerOptions?.apiUrl || t.providerOptions?.baseUrl);
+  if (!e)
+    throw new Error("API provider mode requires apiUrl.");
+  return new $t({
+    ...t.providerOptions || {},
+    ...t.apiProviderOptions || {},
+    baseUrl: e
+  });
+}
+function Jr(t = {}) {
+  const e = ae(t.baseUrl || t.dataBaseUrl || t.providerOptions?.baseUrl || "/data");
+  return Ii({
+    ...t.providerOptions || {},
+    ...t.staticProviderOptions || {},
+    baseUrl: e,
+    hierarchyBaseUrl: ae(t.hierarchyBaseUrl || t.providerOptions?.hierarchyBaseUrl || e),
+    geometryBaseUrl: ae(t.geometryBaseUrl || t.providerOptions?.geometryBaseUrl || e)
+  });
+}
+function Zr(t = {}) {
+  const e = ae(t.baseUrl || t.dataBaseUrl || t.providerOptions?.baseUrl || "/data"), i = ae(t.hierarchyBaseUrl || t.providerOptions?.hierarchyBaseUrl || e), r = ae(t.apiUrl || t.geometryApiUrl || t.providerOptions?.apiUrl || t.providerOptions?.geometryApiUrl);
+  if (!r)
+    throw new Error("Hybrid provider mode requires apiUrl for geometry/reverse lookup.");
+  return new Mi({
+    hierarchyProvider: new Si({
+      ...t.providerOptions || {},
+      ...t.staticProviderOptions || {},
+      baseUrl: i
+    }),
+    geometryProvider: new $t({
+      ...t.providerOptions || {},
+      ...t.apiProviderOptions || {},
+      baseUrl: r
+    })
+  });
+}
+function Kr(t = {}) {
+  if (t.provider && typeof t.provider == "object" && typeof t.provider.getRegions == "function")
+    return t.provider;
+  const e = Ci(t.provider || t.mode || t.providerMode || "static");
+  return e === me.API ? Gr(t) : e === me.HYBRID ? Zr(t) : Jr(t);
+}
+function Wr(t) {
+  if (!t)
+    throw new Error("createLocationMapPicker requires mount.");
+  if (typeof t == "string") {
+    const e = document.querySelector(t);
+    if (!e)
+      throw new Error(`createLocationMapPicker mount was not found: ${t}`);
+    return e;
+  }
+  return t;
+}
+function ke(t, e) {
+  return {
+    ...t,
+    ...e || {}
+  };
+}
+function Yr(t = {}) {
+  const e = Ci(t.provider || t.mode || t.providerMode || "static"), i = Wr(t.mount), r = Kr({
+    ...t,
+    provider: e
+  });
+  return new Ct({
+    ...t,
+    mount: i,
+    provider: r,
+    providerMode: e,
+    ui: ke({
+      selectedLabelFormat: "city_barangay",
+      theme: "light",
+      size: "comfortable",
+      density: "normal"
+    }, t.ui),
+    location: ke({
+      requiredLevel: "barangay"
+    }, t.location),
+    validation: ke({
+      requiredLocationLevel: "barangay",
+      requirePin: !0
+    }, t.validation),
+    map: ke({
+      pinMode: "centered",
+      showBoundary: !0,
+      fitBoundaryOnSelection: !0
+    }, t.map),
+    reverse: ke({
+      enabled: !0,
+      failOnNoMatch: !1
+    }, t.reverse)
+  });
+}
+function ni(t) {
   return JSON.stringify(t ?? null);
 }
-function O(t) {
+function N(t) {
   return t == null ? "" : String(t);
 }
-function $t(t) {
+function ai(t) {
   const e = Number(t);
   return Number.isFinite(e) ? e.toFixed(6) : "";
 }
-function an(t) {
+function Xr(t) {
   if (!t || typeof t.value != "function" || typeof t.validate != "function")
     throw new Error("createLocationMapPickerSubmitPayload requires a LocationMapPicker instance.");
   return t;
 }
-function sn(t) {
-  const e = t && t.location ? t.location : {}, i = t && t.pin ? t.pin : null, n = t && t.geometry ? t.geometry : {
+function Qr(t) {
+  const e = t && t.location ? t.location : {}, i = t && t.pin ? t.pin : null, r = t && t.geometry ? t.geometry : {
     focus_result: null,
     reverse_match: null,
     reverse_error: null
   };
   return {
     location: {
-      region_id: O(e.region_id),
-      region_name: O(e.region_name),
-      province_id: O(e.province_id),
-      province_name: O(e.province_name),
-      city_id: O(e.city_id),
-      city_name: O(e.city_name),
-      barangay_id: O(e.barangay_id),
-      barangay_name: O(e.barangay_name),
-      label: O(e.label),
-      display_label: O(e.display_label)
+      region_id: N(e.region_id),
+      region_name: N(e.region_name),
+      province_id: N(e.province_id),
+      province_name: N(e.province_name),
+      city_id: N(e.city_id),
+      city_name: N(e.city_name),
+      barangay_id: N(e.barangay_id),
+      barangay_name: N(e.barangay_name),
+      label: N(e.label),
+      display_label: N(e.display_label)
     },
     pin: i ? {
       lat: Number(i.lat),
       lng: Number(i.lng)
     } : null,
-    geometry: n
+    geometry: r
   };
 }
-function on(t) {
+function en(t) {
   const e = t || {};
   return {
     valid: e.valid === !0,
-    required_location_level: O(e.required_location_level),
+    required_location_level: N(e.required_location_level),
     require_pin: e.require_pin === !0,
-    missing: Array.isArray(e.missing) ? e.missing.map(O) : [],
-    messages: Array.isArray(e.messages) ? e.messages.map(O) : [],
+    missing: Array.isArray(e.missing) ? e.missing.map(N) : [],
+    messages: Array.isArray(e.messages) ? e.messages.map(N) : [],
     location: e.location || {},
     pin: e.pin || null
   };
 }
-function cn(t) {
-  const e = an(t);
-  return ln(e.value(), e.validate());
+function tn(t) {
+  const e = Xr(t);
+  return rn(e.value(), e.validate());
 }
-function ln(t, e) {
-  const i = sn(t || {}), n = on(e);
+function rn(t, e) {
+  const i = Qr(t || {}), r = en(e);
   return {
     barangay_id: i.location.barangay_id,
-    pin_lat: i.pin ? $t(i.pin.lat) : "",
-    pin_lng: i.pin ? $t(i.pin.lng) : "",
-    location_picker_value_json: Bt(i),
-    location_picker_validation_json: Bt(n)
+    pin_lat: i.pin ? ai(i.pin.lat) : "",
+    pin_lng: i.pin ? ai(i.pin.lng) : "",
+    location_picker_value_json: ni(i),
+    location_picker_validation_json: ni(r)
   };
 }
-const Wt = "Complete the required location fields before saving.", un = "The location picker is still working. Try again after it finishes.", hn = "The location picker is disabled.", dn = "The location picker is read-only.";
-function Ee(t) {
+const Bi = "Complete the required location fields before saving.", nn = "The location picker is still working. Try again after it finishes.", an = "The location picker is disabled.", sn = "The location picker is read-only.";
+function $e(t) {
   return t == null ? "" : String(t);
 }
-function mn(t) {
-  return Array.isArray(t) ? t.map(Ee).filter(Boolean) : [];
+function on(t) {
+  return Array.isArray(t) ? t.map($e).filter(Boolean) : [];
 }
-function pn(t) {
+function cn(t) {
   if (!t || typeof t.validate != "function" || typeof t.value != "function")
     throw new Error("createLocationMapPickerSubmitResult requires a LocationMapPicker instance.");
   return t;
 }
-function gn(t) {
+function ln(t) {
   return typeof t.isBusy == "function" ? t.isBusy() === !0 : t.busy === !0;
 }
-function yn(t) {
+function un(t) {
   return t.disabled === !0;
 }
-function fn(t) {
+function dn(t) {
   return t.readOnly === !0;
 }
-function it(t, e, i, n) {
+function wt(t, e, i, r) {
   return {
     valid: !1,
     blocked: !0,
     code: t,
-    message: e || Wt,
+    message: e || Bi,
     messages: e ? [e] : [],
     missing: i && Array.isArray(i.missing) ? i.missing.slice() : [],
     validation: i,
-    payload: n
+    payload: r
   };
 }
-function ut(t, e = {}) {
-  const i = pn(t), n = i.validate(), r = cn(i);
-  if (gn(i))
-    return it("picker_busy", Ee(e.messageBusy || un), n, r);
-  if (yn(i))
-    return it("picker_disabled", Ee(e.messageDisabled || hn), n, r);
-  if (fn(i))
-    return it("picker_readonly", Ee(e.messageReadOnly || dn), n, r);
-  if (!n.valid) {
-    const a = mn(n.messages), s = a[0] || Ee(e.messageInvalid || Wt);
+function It(t, e = {}) {
+  const i = cn(t), r = i.validate(), n = tn(i);
+  if (ln(i))
+    return wt("picker_busy", $e(e.messageBusy || nn), r, n);
+  if (un(i))
+    return wt("picker_disabled", $e(e.messageDisabled || an), r, n);
+  if (dn(i))
+    return wt("picker_readonly", $e(e.messageReadOnly || sn), r, n);
+  if (!r.valid) {
+    const a = on(r.messages), s = a[0] || $e(e.messageInvalid || Bi);
     return {
       valid: !1,
       blocked: !0,
       code: "picker_invalid",
       message: s,
       messages: a.length ? a : [s],
-      missing: Array.isArray(n.missing) ? n.missing.slice() : [],
-      validation: n,
-      payload: r
+      missing: Array.isArray(r.missing) ? r.missing.slice() : [],
+      validation: r,
+      payload: n
     };
   }
   return {
@@ -3156,32 +3393,74 @@ function ut(t, e = {}) {
     message: "",
     messages: [],
     missing: [],
-    validation: n,
-    payload: r
+    validation: r,
+    payload: n
   };
 }
-function yr(t, e = {}) {
-  const i = ut(t, e);
+function xa(t, e = {}) {
+  const i = It(t, e);
   return i.blocked && e.setStatus !== !1 && t && typeof t.setStatus == "function" && t.setStatus("error", i.message, i.code), i;
 }
-const bn = {
+const nt = Object.freeze({
   barangay_id: "barangay_id",
   pin_lat: "pin_lat",
   pin_lng: "pin_lng",
   location_picker_value_json: "location_picker_value_json",
   location_picker_validation_json: "location_picker_validation_json"
-}, _n = [
+}), hn = Object.freeze(Object.keys(nt));
+function at(t) {
+  return t == null ? "" : String(t).trim();
+}
+function si(t, e) {
+  if (t == null)
+    return {};
+  if (typeof t != "object" || Array.isArray(t))
+    throw new Error(`${e} must be an object.`);
+  return t;
+}
+function mn(t) {
+  const e = at(t || "underscore").toLowerCase();
+  return e === "bracket" || e === "php" || e === "array" ? "bracket" : "underscore";
+}
+function pn(t, e, i) {
+  const r = at(e);
+  return r ? i === "bracket" ? `${r}[${t}]` : `${r}_${t}` : t;
+}
+function ja() {
+  return { ...nt };
+}
+function fn(t = "", e = {}) {
+  const i = at(t), r = mn(e.fieldNameStyle || e.style), n = {};
+  return hn.forEach((a) => {
+    n[a] = pn(nt[a], i, r);
+  }), n;
+}
+function xe(t = {}) {
+  const e = si(t, "normalizeLocationMapPickerSubmitFieldNames options"), i = si(e.fieldNames, "fieldNames"), r = fn(e.fieldPrefix || "", {
+    fieldNameStyle: e.fieldNameStyle
+  });
+  for (const n of Object.keys(i)) {
+    if (!Object.prototype.hasOwnProperty.call(nt, n))
+      throw new Error(`Unknown location picker field name: ${n}.`);
+    const a = at(i[n]);
+    if (!a)
+      throw new Error(`Location picker field name ${n} cannot be blank.`);
+    r[n] = a;
+  }
+  return r;
+}
+const yn = [
   "messageInvalid",
   "messageBusy",
   "messageDisabled",
   "messageReadOnly"
 ];
-function vn(t) {
+function gn(t) {
   if (!t || typeof t.validate != "function" || typeof t.value != "function")
     throw new Error("bindLocationMapPickerForm requires a LocationMapPicker instance.");
   return t;
 }
-function Yt(t) {
+function Ai(t) {
   if (!t)
     throw new Error("bindLocationMapPickerForm requires form.");
   if (typeof t == "string") {
@@ -3194,50 +3473,47 @@ function Yt(t) {
     throw new Error("bindLocationMapPickerForm form must be an HTMLFormElement or selector.");
   return t;
 }
-function wn(t) {
+function bn(t) {
   return t == null ? "" : String(t).trim();
 }
-function Xt(t = {}) {
-  return {
-    ...bn,
-    ...t || {}
-  };
+function $i(t = {}) {
+  return t && (Object.prototype.hasOwnProperty.call(t, "fieldNames") || Object.prototype.hasOwnProperty.call(t, "fieldPrefix") || Object.prototype.hasOwnProperty.call(t, "fieldNameStyle")) ? xe(t) : xe({ fieldNames: t || {} });
 }
-function Pn(t = {}) {
+function _n(t = {}) {
   const e = {};
-  return _n.forEach((i) => {
+  return yn.forEach((i) => {
     Object.prototype.hasOwnProperty.call(t, i) && (e[i] = t[i]);
   }), e;
 }
-function Ln(t, e) {
+function vn(t, e) {
   if (!e || !t || typeof t.querySelector != "function")
     return null;
   if (t.elements && t.elements[e]) {
-    const n = t.elements[e];
-    if (n && typeof n.value < "u")
-      return n;
+    const r = t.elements[e];
+    if (r && typeof r.value < "u")
+      return r;
   }
   const i = typeof CSS < "u" && CSS.escape ? CSS.escape(e) : e.replace(/"/g, '\\"');
   return t.querySelector(`[name="${i}"]`);
 }
-function En(t, e) {
-  const i = wn(e);
+function wn(t, e) {
+  const i = bn(e);
   if (!i)
     return null;
-  const n = Ln(t, i);
-  if (n)
-    return n;
-  const r = document.createElement("input");
-  return r.type = "hidden", r.name = i, r.setAttribute("data-location-map-picker-submit-field", i), t.appendChild(r), r;
+  const r = vn(t, i);
+  if (r)
+    return r;
+  const n = document.createElement("input");
+  return n.type = "hidden", n.name = i, n.setAttribute("data-location-map-picker-submit-field", i), t.appendChild(n), n;
 }
-function _e(t, e, i) {
-  const n = En(t, e);
-  if (!n)
+function Oe(t, e, i) {
+  const r = wn(t, e);
+  if (!r)
     return null;
-  const r = i == null ? "" : String(i);
-  return n.value !== r && (n.value = r), n;
+  const n = i == null ? "" : String(i);
+  return r.value !== n && (r.value = n), r;
 }
-function kn(t) {
+function Pn(t) {
   const e = t && t.root;
   if (!e || typeof e.scrollIntoView != "function")
     return;
@@ -3245,262 +3521,525 @@ function kn(t) {
   const i = e.querySelector('button, [href], input, select, textarea, [tabindex]:not([tabindex="-1"])');
   i && typeof i.focus == "function" && i.focus({ preventScroll: !0 });
 }
-function At(t, e, i = {}) {
-  const n = Yt(t), r = Xt(i.fieldNames), a = e || {};
-  return _e(n, r.barangay_id, a.barangay_id), _e(n, r.pin_lat, a.pin_lat), _e(n, r.pin_lng, a.pin_lng), _e(n, r.location_picker_value_json, a.location_picker_value_json), _e(n, r.location_picker_validation_json, a.location_picker_validation_json), {
-    form: n,
-    fieldNames: r,
+function oi(t, e, i = {}) {
+  const r = Ai(t), n = $i(i), a = e || {};
+  return Oe(r, n.barangay_id, a.barangay_id), Oe(r, n.pin_lat, a.pin_lat), Oe(r, n.pin_lng, a.pin_lng), Oe(r, n.location_picker_value_json, a.location_picker_value_json), Oe(r, n.location_picker_validation_json, a.location_picker_validation_json), {
+    form: r,
+    fieldNames: n,
     payload: a
   };
 }
-function Sn(t = {}) {
-  const e = Yt(t.form), i = vn(t.picker), n = Xt(t.fieldNames), r = t.writePayload !== !1, a = t.preventInvalid !== !1, s = t.stopInvalidPropagation === !0, o = t.setStatus !== !1, l = t.focusOnBlocked === !0, h = Pn(t);
+function Ft(t = {}) {
+  const e = Ai(t.form), i = gn(t.picker), r = $i(t), n = t.writePayload !== !1, a = t.preventInvalid !== !1, s = t.stopInvalidPropagation === !0, o = t.setStatus !== !1, l = t.focusOnBlocked === !0, d = _n(t);
   let c = !1;
-  function u(d) {
+  function u(h) {
     if (c)
       return null;
-    const m = ut(i, h);
-    return r && At(e, m.payload, { fieldNames: n }), typeof t.onResult == "function" && t.onResult(m, d || null), m.blocked ? (d && a && typeof d.preventDefault == "function" && d.preventDefault(), d && s && typeof d.stopPropagation == "function" && d.stopPropagation(), o && typeof i.setStatus == "function" && i.setStatus("error", m.message, m.code), l && kn(i), typeof t.onBlocked == "function" && t.onBlocked(m, d || null), m) : (typeof t.onValid == "function" && t.onValid(m, d || null), m);
+    const m = It(i, d);
+    return n && oi(e, m.payload, { fieldNames: r }), typeof t.onResult == "function" && t.onResult(m, h || null), m.blocked ? (h && a && typeof h.preventDefault == "function" && h.preventDefault(), h && s && typeof h.stopPropagation == "function" && h.stopPropagation(), o && typeof i.setStatus == "function" && i.setStatus("error", m.message, m.code), l && Pn(i), typeof t.onBlocked == "function" && t.onBlocked(m, h || null), m) : (typeof t.onValid == "function" && t.onValid(m, h || null), m);
   }
   return e.addEventListener("submit", u), {
     form: e,
     picker: i,
-    fieldNames: n,
+    fieldNames: r,
     submit: u,
     updatePayload() {
-      const d = ut(i, h);
-      return At(e, d.payload, { fieldNames: n }), d;
+      const h = It(i, d);
+      return oi(e, h.payload, { fieldNames: r }), h;
     },
     destroy() {
       c || (c = !0, e.removeEventListener("submit", u));
     }
   };
 }
-const nt = {
+const Pt = {
   region_province_city_barangay: ["region_name", "province_name", "city_name", "barangay_name"],
   province_city_barangay: ["province_name", "city_name", "barangay_name"],
   city_barangay: ["city_name", "barangay_name"],
   barangay_only: ["barangay_name"]
 };
-function Rt(t) {
+function ci(t) {
   return t == null ? "" : String(t).trim();
 }
-function In(t, e, i) {
-  const n = String(t || "").trim().toLowerCase();
-  return e.includes(n) ? n : i;
+function Ln(t, e, i) {
+  const r = String(t || "").trim().toLowerCase();
+  return e.includes(r) ? r : i;
 }
-function Cn(t = {}) {
+function En(t = {}) {
   return t && typeof t == "object" && t.location && typeof t.location == "object" ? t.location : t || {};
+}
+function Sn(t = {}, e = {}) {
+  const i = En(t), r = Ln(e.format || e.selectedLabelFormat, Object.keys(Pt), "city_barangay"), n = ci(e.separator) || " → ", a = e.emptyLabel == null ? "" : String(e.emptyLabel);
+  return (Pt[r] || Pt.city_barangay).map((l) => ci(i[l])).filter(Boolean).join(n) || a;
+}
+const Fi = ["region", "province", "city", "barangay"];
+function Fe(t) {
+  return t == null ? "" : String(t).trim();
+}
+function kn(t, e, i) {
+  const r = Fe(t).toLowerCase();
+  return e.includes(r) ? r : i;
+}
+function On(t = {}) {
+  return t && typeof t == "object" && t.location && typeof t.location == "object" ? t.location : t || {};
+}
+function li(t) {
+  return Fi.indexOf(t);
+}
+function qi(t = {}) {
+  const e = On(t);
+  return Fe(e.barangay_id) ? "barangay" : Fe(e.city_id) ? "city" : Fe(e.province_id) ? "province" : Fe(e.region_id) ? "region" : "";
 }
 function Mn(t = {}, e = {}) {
-  const i = Cn(t), n = In(e.format || e.selectedLabelFormat, Object.keys(nt), "city_barangay"), r = Rt(e.separator) || " → ", a = e.emptyLabel == null ? "" : String(e.emptyLabel);
-  return (nt[n] || nt.city_barangay).map((l) => Rt(i[l])).filter(Boolean).join(r) || a;
-}
-const Qt = ["region", "province", "city", "barangay"];
-function ke(t) {
-  return t == null ? "" : String(t).trim();
-}
-function On(t, e, i) {
-  const n = ke(t).toLowerCase();
-  return e.includes(n) ? n : i;
-}
-function Nn(t = {}) {
-  return t && typeof t == "object" && t.location && typeof t.location == "object" ? t.location : t || {};
-}
-function Ft(t) {
-  return Qt.indexOf(t);
-}
-function ei(t = {}) {
-  const e = Nn(t);
-  return ke(e.barangay_id) ? "barangay" : ke(e.city_id) ? "city" : ke(e.province_id) ? "province" : ke(e.region_id) ? "region" : "";
-}
-function Bn(t = {}, e = {}) {
-  const i = ei(t);
+  const i = qi(t);
   if (!i)
     return !1;
-  const n = On(
+  const r = kn(
     e.requiredLocationLevel || e.selectionRequiredLevel,
-    Qt,
+    Fi,
     "barangay"
   );
-  return Ft(i) >= Ft(n);
+  return li(i) >= li(r);
 }
-function $n(t) {
+function In(t) {
   if (!t || typeof t.value != "function" || typeof t.open != "function" || typeof t.close != "function")
     throw new Error("bindLocationMapPickerFieldControls requires a LocationMapPicker instance.");
   return t;
 }
-function rt(t) {
+function Lt(t) {
   return t ? typeof t == "string" ? Array.from(document.querySelectorAll(t)) : typeof NodeList < "u" && t instanceof NodeList ? Array.from(t) : Array.isArray(t) ? t.filter(Boolean) : [t] : [];
 }
-function qt(t) {
+function ui(t) {
   return t ? typeof t == "string" ? document.querySelector(t) : t : null;
 }
-function ie(t) {
+function ne(t) {
   return t == null ? "" : String(t);
 }
-function xt(t, e) {
+function di(t, e) {
   if (!t)
     return;
-  const i = ie(e);
+  const i = ne(e);
   t.textContent !== i && (t.textContent = i);
 }
-function at(t, e) {
+function Et(t, e) {
   t && ("disabled" in t && (t.disabled = e), t.setAttribute("aria-disabled", e ? "true" : "false"));
 }
-function An(t) {
+function Nn(t) {
   return t.disabled === !0 || t.readOnly === !0 || typeof t.isBusy == "function" && t.isBusy() === !0;
 }
-function Rn(t) {
+function Cn(t) {
   if (!t || typeof t != "object")
     return !1;
   if (t.pin && Number.isFinite(Number(t.pin.lat)) && Number.isFinite(Number(t.pin.lng)))
     return !0;
   const e = t.location && typeof t.location == "object" ? t.location : t;
-  return !!(ie(e.region_id) || ie(e.province_id) || ie(e.city_id) || ie(e.barangay_id));
+  return !!(ne(e.region_id) || ne(e.province_id) || ne(e.city_id) || ne(e.barangay_id));
 }
-function Fn(t = {}) {
-  const e = $n(t.picker), i = rt(t.openButton || t.openControl || t.trigger), n = rt(t.closeButton || t.closeControl), r = rt(t.clearButton || t.clearControl), a = qt(t.summary || t.summaryElement), s = qt(t.status || t.statusElement), o = ie(t.selectedClassName || "is-selected"), l = ie(t.invalidClassName || "is-invalid"), h = t.emptyLabel == null ? "Select City → Barangay" : String(t.emptyLabel);
+function qt(t = {}) {
+  const e = In(t.picker), i = Lt(t.openButton || t.openControl || t.trigger), r = Lt(t.closeButton || t.closeControl), n = Lt(t.clearButton || t.clearControl), a = ui(t.summary || t.summaryElement), s = ui(t.status || t.statusElement), o = ne(t.selectedClassName || "is-selected"), l = ne(t.invalidClassName || "is-invalid"), d = t.emptyLabel == null ? "Select City → Barangay" : String(t.emptyLabel);
   let c = !1;
   function u() {
-    return Mn(e.value(), {
+    return Sn(e.value(), {
       selectedLabelFormat: t.selectedLabelFormat,
       format: t.format,
       separator: t.separator,
-      emptyLabel: h
+      emptyLabel: d
     });
   }
-  function d() {
+  function h() {
     if (c)
       return;
-    const g = e.value(), ae = u(), Ie = typeof e.validate == "function" ? e.validate() : { valid: !0 }, ri = ei(g), He = Bn(g, {
-      requiredLocationLevel: t.selectionRequiredLevel || t.requiredLocationLevel || Ie.required_location_level
-    }), Ve = An(e), Ge = Rn(g), Je = typeof e.isOpen == "function" ? e.isOpen() : !1;
-    xt(a, ae), a && (a.classList.toggle(o, He), a.classList.toggle(l, Ie.valid === !1), a.dataset.selected = He ? "true" : "false", a.dataset.selectedLevel = ri, a.dataset.valid = Ie.valid === !1 ? "false" : "true", a.dataset.clearable = Ge ? "true" : "false"), i.forEach((j) => {
-      at(j, Ve), j.setAttribute("aria-expanded", Je ? "true" : "false"), j.classList.toggle(o, He), j.classList.toggle(l, Ie.valid === !1);
-    }), n.forEach((j) => {
-      at(j, Ve || !Je), j.setAttribute("aria-expanded", Je ? "true" : "false");
-    }), r.forEach((j) => {
-      at(j, Ve || !Ge), j.classList.toggle(o, Ge);
+    const f = e.value(), ce = u(), Te = typeof e.validate == "function" ? e.validate() : { valid: !0 }, Hi = qi(f), ct = Mn(f, {
+      requiredLocationLevel: t.selectionRequiredLevel || t.requiredLocationLevel || Te.required_location_level
+    }), lt = Nn(e), ut = Cn(f), dt = typeof e.isOpen == "function" ? e.isOpen() : !1;
+    di(a, ce), a && (a.classList.toggle(o, ct), a.classList.toggle(l, Te.valid === !1), a.dataset.selected = ct ? "true" : "false", a.dataset.selectedLevel = Hi, a.dataset.valid = Te.valid === !1 ? "false" : "true", a.dataset.clearable = ut ? "true" : "false"), i.forEach((D) => {
+      Et(D, lt), D.setAttribute("aria-expanded", dt ? "true" : "false"), D.classList.toggle(o, ct), D.classList.toggle(l, Te.valid === !1);
+    }), r.forEach((D) => {
+      Et(D, lt || !dt), D.setAttribute("aria-expanded", dt ? "true" : "false");
+    }), n.forEach((D) => {
+      Et(D, lt || !ut), D.classList.toggle(o, ut);
     });
   }
-  function m(g) {
+  function m(f) {
     if (c || !s)
       return;
-    const ae = g || (typeof e.statusState == "function" ? e.statusState() : null) || {};
-    xt(s, ae.message || ""), s.hidden = !ae.message, s.dataset.statusLevel = ae.level || "idle", s.dataset.statusCode = ae.code || "";
+    const ce = f || (typeof e.statusState == "function" ? e.statusState() : null) || {};
+    di(s, ce.message || ""), s.hidden = !ce.message, s.dataset.statusLevel = ce.level || "idle", s.dataset.statusCode = ce.code || "";
   }
-  function y(g) {
-    c || (g.preventDefault(), e.open(), d());
+  function y(f) {
+    c || (f.preventDefault(), e.open(), h());
   }
-  function M(g) {
-    c || (g.preventDefault(), e.close(), d());
+  function I(f) {
+    c || (f.preventDefault(), e.close(), h());
   }
-  function W(g) {
-    c || (g.preventDefault(), typeof e.clear == "function" && e.clear(!0), d(), m());
+  function Y(f) {
+    c || (f.preventDefault(), typeof e.clear == "function" && e.clear(!0), h(), m());
   }
-  const Y = () => d(), gt = (g) => m(g);
-  return i.forEach((g) => g.addEventListener("click", y)), n.forEach((g) => g.addEventListener("click", M)), r.forEach((g) => g.addEventListener("click", W)), typeof e.on == "function" && (e.on("change", Y), e.on("busychange", Y), e.on("dirtychange", Y), e.on("openchange", Y), e.on("statuschange", gt)), d(), m(), {
+  const X = () => h(), xt = (f) => m(f);
+  return i.forEach((f) => f.addEventListener("click", y)), r.forEach((f) => f.addEventListener("click", I)), n.forEach((f) => f.addEventListener("click", Y)), typeof e.on == "function" && (e.on("change", X), e.on("busychange", X), e.on("dirtychange", X), e.on("openchange", X), e.on("statuschange", xt)), h(), m(), {
     picker: e,
     openButtons: i,
-    closeButtons: n,
-    clearButtons: r,
+    closeButtons: r,
+    clearButtons: n,
     summary: a,
     status: s,
     update() {
-      return d(), m(), this;
+      return h(), m(), this;
     },
     destroy() {
-      c || (c = !0, i.forEach((g) => g.removeEventListener("click", y)), n.forEach((g) => g.removeEventListener("click", M)), r.forEach((g) => g.removeEventListener("click", W)), typeof e.off == "function" && (e.off("change", Y), e.off("busychange", Y), e.off("dirtychange", Y), e.off("openchange", Y), e.off("statuschange", gt)));
+      c || (c = !0, i.forEach((f) => f.removeEventListener("click", y)), r.forEach((f) => f.removeEventListener("click", I)), n.forEach((f) => f.removeEventListener("click", Y)), typeof e.off == "function" && (e.off("change", X), e.off("busychange", X), e.off("dirtychange", X), e.off("openchange", X), e.off("statuschange", xt)));
     }
   };
 }
-function mt(t, e) {
+function et(t, e) {
   if (t == null)
     return {};
   if (typeof t != "object" || Array.isArray(t))
     throw new Error(`mountStaticLocationMapPickerField ${e} must be an object.`);
   return t;
 }
+function tt(t, e) {
+  return Object.prototype.hasOwnProperty.call(t || {}, e);
+}
+function Bn(t) {
+  return t && typeof t == "object" && (t.nodeType === 1 || typeof t.querySelector == "function");
+}
+function An(t, e = {}) {
+  return typeof t == "string" || Bn(t) ? {
+    ...e && typeof e == "object" && !Array.isArray(e) ? e : {},
+    mount: t
+  } : t || {};
+}
+function hi(t, e) {
+  if (!t)
+    return null;
+  if (typeof t == "string") {
+    const i = document.querySelector(t);
+    if (!i)
+      throw new Error(`mountStaticLocationMapPickerField ${e} was not found: ${t}`);
+    return i;
+  }
+  return t;
+}
+function $n(t) {
+  if (t.form === !1 || t.autoBindForm === !1)
+    return null;
+  if (t.form)
+    return hi(t.form, "form");
+  const e = hi(t.mount, "mount");
+  return e && typeof e.closest == "function" ? e.closest("form") : null;
+}
+function Fn(t) {
+  if (!t || typeof t != "object" || Array.isArray(t))
+    throw new Error("mountStaticLocationMapPickerField requires an options object.");
+  if (!tt(t, "mount"))
+    throw new Error("mountStaticLocationMapPickerField requires mount.");
+  if (!tt(t, "baseUrl"))
+    throw new Error("mountStaticLocationMapPickerField requires baseUrl.");
+  return t;
+}
+function qn(t) {
+  return {
+    ...et(t.pickerOptions, "pickerOptions"),
+    mount: t.mount,
+    baseUrl: t.baseUrl,
+    providerOptions: et(t.providerOptions, "providerOptions")
+  };
+}
+function Rn(t, e) {
+  const i = $n(t);
+  if (!i) {
+    if (tt(t, "formBinding"))
+      throw new Error("mountStaticLocationMapPickerField formBinding requires form or a mount inside a form.");
+    return null;
+  }
+  return Ft({
+    fieldPrefix: t.fieldPrefix,
+    fieldNameStyle: t.fieldNameStyle,
+    fieldNames: t.fieldNames,
+    ...et(t.formBinding, "formBinding"),
+    form: i,
+    picker: e
+  });
+}
+function zn(t, e) {
+  return t.controls ? qt({
+    ...et(t.controls, "controls"),
+    picker: e
+  }) : null;
+}
+async function xn(t, e) {
+  return await t.picker.ready, tt(e, "initialValue") && await t.picker.setValue(e.initialValue || {}, !1, {
+    resetDirty: e.resetDirtyOnInitialValue !== !1,
+    trackDirty: e.trackDirtyOnInitialValue === !0
+  }), e.openOnMount === !0 && t.open(), t;
+}
+function Ta(t = {}, e = {}) {
+  const i = Fn(An(t, e)), r = Dr(qn(i)), n = Rn(i, r), a = zn(i, r);
+  let s = !1;
+  const o = {
+    picker: r,
+    binding: n,
+    controls: a,
+    ready: null,
+    open() {
+      return !s && typeof r.open == "function" && r.open(), o;
+    },
+    close() {
+      return !s && typeof r.close == "function" && r.close(), o;
+    },
+    isOpen() {
+      return !s && typeof r.isOpen == "function" ? r.isOpen() : !1;
+    },
+    updatePayload() {
+      if (!n)
+        throw new Error("mountStaticLocationMapPickerField updatePayload requires form binding.");
+      return n.updatePayload();
+    },
+    resize() {
+      return !s && typeof r.resize == "function" && r.resize(), o;
+    },
+    destroy() {
+      s || (s = !0, a && typeof a.destroy == "function" && a.destroy(), n && typeof n.destroy == "function" && n.destroy(), r.destroy());
+    }
+  };
+  return o.ready = xn(o, i), o;
+}
+function it(t, e) {
+  if (t == null)
+    return {};
+  if (typeof t != "object" || Array.isArray(t))
+    throw new Error(`mountApiLocationMapPickerField ${e} must be an object.`);
+  return t;
+}
 function qe(t, e) {
   return Object.prototype.hasOwnProperty.call(t || {}, e);
 }
-function qn(t) {
-  if (!t || typeof t != "object" || Array.isArray(t))
-    throw new Error("mountStaticLocationMapPickerField requires an options object.");
-  if (!qe(t, "mount"))
-    throw new Error("mountStaticLocationMapPickerField requires mount.");
-  if (!qe(t, "baseUrl"))
-    throw new Error("mountStaticLocationMapPickerField requires baseUrl.");
-  if (!t.form && qe(t, "formBinding"))
-    throw new Error("mountStaticLocationMapPickerField formBinding requires form.");
+function jn(t) {
+  return t && typeof t == "object" && (t.nodeType === 1 || typeof t.querySelector == "function");
+}
+function Tn(t, e = {}) {
+  return typeof t == "string" || jn(t) ? {
+    ...e && typeof e == "object" && !Array.isArray(e) ? e : {},
+    mount: t
+  } : t || {};
+}
+function mi(t, e) {
+  if (!t)
+    return null;
+  if (typeof t == "string") {
+    const i = document.querySelector(t);
+    if (!i)
+      throw new Error(`mountApiLocationMapPickerField ${e} was not found: ${t}`);
+    return i;
+  }
   return t;
 }
-function xn(t) {
+function Dn(t) {
+  if (t.form === !1 || t.autoBindForm === !1)
+    return null;
+  if (t.form)
+    return mi(t.form, "form");
+  const e = mi(t.mount, "mount");
+  return e && typeof e.closest == "function" ? e.closest("form") : null;
+}
+function Un(t) {
+  if (!t || typeof t != "object" || Array.isArray(t))
+    throw new Error("mountApiLocationMapPickerField requires an options object.");
+  if (!qe(t, "mount"))
+    throw new Error("mountApiLocationMapPickerField requires mount.");
+  if (!qe(t, "apiUrl") && !qe(t, "baseUrl"))
+    throw new Error("mountApiLocationMapPickerField requires apiUrl or baseUrl.");
+  return t;
+}
+function Hn(t) {
   return {
-    ...mt(t.pickerOptions, "pickerOptions"),
+    ...it(t.pickerOptions, "pickerOptions"),
     mount: t.mount,
-    baseUrl: t.baseUrl
+    apiUrl: t.apiUrl || t.baseUrl,
+    providerOptions: it(t.providerOptions, "providerOptions")
   };
 }
-function zn(t, e) {
-  return t.form ? Sn({
-    ...mt(t.formBinding, "formBinding"),
-    form: t.form,
+function Vn(t, e) {
+  const i = Dn(t);
+  if (!i) {
+    if (qe(t, "formBinding"))
+      throw new Error("mountApiLocationMapPickerField formBinding requires form or a mount inside a form.");
+    return null;
+  }
+  return Ft({
+    fieldPrefix: t.fieldPrefix,
+    fieldNameStyle: t.fieldNameStyle,
+    fieldNames: t.fieldNames,
+    ...it(t.formBinding, "formBinding"),
+    form: i,
+    picker: e
+  });
+}
+function Gn(t, e) {
+  return t.controls ? qt({
+    ...it(t.controls, "controls"),
     picker: e
   }) : null;
 }
-function Dn(t, e) {
-  return t.controls ? Fn({
-    ...mt(t.controls, "controls"),
-    picker: e
-  }) : null;
-}
-async function jn(t, e) {
+async function Jn(t, e) {
   return await t.picker.ready, qe(e, "initialValue") && await t.picker.setValue(e.initialValue || {}, !1, {
     resetDirty: e.resetDirtyOnInitialValue !== !1,
     trackDirty: e.trackDirtyOnInitialValue === !0
   }), e.openOnMount === !0 && t.open(), t;
 }
-function fr(t = {}) {
-  const e = qn(t), i = rn(xn(e)), n = zn(e, i), r = Dn(e, i);
-  let a = !1;
-  const s = {
-    picker: i,
+function Da(t = {}, e = {}) {
+  const i = Un(Tn(t, e)), r = Vr(Hn(i)), n = Vn(i, r), a = Gn(i, r);
+  let s = !1;
+  const o = {
+    picker: r,
     binding: n,
-    controls: r,
+    controls: a,
     ready: null,
     open() {
-      return !a && typeof i.open == "function" && i.open(), s;
+      return !s && typeof r.open == "function" && r.open(), o;
     },
     close() {
-      return !a && typeof i.close == "function" && i.close(), s;
+      return !s && typeof r.close == "function" && r.close(), o;
     },
     isOpen() {
-      return !a && typeof i.isOpen == "function" ? i.isOpen() : !1;
+      return !s && typeof r.isOpen == "function" ? r.isOpen() : !1;
     },
     updatePayload() {
       if (!n)
-        throw new Error("mountStaticLocationMapPickerField updatePayload requires form.");
+        throw new Error("mountApiLocationMapPickerField updatePayload requires form binding.");
       return n.updatePayload();
     },
     resize() {
-      return !a && typeof i.resize == "function" && i.resize(), s;
+      return !s && typeof r.resize == "function" && r.resize(), o;
     },
     destroy() {
-      a || (a = !0, r && typeof r.destroy == "function" && r.destroy(), n && typeof n.destroy == "function" && n.destroy(), i.destroy());
+      s || (s = !0, a && typeof a.destroy == "function" && a.destroy(), n && typeof n.destroy == "function" && n.destroy(), r.destroy());
     }
   };
-  return s.ready = jn(s, e), s;
+  return o.ready = Jn(o, i), o;
 }
-const Tn = {
-  barangay_id: "barangay_id",
-  pin_lat: "pin_lat",
-  pin_lng: "pin_lng",
-  location_picker_value_json: "location_picker_value_json",
-  location_picker_validation_json: "location_picker_validation_json"
-};
-function Hn(t, e) {
+function pe(t, e) {
+  if (t == null)
+    return {};
+  if (typeof t != "object" || Array.isArray(t))
+    throw new Error(`mountLocationMapPickerField ${e} must be an object.`);
+  return t;
+}
+function Rt(t, e) {
+  return Object.prototype.hasOwnProperty.call(t || {}, e);
+}
+function Zn(t) {
+  return t && typeof t == "object" && (t.nodeType === 1 || typeof t.querySelector == "function");
+}
+function Kn(t, e = {}) {
+  return typeof t == "string" || Zn(t) ? {
+    ...e && typeof e == "object" && !Array.isArray(e) ? e : {},
+    mount: t
+  } : t || {};
+}
+function pi(t, e) {
+  if (!t)
+    return null;
+  if (typeof t == "string") {
+    const i = document.querySelector(t);
+    if (!i)
+      throw new Error(`mountLocationMapPickerField ${e} was not found: ${t}`);
+    return i;
+  }
+  return t;
+}
+function Wn(t) {
+  if (t.form === !1 || t.autoBindForm === !1)
+    return null;
+  if (t.form)
+    return pi(t.form, "form");
+  const e = pi(t.mount, "mount");
+  return e && typeof e.closest == "function" ? e.closest("form") : null;
+}
+function Yn(t) {
+  if (!t || typeof t != "object" || Array.isArray(t))
+    throw new Error("mountLocationMapPickerField requires an options object.");
+  if (!Rt(t, "mount"))
+    throw new Error("mountLocationMapPickerField requires mount.");
+  return t;
+}
+function Xn(t) {
+  return {
+    ...pe(t.pickerOptions, "pickerOptions"),
+    mount: t.mount,
+    provider: t.provider || t.mode || t.providerMode || "static",
+    baseUrl: t.baseUrl || t.dataBaseUrl,
+    dataBaseUrl: t.dataBaseUrl,
+    hierarchyBaseUrl: t.hierarchyBaseUrl,
+    geometryBaseUrl: t.geometryBaseUrl,
+    apiUrl: t.apiUrl,
+    geometryApiUrl: t.geometryApiUrl,
+    providerOptions: pe(t.providerOptions, "providerOptions"),
+    staticProviderOptions: pe(t.staticProviderOptions, "staticProviderOptions"),
+    apiProviderOptions: pe(t.apiProviderOptions, "apiProviderOptions")
+  };
+}
+function Qn(t, e) {
+  const i = Wn(t);
+  if (!i) {
+    if (Rt(t, "formBinding"))
+      throw new Error("mountLocationMapPickerField formBinding requires form or a mount inside a form.");
+    return null;
+  }
+  return Ft({
+    fieldPrefix: t.fieldPrefix,
+    fieldNameStyle: t.fieldNameStyle,
+    fieldNames: t.fieldNames,
+    ...pe(t.formBinding, "formBinding"),
+    form: i,
+    picker: e
+  });
+}
+function ea(t, e) {
+  return t.controls ? qt({
+    ...pe(t.controls, "controls"),
+    picker: e
+  }) : null;
+}
+async function ta(t, e) {
+  return await t.picker.ready, Rt(e, "initialValue") && await t.picker.setValue(e.initialValue || {}, !1, {
+    resetDirty: e.resetDirtyOnInitialValue !== !1,
+    trackDirty: e.trackDirtyOnInitialValue === !0
+  }), e.openOnMount === !0 && t.open(), t;
+}
+function ia(t = {}, e = {}) {
+  const i = Yn(Kn(t, e)), r = Yr(Xn(i)), n = Qn(i, r), a = ea(i, r);
+  let s = !1;
+  const o = {
+    picker: r,
+    binding: n,
+    controls: a,
+    ready: null,
+    open() {
+      return !s && typeof r.open == "function" && r.open(), o;
+    },
+    close() {
+      return !s && typeof r.close == "function" && r.close(), o;
+    },
+    isOpen() {
+      return !s && typeof r.isOpen == "function" ? r.isOpen() : !1;
+    },
+    updatePayload() {
+      if (!n)
+        throw new Error("mountLocationMapPickerField updatePayload requires form binding.");
+      return n.updatePayload();
+    },
+    resize() {
+      return !s && typeof r.resize == "function" && r.resize(), o;
+    },
+    destroy() {
+      s || (s = !0, a && typeof a.destroy == "function" && a.destroy(), n && typeof n.destroy == "function" && n.destroy(), r.destroy());
+    }
+  };
+  return o.ready = ta(o, i), o;
+}
+function ra(t, e) {
   if (!t)
     throw new Error(`${e} requires form.`);
   if (typeof t == "string") {
@@ -3513,22 +4052,19 @@ function Hn(t, e) {
     throw new Error(`${e} form must be an HTMLFormElement, selector, or form-like object with elements.`);
   return t;
 }
-function Vn(t) {
+function na(t) {
   return t == null ? "" : String(t).trim();
 }
-function ti(t = {}) {
-  return {
-    ...Tn,
-    ...t || {}
-  };
+function Ri(t = {}) {
+  return t && (Object.prototype.hasOwnProperty.call(t, "fieldNames") || Object.prototype.hasOwnProperty.call(t, "fieldPrefix") || Object.prototype.hasOwnProperty.call(t, "fieldNameStyle")) ? xe(t) : xe({ fieldNames: t || {} });
 }
-function f(t) {
+function g(t) {
   return t == null ? "" : String(t).trim();
 }
-function Gn(t) {
+function aa(t) {
   return typeof CSS < "u" && CSS.escape ? CSS.escape(t) : String(t).replace(/"/g, '\\"');
 }
-function Jn(t) {
+function sa(t) {
   if (!t)
     return null;
   if (typeof t.value < "u")
@@ -3540,251 +4076,421 @@ function Jn(t) {
   }
   return null;
 }
-function Zn(t, e) {
-  const i = Vn(e);
-  return !i || !t ? null : t.elements && t.elements[i] ? Jn(t.elements[i]) : typeof t.querySelector == "function" ? t.querySelector(`[name="${Gn(i)}"]`) : null;
+function oa(t, e) {
+  const i = na(e);
+  return !i || !t ? null : t.elements && t.elements[i] ? sa(t.elements[i]) : typeof t.querySelector == "function" ? t.querySelector(`[name="${aa(i)}"]`) : null;
 }
-function ve(t, e) {
-  const i = Zn(t, e);
-  return i && typeof i.value < "u" ? f(i.value) : "";
+function Me(t, e) {
+  const i = oa(t, e);
+  return i && typeof i.value < "u" ? g(i.value) : "";
 }
-function Un(t, e) {
-  const i = f(t);
+function ca(t, e) {
+  const i = g(t);
   if (!i)
     return null;
-  let n;
+  let r;
   try {
-    n = JSON.parse(i);
+    r = JSON.parse(i);
   } catch {
     throw new Error(`Invalid JSON in ${e}.`);
   }
-  if (!n || typeof n != "object" || Array.isArray(n))
+  if (!r || typeof r != "object" || Array.isArray(r))
     throw new Error(`${e} must contain a JSON object.`);
-  return n;
+  return r;
 }
-function Te(t, e) {
-  const i = f(t);
+function rt(t, e) {
+  const i = g(t);
   if (!i)
     return null;
-  const n = Number(i);
-  if (!Number.isFinite(n))
+  const r = Number(i);
+  if (!Number.isFinite(r))
     throw new Error(`${e} must be a valid number.`);
-  return n;
+  return r;
 }
-function ii(t = {}) {
+function zi(t = {}) {
   const e = t && typeof t == "object" ? t : {};
   return {
-    region_id: f(e.region_id),
-    region_name: f(e.region_name),
-    province_id: f(e.province_id),
-    province_name: f(e.province_name),
-    city_id: f(e.city_id),
-    city_name: f(e.city_name),
-    barangay_id: f(e.barangay_id),
-    barangay_name: f(e.barangay_name),
-    label: f(e.label),
-    display_label: f(e.display_label),
+    region_id: g(e.region_id),
+    region_name: g(e.region_name),
+    province_id: g(e.province_id),
+    province_name: g(e.province_name),
+    city_id: g(e.city_id),
+    city_name: g(e.city_name),
+    barangay_id: g(e.barangay_id),
+    barangay_name: g(e.barangay_name),
+    label: g(e.label),
+    display_label: g(e.display_label),
     resolved: e.resolved === !0,
-    resolved_source: f(e.resolved_source)
+    resolved_source: g(e.resolved_source)
   };
 }
-function Kn(t = null) {
+function la(t = null) {
   if (!t || typeof t != "object")
     return null;
-  const e = Te(t.lat, "pin.lat"), i = Te(t.lng, "pin.lng");
+  const e = rt(t.lat, "pin.lat"), i = rt(t.lng, "pin.lng");
   if (e === null && i === null)
     return null;
   if (e === null || i === null)
     throw new Error("pin requires both lat and lng.");
   return { lat: e, lng: i };
 }
-function Wn(t, e) {
-  const i = Un(t.location_picker_value_json, e.location_picker_value_json);
+function ua(t, e) {
+  const i = ca(t.location_picker_value_json, e.location_picker_value_json);
   return i ? {
-    location: ii(i.location || i),
-    pin: Kn(i.pin || null)
+    location: zi(i.location || i),
+    pin: la(i.pin || null)
   } : null;
 }
-function Yn(t, e) {
-  const i = Te(t.pin_lat, e.pin_lat), n = Te(t.pin_lng, e.pin_lng);
-  if (i === null && n !== null || i !== null && n === null)
+function da(t, e) {
+  const i = rt(t.pin_lat, e.pin_lat), r = rt(t.pin_lng, e.pin_lng);
+  if (i === null && r !== null || i !== null && r === null)
     throw new Error(`${e.pin_lat} and ${e.pin_lng} must both be present or both be blank.`);
   return {
-    location: ii({
+    location: zi({
       barangay_id: t.barangay_id
     }),
-    pin: i === null ? null : { lat: i, lng: n }
+    pin: i === null ? null : { lat: i, lng: r }
   };
 }
-function Xn(t, e = {}) {
-  const i = Hn(t, "readLocationMapPickerSubmitPayloadFromForm"), n = ti(e.fieldNames);
+function ha(t, e = {}) {
+  const i = ra(t, "readLocationMapPickerSubmitPayloadFromForm"), r = Ri(e);
   return {
-    barangay_id: ve(i, n.barangay_id),
-    pin_lat: ve(i, n.pin_lat),
-    pin_lng: ve(i, n.pin_lng),
-    location_picker_value_json: ve(i, n.location_picker_value_json),
-    location_picker_validation_json: ve(i, n.location_picker_validation_json)
+    barangay_id: Me(i, r.barangay_id),
+    pin_lat: Me(i, r.pin_lat),
+    pin_lng: Me(i, r.pin_lng),
+    location_picker_value_json: Me(i, r.location_picker_value_json),
+    location_picker_validation_json: Me(i, r.location_picker_validation_json)
   };
 }
-function Qn(t = {}, e = {}) {
-  const i = ti(e.fieldNames), n = {
-    barangay_id: f(t.barangay_id),
-    pin_lat: f(t.pin_lat),
-    pin_lng: f(t.pin_lng),
-    location_picker_value_json: f(t.location_picker_value_json),
-    location_picker_validation_json: f(t.location_picker_validation_json)
+function ma(t = {}, e = {}) {
+  const i = Ri(e), r = {
+    barangay_id: g(t.barangay_id),
+    pin_lat: g(t.pin_lat),
+    pin_lng: g(t.pin_lng),
+    location_picker_value_json: g(t.location_picker_value_json),
+    location_picker_validation_json: g(t.location_picker_validation_json)
   };
-  return Wn(n, i) || Yn(n, i);
+  return ua(r, i) || da(r, i);
 }
-function br(t, e = {}) {
-  const i = Xn(t, e);
-  return Qn(i, e);
+function Ua(t, e = {}) {
+  const i = ha(t, e);
+  return ma(i, e);
 }
-const ht = Object.freeze({
-  barangay_id: "barangay_id",
-  pin_lat: "pin_lat",
-  pin_lng: "pin_lng",
-  location_picker_value_json: "location_picker_value_json",
-  location_picker_validation_json: "location_picker_validation_json"
-});
-function ni(t) {
+function pa(t) {
   return t == null ? "" : String(t).trim();
 }
-function er(t) {
-  const e = ni(t).replace(/\/+$/, "");
+function fa(t) {
+  const e = pa(t).replace(/\/+$/, "");
   if (!e)
     throw new Error("createLocationMapPickerHostConfig requires baseUrl.");
   return e;
 }
-function pt(t, e) {
+function xi(t, e) {
   if (t == null)
     return {};
   if (typeof t != "object" || Array.isArray(t))
     throw new Error(`createLocationMapPickerHostConfig ${e} must be an object.`);
   return t;
 }
-function tr(t = {}) {
-  const e = pt(t, "fieldNames"), i = { ...ht };
-  for (const n of Object.keys(e)) {
-    if (!Object.prototype.hasOwnProperty.call(ht, n))
-      throw new Error(`Unknown location picker field name: ${n}.`);
-    const r = ni(e[n]);
-    if (!r)
-      throw new Error(`Location picker field name ${n} cannot be blank.`);
-    i[n] = r;
-  }
-  return i;
-}
-function we(t, e, i) {
+function Ie(t, e, i) {
   return {
     ...t,
-    ...pt(e, i)
+    ...xi(e, i)
   };
 }
-function _r(t = {}) {
-  const e = pt(t, "options"), i = er(e.baseUrl), n = tr(e.fieldNames), r = we({
+function Ha(t = {}) {
+  const e = xi(t, "options"), i = fa(e.baseUrl), r = xe({
+    fieldPrefix: e.fieldPrefix,
+    fieldNameStyle: e.fieldNameStyle,
+    fieldNames: e.fieldNames
+  }), n = Ie({
     selectedLabelFormat: "city_barangay",
     theme: "light",
     size: "comfortable",
     density: "normal"
-  }, e.ui, "ui"), a = we({
+  }, e.ui, "ui"), a = Ie({
     requiredLevel: "barangay"
-  }, e.location, "location"), s = we({
+  }, e.location, "location"), s = Ie({
     requiredLocationLevel: "barangay",
     requirePin: !0
-  }, e.validation, "validation"), o = we({
+  }, e.validation, "validation"), o = Ie({
     pinMode: "centered",
     showBoundary: !0,
     fitBoundaryOnSelection: !0,
     tileUrlTemplate: ""
-  }, e.map, "map"), l = we({
+  }, e.map, "map"), l = Ie({
     enabled: !0,
     failOnNoMatch: !1
   }, e.reverse, "reverse");
   return {
     baseUrl: i,
-    fieldNames: n,
+    fieldNames: r,
     pickerOptions: {
-      ui: r,
+      ui: n,
       location: a,
       validation: s,
       map: o,
       reverse: l
     },
     formBinding: {
-      fieldNames: n,
+      fieldNames: r,
       preventInvalid: !0,
       writePayload: !0,
       focusOnBlocked: !0
     }
   };
 }
-function vr() {
-  return { ...ht };
+const je = "[data-location-map-picker]", ie = "__philippinesLocationMapPickerController", ji = "data-location-map-picker-mounted", ya = /* @__PURE__ */ new Set([
+  "provider",
+  "mode",
+  "providerMode",
+  "baseUrl",
+  "dataBaseUrl",
+  "hierarchyBaseUrl",
+  "geometryBaseUrl",
+  "apiUrl",
+  "geometryApiUrl",
+  "fieldPrefix",
+  "fieldNameStyle"
+]), ga = Object.freeze({
+  fieldNames: "fieldNames",
+  providerOptions: "providerOptions",
+  staticProviderOptions: "staticProviderOptions",
+  apiProviderOptions: "apiProviderOptions",
+  pickerOptions: "pickerOptions",
+  formBinding: "formBinding",
+  controls: "controls",
+  initialValue: "initialValue"
+}), ba = Object.freeze({
+  displayMode: "displayMode",
+  theme: "theme",
+  size: "size",
+  density: "density",
+  selectedLabelFormat: "selectedLabelFormat",
+  title: "title",
+  subtitle: "subtitle",
+  triggerLabel: "triggerLabel",
+  triggerActionLabel: "triggerActionLabel",
+  saveLabel: "saveLabel",
+  cancelLabel: "cancelLabel",
+  clearLabel: "clearLabel",
+  searchPlaceholder: "searchPlaceholder"
+}), _a = Object.freeze({
+  requiredLevel: "requiredLevel"
+}), va = Object.freeze({
+  requiredLocationLevel: "requiredLocationLevel",
+  requirePin: "requirePin"
+}), wa = Object.freeze({
+  pinMode: "pinMode",
+  showBoundary: "showBoundary",
+  fitBoundaryOnSelection: "fitBoundaryOnSelection",
+  tileUrlTemplate: "tileUrlTemplate",
+  mapHeight: "mapHeight",
+  height: "height",
+  mapMinHeight: "mapMinHeight",
+  minHeight: "minHeight",
+  mapMaxHeight: "mapMaxHeight",
+  maxHeight: "maxHeight"
+}), Pa = Object.freeze({
+  reverseEnabled: "enabled",
+  reverseFailOnNoMatch: "failOnNoMatch"
+});
+function fi() {
+  return typeof document < "u" && document && typeof document.querySelectorAll == "function";
+}
+function st(t) {
+  return t == null ? "" : String(t).trim();
+}
+function fe(t) {
+  return st(t) !== "";
+}
+function ot(t) {
+  return t && typeof t == "object" && t.nodeType === 1;
+}
+function zt(t) {
+  return t && typeof t == "object" && typeof t.querySelectorAll == "function";
+}
+function Ti(t) {
+  if (!t) {
+    if (!fi())
+      throw new Error("autoMountLocationMapPickers requires a root when document is unavailable.");
+    return document;
+  }
+  if (typeof t == "string") {
+    if (!fi())
+      throw new Error("autoMountLocationMapPickers selector root requires document.");
+    const e = document.querySelector(t);
+    if (!e)
+      throw new Error(`autoMountLocationMapPickers root was not found: ${t}`);
+    return e;
+  }
+  if (zt(t))
+    return t;
+  throw new Error("autoMountLocationMapPickers root must be a selector, Element, Document, or DocumentFragment.");
+}
+function Di(t, e) {
+  const i = st(e || je) || je, r = [];
+  return ot(t) && typeof t.matches == "function" && t.matches(i) && r.push(t), typeof t.querySelectorAll == "function" && t.querySelectorAll(i).forEach((n) => r.push(n)), r;
+}
+function Nt(t) {
+  const e = st(t).toLowerCase();
+  return ["1", "true", "yes", "on"].includes(e) ? !0 : ["0", "false", "no", "off"].includes(e) ? !1 : null;
+}
+function Ui(t) {
+  const e = st(t);
+  if (e === "")
+    return "";
+  const i = Nt(e);
+  return i !== null ? i : /^-?\d+(\.\d+)?$/.test(e) ? Number(e) : e;
+}
+function La(t, e) {
+  const i = t.dataset[e];
+  if (fe(i))
+    try {
+      const r = JSON.parse(i);
+      if (r == null || typeof r != "object" || Array.isArray(r))
+        throw new Error("JSON value must be an object.");
+      return r;
+    } catch (r) {
+      const n = t.id ? `#${t.id}` : t.tagName.toLowerCase();
+      throw new Error(`Invalid JSON in data-${e.replace(/[A-Z]/g, (a) => "-" + a.toLowerCase())} on ${n}: ${r.message}`);
+    }
+}
+function Ne(t, e) {
+  const i = {};
+  return Object.entries(e).forEach(([r, n]) => {
+    fe(t[r]) && (i[n] = Ui(t[r]));
+  }), i;
+}
+function Ce(t, e, i) {
+  Object.keys(i).length !== 0 && (t.pickerOptions = {
+    ...t.pickerOptions || {},
+    [e]: {
+      ...t.pickerOptions && t.pickerOptions[e] || {},
+      ...i
+    }
+  });
+}
+function Ea(t, e = {}) {
+  const i = t.dataset || {}, r = { ...e };
+  return ya.forEach((n) => {
+    fe(i[n]) && (r[n] = Ui(i[n]));
+  }), Object.entries(ga).forEach(([n, a]) => {
+    const s = La(t, n);
+    s !== void 0 && (r[a] = s);
+  }), fe(i.form) && (r.form = i.form), fe(i.autoBindForm) && (r.autoBindForm = Nt(i.autoBindForm) !== !1), fe(i.openOnMount) && (r.openOnMount = Nt(i.openOnMount) === !0), Ce(r, "ui", Ne(i, ba)), Ce(r, "location", Ne(i, _a)), Ce(r, "validation", Ne(i, va)), Ce(r, "map", Ne(i, wa)), Ce(r, "reverse", Ne(i, Pa)), r;
+}
+function Sa(t, e = {}, i = {}) {
+  if (!ot(t))
+    throw new Error("autoMountLocationMapPickers can only mount on Element nodes.");
+  const r = i.force === !0;
+  if (!r && t[ie])
+    return t[ie];
+  r && t[ie] && typeof t[ie].destroy == "function" && t[ie].destroy();
+  const n = Ea(t, e), a = ia(t, n);
+  return t[ie] = a, t.setAttribute(ji, "true"), a;
+}
+function Va(t = void 0, e = {}) {
+  let i = t, r = e || {};
+  t && typeof t == "object" && !zt(t) && !ot(t) && (r = t, i = r.root);
+  const n = Ti(i), a = r.selector || je, s = r.defaults && typeof r.defaults == "object" ? r.defaults : {}, o = r.continueOnError === !0, l = [], d = [];
+  return Di(n, a).forEach((c) => {
+    try {
+      l.push(Sa(c, s, r));
+    } catch (u) {
+      if (!o)
+        throw u;
+      d.push({ element: c, error: u }), typeof r.onError == "function" && r.onError(u, c);
+    }
+  }), l.errors = d, l;
+}
+function Ga(t = void 0, e = {}) {
+  let i = t, r = e || {};
+  t && typeof t == "object" && !zt(t) && !ot(t) && (r = t, i = r.root);
+  const n = Ti(i), a = r.selector || je, s = [];
+  return Di(n, a).forEach((o) => {
+    const l = o[ie];
+    l && typeof l.destroy == "function" && (l.destroy(), s.push(l)), delete o[ie], o.removeAttribute(ji);
+  }), s;
+}
+function Ja() {
+  return je;
 }
 export {
-  pr as ApiProvider,
-  gr as ArcGisBarangayGeometryProvider,
-  Yi as CompositeLocationProvider,
-  $i as LocationMapPicker,
-  hi as LocationPicker,
-  bi as MapPicker,
-  cr as PROVIDER_CONTRACT_VERSION,
-  mr as PsgcCloudProvider,
-  Zi as StaticGeometryProvider,
-  xi as StaticJsonProvider,
-  Se as barangayCodeCandidates,
-  Fn as bindLocationMapPickerFieldControls,
-  Sn as bindLocationMapPickerForm,
-  yr as blockInvalidLocationMapPickerSubmit,
-  ue as boundsCenter,
-  ze as boundsContains,
-  I as cityCodeCandidates,
-  zt as cityFolderCandidates,
-  U as cleanProviderNumber,
+  $t as ApiProvider,
+  za as ArcGisBarangayGeometryProvider,
+  Mi as CompositeLocationProvider,
+  me as LOCATION_MAP_PICKER_PROVIDER_MODES,
+  Ct as LocationMapPicker,
+  Yi as LocationPicker,
+  nr as MapPicker,
+  Ba as PROVIDER_CONTRACT_VERSION,
+  Ra as PsgcCloudProvider,
+  $r as StaticGeometryProvider,
+  Si as StaticJsonProvider,
+  Va as autoMountLocationMapPickers,
+  Re as barangayCodeCandidates,
+  qt as bindLocationMapPickerFieldControls,
+  Ft as bindLocationMapPickerForm,
+  xa as blockInvalidLocationMapPickerSubmit,
+  ye as boundsCenter,
+  Xe as boundsContains,
+  O as cityCodeCandidates,
+  yi as cityFolderCandidates,
+  K as cleanProviderNumber,
   _ as cleanProviderText,
   w as cleanPsgcCode,
-  _r as createLocationMapPickerHostConfig,
-  br as createLocationMapPickerInitialValueFromForm,
-  Qn as createLocationMapPickerInitialValueFromSubmitPayload,
-  cn as createLocationMapPickerSubmitPayload,
-  ln as createLocationMapPickerSubmitPayloadFromValue,
-  ut as createLocationMapPickerSubmitResult,
-  C as createProviderError,
-  hr as createProviderNoMatch,
-  rn as createStaticLocationMapPicker,
-  en as createStaticLocationProvider,
-  vr as defaultLocationMapPickerFieldNames,
-  rr as deriveBarangayCityId,
-  D as deriveCityId,
-  F as deriveProvinceId,
-  z as deriveRegionId,
-  Ri as emptyProviderLocation,
-  Mn as formatLocationMapPickerValueLabel,
-  Fi as formatProviderLocationLabel,
-  Bn as hasLocationMapPickerSelection,
-  nr as isLegacyNineDigitPsgc,
-  ir as isTenDigitPsgc,
-  ar as legacyCityPrefix,
-  fr as mountStaticLocationMapPickerField,
-  re as normalizeBounds,
-  ur as normalizeBoundsValue,
-  V as normalizeLocationValue,
-  lr as normalizePinValue,
-  Le as normalizeProviderArray,
-  Oe as normalizeProviderRow,
-  De as normalizeReverseMatch,
-  xe as parentCodeCandidates,
-  dt as pointInPolygon,
-  ne as provinceCodeCandidates,
-  Xn as readLocationMapPickerSubmitPayloadFromForm,
-  K as regionCodeCandidates,
-  dr as safeProviderCall,
-  ai as sameCity,
-  or as sameProvince,
-  sr as sameRegion,
-  ei as selectedLocationMapPickerLevel,
-  R as toTenDigitPsgcCode,
-  he as uniqueCodes,
-  At as writeLocationMapPickerSubmitPayloadToForm
+  Vr as createApiLocationMapPicker,
+  Yr as createLocationMapPicker,
+  Ha as createLocationMapPickerHostConfig,
+  Ua as createLocationMapPickerInitialValueFromForm,
+  ma as createLocationMapPickerInitialValueFromSubmitPayload,
+  fn as createLocationMapPickerPrefixedFieldNames,
+  Kr as createLocationMapPickerProvider,
+  tn as createLocationMapPickerSubmitPayload,
+  rn as createLocationMapPickerSubmitPayloadFromValue,
+  It as createLocationMapPickerSubmitResult,
+  M as createProviderError,
+  Fa as createProviderNoMatch,
+  Dr as createStaticLocationMapPicker,
+  Ii as createStaticLocationProvider,
+  ja as defaultLocationMapPickerFieldNames,
+  Ma as deriveBarangayCityId,
+  z as deriveCityId,
+  C as deriveProvinceId,
+  R as deriveRegionId,
+  Ga as destroyAutoMountedLocationMapPickers,
+  vr as emptyProviderLocation,
+  Sn as formatLocationMapPickerValueLabel,
+  wr as formatProviderLocationLabel,
+  Mn as hasLocationMapPickerSelection,
+  Oa as isLegacyNineDigitPsgc,
+  ka as isTenDigitPsgc,
+  Ia as legacyCityPrefix,
+  Ja as locationMapPickerAutoMountSelector,
+  Da as mountApiLocationMapPickerField,
+  ia as mountLocationMapPickerField,
+  Ta as mountStaticLocationMapPickerField,
+  oe as normalizeBounds,
+  $a as normalizeBoundsValue,
+  Ci as normalizeLocationMapPickerProviderMode,
+  xe as normalizeLocationMapPickerSubmitFieldNames,
+  T as normalizeLocationValue,
+  Aa as normalizePinValue,
+  Ae as normalizeProviderArray,
+  He as normalizeProviderRow,
+  ze as normalizeReverseMatch,
+  Ye as parentCodeCandidates,
+  Bt as pointInPolygon,
+  se as provinceCodeCandidates,
+  ha as readLocationMapPickerSubmitPayloadFromForm,
+  W as regionCodeCandidates,
+  qa as safeProviderCall,
+  Vi as sameCity,
+  Ca as sameProvince,
+  Na as sameRegion,
+  qi as selectedLocationMapPickerLevel,
+  q as toTenDigitPsgcCode,
+  ge as uniqueCodes,
+  oi as writeLocationMapPickerSubmitPayloadToForm
 };

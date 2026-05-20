@@ -1,15 +1,21 @@
 {
-  "generatedAt": "2026-05-07T10:57:36.268Z",
+  "generatedAt": "2026-05-20T02:20:56.566Z",
   "version": "1.0.65",
   "requiredFilesChecked": 24,
-  "publishableFilesChecked": 1952,
+  "publishableFilesChecked": 1941,
   "psgcFiles": {
     "regions": true,
     "provinces": 17,
     "cities": 98,
     "barangays": 1655
   },
-  "warnings": [],
+  "warnings": [
+    {
+      "code": "local_only_directory_present",
+      "message": "node_modules exists locally and is ignored for release checks. Do not commit or package it.",
+      "path": "node_modules"
+    }
+  ],
   "failures": [],
   "ok": true
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T10:57:35.662Z",
+  "generatedAt": "2026-05-20T02:21:02.981Z",
   "geometryPolicy": "limited",
   "summary": {
     "productionHierarchyReady": true,
@@ -18,7 +18,7 @@
       "boundsRows": 22,
       "centroidFiles": 1,
       "centroidRows": 13,
-      "barangayPolygonFiles": 13
+      "barangayPolygonFiles": 16
     },
     "thresholds": {
       "regions": 18,
@@ -32,7 +32,8 @@
   },
   "commands": [],
   "warnings": [
-    "Limited-geometry production mode: PSGC selection is production-valid; reverse-fill remains available only where geometry exists."
+    "Limited-geometry production mode: PSGC selection is production-valid; reverse-fill remains available only where geometry exists.",
+    "Limited-geometry production mode: 3 geometry row(s) do not match the production PSGC hierarchy and will be ignored by PSGC-authoritative address selection."
   ],
   "failures": [],
   "ok": true

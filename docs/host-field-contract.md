@@ -1,19 +1,25 @@
 # Host Field Contract
 
-The package owns only address-selection, pin-selection, validation, and serialization fields. Host applications own customer, delivery, billing, and business-rule fields.
+The package owns only the location-picker submit fields. Host applications own all account, customer, delivery-zone, and fulfillment rules.
 
-## Core submit fields
+When `mountStaticLocationMapPicker` is mounted inside a form, it automatically creates and updates these hidden fields:
 
-- `region_id`
-- `province_id`
-- `city_id`
-- `barangay_id`
-- `pin_lat`
-- `pin_lng`
-- `location_picker_value_json`
-- `location_picker_validation_json`
-- `location_picker_dirty_json`
-- `location_picker_touched_json`
-- `location_picker_status_json`
+```text
+barangay_id
+pin_lat
+pin_lng
+location_picker_value_json
+location_picker_validation_json
+```
 
-`barangay_id` is the authoritative administrative location key when barangay-level selection is required. `pin_lat` and `pin_lng` are precision coordinates and must not replace the PSGC key.
+## Field meanings
+
+- `barangay_id`: authoritative PSGC barangay id selected by the picker.
+- `pin_lat`: latitude of the selected map pin.
+- `pin_lng`: longitude of the selected map pin.
+- `location_picker_value_json`: complete normalized location, pin, and geometry payload.
+- `location_picker_validation_json`: validation result for the picker-owned fields.
+
+## Custom names
+
+Use `formBinding.fieldNames` when a host application needs different field names.

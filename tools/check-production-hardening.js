@@ -90,7 +90,7 @@ const checks = [
     'static_mode_package_relative_data',
     'Static mode package-relative data',
     demoJs.includes('DEMO_DATA_BASE_URL') && demoJs.includes("new URL('./data', import.meta.url)") && !demoJs.includes("createStaticLocationProvider({ baseUrl: '/data' })"),
-    'Demo static mode resolves data relative to the package so /assets/vendor/philippines-location-map-picker works.'
+    'Demo static mode resolves data relative to the package so /packages/philippines-location-map-picker works.'
   ),
   check(
     'missing_static_failure_case',
@@ -101,8 +101,8 @@ const checks = [
   check(
     'reverse_no_match_user_message',
     'Reverse-fill no-match message',
-    locationMapPickerJs.includes('No cached barangay boundary matched that pin. The saved address was not changed.') && demoJs.includes('move the pin inside cached geometry or expand the static geometry cache'),
-    'Reverse-fill no-match tells the user the saved address was not changed and what to do next.'
+    locationMapPickerJs.includes('Static reverse-fill could not match this pin to cached barangay geometry.') && demoJs.includes('add geometry coverage for this area'),
+    'Reverse-fill no-match tells the user cached geometry is missing and what to do next.'
   ),
   check(
     'modal_accessibility_guardrails',
@@ -122,8 +122,8 @@ const checks = [
   check(
     'host_import_path_documented',
     'Host import path documented',
-    readme.includes('/assets/vendor/philippines-location-map-picker/') && readme.includes('createStaticLocationMapPicker'),
-    'README documents local vendor-path consumption and static provider usage.'
+    readme.includes('/packages/philippines-location-map-picker/') && readme.includes('mountStaticLocationMapPicker'),
+    'README documents local package-path consumption and static reusable component usage.'
   ),
   check(
     'production_hardening_doc_exists',

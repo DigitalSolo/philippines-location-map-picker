@@ -1,10 +1,4 @@
-const DEFAULT_FIELD_NAMES = {
-  barangay_id: 'barangay_id',
-  pin_lat: 'pin_lat',
-  pin_lng: 'pin_lng',
-  location_picker_value_json: 'location_picker_value_json',
-  location_picker_validation_json: 'location_picker_validation_json'
-};
+import { normalizeLocationMapPickerSubmitFieldNames } from './createLocationMapPickerFieldNames.js';
 
 function requireForm(value, helperName) {
   if (!value) {
@@ -30,11 +24,12 @@ function cleanFieldName(value) {
   return value == null ? '' : String(value).trim();
 }
 
-function normalizeFieldNames(fieldNames = {}) {
-  return {
-    ...DEFAULT_FIELD_NAMES,
-    ...(fieldNames || {})
-  };
+function normalizeFieldNames(options = {}) {
+  if (options && (Object.prototype.hasOwnProperty.call(options, 'fieldNames') || Object.prototype.hasOwnProperty.call(options, 'fieldPrefix') || Object.prototype.hasOwnProperty.call(options, 'fieldNameStyle'))) {
+    return normalizeLocationMapPickerSubmitFieldNames(options);
+  }
+
+  return normalizeLocationMapPickerSubmitFieldNames({ fieldNames: options || {} });
 }
 
 function cleanText(value) {
@@ -195,7 +190,7 @@ function initialValueFromScalarPayload(payload, fieldNames) {
  */
 export function readLocationMapPickerSubmitPayloadFromForm(form, options = {}) {
   const targetForm = requireForm(form, 'readLocationMapPickerSubmitPayloadFromForm');
-  const fieldNames = normalizeFieldNames(options.fieldNames);
+  const fieldNames = normalizeFieldNames(options);
 
   return {
     barangay_id: readField(targetForm, fieldNames.barangay_id),
@@ -211,7 +206,7 @@ export function readLocationMapPickerSubmitPayloadFromForm(form, options = {}) {
  * Prefer location_picker_value_json when present; otherwise use scalar fields.
  */
 export function createLocationMapPickerInitialValueFromSubmitPayload(payload = {}, options = {}) {
-  const fieldNames = normalizeFieldNames(options.fieldNames);
+  const fieldNames = normalizeFieldNames(options);
   const source = {
     barangay_id: cleanText(payload.barangay_id),
     pin_lat: cleanText(payload.pin_lat),

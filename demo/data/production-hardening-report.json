@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-07T10:04:16.065Z",
-  "packageName": "philippines-location-map-picker",
-  "packageVersion": "1.0.62",
+  "generatedAt": "2026-05-20T02:21:02.424Z",
+  "packageName": "@digitalsolo/philippines-location-map-picker",
+  "packageVersion": "1.0.65",
   "summary": {
     "total": 10,
     "passed": 10,
@@ -35,7 +35,7 @@
       "id": "static_mode_package_relative_data",
       "label": "Static mode package-relative data",
       "pass": true,
-      "message": "Demo static mode resolves data relative to the package so /assets/vendor/philippines-location-map-picker works.",
+      "message": "Demo static mode resolves data relative to the package so /packages/philippines-location-map-picker works.",
       "details": {}
     },
     {
@@ -49,7 +49,7 @@
       "id": "reverse_no_match_user_message",
       "label": "Reverse-fill no-match message",
       "pass": true,
-      "message": "Reverse-fill no-match tells the user the saved address was not changed and what to do next.",
+      "message": "Reverse-fill no-match tells the user cached geometry is missing and what to do next.",
       "details": {}
     },
     {
@@ -72,7 +72,7 @@
       "id": "host_import_path_documented",
       "label": "Host import path documented",
       "pass": true,
-      "message": "README documents local vendor-path consumption and static provider usage.",
+      "message": "README documents local package-path consumption and static reusable component usage.",
       "details": {}
     },
     {

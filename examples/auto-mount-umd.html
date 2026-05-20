@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>PLMP Auto Mount UMD Example</title>
+  <link rel="stylesheet" href="../dist/location-map-picker.css">
+  <style>
+    body { font-family: system-ui, sans-serif; margin: 2rem; }
+    form { max-width: 960px; }
+    .actions { margin-top: 1rem; }
+  </style>
+</head>
+<body>
+  <h1>Auto Mount Location Picker</h1>
+
+  <form method="post" action="/example-submit">
+    <div
+      data-location-map-picker
+      data-provider="api"
+      data-api-url="/api/location-map-picker"
+      data-field-prefix="delivery_location"
+      data-required-location-level="barangay"
+      data-require-pin="true"
+      data-theme="light"
+      data-size="comfortable"
+      data-density="normal"
+      data-map-height="420px"
+    ></div>
+
+    <div class="actions">
+      <button type="submit">Save location</button>
+    </div>
+  </form>
+
+  <script src="../dist/location-map-picker.umd.js"></script>
+  <script>
+    PhilippinesLocationMapPicker.autoMountLocationMapPickers();
+  </script>
+</body>
+</html>

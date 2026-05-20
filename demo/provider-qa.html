@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>PLMP Provider QA</title>
+  <link rel="stylesheet" href="../dist/location-map-picker.css">
+  <style>
+    :root { color-scheme: light dark; }
+    body { font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; margin: 0; padding: 1rem; }
+    .plmp-provider-qa { max-width: 1180px; margin: 0 auto; display: grid; gap: 1rem; }
+    .plmp-provider-qa__panel { border: 1px solid rgba(128, 128, 128, 0.35); border-radius: 0.75rem; padding: 1rem; background: rgba(128, 128, 128, 0.06); }
+    .plmp-provider-qa__grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 0.75rem; }
+    .plmp-provider-qa label { display: grid; gap: 0.25rem; font-weight: 600; font-size: 0.875rem; }
+    .plmp-provider-qa input, .plmp-provider-qa select { width: 100%; box-sizing: border-box; padding: 0.5rem 0.625rem; border-radius: 0.5rem; border: 1px solid rgba(128, 128, 128, 0.5); background: Canvas; color: CanvasText; }
+    .plmp-provider-qa button { padding: 0.55rem 0.85rem; border-radius: 0.5rem; border: 1px solid rgba(128, 128, 128, 0.5); cursor: pointer; }
+    .plmp-provider-qa__actions { display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center; }
+    .plmp-provider-qa__output { max-height: 22rem; overflow-y: auto; white-space: pre-wrap; overflow-wrap: anywhere; padding: 0.75rem; border-radius: 0.5rem; background: rgba(0, 0, 0, 0.08); }
+    .plmp-provider-qa__picker { min-height: 34rem; }
+  </style>
+</head>
+<body>
+  <main class="plmp-provider-qa">
+    <section>
+      <h1>Provider QA</h1>
+      <p>Validate static, API, and hybrid provider configuration without wiring the package into a host project page first.</p>
+    </section>
+
+    <section class="plmp-provider-qa__panel">
+      <div class="plmp-provider-qa__grid">
+        <label>
+          Provider mode
+          <select id="provider_mode">
+            <option value="static">static</option>
+            <option value="api">api</option>
+            <option value="hybrid">hybrid</option>
+          </select>
+        </label>
+        <label>
+          Static base URL
+          <input id="base_url" value="../data/fixtures/daet">
+        </label>
+        <label>
+          API URL
+          <input id="api_url" value="http://127.0.0.1:8089/server/php/location-map-picker-fixture-api.example.php">
+        </label>
+        <label>
+          Field prefix
+          <input id="field_prefix" value="location">
+        </label>
+        <label>
+          Reverse test lat
+          <input id="reverse_lat" value="14.066">
+        </label>
+        <label>
+          Reverse test lng
+          <input id="reverse_lng" value="122.917">
+        </label>
+      </div>
+      <div class="plmp-provider-qa__actions" style="margin-top: 0.75rem;">
+        <button type="button" id="mount_picker">Mount picker</button>
+        <button type="button" id="run_contract">Run provider contract check</button>
+        <button type="button" id="reverse_test">Reverse test pin</button>
+        <button type="button" id="copy_config">Copy config</button>
+      </div>
+    </section>
+
+    <section class="plmp-provider-qa__panel">
+      <h2>Copyable config</h2>
+      <pre id="config_output" class="plmp-provider-qa__output"></pre>
+    </section>
+
+    <section class="plmp-provider-qa__panel">
+      <h2>QA output</h2>
+      <pre id="qa_output" class="plmp-provider-qa__output">Ready.</pre>
+    </section>
+
+    <section class="plmp-provider-qa__panel">
+      <h2>Picker</h2>
+      <form id="qa_form">
+        <div id="qa_picker" class="plmp-provider-qa__picker"></div>
+      </form>
+    </section>
+  </main>
+
+  <script src="../dist/location-map-picker.umd.js"></script>
+  <script src="./provider-qa.js"></script>
+</body>
+</html>

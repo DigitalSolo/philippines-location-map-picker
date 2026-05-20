@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>PLMP No-Database Fixture Demo</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script type="module" src="./fixtures.js"></script>
+  <style>
+    body{background:#f6f8fb;color:#0f172a;font-family:Arial,Helvetica,sans-serif;margin:0}.page{margin:0 auto;max-width:980px;padding:22px}.card{background:#fff;border:1px solid #dbe4ef;border-radius:18px;box-shadow:0 16px 44px rgba(15,23,42,.08);padding:18px;margin:14px 0}.nav{display:flex;gap:10px;flex-wrap:wrap}.nav a{color:#2563eb;font-weight:800;text-decoration:none}.note{color:#64748b;line-height:1.45}.demo-location-instance{--plmp-primary:#2563eb;--plmp-primary-hover:#1d4ed8;--plmp-map-height:420px}.button-row{align-items:center;display:flex;gap:10px;flex-wrap:wrap;margin-top:12px}button{background:#2563eb;border:0;border-radius:999px;color:#fff;cursor:pointer;font-weight:800;padding:10px 14px}button.secondary{background:#e2e8f0;color:#0f172a}pre{background:#0f172a;border-radius:14px;color:#dbeafe;font-size:.86rem;max-height:380px;overflow:auto;padding:14px;white-space:pre}.status{background:#e0f2fe;border:1px solid #7dd3fc;border-radius:14px;color:#075985;font-weight:700;padding:10px 12px}.status.is-warning{background:#fef3c7;border-color:#f59e0b;color:#92400e}.status.is-success{background:#dcfce7;border-color:#86efac;color:#166534}.grid{display:grid;gap:14px;grid-template-columns:1fr}@media(max-width:760px){.page{padding:14px}}
+  </style>
+</head>
+<body>
+  <main class="page">
+    <h1>PLMP No-Database Fixture Demo</h1>
+    <p class="nav"><a href="/demo/">Main demo</a><a href="/demo/config.html">Configuration builder</a></p>
+    <p class="note">This page uses one form, one mount element, and the small bundled Daet fixture. The package creates its own hidden submit fields. This is for component testing only; production reverse lookup should use API/database mode with real barangay geometry.</p>
+
+    <section class="card">
+      <p class="status" id="status">Loading fixture picker...</p>
+      <form id="fixtureForm" method="post" action="#">
+        <div id="fixturePicker"></div>
+        <div class="button-row">
+          <button type="button" id="reverseButton">Reverse-fill from pin</button>
+          <button type="button" class="secondary" id="validateButton">Validate</button>
+          <button type="submit">Simulate submit</button>
+        </div>
+      </form>
+    </section>
+
+    <section class="card grid">
+      <h2>Auto-created form fields</h2>
+      <pre id="fieldOutput">{}</pre>
+      <h2>Current picker value</h2>
+      <pre id="valueOutput">{}</pre>
+    </section>
+  </main>
+</body>
+</html>

@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>PLMP Auto Mount Demo</title>
+  <link rel="stylesheet" href="/src/css/location-map-picker.css">
+  <style>
+    body { font-family: system-ui, sans-serif; margin: 0; padding: 24px; background: #f8fafc; color: #0f172a; }
+    main { max-width: 1100px; margin: 0 auto; }
+    form { background: #fff; border: 1px solid #e2e8f0; border-radius: 18px; padding: 18px; box-shadow: 0 12px 28px rgba(15,23,42,.06); }
+    .actions { display: flex; gap: 12px; align-items: center; margin-top: 16px; }
+    button { border: 0; border-radius: 10px; padding: 10px 14px; cursor: pointer; }
+    button[type="submit"] { background: #0f172a; color: #fff; }
+    pre { max-height: 320px; overflow: auto; background: #0f172a; color: #e2e8f0; border-radius: 12px; padding: 12px; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Auto Mount Demo</h1>
+    <p>One mount element, no hand-written hidden fields.</p>
+
+    <form id="demo_form">
+      <div
+        id="demo_location_picker"
+        data-location-map-picker
+        data-provider="static"
+        data-base-url="/data/fixtures/daet"
+        data-field-prefix="demo_location"
+        data-required-location-level="barangay"
+        data-require-pin="true"
+        data-map-height="420px"
+      ></div>
+
+      <div class="actions">
+        <button type="submit">Test submit</button>
+        <button type="button" id="show_payload">Show form payload</button>
+      </div>
+    </form>
+
+    <h2>Payload</h2>
+    <pre id="payload_output">Submit or click Show form payload.</pre>
+  </main>
+
+  <script type="module" src="./auto-mount.js"></script>
+</body>
+</html>

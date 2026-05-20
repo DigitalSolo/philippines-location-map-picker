@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>PLMP API Diagnostics</title>
+  <link rel="stylesheet" href="../dist/location-map-picker.css">
+  <style>
+    :root { color-scheme: light dark; }
+    body { font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; margin: 0; padding: 1rem; }
+    .page { max-width: 1180px; margin: 0 auto; display: grid; gap: 1rem; }
+    .panel { border: 1px solid rgba(128, 128, 128, 0.35); border-radius: 0.75rem; padding: 1rem; background: rgba(128, 128, 128, 0.06); }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 0.75rem; }
+    label { display: grid; gap: 0.25rem; font-weight: 600; font-size: 0.875rem; }
+    input { width: 100%; box-sizing: border-box; padding: 0.5rem 0.625rem; border-radius: 0.5rem; border: 1px solid rgba(128, 128, 128, 0.5); background: Canvas; color: CanvasText; }
+    button { padding: 0.55rem 0.85rem; border-radius: 0.5rem; border: 1px solid rgba(128, 128, 128, 0.5); cursor: pointer; }
+    .actions { display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center; margin-top: 0.75rem; }
+    pre { max-height: 24rem; overflow-y: auto; white-space: pre-wrap; overflow-wrap: anywhere; padding: 0.75rem; border-radius: 0.5rem; background: rgba(0, 0, 0, 0.08); }
+    table { width: 100%; border-collapse: collapse; font-size: 0.875rem; }
+    th, td { border-bottom: 1px solid rgba(128,128,128,.25); padding: .45rem .35rem; text-align: left; vertical-align: top; }
+    .metric { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: .5rem; }
+    .metric > div { border: 1px solid rgba(128,128,128,.25); border-radius: .6rem; padding: .65rem; }
+    .metric strong { display: block; font-size: 1.35rem; }
+  </style>
+</head>
+<body>
+  <main class="page">
+    <section>
+      <h1>API Diagnostics</h1>
+      <p>Use this page to verify that a host project API is ready for PLMP database mode.</p>
+    </section>
+
+    <section class="panel">
+      <div class="grid">
+        <label>
+          API URL
+          <input id="api_url" value="http://127.0.0.1:8089/server/php/location-map-picker-fixture-api.example.php">
+        </label>
+        <label>
+          Search text
+          <input id="search_text" value="Daet">
+        </label>
+        <label>
+          Reverse lat
+          <input id="reverse_lat" value="14.066">
+        </label>
+        <label>
+          Reverse lng
+          <input id="reverse_lng" value="122.917">
+        </label>
+        <label>
+          Reverse city ID optional
+          <input id="reverse_city_id" value="">
+        </label>
+      </div>
+      <div class="actions">
+        <button type="button" id="run_diagnostics">Run diagnostics</button>
+        <button type="button" id="run_search">Search</button>
+        <button type="button" id="run_reverse_probe">Reverse probe</button>
+        <button type="button" id="run_missing_geometry">Missing geometry</button>
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2>Summary</h2>
+      <div id="summary" class="metric"></div>
+    </section>
+
+    <section class="panel">
+      <h2>Rows</h2>
+      <div id="rows">No rows loaded.</div>
+    </section>
+
+    <section class="panel">
+      <h2>JSON</h2>
+      <pre id="output">Ready.</pre>
+    </section>
+  </main>
+  <script src="./api-diagnostics.js"></script>
+</body>
+</html>

@@ -1,21 +1,50 @@
-# Vendor Consumption
+# Vendor Consumption Guide
 
-Use the package from a local vendor path and provide an explicit data `baseUrl`. Do not hard-code the host path inside package source.
+## Public path
 
-```js
-import {
-  createLocationMapPickerHostConfig,
-  createStaticLocationMapPicker
-} from '/assets/vendor/philippines-location-map-picker/dist/location-map-picker.es.js';
+Recommended public document-root placement:
 
-const hostConfig = createLocationMapPickerHostConfig({
-  baseUrl: '/assets/vendor/philippines-location-map-picker/data'
-});
-
-const picker = createStaticLocationMapPicker({
-  mount: document.getElementById('locationPicker'),
-  ...hostConfig
-});
+```text
+www/packages/philippines-location-map-picker/
 ```
 
-Post the package-owned fields documented in `docs/host-field-contract.md`. Keep delivery coverage, serviceability, shipping fees, RDC assignment, and vendor workflow rules in the host application.
+Recommended browser path:
+
+```text
+/packages/philippines-location-map-picker/
+```
+
+## Reusable component
+
+```html
+<link rel="stylesheet" href="/packages/philippines-location-map-picker/dist/location-map-picker.css">
+
+<form id="deliveryAddressForm" method="post">
+  <div id="locationPicker"></div>
+  <button type="submit">Save address</button>
+</form>
+
+<script src="/packages/philippines-location-map-picker/dist/location-map-picker.umd.js"></script>
+<script>
+window.PhilippinesLocationMapPicker.mountStaticLocationMapPicker({
+  mount: '#locationPicker',
+  baseUrl: '/packages/philippines-location-map-picker/data'
+});
+</script>
+```
+
+## Host configuration helper
+
+`createLocationMapPickerHostConfig` remains available for applications that want to centralize field names and default picker settings before mounting.
+
+## Auto-created submit fields
+
+The reusable component creates these fields automatically in the nearest parent form:
+
+```text
+barangay_id
+pin_lat
+pin_lng
+location_picker_value_json
+location_picker_validation_json
+```

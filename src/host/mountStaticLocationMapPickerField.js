@@ -18,6 +18,50 @@ function hasOwn(object, key) {
   return Object.prototype.hasOwnProperty.call(object || {}, key);
 }
 
+function isElementLike(value) {
+  return value && typeof value === 'object' && (value.nodeType === 1 || typeof value.querySelector === 'function');
+}
+
+function normalizeMountArguments(first, second = {}) {
+  if (typeof first === 'string' || isElementLike(first)) {
+    return {
+      ...(second && typeof second === 'object' && !Array.isArray(second) ? second : {}),
+      mount: first
+    };
+  }
+
+  return first || {};
+}
+
+function resolveElement(value, name) {
+  if (!value) {
+    return null;
+  }
+
+  if (typeof value === 'string') {
+    const element = document.querySelector(value);
+    if (!element) {
+      throw new Error(`mountStaticLocationMapPickerField ${name} was not found: ${value}`);
+    }
+    return element;
+  }
+
+  return value;
+}
+
+function resolveForm(options) {
+  if (options.form === false || options.autoBindForm === false) {
+    return null;
+  }
+
+  if (options.form) {
+    return resolveElement(options.form, 'form');
+  }
+
+  const mount = resolveElement(options.mount, 'mount');
+  return mount && typeof mount.closest === 'function' ? mount.closest('form') : null;
+}
+
 function requireFieldOptions(options) {
   if (!options || typeof options !== 'object' || Array.isArray(options)) {
     throw new Error('mountStaticLocationMapPickerField requires an options object.');
@@ -31,10 +75,6 @@ function requireFieldOptions(options) {
     throw new Error('mountStaticLocationMapPickerField requires baseUrl.');
   }
 
-  if (!options.form && hasOwn(options, 'formBinding')) {
-    throw new Error('mountStaticLocationMapPickerField formBinding requires form.');
-  }
-
   return options;
 }
 
@@ -42,18 +82,27 @@ function createPickerOptions(options) {
   return {
     ...objectOption(options.pickerOptions, 'pickerOptions'),
     mount: options.mount,
-    baseUrl: options.baseUrl
+    baseUrl: options.baseUrl,
+    providerOptions: objectOption(options.providerOptions, 'providerOptions')
   };
 }
 
 function createBinding(options, picker) {
-  if (!options.form) {
+  const form = resolveForm(options);
+
+  if (!form) {
+    if (hasOwn(options, 'formBinding')) {
+      throw new Error('mountStaticLocationMapPickerField formBinding requires form or a mount inside a form.');
+    }
     return null;
   }
 
   return bindLocationMapPickerForm({
+    fieldPrefix: options.fieldPrefix,
+    fieldNameStyle: options.fieldNameStyle,
+    fieldNames: options.fieldNames,
     ...objectOption(options.formBinding, 'formBinding'),
-    form: options.form,
+    form,
     picker
   });
 }
@@ -89,11 +138,11 @@ async function applyInitialValue(controller, options) {
 /**
  * Mounts the static picker as a reusable host field controller.
  *
- * This helper combines the static-data factory, optional saved-value hydration,
- * optional form binding, and explicit open/close controls for host pages.
+ * If the mount element is inside a form, the package automatically creates and
+ * updates its hidden submit fields. Pass form: false to disable form binding.
  */
-export function mountStaticLocationMapPickerField(options = {}) {
-  const fieldOptions = requireFieldOptions(options);
+export function mountStaticLocationMapPickerField(mountOrOptions = {}, options = {}) {
+  const fieldOptions = requireFieldOptions(normalizeMountArguments(mountOrOptions, options));
   const picker = createStaticLocationMapPicker(createPickerOptions(fieldOptions));
   const binding = createBinding(fieldOptions, picker);
   const controls = createControls(fieldOptions, picker);
@@ -121,7 +170,7 @@ export function mountStaticLocationMapPickerField(options = {}) {
     },
     updatePayload() {
       if (!binding) {
-        throw new Error('mountStaticLocationMapPickerField updatePayload requires form.');
+        throw new Error('mountStaticLocationMapPickerField updatePayload requires form binding.');
       }
       return binding.updatePayload();
     },

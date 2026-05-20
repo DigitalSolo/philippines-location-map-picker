@@ -1,27 +1,27 @@
 {
-  "generatedAt": "2026-05-07T13:17:21.716Z",
+  "generatedAt": "2026-05-20T02:21:01.981Z",
   "strict": false,
   "psgcRoot": "data/psgc",
   "geoRoot": "data/geo",
   "reports": {
-    "coverage": "data\\geo\\geometry-coverage-report.json",
-    "reconciliation": "data\\geo\\psgc-geometry-reconciliation-report.json",
+    "coverage": "data/geo/geometry-coverage-report.json",
+    "reconciliation": "data/geo/psgc-geometry-reconciliation-report.json",
     "staticData": "data/static-data-report.json"
   },
   "commands": [
     {
       "script": "audit-geometry-coverage.js",
-      "command": "node tools/audit-geometry-coverage.js --psgc data/psgc --geo data/geo --out data\\geo\\geometry-coverage-report.json",
+      "command": "node tools/audit-geometry-coverage.js --psgc data/psgc --geo data/geo --out data/geo/geometry-coverage-report.json",
       "status": 0,
-      "stdout": "PSGC barangays: 42010\nGeometry barangays: 16\nMissing geometry: 41997\nGeometry without PSGC: 3\nWrote data\\geo\\geometry-coverage-report.json",
+      "stdout": "PSGC barangays: 42010\nGeometry barangays: 16\nMissing geometry: 41997\nGeometry without PSGC: 3\nWrote data/geo/geometry-coverage-report.json",
       "stderr": "",
       "ok": true
     },
     {
       "script": "reconcile-psgc-geometry.js",
-      "command": "node tools/reconcile-psgc-geometry.js --psgc data/psgc --geo data/geo --out data\\geo\\psgc-geometry-reconciliation-report.json",
+      "command": "node tools/reconcile-psgc-geometry.js --psgc data/psgc --geo data/geo --out data/geo/psgc-geometry-reconciliation-report.json",
       "status": 0,
-      "stdout": "PSGC barangays: 42010\nGeometry barangays: 16\nExact matches: 3\nCode-format matches: 10\nPSGC without geometry: 41997\nGeometry without PSGC: 3\nPossible renamed/stale geometry: 0\nStale geometry codes: 3\nName mismatches: 0\nComponent gaps: 0\nWrote data\\geo\\psgc-geometry-reconciliation-report.json",
+      "stdout": "PSGC barangays: 42010\nGeometry barangays: 16\nExact matches: 3\nCode-format matches: 10\nPSGC without geometry: 41997\nGeometry without PSGC: 3\nPossible renamed/stale geometry: 0\nStale geometry codes: 3\nName mismatches: 0\nComponent gaps: 0\nWrote data/geo/psgc-geometry-reconciliation-report.json",
       "stderr": "",
       "ok": true
     },

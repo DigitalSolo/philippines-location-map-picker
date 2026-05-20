@@ -1,16 +1,38 @@
-# Production Hardening
+# Production Hardening Notes
 
-This package is designed to run without runtime CDN or third-party GIS dependencies in the normal static mode.
+## Runtime assets
 
-## Release checks
+Host the package locally under the public document root:
 
-- Use static or backend-served PSGC data for production forms.
-- Use static or backend-served geometry for reverse-fill.
-- Keep delivery-zone, service-area, shipping fee, and vendor business rules in the host application.
-- Do not rely on live PSGC or ArcGIS endpoints during checkout or address saving.
-- The demo resolves its local data folder relative to `demo/demo.js`, so launching Vite from the package root or from the demo root does not change the demo data contract.
-- Missing static files must fail visibly with provider-load messaging instead of silently saving incomplete locations.
+```text
+www/packages/philippines-location-map-picker/
+```
 
-## Modal and accessibility guardrails
+Do not rely on CDN copies of the JavaScript, CSS, PSGC hierarchy, or geometry cache.
 
-The picker uses modal APIs and `inert` background handling. Do not add `aria-hidden` to ancestors of focused elements.
+## Preferred host integration
+
+Use the UMD reusable component:
+
+```js
+window.PhilippinesLocationMapPicker.mountStaticLocationMapPicker({
+  mount: '#locationPicker',
+  baseUrl: '/packages/philippines-location-map-picker/data'
+});
+```
+
+Place the mount element inside the host form. The component automatically creates the package-owned hidden submit fields.
+
+## Static reverse-fill
+
+Static reverse-fill is only as complete as `data/geo`. If a selected barangay has no cached geometry, the picker keeps the selected barangay and saves the exact pin instead of blocking the user with an internal geometry-cache message.
+
+For full automatic pin-to-barangay matching, expand the cached geometry data or provide a backend/live geometry provider.
+
+## Accessibility
+
+Modal handling uses `inert` for background content and avoids `aria-hidden` on ancestors of focused elements.
+
+## Host-owned rules
+
+The package validates only location and pin fields. The host app owns account, customer, delivery-zone, fulfillment, fraud, and address-label policy checks.

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T10:57:35.752Z",
+  "generatedAt": "2026-05-20T02:21:03.013Z",
   "mode": "production",
   "version": "1.0.65",
   "summary": {
@@ -7,8 +7,8 @@
     "requiredDirs": 7,
     "forbiddenPathCount": 0,
     "distFiles": {
-      "es": 168725,
-      "umd": 138113,
+      "es": 170336,
+      "umd": 139364,
       "css": 20935
     },
     "productionHierarchyReady": true,
@@ -98,7 +98,13 @@
       "required": true
     }
   ],
-  "warnings": [],
+  "warnings": [
+    {
+      "code": "local_only_directory_present",
+      "message": "node_modules exists locally and is ignored for publish checks. Do not commit or package it.",
+      "path": "node_modules"
+    }
+  ],
   "failures": [],
   "ok": true
 }

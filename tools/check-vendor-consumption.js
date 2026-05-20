@@ -138,7 +138,7 @@ const checks = [
   check(
     'sukimart_vendor_path_documented',
     'SukiMart vendor path documented',
-    sukiMartChecklist.includes('/assets/vendor/philippines-location-map-picker') && sukiMartChecklist.includes('barangay_id'),
+    sukiMartChecklist.includes('/packages/philippines-location-map-picker') && sukiMartChecklist.includes('barangay_id'),
     'SukiMart checklist documents the local vendor path and authoritative barangay_id storage.'
   ),
   check(

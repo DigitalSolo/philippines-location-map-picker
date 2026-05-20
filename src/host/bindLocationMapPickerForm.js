@@ -1,12 +1,5 @@
 import { createLocationMapPickerSubmitResult } from './createLocationMapPickerSubmitResult.js';
-
-const DEFAULT_FIELD_NAMES = {
-  barangay_id: 'barangay_id',
-  pin_lat: 'pin_lat',
-  pin_lng: 'pin_lng',
-  location_picker_value_json: 'location_picker_value_json',
-  location_picker_validation_json: 'location_picker_validation_json'
-};
+import { normalizeLocationMapPickerSubmitFieldNames } from './createLocationMapPickerFieldNames.js';
 
 const SUBMIT_RESULT_OPTION_KEYS = [
   'messageInvalid',
@@ -47,11 +40,12 @@ function cleanFieldName(value) {
   return value == null ? '' : String(value).trim();
 }
 
-function normalizeFieldNames(fieldNames = {}) {
-  return {
-    ...DEFAULT_FIELD_NAMES,
-    ...(fieldNames || {})
-  };
+function normalizeFieldNames(options = {}) {
+  if (options && (Object.prototype.hasOwnProperty.call(options, 'fieldNames') || Object.prototype.hasOwnProperty.call(options, 'fieldPrefix') || Object.prototype.hasOwnProperty.call(options, 'fieldNameStyle'))) {
+    return normalizeLocationMapPickerSubmitFieldNames(options);
+  }
+
+  return normalizeLocationMapPickerSubmitFieldNames({ fieldNames: options || {} });
 }
 
 function createSubmitResultOptions(options = {}) {
@@ -133,7 +127,7 @@ function focusPicker(picker) {
  */
 export function writeLocationMapPickerSubmitPayloadToForm(form, payload, options = {}) {
   const targetForm = requireForm(form);
-  const fieldNames = normalizeFieldNames(options.fieldNames);
+  const fieldNames = normalizeFieldNames(options);
   const source = payload || {};
 
   writeField(targetForm, fieldNames.barangay_id, source.barangay_id);
@@ -156,7 +150,7 @@ export function writeLocationMapPickerSubmitPayloadToForm(form, payload, options
 export function bindLocationMapPickerForm(options = {}) {
   const form = requireForm(options.form);
   const picker = requirePicker(options.picker);
-  const fieldNames = normalizeFieldNames(options.fieldNames);
+  const fieldNames = normalizeFieldNames(options);
   const writePayload = options.writePayload !== false;
   const preventInvalid = options.preventInvalid !== false;
   const stopInvalidPropagation = options.stopInvalidPropagation === true;

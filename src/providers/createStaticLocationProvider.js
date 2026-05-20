@@ -17,6 +17,7 @@ export function createStaticLocationProvider(options = {}) {
   const reverseMaxNearestKm = Number.isFinite(Number(options.reverseMaxNearestKm))
     ? Number(options.reverseMaxNearestKm)
     : 0;
+  const reverseFallbackToSelectedLocation = options.reverseFallbackToSelectedLocation !== false;
 
   return new CompositeLocationProvider({
     hierarchyProvider: new StaticJsonProvider({
@@ -24,7 +25,8 @@ export function createStaticLocationProvider(options = {}) {
     }),
     geometryProvider: new StaticGeometryProvider({
       baseUrl: geometryBaseUrl,
-      reverseMaxNearestKm
+      reverseMaxNearestKm,
+      reverseFallbackToSelectedLocation
     })
   });
 }

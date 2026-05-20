@@ -1,10 +1,4 @@
-const DEFAULT_FIELD_NAMES = Object.freeze({
-  barangay_id: 'barangay_id',
-  pin_lat: 'pin_lat',
-  pin_lng: 'pin_lng',
-  location_picker_value_json: 'location_picker_value_json',
-  location_picker_validation_json: 'location_picker_validation_json'
-});
+import { defaultLocationMapPickerFieldNames, normalizeLocationMapPickerSubmitFieldNames } from './createLocationMapPickerFieldNames.js';
 
 function cleanText(value) {
   return value == null ? '' : String(value).trim();
@@ -28,25 +22,6 @@ function assertPlainObject(value, optionName) {
   return value;
 }
 
-function normalizeFieldNames(fieldNames = {}) {
-  const source = assertPlainObject(fieldNames, 'fieldNames');
-  const result = { ...DEFAULT_FIELD_NAMES };
-
-  for (const key of Object.keys(source)) {
-    if (!Object.prototype.hasOwnProperty.call(DEFAULT_FIELD_NAMES, key)) {
-      throw new Error(`Unknown location picker field name: ${key}.`);
-    }
-
-    const fieldName = cleanText(source[key]);
-    if (!fieldName) {
-      throw new Error(`Location picker field name ${key} cannot be blank.`);
-    }
-    result[key] = fieldName;
-  }
-
-  return result;
-}
-
 function mergeOptionGroup(defaults, provided, optionName) {
   return {
     ...defaults,
@@ -64,7 +39,11 @@ function mergeOptionGroup(defaults, provided, optionName) {
 export function createLocationMapPickerHostConfig(options = {}) {
   const source = assertPlainObject(options, 'options');
   const baseUrl = requireBaseUrl(source.baseUrl);
-  const fieldNames = normalizeFieldNames(source.fieldNames);
+  const fieldNames = normalizeLocationMapPickerSubmitFieldNames({
+    fieldPrefix: source.fieldPrefix,
+    fieldNameStyle: source.fieldNameStyle,
+    fieldNames: source.fieldNames
+  });
 
   const ui = mergeOptionGroup({
     selectedLabelFormat: 'city_barangay',
@@ -113,6 +92,4 @@ export function createLocationMapPickerHostConfig(options = {}) {
   };
 }
 
-export function defaultLocationMapPickerFieldNames() {
-  return { ...DEFAULT_FIELD_NAMES };
-}
+export { defaultLocationMapPickerFieldNames };

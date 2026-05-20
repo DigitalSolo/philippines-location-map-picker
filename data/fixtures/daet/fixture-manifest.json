@@ -1,0 +1,15 @@
+{
+  "name": "Daet fixture",
+  "purpose": "Small no-database smoke-test fixture for PLMP static/API demos.",
+  "production_boundaries": false,
+  "hierarchy_source": "location(3).sql / host location tables",
+  "geometry_note": "Bounds and rectangles are deterministic demo geometry only. Use API/database mode with location_barangay_geometries for production reverse lookup.",
+  "region_id": "05",
+  "province_id": "05016",
+  "city_id": "0501603",
+  "barangays": 25,
+  "default_pin": {
+    "lat": 14.066,
+    "lng": 122.917
+  }
+}

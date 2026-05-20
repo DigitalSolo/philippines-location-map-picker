@@ -1,6 +1,6 @@
 {
-  "name": "philippines-location-map-picker",
-  "version": "1.0.65",
+  "name": "@digitalsolo/philippines-location-map-picker",
+  "version": "1.0.72",
   "description": "Standalone Philippine PSGC location picker with static hierarchy, cached geometry, map pin placement, and reverse boundary matching.",
   "type": "module",
   "main": "dist/location-map-picker.umd.js",
@@ -39,7 +39,15 @@
     "build-production-psgc-cache:fresh": "node tools/build-production-psgc-cache.js --force 1 --resume 0",
     "resume-production-psgc-cache": "node tools/build-production-psgc-cache.js --resume 1",
     "check-release-artifacts": "node tools/check-release-artifacts.js",
-    "check-github-release": "npm run check-release-artifacts && npm run check-publish-readiness"
+    "check-github-release": "npm run check-release-artifacts && npm run check-publish-readiness",
+    "export-static-fixtures": "php server/php/export-location-map-picker-static-fixtures.php",
+    "serve-fixture-api": "php -S 127.0.0.1:8089 -t .",
+    "check-provider-contract": "node tools/check-provider-contract.js --provider=static --base-url=data/fixtures/daet --report=data/provider-contract-report.json",
+    "check-fixture-api-contract": "node tools/check-provider-contract.js --provider=api --api-url=http://127.0.0.1:8089/server/php/location-map-picker-fixture-api.example.php --reverse-lat=14.066 --reverse-lng=122.917 --report=data/provider-contract-fixture-api-report.json",
+    "check-api-contract": "node tools/check-provider-contract.js --provider=api",
+    "check-field-binding": "node tools/check-field-binding.js",
+    "check-auto-mount": "node tools/check-auto-mount.js",
+    "check-live-api": "node tools/check-live-api.js"
   },
   "files": [
     "src",
@@ -49,7 +57,9 @@
     "docs",
     "README.md",
     "examples",
-    "LICENSE"
+    "LICENSE",
+    "db",
+    "server"
   ],
   "keywords": [
     "philippines",

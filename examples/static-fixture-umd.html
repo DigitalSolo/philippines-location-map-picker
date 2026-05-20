@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>PLMP Static Fixture Example</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="/packages/philippines-location-map-picker/dist/location-map-picker.css">
+</head>
+<body>
+  <form id="deliveryAddressForm" method="post" action="/account/address-save.php">
+    <div id="locationPicker"></div>
+    <button type="submit">Save address</button>
+  </form>
+
+  <script src="/packages/philippines-location-map-picker/dist/location-map-picker.umd.js"></script>
+  <script>
+  PhilippinesLocationMapPicker.mountLocationMapPickerField('#locationPicker', {
+    fieldPrefix: 'location',
+    provider: 'static',
+    baseUrl: '/packages/philippines-location-map-picker/data/fixtures/daet',
+    pickerOptions: {
+      map: {
+        defaultCenter: { lat: 14.112, lng: 122.955 },
+        defaultZoom: 12,
+        pinMode: 'centered'
+      },
+      validation: {
+        requiredLocationLevel: 'barangay',
+        requirePin: true
+      }
+    }
+  });
+  </script>
+</body>
+</html>

@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Philippines Location Map Picker Database/API Quick Start</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="/assets/vendor/philippines-location-map-picker/dist/location-map-picker.css">
+</head>
+<body>
+  <form id="deliveryAddressForm" method="post" action="/account/address-save.php">
+    <div id="locationPicker"></div>
+    <button type="submit">Save address</button>
+  </form>
+
+  <script src="/assets/vendor/philippines-location-map-picker/dist/location-map-picker.umd.js"></script>
+  <script>
+  PhilippinesLocationMapPicker.mountLocationMapPickerField('#locationPicker', {
+    fieldPrefix: 'location',
+    provider: 'api',
+    apiUrl: '/api/location-map-picker',
+    pickerOptions: {
+      ui: {
+        theme: 'light',
+        size: 'comfortable',
+        density: 'normal',
+        selectedLabelFormat: 'city_barangay'
+      },
+      validation: {
+        requiredLocationLevel: 'barangay',
+        requirePin: true
+      },
+      map: {
+        defaultCenter: { lat: 12.8797, lng: 121.7740 },
+        defaultZoom: 6,
+        pinMode: 'centered'
+      }
+    }
+  });
+  </script>
+</body>
+</html>

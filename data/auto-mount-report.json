@@ -1,0 +1,14 @@
+{
+  "generated_at": "2026-05-20T08:23:15.688Z",
+  "ok": true,
+  "failures": [],
+  "checked_files": [
+    "src/host/autoMountLocationMapPickers.js",
+    "src/index.js",
+    "src/index.d.ts",
+    "docs/AUTO_MOUNT.md",
+    "examples/auto-mount-umd.html",
+    "demo/auto-mount.html",
+    "demo/auto-mount.js"
+  ]
+}

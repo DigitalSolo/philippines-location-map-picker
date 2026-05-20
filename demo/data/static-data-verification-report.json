@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T10:04:15.164Z",
+  "generatedAt": "2026-05-20T02:21:01.981Z",
   "strict": false,
   "psgcRoot": "data/psgc",
   "geoRoot": "data/geo",
@@ -13,7 +13,7 @@
       "script": "audit-geometry-coverage.js",
       "command": "node tools/audit-geometry-coverage.js --psgc data/psgc --geo data/geo --out data/geo/geometry-coverage-report.json",
       "status": 0,
-      "stdout": "PSGC barangays: 42010\nGeometry barangays: 13\nMissing geometry: 41997\nGeometry without PSGC: 0\nWrote data/geo/geometry-coverage-report.json",
+      "stdout": "PSGC barangays: 42010\nGeometry barangays: 16\nMissing geometry: 41997\nGeometry without PSGC: 3\nWrote data/geo/geometry-coverage-report.json",
       "stderr": "",
       "ok": true
     },
@@ -21,7 +21,7 @@
       "script": "reconcile-psgc-geometry.js",
       "command": "node tools/reconcile-psgc-geometry.js --psgc data/psgc --geo data/geo --out data/geo/psgc-geometry-reconciliation-report.json",
       "status": 0,
-      "stdout": "PSGC barangays: 42010\nGeometry barangays: 13\nExact matches: 3\nCode-format matches: 10\nPSGC without geometry: 41997\nGeometry without PSGC: 0\nPossible renamed/stale geometry: 0\nStale geometry codes: 0\nName mismatches: 0\nComponent gaps: 0\nWrote data/geo/psgc-geometry-reconciliation-report.json",
+      "stdout": "PSGC barangays: 42010\nGeometry barangays: 16\nExact matches: 3\nCode-format matches: 10\nPSGC without geometry: 41997\nGeometry without PSGC: 3\nPossible renamed/stale geometry: 0\nStale geometry codes: 3\nName mismatches: 0\nComponent gaps: 0\nWrote data/geo/psgc-geometry-reconciliation-report.json",
       "stderr": "",
       "ok": true
     },
@@ -29,16 +29,16 @@
       "script": "audit-static-data.js",
       "command": "node tools/audit-static-data.js --psgc data/psgc --geo data/geo --out data/static-data-report.json",
       "status": 0,
-      "stdout": "PSGC regions: 18\nPSGC cities: 1656\nPSGC barangays: 42010\nGeometry bounds rows: 22\nGeometry polygon files: 13\nCoverage level: production-hierarchy-limited-geometry\nProduction broad coverage: no\nWarnings: 0\nWrote data/static-data-report.json",
+      "stdout": "PSGC regions: 18\nPSGC cities: 1656\nPSGC barangays: 42010\nGeometry bounds rows: 22\nGeometry polygon files: 16\nCoverage level: production-hierarchy-limited-geometry\nProduction broad coverage: no\nWarnings: 0\nWrote data/static-data-report.json",
       "stderr": "",
       "ok": true
     }
   ],
   "summary": {
     "psgcBarangays": 42010,
-    "geometryBarangays": 13,
+    "geometryBarangays": 16,
     "missingGeometry": 41997,
-    "geometryWithoutPsgc": 0,
+    "geometryWithoutPsgc": 3,
     "geometryComponentGaps": 0,
     "staticWarnings": 0,
     "coverageLevel": "production-hierarchy-limited-geometry",

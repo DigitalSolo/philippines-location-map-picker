@@ -1,0 +1,25 @@
+{
+  "ok": true,
+  "generated_at": "2026-05-20T08:23:15.964Z",
+  "underscore": {
+    "barangay_id": "delivery_location_barangay_id",
+    "pin_lat": "delivery_location_pin_lat",
+    "pin_lng": "delivery_location_pin_lng",
+    "location_picker_value_json": "delivery_location_location_picker_value_json",
+    "location_picker_validation_json": "delivery_location_location_picker_validation_json"
+  },
+  "bracket": {
+    "barangay_id": "delivery_location[barangay_id]",
+    "pin_lat": "delivery_location[pin_lat]",
+    "pin_lng": "delivery_location[pin_lng]",
+    "location_picker_value_json": "delivery_location[location_picker_value_json]",
+    "location_picker_validation_json": "delivery_location[location_picker_validation_json]"
+  },
+  "explicit": {
+    "barangay_id": "customer_barangay_id",
+    "pin_lat": "delivery_location_pin_lat",
+    "pin_lng": "delivery_location_pin_lng",
+    "location_picker_value_json": "delivery_location_location_picker_value_json",
+    "location_picker_validation_json": "delivery_location_location_picker_validation_json"
+  }
+}

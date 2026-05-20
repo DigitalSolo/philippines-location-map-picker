@@ -5,7 +5,8 @@ import {
   StaticGeometryProvider,
   ArcGisBarangayGeometryProvider,
   CompositeLocationProvider,
-  createStaticLocationProvider
+  createStaticLocationProvider,
+  bindLocationMapPickerForm
 } from '../src/index.js';
 
 const LIVE_HIERARCHY_LABEL = 'PSGC Cloud v2';
@@ -15,6 +16,7 @@ const demoDataUrl = (path) => `${DEMO_DATA_BASE_URL}/${String(path || '').replac
 const MISSING_STATIC_DATA_BASE_URL = new URL('./missing-data', import.meta.url).toString().replace(/\/+$/, '');
 const DEMO_TILE_URL_TEMPLATE = 'https://tile.openstreetmap.org/{z}/{x}/{y}.png';
 const DEMO_TILE_ATTRIBUTION = '© OpenStreetMap contributors';
+const PACKAGE_VERSION = '1.0.67';
 
 const STATIC_HIERARCHY_LABEL = 'Static JSON hierarchy from demo-local data/psgc';
 const STATIC_GEOMETRY_LABEL = 'Static JSON geometry from demo-local data/geo';
@@ -65,16 +67,23 @@ const previewValidity = document.getElementById('previewValidity');
 const sampleSettingsOutput = document.getElementById('sampleSettingsOutput');
 const copySettingsButton = document.getElementById('copySettingsButton');
 const copySettingsStatus = document.getElementById('copySettingsStatus');
+const quickStartHtmlOutput = document.getElementById('quickStartHtmlOutput');
+const copyQuickStartButton = document.getElementById('copyQuickStartButton');
+const quickStartCopyStatus = document.getElementById('quickStartCopyStatus');
 const qaRunnerList = document.getElementById('qaRunnerList');
 const resetQaButton = document.getElementById('resetQaButton');
 const exportQaButton = document.getElementById('exportQaButton');
 const exportQaMarkdownButton = document.getElementById('exportQaMarkdownButton');
 const qaRunnerStatus = document.getElementById('qaRunnerStatus');
+const qaSummaryGrid = document.getElementById('qaSummaryGrid');
+const hardeningSummary = document.getElementById('hardeningSummary');
+const hardeningGrid = document.getElementById('hardeningGrid');
 const coverageSummary = document.getElementById('coverageSummary');
 const coverageGrid = document.getElementById('coverageGrid');
 
 let component = null;
 let provider = null;
+let formBinding = null;
 let activeScenario = null;
 
 const state = {
@@ -121,19 +130,19 @@ const SCENARIOS = {
 
 const QA_STORAGE_KEY = 'philippines-location-map-picker-final-qa-v1';
 const QA_CASES = [
-  { id: 'basic-picker', title: 'Basic picker', scenario: 'basic-picker', actions: 'Open the picker, choose Region V → Camarines Norte → Talisay → Poblacion, save, then validate.', expected: 'The selected label shows Talisay → Poblacion, hidden barangay_id is 051611004, and validation passes.' },
+  { id: 'basic-picker', title: 'Basic picker', scenario: 'basic-picker', actions: 'Open the picker, choose Region V → Camarines Norte → Talisay → Poblacion, save, then validate.', expected: 'The selected label shows Talisay → Poblacion, auto-created barangay_id is 051611004, and validation passes.' },
   { id: 'centered-pin-picker', title: 'Centered pin picker', scenario: 'centered-pin-picker', actions: 'Pan/zoom the map, place a centered pin, then run reverse-fill from pin.', expected: 'The pin stays centered while moving the map and reverse-fill resolves only when the center point is inside cached geometry.' },
-  { id: 'free-pin-picker', title: 'Free pin picker', scenario: 'free-pin-picker', actions: 'Click different map points, drag or replace the pin, then run reverse-fill from pin.', expected: 'The pin follows explicit clicks instead of the map center, and hidden pin fields update after each placement.' },
+  { id: 'free-pin-picker', title: 'Free pin picker', scenario: 'free-pin-picker', actions: 'Click different map points, drag or replace the pin, then run reverse-fill from pin.', expected: 'The pin follows explicit clicks instead of the map center, and auto-created pin fields update after each placement.' },
   { id: 'static-hierarchy-static-geometry', title: 'Static hierarchy + static geometry', scenario: 'static-hierarchy-static-geometry', actions: 'Load the case, select an address, focus the map, and run reverse-fill.', expected: 'The status indicates no runtime third-party hierarchy/geometry calls and all data loads from local /data files.' },
   { id: 'live-hierarchy-live-geometry', title: 'Live hierarchy + live geometry', scenario: 'live-hierarchy-live-geometry', actions: 'Load the case, confirm the warning, select an address, and run a reverse-fill test when the network is available.', expected: 'The status warns that third-party calls are used; failures are visible and do not silently save bad data.' },
-  { id: 'readonly-saved', title: 'Read-only saved address', scenario: 'readonly-saved', actions: 'Try to open, clear, reverse-fill, use browser location, and submit.', expected: 'The saved address is visible, editing actions are locked, and the saved hidden fields remain stable.' },
-  { id: 'disabled-saved', title: 'Disabled saved address', scenario: 'disabled-saved', actions: 'Try every visible control including clear, reverse-fill, saved value, and submit.', expected: 'The component is disabled, cannot be changed, and does not mutate hidden address or pin values.' },
+  { id: 'readonly-saved', title: 'Read-only saved address', scenario: 'readonly-saved', actions: 'Try to open, clear, reverse-fill, use browser location, and submit.', expected: 'The saved address is visible, editing actions are locked, and the saved auto-created fields remain stable.' },
+  { id: 'disabled-saved', title: 'Disabled saved address', scenario: 'disabled-saved', actions: 'Try every visible control including clear, reverse-fill, saved value, and submit.', expected: 'The component is disabled, cannot be changed, and does not mutate auto-created address or pin values.' },
   { id: 'pin-required', title: 'Validation required pin', scenario: 'pin-required', actions: 'Clear the picker, select only an address, validate, then place a pin and validate again.', expected: 'Validation blocks without a pin and passes after both barangay and pin are present.' },
   { id: 'geoip-hint', title: 'GeoIP hint', scenario: 'geoip-hint', actions: 'Run mock GeoIP hint, inspect the status message, then validate or correct the result.', expected: 'The hint resolves to the sample Talisay/Poblacion context and clearly tells the user to confirm or correct it.' },
   { id: 'browser-location-hint', title: 'Browser location hint', scenario: 'browser-location-hint', actions: 'Click Use browser location from localhost/HTTPS, allow or deny permission, and inspect the status.', expected: 'Permission denial, no-match, and resolved states are all visible; the picker never saves silently without user confirmation.' },
-  { id: 'hidden-inputs', title: 'Hidden input form post', scenario: 'hidden-inputs', actions: 'Submit once with the saved value, then clear and submit again.', expected: 'Valid saved data posts through the hidden fields; invalid or missing required data is blocked by the submit guard.' },
+  { id: 'hidden-inputs', title: 'Auto-created form post', scenario: 'hidden-inputs', actions: 'Submit once with the saved value, then clear and submit again.', expected: 'Valid saved data posts through auto-created package fields; invalid or missing required data is blocked by the submit guard.' },
   { id: 'dirty-touched-guard', title: 'Dirty/touched guard', scenario: 'dirty-touched-guard', actions: 'Load saved value, change address or pin, inspect Dirty/Touched cards, then reset dirty baseline.', expected: 'Dirty changes from Clean to Dirty, touched keys identify the changed areas, and reset returns the baseline to Clean.' },
-  { id: 'sample-settings-copy', title: 'Sample settings copy panel', scenario: 'sample-settings-copy', actions: 'Change scenario, provider, density, pin mode, and map size, then copy the sample settings.', expected: 'The generated settings mirror the visible page options and use the /assets/vendor/philippines-location-map-picker path.' }
+  { id: 'sample-settings-copy', title: 'Sample settings copy panel', scenario: 'sample-settings-copy', actions: 'Change scenario, provider, density, pin mode, and map size, then copy the sample settings.', expected: 'The generated settings mirror the visible page options and use the /packages/philippines-location-map-picker path.' }
 ];
 
 
@@ -201,7 +210,7 @@ function currentPickerStarterSettings() {
   const scenario = currentScenario();
   const settings = {
     providerMode: modeSelect.value,
-    dataBaseUrl: '/assets/vendor/philippines-location-map-picker/data',
+    dataBaseUrl: '/packages/philippines-location-map-picker/data',
     disabled: scenario.disabled === true,
     readOnly: scenario.readOnly === true,
     ui: {
@@ -230,7 +239,15 @@ function currentPickerStarterSettings() {
       tileAttribution: DEMO_TILE_ATTRIBUTION,
       ...mapSizeOptions(mapSizeSelect.value)
     },
-    hiddenInputs: hiddenInputSelectors(),
+    formBinding: {
+      fieldNames: {
+        barangay_id: 'barangay_id',
+        pin_lat: 'pin_lat',
+        pin_lng: 'pin_lng',
+        location_picker_value_json: 'location_picker_value_json',
+        location_picker_validation_json: 'location_picker_validation_json'
+      }
+    },
     browserLocation: {
       enabled: scenario.browserLocation === true,
       updateMap: true,
@@ -258,26 +275,83 @@ function stringifyJsObject(value) {
   return JSON.stringify(value, null, 2).replace(/^  "([A-Za-z_$][A-Za-z0-9_$]*)":/gm, '  $1:').replace(/^    "([A-Za-z_$][A-Za-z0-9_$]*)":/gm, '    $1:').replace(/^      "([A-Za-z_$][A-Za-z0-9_$]*)":/gm, '      $1:').replace(/^        "([A-Za-z_$][A-Za-z0-9_$]*)":/gm, '        $1:').replace(/^          "([A-Za-z_$][A-Za-z0-9_$]*)":/gm, '          $1:');
 }
 
-function sampleSettingsSource() {
-  const settings = currentPickerStarterSettings();
+function pickerOptionsSource(settings) {
   const pickerOptions = { ...settings };
   delete pickerOptions.providerMode;
   delete pickerOptions.dataBaseUrl;
-  const optionText = stringifyJsObject(pickerOptions)
+  return stringifyJsObject(pickerOptions)
     .replace(/^\{\n/, '')
     .replace(/\n\}$/, '')
     .trimEnd();
+}
+
+function sampleSettingsSource() {
+  const settings = currentPickerStarterSettings();
+  const optionText = pickerOptionsSource(settings);
   const providerNote = settings.providerMode === 'static'
     ? ''
-    : `// Current demo provider mode is ${settings.providerMode}. Production host pages should still use static/backend-served PSGC and geometry data.\n`;
+    : `// Current demo provider mode is ${settings.providerMode}. For production host pages, prefer static/backend-served PSGC and geometry data.
+`;
 
-  return `${providerNote}import { createStaticLocationMapPicker } from '/assets/vendor/philippines-location-map-picker/dist/location-map-picker.es.js';\n\nconst picker = createStaticLocationMapPicker({\n  mount: document.getElementById('locationPicker'),\n  baseUrl: '${settings.dataBaseUrl}',\n${optionText}\n});`;
+  return `${providerNote}const pickerApi = window.PhilippinesLocationMapPicker;
+if (!pickerApi || typeof pickerApi.mountStaticLocationMapPicker !== 'function') {
+  throw new Error('Philippines Location Map Picker UMD script is not loaded.');
+}
+
+const controller = pickerApi.mountStaticLocationMapPicker({
+  mount: '#locationPicker',
+  baseUrl: '${settings.dataBaseUrl}',
+${optionText}
+});
+
+controller.picker.on('change', function (value) {
+  // Optional: react when the selected address or pin changes.
+  console.log('Location picker changed:', value);
+});`;
+}
+
+function quickStartHtmlSource() {
+  return `<!-- Copy dist/ and data/ to /packages/philippines-location-map-picker/ first. -->
+<link rel="stylesheet" href="/packages/philippines-location-map-picker/dist/location-map-picker.css">
+
+<form id="deliveryAddressForm" method="post" action="/account/address-save.php">
+  <div id="locationPicker"></div>
+  <button type="submit">Save address</button>
+</form>
+
+<script src="/packages/philippines-location-map-picker/dist/location-map-picker.umd.js"></script>
+<script>
+(function () {
+  const pickerApi = window.PhilippinesLocationMapPicker;
+  if (!pickerApi || typeof pickerApi.mountStaticLocationMapPicker !== 'function') {
+    throw new Error('Philippines Location Map Picker UMD script is not loaded.');
+  }
+
+  pickerApi.mountStaticLocationMapPicker({
+    mount: '#locationPicker',
+    baseUrl: '/packages/philippines-location-map-picker/data',
+    validation: {
+      requiredLocationLevel: 'barangay',
+      requirePin: true
+    },
+    map: {
+      defaultCenter: { lat: 12.8797, lng: 121.7740 },
+      defaultZoom: 6,
+      pinMode: 'centered'
+    }
+  });
+})();
+</script>`;
 }
 
 function renderSampleSettings() {
   const settings = currentPickerStarterSettings();
   state.sampleSettings = settings;
   sampleSettingsOutput.textContent = sampleSettingsSource();
+}
+
+function renderQuickStartGuide() {
+  if (quickStartHtmlOutput) quickStartHtmlOutput.textContent = quickStartHtmlSource();
 }
 
 function fallbackCopyText(text) {
@@ -293,21 +367,29 @@ function fallbackCopyText(text) {
   if (!copied) throw new Error('Copy command was not accepted by the browser.');
 }
 
-async function copySampleSettings() {
-  const text = sampleSettingsOutput.textContent || '';
+async function copyTextFromElement(sourceEl, buttonEl, statusEl, copiedMessage) {
+  const text = sourceEl ? sourceEl.textContent || '' : '';
   if (!text.trim()) return;
-  copySettingsButton.disabled = true;
-  copySettingsStatus.textContent = 'Copying...';
+  buttonEl.disabled = true;
+  statusEl.textContent = 'Copying...';
   try {
     if (navigator.clipboard && typeof navigator.clipboard.writeText === 'function') await navigator.clipboard.writeText(text);
     else fallbackCopyText(text);
-    copySettingsStatus.textContent = 'Copied.';
+    statusEl.textContent = copiedMessage || 'Copied.';
   } catch (error) {
-    copySettingsStatus.textContent = error.message || 'Copy failed.';
+    statusEl.textContent = error.message || 'Copy failed.';
   } finally {
-    copySettingsButton.disabled = false;
-    window.setTimeout(() => { copySettingsStatus.textContent = ''; }, 2400);
+    buttonEl.disabled = false;
+    window.setTimeout(() => { statusEl.textContent = ''; }, 2400);
   }
+}
+
+async function copySampleSettings() {
+  return copyTextFromElement(sampleSettingsOutput, copySettingsButton, copySettingsStatus, 'Settings copied.');
+}
+
+async function copyQuickStartHtml() {
+  return copyTextFromElement(quickStartHtmlOutput, copyQuickStartButton, quickStartCopyStatus, 'Quick start HTML copied.');
 }
 
 
@@ -349,6 +431,18 @@ function renderQaRunner() {
   if (!qaRunnerList) return;
   const results = readQaResults();
   state.finalQa = results;
+  const total = QA_CASES.length;
+  const passed = QA_CASES.filter((testCase) => qaResultFor(testCase.id).status === 'pass').length;
+  const failed = QA_CASES.filter((testCase) => qaResultFor(testCase.id).status === 'fail').length;
+  const untested = total - passed - failed;
+  if (qaSummaryGrid) {
+    qaSummaryGrid.innerHTML = [
+      ['Total', total, 'QA cases'],
+      ['Passed', passed, 'marked pass'],
+      ['Failed', failed, 'needs attention'],
+      ['Untested', untested, 'remaining']
+    ].map(([label, value, note]) => `<div class="qa-summary-card"><strong>${label}</strong><span>${value}</span><small>${note}</small></div>`).join('');
+  }
   qaRunnerList.innerHTML = QA_CASES.map((testCase) => {
     const result = qaResultFor(testCase.id);
     const status = result.status || 'untested';
@@ -378,7 +472,7 @@ function resetQaRunner() {
 async function exportQaRunnerJson() {
   const payload = {
     generatedAt: new Date().toISOString(),
-    packageVersion: '1.0.55',
+    packageVersion: PACKAGE_VERSION,
     cases: QA_CASES.map((testCase) => ({ ...testCase, result: qaResultFor(testCase.id) }))
   };
   const text = JSON.stringify(payload, null, 2);
@@ -397,7 +491,7 @@ async function exportQaRunnerMarkdown() {
     '# Philippines Location Map Picker QA Pass',
     '',
     `Generated: ${new Date().toISOString()}`,
-    'Package version: 1.0.55',
+    `Package version: ${PACKAGE_VERSION}`,
     '',
     '| Case | Status | Scenario | Updated |',
     '|---|---:|---|---|'
@@ -417,6 +511,23 @@ async function exportQaRunnerMarkdown() {
     qaRunnerStatus.textContent = error.message || 'Copy failed.';
   }
   window.setTimeout(() => { qaRunnerStatus.textContent = ''; }, 2400);
+}
+
+async function loadHardeningReport() {
+  if (!hardeningSummary || !hardeningGrid) return;
+  try {
+    const response = await fetch(demoDataUrl('production-hardening-report.json'), { headers: { Accept: 'application/json' }, credentials: 'same-origin' });
+    const report = response.ok ? await response.json() : null;
+    const summary = report?.summary || {};
+    hardeningSummary.textContent = report
+      ? `Production hardening report: ${summary.passed || 0}/${summary.total || 0} checks passed.`
+      : 'Production hardening report could not be loaded.';
+    const checks = Array.isArray(report?.checks) ? report.checks : [];
+    hardeningGrid.innerHTML = checks.map((item) => `<div class="coverage-card"><strong>${item.label}</strong><span>${item.pass ? 'Pass' : 'Fail'}</span><small>${item.message}</small></div>`).join('');
+  } catch (error) {
+    hardeningSummary.textContent = error.message || 'Production hardening report could not be loaded.';
+    hardeningGrid.innerHTML = '';
+  }
 }
 
 async function loadStaticCoverage() {
@@ -492,7 +603,7 @@ function makeProvider(mode) {
     return {
       provider: new CompositeLocationProvider({
         hierarchyProvider: new PsgcCloudProvider({ baseUrl: 'https://psgc.cloud/api/v2' }),
-        geometryProvider: new StaticGeometryProvider({ baseUrl: DEMO_DATA_BASE_URL })
+        geometryProvider: new StaticGeometryProvider({ baseUrl: DEMO_DATA_BASE_URL, reverseFallbackToSelectedLocation: true })
       }),
       hierarchyProvider: LIVE_HIERARCHY_LABEL,
       geometryProvider: STATIC_GEOMETRY_LABEL,
@@ -501,11 +612,11 @@ function makeProvider(mode) {
     };
   }
   return {
-    provider: createStaticLocationProvider({ baseUrl: DEMO_DATA_BASE_URL }),
+    provider: createStaticLocationProvider({ baseUrl: DEMO_DATA_BASE_URL, reverseFallbackToSelectedLocation: true }),
     hierarchyProvider: STATIC_HIERARCHY_LABEL,
     geometryProvider: STATIC_GEOMETRY_LABEL,
     runtimeThirdPartyCalls: false,
-    geometryNote: 'Static mode is the production-oriented mode. It uses local hierarchy and local geometry only.'
+    geometryNote: 'Static mode is the no-database mode. API or hybrid mode is preferred for database-backed production apps.'
   };
 }
 
@@ -517,25 +628,37 @@ function setMessage(message, tone = '') {
   statusEl.classList.toggle('is-success', tone === 'success');
 }
 
-function hiddenInputSelectors() {
-  return {
-    regionId: '#hiddenRegionId', regionName: '#hiddenRegionName', provinceId: '#hiddenProvinceId', provinceName: '#hiddenProvinceName', cityId: '#hiddenCityId', cityName: '#hiddenCityName', barangayId: '#hiddenBarangayId', barangayName: '#hiddenBarangayName', label: '#hiddenLabel', pinLat: '#hiddenPinLat', pinLng: '#hiddenPinLng', valueJson: '#hiddenValueJson', locationJson: '#hiddenLocationJson', pinJson: '#hiddenPinJson', geometryJson: '#hiddenGeometryJson', isValid: '#hiddenIsValid', validationJson: '#hiddenValidationJson', isDirty: '#hiddenIsDirty', dirtyJson: '#hiddenDirtyJson', touchedJson: '#hiddenTouchedJson', statusLevel: '#hiddenStatusLevel', statusCode: '#hiddenStatusCode', statusMessage: '#hiddenStatusMessage', statusJson: '#hiddenStatusJson', lastErrorJson: '#hiddenLastErrorJson', debugJson: '#hiddenDebugJson'
-  };
+function readFormFieldValue(name) {
+  if (!demoForm || !demoForm.elements || !demoForm.elements[name]) {
+    return '';
+  }
+  return demoForm.elements[name].value || '';
+}
+
+function parseJsonValue(value, fallback = {}) {
+  try {
+    return value ? JSON.parse(value) : fallback;
+  } catch (error) {
+    return fallback;
+  }
 }
 
 function collectHiddenInputs() {
+  const valueJson = readFormFieldValue('location_picker_value_json');
+  const validationJson = readFormFieldValue('location_picker_validation_json');
+  const value = parseJsonValue(valueJson, {});
+  const validation = parseJsonValue(validationJson, {});
+  const location = value.location || {};
+  const pin = value.pin || null;
+
   return {
-    region_id: document.getElementById('hiddenRegionId').value,
-    province_id: document.getElementById('hiddenProvinceId').value,
-    city_id: document.getElementById('hiddenCityId').value,
-    barangay_id: document.getElementById('hiddenBarangayId').value,
-    label: document.getElementById('hiddenLabel').value,
-    pin_lat: document.getElementById('hiddenPinLat').value,
-    pin_lng: document.getElementById('hiddenPinLng').value,
-    is_valid: document.getElementById('hiddenIsValid').value,
-    is_dirty: document.getElementById('hiddenIsDirty').value,
-    validation_json: document.getElementById('hiddenValidationJson').value,
-    value_json: document.getElementById('hiddenValueJson').value
+    barangay_id: readFormFieldValue('barangay_id') || location.barangay_id || '',
+    label: location.display_label || location.label || '',
+    pin_lat: readFormFieldValue('pin_lat') || (pin ? String(pin.lat) : ''),
+    pin_lng: readFormFieldValue('pin_lng') || (pin ? String(pin.lng) : ''),
+    is_valid: validation.valid === true ? '1' : '0',
+    validation_json: validationJson,
+    value_json: valueJson
   };
 }
 
@@ -562,6 +685,7 @@ function renderQaState() {
 
 function renderOutput() {
   renderSampleSettings();
+  renderQuickStartGuide();
   if (component) renderQaState();
   output.textContent = JSON.stringify(state, null, 2);
 }
@@ -606,6 +730,8 @@ async function initializeDemo(mode) {
   resetState(mode, providerInfo);
   setMessage('Loading provider mode...');
   renderOutput();
+  if (formBinding && typeof formBinding.destroy === 'function') formBinding.destroy();
+  formBinding = null;
   if (component && typeof component.destroy === 'function') component.destroy();
   component = null;
   componentMount.innerHTML = '';
@@ -615,7 +741,6 @@ async function initializeDemo(mode) {
     disabled: scenario.disabled === true,
     readOnly: scenario.readOnly === true,
     initialValue: scenario.initialValue ? clone(scenario.initialValue) : null,
-    hiddenInputs: hiddenInputSelectors(),
     ui: { displayMode: displayModeSelect.value, theme: themeSelect.value, size: sizeSelect.value, density: densitySelect.value, selectedLabelFormat: 'city_barangay', className: 'demo-location-instance', triggerLabel: 'Philippines address', emptyLabel: 'Select City → Barangay', title: 'Select address location', subtitle: 'Choose Region, Province if applicable, City/Municipality, then Barangay.', showDebugPanel: debugModeSelect.value === 'on' },
     location: { requiredLevel: 'barangay' },
     validation: { requiredLocationLevel: 'barangay', requirePin: scenario.requirePin === true },
@@ -623,7 +748,19 @@ async function initializeDemo(mode) {
     geoIp: { enabled: scenario.geoIp === true, lookup: mockGeoIpLookup, updateMap: true, setPin: false, mapZoom: 13, backfill: { enabled: true, maxLevel: 'barangay', allowCity: true, allowBarangay: true, reverseGeocode: true }, confidence: { requireCountry: 'PH', minimumAccuracyLevel: 'city' } },
     browserLocation: { enabled: scenario.browserLocation === true, updateMap: true, setPin: false, backfill: { enabled: true, maxLevel: 'barangay', reverseGeocode: true } }
   });
-  component.on('change', (value) => { state.value = value; renderOutput(); });
+  formBinding = bindLocationMapPickerForm({
+    form: demoForm,
+    picker: component,
+    focusOnBlocked: true,
+    onResult: (result) => {
+      state.formSubmitResult = result;
+    }
+  });
+  component.on('change', (value) => {
+    state.value = value;
+    if (formBinding && typeof formBinding.updatePayload === 'function') formBinding.updatePayload();
+    renderOutput();
+  });
   component.on('busychange', ({ busy, reason }) => { updateActionButtons(busy); document.body.classList.toggle('demo-is-busy', busy); if (busy && reason) setMessage(reason); renderOutput(); });
   component.on('dirtychange', () => renderOutput());
   component.on('statuschange', (status) => { if (status.message) setMessage(status.message, status.level === 'error' ? 'error' : status.level === 'warning' ? 'warning' : status.level === 'success' ? 'success' : ''); renderOutput(); });
@@ -636,6 +773,7 @@ async function initializeDemo(mode) {
   try {
     await component.ready;
     state.value = component.value();
+    if (formBinding && typeof formBinding.updatePayload === 'function') formBinding.updatePayload();
     const runtimeNote = providerInfo.runtimeThirdPartyCalls ? ' This mode makes third-party calls.' : ' No runtime third-party hierarchy/geometry calls are used.';
     const scenarioNote = scenario.disabled ? ' Disabled saved-address mode is active.' : scenario.readOnly ? ' Read-only saved-address mode is active.' : scenario.requirePin ? ' Pin is required for validation.' : '';
     setMessage(`Ready in ${mode} mode.${runtimeNote}${scenarioNote}`, providerInfo.runtimeThirdPartyCalls ? 'warning' : '');
@@ -645,7 +783,7 @@ async function initializeDemo(mode) {
 }
 
 async function requestBrowserLocation() { const payload = await component.requestBrowserLocation(true); state.value = payload ? payload.value : component.value(); renderOutput(); }
-async function reverseFillFromPin() { const value = await component.reverseFillFromPin(true); if (!value) { setMessage('No cached barangay boundary matched that pin. The saved address was not changed. move the pin inside cached geometry or expand the static geometry cache.', 'warning'); state.value = component.value(); renderOutput(); return; } state.value = value; setMessage(`Reverse-fill matched using ${value.geometry.reverse_match.match_quality || 'geometry'}.`, 'success'); renderOutput(); }
+async function reverseFillFromPin() { const value = await component.reverseFillFromPin(true); if (!value) { setMessage('Static reverse-fill could not match this pin to cached barangay geometry. Select the barangay manually, keep the pin, or add geometry coverage for this area.', 'warning'); state.value = component.value(); renderOutput(); return; } state.value = value; setMessage(`Reverse-fill matched using ${value.geometry.reverse_match.match_quality || 'geometry'}.`, 'success'); renderOutput(); }
 async function runGeoIpHint() { const payload = await component.resolveGeoIpHint(true); state.value = payload ? payload.value : component.value(); renderOutput(); }
 function runValidation() { const validation = component.validate(); if (validation.valid) setMessage('Validation passed.', 'success'); else setMessage(`Validation failed: ${validation.messages.join(' ')}`, 'warning'); renderOutput(); }
 async function loadSavedValue() { await component.setValue(clone(SAVED_VALUE), true, { resetDirty: true }); setMessage('Saved value loaded and dirty baseline reset.', 'success'); renderOutput(); }
@@ -667,6 +805,7 @@ savedValueButton.addEventListener('click', () => { loadSavedValue().catch((error
 resetDirtyButton.addEventListener('click', resetDirtyBaseline);
 clearButton.addEventListener('click', clearPicker);
 copySettingsButton.addEventListener('click', () => { copySampleSettings().catch((error) => { copySettingsStatus.textContent = error.message || 'Copy failed.'; }); });
+copyQuickStartButton.addEventListener('click', () => { copyQuickStartHtml().catch((error) => { quickStartCopyStatus.textContent = error.message || 'Copy failed.'; }); });
 qaRunnerList.addEventListener('click', (event) => {
   const target = event.target instanceof HTMLElement ? event.target : null;
   if (!target) return;
@@ -682,5 +821,6 @@ exportQaButton.addEventListener('click', () => { exportQaRunnerJson().catch((err
 if (exportQaMarkdownButton) exportQaMarkdownButton.addEventListener('click', () => { exportQaRunnerMarkdown().catch((error) => { qaRunnerStatus.textContent = error.message || 'Copy failed.'; }); });
 demoForm.addEventListener('submit', simulateSubmit);
 renderQaRunner();
+loadHardeningReport().catch(() => {});
 loadStaticCoverage().catch(() => {});
 initializeDemo(modeSelect.value);

@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Philippines Address Picker — Drop-in Example</title>
+  <style>
+    body{font-family:system-ui,-apple-system,"Segoe UI",sans-serif;margin:0;background:#f3f5f7;color:#17202a}
+    main{max-width:820px;margin:40px auto;padding:0 16px}
+    .card{background:#fff;border:1px solid #d9dee5;border-radius:14px;padding:20px}
+    h1{font-size:22px;margin:0 0 8px}.lead{color:#66717d;margin:0 0 20px}
+    button[type=submit]{margin-top:16px;border:0;border-radius:8px;padding:10px 16px;font:600 14px system-ui;background:#17202a;color:#fff;cursor:pointer}
+    pre{white-space:pre-wrap;background:#111827;color:#e5e7eb;padding:14px;border-radius:10px;min-height:80px;overflow:auto}
+  </style>
+  <script src="dist/philippines-address-picker.js" defer></script>
+</head>
+<body>
+<main>
+  <div class="card">
+    <h1>Shipping address</h1>
+    <p class="lead">No framework, API key, map library, or runtime PSA token is required. “Use my current location” can match GPS results back to PSGC; verify the detected address before saving.</p>
+    <form id="demo-form">
+      <div data-ph-address-picker data-prefix="shipping" data-title="Philippine address"></div>
+      <button type="submit">Validate &amp; show payload</button>
+    </form>
+    <h2>Submitted payload</h2>
+    <pre id="payload">Fill the address and submit the form.</pre>
+  </div>
+</main>
+<script>
+  document.getElementById('demo-form').addEventListener('submit', function (event) {
+    event.preventDefault();
+    var picker = PhilippinesAddressPicker.mount(document.querySelector('[data-ph-address-picker]'));
+    var result = picker.validate();
+    if (result.valid) document.getElementById('payload').textContent = JSON.stringify(result.value, null, 2);
+  });
+</script>
+</body>
+</html>

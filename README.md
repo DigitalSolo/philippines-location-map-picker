@@ -1,125 +1,133 @@
-# Philippines Location Map Picker
+# Philippines Address Picker v2
 
-A reusable Philippine location picker with map pin placement, PSGC hierarchy selection, and optional barangay-boundary reverse lookup.
+A dependency-free Philippine address form component backed by bundled PSA PSGC data.
 
+## Install
 
-## Auto mount quick start
-
-For the simplest host-page integration, mark one element with `data-location-map-picker` and call the auto-mounter. The picker binds to the nearest form and creates its hidden submit fields automatically.
-
-```html
-<form method="post">
-  <div
-    data-location-map-picker
-    data-provider="api"
-    data-api-url="/api/location-map-picker"
-    data-field-prefix="delivery_location"
-    data-required-location-level="barangay"
-    data-require-pin="true"
-  ></div>
-
-  <button type="submit">Save</button>
-</form>
-
-<link rel="stylesheet" href="/packages/philippines-location-map-picker/dist/location-map-picker.css">
-<script src="/packages/philippines-location-map-picker/dist/location-map-picker.umd.js"></script>
-<script>
-  PhilippinesLocationMapPicker.autoMountLocationMapPickers();
-</script>
-```
-
-See `docs/AUTO_MOUNT.md` and `examples/auto-mount-umd.html`.
-
-## Quick start
+Copy this folder to your website without changing the `dist/` and `data/` relationship, then add:
 
 ```html
-<form method="post" action="/save-address.php">
-  <div id="locationPicker"></div>
-  <button type="submit">Save address</button>
-</form>
-
-<link rel="stylesheet" href="/packages/philippines-location-map-picker/dist/location-map-picker.css">
-<script src="/packages/philippines-location-map-picker/dist/location-map-picker.umd.js"></script>
-<script>
-PhilippinesLocationMapPicker.mountLocationMapPickerField('#locationPicker', {
-  fieldPrefix: 'delivery_location',
-  provider: 'static',
-  baseUrl: '/packages/philippines-location-map-picker/data'
-});
-</script>
+<script src="/path/to/philippines-address-picker-v2/dist/philippines-address-picker.js" defer></script>
+<div data-ph-address-picker></div>
 ```
 
-The mount element is the only required form markup. Hidden submit fields are created automatically.
+That is enough. The script automatically loads its CSS and the local PSGC data files.
 
-## Provider modes
+No framework, API key, map library, or initialization code is required.
 
-- `static`: sharded JSON hierarchy and optional static geometry.
-- `api`: host API backed by MariaDB or another datastore.
-- `hybrid`: static dropdown hierarchy plus API/database reverse lookup.
 
-See `docs/PROVIDER_MODES.md` and `docs/STATIC_FIXTURES.md`.
+## Test locally with the built-in server
 
-## Database support
+The package includes a dependency-free Node.js test server. No Apache, PHP, Vite, or `npm install` is required.
 
-The package includes reusable PHP/MariaDB support files under `server/php/`:
-
-- `LocationMapPickerDatabaseAdapter.php`
-- `location-map-picker-db-api.example.php`
-- `sync-location-direct.php`
-- `export-location-map-picker-static-fixtures.php`
-
-The browser package does not connect directly to MariaDB. Host projects expose a small JSON API and point PLMP to it with `apiUrl`.
-
-## No-database testing
-
-The package includes a small Daet fixture under `data/fixtures/daet/` so PLMP can be tested without attaching the package to MariaDB or exporting a 550 MB location database.
-
-- `demo/fixtures.html` runs the picker from static fixture JSON.
-- `server/php/location-map-picker-fixture-api.example.php` exposes the same API contract from fixture JSON.
-- `examples/static-fixture-umd.html` and `examples/api-fixture-umd.html` show both paths.
-
-The fixture geometry is for smoke testing only. Production reverse lookup should use `LocationMapPickerDatabaseAdapter.php` with `location_barangay_geometries`.
-
-## Provider QA
-
-Use the provider QA tools when you need to test PLMP without attaching the package to a full host database export.
-
-```cmd
-npm run check-provider-contract
-```
-
-For the fixture API:
-
-```cmd
-npm run serve-fixture-api
-npm run check-fixture-api-contract
-```
-
-The browser QA page is available at:
+On Windows, double-click:
 
 ```text
-/demo/provider-qa.html
+start-server.bat
 ```
 
-See `docs/PROVIDER_QA.md` for the static, API, and hybrid test workflow.
+It starts the server and opens:
 
-
-## API diagnostics
-
-For database/API mode, open `demo/api-diagnostics.html` and paste the host project API URL. It checks table counts, geometry coverage, schema compatibility, missing-geometry rows, search, and reverse pin matching before the picker is embedded into a real form.
-
-See `docs/API_DIAGNOSTICS.md`.
-
-
-## Live API contract check
-
-When PLMP is wired to a real host application database, use the live API checker before embedding the picker into a production form.
-
-```cmd
-npm run check-live-api -- --api-url=http://127.0.0.1/api/location-map-picker --reverse-lat=14.112233 --reverse-lng=122.955667 --city-id=0516030
+```text
+http://127.0.0.1:5173/example.html
 ```
 
-This writes `data/live-api-contract-report.json` and validates hierarchy endpoints, schema compatibility, geometry coverage, and optional reverse pin matching.
+Or from Command Prompt / PowerShell in this folder:
 
-See `docs/LIVE_API_CONTRACT.md`.
+```text
+npm run dev
+```
 
+Press `Ctrl+C` in the server window when you are finished.
+
+## What it collects
+
+- House/building and street
+- Subdivision / sitio / purok / landmark (optional)
+- Region
+- Province, independent/highly urbanized city, or special administrative area
+- City/municipality where applicable
+- Manila district/submunicipality where applicable
+- Barangay
+- Postal / ZIP code (optional, stored as text)
+- Browser coordinates and current-location PSGC autofill (optional)
+- PSGC codes and display names
+- A complete JSON payload
+
+The bundled administrative dataset is PSGC 2Q 2026, as of 30 June 2026.
+
+## Forms
+
+Placed inside a `<form>`, the component writes normal named form inputs. It validates required administrative fields before submission.
+
+Use a prefix when a page has more than one address:
+
+```html
+<div data-ph-address-picker data-prefix="shipping"></div>
+<div data-ph-address-picker data-prefix="billing"></div>
+```
+
+This produces names such as `shipping_address_line1`, `shipping_barangay_psgc`, and `shipping_address_json`.
+
+## Options
+
+Most websites only need the two-line install. Optional data attributes include:
+
+```html
+<div
+  data-ph-address-picker
+  data-prefix="shipping"
+  data-title="Shipping address"
+  data-required="true"
+  data-require-line1="true"
+  data-require-postal-code="false"
+  data-geolocation="true"
+  data-compact="false">
+</div>
+```
+
+`data-geolocation="true"` shows a **Use my current location** button. On a secure page (HTTPS, `localhost`, or `127.0.0.1`) it:
+
+1. asks the browser for the device's current coordinates;
+2. performs a client-side place lookup; and
+3. conservatively matches the returned names back to the bundled PSGC hierarchy.
+
+By default the client-side lookup uses BigDataCloud's free browser reverse-geocoding endpoint. No API key is required. The component only auto-selects PSGC levels that match; uncertain levels stay unselected for the user to verify. It never invents a house/street address from GPS.
+
+To capture coordinates **without** sending them to a reverse-geocoding provider:
+
+```html
+<div data-ph-address-picker data-location-lookup-provider="none"></div>
+```
+
+Or disable current-location autofill while keeping the button:
+
+```html
+<div data-ph-address-picker data-auto-fill-current-location="false"></div>
+```
+
+When the default BigDataCloud lookup is enabled, clicking the button sends the browser-provided current coordinates directly from that browser to BigDataCloud. Review its current free-client API/fair-use and privacy terms before deploying on a public site. You can also provide your own `locationLookup` JavaScript function instead.
+
+## JavaScript API
+
+```js
+const picker = PhilippinesAddressPicker.mount('#address', {
+  prefix: 'shipping'
+});
+
+await picker.ready;
+console.log(picker.value());
+console.log(picker.validate());
+```
+
+Available methods include `value()`, `setValue()`, `validate()`, `geolocate()`, `clearCoordinates()`, and `destroy()`. `geolocate()` now returns the browser position plus lookup/match information when available.
+
+The element emits `ph-address-change` whenever its value changes.
+
+## Accuracy model
+
+Administrative names and PSGC codes are constrained by the bundled official hierarchy. Street/building details remain user-entered because PSGC is not a street-address database. Current-location lookup is an assistive shortcut: the returned place names are reconciled against the bundled PSGC list, and the user should verify the result. Coordinates remain supporting metadata rather than a substitute for the administrative address.
+
+This avoids the main failure mode of the original map-first component: nationwide pin-to-barangay reverse matching was not backed by nationwide barangay boundary geometry.
+
+See `example.html` for a working form example. Serve the folder over HTTP(S); browsers normally do not allow the JSON fetches from arbitrary `file://` paths.

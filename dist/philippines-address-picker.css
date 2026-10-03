@@ -1,0 +1,33 @@
+.ph-address-picker-host{display:block;max-width:100%}
+.ph-address-picker{--ph-border:#d7dce2;--ph-text:#18212b;--ph-muted:#66717d;--ph-bg:#fff;--ph-soft:#f6f8fa;--ph-focus:#2563eb;box-sizing:border-box;color:var(--ph-text);font:14px/1.4 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:var(--ph-bg);border:1px solid var(--ph-border);border-radius:12px;padding:16px}
+.ph-address-picker *{box-sizing:border-box}
+.ph-address-picker [hidden]{display:none!important}
+.ph-address__title{font-size:16px;font-weight:700;margin:0 0 14px}
+.ph-address__grid{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:12px 14px}
+.ph-address__span-2{grid-column:1/-1}
+.ph-address__admin-grid{grid-column:1/-1;display:grid;grid-template-columns:minmax(165px,1.25fr) minmax(155px,1.05fr) minmax(155px,1fr) minmax(145px,.95fr) minmax(88px,.52fr);gap:12px 10px;align-items:end}
+.ph-address__admin-grid.has-district{grid-template-columns:minmax(150px,1.15fr) minmax(145px,1fr) minmax(145px,.95fr) minmax(115px,.72fr) minmax(135px,.9fr) minmax(82px,.48fr)}
+.ph-address__field{display:flex;flex-direction:column;gap:5px;min-width:0;font-weight:600}
+.ph-address__field span{display:block}
+.ph-address__field em{font-style:normal;font-weight:400;color:var(--ph-muted);font-size:12px}
+.ph-address__field b{color:#b42318}
+.ph-address__field input,.ph-address__field select{width:100%;min-height:40px;border:1px solid var(--ph-border);border-radius:8px;background:#fff;color:var(--ph-text);padding:8px 10px;font:inherit;outline:none}
+.ph-address__field input:focus,.ph-address__field select:focus{border-color:var(--ph-focus);box-shadow:0 0 0 3px rgba(37,99,235,.13)}
+.ph-address__field input[aria-invalid=true],.ph-address__field select[aria-invalid=true]{border-color:#b42318}
+.ph-address__field select:disabled{background:var(--ph-soft);color:#8b949e;cursor:not-allowed}
+.ph-address__location{display:flex;align-items:center;gap:10px;flex-wrap:wrap;border-top:1px solid var(--ph-border);margin-top:14px;padding-top:12px}
+.ph-address__geo{border:1px solid var(--ph-border);background:var(--ph-soft);color:var(--ph-text);border-radius:8px;min-height:36px;padding:7px 11px;font:600 13px/1.2 inherit;cursor:pointer}
+.ph-address__geo:hover{background:#eef2f6}.ph-address__geo:disabled{opacity:.55;cursor:wait}
+.ph-address__coord{font-size:12px;color:var(--ph-muted)}
+.ph-address__status{min-height:19px;margin-top:8px;font-size:12px;color:var(--ph-muted)}
+.ph-address__status[data-level=error]{color:#b42318}.ph-address__status[data-level=success]{color:#18794e}.ph-address__status[data-level=warning]{color:#8a5a00}.ph-address__status[data-level=info]{color:#35536f}
+.ph-address-picker.is-busy{opacity:.88}
+.ph-address--compact{padding:12px}.ph-address--compact .ph-address__grid{gap:9px 11px}.ph-address--compact .ph-address__field input,.ph-address--compact .ph-address__field select{min-height:36px;padding:6px 8px}
+@media(max-width:1050px){.ph-address__admin-grid,.ph-address__admin-grid.has-district{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:680px){.ph-address-picker{padding:12px}.ph-address__grid{grid-template-columns:1fr}.ph-address__span-2{grid-column:auto}.ph-address__admin-grid,.ph-address__admin-grid.has-district{grid-template-columns:1fr}}
+@media(prefers-color-scheme:dark){.ph-address-picker[data-theme=auto]{--ph-border:#39424e;--ph-text:#edf2f7;--ph-muted:#a8b1bd;--ph-bg:#151a20;--ph-soft:#20262d}.ph-address-picker[data-theme=auto] .ph-address__field input,.ph-address-picker[data-theme=auto] .ph-address__field select{background:#171d23;color:var(--ph-text)}}
+
+.ph-address__auto-menu{position:fixed;z-index:2147483000;overflow:auto;padding:4px;background:var(--ph-bg);border:1px solid var(--ph-border);border-radius:8px;box-shadow:0 12px 28px rgba(0,0,0,.18)}
+.ph-address__auto-option{display:block;width:100%;border:0;border-radius:6px;background:transparent;color:var(--ph-text);padding:8px 10px;text-align:left;font:inherit;cursor:pointer}
+.ph-address__auto-option:hover,.ph-address__auto-option:focus{background:var(--ph-soft);outline:none}
+.ph-address__auto-option[aria-selected=true]{font-weight:700}
